@@ -6,7 +6,7 @@ from transformers import BertModel, BertConfig
 from transformers import BertTokenizer
 from torch.nn.init import xavier_uniform_
 
-from models.encoder import TransformerInterEncoder, Classifier, RNNEncoder
+from models.encoder import TransformerInterEncoder, TransformerInterEncoderQA, Classifier, RNNEncoder
 from models.optimizers import Optimizer
 
 
@@ -77,45 +77,45 @@ class BertBaseline(nn.Module):
         return top_vec
 
 
-class Summarizer(nn.Module):
-    def __init__(self, args, device, load_pretrained_bert = False, bert_config = None):
-        super(Summarizer, self).__init__()
-        self.args = args
-        self.device = device
-        self.bert = Bert(args.temp_dir, load_pretrained_bert, bert_config)
-        if (args.encoder == 'classifier'):
-            self.encoder = Classifier(self.bert.model.config.hidden_size)
-        elif(args.encoder=='transformer'):
-            self.encoder = TransformerInterEncoder(self.bert.model.config.hidden_size, args.ff_size, args.heads,
-                                                   args.dropout, args.inter_layers)
-        elif(args.encoder=='rnn'):
-            self.encoder = RNNEncoder(bidirectional=True, num_layers=1,
-                                      input_size=self.bert.model.config.hidden_size, hidden_size=args.rnn_size,
-                                      dropout=args.dropout)
-        elif (args.encoder == 'baseline'):
-            bert_config = BertConfig(self.bert.model.config.vocab_size, hidden_size=args.hidden_size,
-                                     num_hidden_layers=6, num_attention_heads=8, intermediate_size=args.ff_size)
-            self.bert.model = BertModel(bert_config)
-            self.encoder = Classifier(self.bert.model.config.hidden_size)
+# class Summarizer(nn.Module):
+#     def __init__(self, args, device, load_pretrained_bert = False, bert_config = None):
+#         super(Summarizer, self).__init__()
+#         self.args = args
+#         self.device = device
+#         self.bert = Bert(args.temp_dir, load_pretrained_bert, bert_config)
+#         if (args.encoder == 'classifier'):
+#             self.encoder = Classifier(self.bert.model.config.hidden_size)
+#         elif(args.encoder=='transformer'):
+#             self.encoder = TransformerInterEncoder(self.bert.model.config.hidden_size, args.ff_size, args.heads,
+#                                                    args.dropout, args.inter_layers)
+#         elif(args.encoder=='rnn'):
+#             self.encoder = RNNEncoder(bidirectional=True, num_layers=1,
+#                                       input_size=self.bert.model.config.hidden_size, hidden_size=args.rnn_size,
+#                                       dropout=args.dropout)
+#         elif (args.encoder == 'baseline'):
+#             bert_config = BertConfig(self.bert.model.config.vocab_size, hidden_size=args.hidden_size,
+#                                      num_hidden_layers=6, num_attention_heads=8, intermediate_size=args.ff_size)
+#             self.bert.model = BertModel(bert_config)
+#             self.encoder = Classifier(self.bert.model.config.hidden_size)
 
-        if args.param_init != 0.0:
-            for p in self.encoder.parameters():
-                p.data.uniform_(-args.param_init, args.param_init)
-        if args.param_init_glorot:
-            for p in self.encoder.parameters():
-                if p.dim() > 1:
-                    xavier_uniform_(p)
+#         if args.param_init != 0.0:
+#             for p in self.encoder.parameters():
+#                 p.data.uniform_(-args.param_init, args.param_init)
+#         if args.param_init_glorot:
+#             for p in self.encoder.parameters():
+#                 if p.dim() > 1:
+#                     xavier_uniform_(p)
 
-        self.to(device)
-    def load_cp(self, pt):
-        self.load_state_dict(pt['model'], strict=True)
+#         self.to(device)
+#     def load_cp(self, pt):
+#         self.load_state_dict(pt['model'], strict=True)
 
-    def forward(self, x, segs, clss, mask, mask_cls, sentence_range=None):
-        top_vec = self.bert(x, segs, mask)
-        sents_vec = top_vec[torch.arange(top_vec.size(0)).unsqueeze(1), clss]
-        sents_vec = sents_vec * mask_cls[:, :, None].float()
-        sent_scores = self.encoder(sents_vec, mask_cls).squeeze(-1)
-        return sent_scores, mask_cls
+#     def forward(self, x, segs, clss, mask, mask_cls, sentence_range=None):
+#         top_vec = self.bert(x, segs, mask)
+#         sents_vec = top_vec[torch.arange(top_vec.size(0)).unsqueeze(1), clss]
+#         sents_vec = sents_vec * mask_cls[:, :, None].float()
+#         sent_scores = self.encoder(sents_vec, mask_cls).squeeze(-1)
+#         return sent_scores, mask_cls
 
 
 class SummarizerBaseline(nn.Module):
@@ -156,3 +156,85 @@ class SummarizerProposed(nn.Module):
         sents_vec = sents_vec * mask_cls[:, :, None].float()
         sent_scores = self.encoder(sents_vec, mask_cls).squeeze(-1)
         return sent_scores, mask_cls
+
+class SummarizerProposedSigmoid(nn.Module):
+    def __init__(self, args, device, load_pretrained_bert = False, bert_config = None):
+        super(SummarizerProposedSigmoid, self).__init__()
+        self.args = args
+        self.device = device
+        self.bert = Bert(args.temp_dir, load_pretrained_bert, bert_config)
+        self.encoder = Classifier(self.bert.model.config.hidden_size)
+        self.to(device)
+
+    def load_cp(self, pt):
+        self.load_state_dict(pt['model'], strict=True)
+
+    def forward(self, x, segs, clss, mask, mask_cls, sentence_range=None):
+        top_vec = self.bert(x, segs, mask)
+        sents_vec = top_vec[torch.arange(top_vec.size(0)).unsqueeze(1), clss]
+        sents_vec = sents_vec * mask_cls[:, :, None].float()
+        sent_scores = self.encoder(sents_vec, mask_cls).squeeze(-1)
+        return sent_scores, mask_cls
+
+class SummarizerBaselineQA(nn.Module):
+    def __init__(self, args, device, load_pretrained_bert = False, bert_config = None):
+        super(SummarizerBaselineQA, self).__init__()
+        self.args = args
+        self.device = device
+        self.bert = BertBaseline(args.temp_dir, load_pretrained_bert, bert_config)
+        # self.encoder = Classifier(self.bert.model.config.hidden_size)
+        self.qa_outputs = nn.Linear(self.bert.model.config.hidden_size, 2)
+        self.to(device)
+
+    def load_cp(self, pt):
+        self.load_state_dict(pt['model'], strict=True)
+
+    def forward(self, x, segs, clss, mask, mask_cls, sentence_range=None):
+        top_vec = self.bert(x, segs, mask)
+        sents_vec = top_vec[torch.arange(top_vec.size(0)).unsqueeze(1), clss]
+        sents_vec = sents_vec * mask_cls[:, :, None].float()
+        # sent_scores = self.encoder(sents_vec, mask_cls).squeeze(-1)
+        logits = self.qa_outputs(sents_vec)
+        return logits, mask_cls
+
+class SummarizerProposedQA(nn.Module):
+    def __init__(self, args, device, load_pretrained_bert = False, bert_config = None):
+        super(SummarizerProposedQA, self).__init__()
+        self.args = args
+        self.device = device
+        self.bert = Bert(args.temp_dir, load_pretrained_bert, bert_config)
+        self.qa_outputs = nn.Linear(self.bert.model.config.hidden_size, 2)
+        self.to(device)
+
+    def load_cp(self, pt):
+        self.load_state_dict(pt['model'], strict=True)
+
+    def forward(self, x, segs, clss, mask, mask_cls, sentence_range=None):
+        top_vec = self.bert(x, segs, mask)
+        sents_vec = top_vec[torch.arange(top_vec.size(0)).unsqueeze(1), clss]
+        sents_vec = sents_vec * mask_cls[:, :, None].float()
+        # sent_scores = self.encoder(sents_vec, mask_cls).squeeze(-1)
+        logits = self.qa_outputs(sents_vec)
+        return logits, mask_cls
+
+class SummarizerProposedTransformerQA(nn.Module):
+    def __init__(self, args, device, load_pretrained_bert = False, bert_config = None):
+        super(SummarizerProposedTransformerQA, self).__init__()
+        self.args = args
+        self.device = device
+        self.bert = Bert(args.temp_dir, load_pretrained_bert, bert_config)
+        # self.qa_outputs = nn.Linear(self.bert.model.config.hidden_size, 2)
+        self.qa_outputs = TransformerInterEncoderQA(self.bert.model.config.hidden_size, args.ff_size, args.heads,
+                                                   args.dropout, args.inter_layers)
+        self.to(device)
+
+    def load_cp(self, pt):
+        self.load_state_dict(pt['model'], strict=True)
+
+    def forward(self, x, segs, clss, mask, mask_cls, sentence_range=None):
+        top_vec = self.bert(x, segs, mask)
+        sents_vec = top_vec[torch.arange(top_vec.size(0)).unsqueeze(1), clss]
+        sents_vec = sents_vec * mask_cls[:, :, None].float()
+        # sent_scores = self.encoder(sents_vec, mask_cls).squeeze(-1)
+        logits = self.qa_outputs(sents_vec, mask_cls)
+        return logits, mask_cls

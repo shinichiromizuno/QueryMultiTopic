@@ -18,7 +18,7 @@ from transformers import BertConfig
 import distributed
 from models import data_loader, model_builder
 from models.data_loader import load_dataset
-from models.model_builder import Summarizer, SummarizerBaseline, SummarizerProposed
+from models.model_builder import SummarizerBaseline, SummarizerProposed, SummarizerProposedSigmoid, SummarizerBaselineQA, SummarizerProposedQA, SummarizerProposedTransformerQA
 from models.trainer import build_trainer
 from others.logging import logger, init_logger
 
@@ -118,81 +118,81 @@ class ErrorHandler(object):
 
 
 
-def wait_and_validate(args, device_id):
+# def wait_and_validate(args, device_id):
 
-    timestep = 0
-    if (args.test_all):
-        cp_files = sorted(glob.glob(os.path.join(args.model_path, 'model_step_*.pt')))
-        cp_files.sort(key=os.path.getmtime)
-        xent_lst = []
-        for i, cp in enumerate(cp_files):
-            step = int(cp.split('.')[-2].split('_')[-1])
-            xent = validate(args,  device_id, cp, step)
-            xent_lst.append((xent, cp))
-            max_step = xent_lst.index(min(xent_lst))
-            if (i - max_step > 10):
-                break
-        xent_lst = sorted(xent_lst, key=lambda x: x[0])[:3]
-        logger.info('PPL %s' % str(xent_lst))
-        for xent, cp in xent_lst:
-            print(f'cp:{cp}')
-            step = int(cp.split('.')[-2].split('_')[-1])
-            test(args,  device_id, cp, step)
-    else:
-        while (True):
-            cp_files = sorted(glob.glob(os.path.join(args.model_path, 'model_step_*.pt')))
-            cp_files.sort(key=os.path.getmtime)
-            if (cp_files):
-                cp = cp_files[-1]
-                time_of_cp = os.path.getmtime(cp)
-                if (not os.path.getsize(cp) > 0):
-                    time.sleep(60)
-                    continue
-                if (time_of_cp > timestep):
-                    timestep = time_of_cp
-                    step = int(cp.split('.')[-2].split('_')[-1])
-                    validate(args,  device_id, cp, step)
-                    test(args,  device_id, cp, step)
+#     timestep = 0
+#     if (args.test_all):
+#         cp_files = sorted(glob.glob(os.path.join(args.model_path, 'model_step_*.pt')))
+#         cp_files.sort(key=os.path.getmtime)
+#         xent_lst = []
+#         for i, cp in enumerate(cp_files):
+#             step = int(cp.split('.')[-2].split('_')[-1])
+#             xent = validate(args,  device_id, cp, step)
+#             xent_lst.append((xent, cp))
+#             max_step = xent_lst.index(min(xent_lst))
+#             if (i - max_step > 10):
+#                 break
+#         xent_lst = sorted(xent_lst, key=lambda x: x[0])[:3]
+#         logger.info('PPL %s' % str(xent_lst))
+#         for xent, cp in xent_lst:
+#             print(f'cp:{cp}')
+#             step = int(cp.split('.')[-2].split('_')[-1])
+#             test(args,  device_id, cp, step)
+#     else:
+#         while (True):
+#             cp_files = sorted(glob.glob(os.path.join(args.model_path, 'model_step_*.pt')))
+#             cp_files.sort(key=os.path.getmtime)
+#             if (cp_files):
+#                 cp = cp_files[-1]
+#                 time_of_cp = os.path.getmtime(cp)
+#                 if (not os.path.getsize(cp) > 0):
+#                     time.sleep(60)
+#                     continue
+#                 if (time_of_cp > timestep):
+#                     timestep = time_of_cp
+#                     step = int(cp.split('.')[-2].split('_')[-1])
+#                     validate(args,  device_id, cp, step)
+#                     test(args,  device_id, cp, step)
 
-            cp_files = sorted(glob.glob(os.path.join(args.model_path, 'model_step_*.pt')))
-            cp_files.sort(key=os.path.getmtime)
-            if (cp_files):
-                cp = cp_files[-1]
-                time_of_cp = os.path.getmtime(cp)
-                if (time_of_cp > timestep):
-                    continue
-            else:
-                time.sleep(300)
+#             cp_files = sorted(glob.glob(os.path.join(args.model_path, 'model_step_*.pt')))
+#             cp_files.sort(key=os.path.getmtime)
+#             if (cp_files):
+#                 cp = cp_files[-1]
+#                 time_of_cp = os.path.getmtime(cp)
+#                 if (time_of_cp > timestep):
+#                     continue
+#             else:
+#                 time.sleep(300)
 
 
-def validate(args,  device_id, pt, step):
-    device = "cpu" if args.visible_gpus == '-1' else "cuda"
-    if (pt != ''):
-        test_from = pt
-    else:
-        test_from = args.test_from
-    logger.info('Loading checkpoint from %s' % test_from)
-    checkpoint = torch.load(test_from, map_location=lambda storage, loc: storage)
-    opt = vars(checkpoint['opt'])
-    for k in opt.keys():
-        if (k in model_flags):
-            setattr(args, k, opt[k])
-    print(args)
+# def validate(args,  device_id, pt, step):
+#     device = "cpu" if args.visible_gpus == '-1' else "cuda"
+#     if (pt != ''):
+#         test_from = pt
+#     else:
+#         test_from = args.test_from
+#     logger.info('Loading checkpoint from %s' % test_from)
+#     checkpoint = torch.load(test_from, map_location=lambda storage, loc: storage)
+#     opt = vars(checkpoint['opt'])
+#     for k in opt.keys():
+#         if (k in model_flags):
+#             setattr(args, k, opt[k])
+#     print(args)
 
-    config = BertConfig.from_json_file(args.bert_config_path)
-    # model = Summarizer(args, device, load_pretrained_bert=False, bert_config = config)
-    if (args.summarizer == 'baseline'):
-        print('baseline!')
-        model = SummarizerBaseline(args, device, load_pretrained_bert=False, bert_config = config)
-    model.load_cp(checkpoint)
-    model.eval()
+#     config = BertConfig.from_json_file(args.bert_config_path)
+#     # model = Summarizer(args, device, load_pretrained_bert=False, bert_config = config)
+#     if (args.summarizer == 'baseline'):
+#         print('baseline!')
+#         model = SummarizerBaseline(args, device, load_pretrained_bert=False, bert_config = config)
+#     model.load_cp(checkpoint)
+#     model.eval()
 
-    valid_iter =data_loader.Dataloader(args, load_dataset(args, 'valid', shuffle=False),
-                                  args.batch_size, device,
-                                  shuffle=False, is_test=False)
-    trainer = build_trainer(args, device_id, model, None)
-    stats = trainer.validate(valid_iter, step)
-    return stats.xent()
+#     valid_iter =data_loader.Dataloader(args, load_dataset(args, 'valid', shuffle=False),
+#                                   args.batch_size, device,
+#                                   shuffle=False, is_test=False)
+#     trainer = build_trainer(args, device_id, model, None)
+#     stats = trainer.validate(valid_iter, step)
+#     return stats.xent()
 
 # def test(args, device_id, pt, step):
 
@@ -226,7 +226,8 @@ def validate(args,  device_id, pt, step):
 #     trainer = build_trainer(args, device_id, model, None)
 #     trainer.test(test_iter, step, threshold=args.threshold)
 
-def test(args, device_id, pt, step):
+# def test(args, device_id, pt, step):
+def test_and_valid(args, device_id, pt, step):
 
     if args.batch_size != 512:
         raise Exception('Batch size must be 512.')
@@ -249,14 +250,29 @@ def test(args, device_id, pt, step):
     if (args.summarizer == 'baseline'):
         print('baseline!')
         model = SummarizerBaseline(args, device, load_pretrained_bert=False, bert_config = config)
-    else:
+    elif (args.summarizer == 'proposed'):
         print('proposed!')
         model = SummarizerProposed(args, device, load_pretrained_bert=False, bert_config = config)
+    elif (args.summarizer == 'proposed_sigmoid'):
+        print('proposed sigmoid!')
+        model = SummarizerProposedSigmoid(args, device, load_pretrained_bert=False, bert_config = config)
+    elif (args.summarizer == 'baselineQA'):
+        print('baseline QA!')
+        model = SummarizerBaselineQA(args, device, load_pretrained_bert=False, bert_config = config)
+    elif (args.summarizer == 'proposedQA'):
+        print('proposed QA!')
+        model = SummarizerProposedQA(args, device, load_pretrained_bert=False, bert_config = config)
+    elif (args.summarizer == 'proposed_transformerQA'):
+        print('proposed transformer QA!')
+        model = SummarizerProposedTransformerQA(args, device, load_pretrained_bert=False, bert_config = config)
+    else:
+        None
     model.load_cp(checkpoint)
     model.eval()
 
     trainer = build_trainer(args, device_id, model, None)
-    trainer.test(args, step)
+    # trainer.test(args, step)
+    trainer.test_and_valid(args, step)
 
 # def baseline(args, cal_lead=False, cal_oracle=False):
 
@@ -297,9 +313,23 @@ def train(args, device_id):
     if (args.summarizer == 'baseline'):
         print('baseline!')
         model = SummarizerBaseline(args, device, load_pretrained_bert=True)
-    else:
+    elif (args.summarizer == 'proposed'):
         print('proposed!')
         model = SummarizerProposed(args, device, load_pretrained_bert=True)
+    elif (args.summarizer == 'proposed_sigmoid'):
+        print('proposed sigmoid!')
+        model = SummarizerProposedSigmoid(args, device, load_pretrained_bert=True)
+    elif (args.summarizer == 'baselineQA'):
+        print('baseline QA!')
+        model = SummarizerBaselineQA(args, device, load_pretrained_bert=True)
+    elif (args.summarizer == 'proposedQA'):
+        print('proposed QA!')
+        model = SummarizerProposedQA(args, device, load_pretrained_bert=True)
+    elif (args.summarizer == 'proposed_transformerQA'):
+        print('proposed transformer QA!')
+        model = SummarizerProposedTransformerQA(args, device, load_pretrained_bert=True)
+    else:
+        None
 
     if args.train_from != '':
         logger.info('Loading checkpoint from %s' % args.train_from)
@@ -325,10 +355,10 @@ if __name__ == '__main__':
 
     # parser.add_argument("-encoder", default='classifier', type=str, choices=['classifier','transformer','rnn','baseline'])
     # Added for ESG/SDGs
-    parser.add_argument("-summarizer", default='proposed', type=str, choices=['proposed','baseline'])
-    parser.add_argument("-threshold", default='0.5', type=float)
+    parser.add_argument("-summarizer", default='proposed', type=str, choices=['baseline', 'proposed', 'proposed_sigmoid', 'baselineQA', 'proposedQA', 'proposed_transformerQA'])
+    # parser.add_argument("-threshold", default='0.5', type=float)
 
-    parser.add_argument("-mode", default='train', type=str, choices=['train','validate','test'])
+    parser.add_argument("-mode", default='train', type=str, choices=['train','valid','test'])
     parser.add_argument("-bert_data_path", default='../bert_data/cnndm')
     parser.add_argument("-model_path", default='../models/')
     parser.add_argument("-result_path", default='../results/cnndm')
@@ -387,16 +417,24 @@ if __name__ == '__main__':
         multi_main(args)
     elif (args.mode == 'train'):
         train(args, device_id)
-    elif (args.mode == 'validate'):
-        wait_and_validate(args, device_id)
-    elif (args.mode == 'lead'):
-        baseline(args, cal_lead=True)
-    elif (args.mode == 'oracle'):
-        baseline(args, cal_oracle=True)
-    elif (args.mode == 'test'):
+    # elif (args.mode == 'validate'):
+    #     wait_and_validate(args, device_id)
+    # elif (args.mode == 'lead'):
+    #     baseline(args, cal_lead=True)
+    # elif (args.mode == 'oracle'):
+    #     baseline(args, cal_oracle=True)
+    # elif (args.mode == 'test'):
+    # elif (args.mode == 'test'):
+    #     cp = args.test_from
+    #     try:
+    #         step = int(cp.split('.')[-2].split('_')[-1])
+    #     except:
+    #         step = 0
+    #     test(args, device_id, cp, step)
+    elif (args.mode in ['test', 'valid']):
         cp = args.test_from
         try:
             step = int(cp.split('.')[-2].split('_')[-1])
         except:
             step = 0
-        test(args, device_id, cp, step)
+        test_and_valid(args, device_id, cp, step)

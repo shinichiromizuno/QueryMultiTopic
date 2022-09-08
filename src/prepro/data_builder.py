@@ -11,7 +11,8 @@ from os.path import join as pjoin
 
 import torch
 from multiprocess import Pool
-from pytorch_pretrained_bert import BertTokenizer
+# from pytorch_pretrained_bert import BertTokenizer
+from transformers import BertTokenizer
 
 from others.logging import logger
 from others.utils import clean

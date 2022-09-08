@@ -431,137 +431,250 @@ class Trainer(object):
 
     #     return stats
 
-    def test(self, args, step):
+    # def test(self, args, step):
+    #     """ Validate model.
+    #         valid_iter: validate data iterator
+    #     Returns:
+    #         :obj:`nmt.Statistics`: validation loss statistics
+    #     """
+    #     # Set model in validating mode.
+    #     def _get_ngrams(n, text):
+    #         ngram_set = set()
+    #         text_length = len(text)
+    #         max_index_ngram_start = text_length - n
+    #         for i in range(max_index_ngram_start + 1):
+    #             ngram_set.add(tuple(text[i:i + n]))
+    #         return ngram_set
+
+    #     def _block_tri(c, p):
+    #         tri_c = _get_ngrams(3, c.split())
+    #         for s in p:
+    #             tri_s = _get_ngrams(3, s.split())
+    #             if len(tri_c.intersection(tri_s))>0:
+    #                 return True
+    #         return False
+        
+    #     # if (not cal_lead and not cal_oracle):
+    #     #     self.model.eval()
+    #     device = "cpu" if args.visible_gpus == '-1' else "cuda"
+    #     stats = Statistics()
+
+    #     can_path = '%s_step%d.candidate'%(self.args.result_path,step)
+    #     gold_path = '%s_step%d.gold' % (self.args.result_path, step)
+    #     with open(can_path, 'w') as save_cand:
+    #         with open(gold_path, 'w') as save_gold:
+    #             with torch.no_grad():
+    #                 pts = sorted(glob.glob(args.bert_data_path + 'test' + '.*.pt'))
+    #                 for pt in pts:
+    #                     dataset = torch.load(pt)
+    #                     ds = dataset['ds']
+    #                     src_txt = dataset['src']
+    #                     tgts = dataset['tgts']
+    #                     # test_iter = data_loader.Dataloader(args, iter(dataset['ds']), args.batch_size, device,
+    #                     #                                 shuffle=True, is_test=False)
+    #                     logger.info('Loading %s dataset from %s, number of examples: %d' %
+    #                                             ('test', pt, len(ds)))
+    #                     test_iter = data_loader.Dataloader(args, load_test_dataset(ds), args.batch_size, device,
+    #                                                     shuffle=True, is_test=True)
+    #                     optim_dicts = {}
+    #                     for i in tgts.keys():
+    #                         optim_dicts[i] = {}
+
+    #                     for batch in test_iter:
+    #                         src = batch.src
+    #                         labels = batch.labels
+    #                         segs = batch.segs
+    #                         clss = batch.clss
+    #                         mask = batch.mask
+    #                         mask_cls = batch.mask_cls
+
+    #                         qry = batch.qry
+    #                         stpos = batch.stpos
+    #                         enpos = batch.enpos
+
+    #                         sent_scores, mask = self.model(src, segs, clss, mask, mask_cls)
+
+    #                         loss = self.loss(sent_scores, labels.float())
+    #                         loss = (loss * mask.float()).sum()
+    #                         batch_stats = Statistics(float(loss.cpu().data.numpy()), len(labels))
+    #                         stats.update(batch_stats)
+
+    #                         sent_scores = sent_scores.cpu().data.numpy()
+    #                         pred = np.where(sent_scores < args.threshold, 0, 1) 
+                            
+    #                         for j in range(stpos[0], enpos[0]):
+    #                             st_idx = j - stpos[0]
+    #                             en_idx = enpos[0] - 1 - j
+    #                             pred_eval = st_idx * en_idx
+    #                             if optim_dicts[qry[0]].get(j):
+    #                                 if optim_dicts[qry[0]][j][-1] < pred_eval:
+    #                                     optim_dicts[qry[0]][j] = [pred[0][st_idx], pred_eval]
+    #                             else:
+    #                                 optim_dicts[qry[0]][j] = [pred[0][st_idx], pred_eval]   
+
+    #                     # dictionaryからpred_listとlabels_listを作り直す処理
+    #                     save_cand.write(pt+'\n')
+    #                     save_gold.write(pt+'\n')
+    #                     for i in tgts.keys():
+    #                         pred_all = []
+    #                         tgt = dataset['tgts'][i]
+    #                         for j in sorted(optim_dicts[i].keys()):
+    #                             pred_all.append(optim_dicts[i][j][0])
+    #                         logger.info('tgt:%s', i)
+    #                         logger.info('accuracy_score:%s', accuracy_score(tgt, pred_all))
+    #                         logger.info('confusion_matrix:%s', confusion_matrix(tgt, pred_all, labels=[1, 0]))
+    #                         logger.info('f1_score:%s', f1_score(tgt, pred_all))
+
+    #                         cand = [i for i, j in zip(src_txt, pred_all) if j == 1]
+    #                         gold = [i for i, j in zip(src_txt, tgt) if j == 1]
+
+    #                         save_cand.write('qry'+i+'\n'+''.join(cand)+'\n')
+    #                         save_gold.write('qry'+i+'\n'+''.join(gold)+'\n')
+
+    #     # Rouge Calculation
+    #     # if(step!=-1 and self.args.report_rouge):
+    #     #     rouges = test_rouge(self.args.temp_dir, can_path, gold_path)
+    #     #     logger.info('Rouges at step %d \n%s' % (step, rouge_results_to_str(rouges)))
+    #     self._report_step(0, step, valid_stats=stats)
+
+    #     return stats
+
+    # def test(self, args, step):
+    def test_and_valid(self, args, step):
         """ Validate model.
             valid_iter: validate data iterator
         Returns:
             :obj:`nmt.Statistics`: validation loss statistics
         """
         # Set model in validating mode.
-        def _get_ngrams(n, text):
-            ngram_set = set()
-            text_length = len(text)
-            max_index_ngram_start = text_length - n
-            for i in range(max_index_ngram_start + 1):
-                ngram_set.add(tuple(text[i:i + n]))
-            return ngram_set
+        # def _get_ngrams(n, text):
+        #     ngram_set = set()
+        #     text_length = len(text)
+        #     max_index_ngram_start = text_length - n
+        #     for i in range(max_index_ngram_start + 1):
+        #         ngram_set.add(tuple(text[i:i + n]))
+        #     return ngram_set
 
-        def _block_tri(c, p):
-            tri_c = _get_ngrams(3, c.split())
-            for s in p:
-                tri_s = _get_ngrams(3, s.split())
-                if len(tri_c.intersection(tri_s))>0:
-                    return True
-            return False
+        # def _block_tri(c, p):
+        #     tri_c = _get_ngrams(3, c.split())
+        #     for s in p:
+        #         tri_s = _get_ngrams(3, s.split())
+        #         if len(tri_c.intersection(tri_s))>0:
+        #             return True
+        #     return False
         
         # if (not cal_lead and not cal_oracle):
         #     self.model.eval()
         device = "cpu" if args.visible_gpus == '-1' else "cuda"
         stats = Statistics()
 
-        can_path = '%s_step%d.candidate'%(self.args.result_path,step)
-        gold_path = '%s_step%d.gold' % (self.args.result_path, step)
-        with open(can_path, 'w') as save_cand:
-            with open(gold_path, 'w') as save_gold:
-                with torch.no_grad():
-                    pts = sorted(glob.glob(args.bert_data_path + 'test' + '.*.pt'))
-                    for pt in pts:
-                        dataset = torch.load(pt)
-                        ds = dataset['ds']
-                        src_txt = dataset['src']
-                        tgts = dataset['tgts']
-                        # test_iter = data_loader.Dataloader(args, iter(dataset['ds']), args.batch_size, device,
-                        #                                 shuffle=True, is_test=False)
-                        logger.info('Loading %s dataset from %s, number of examples: %d' %
-                                                ('test', pt, len(ds)))
-                        test_iter = data_loader.Dataloader(args, load_test_dataset(ds), args.batch_size, device,
-                                                        shuffle=True, is_test=True)
-                        optim_dicts = {}
-                        for i in tgts.keys():
-                            optim_dicts[i] = {}
+        # can_path = '%s_step%d.candidate'%(self.args.result_path,step)
+        # gold_path = '%s_step%d.gold' % (self.args.result_path, step)
+        # with open(can_path, 'w') as save_cand:
+        #     with open(gold_path, 'w') as save_gold:
+        with torch.no_grad():
+            # pts = sorted(glob.glob(args.bert_data_path + 'test' + '.*.pt'))
+            pts = sorted(glob.glob(args.bert_data_path + args.mode + '.*.pt'))
+            optim_dicts_all = []
+            for pt in pts:
+                dataset = torch.load(pt)
+                ds = dataset['ds']
+                # src_txt = dataset['src']
+                tgts = dataset['tgts']
+                # test_iter = data_loader.Dataloader(args, iter(dataset['ds']), args.batch_size, device,
+                #                                 shuffle=True, is_test=False)
+                logger.info('Loading %s dataset from %s, number of examples: %d' %
+                                        ('test', pt, len(ds)))
+                test_iter = data_loader.Dataloader(args, load_test_dataset(ds), args.batch_size, device,
+                                                shuffle=True, is_test=True)
+                optim_dicts = {}
+                optim_dicts['path'] = pt
+                for i in tgts.keys():
+                    # optim_dicts[i] = {}
+                    optim_dicts[i] = []
 
-                        for batch in test_iter:
-                            src = batch.src
-                            labels = batch.labels
-                            segs = batch.segs
-                            clss = batch.clss
-                            mask = batch.mask
-                            mask_cls = batch.mask_cls
+                for batch in test_iter:
+                    src = batch.src
+                    labels = batch.labels
+                    segs = batch.segs
+                    clss = batch.clss
+                    mask = batch.mask
+                    mask_cls = batch.mask_cls
 
-                            qry = batch.qry
-                            stpos = batch.stpos
-                            enpos = batch.enpos
+                    # qry = batch.qry
+                    # stpos = batch.stpos
+                    # enpos = batch.enpos
+                    qry = batch.qry[0]
+                    stpos = batch.stpos[0]
+                    enpos = batch.enpos[0]
 
-                            sent_scores, mask = self.model(src, segs, clss, mask, mask_cls)
+                    sent_scores, mask = self.model(src, segs, clss, mask, mask_cls)
 
-                            loss = self.loss(sent_scores, labels.float())
-                            loss = (loss * mask.float()).sum()
-                            batch_stats = Statistics(float(loss.cpu().data.numpy()), len(labels))
-                            stats.update(batch_stats)
+                    # loss = self.loss(sent_scores, labels.float())
+                    # loss = (loss * mask.float()).sum()
+                    # batch_stats = Statistics(float(loss.cpu().data.numpy()), len(labels))
+                    # stats.update(batch_stats)
 
-                            sent_scores = sent_scores.cpu().data.numpy()
-                            pred = np.where(sent_scores < args.threshold, 0, 1) 
-                            
-                            for j in range(stpos[0], enpos[0]):
-                                st_idx = j - stpos[0]
-                                en_idx = enpos[0] - 1 - j
-                                # en_idx = enpos[0] - j
-                                pred_eval = st_idx * en_idx
-                                if optim_dicts[qry[0]].get(j):
-                                    if optim_dicts[qry[0]][j][-1] < pred_eval:
-                                        optim_dicts[qry[0]][j] = [pred[0][st_idx], pred_eval]
-                                else:
-                                    # print(f'j:{j}, stpos:{stpos[0]}, enpos:{enpos[0]}, st_idx:{st_idx}')
-                                    # print(f'pred:{pred}')
-                                    # print(f'optim_dicts:{optim_dicts}')
-                                    optim_dicts[qry[0]][j] = [pred[0][st_idx], pred_eval]   
-
-                        # dictionaryからpred_listとlabels_listを作り直す処理
-                        save_cand.write(pt+'\n')
-                        save_gold.write(pt+'\n')
-                        # cand_list = []
-                        # gold_list = []
-                        for i in tgts.keys():
-                            pred_all = []
-                            tgt = dataset['tgts'][i]
-                            # print(f'tgt:{tgt}')
-                            # print(f'optim_dicts[i]:{optim_dicts[i]}')
-                            for j in sorted(optim_dicts[i].keys()):
-                                pred_all.append(optim_dicts[i][j][0])
-
-                            # print(f'tgt:{tgt}, pred_all:{pred_all}')
-
-                            # print(f'tgt:{i}')
-                            # print(f'accuracy_score:{accuracy_score(tgt, pred_all)}')
-                            # print(f'confusion_matrix:{confusion_matrix(tgt, pred_all, labels=[1, 0])}')
-                            # print(f'f1_score:{f1_score(tgt, pred_all)}')
-                            logger.info('tgt:%s', i)
-                            logger.info('accuracy_score:%s', accuracy_score(tgt, pred_all))
-                            logger.info('confusion_matrix:%s', confusion_matrix(tgt, pred_all, labels=[1, 0]))
-                            logger.info('f1_score:%s', f1_score(tgt, pred_all))
-
-                            cand = [i for i, j in zip(src_txt, pred_all) if j == 1]
-                            # cand_list.append(cand)                
-                            gold = [i for i, j in zip(src_txt, tgt) if j == 1]
-                            # gold_list.append(gold)
-
-                            save_cand.write('qry'+i+'\n'+''.join(cand)+'\n')
-                            save_gold.write('qry'+i+'\n'+''.join(gold)+'\n')
-
-                        # print(f'cand_list:{cand_list}')
-                        # print(f'gold_list:{gold_list}')
-                        # raise Exception('Batch stops')              
+                    # sent_scores = sent_scores.cpu().data.numpy()
+                    # pred = np.where(sent_scores < args.threshold, 0, 1) 
+                    # pred = sent_scores.cpu().data.numpy()
+                    if args.summarizer in ['baselineQA', 'proposedQA', 'proposed_transformerQA']:
+                        pred = sent_scores
+                    else:
+                        pred = sent_scores.cpu().data.numpy().reshape(-1)
                     
-                        # save_cand.write(''.join(cand_list)+'\n')
-                        # save_gold.write(''.join(gold_list)+'\n')
-        # Rouge Calculation
-        # if(step!=-1 and self.args.report_rouge):
-        #     rouges = test_rouge(self.args.temp_dir, can_path, gold_path)
-        #     logger.info('Rouges at step %d \n%s' % (step, rouge_results_to_str(rouges)))
-        self._report_step(0, step, valid_stats=stats)
+                    # print(f'stpos[0], enpos[0]:{stpos[0], enpos[0]}')
+                    # print(f'pred: {pred}')
+                    # for j in range(stpos[0], enpos[0]):
+                    #     st_idx = j - stpos[0]
+                    #     en_idx = enpos[0] - 1 - j
+                    #     pred_eval = st_idx * en_idx
+                    #     print(f'st_idx: {st_idx}, en_idx: {en_idx}, pred_eval:{pred_eval}')
+                    #     if optim_dicts[qry[0]].get(j):
+                    #         if optim_dicts[qry[0]][j][-1] < pred_eval:
+                    #             optim_dicts[qry[0]][j] = [pred[0][st_idx], pred_eval]
+                    #     else:
+                    #         optim_dicts[qry[0]][j] = [pred[0][st_idx], pred_eval]
+
+                    # for j in range(stpos, enpos):
+                    #     st_idx = j - stpos
+                    #     en_idx = enpos - 1 - j
+                    #     pred_eval = st_idx * en_idx
+                    #     if optim_dicts[qry].get(j):
+                    #         if optim_dicts[qry][j][-1] < pred_eval:
+                    #             optim_dicts[qry][j] = [pred[st_idx], pred_eval]
+                    #     else:
+                    #         optim_dicts[qry][j] = [pred[st_idx], pred_eval]
+
+                    optim_dicts[qry].append({'pred': pred, 'stpos': stpos, 'enpos': enpos})
+                    
+                optim_dicts_all.append(optim_dicts)
+            
+            torch.save(optim_dicts_all, self.args.result_path + '/' + args.mode + '.step' + str(step) + '.optim_dicts_all.pt')
+
+                # dictionaryからpred_listとlabels_listを作り直す処理
+                # save_cand.write(pt+'\n')
+                # save_gold.write(pt+'\n')
+
+                # for i in tgts.keys():
+                #     pred_all = []
+                #     tgt = dataset['tgts'][i]
+                #     for j in sorted(optim_dicts[i].keys()):
+                #         pred_all.append(optim_dicts[i][j][0])
+                #     logger.info('tgt:%s', i)
+                #     logger.info('accuracy_score:%s', accuracy_score(tgt, pred_all))
+                #     logger.info('confusion_matrix:%s', confusion_matrix(tgt, pred_all, labels=[1, 0]))
+                #     logger.info('f1_score:%s', f1_score(tgt, pred_all))
+
+                    # cand = [i for i, j in zip(src_txt, pred_all) if j == 1]
+                    # gold = [i for i, j in zip(src_txt, tgt) if j == 1]
+
+                    # save_cand.write('qry'+i+'\n'+''.join(cand)+'\n')
+                    # save_gold.write('qry'+i+'\n'+''.join(gold)+'\n')
+
+        # self._report_step(0, step, valid_stats=stats)
 
         return stats
-
 
 
     def _gradient_accumulation(self, true_batchs, normalization, total_stats,
@@ -582,10 +695,24 @@ class Trainer(object):
 
             sent_scores, mask = self.model(src, segs, clss, mask, mask_cls)
 
-            loss = self.loss(sent_scores, labels.float())
-            loss = (loss*mask.float()).sum()
-            (loss/loss.numel()).backward()
-            # loss.div(float(normalization)).backward()
+            if self.args.summarizer in ['baselineQA', 'proposedQA', 'proposed_transformerQA']:
+                start_logits, end_logits = sent_scores.split(1, dim=-1)
+                start_logits = start_logits.squeeze(-1).contiguous()  # (bs, max_query_len)
+                end_logits = end_logits.squeeze(-1).contiguous()  # (bs, max_query_len)
+
+                start_positions = labels[:, 0]
+                end_positions = labels[:, 1]
+
+                loss_fct = torch.nn.CrossEntropyLoss()
+                start_loss = loss_fct(start_logits, start_positions)
+                end_loss = loss_fct(end_logits, end_positions)
+                loss = (start_loss + end_loss) / 2
+                loss.backward()
+            else:
+                loss = self.loss(sent_scores, labels.float())
+                loss = (loss*mask.float()).sum()
+                (loss/loss.numel()).backward()
+                # loss.div(float(normalization)).backward()
 
             batch_stats = Statistics(float(loss.cpu().data.numpy()), normalization)
 
