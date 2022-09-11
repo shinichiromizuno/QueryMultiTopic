@@ -1,0 +1,2261 @@
+   SATO HOLDINGS CORPORATION www.sato-global.com
+Integrated Report 2020
+SATO HOLDINGS CORPORATION
+       Securities code: 6287.T
+
+      We give every ‘thing’ its own ID so it connects with the world
+As businesses today search for how big data can benefit them, at SATO, we focus on the more immediate question:
+“How can we make that ‘thing’ big data?”
+In a world where most things have yet to be digitized,
+our auto-identification solutions provide the answer.
+We tag IDs to anything — and everything —
+to track items and help businesses run smoothly, without stopping.
+A connected world of productivity, safety, reassurance and sustainability starts with somebody physically seeing the real situation on site
+and handcrafting answers that work.
+That’s what we do. And we start where you are.
+Because we are Powered On Site.
+         1
+
+                                       SATO Values
+   CONTENTS
+Our value-creation story
+SATO Values 3 From the President and CEO 4 Our history of creating value 10 Our value-creation process 12 Business fields 14 Solution proposals 16 Our value chain and
+on-site competency (genbaryoku) 18
+From the CFO 20 Financial and non-financial highlights 22 Business strategy:
+Overseas 24 Japan 28
+B2B2C business 32
+Sustainability framework 34 Our value proposition 36 Fundamentals of our value creation 38 Environmental responsibility 40
+Corporate motto
+Akunaki sozo — Ceaseless Creativity Mission
+Our mission is to create new value for our customers through products and services of superior quality, and to contribute towards a better and more sustainable world.
+Vision
+We aim to be the leader and most trusted company in the auto-ID solutions industry worldwide, exceeding customer expectations in an ever-changing world.
+Credo
+• We inspire changes, new ideas, and the courage of promoting customer-centric
+               Our strategy
+The fundamentals
+            Company data
+Editorial concept
+Corporate governance 42 Management team 50
+Company performance in FY 2019 52 Financial summary 54 Stock information 56 Corporate data 57 Basics of auto-ID technology 58 SATO terminologies 59
+innovation in the spirit of Ceaseless Creativity.
+• We seek to be true professionals by constantly striving to exceed the expectations of our customers.
+• We see things as they are, and do the right thing right away.
+• We show respect for all individuals, extend trust to each other, and work together as one cohesive team.
+• We enable a vibrant and open-minded workplace, eliminating the formalities that cause “Big Company Disease.”
+• We share the returns from our business with our four stakeholders: shareholders, employees, society and the company.
+  This report is the record of the tangible and intangible aspects of the SATO Group’s medium- to long-term value-creation story through its core business of auto-ID solutions.
+   2 SATO Holdings Corporation Integrated Report 2020
+SATO Holdings Corporation Integrated Report 2020 3
+               
+ From the President and CEO
+ Ryutaro Kotaki
+President and CEO
+  Back to basics,
+to stride the future
+SATO’s role amid unprecedented changes
+I offer my deepest sympathies to those around the world suffering from COVID-19 and its repercussions. And my sincere gratitude goes to all of you making the effort every day to prevent the spread of the virus and helping your local community run with normality.
+Here in 2020, we are facing unprecedented changes caused by the pandemic. Needs for high hygienic standards and a contactless lifestyle have become universal and businesses already seeking to improve productivity to meet preexisting societal challenges are now scrambling to find new ways to ensure the safety of their customers and employees.
+Automatic identification technology as seen in barcodes and RFID is found in a wide range of industries and applications as a means of collecting data
+with speed and accuracy, and in many cases, without contact. It is the core technology behind SATO’s business of tagging identifier information to anything and everything and digitizing it for use as big data, and in our solutions that improve productivity or allow traceability over an entire supply chain. In April of this milestone 80th anniversary year, we revamped our corporate slogan to “Powered On Site,” with the commitment to keep delivering solutions developed from the worksite up. Our customers span a wide range of industries from manufacturing and food & beverage to logistics, health care and retail, and we believe that by understanding each industry at their worksite levels, we can create customized solutions, which will add up to contribute to a sustainable world.
+Our founder Yo Sato invented many new products that solve pain points of the world from his urge to “do something” about the immediate issues he saw businesses facing back then. He wanted to contribute to the world with his business, and the same passion is what drives us today. In this post-COVID economy where companies need to rapidly adapt to digital transformation, decentralized workstyles, supply chain restructuring and other ongoing changes, the value of auto-ID solutions and tagging only continues to rise. We at SATO Group will unite under our new slogan “Powered On Site” to create solutions that support customer businesses.
+Looking back at FY 2019
+Consolidated sales for FY 2019 remained flat at ¥116.4 billion against previous year’s figures, while operating income fell to ¥7.4 billion. Effects from U.S.– China trade tensions, COVID-19 and a higher yen caused our overseas business to fall short of its target, our Japan business to struggle in consumables, which comprise over 60 percent of our sales, and sales talks ongoing as at fourth quarter to be postponed. New opportunities, however, are in the pipeline both overseas and in Japan, presenting potential for growth.
+Meanwhile, our IDP* business recorded impairment loss under
+extraordinary losses as commercialization had to be postponed due to a
+number of technological issues that came to light after entering the phase of
+consumer trials. And so when DataLase Ltd., our fully-owned subsidiary
+operating the IDP business, came forward with a management buyout (MBO)
+offer, we decided, in September, to accept it and sell all SATO shares in the
+company to its new management team. We will now concentrate our
+resources on our core auto-ID solutions business to establish sustainable
+growth and stable profits.
+* Inline Digital Printing: A direct marking technology comprising a special heat-sensitive pigment that can be applied as a coating to virtually any substrate and exposed to a laser beam to create a color change.
+ 4 SATO Holdings Corporation Integrated Report 2020
+SATO Holdings Corporation Integrated Report 2020 5
+
+Genbaryoku, our competitive advantage
+While our business may be defined only by auto-ID solutions, the pain points it addresses vary with each country, industry and customer. Our strength is in seeking out the smallest of these pain points, coming up with the right solution and having the organizational culture to keep this practice going. We call this competency of ours genbaryoku, which breaks down into three capabilities.
+Genbaryoku
+++
+First is industry expertise. Where things and information move is where our business is, and from working with countless worksites across the supply chains of so many industries, we have accumulated a wealth of knowledge and experience multiplicatively. The food & beverage sector, for example, would require different solutions between F&B manufacturing and food service, for numerous applications including inventory control and shipping. The ability to bring our knowledge from these various fields and applications together to deliver a comprehensive solution shapes our industry expertise. We constantly remind ourselves to develop our solutions in a truly customer-oriented manner to serve every end user on site.
+The second is our technical expertise. We manufacture our own printers and labels for our tagging business to meet customer- and worksite-specific needs from the upstream and downstream ends of our value chain. The upstream end seeks customer-centricity in R&D/production, which we realize by tapping customer feedback from the field. And because we cannot develop everything in-house, we also integrate third-party technology with our products and services
+as necessary to ensure that the solutions we offer truly add value downstream when delivered to and used by customers.
+And the third is our strength in servicing. It’s about providing quality support, not only as post-installation maintenance but also to consistently keep up with new issues that arise and offering suggestions to improve, which help us build deep and lasting relationships with our customers.
+We believe it’s when each and every employee in all functions from R&D and production to sales and administration thinks and acts from the customer’s point of view that we hone our genbaryoku.
+Changes to enter a new stage
+The pandemic has changed the course of our entire society and economy. In logistics, for example, stay-at-home measures and infection risks have boosted e-commerce demand, prompting businesses to ready their infrastructure for delivering things in a timely manner. The new trend also means that logistics providers must now handle increased order volumes while keeping workers safely distanced.
+I believe this new situation serves as an opportunity for businesses to stage their digital transformation (DX). Those in logistics could make the most of what the latest digital technologies offer to restructure their supply chain, inventory management and distribution functions to transform their businesses now, or risk losing their competitiveness in the future. DX is a business challenge for many of our customers, to whom we hope to offer support with our auto-ID solutions.
+Transforming the business and generating new business is a challenge for us as well. We believe we weathered many societal changes over our past 80 years owing to an operating model centered on customer sites and solving pain points of society. To survive the current era of rapid change, we know we must be able to adapt promptly to market trends while eying the future and putting our heart and soul into creating new value.
+That’s why we have drafted a long-term vision/strategy for each of our focal markets (manufacturing, food, logistics, health care and retail/apparel), drawing up new profit opportunities on top of our basic domain in digitizing customer worksites.
+In health care, for example, we know that our customers currently come to us seeking Patient Safety, which relies on accurately tagging data to anything and everything. So what we provide are systems that prevent medical errors or track items within the hospital because our customers are hospitals, pharmacies and manufacturers and wholesalers of medical equipment and pharmaceuticals. But once safety becomes commonplace, the next sought- after value will be Patient Happiness, which, from our experience already developing such solutions, would shift our customer base to include businesses in regenerative medicine, nursing care and welfare services, and
+From the President and CEO
+       Industry expertise
+We are versed in an array of worksites
+Technical expertise
+We match products best for each customer
+Servicing
+We maintain touch points with our users
+       Our value chain
+R&D
+Customer feedback
+          6 SATO Holdings Corporation Integrated Report 2020
+SATO Holdings Corporation Integrated Report 2020 7
+Production
+Sales
+Touch points
+Maintenance support
+ 
+aesthetic treatments. And after Patient Happiness would come the ultimate well-being, preventing illnesses instead of treating them to help people live full and active lives to 100 years and beyond.
+Services that customers and society at large place value on will change with time, which is why we must assess this change from a long-term perspective, and consider what solutions to develop, what services to offer, who to form alliances with, and who to hire, all in terms of the values we want to create, and drive the change. By doing this for each market, we pave our path to a new stage of business.
+Sustainability and ESG through our main line of business
+Many companies and local governments today are collaborating fluently toward realizing a sustainable world through actions most notably associated with the United Nations SDGs (Sustainable Development Goals). We have always run business on our founder’s philosophy to contribute to society through our main line of business and in the spirit of Ceaseless Creativity. Today, we take part in the United Nations Global Compact, a global framework toward developing a sustainable world, for us to comply with principles concerning human rights, labor, environment and anti-corruption in our daily activities and understand sustainability from a global perspective.
+In 2019, we put our ideas on sustainability into concrete action by assessing our material issues with relevance to (1) our value proposition to be delivered to customers through our core business, (2) the fundamentals of our value creation (e.g., talent development and supply chain management), and (3) environmental responsibility, after considering their influence on our business and stakeholders. In April 2020, we set up the Sustainability Promotion Office to heighten the effectiveness of our actions to pursue these sustainability priorities.
+In terms of human resources, we will be developing talent on the concept of two keywords, self-supportive and self-determining, the former seeking in employees the capability to complete a task independently, and the latter expecting employees to take autonomous action without waiting for instructions. These two capabilities
+maximize an employee’s inherent strength, which helps the organization produce successful results, which creates customer value, which raises employee motivation. This positive cycle is what we aim to drive in our latest plan to open an in-house university. Its lecturers, made up primarily of employees, would teach their knowledge and experience to others, and through such process, grow themselves professionally as well. Participants can choose what they need to learn to attain their career goals, so, in a way, it’s more a training and development program for the employees than the company. The university would be open to all employees to set their goal not at learning for the sake of it but at being able to solve challenges with what they learn, which I believe is important.
+We will also invest in IT infrastructure to integrate information currently segmented in the different parts of our value chain (R&D, production, logistics, sales and maintenance) to help our business grow sustainably. One of the goals of this investment is to visualize and analyze information on local actions and their effects to serve global managers in drafting strategies, optimizing workflows and improving labor productivity. When this is realized, employees will be able to work in an environment that allows them to obtain and use information for any job they need to do, from any location, in line with their ideal workstyle.
+On the corporate side, we sought to strengthen governance by appointing a second representative director in June 2020 to lead the company. I, as president and CEO, will assume responsibility of business operations and overall management, while CFO and new Chief Compliance Officer Yoichi Abe will oversee the governance aspects to be strengthened. We also set up a function dedicated to supervising and auditing our subsidiaries in terms of governance, which will involve setting priorities on risk levels in each country/region and monitoring business management for our subsidiaries outside Japan to achieve stronger governance and compliance.
+To our stakeholders
+In view of the rapid changes in the business environment following the COVID-19 outbreak, we kept the total dividend per share for FY 2019 at ¥70, the same level as the previous fiscal, complying with our Credo in SATO Values to share returns from our business with our four stakeholders (shareholders, employees, society and the company). Besides dividend payouts, surplus funds will also be directed to free servicing for customers supporting life-essential infrastructures and to sustaining jobs for our employees worldwide. We plan to announce our dividend forecast for FY 2020 when we announce our financial guidance for the same fiscal, considering factors including our medium- to long-term growth investments.
+Taking our new slogan to heart, we will continue in our efforts to solve pain points at customer sites — and ultimately of society — with our auto-ID solutions powered on site, and become an indispensable presence in the world no matter how times change. On behalf of the entire group, I ask for your unchanging support in this ceaseless quest of ours.
+From the President and CEO
+      8 SATO Holdings Corporation Integrated Report 2020
+SATO Holdings Corporation Integrated Report 2020 9
+
+   Our history of creating value
+Eighty years of being “on site”
+SATO’s history began in 1940 when founder Yo Sato designed an assembly box made of bamboo. Since then, SATO has established itself as a company that tags identifiers to anything and everything at the customer’s site of operations, innovating its business model almost every 20 years to better serve changing customer needs and society. Amid the changes, there was one constant: SATO’s spirit of Ceaseless Creativity. As we enter the IoT era, the importance of tagging only grows. We will continue to take on challenges on site to create value for our customers.
+1980s–
+Adapting tagging to new needs
+As supermarkets thrived and began using point-of- sale systems, the demand to print barcode labels exploded. After trial and error, SATO successfully launched the world’s first thermal transfer barcode printer in 1981, and started in-house production
+of printer labels. Being able to offer printers with labels catering to many markets including apparel, logistics, manufacturing and health care helped expand our reach, jump-starting SATO’s auto-ID* business that helps enhance accuracy and efficiency in customer operations.
+* Technology to automatically identify and capture data from things and people.
+2000s– Shifting to ID tagging solutions
+1981
+M-2311, the world’s first thermal transfer barcode label printer
+            1940s– Labor-saving devices
+Wooden packages were essential for transporting large goods, but wood resources gradually became scarce in Japan due to the war. Yo Sato came up with the idea of producing a shipping box by weaving bamboo strips, and with its success, went on to invent and patent a series of machines to manufacture this box. He also invented a newspaper bundler that saved the time and labor of manually bundling newspapers for shipping. The bundler made its way to major Japanese publishers, boxed lunch producers and even to the Bank of Japan, bringing about a logistics revolution at the time.
+1960s– Tagging variable information
+Japan entered a period of strong growth, and retail began to flourish. The variety and quantity of food and household items increased. Wishing to help spare retailers the long and repetitive work of manually applying price labels to each product, SATO launched the hand labeler in 1962, which was the start of our core business today for tagging variable information and identifiers to anything and everything. The hand labeler quickly spread throughout Japan’s retail sector and was later exported, making it a global phenomenon.
+Customizable labels making for a wider product lineup
+Launched CL4/6NX printer series as the world’s first IoT label printing solution capable of remote maintenance
+            2015
+           1943
+Patented bamboo assembly box
+1959
+Bundling machine
+As information technology brought advancements to how the flow of goods is managed, more emphasis was placed on data captured on site. We started offering integrated auto-ID solutions consisting of hardware, software, consumables and maintenance services, and incorporated new technologies such as RFID and voice recognition as appropriate to streamline operations and optimize supply chains.
+In 2015, we unveiled the world’s first IoT-ready label printing solution with our flagship CL4/6NX line to minimize downtime of business-critical processes through preventative maintenance and remote support. This symbolized SATO’s growth from a printer manufacturer into a printing solutions provider.
+2017
+     Equipment at our Kitakami plant for production of high-quality original RFID consumables
+                      10 SATO Holdings Corporation Integrated Report 2020
+SATO Holdings Corporation Integrated Report 2020 11
+Manual drawing of the first hand labeler by Yo Sato
+1962
+Hand labeler invented
+2020s–
+Innovating value-added solutions in the IoT era
+Technological innovations and emerging societal/environmental challenges require businesses to constantly adjust by making the right decisions. For certainty in an age of uncertainty, insight based on accurate data is the key. With 80 years of expertise, we benefit our customers and their end users by enhancing our auto-ID solutions with the capability to sense status of goods and people. Optimized solutions with strategic partners will help solve societal and environmental challenges for a better and more sustainable world.
+ 
+                                                                                           Our value-creation process
+As a global provider of auto-ID solutions, SATO contributes to the success of our customers and the development of a better and more sustainable world through our main business. We believe this improves our corporate value over the long term.
+Core IT systems /Big data
+Tagging information Make use
+ About auto-ID solutions
+Auto-ID (automatic identification) is the collective term for describing barcodes, RFID, image recognition and other technologies used to automatically capture, track and collect information. SATO offers auto-ID solutions based on these technologies, tagging identifier data to things and people always on the move to support business operations.
+Auto-ID solutions
+Tagging
+     Ensure accuracy
+     Changes in society
+Health crises Natural disasters Shifting ▼demographics
+• Demand for safety and security
+• Supply chain complexity
+• Uneven labor market
+• New consumer trends
+• Demand for sustainable practices
+The world around us
+New technologies: T h e d a t ▼a e c o n o m y
+• IoT
+• AI
+• Wireless/5G • Sensing
+• Robotics
+Analyze and make use of data
+as actionable intelligence for optimizing operations and solving other business challenges.
+Digitize and feed on-site informa- tion into IT systems in real time to enable IoT and big data processing.
+Tag information to things and people so that they can be identified/located accurately as they move through the supply chain.
+Save labor
+             Auto-ID solutions
+Genbaryoku ➡ P . 1 8
+Feed
+Tag
+Save resources
+Our value creation
+Improve corporate value in a sustainable manner
+                 Offer reassurance
+Enable sustainable practices
+Realize business vision
+            Promoting sustainable practices through our main
+Corporate governance ➡ P. 42 SATO Values ➡ P. 3
+Businesses across different
+markets and industries
+business ➡ P. 34
+      Build emotional connections
+  Our value proposition ➡ P. 36
+Fundamentals of
+our value creation ➡ P. 38
+Environmental responsibility ➡ P. 40
+  12 SATO Holdings Corporation Integrated Report 2020
+SATO Holdings Corporation Integrated Report 2020 13
+
+    Business fields
+  Our products and services
+At the core of SATO’s auto-ID solutions are products and services powered on site. We have customer touch points across diverse markets and industries, and visit each customer site to acquire in-depth understanding and insights about field operations that we use toward developing new and better products and services.
+Markets and industries we serve
+We have been broadening business fields to which we offer our auto-ID solutions, and currently service six key vertical market sectors, each comprising multiple industries. Our definition for the food market, for example, includes food & beverage manufacturers, eateries, quick service restaurants and hotels, just to name a few.
+      Manufacturing
+  Food
+        Printers
+We listen to our customers’ needs and offer optimal solutions based on an extensive lineup of printers that covers different markets/ industries/usage applications. Our printers feature ease of use, robustness for operational stability, and multiple display and print languages for global deployment, helping customers standardize their operations in different parts of the world.
+Servicing
+We have a global servicing network that provides technical expertise to help customers improve their operations, on top of troubleshooting hardware errors to keep their business running. Our aim is to deliver customer services at a different level, for example, through SOS (SATO Online Services), our cloud-based preventative maintenance solution that monitors printer operations 24/7 remotely. This remote support feature also makes it possible for businesses to distance their workers more effectively.
+Stickers, primary labels
+Our sales personnel with specialized knowledge and experience make sure that our stickers/primary labels are produced in the best designs and specifications for the best labeling experience, satisfying customer needs via end-to-end services that include after-sales care.
+Consumables
+We meet different tagging needs by customizing our labels (material, adhesive, finishing method, and other specifications) and suggesting how they can be used (with matching technologies or labeling data) for maximum productivity. With our eco-friendly linerless labels, markdown labels designed to reduce food loss, and plastic-free RFID labels produced through processes that enable the recycling of unused raw materials, we contribute to the development of a better and more sustainable world.
+Industries
+Automotive, chemical, iron/steel, machinery/electrical equipment and electronic parts manufacturers
+Industries
+Food & beverage manufacturers, food service operators, farms and fisheries
+        Logistics
+    Health care
+    Software
+We develop and provide software for creating label designs or centralizing labeling data from multiple locations, supporting customers in their label printing and management operations.
+We also offer software that specifically addresses operational challenges faced by customers in warehousing, supermarkets and selected industries.
+Industries
+Warehousing, transportation, 3PL, wholesale and e-commerce
+Industries
+Hospitals/clinics, pharmaceutical companies, medical device/supply makers, clinical laboratories, pharmacies and blood banks
+     Retail/Apparel
+  Public
+         Consultation
+We advise businesses on how they can create/renew their product packaging designs to better bring out the value of their products and boost sales, based on marketing research and analysis. Customers can benefit from our consultation ranging from product concept development and strategy planning to design and marketing.
+Industries
+Mass-market retailers, mail order merchants, supermarkets, convenience stores, drugstores and apparel stores
+Examples
+Postal, government/municipal offices, utilities, education and mass transit
+  14 SATO Holdings Corporation Integrated Report 2020
+SATO Holdings Corporation Integrated Report 2020 15
+
+ Solution proposals
+SATO aims to understand customers’ needs and help them improve productivity in all aspects of operation. Based on insights accumulated through our abundant hands-on experience in select industries and markets, we identify both existing and potential issues, and combine our products, systems and technologies with those of our partners to tailor the optimal tagging solution.
+Staying on top of changes to create opportunities
+In our business of turning the movement and status of people and things into big data, business opportunities arise when our customers’ operations change to accommodate social, technological and environmental changes. While pain points common to an industry have been our primary focus in providing solutions, the need for safety and security has come to gain greater importance than ever in all industries, to which we are now working to propose new applications.
+ CASE 1 Addressing COVID-19 needs with speed
+ As cities in the U.S. began to ease their lockdown measures, SATO America quickly developed and released a system to monitor and check the health status of employees while keeping the gathered data confidential in compliance with HIPAA. The solution was set up in a short period of time, thanks to our versatile printer app development platform.*
+Using the system, businesses can prevent anyone unwell from entering their premises to help reduce virus transmission. If infection cases occur, the system’s traceable database can also be used to identify and isolate close contacts to minimize impacts on business continuity.
+Recognizing its versatility for use in various industries, we promoted the system widely through marketing activities and business partner channels, which led to inquiries from customers we had never had contact with before, and greater awareness of the SATO brand.
+* Application Enabled Printing; a platform that builds applications to customize printer operations and enable standalone printing without connecting to a PC.
+Printer
+Thermometer
+Consumables
+Software
+        Solution
+   Solution
+Consumables
+In Singapore, SATO provides solutions to manage temperature screening data according to government requirements. These solutions are used in various industries, including food delivery, where delivery drivers with at-risk temperatures can be reported to system administrators via email in a timely manner, ensuring safe service for consumers.
+Enhancements are underway to support facial recognition, contactless temperature checking and cloud-based data management so that we can offer the solutions to different industries in many more countries.
+   Printer
+Software
+           After COVID-19
+Challenges of industries
+Hygiene control
+Contact reduction
+Social distancing
+ Ensuring safety and security
+  Automation
+Preventing closed/crowded/ close-contact settings
+      Manufacturing
+ Tracea
+Safety of
+Quality management
+bility
+workers
+Managing things/people
+Automation Process standardization
+Traceability
+Logistics
+Retail/Apparel
+Health care
+Food
+ Stock loss control
+Safety, security and quality management
+         Productivity Safety and
+security Labor
+shortages
+Cost
+              Before COVID-19
+Challenges of industries
+    CASE 2 Meeting increased demands for factory automation
+ Factories and logistics centers have already been automating tasks to deal with labor shortages. Now there is another reason to implement or add automation solutions: avoiding close contact between operators. Companies are aggressively seeking to implement or add factory automation solutions.
+Shipping procedures at logistics centers, for example, consist of manual work such as preparing the right size box for each order and applying shipping labels to each. Robots equipped with sensing technology could apply labels accurately onto designated positions on each differently-shaped box.
+An e-commerce fulfilment center of one of our customers had applied barcode labels manually to products it received from multiple suppliers to enable in-house management. By automating this receiving process, its productivity improved significantly, having already automated its shipping procedures earlier. And
+with less human labor now required, the center managed to reduce contact and infection risk among operators, ensuring employee health and safety and supporting business continuity.
+Automation can reduce contact Before
+After
+             Universal pain points
+     Changes in society
+New technologies: The data economy
+    Health crises
+Natural disasters
+Shifting demographics
+Demand for safety and security Supply chain complexity Uneven labor market
+New consumer trends Demand for sustainable practices
+IoT
+Sensing
+Wireless/5G
+AI
+Robotics
+   The world around us
+        16 SATO Holdings Corporation Integrated Report 2020
+SATO Holdings Corporation Integrated Report 2020 17
+
+  Our value chain and on-site competency (genbaryoku)
+        Our powered on site value chain
+All business units that collectively constitute SATO’s value chain take a bottom-up approach from the perspective of users’ frontline operations in performing their functions. Teiho, our internal system in which employees submit findings and knowledge they obtain from the field to top management, serves as the foundation for us to realize this approach. We continue to enhance our value chain and provide customer- oriented value by exercising genbaryoku and reflecting customer voices in our business management.
+Three elements of genbaryoku
+Leading companies choose SATO because we can provide optimal solutions from our core competency we call genbaryoku, which we built up over time through our business model of collecting on-site data. We define genbaryoku to be comprised of three strengths that we will continue to hone in delivering auto-ID solutions that are powered on site.
+      Customer feedback
+Industry expertise — We are versed in an array of worksites Accumulate expertise in
+          R&D
+R&D and production
+Our R&D and production capabilities in both printers and labels as well as our thorough understanding of customer operations allow us to design our products for exquisite usability. For example, our latest printers can play video tutorials on their LCDs as a standard feature to allow troubleshooting on the spot.
+Production
+Touch points
+Sales
+Sales
+Market
+×
+Industry
+×
+Application
+e.g., Food
+Food manufacturing
+Traceability system
+customer sites across markets, industries and applications
+Operational procedures and objects
+to be tagged vary depending on the customer. We have seen and versed ourselves in so many on-site processes and issues across a wide variety of markets/industries that the accumulated expertise helps us provide the best tagging solutions for each unique usage.
+Maintenance support
+  Maintenance support
+We dedicate our efforts to servicing, aiming to sustain and improve customer operations. Our field service engineers not only perform maintenance work but also hear out the customer’s pain points, feeding them back to relevant departments so that we can develop new products and solutions that cater to the customer’s needs.
+Food service
+Beverage manufacturing
+      We are open to partnering with external parties to combine various products, services and technologies into solutions that best meet the customer’s operations. Collaborations with partners well versed in specific markets/industries also help us expand our sales network.
+Teiho: SATO’s insight database
+Automated packaging
+Automated labeling
+HACCP (food safety) compliance
+                                 Knowledge obtained from the field to improve our value chain Culture/mindset to drive change and action
+SATO’s products and services
+• Printer
+×
+• Consumables
+×
+• Software
+Technical expertise — We match products best for each customer
+ Create new solutions through collaboration with third parties
+We collaborate with business partners who have different strengths from us to create an ideal combination of products, services and technologies as the best solution for each customer.
+Optimal solution
+        Issues unique to each customer site
++ Partners’ products and
+services
+   Our means of participatory management
+Teiho is SATO’s internal system with which employees regularly submit
+proposals and findings directly to the management. Started in Japan over 40
+years ago, the system has served to raise employee awareness on detecting Make issues and devising creative solutions. Group companies in nearly 20 decisions countries now use the system, which enables changes both big and small
+to help our business meet the needs of the times and achieve sustainable
+growth. Valuable information and innovative ideas are shared quickly,
+commented on, and acted upon to drive changes, and we keep this culture
+running, as we had even when face-to-face communication was lost after
+the COVID-19 outbreak.
+Top management
+Teiho Take
+reports
+• Ideas
+• Findings
+• Information
+Employees
+  actions
+     Servicing — We maintain touch points with our users Build long-term trust with
+   Implement solution
+Provide maintenance
+Propose an optimal solution
+Our relationship with customers continues even after installation to ensure their stable operation through servicing. When our field service engineers go on site for maintenance work, they also hear out the customer’s pain points to identify issues, setting off a new cycle to propose and implement more solutions, which helps us develop long and deep relationships.
+Identify new issues
+our customers
+  18 SATO Holdings Corporation Integrated Report 2020
+SATO Holdings Corporation Integrated Report 2020 19
+
+From the CFO
+Trends in cash flow
+Shareholders’ equity and interest-bearing debt
+ Yoichi Abe
+Vice President,
+Chief Financial Officer (CFO) and Chief Compliance Officer (CCO)
+(Millions of JPY)
+6,091
+-3,504
+10,769
+2,052
+-8,716
+11,259
+(Millions of JPY) 51,468
+53.1%
+31.5%
+16,117
+-1,738
+(FY) 2015
+■ Shareholders’ equ ty
+56,245
+52.3%
+28.8%
+15,960
+-840
+ 9,365
+8,810
+-2,449
+52,747
+54,664
+51,999
+       6,184
+-3,504
+4,152
+-5,212
+50.6% 51.4%
+32.1% 30.6%
+17,004 16,794 543
+-135
+2016 2017 ■ Interest-bearing debt
+50.4%
+38.6%
+18,425
+-5,335
+2,679
+    Focusing on our strengths and basics to transform our business for the future
+of our cash flow from operating activities and maximize returns while maintaining positive free cash flow, we have realized a business portfolio of sound profitability and disciplined financial management to keep our annual operating cash flow stable at above ¥8.7 billion on average over the past five years. In FY 2019, even as we recorded net loss attributable to owners of parent owing to impairment losses from the IDP business, the consistently strong earning power of our core business in auto-ID solutions made it possible for us to increase our operating cash flow to nearly ¥11.3 billion (up ¥1.9 billion) and free cash flow to over ¥8.8 billion (up ¥4.7 billion). With net cash amounting to ¥5.3 billion, we are effectively debt-free at the closing of the fiscal year.
+Overall financial health is also our top priority as we aim to control financial leverage at no more than
+Toward higher enterprise value
+To maximize our enterprise value at the group level, we must transform our business with focus on our strengths and basics, which we demonstrated most notably in our recent transfer of all shares we own in DataLase. I believe our investors and other capital market participants are generally supportive of this decision that signals our commitment to focus resources on growing our business sustainably with strengths unique to SATO.
+While the current business environment poses many challenges, we continue to look into various investments and alliances that would help strengthen our profit- making structure for sustainable business growth. The Business Risk Committee that we set up under the board of directors in FY 2018 helps by engaging its professional perspectives in thoroughly analyzing and assessing investment projects for justification, business plan feasibility, and return on investment (in connection with cost of capital), with consideration of potential risks and mitigation measures. We ensure that board
+2.0 (equivalent to an equity ratio of at least 50 percent) to ensure we do not rely excessively on borrowings
+or other outside sources and maintain balance with dividends and other shareholder returns. As the FY 2019 results show, we are adequately healthy in our financial position, with a current ratio (on a consolidated basis) matching last year’s levels at 160 percent, indicating the company’s liquidity and ability to realize stable business activities and medium- to long-term growth. Noting the importance of having enough short-term liquidity, we have also signed a commitment line contract with our lenders, even though the existing overdraft agreement more than suffices, as our current borrowings only account for less than 10 percent of the maximum credit amount. This is to ensure we secure financing in the event of unforeseen circumstances.
+decisions for investments are made with the advice of the said committee, while setting up our business units for risk ownership and monitoring investments after implementing them.
+We are also investing in in-house systems, planning to start investments in FY 2020 for preparing and deploying a new core IT infrastructure that would digitally transform our in-house systems. I consider this project an opportunity for us to rethink our workflows, innovate employee workstyles and improve our per capita productivity to grow SATO into a stronger organization that can generate profits at higher productivity.
+At SATO, we believe we exist to help society function smoothly, even though we mostly work in the background and deliver value that may not be readily apparent. We will continue to demonstrate our unique strengths to serve the world, raise our enterprise value and maximize shareholder value to make ourselves indispensable to society. I ask for your continued support so that we can build this future together.
+My roles and responsibilities as CFO
+The COVID-19 pandemic has changed society and the economy profoundly and brought serious impacts to SATO as well. Yet even amid the unprecedented circumstances and changes the company has undergone, the roles and responsibilities of the CFO remain the same.
+Recently, we started a new management model with two lines of responsibility: one for executing business activities and improving our enterprise value, and a second for providing the first line support as well as checks and balances as it runs the company. Our CEO leads the first line, while I lead the second on top of my CFO and CCO positions. If the company were a car, then the company’s business (of products and services) is the engine, which, no matter how powerful, would still require a compatible brake to slow or halt the vehicle’s motion as necessary to keep it running smoothly and safely over the long haul. As CFO, I see myself functioning as that braking system, and feel a strong responsibility to “defend” our business operations, particularly now when we are battling a crisis unlike
+anything before. For a start, I focused on reviewing our expense items for cost-effectiveness, giving top priority to ensuring business continuity and profitability. We need to centralize our resources, and it requires optimizing our business portfolio over the medium to long term. As a first step, we have proceeded in September 2020 to transfer all our shares in DataLase, a U.K.-based company that we had previously acquired to engage in the IDP business. This move steers us toward concentrating resources on our auto-ID business to establish sustainable growth and stable profits, as defined in our management policy.
+Besides heading the company’s finance function to provide support covering daily operations and business portfolio management, I also serve as CCO to strengthen corporate governance in terms of internal controls and compliance. I hope to lay a strong foundation for corporate management that balances offense and defense to help maximize our enterprise value at the group level.
+Building a stable financial base with cash flow control
+-9,596
+  (FY) 2015
+■ Cash flow from operating activities
+2017
+■ Cash flow from investing activities
+2018 2019 ■ Net interest-bearing debt
+2016
+Free cash flow (cash inflow from operating activities and cash outflow from investing activities)
+2018
+2019
+Equity ratio Debt-equity ratio
+   We aim to achieve a stable financial base by managing our cash flows in line with the aforementioned
+management policy. Under our basic stance on cash flow control, which is to make investments within the limits
+20 SATO Holdings Corporation Integrated Report 2020
+SATO Holdings Corporation Integrated Report 2020 21
+
+Financial and non-financial highlights
+  Sales & operating income
+Turnover of new graduate hires within 3 years & average length of service (Japan)
+(Millions of JPY)
+(Millions of JPY) (Millions of JPY) 12,000 6,000
+(%) (Millions of JPY) 12 2.00
+  120,000
+90,000
+60,000
+30,000
+0
+105,504 106,302
+1.93
+2018
+15.3
+113,383
+116,179
+116,372
+(%) 40
+30
+20
+10
+0
+Turnover of new graduate hires within 3 years (left axis)
+Average length of service (right axis)
+(No. of years)
+16
+         ■ Sales (left axis) ■ Operating income (right axis)
+In FY 2019, sales remained flat and OI decreased year on year on
+a consolidated basis due to U.S.–China trade friction and the COVID-19 pandemic, despite our progress in drumming up new deals for target markets and applications.
+(FY) 2015
+2016
+2017
+Free cash flow
+EBITDA margin
+Engagement with investors
+Wellness management (Japan)
+(Millions of JPY) 12,000
+8,000
+4,000
+(%) 12
+9
+6
+(Ranking) 1
+50 100 150 200 250
+(%)
+ -3,504
+#161–170 Unranked
+#131–140
+2017
+16
+17
+2,052
+2,679
+Capital expenditures & depreciation
+Dividends per share
+(Millions of JPY) 10,000
+(JPY) 80
+60
+40
+20
+(No. of directors) 15 (1)
+15 100
+2019
+(FY) 2015
+2016
+2017
+Financial
+Profit attributable to owners of parent & ROE Per capita productivity
+Non-financial
+4,074
+3,221 7.6 6.9 8
+1.84
+2017
+13.8
+25.0
+14.6
+17.6
+14.6
+30.0
+14.9
+31.3
+2018
+ 6,455
+(FY) 2015
+6,104 6,249
+2016 2017
+7,679 7,461 9,000 4,000 6,000 2,000 3,000 0
+7.1
+6.2
+1.80
+1.60
+1.75
+2016
+12 21.3 8
+4
+2019 0
+3,687
+3,773
+1.81
+(FY) 2015
+-1,882
+2019
+4
+0
+1.67
+2019
+ -3.6
+  2018
+0 -2,000
+■ Profit attributable to owners of parent (left axis)
+2018
+ROE (right axis)
+-4 0
+ 8,810
+38
+39
+Net income fell into the red in FY 2019, largely owing to impairment loss of approximately ¥6.3 billion that was posted on our IDP business following decisions to postpone its commercialization.
+U.S.–China trade friction and the COVID-19 pandemic caused
+operating income to decline, while new inclusion of an overseas
+manufacturing subsidiary in consolidation and strategic hiring
+increased headcount, resulting in lower per capita productivity.
+Note: Per capita productivity = Operating income (excluding goodwill amortization and ERP system depreciation) / number of working employees
+Three-year retention rate rose as we introduced on-the-job mentorship (full-year) and career-building programs for first- and third-year employees respectively, together with HR schemes that support flexible workstyles and work-life balance.
+11.0
+10.6
+2016
+10.4
+2017
+11.4
+2018
+11.5
+2019
+#31–40
+#101–110
+50 40 30 20 10
+#111–120
+2016
+30 28
+ 03
+13
+15 15
+4,152
+26 24 24 25 25
+   -4,000 (FY) 2015 2016 2017 2018 2019
+We continue to increase free cash flow after investment in an ERP system (now in successful operation) had impacted FY 2015 figures.
+0 (FY) 2015
+(FY) 2014
+2015
+2018
+0 (FY) 2015
+Smokers Employees with metabolic syndrome*1
+  8,000 6,000 4,000 2,000
+0
+6,717
+3,941
+(FY) 2015
+55
+10 (4)
+ 5,723
+10
+5
+8 (4)
+60
+40 44.0
+35.9
+20
+0 (FY) 2015
+SATO’s patent utilization rate*1  
+54.1
+9,044
+70
+2018
+70
+2019
+(%)
+80
+(%) 80
+67.1 72.1 69.0
+  3,996 4,307
+2016 2017
+45.5
+50.0
+4,801 4,489 3,835
+5,043
+50.0 60 40.0 40
+50.1
+Earnings before interest, tax, depreciation and amortization rose to its highest ever, with its margin growing 0.1 percentage points from the previous fiscal year.
+A dedicated department set up in FY 2017 directly under the CEO has expanded our investor relations activities, aimed at improving the degree and quality of our engagement with investors to increase their satisfaction.
+Note: As ranked in the IR Award organized by the Japan Investor Relations Association
+Board size & ratio of external directors
+Starting FY 2015, we have been promoting employee-led wellness activities under the direction of our Chief Wellness Officer. This effort has won us the White 500 recognition from Japan’s Ministry of Economy, Trade and Industry for four consecutive years since 2017.
+*1 Based on corresponding health screening data of employees aged 40 or above *2 Minimum 30 minutes of exercise at least twice a week or walking an average
+8,000 steps per day, over the span of at least one year
+Patent utilization rate (Japan)
+60
+2016
+65
+2017
+11 (5)
+12 (6)
+65.2
+56.1
+ ■ Depreciation
+production facilities was partly held off. Depreciation increased with
+our adoption of the new lease accounting policy (under IFRS 16).
+22 SATO Holdings Corporation Integrated Report 2020
+We maintain stable dividend payouts in accordance with our dividend policy.
+Our conscious efforts to obtain patents that create customer value improved our utilization rate from the mid-30 percentage range in FY 2015 to nearly 70 percent, keeping us above the industry’s average.
+*1 Based on date registered *2 Utilization rate of (owned) patent rights Source: In-house records Source: Japan Patent Office Annual Reports
+2016–2020
+SATO Holdings Corporation Integrated Report 2020 23
+20 0 (FY)2000 2005 2010 2015 2020 0
+■ Internal directors (left axis) ■ External directors (left axis) Ratio of external directors (right axis)
+We appointed our first external director in FY 1999 and our first female external director in FY 2004. External directors now account for 50 percent of our board.
+6.7
+2019
+2016 2017 2018 2019 Employees who exercise regularly*2
+    ■ Capital expenditures
+In FY 2019, our capital expenditures decreased as investment in
+2018
+2019
+0 (FY) 2015
+2016
+2017 2018 2019 Electrical machinery manufacturers*2
+
+     Business strategy: Overseas
+Growing the auto-ID solutions business globally with meticulous strategies and strong alliances
+With various actions taken to further embed the koto-uri approach (selling the solution, not the product) in our global workforce, we now see sales strategies being implemented with better results and find our global business working off of a stronger foundation to drive koto-uri. We will continue delivering essential solutions for our customers with speed, in keeping with the different changes COVID-19 has brought to our societies.
+ Hiroyuki Konuma
+Director and Vice President President, SATO Corporation Oversees global business
+        Strategy for FY 2020
+Spread koto-uri and address new customer needs in focal domains
+ FY 2019 recap
+For our business outside Japan, FY 2019 has been
+a year where we defined areas of focus for each country and industry, and set details to our strategies to speed up value-based selling. Results are beginning to show as we see more successes worldwide, for example, in closing a huge food labeling deal with a fast-food restaurant chain in Europe.
+We recorded a 1.5% year-on-year drop in sales, however, due to the strong yen and impacts from the coronavirus outbreak, but managed to keep operating income at last year’s levels most prominently through spending reduction (with the liquidation of our software development company in the U.S.).
+Sales and operating income
+Our overseas business has been transitioning from simply selling products to selling combinations of products and services in the form of solutions (the koto-uri model) to aptly address pain points for the individual customer. To help this model take root and produce results, we have, starting FY 2019, worked to clearly identify regions and industries of high potential in our sales strategies so that we can better invest business resources in them.
+Our focus is on three countries: the U.S., India and Vietnam. Countless global corporate giants are headquartered in the U.S. and have their share of pain points with supply chain management. Many are in need of solutions such as RFID for streamlining operations and optimizing inventory, or automation using robotics for greater productivity. Supporting these companies extensively based on the strengths of our worldwide network and by gaining direct access to local sites is how we will grow our business sustainably.
+In Asia where emerging nations are expanding their economies and populations rapidly, I see particularly
+strong needs for our auto-ID solutions in India and Vietnam. To tap this growth potential and increase
+our business presence in these two countries, we plan to do the same as what we did with much success previously in Thailand, to bring in popular solutions from Japan, but customizing them as necessary
+to match local requirements and trade practices. While we think India and Vietnam will continue to demonstrate rising needs for supply chain optimization and traceability, the top priority now for many food and pharmaceutical companies operating locally is traceability. It is natural that consumers become
+more conscious of their well-being and more demanding of regulatory compliance as the standards of living improve in their countries. We will work to help businesses meet these needs by going deep into their operations to come up with best-fit solutions.
+And now with COVID-19 sweeping through the world, ensuring the safety and well-being of people via social distancing, contact reduction and hygiene control measures takes on added urgency for many countries. We have been developing and offering
+(Millions of JPY)
+(Millions of JPY)
+5,000
+4,000
+3,000
+2,000
+1,000
+ 50,000
+40,000
+30,000
+20,000
+10,000
+42,585 43,316 42,648
+   39,379 38,926
+2,612
+  24 SATO Holdings Corporation Integrated Report 2020
+SATO Holdings Corporation Integrated Report 2020 25
+(FY) 2015 ■ Sales (left axis)
+2016 2017 2018 2019 ■ Operating income (right axis)
+1,650
+1,865
+00
+2,239
+2,277
+  
+  Countries and industries we focus on
+solutions in the U.S. and Europe where COVID-19 cases first started rising at a record pace, and aim to roll out the same to other countries/regions in doing
+And because it is important that we adhere to a common set of values in accelerating our global business, we will also work with the heads of group
+companies to explore activities for promoting SATO Values (our corporate philosophy) that would fit into the current business landscape in their respective countries.
+ To have our sales teams embrace “selling the solution, not the product,” we must first convert the tacit sales know-how of the individual salesperson into explicit and shared knowledge. This we have attempted to do in recent years by enriching marketing tools and deploying a CRM (customer relationship management) system to build a stronger sales infrastructure for our overseas business. To provide even more in-depth support from Japan, we also did some organizational restructuring to launch a new Sales Headquarters in April 2020. This new headquarters, dedicated to improving the effectiveness and speed of sales strategies and their implementation, comprises market strategy divisions that are tasked with overseeing global market/industry approaches we would take with an emphasis on koto-uri.
+These divisions will work to support each country in planning and executing sales strategies specialized to five markets: manufacturing, food, logistics, health
+care and retail/apparel. For a long time, each country had been running its own strategies and offering a product-centric lineup of its bestselling printers and consumables. Now with the market strategy divisions, more group-wide collaboration will take place to help different countries identify focal markets and what their industry users really need to better create and offer the right solutions. And, as these divisions look after the said markets at the global level, they will also know which solutions are selling well in a particular market/ industry and country to customize them for localized selling elsewhere. Through the market strategy divisions, we are essentially driving the koto-uri approach that underpins our sales process, and at the same time, empowering our global business to deliver effective solutions with speed, anywhere. Several months into setup, we are already seeing a number of success cases, adding to our confidence that we are on track to growing our business further.
+Run PDCA cycles and foster talents to back strategy implementation
+Another important thing we must do is to check
+the outcomes of sales strategies to see how well koto-uri is being understood and practiced, for making improvements as necessary. For this, we utilize
+the CRM system that has been deployed to aid information sharing across countries. Starting this fiscal year, we also engage selected countries in business review meetings whereby we evaluate the progress of sales strategies by each market/industry based on CRM data to make adjustments for speeding up performance. These meetings serve as a part of our PDCA cycle.
+Our medium- to long-term plan for group companies around the world is to get them to operate and
+excel independently, with the head office in Japan monitoring their business transparency and other risks. This requires that we train koto-uri talents who can sell solutions addressing specific market/industry needs based on a big picture understanding of business environments that differ from country to country. We must, and will also, help our group companies grow their local pool of talents by assigning to each sales area employee experts who specialize in specific industries or solutions.
+Expand our reach faster through global alliances
+Overseas business
+    Produce better results with market-specific sales strategies
+our part to keep societies functioning and economic activities going.
+To scale up our business outside Japan, it is crucial that we put efforts into strengthening alliance partnerships. As a business, we are capable of developing and offering solutions that satisfy market/industry needs in the field of information tagging. But we can maximize this customer value we provide by forming business alliances, which we aim to do with companies that have strong presence in our target markets/industries. Through alliances, we believe we can help our partners reach more customers, and at the same time, benefit from establishing greater brand awareness and stronger market positioning in the global arena.
+To keep our group business growing into the future, we will need to quickly pick up on new trends in global markets/industries and incorporate them into our sales
+Collaboration to strengthen and expand business
+strategies. The key lies in how we leverage the global network we already have. Currently, we are speeding up the sharing of success cases across our group companies so that we can better tap original solutions built in one country/region for selling in other countries/ regions facing the same needs. These solutions will require the support of business partners for us to expand our sales channels.
+While most of our existing solutions originate from sales know-how accumulated in Japan, we will strive to build up a wellspring of expertise outside Japan as well to strengthen our groundwork in inventing new solutions and help us achieve business growth across the SATO Group.
+ 26 SATO Holdings Corporation Integrated Report 2020
+SATO Holdings Corporation Integrated Report 2020 27
+India
+• Automotive
+• Electrical equipment
+and electronic parts • Pharmaceutical
+Vietnam
+• Automotive
+• Electrical equipment
+and electronic parts • Medical device
+USA
+• Retail/apparel
+• Health care (hospitals and medical device makers) • Food service (eateries, quick service restaurants
+and hotels)
+ Target
+   Market X
+  Industry A
+  Industry B
+  Industry C
+ D
+E
+ Application 1
+ With partner
+ Direct approach
+     Application 2
+  With partner
+   Direct approach
+     Application 3
+  Direct approach
+  Direct approach
+ With partner
+    4
+    5
+          Global alliance partners
+Local partners for different industries
+Companies specializing in specific industries/solutions
+      ❶ Expand sales channels
+❷ Sell each other’s solutions/value offerings ❸ Create new solutions/values together
+     
+     Business strategy: Japan
+Working from customer pain points up and harnessing change for next-level growth
+With our auto-ID solutions powered on site, we answer to our customer’s pain points concerning efficiency, safety and security arising from the rapid societal changes of the times, and aim to be the most trusted company in the industry.
+Developing talent capable of taking our tagging- based koto-uri to the next level, and enhancing collaborations with partner companies are also key as we pick up every opportunity to build on our sustainable growth.
+ Yoshinori Sasahara
+Vice President and Chief Wellness Officer (CWO) Director and Vice President, SATO Corporation General Manager of Production
+Oversees Japan business
+         FY 2019 recap
+Sales and operating income
+(Millions of JPY)
+Strategy for FY 2020
+Tagging + koto-uri, to solve pain points
+For long, we have expanded our business with our sales approach of koto-uri (selling the solution, not the product), where we face up to each and every customer pain point and offer solutions combining products, services and technologies of ours and our business partners’. Despite all the unprecedented changes we are facing in the market this year due to COVID-19, we intend to continue this approach, through which we would collect various information to reflect in our product development and production to raise the quality of our value chain.
+The “new normal” demands solutions that address contactless operations and the need to prevent the Three C’s (closed, crowded and close-contact settings) in addition to the conventional need to increase visibility for better productivity. Particularly with businesses now obliged to ensure workplace
+safety more than ever, we hope to play our part in helping them resolve their safety concerns.
+In a different light, the dawn of 5G and its potential effect on IoT would come to heighten customer expectations on us and our core domain of tagging. We will continue to identify what kind of information should be tagged how, to what, at what point, where and by whom, to help our customers digitize and optimize their operations.
+Many may think that the market has matured here in Japan, but customer pain points constantly change as social circumstances change and technologies advance. I believe that by continuing to propose new solutions to our existing customers or deliver ones for a certain industry to another — all based on tagging and koto-uri — we can still open up vast opportunities for growth.
+ Sales of mechatronics (printers and software) were 80,000 strong, owing to success in “selling the solution” (koto-
+uri) that carefully answered to customer pain points, 66,067 until the fourth quarter when the COVID-19 outbreak
+slowed consumption and retail activities for our
+customers. Together with a poor sales mix in both
+mechatronics and consumables affecting profits, we
+closed the fiscal year recording flat sales and 7.2%
+lower operating income compared to a year ago.
+(Millions of JPY)
+8,000
+6,000
+4,000
+2,000
+73,360
+ 67,283
+70,482 5,831
+6,479
+72,435 6,982
+    28 SATO Holdings Corporation Integrated Report 2020
+SATO Holdings Corporation Integrated Report 2020 29
+60,000
+40,000 3,847 20,000
+4,571
+00
+(FY) 2015 ■ Sales (left axis)
+2016 2017 2018 2019 ■ Operating income (right axis)
+  
+ Answering to new pain points with speed
+How we approach existing customers and new fields
+ Many of our customers are scrambling to adapt to
+the new normal, and we believe our knowledge and experience in tagging can help build systems that fulfill that need. Areas that we particularly receive many inquiries on are RFID and automation.
+The key advantage of RFID in being able to read tags in bulk from a distance already was a decisive factor attracting businesses looking to streamline their work processes. With the pandemic boosting demand for contactless operations, we expect RFID use to spread. Our strength in RFID is that we design, develop, manufacture and service RFID printers and consumables all under one roof to offer at one stop. These products of ours that meet strict quality control standards and withstand various worksite environments are what keep customer operations running. We now work to combine RFID with sensors to develop systems capable of visualizing the status and
+Innovating our approach to customers
+The Japan business currently sets a strategic focus on innovating and expanding the auto-ID solutions business.
+It consists of a sales tactic to map the Japan market into a matrix of regions and industries, aiming to approach more customers more appropriately. This method will allow us to deliver our solutions with better relevance and speed. The key player in this action is our area alliance partners (AAPs), which are mainly system integrators versed in a particular region or industry. As AAPs operate locally, they work with the same ideals that we value, of facing up to customer pain points on site with sincerity. Such collaboration where each company shares its strength with the
+movement of things that were difficult to digitize, to seek greater competitive advantage.
+As for automation, more customers are now looking to set up less labor-dependent operations as an answer to their preexisting pain point of labor shortage and the new need to maintain safe distance between workers. With e-commerce businesses expanding their transaction volume and capacity to meet changes in purchasing trends, and the food production industry responding to the booming demand for home meal replacements, we will set our primary target on these sectors to suggest automation solutions that suit their uses.
+By matching our product and service offerings to these new pain points that have surfaced during the pandemic at each customer worksite, we hope to gain more opportunities for growth.
+other not only increases our touch points with customers, but also allows us to continue delivering solutions of higher value.
+The critical point in providing a solution that meets customer needs has always been to involve ourselves thoroughly with the customer’s worksite. But today, we need to come up with new ways that adapt to the new normal. That’s why we now use online systems and remotely-assistive devices to maintain and reinforce our touch points with customers. Smart glasses* are one such example that we’ve started experimenting with in-house. We hope to bring these ideas to practical use soon to assist us when we visit customer sites and install or service equipment.
+* Wearable devices with sensors and communication capabilities
+Laying the groundwork to accelerate growth
+  30 SATO Holdings Corporation Integrated Report 2020
+SATO Holdings Corporation Integrated Report 2020 31
+Large businesses
+Small businesses
+Japan market
+For existing customers
+Solutions that answer to new pain points
+Application Application Application Application 4567
+For new fields
+Approach targets per region with area alliance partners
+      ■ Where we already cover ■ Where we aim to cover
+  Market X
+  Industry A
+  Industry B
+  Industry C
+ D
+E
+ Application 1
+With partner
+  Direct approach
+    Application 2
+ With partner
+  Direct approach
+    Application 3
+ Direct approach
+ Direct approach
+ With partner
+    4
+    5
+        We continue to develop talents possessing the koto-uri skill to meet customer needs for their ever-changing worksites. In April 2020, we launched SATO University, an online platform where employees can learn customer pain points and actual solutions delivered, categorized by market and industry. It’s one of our increasing actions to support and develop salespeople.
+Another ground we help fortify is the customer support system that we count on to sustain our relationships with customers. We get our internal functions — sales representatives, support hotline, Contact Center (inside sales) and servicing engineers — working together to take our communication with customers a step further to pick up minute needs and provide the best support when necessary. Servicing engineers particularly play a key role in this teamwork,
+as they witness the actual pain points most often and would serve to mine latent needs and bridge the information to sales to suggest a solution.
+We also launched a project to develop a next- generation IT infrastructure that would integrate all information related to customers, partners, products and services into one internal system to help optimize work operations and group management, while supporting decision-making processes with accurate information and reinforcing the groundworks of management.
+The Japan team continues to pick up on changes in customer needs rapidly and accurately to deliver the best solutions for customers, and contribute to a better world and sustainable growth.
+Japan
+
+ Building long-term competitive advantage
+B2B2C business
+❶
+❷
+❸
+❹ ❺
+System comprised of tags (transmitters) on shopping carts and locators (sensors) on the store ceiling locates the shopper in the store and keeps track of the real-time data, which connects into a behavior map.
+Behavior data is matched with POS data, to collect information on what was/was not purchased in what order.
+Match of the two types of data opens up new perspectives for reconsidering floor layout. We offer our very own analysis software to help stores conduct market basket*1, RFM*2 and dwell time analyses.
+From analyzed data, we suggest promotional services that use digital signage and smartphones.
+We work with the customer to test ideas, assess outcomes and finalize the solution with speed.
+*1 Finding purchase trends by setting a shopping basket as a single unit and studying what products were purchased together.
+*2 Categorizing consumers using the three indices of recency, frequency and monetary value of purchase.
+   ❶
+Track location
+    We are currently expanding the domain of our tagging business from supply chains (factories and logistics centers) to consumer touch points, seeking to develop a B2B2C model of business targeted at creating consumer value. It’s about helping our customers raise their customer satisfaction levels and their company value while we continue to apply the core essence of our solutions in tagging IDs to all things in motion for use as big data. Together with our continuous effort to develop deeper knowledge and expertise for tagging, we build our competitive advantage in auto-ID solutions over the long run.
+❺
+Verify
+Offer suggestions
+❷
+Link shopping paths with POS data
+❸
+Analyze
+    Tagging information to capture how people and things move business
+❹
+ The current mainstream mediums for tagging and transmitting identifier information are barcodes and RFID. These are used mainly for management of stationary goods (at the point of sale, receiving or stocktaking). Yet the latest technologies using sensors can now collect dynamic, continuous data on the location and status of things and
+Visualizing shopper behavior
+Online to Offline (O2O), subscription services, cashless/ cashier-less checkout and one-to-one marketing are some new trends brought about by digital transformation that retailers are scrambling to accommodate. Providing shoppers new ways to shop and experience value to earn their loyalty is a key challenge for this industry.
+As we believe the first step toward this challenge is to understand consumers, we have teamed with several retail companies since 2018 to visualize in-store shopper
+Product oriented
+Confident
+Low price, vast selection
+Conventional strategy
+people. How we turn these new forms of data into customer value is what counts in this new era of tagging. Our B2B2C business aims to enhance value for our customers and their customers (consumers) by understanding and analyzing their business in terms of affinity between people and things, and suggesting the next step to take.
+behavior. To this day, we have collected behavior patterns of several hundred-thousand consumers as they move inside stores. This plays a vital role in helping retailers optimize floor layout, shelving and how promotions are displayed in and outside the store. And by linking such data on shopping paths with point-of-sale (POS) data for various analyses and experiments, we gain one-of-a-kind insights that will be extremely useful in determining the correlation between consumers’ behaviors and their purchase decisions.
+Our aspirations
+Tracking consumer behavior inside a store is only the beginning of our B2B2C journey. We aspire to deliver tagging solutions to customers that share our vision in
+innovating business supply chains to create consumer value, and will continue to pursue new technologies and knowledge to hone our offerings.
+ The primary location tracking technology we use is Quuppa, which we chose for its precision in locating and tracking real- time movement of shoppers inside a store at 50 cm intervals, and for its small data size that allows faster processing and analysis compared to data from cameras and other sources. We are constantly seeking innovative technologies such as this.
+    New consumer value created with our tagging expertise
+Retail: A new shopper–store relationship
+Data on shopper behavior allows the store to recommend what the shopper may like or how to mix and match merchandise for a more engaging shopping experience.
+Office furniture: Enabler for workstyle innovation
+By connecting furniture and visualizing its location and usage, employers can study how employees work, using data on interactions between individuals and the physical office to improve work efficiency.
+Restaurants: Better service and efficiency
+Systems to locate a diner’s seat or to allow cashless checkout save employees from extra work so the restaurant can tailor its service to each diner and reinvent its value.
+Airport lounge: Premium rest and relaxation
+When the lounge tracks where each guest sits, guests enjoy the luxury of receiving personal service without leaving their seats.
+  A more appealing store
+   Convenient
+Less shopping time/distance, well-organized layout
+Comfortable
+Value beyond the purchase
+Experience oriented
+ 32 SATO Holdings Corporation Integrated Report 2020
+SATO Holdings Corporation Integrated Report 2020 33
+New value, new strategy
+ 
+ Sustainability framework
+ Basic concept
+The SATO Group’s Mission is to “contribute towards a better and more sustainable world,” which is why sustainability is inseparable from our business. In line with SDGs (Sustainable Development Goals) and other global agendas of growing interest and through materiality assessment, we have set forth our basic policy for sustainability in 2018 and followed up with actions in 2019 to clarify sustainability principles that matter most to our business and stakeholders. We will continue pursuing sustainability practices and work to achieve our corporate mission through our core business.
+Materiality overview
+We identify our materiality agendas by their relevance to three areas: A. Our value proposition, B. Fundamentals of our value creation, and C. Environmental responsibility. These areas stand on the basis of corporate governance and risk management.
+Addressing sustainability priorities (materiality) with a focus on our value proposition
+      A Our value proposition
+Stock loss control Productivity improvement Safety & security Eco-friendly products
+Safety & quality assurance
+B Fundamentals of our value creation
+Talent development Stakeholder engagement Workstyle innovations Human rights & labor practices
+Diversity & inclusion Supply chain management Harmony with society Health & safety at work
+C Environmental responsibility
+Greenhouse gas emissions Efficient use of resources Harmony with nature
+  D Corporate governance, risk management
+A What we aim to offer through our core business to help customers cope with societal challenges
+B What we undertake internally/externally to enable the continuous creation of customer and corporate value
+C What we do to protect the global environment where we live and do business
+D Underlying foundation
+Examples of value propositions we enable through our core business
+How we contribute to SDGs
+ Our sustainability priorities
+  What SATO solutions can do
+  Stock loss control
+• Improve demand forecasting accuracy • Minimize leftover inventory
+  Productivity improvement
+• Optimize operations
+• Automate manual tasks
+  Safety & security
+ • Prevent medical malpractice • Prevent food poisoning
+  Eco-friendly products
+ • Reduce CO2 emissions • Use less plastics
+  • Support sustainable consumption and production patterns
+  • Promote productive employment
+  • Ease strain on health systems • Improve well-being for all
+  • Combat climate change
+   34 SATO Holdings Corporation Integrated Report 2020
+ Our journey toward sustainability
+  Shinichi Takagi
+Head of Sustainability Promotion Office
+The SATO Group follows a basic policy for sustainability consisting of five principles as specified below. All of these are important concepts, but this report will focus on the principle of “Keep to our business.”
+What this principle essentially means is that we will always stay true to our business and not sidetrack to pursue SDGs simply to enhance reputation. Instead of going where sustainability trends take us, we will drive our business consistently in the direction of solving challenges for the society to truly contribute toward a better and more sustainable world, as envisioned in our corporate mission.
+Going forward, we will be monitoring metrics based on our materiality in order to visualize unmeasured contributions we have made through our business thus far, and use this information to continuously evolve the way we do business. By maintaining and expanding these efforts, we will be creating even greater value on an ongoing basis.
+Basic policy for sustainability
+  1
+Create value
+Sustainability goes hand in hand with customer value creation and corporate value enhancement, which we consider the fundamentals of company management.
+2
+Keep to our business
+We achieve sustainability through our business.
+3
+Make it duplicable
+Our sustainability initiatives shall be duplicable over time or across the group.
+4
+Align with the actual situation
+The actual situation of our business operations shall reflect our ideas for sustainability.
+5
+Enhance disclosure
+We shall disclose sustainability-related information to fulfill our accountability to stakeholders
+Topic 1: Organization to promote sustainability
+The Sustainability Promotion Committee formulates policies and action plans while overseeing their execution from a business strategy standpoint. The committee, chaired by the CEO and composed of members of relevant departments across the company, also consists of an Environmental Management subgroup. In FY 2020 the Sustainability Promotion Office was established to engage in efforts focused on our materiality.
+Topic 2: Internal promotion activities
+Our internal promotion activities include publishing an in-house newsletter, based on awareness levels and needs that we learn about through surveys. The first edition of
+the newsletter featured SDGs, and illustrated how they are connected to our business. At the same time, we are instilling awareness by distributing SDG badges to employees, who are also using them as a topic of conversation with customers and partners. We also work off of the many opinions and suggestions we receive from employees through the Teiho system to bolster our efforts and initiatives.
+In-house newsletter (Japanese & English)
+  Sustainability Promotion Office (Established April 2020)
+Sustainability Promotion Committee Chairperson:
+Ryutaro Kotaki, President and CEO
+  Environmental Management Subgroup
+   SATO Holdings Corporation Integrated Report 2020 35
+
+ A Our value proposition
+            Our value proposition to customers is closely intertwined with our main business in auto-ID solutions, and is the very heart of our materiality. It involves providing eco-friendly products and services to help customers reduce their ecological footprint, save labor and resources, or achieve safety and security, all the while continuously raising the quality of our offerings. At SATO, we use our own metrics to monitor the customer value we deliver to ensure that we leverage our business strengths toward solving societal challenges and supporting sustainability.
+  Our offerings and services
+Our value proposition (Materiality)
+Stock loss control
+Productivity improvement
+Safety & security
+Eco-friendly products
+Safety & quality assurance
+Remote printer monitoring service: SOS (SATO Online Services)
+For use in: Factories, logistics centers, restaurants
+• Aids quick recovery and prevents downtime at worksites through preventative maintenance and early detection of errors
+• Streamlines asset management with cloud-based visibility of printer status
+Metrics: Amount of downtime reduced
+Automation solutions (auto-labeling)
+For use in: Factories, logistics centers
+• Saves manpower to address labor shortages
+• Reduces the number of workers on site to allow for safe distancing
+Metrics: Amount of work hours reduced
+Original RFID tags and labels
+For use in: Retail, health care, factories, logistics centers
+• Antennas are manufactured ecologically without using solvents to corrode and dispose of excess aluminum
+• Uses foil stamping process, and recycles leftover aluminum materials
+• Antenna liner uses paper substrate rather than resin-derived film, eliminating the use of plastic
+Metrics: Amount of environmental impact reduced
+On-site feedback to reflect in value chain
+For use in: Planning, design, development, manufacturing, and quality assurance at SATO
+• Customer voices and other findings from business front lines are incorporated into different parts of our value chain
+• Problems are thoroughly investigated and quickly addressed to maintain safety and quality
+Metrics: Failure/defect rates of our hardware and consumables
+    Linerless labels
+    Solutions for visualizing logistics & optimizing inventory
+      Remote printer monitoring service
+   Automation solutions
+   Original RFID tags and labels
+     Food safety solutions
+  On-site feedback to reflect in value chain
+    Linerless labels
+With liner
+Examples of value delivered
+For use in: Food retail/production, deliveries
+  • Meets needs for agile labeling of food products nearing expiry, reducing food loss • Prevents contamination during food processing, as it leaves no liner behind
+• Reduces usage of pulp materials, since no liners are needed in label production
+• Reduces CO2 emissions, since there is no liner waste to be incinerated
+Linerless
+  Metrics: Amount of CO2 emissions reduced;
+amount of food loss reduced when linerless markdown labels are used
+     Facestock Adhesive Release coating Liner
+       36 SATO Holdings Corporation Integrated Report 2020
+SATO Holdings Corporation Integrated Report 2020 37
+ 
+     B Fundamentals of our value creation
+    Our actions in-house in the areas of talent development, workstyle innovation, and diversity/ inclusion, as well as outside the company in achieving stakeholder engagement, harmony with society, and supply chain management form the fundamentals we depend on in continuously creating value for customers. The importance of these actions in our pursuit of higher corporate value remains unchanged even as we adjust how we implement such actions due to impacts of the COVID-19 pandemic.
+Talent development, diversity and inclusion
+Progress made in FY 2019
+  Japan
+Defining workstyle guidelines by department:
+Established rules for working from home and other workstyles tailored to different job roles, facilitating a smooth transition during the COVID-19 pandemic.
+Introducing talent management tools:
+Centralized HR information such as employee work history, evaluations, and self-assessments, so that they can be utilized by the management.
+Worldwide
+Introducing global grading: Set salary grades for heads of overseas subsidiaries, with plans to link this to talent development in the future.
+Optimizing salary system and operations:
+Revised compensation schemes in view of future transfers at overseas subsidiaries and other trends, while also standardizing operations for better service levels.
+ We work to ingrain competencies (behavioral characteristics that enable sustainable performance
+in delivering results) into employees as the basis of
+our human resource development. In FY 2019, we conducted training and multisource (360-degree) feedback for 650 managers in Japan based on what we defined as key competencies expected of managers. In FY 2020, we are expanding these efforts to cover all ranks in Japan, while also applying the multisource feedback model to top-level managers in other countries.
+Participants of the said training learn a total of eight competencies — four from the perspective of Building People and four from Building Business. They then use multisource feedback to understand their current performance and identify areas of improvement, following the PDCA cycle of action.
+HR road map
+To establish and reinforce the importance of talent development, we have also added elements of Building People to the performance evaluation criteria for individual employees starting FY 2020.
+With these efforts, we develop self-driven individuals and competent leaders, which ultimately boosts employee satisfaction and the value we offer our customers.
+Workstyle innovations
+In Japan, we have set up a new employee development infrastructure called SATO University for conducting training remotely. This came after we saw how our global offices were successful in running online workshops amid COVID-19 restrictions on mobility and business operations. Doing the same in Japan would allow us to impart sales knowledge/skills and instill strategies for success, helping employees understand their individual roles and the company’s expectations of them even when we cannot communicate face to face.
+From the SATO University portal, employees can access market-specific courses or join interactive subject-specific courses with market strategy leaders and top salespeople sharing their sales expertise. These courses are open to all employees to take at their own convenience.
+Between April and June 2020, approximately 9,000 participants joined over 70 courses, with great reviews going to those courses featuring sales basics and new
+Stakeholder engagement
+We engage our investors and other stakeholders in active dialogue to communicate our corporate story for ceaseless value creation, using their feedback to improve our business management and build mutually rewarding relationships based on trust. Even with the ongoing pandemic, we believe in maintaining stakeholder engagement, and have sought to do so via online meetings with domestic and global investors whom we usually meet face to face. While there is no denying the value of in-person meetings, we will strive to make our web conferences with stakeholders equally effective now that the online mode is becoming the new norm due to considerations for safety and ease of connectivity.
+products/solutions. We noticed that many work-from- home employees showed enthusiasm in using intervals in between work to learn and improve their skills, which marks a step forward in our plans to transfer tacit knowledge within the company.
+We will work to enhance the site with more content and extend its use to onboarding training programs (for new hires) to develop it into a powerful component of our HR development infrastructure.
+SATO University portal
+A website for employees to choose and learn from materials and videos related to different markets (e.g., manufacturing, retail) and subjects (e.g., RFID, automation).
+Note: As of August 2020; only for Japan.
+Every year SATO Holdings enters the IR Award, which is presented by the Japan Investor Relations Association (JIRA) to recognize companies for their understanding and promotion of IR activities. We did not even make it to the top 100 for a few years up to 2018, but finally rose to the top 40 in 2019 amid more than 300 companies that applied for the award. We are grateful to investors and other capital market participants who recognize the steadfast efforts we have made in gathering feedback from our business front lines to improve stakeholder dialogue, and will continue doing our best to meet their expectations.
+  Building People
+• Leverage individual potential • Hone skills
+• Work together
+• Motivate team members
+(Diversity) (Professionalism) (Collaboration) (Team building)
+ Building Business
+• Understand the facts • Think critically
+• Drive changes
+• Accomplish
+(Insight)
+(Strategy) (Challenge/innovation) (Results orientation)
+  Vision
+To fill SATO with talents who embody genbaryoku and our corporate credo that underlies it, to continuously deliver customer value that add to the growth of our business.
+Install results-oriented HR systems
+Instill grade-specific competencies in employees (training, 360-degree feedback)
+Implement talent management
+Work on succession planning
+Enhance talent and career development programs (with a clearer link between the two)
+Apply big data analytics to talent management
+Run employee engagement surveys and implement focal measures based on the results
+Verify effectiveness of Start work-from-home and other new workstyles for the new head office workstyle innovations
+Promote diversity and inclusion (e.g., initiatives for empowering long-serving/female employees, increasing job satisfaction) Develop koto-uri talents outside Japan, especially in Asia
+Provide English learning programs based on department-specific goals
+Instill SATO Values
+Strengthen HR management and governance Install a global grading system
+Start competency training and 360-degree feedback (for heads of subsidiaries outside Japan) Improve goal setting and performance appraisal (for heads of subsidiaries outside Japan)
+Determine medium-term incentives (for heads of subsidiaries outside Japan)
+  Initiatives FY 2020 FY 2021 FY 2022 or later
+       Design new HR system for managers
+Establish competency framework
+Motivate long-serving employees
+Define workstyle guidelines by department
+Introduce talent management tools
+Send interested candidates for expatriate assignments
+Promote the use of English
+                   Conduct SATO Values workshops
+Develop HR management concept based on global grading
+Install a globally standardized KPI management system with yearly incentives (for heads of subsidiaries outside Japan)
+Revise expatriate rules and processes
+Send interested candidates for expatriate assignments to develop koto-uri talents locally
+Provide English learning programs for local employees
+      Implement talent management
+Work on succession planning
+Send interested candidates for expatriate assignments to develop koto-uri talents locally Deploy koto-uri best practices company-wide
+Develop the English proficiency of local employees
+Support HR measures for countries of high business priority
+Start standardized manager training
+Train local employees for a global career
+Plan global mobility policy
+Plan global benefit management
+           38 SATO Holdings Corporation Integrated Report 2020
+SATO Holdings Corporation Integrated Report 2020 39
+ Worldwide Japan
+
+  C Environmental responsibility
+     Climate change resulting from global warming poses a serious threat to social stability. We consider environmental protection indispensable to sustaining our business activities, and have revised our environmental policy in FY 2020 to reflect a greater level of commitment to our environmental responsibility. Under the new policy, we will double our efforts toward global environmental conservation.
+     Greenhouse gas emissions
+Reducing CO2 emissions is essential to tackling global warming and making our society sustainable. We understand that we are responsible for the environment, and work to monitor the carbon footprint of our business activities and promote tangible initiatives to
+Medium- to long-term targets and progress
+We saw a year-on-year increase in CO2 emissions from our business activities in FY 2019, mainly attributable to an increase in energy usage to produce a significantly larger number of RFID tags at Kitakami Operations, our main manufacturing facility in Japan. Given that this facility consumes roughly one-third of the total power used across all our business sites in Japan, we are working on the following measures to tangibly reduce its CO2 emissions.
+1 Install solar panels for self-sufficiency We have installed solar panels at the office building
+of Kitakami Operations. Set to begin operation in September 2020, this system is expected to generate about 220,000 kWh of electricity per year.
+stop global warming. Referring to the medium-term target specified for Japan in the Paris Agreement*1, we have set the following goals in reducing the environmental impact of our business activities.
+*1 International agreement to combat climate change, adopted at COP21 in December 2015.
+2 Switch to renewable energy
+We are looking into using renewable energy sources to
+meet those electricity needs of Kitakami Operations that cannot be provided for by its in-house generators.
+Our measures for renewable energy are conceived
+Efficient use of resources
+When customers change out their printers, we collect the old ones at no cost to disassemble them, recovering and sorting the components by material type for reuse through recyclers. In FY 2019, we recycled 91 percent more printers than we did the previous year.
+Harmony with nature
+One of our core businesses is consumables, which uses wood pulp to produce its main product line of labels. This is why we work to protect nature on a global scale in order to preserve biodiversity and restore the environment.
+In March 2014, SATO started participating in the Forest of Companies project that the Tokyo Development Foundation for Agriculture, Forestry and Fisheries promotes as part of its Pollenless Forestation*3 campaign. We sponsor pockets of forestland in the Tokyo cities
+of Ome (since 2014) and Akiruno (since 2019) which we have named “Forests of Ceaseless Creativity,” and engage in activities aimed at protecting the forest ecosystem and keeping its water sources clean, for example, by reducing runoff/sediment deposit.
+At our last event in Akiruno, 29 senior management and employees gathered to plant 190 cedar, 80 cypress, and 135 broadleaf seedlings. We will continue to enhance environmental awareness in our employees
+by proactively carrying out business activities that help conserve the environment and volunteering in such forestation programs.
+SATO was certified as a contributor to the Tokyo
+forestation program in October 2016 and May 2020.
+*3 A campaign to plant cross-breed cedar and cypress trees after cutting down normal cedar/cypress trees to reduce the amount of dispersed pollen to about 1 percent, and at the same time, help regenerate forests, stabilize wood supply and revitalize the forestry industry.
+with the help of the Japan Climate Leaders’ Partnership (JCLP)*2, a network we joined in FY 2018 as a supporting
+member.
+*2 A group of Japanese companies sharing the common understanding that the industrial sector should take actions to realize a sustainable, decarbonized society with a sense of urgency.
+As a member of the Japan Portable Rechargeable Battery Recycling Center (JBRC), we also do our part in collecting small rechargeable batteries disassembled from printers, recycling 11 percent more batteries in FY 2019 compared with a year ago.
+Certificates indicating the projected amount of atmospheric CO2 that can be absorbed and stored by the trees we planted.
+Certified by the Tokyo Metropolitan Government 2016 & 2020
+    Target contribution
+  Key indicators
+FY 2013
+FY 2014
+FY 2015
+FY 2016
+FY 2017
+FY 2018
+FY 2019
+FY 2020
+ FY 2030
+ Result
+Result
+Result
+Result
+Result
+Result
+Result
+Target
+ Target
+ Reduce Scope 1 & Scope 2 CO2 emissions
+  Japan
+   CO2 emissions (t-CO2)
+ 5,475
+  5,166
+ 5,103
+ 4,782
+4,930
+  5,036
+ 5,275
+4,873
+ 4,052
+ Compared with FY 2013 result
+  —
+  Down 5.6%
+ Down 6.8%
+ Down 12.7%
+Down 10.0%
+  Down 8.0%
+ Down 3.7%
+Cut by 11.0%
+ Cut by 26.0%
+       40 SATO Holdings Corporation Integrated Report 2020
+SATO Holdings Corporation Integrated Report 2020 41
+Solar panels at Kitakami
+Our new environmental policy
+The SATO Group recognizes environmental protection as a priority common to humankind, and strives to improve the environment and prevent pollution for a sustainable world by conserving resources and energy, lessening waste, and reducing odor/noise pollution. We seek to provide greener products and services, and commit to contributing to the local community and protecting biodiversity.
+ 
+ D Corporate governance
+ 1. Basic concept
+We aim to realize sustainable growth and higher corporate value on a medium- to long-term basis under our vision of becoming “the leader and most trusted company in the auto-ID solutions industry worldwide, exceeding customer expectations in an ever-changing world.” We believe that building and continuously strengthening our corporate governance system to support these aims is critical to ensuring the soundness, transparency and efficiency of our management.
+2. SATO’s corporate governance
+In shaping the foundation of this system, we seek to achieve effective corporate governance for shareholders and other stakeholders by enhancing our board of directors in terms of its supervisory functions (through close collaboration between the board’s chair and Audit & Supervisory Board members) and monitoring/oversight (with the appointing of independent external directors for a high standard of transparency).
+   1 Framework (As of August 31, 2020) [Governance]
+[Business execution and internal control]
+Audits
+and the Articles of Incorporation as well as important business management matters governed by board regulations are brought up for deliberation/discussion in a systematic and comprehensive manner.
+During FY 2019, we switched from rotating the board’s chairmanship (among non-executive directors including external directors) to electing a non-executive internal director for the chair position. We believe a board chair who is familiar with what is going on in-house can be counted on for leadership to set relevant/timely meeting agendas and drive collaboration between company executives and external officers, thereby helping the board function competently and responsibly in making major business decisions and providing management oversight.
+To make board meetings more effective, information sessions explaining important meeting agendas and industry-specific sales measures are held before or after each meeting for external directors to take part in various discussions and deepen understanding of the company’s operations to aid their activities.
+For risk matters related to making investments and loans, acquiring and disposing of stock and fixed assets, entering into business partnerships or important agreements, and selling/ buying businesses, the board seeks advice of the Business Risk Committee, which is headed by the board chair and composed of members including the CFO (Chief Financial Officer) and managers who lead the company’s main departments.
+3 Audit & Supervisory Board
+The company has an Audit & Supervisory Board, which consists
+of four members (including two external members). Audit & Supervisory Board members attend board of directors meetings to ensure that the conduct of all directors is compliant with laws/regulations and the Articles of Incorporation while also attending other important in-house meetings such as executive management meetings where they audit/supervise different decision-making processes and resolutions reached, expressing their opinions when necessary. Members undertake a wide range of other activities, including verifying the readiness/ operation of internal controls, examining the financial reporting system, reviewing various report materials, and checking the independence and audit quality of the company’s accounting auditor (audit firm).
+At Audit & Supervisory Board meetings, deliberations primarily focus on the Japan headquarters’ governance of its overseas subsidiaries or merged/acquired businesses with regard to their startup operations or level of integration with corporate strategies. In these instances, the Audit & Supervisory Board analyzes quantitative and qualitative information that it receives from overseas headquarters and finance and accounting departments, to check for proper handling of issues. If there are areas for improvement, the Board provides feedback to the company’s management team, requesting executives to take actions accordingly.
+Full-time Audit & Supervisory Board members help the board function effectively by conducting audit activities on subjects with accurate, on-site information and sharing necessary reports with external members on the same board for them to provide opinions for discussion based on their respective professional knowledge and objective perspectives. They contribute to the sound and sustainable development of the company in partnership with our accounting auditor and Auditor Office.
+4 Business execution and internal control
+Since 2003, we have put in place the executive officer system that assigns the company’s operational execution function to executive officers, clearly separating their responsibilities and authority from the oversight function of board directors.
+Executive officers appointed by the CEO form the Executive Committee, which acts as the highest decision-making authority within the company’s business execution function. Every week, the committee holds an executive management meeting where non-executive directors and Audit & Supervisory Board members join as observers. The committee reviews important matters related to overall business management to decide on their execution or submission to the board of directors for approval. As we understand the importance of corporate governance, we sought to achieve stronger company management by letting our CFO take on the additional posts of Representative Director and CCO (Chief Compliance Officer), effective from the board’s resolution on June 19, 2020. The CEO and CFO will work together to each lead a line of responsibility: one for driving business activities and managing related risks, and a second to specialize in governance and compliance, amid the global expansion of our businesses.
+5 Evaluation of the board’s effectiveness
+The company conducts yearly surveys to analyze and evaluate
+the effectiveness of our board of directors to check our corporate governance and take appropriate measures to sustainably improve corporate value. The following summarizes our evaluation approach and results for FY 2019.
+I Evaluation methodology
+At the board meeting in February 2020, we had our board secretariat explain the purpose and details of the FY 2019 evaluation survey before distributing it to the eight directors and four Audit & Supervisory Board members for their completion.
+With the survey responses that were collected anonymously, directors and Audit & Supervisory Board members exchanged opinions regarding the evaluation at the information session in March, and went on to finalize the results after reviewing the appropriateness of the evaluation approach/process and discussing the areas for improvement/actions required at the board meeting in May.
+        Reports, advises Consults
+Refers important management agendas Reports business execution
+Monitors
+1st line of responsibility
+Reports
+2nd line of responsibility
+Board of directors
+8 directors
+4 in-house, 4 external (incl. 1 woman)
+Appoints/dismisses
+Sets compensation (max. amount)
+Appoints/dismisses
+Sets compensation (max. amount)
+Reports Collaborates
+Appoints/ dismisses
+   Audit & Supervisory Board
+4 members
+2 in-house, 2 external (incl. 1 woman)
+ Business Risk Committee
+Elects/terminates Oversees
+Monitors
+General Meeting of Shareholders
+Reports
+Appoints/dismisses Oversees
+Reports
+Professional services firm
+      Teiho
+Representative Director, Representative Director, President and CEO CFO and CCO
+Risk Management Committee
+Central Health & Safety Committee
+Disciplinary & Anti-harassment Committee
+Sustainability Promotion Committee
+Quality Improvement Committee
+SATO group companies
+Employees
+3rd line of responsibility
+Collaborates
+  Executive Committee
+Auditor Office
+ Collaborates
+  Executive officers
+10 officers (incl. 1 non-Japanese woman)
+Monitors
+Group Governance Department
+ Develops, runs and manages internal rules
+             2 Board of directors
+As of August 31, 2020, we have eight directors on our board, complying with the Articles of Incorporation, which limits the number of directors to no more than 12. Out of these eight directors, three are concurrently serving as executive officers, one as non-executive director, and the remaining four as external directors. External directors, who make up half of the board, bring opinions and suggestions from independent perspectives that help strengthen the board’s oversight to ensure members including representative directors fulfil their assigned duties.
+The board of directors meets once a month in principle, and has met 12 times in FY 2019. Apart from board meetings, annual discussion meetings were also held last fiscal for non-
+Board of directors
+Audit & Supervisory Board
+ Non-executive directors
+Executive directors
+ Independent/ External
+ —
+  Internal
+  Chair
+ (incl. 2 representative directors)
+Members
+Independent/ External
+  Internal/ Full-time
+  42 SATO Holdings Corporation Integrated Report 2020
+SATO Holdings Corporation Integrated Report 2020 43
+Four stakeholders
+Shareholders Employees Society Company
+executive officers and external directors/Audit & Supervisory Board members respectively to identify and sort out medium- to long-term management issues.
+At board meetings, matters stipulated by laws/regulations
+ 
+ II Survey themes
+Designed to identify progress in improving the board’s effectiveness, the survey consisted of 11 questions covering the following six topics that are based on the previous year, with reference to the Corporate Governance Code (hereinafter, “CGC”).
+• Topics evaluated (corresponding CGC principles in parentheses)
+a. Composition of the board (4.8, 4.11)
+b. Roles/responsibilities of the board (4.1, 4.2, 4.3) c. Operations of the board (4.12)
+d. System to support the board (4.8, 4.10, 4.13) e. Relationship with shareholders (5.1)
+f. Other matters pertaining to overall effectiveness
+(write-in question)
+III Summary of results and areas for improvement
+Directors and Audit & Supervisory Board members generally found the board functioning effectively in FY 2019, with adequate efforts being made to better its performance from the previous year. There are, however, areas needing improvement as follows, which we will seek to address with speed.
+a. Composition of the board
+While the board is deemed to be highly effective in overseeing senior management, it now has an equal number of internal and external directors following resolutions passed at the general meeting of shareholders in June 2020. Survey results this time brought up the fundamental and pressing need to maintain board independence with a majority of external directors, which we fully recognize. Increasing board diversity is another challenge, and we have taken actions this fiscal to newly appoint an external director who has the experience of holding offices in listed companies.
+b. Roles/responsibilities of the board
+Survey responses noted improvements in the preparation of meeting agendas and timely submission of matters for board approval, thanks to the efforts of the board chair and secretariat. To further enhance the board’s roles and responsibilities, we will provide members with more background understanding (via information sessions) and specialized advice (via the Business Risk Committee). We will also work on feedback regarding the importance of two-way communication to increase opportunities for interaction between executive officers and external directors/Audit & Supervisory Board members by inviting the latter to join in-house meetings where they can exchange ideas and obtain information directly.
+c. Operations of the board
+The distribution of meeting materials in advance of board meetings has improved according to survey results. We will continue to better the operation of board meetings to ensure relevant agendas and active deliberations.
+d. System to support the board
+The board is thought to be more effective now that board meetings are being chaired not in rotation but by the same member (non-executive internal director) who concurrently heads the Business Risk Committee. Board members are given sufficient support to seek clarifications and receive additional information. As results from the survey show, directors and non-executive/external officers are also able to proactively collect information they need via information sessions, joint meetings, and other available channels, which we will keep on providing going forward.
+e. Relationship with shareholders
+Our IR Office has been reporting shareholder feedback received via its activities to board members every six months, and will continue to engage shareholders through information disclosure and dialogues to enable more in-depth sharing of their views and concerns at future board meetings.
+In view of the above survey results and improvement areas, we will work to further enhance our board’s effectiveness to help us achieve stronger governance and greater corporate value on a sustainable basis.
+6 Appointment and dismissal of directors and representative directors
+We select via a transparent process candidates who are able to actively contribute to the board’s decision-making and managerial oversight functions with their extensive experience/ expertise and excellent character/discernment.
+Appointment/selection criteria are as follows.
+I Internal directors
+Candidates need to be executive officers who possess the following experience, skills and attributes.
+• Strategic judgment from a medium- to long-term perspective (ability to get to the essence of matters, think critically, have foresight and decisiveness).
+• Leadership qualities to unite the organization and carry through radical changes they would drive (ability to lead collaboration, innovation and talent development toward results).
+• High ethical standards and accountability toward the company and society (integrity, acumen, alignment with corporate values, and impartiality).
+• Strong sense of independence and awareness of problems (pertaining to market, business, company resources, and self-improvement).
+• Sufficient industry experience/knowledge and abundant mental/physical strength (work performance and personal health).
+Candidates for representative director must, in addition to the above, have an outstanding track record of delivering successful results.
+II External directors
+Candidates need to meet the following requirements, and be chosen from diverse fields of specialization (such as business management, academia, law or finance).
+• Able to get to the essence of matters and raise issues to management in a rigorous manner.
+• Able to place priority on attending the company’s board meetings and committing to board duties.
+III Appointment process
+A list of qualified candidates is prepared and submitted to the board for deliberation. Candidates elected will serve one-year terms that are subject to renewal annually.
+External directors for current fiscal
+• Internal directors: The candidate list is prepared with the advice of external officers.
+• External directors: The candidate list is prepared based on recommendations made by internal and external officers after discussing them among internal directors.
+IV Dismissal process
+Representative directors can be dismissed upon consent by the board if there is objective evidence or other reasons to suggest that they are deviating materially from the appointment/selection criteria. Directors will not be nominated for election or reelection at the next general meeting of shareholders if they are deemed to not fully meet the above criteria.
+Corporate governance
+ Name
+  Reasons for appointment
+  Attendance at FY 2019 board meetings
+  Yuko Tanaka
+Ryoji Itoh
+Hideo Yamada
+Sadayoshi Fujishige
+Tanaka possesses extensive experience and broad insights as university professor and president, tapping into them actively to make statements during deliberations at board meetings and offer opinions/suggestions on diversity management. The company determines that she is qualified to drive sustainable business management globally, and has reappointed her as external director.
+Itoh possesses extensive experience and broad insights as corporate executive and graduate school professor, tapping into them actively to offer opinions and recommendations on business-critical matters during deliberations at board meetings with the awareness of enhancing SATO’s governance structure. The company determines that he is qualified to drive sustainable business management globally, and has reappointed him as external director.
+Yamada possesses extensive experience and broad insights as attorney at law, tapping into them actively to offer opinions and recommendations on business-critical matters during deliberations at board meetings from the perspective of meeting stakeholders’ expectations. The company determines that he is qualified to drive sustainable business management globally, and has reappointed him as external director.
+Fujishige possesses extensive experience and broad insights as corporate executive. Having engaged in marketing/product planning for many years and led the development of eco-friendly products, he is profoundly knowledgeable about environmental issues and the social role of companies. The company determines that he is qualified to drive sustainable business management globally, and has newly appointed him as external director.
+11/12 (92%)
+10/12 (83%)
+12/12 (100%)
+—
+               44 SATO Holdings Corporation Integrated Report 2020
+SATO Holdings Corporation Integrated Report 2020 45
+Message from new external director
+ External director
+Sadayoshi Fujishige
+Advisor, Lion Corporation
+Chairperson, Advertising Council Japan Chairperson, Japan Marketing Association External Director, Showa Nishikawa Co., Ltd. Chairperson, Japan Table Tennis Association
+Companies depend on genbaryoku (on-site capabilities). Outstanding genbaryoku is what makes a company strong and its continuous development possible. When we have different businesses linking up their site operations dynamically with one another, new value can be generated to improve productivity across our society.
+I understand SATO is a company that provides products and services for businesses to solve crucial on-site issues, heighten genbaryoku, and create new value. In my role as external director, I will do what I can to help the SATO Group contribute to the development of society.
+
+ 3. Policy and activities to ensure proper company operations
+V System to ensure proper operations across the holding company and subsidiaries
+a. System for management members of subsidiaries to
+report matters concerning the execution of their duties to the holding company
+Our group companies undertake agreements concerning company management that require their managing members to report financial conditions/results and other important business matters regularly to the holding company, which shall make decisions as necessary in accordance with subsidiary management rules and other internal regulations.
+b. System to manage the risk of loss at subsidiaries
+The Business Risk and Risk Management committees (as mentioned in III) shall also serve to review and prevent risks for our group companies.
+c. System to ensure the efficient execution of duties by management members of subsidiaries
+Subsidiary management rules shall be established to govern the appointment of managing members/ departments for our group companies. These members/ departments shall follow internal rules to manage or advise on the management of group companies, and in principle, have directors or Audit & Supervisory Board members visiting from the holding company to ensure proper company operations.
+d. System to ensure the execution of duties by management members and employees of subsidiaries complies with laws, regulations and the Articles of Incorporation
+The authority of the Group Governance Department and Auditor Office also extends to our group companies, which shall follow the same set of internal controls for compliance (SATO Values, Teiho system, and points of contact for whistleblowing) mentioned in Ib.
+VI System to ensure reliability of financial reports
+The company’s representative director(s) shall order the implementation of internal controls to ensure reliable financial reporting pursuant to the Japanese Financial Instruments and Exchange Act. Our Group Governance Department shall support and provide advice on the development of the necessary rules, which will be assessed continuously for readiness and effectiveness by our Auditor Office.
+VII Matters concerning staffing requests from the Audit & Supervisory Board and the independence of these requested staff
+The company shall discuss and decide on assigning employees to assist the Audit & Supervisory Board in their auditing duties
+when needed. Transfers, performance evaluations or other personnel-related actions for employees assisting the Audit & Supervisory Board shall be decided respecting the opinion of the same board to ensure their independence from directors and executive officers. These employees shall follow the instructions and directions of Audit & Supervisory Board members when assisting with auditing duties.
+VIII System for reporting to the Audit & Supervisory Board
+Directors and employees shall report promptly on matters pertaining to their work when requested by the Audit & Supervisory Board. If there are any known risks that could materially affect or impair the company’s interests, they shall be reported to the board immediately.
+The same board shall also receive internal whistleblowing reports regularly from the department in charge and audit results from our Auditor Office as set out by internal audit rules.
+Individuals disclosing information to the Audit & Supervisory Board shall be protected from retaliation, and their disclosed information be handled and managed appropriately by the board.
+IX Other frameworks to ensure effective audits by the Audit & Supervisory Board
+Audit & Supervisory Board members shall be able to attend important in-house meetings (in addition to board of directors meetings) to listen to deliberations of key matters and reports concerning the execution of duties by the company’s directors and employees. They can also peruse meeting minutes and records of important resolutions.
+The Audit & Supervisory Board, authorized to audit all group companies freely, shall meet the board of directors regularly to exchange views regarding matters such as company/audit issues and support needed for auditing duties.
+Audit expenses shall be budgeted annually to a certain amount, and payment claims from Audit & Supervisory Board members shall be processed promptly to facilitate their work.
+X Basic views and frameworks for eliminating anti-social forces
+The company shall act in accordance with laws and not yield to anti-social forces, taking a resolute stance in refusing any relationships with them by establishing necessary internal rules as part of our corporate social responsibility. We shall set up a department that manages our responses to anti-social forces, and collect information from related government agencies and external specialists. We will work closely with these parties as we conduct thorough in-house education to ensure that issues concerning anti-social forces are dealt with quickly.
+Corporate governance
+ The SATO Group aspires to create new value for its customers by supporting their businesses in different sites, industries and markets around the world. We believe it is important that we establish and consistently implement proper internal control systems for individual-driven frontline operations and organizational-level leadership so as to realize our corporate social responsibility and grow sustainably.
+To that end, we have revised our basic policy for internal controls to make it more comprehensive. In implementing the policy, our board of directors will regularly review how internal controls are operating to identify areas of improvement and help them function as effectively as possible.
+1 Internal control policy
+I System to ensure the execution of duties by
+directors and employees of the holding company complies with laws, regulations and the Articles of Incorporation
+a. Corporate governance
+We adopt a board of directors (that is comprised of both internal and external members) and an Audit & Supervisory Board (that is independent in checking on duties delivered by the former).
+Our Group Governance Department shall support the development of internal rules and run/manage them accordingly to ensure different departments comply with laws, regulations and the Articles of Incorporation.
+b. Compliance
+We have defined the Mission, Vision and Credo of the company, which we refer to as “SATO Values,” to provide direction for the actions of our directors and employees.
+In line with these values, we shall leverage Teiho, the company’s very own knowledge management system, to maintain and enhance a transparent framework that lets all employees participate in business management based on our culture of information sharing and reporting.
+Besides making our compliance systems more comprehensive for us to catch and keep up with regulatory changes, we shall also establish points of contact for all employees to report any potential compliance violations.
+Each department in the company is subject to audits by our Auditor Office that shall check for compliance with internal rules and the Articles of Incorporation.
+II System to store and manage information concerning the execution of duties by directors
+Minutes of important meetings and records of important resolutions shall be stored and managed properly according to document control standards and internal approval processes. We shall build a company-wide framework to manage information assets appropriately and securely, starting with laying down internal rules that address information confidentiality and different security classifications/requirements.
+We will also establish an in-house system enabling the accurate and timely disclosure of company information.
+III System to manage the risk of loss at the holding company
+Our Business Risk Committee, which reports directly to the board of directors, shall be responsible for analyzing and monitoring risks that the company would take in driving business. The committee will submit advice to facilitate thorough deliberations at board meetings for the board to make prompt and judicious decisions on business management.
+As for other general risks we must avoid in our business operations, the Risk Management Committee shall meet regularly to help manage such risks and minimize losses at the group level. This committee will identify risks, determine preventive measures to hedge risks, decide on how to deal with risks, and lead a crisis management team if necessary to work out possible responses should major risks occur or become likely to occur.
+IV System to ensure the efficient execution of duties by directors of the holding company
+We shall make clear the segregation of duties for directors and executive officers, scope of work for different departments, and chain of command within the company. Rules shall also be set for internal authorization and decision-making. Board meetings shall be used for important matters governed
+by board regulations. If they concern overall business management, they will either be reviewed by the Executive Committee before submitting to the board for approval or reported to the board after the Executive Committee has reached a decision. Other committees may also be involved depending on the nature of matters.
+As the SATO Group has administered a medium-term management plan formulated under a long-term basic strategy, the progress of corresponding action plans shall be monitored regularly. Meetings with senior management and key group company heads shall be held for information sharing to ensure access to updates on the achievement status of the medium- term plan.
+46 SATO Holdings Corporation Integrated Report 2020
+SATO Holdings Corporation Integrated Report 2020 47
+
+ 2 Internal control activities
+The following describes our internal control activities in FY 2019.
+We will monitor how our internal controls are operating and keep improving them in terms of relevance and effectiveness.
+I Managing risks
+In FY 2019, the Business Risk Committee met 28 times and reviewed matters including major investments that require board deliberation, business strategies for specific businesses/ subsidiaries, corporate planning/management, and coordination with the headquarters.
+Meanwhile, the Risk Management Committee met 12 times last fiscal, reviewing and deciding on actions to prevent the occurrence/recurrence of risk matters primarily related to information security, product safety and natural disasters. In view of the rapidly spreading coronavirus, a countermeasure office was also established under the committee in January 2020 to plan and execute various measures to contain the virus.
+II Enforcing compliance
+To help employees understand the company’s Credo and apply these beliefs to their actions, we continued group-wide activities to promote SATO Values over FY 2019. Also, through the Teiho system that we have had in place since 1976, we collected more than 460,000 suggestions/reports last year on new ideas our global employees derive from daily work, and feedback they gather from customer interactions. Besides allowing employee input to be incorporated quickly into decision-making at the top level, Teiho has also come to serve as an important system that contributes toward a corporate culture of compliance.
+On the same note, we have established channels for employees to seek advice or report on any violation of laws and regulations internally or via an independent platform that is managed by an external law firm. This means that suspected unethical behaviors of senior executives, if any, can be escalated to the Audit & Supervisory Board without interference from the named subjects, helping us better detect misconduct/ breaches and enforce regulatory compliance thoroughly.
+We also have a Disciplinary & Anti-harassment Committee that discloses to employees compliance failures as and when they occur, calling their attention to prevent such recurrence.
+III Governing the management of subsidiaries
+With the support of the Group Governance Department as well as managing members/departments and visiting directors/Audit & Supervisory Board members at our group companies, we receive monthly sales activity updates and yearly business reports to manage and oversee the readiness and effectiveness of our corporate management infrastructure.
+As part of proper governance, group companies are also required to consult the headquarters in advance about important business execution matters, based on our internal authorization matrix.
+IV Storing/handling information
+In FY 2019, we set up an Information Assets Management Committee under the Risk Management Committee for driving the proper management of information assets throughout the company. One of the committee’s activities for the year is getting all departments started on stocktaking personal information they hold and analyzing related risks to review their storing/handling of internal information assets.
+When there are information security incidents, efforts are also being made to promptly investigate the cause to plan and roll out actions that prevent them from happening again.
+V Ensuring effectiveness of the Audit & Supervisory Board
+We implement internal controls over reporting to the Audit & Supervisory Board to ensure effective audits. For example, the Board’s members meet the board of directors regularly and join executive management meetings as observers, where they are free to exchange opinions with other counterparts as and when necessary.
+5. Remuneration for board members
+1 Remuneration policy
+The remuneration structure for board members is an extremely important element of corporate governance. Therefore, the company has laid down a policy for deciding remuneration amounts and calculation methods as follows.
+1) Remuneration amount shall be set at a level capable of securing and retaining board members to make important management decisions and supervise business execution.
+2) The company shall establish a remuneration structure that contributes toward sustainable growth and higher medium- to long-term corporate value and resonates with the values of shareholders and other stakeholders.
+3) The board shall set out a reasonable, fair and transparent procedure to determining remuneration that the company would comply with.
+2 Procedure to determining remuneration
+The following steps are taken by the board to set remuneration for officers.
+Breakdown of remuneration for board members
+1) Board of directors revises basic/performance-based remuneration amount (tied to position) and payment coefficient
+2) Representative directors and internal directors assess business and individual achievements for fiscal year ended to draft evaluation
+3) Board of directors approves evaluation and decides performance-based remuneration amount for each officer
+3 Composition of remuneration
+Remuneration for the company’s directors consists of basic compensation (fixed monetary sum), performance-based monetary compensation, and performance-based stock compensation. The weighting of each component is decided by considering balance with overall remuneration amount and position of officer, whereby those in higher positions receive a larger ratio of performance-based compensation. The above does not apply to non-executive directors and Audit & Supervisory Board members, who shall only receive basic/ fixed compensation.
+116 15 24 5
+40 — — 2
+47 — — 6
+13 — — 2
+Corporate governance
+  Classification
+  Total remuneration (Millions of JPY)
+  Remuneration amount by component (Millions of JPY)
+ No. of eligible board members
+  Fixed compensation
+  Performance-based monetary compensation
+  Performance-based stock compensation
+  Internal director
+Internal member of Audit & Supervisory Board
+External director
+External member of Audit & Supervisory Board
+155
+40
+47
+13
+    Notes 1. 2. 3.
+Representative Director and President
+Director and Vice President
+Non-executive internal director
+Internal member of Audit & Supervisory Board
+External director/member of Audit & Supervisory Board
+6. Accounting audit
+The maximum amount of remuneration for board directors is ¥400 million per year (excluding employee wages for executive positions they hold in the company) as approved at the 47th Annual General Meeting of Shareholders held on June 27, 1997.
+The maximum amount of remuneration for Audit & Supervisory Board members is ¥70 million per year as approved at the 69th Annual General Meeting of Shareholders held on June 21, 2019.
+Amounts indicated in table include remuneration for directors who retired in June 2019.
+The following shows ratio data for board members’ performance-based remuneration in FY 2019.
+ Position
+  Fixed compensation
+  Performance- based monetary compensation
+  Performance- based stock compensation
+  Performance- based compensation subtotal
+  Evaluation weight
+ Business achievement
+  Individual achievement
+  4. Cooperation among Audit & Supervisory Board members, accounting auditor and Auditor Office
+61.2% 14.9% 23.9%
+76.6% 9.4% 14.0%
+38.8% 100% 0%
+23.4% 50% 50%
+  The Audit & Supervisory Board is briefed on audit plans with explanations about audit policies and provided with quarterly audit/review reports from the company’s accounting auditor (audit firm).
+The Board’s members work closely with the audit firm to exchange opinions and gather information as required to create an environment conducive to proper auditing, while also attending site visits by the audit firm when necessary.
+In addition, Audit & Supervisory Board members work closely with our Auditor Office to regularly receive internal audit results,
+internal control evaluations on financial reporting, and audit plans/outcomes corresponding to key business management concerns. This allows the Board to perform assessments across multiple dimensions. For our Auditor Office to expand its functionality and better provide independent assurance as the company’s third line of responsibility, its members (responsible for audits in Japan and overseas) have also been assigned new duties to support the Audit & Supervisory Board, as decided at the board of directors meeting held on July 14, 2020.
+100% —
+100% —
+100% —
+————
+————
+————
+company and the audit firm or its personnel conducting our accounting audits that need to be reported under the Certified Public Accountants Act.
+     48 SATO Holdings Corporation Integrated Report 2020
+SATO Holdings Corporation Integrated Report 2020 49
+SATO receives accounting audits from professional services firm PwC Aarata LLC, in compliance with provisions of the Companies Act and Financial Instruments and Exchange Act. There exist no material relationships of interest between the
+
+Management team
+(As of June 19, 2020)
+Directors
+ Career summary
+Career summary
+Career summary
+Career summary
+    Feb 1988 Jul 2007
+Oct 2011
+Apr 2012 Apr 2013
+Jul 2014 Apr 2016
+Jun 2016 Apr 2018
+Joined SATO
+Executive Officer and Senior Manager of Printer
+Sales Promotion Dept., Sales Division
+Executive Officer; Director and General Manager of Domestic Sales Dept., SATO Corporation
+Executive Officer; President, SATO Techno Lab Co., Ltd. Senior Executive Officer; President, SATO
+Technology Co., Ltd.
+Vice President
+Executive Vice President and COO; President, SATO Corporation
+Representative Director, Executive Vice President
+and COO
+Representative Director, President and CEO
+(to present)
+Apr 1980 Dec 2013 Apr 2016 Apr 2018 Jun 2018 Jun 2020
+Joined Mitsubishi Corporation
+Joined SATO, Head of President’s Office Executive Officer and CFO
+Vice President and CFO
+Director, Vice President and CFO Representative Director, Vice President, CFO and CCO (to present)
+Jul 2000 Apr 2010
+Apr 2013 Apr 2014 Jul 2015 Apr 2019
+Apr 2020 Jun 2020
+Joined SATO
+General Manager of Medical Dept., Tokyo Division, Japan Sales Headquarters
+President for healthcare business, SATO Corporation President, SATO Healthcare Co., Ltd.
+Executive Officer and Chief Wellness Officer (CWO) Vice President; President and Head of RFID business, SATO Corporation
+Vice President; President, SATO Corporation, oversees global business
+Director and Vice President; President, SATO Corporation, oversees global business (to present)
+Aug 2000 Apr 2001
+May 2003 Jun 2003 Oct 2005
+Jan 2006
+Jul 2007
+Jun 2008
+Jul 2009 Jan 2020
+Joined SATO, Senior Manager of Secretary’s Office Senior Manager of Human Resources Dept., Administration Division
+Senior Manager of Planning Dept., Corporate Planning Division
+Executive Officer and Senior Manager of Planning Dept., Corporate Planning Division
+Executive Officer, General Manager of Corporate Planning Division, and Senior Manager of Planning Dept.
+Senior Executive Officer and General Manager of Corporate Planning Division
+Vice President and General Manager of Corporate Planning Division
+Director, Vice President, and General Manager of Corporate Planning Division
+Director (to present)
+Chair of the Board (to present)
+    Ryutaro Kotaki
+Representative Director, President and CEO
+Yoichi Abe
+Representative Director,
+Vice President,
+Chief Financial Officer (CFO) and Chief Compliance Officer (CCO)
+Hiroyuki Konuma
+Director and Vice President President, SATO Corporation, Oversees global business
+Tatsuo Narumi
+Director
+  External Directors
+Audit & Supervisory Board Members
+Career summary
+Career summary
+Career summary
+Career summary
+    Apr 1980 Apr 1983
+Apr 1986 Apr 1991 Apr 1993 Apr 2003
+Jun 2004 Apr 2007
+Jun 2009 Apr 2010
+Apr2012 Apr2014
+Jun2014
+Oct2017 Apr2020
+Full-time lecturer, 1st Faculty of Liberal Arts, Hosei University
+Assistant Professor, 1st Faculty of Liberal Arts, Hosei University
+Exchange fellow, Peking University
+Professor, 1st Faculty of Liberal Arts, Hosei University Overseas fellow, University of Oxford
+Professor, Department of Media and Communication Studies, Faculty of Social Sciences, Hosei University (to present)
+External Director (to present)
+Professor, International Japan-Studies Institute, (graduate school), Hosei University (to present) Director, Suntory Foundation for Arts (to present) Chairperson, International Japan-Studies Institute (graduate school) management committee, Hosei University Dean,FacultyofSocialSciences,HoseiUniversity PresidentandChiefTrustee,HoseiUniversity
+(to present); Trustee, Japan University Accreditation Association ExecutiveDirector,TheJapanAssociationofPrivate Universities and Colleges (to present) Trustee,TheOpenUniversityofJapan(topresent) ManagingTrustee,JapanUniversityAccreditation Association (to present)
+Jul 1979 Jan 1984 Jun 1988
+Sep 1990 May 2000
+Jan 2001 Apr 2006
+Jun 2008 May 2012 Jan 2013
+Jun 2014
+Joined McKinsey & Company Partner, McKinsey & Company
+Director for product development, UCC Ueshima Coffee Co., Ltd.
+Representative Director, Schroder Ventures K.K. Project Professor, Graduate School of Media and Governance, Keio University
+President, Bain & Company Japan, Inc. Representative Director, Planet Plan. Co., Ltd. (to present)
+External Director
+External Director, Renown Incorporated Representative Director, El Sol Business Advisor Corporation
+External Director (to present)
+External Director, H.U. Group Holdings, Inc. (previously Miraca Holdings Inc.) (to present)
+Nov 1996 Apr 1999
+Jun 2000 Jul 2001 Jun 2002 Jun 2003
+Apr 2004 Jul 2010 Jun 2014
+Joined SATO
+Senior Manager of Planning Dept., Operation Planning Division
+Senior Manager of Administration Dept., Domestic Sales Division
+Senior Manager of Business Process Reform Promotion Dept.
+Director, General Manager of Logistics Division, and Senior Manager of Planning Management Dept. Director, Vice President, General Manager of Logistics Division, and Senior Manager of Planning Promotion Dept.
+Director, Vice President, and Head of CSR Office Advisor
+Audit & Supervisory Board Member (to present)
+Apr 1986 Jul 2006
+Apr 2012 Apr 2013 Dec 2013 Jun 2015
+Joined SATO
+Senior Manager of General Planning Dept., Corporate Planning Division
+Senior Manager of IR & Finance/Planning Group Senior Manager of Corporate Planning Office Senior Manager of Finance & Accounting Dept. Audit & Supervisory Board Member (to present)
+    Yuko Tanaka
+External Director
+Ryoji Itoh
+External Director
+Nobuhiro Yokoi
+Audit & Supervisory Board Member
+Junichi Nagakura
+Audit & Supervisory Board Member
+ Career summary
+Career summary
+Oct 1981 Feb 1985 Sep 1987 Dec 1987
+Jan 1996 Jun 2013
+Jun 2015 Mar 2016 Mar 2019
+Joined Chuo Audit Corporation
+Registered as a C.P.A. (Japan)
+Joined Yamaguchi C.P.A. Office
+Registered as a Certified Public Tax Accountant (Japan)
+President, Yamaguchi C.P.A. Office (to present) External Audit & Supervisory Board Member
+(to present)
+External Audit & Supervisory Board Member, Kyorin Holdings, Inc. (to present)
+External Audit & Supervisory Board Member, Tokyo Tatemono Co., Ltd. (to present)
+External Audit & Supervisory Board Member, Lion Corporation (to present)
+Executive Officer
+Kenji Ushiki
+Director, SATO Corporation
+General Manager of Value Creation (R&D)
+Executive Officer
+Goro Yumiba
+Head of North & Central Americas Chairperson and CEO, SATO America, LLC
+Mar 1995
+Apr 1995 Sep 2001 Oct 2002
+Jan 2008 Oct 2014
+Nov 2015 Jun 2016 Jun 2019
+Graduated from the Legal Training and Research Institute of Japan
+Registered as an attorney (Fukuoka Bar Association) Joined Paul, Hastings, Janofsky & Walker LLP Registered as an attorney (Daini Tokyo Bar Association); admitted as an attorney (New York State Bar Association)
+Partner, TMI Associates (to present)
+External Audit & Supervisory Board Member, Japan
+Overseas Infrastructure Investment Corporation for Transport & Urban Development (to present) External Director, Meiko Network Japan Co., Ltd. (to present)
+External Auditor & Supervisory Board Member (to present)
+External Director, Asahi Net, Inc. (to present)
+External Audit & Supervisory Board Members
+Career summary
+Career summary
+    Mar 1984
+Apr 1984
+Oct 1992
+May 1998
+Jun 2004 Mar 2006 Jun 2007
+Mar 2009 Apr 2010
+Apr 2014 Jun 2015
+Jun 2016
+Graduated from the Legal Training and Research Institute of Japan
+Registered as an attorney (Daini Tokyo Bar Association)
+President, Hideo Yamada Law Office (currently Yamada & Ozaki Law Office) (to present) External Audit & Supervisory Board Member, Taiyo Chemical Industry Co., Ltd. (to present) External Director
+External Director, Lion Corporation
+External Audit & Supervisory Board Member,
+Ishii Food Co., Ltd.;
+External Audit & Supervisory Board Member,
+Mikuni Corporation
+External Director, Hulic Co., Ltd. (to present) Executive Governor, Japan Federation of Bar Associations
+Vice President, Japan Federation of Bar Associations Chairperson, Daini Tokyo Bar Association
+External Director (to present)
+Chairperson, Akiko Tachibana Memorial Foundation (to present)
+External Director, Mikuni Corporation (to present)
+Mar 2004
+Jan 2012
+Apr 2012
+Jun 2014
+Mar 2016 Jun 2016 May 2019
+Jun 2020
+Representative Director and President, Lion Corporation
+Representative Director and Chairperson, Lion Corporation
+External Director, Showa Nishikawa Co., Ltd. (to present)
+Chairperson, Japan Table Tennis Association (to present)
+Advisor, Lion Corporation (to present)
+Chairperson, Advertising Council Japan (to present)
+Chairperson, Japan Marketing Association (to present)
+External Director (to present)
+  Takao Yamaguchi
+External Audit & Supervisory Board Member
+Noriko Yao
+External Audit & Supervisory Board Member
+  Hideo Yamada
+External Director
+Sadayoshi Fujishige
+External Director
+ 50 SATO Holdings Corporation Integrated Report 2020
+SATO Holdings Corporation Integrated Report 2020 51
+Executive Officers
+Vice President
+Yoshinori Sasahara
+Executive Officer
+Maria Olcese
+Head of South America
+General Manager, Achernar S.A.
+Executive Officer
+Hayato Shindo
+Director, SATO Corporation Head of global sales
+Executive Officer
+Hironori Onishi
+Director, SATO Corporation Head of Japan sales
+Chief Wellness Officer (CWO)
+Director and Vice President, SATO Corporation General Manager of Production
+Oversees Japan business
+Executive Officer
+Noriyasu Yamada
+Chief Alliance Officer (CAO)
+Director, SATO Corporation
+Oversees Product Planning, R&D and RFID business
+
+Company performance in FY 2019
+Financial results for fiscal year ended March 2020 (FY 2019)
+DataLase Ltd. in January 2017, R&D costs have been recorded in the form of upfront investments for the technology.
+While we have advanced from the stage of technology development to customer evaluation, and continued trials aimed at commercialization, we need to delay this fiscal’s plans to decide on commercialization rollout owing to customer feedback on new technical issues. This resulted in our booking of impairment loss under extraordinary losses.
+Under these circumstances, net sales decreased 15.0% to ¥363 million (decrease of 10.6%, excluding foreign currency effects), and an operating loss of ¥1,317 million was incurred, compared with that of ¥1,421 million for the previous fiscal year.
+On September 15, 2020, we reached an agreement with DataLase Holdings Limited to transfer all shares in DataLase Ltd. by management buyout (MBO).
+ Our group posted net sales of ¥116,372 million (up 0.2% from the previous fiscal year), operating income of ¥7,461 million (down 2.8%), ordinary income of ¥6,571 million (down 13.7%),
+and net loss attributable to owners of parent of ¥1,882 million (compared with net income of ¥3,773 million for the previous fiscal).
+Sales
+(Millions of JPY) 120,000 113,383
+90,000
+60,000
+30,000
+0 (FY) 2017
+■ Japan ■ Overseas
+Operating income, operating margin, EBITDA
+Profit attributable to owners of parent, ROE
+(Millions of JPY)
+116,179
+116,372
+(Millions of JPY) 15,000
+(%)
+13,250 13,376 10 8
+5,000 4,074 7.6
+(%)
+10
+      11,814
+5.5
+6,249
+(FY) 2017
+3,773
+6.9
+Auto-ID solutions (Japan)
+(Millions of JPY)
+Auto-ID solutions (Overseas) IDP
+   12,000 9,000 6,000 3,000
+0
+6.6 6.4
+7,679 7,461 6
+(Millions of JPY)
+(Millions of JPY) 50,000
+(Millions of JPY) (Millions of JPY) 5,000 500
+(Millions of JPY)
+      4 2
+4,000
+2,000
+315
+-1,426
+(FY) 2017
+2,500 5
+00
+80,000
+60,000
+40,000
+20,000
+0
+70,482 72,435 73,360 8,000
+42,585
+1,865
+43,316
+2,239
+2018
+42,648
+2,277
+2019
+427
+-1,421
+2018
+0 -500 -1,000 -1,500 -2,000
+       6,982
+5,831 6,000
+363
+-1,317
+2019
+6,479
+40,000 30,000 20,000 10,000
+4,000 400 3,000 300 2,000 200 1,000 100
+0
+     2018
+2019
+2018 2019
+-2,500
+(FY) 2017
+2018
+-3.6
+-1,882 -5 2019
+■ Operating income (left axis) ■ EBITDA* (left axis) Operating margin (right axis)
+* EBITDA = operating income + depreciation + amortization
+■ Profit attributable to owners of parent (left axis) ROE (right axis)
+   Segment results
+● Auto-ID solutions (Japan)
+In Japan, we have tailored and implemented market/industry- specific strategies to strengthen the koto-uri approach so that our sales front lines work to promote printers, consumables and other products together in the form of optimized solutions for solving customers’ problems with proven results. This approach helped boost business deals for solutions, driving a marked increase in mechatronics sales (primarily printers and software) particularly for the first nine months. Consumables sales, on the other hand, decreased year on year as U.S.–China trade tensions, together with Japan’s sales tax hike and spate of natural disasters, caused a slump in domestic consumption, which impacted the manufacturing industry among others. When the coronavirus outbreak struck in the fourth quarter, production activities were paralyzed, and the closing of business deals delayed. Levels of mechatronics/consumables orders stagnated, pushing down both revenues and profits for our domestic business to record subdued growth in sales with reduced operating income over the full year.
+Amid such business conditions, labor shortages are creating heightened needs for operational productivity, visibility, and automation across various sectors including manufacturing and logistics. We aim to strengthen our ability to propose solutions for the changing and increasingly sophisticated challenges of our customers to grow business stably in the future.
+Under these circumstances, net sales increased 1.3% to ¥73,360 million, and operating income decreased 7.2% to ¥6,479 million, compared with the previous fiscal year.
+● Auto-ID solutions (Overseas)
+Outside Japan, both local-currency sales and operating income increased year on year, although the former translated into a decrease on the yen basis due to adverse foreign currency effects.
+Overseas companies conducting our base business have been moving away from selling products to selling solutions as their sales approach. Results were beginning to show until the coronavirus hit business in the Americas, Europe, Asia and Oceania regions, leading to lower year-on-year sales in yen terms (even as marginal growth was achieved in local currency terms). Operating income increased only slightly, with earnings gain at some subsidiaries in the Americas and Europe helping to offset decline in Asia and Oceania caused by the slowdown in China-related business and the coronavirus outbreak.
+For other companies specializing in primary labels, sales increased while operating income decreased overall, largely attributed to Okil-Holding in Russia, which recorded more revenue from its progress in developing new sales potentials but less profits due to rising raw material costs and foreign currency impact, among other factors.
+Under these circumstances, net sales decreased 1.5% to ¥42,648 million (increase of 3.5% excluding foreign currency effects) and operating income increased 1.7% to ¥2,277 million, compared with the previous fiscal year.
+● IDP
+In our business centering on the Inline Digital Printing (IDP) technology that we own after fully acquiring U.K.-based
+Cash flows
+■ Sales (left axis)
+Operating income (right axis)
+Operating income (right axis)
+■ Sales (left axis)
+Operating income (right axis)
+(FY) 2017
+2018
+2019
+0 (FY) 2017
+■ Sales (left axis)
+  At the end of the fiscal year under review, cash and cash equivalents stood at ¥23,379 million, an increase of ¥6,948 million compared with the end of the previous fiscal year.
+Major cash flow-related factors for FY 2019 are outlined below.
+● Cash flow from operating activities
+Net cash provided by operating activities amounted to ¥11,259 million. This resulted primarily from cash inflows including ¥636 million of income before income taxes, ¥5,043 million for depreciation, ¥871 million for amortization of goodwill, ¥6,397 million for impairment loss and a ¥1,006 million decrease in trade receivables, and cash outflows including ¥2,872 million of income taxes paid.
+● Cash flow from investing activities
+Net cash used in investing activities amounted to ¥2,449 million. This resulted primarily from expenditures of ¥2,858 million for purchase of property, plant and equipment and ¥1,045 million for purchase of intangible assets, notwithstanding ¥1,456 million
+Forecasts for fiscal year ending March 2021 (FY 2020)
+in proceeds from sales of property, plant and equipment and intangible assets.
+● Cash flow from financing activities
+Net cash used in financing activities amounted to ¥1,311 million.
+Trends in cash flow
+(Millions of JPY)
+11,259
+8,810
+-2,449
+   6,091
+-3,504
+6,184
+-3,504
+4,152
+-5,212
+10,769
+2,052
+-8,716
+2,679
+9,365
+   -9,596
+ 52 SATO Holdings Corporation Integrated Report 2020
+SATO Holdings Corporation Integrated Report 2020 53
+As COVID-19 continues to spread globally with no end in sight, it is difficult to establish credible forecasts of future business performance that depends on the operations of
+(FY) 2015
+■ Cash flow from operating activities
+2017
+■ Cash flow from investing activities
+SATO group companies in Japan and other countries around the world. Efforts will be made to announce our financial guidance for FY 2020 and beyond once it can be finalized.
+2016
+Free cash flow (cash inflow from operating activities and cash outflow from investing activities)
+2018 2019
+ 
+Financial summary
+Fiscal years end March 31 the following year
+Business performance
+(Millions of JPY)
+  FY 2019
+  116,372
+ 36.9
+ 50,179
+ 42,718
+ 7,461
+ 13,376
+ -1,882
+  103,147
+ 48,823
+ 3,377
+ 3,835
+ 5,914
+  11,259
+ -2,449
+ 8,810
+ -1,311
+ 23,379
+  -56.06
+ 1,423.30
+ 70
+  43.1
+ 6.4
+ 11.5
+ 6.2
+ -3.6
+ 46.3
+ 38.6
+  FY 2009
+FY 2010
+78,368 23.7 33,018 28,791 4,226
+6,417 503
+66,134 34,929 1,902 5,084 2,190
+1,595 -4,283
+-2,687
+-3 10,813
+16.71 1,156.88 34
+42.1 5.4 8.2 5.7 1.4 52.7 24.9
+FY 2011
+80,536 23.0 34,217 29,564 4,652
+6,830 1,953
+74,830 36,172 1,859 1,836 2,177
+4,434 -7,015
+-2,581
+3,273 11,377
+64.87 1,201.02 35
+42.5 5.8 8.5 5.9 5.5 48.3 38.2
+FY 2012
+87,256 25.6 36,410 30,958 5,452
+8,213 2,726
+77,521 40,205 2,042 3,059 2,760
+3,793 -984
+2,809
+-2,839 11,992
+90.56 1,330.77 37
+41.7 6.2 9.4 7.1 7.2 51.7 31.8
+FY 2013
+96,773 29.3 41,180 34,421 6,758
+9,871 4,295
+86,737 46,734 2,225 6,106 3,112
+10,589 -4,776
+5,812
+-1,511 16,763
+141.57 1,454.90 40
+42.6 7.0 10.2 8.6 9.9 53.7 23.5
+FY 2014
+99,831 33.2 42,708 35,264 7,444
+11,044 3,763
+95,174 53,158 2,292 7,372 3,599
+9,205 -6,221
+2,983
+-3,062 17,145
+113.96 1,579.15 45
+42.8 7.5 11.1 8.2 7.6 55.6 18.7
+FY 2015
+105,504 37.3 44,942 38,487 6,455
+11,573 3,687
+96,887 52,155 2,414 6,717 5,118
+6,091 -9,596
+-3,504
+3,254 16,212
+110.07 1,525.09 55
+42.6 6.1 11.0 6.4 7.1 52.8 31.5
+FY 2016
+106,302 36.6 45,022 38,917 6,104
+11,296 3,221
+104,280 54,217 2,387 5,723 5,191
+10,769 -8,716
+2,052
+-1,343 16,757
+96.07 1,579.53 60
+42.4 5.7 10.6 5.4 6.2 50.8 32.1
+FY 2017
+113,383 37.8 48,655 42,405 6,249
+11,814 4,074
+106,447 56,225 2,994 9,044 5,565
+6,184 -3,504
+2,679
+-3,458 16,026
+121.54 1,634.69 65
+42.9 5.5 10.4 5.6 7.6 51.5 30.6
+FY 2018
+116,179 37.6 50,676 42,997 7,679
+13,250 3,773
+107,574 56,668 3,460 4,801 5,571
+9,365 -5,212
+4,152
+-3,534 16,430
+112.46 1,649.86 70
+43.6 6.6 11.4 7.1 6.9 51.5 28.8
+                        Sales 74,917
+            Overseas sales ratio (%)
+Gross profit
+Selling, general and administrative expenses
+Operating income
+EBITDA (operating income + depreciation + amortization of goodwill)
+Profit attributable to owners of parent
+Financial position
+Total assets
+Net assets
+Research and development
+Capital expenditures
+Depreciation and amortization of goodwill
+Cash flow
+Cash flow from operating activities Cash flow from investing activities
+Free cash flow (net cash provided by operating activities less cash used in investing activities)
+Cash flow from financing activities
+Cash and cash equivalents at end of year
+Per-share data (JPY)
+EPS (earnings per share) BPS (book value per share) DPS (dividends per share)
+Financial indicators (%)
+Gross profit margin Operating income ratio EBITDA margin
+ROA (return on assets) ROE (return on equity) Equity ratio Debt-to-equity ratio*
+* Includes lease obligations and zero coupon convertible bonds
+24.2 31,279 28,705 2,574
+5,123 781
+64,203 35,985 1,826 2,387 2,549
+5,860 -2,093
+3,766
+-826 13,774
+25.95 1,191.84 33
+41.8 3.4 6.8 3.6 2.2 55.9 19.6
+                                                                                                                                                                                                                                                                                                                                                                        54 SATO Holdings Corporation Integrated Report 2020
+SATO Holdings Corporation Integrated Report 2020 55
+
+ Stock information (As of March 31, 2020) General information
+Major shareholders
+Name
+Sato Yo International Scholarship Foundation
+Japan Trustee Services Bank, Ltd. (trust account)
+The Master Trust Bank of Japan, Ltd. (trust account)
+Government of Norway
+SATO Employees’ Stockholding
+The Bank of New York Mellon 140051
+Mieko Yokoi
+Shizue Sato
+Arena Co.
+Japan Trustee Services Bank, Ltd. (trust account 9)
+Corporate data
+Profile (As of March 31, 2020) Name
+Location
+Established Incorporated Representative director Paid-in capital Employees Consolidated sales
+For more IR information, see:
+www.sato-global.com/ir/
+Global network (As of September 1, 2020)
+Shares authorized
+Shares issued
+Shareholders
+Stock listing
+Securities code
+Fiscal year
+General meeting of shareholders
+Shareholder registry administrator
+80,000,000
+34,921,242
+8,284
+First section of the Tokyo Stock Exchange 6287
+April 1 to March 31 June
+Mitsubishi UFJ Trust and Banking Corporation
+Shares owned
+3,786,200 2,853,800
+1,843,000
+1,364,905 1,189,281 1,062,200
+900,145 897,470 854,460
+831,500
+% to shares outstanding
+11.21
+8.45
+5.45
+4.04 3.52 3.14 2.66 2.65 2.53
+2.46
+SATO HOLDINGS CORPORATION
+Knowledge Plaza, 1-7-1 Shimomeguro, Meguro-ku, Tokyo 153-0064, Japan Relocation scheduled for November 2020:
+Tamachi Station Tower N, 3-1-1 Shibaura, Minato-ku, Tokyo 108-0023, Japan
+1940
+1951
+Ryutaro Kotaki, President and CEO ¥8.4 billion
+5,429
+¥116.4 billion
+For more sustainability information, see:
+www.sato-global.com/ sustainability/
+Composition of shareholders
+Treasury stock 1,155,000
+3.31%
+Other corporations
+4,893,891
+14.01%
+Financial institutions
+8,633,364
+Total shares issued
+34,921,242
+Financial instruments firms 254,184
+0.73% Foreign companies
+10,181,041
+29.16%
+Individuals and others 9,803,762
+28.07%
+Notes: 1. The company holds treasury stock of 1,155,000 shares, but is excluded from the above list of major shareholders.
+24.72%
+Stock price and trading volume
+Europe
+France Germany Italy Netherlands
+Poland Switzerland Russia UK
+Spain
+Sweden
+(JPY) 4,000
+3,000
+2,000
+1,000
+0
+(JPY) High
+Low
+Fiscal year-end
+Stock price
+■ Trading volume
+56 SATO Holdings Corporation Integrated Report 2020
+SATO Holdings Corporation Integrated Report 2020 57
+FY 2015
+3,550 2,090 2,396
+FY 2016
+2,676 1,761 2,372
+FY 2017
+3,785 2,236 3,365
+FY 2018
+3,855 2,350 2,596
+FY 2019
+3,500 1,778 2,122
+For more information, contact:
+Public Relations Office
+Website: www.sato-global.com
+All information in this report, including the financial outlook, future forecast and strategies, is presented from judgments that are based on reasonable predictions made from information available at the
+time this report was prepared. Please note that actual results and performance may vary due to unforeseeable risks, events or consequences.
+2. % to shares outstanding is calculated excluding treasury stock.
+(Thousands of shares) 5,000
+4,000 3,000 2,000 1,000
+0
+Asia
+China India Indonesia Japan Malaysia Philippines
+Singapore South Korea Taiwan Thailand Vietnam
+Disclaimer
+Offices in 27 countries/regions Presence in over 90
+Oceania
+Australia New Zealand
+Americas
+Argentina Brazil Mexico USA
+
+ Basics of auto-ID technology
+SATO terminologies
+Auto-ID (automatic identification) is the technology we see in barcodes and RFID that allows information to be entered or identified automatically. It is used in retail, logistics, manufacturing, the service industry, health care and many other sectors of daily life.
+Our business of integrating barcode printers/labels, software and services designed in-house with products and technologies from partners to resolve customers’ worksite issues.
+This business is separated into Overseas and Japan segments, with the former comprised of the Base business and the Primary Labels business.
+Our business of tagging variable information such as prices, manufacture dates and expiration dates in the form of barcodes and more.
+Our business that expands our tagging domain to include consumer touch points and aims to help our customers raise their company value.
+Our core competency of going to customer sites in an array of markets/industries to understand the essence of their pain points and offer solutions that improve or innovate their operations. It consists of three elements: industry expertise (versed in many industries), technical expertise (offering the best mix of products) and servicing (constantly improving operations at customer sites).
+A direct marking technology comprising a special heat-sensitive pigment that can be applied as a coating to virtually any substrate and exposed to a laser beam to create a color change.
+A business for developing, manufacturing and selling special materials used mainly in IDP (Inline Digital Printing). A reporting segment formerly named “Materials business.”
+Sales approach of selling not just the product but combinations of products in the form of solutions that include hardware, consumables, maintenance services and software, demonstrating ROI and other value propositions for the customer.
+Labels without backing paper. They are linerless from when they are produced, using less wood pulp and leaving behind no liner waste to be incinerated, resulting in reduction of CO2 emissions.
+Our business of tagging fixed information via product labels and other media. This business operates from SATO Group companies located in Argentina, Brazil and Russia.
+A cloud-based monitoring service for printers that enables preventative maintenance and on-the- spot troubleshooting.
+With SOS, users can view the status of their cloud-connected printers at a glance and manage them centrally with ease, while SATO can increase productivity of its service personnel, allowing for even small service teams to provide improved support.
+The process of physically attaching information such as ID and status to things and people and digitizing the data so that it can be fed to and processed by core IT systems for producing analyses and insights.
+ B2B2C business
+Term
+Auto-ID solutions business
+Description
+ Base business
+  Genbaryoku
+ IDP
+(Inline Digital Printing)
+ IDP business
+ Koto-uri
+(Selling the solution, not the product)
+ Linerless labels
+ Primary labels business
+ SOS
+(SATO Online Services)
+ Tagging
+      Data
+Auto-ID technology
+People, objects
+Scanners
+ Encode
+Attach
+Read
+    Membership cards, tickets (for transport and
+entertainment, etc.)
+Website links http://.............
+Master data of products • Product code
+• Product name
+• Lot no.
+• Price
+Barcode
+An array of parallel, rectangular bars and spaces of varying widths used to represent data in machine-readable form. Popular for their low cost and highly reliable identification, barcodes are now an integral part of social infrastructure.
+Most, if not all, consumer products on the market in all countries today are marked with barcodes to facilitate retail checkout procedures.
+Two-dimensional (2D) barcode
+A pattern of squares, hexagons, dots and other shapes used to represent data in machine-readable form. 2D barcodes store data in horizontal and vertical dimensions so a much greater quantity of data (including text data containing Japanese characters) can be encoded in a much smaller space compared with linear barcodes. This makes them popular for a wide range of applications such as consumer advertising (links to websites), entertainment ticketing, and tracking of electronic parts.
+Locating technologies
+Best known by GPS*1 and IPS*2 which are capable of locating people or objects outdoors and indoors respectively, locating technologies have significant applications in self-driving vehicles, navigation, security tracking and activity analyses.
+IPS, in particular, is a core aspect of SATO’s Visual Warehouse solution that measures operational data within logistics warehouses (e.g., distance between/traveled by workers and goods, time spent on jobs) at high precision and in real time to improve productivity.
+*1 GPS: Global Positioning System *2 IPS: Indoor Positioning System
+                  Manufacturer (Japan)
+Product (Mi k)
+This barcode is specific to this particular product.
+  RFID
+ Short for Radio Frequency Identification, RFID is a method that uses radio waves for contactless reading and writing of data. Unaffected by surface stains or damage, RFID tags can be read by batch and over long distances or through intervening objects as long as they are within the range of the reader.
+RFID technology has developed rapidly to find its way into various applications such as incoming goods inspection, inventory control and stocktaking.
+RFID inlay
+Chip
+Antenna
+          58 SATO Holdings Corporation Integrated Report 2020
+SATO Holdings Corporation Integrated Report 2020 59

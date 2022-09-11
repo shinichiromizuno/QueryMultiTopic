@@ -1,0 +1,118 @@
+SECTION 01
+Value Creation Story
+SECTION 02
+Growth Strategies for Sustainable Value Provision
+SECTION 03
+Foundation Underpinning Sustainable Growth
+SECTION 04
+Data and Information
+ Feature
+2
+At the Daio Paper Group, we have declared our commitment to achieving carbon neutrality by 2050.
+We have been proceeding with a wide variety of environmentally-conscious initiatives, such as increasing energy efficiency and using biomass fuel. In line with the roadmap that we have established, we will continue to implement measures toward realizing carbon neutrality.
+Roadmap to Achieving Carbon Neutrality by 2050
+We will actively work to reduce dependence on fossil fuel by applying know-how and new technologies that enable us to use alternative fuels.
+Initiatives toward a Carbon-free Society
+ By 2020
+By 2030
+46% reduction in CO2 emissions by FY2030 (compared with FY2013)
+By 2040
+Shutting down of first coal-fired boiler at the Mishima Mill
+By 2050
+Shutting down of last coal-fired boiler
+Full phasing-out of coal
+Shikokuchuo City Carbon Neutrality Council Established
+– Discussing Measures and Roadmap for Region-Wide Energy Transition –
+On June 21, 2021, the Shikokuchuo City Carbon Neutrality Council, consisting of major energy users in Shikokuchuo City, was established, with Daio Paper serving as a founding member.
+As indicated by the Green Growth Strategy through Achieving Carbon Neutrality in 2050, formulated by the Japanese government in December 2020, it is becoming essential for private companies to make efforts toward realizing carbon neutrality.
+To address global warming, we are making a wide variety of efforts, such as energy conservation and fuel transition. To accomplish our target of reducing our CO2 emissions by 46% compared to FY2013 by FY2030, we are now proceeding with various measures steadily.
+To realize carbon neutrality by 2050, however, we have to, at present, depend on innovation to some extent. The key to the adoption of new technology lies not only in each individual company’s efforts, but also in cooperation between companies and in cooperation with local governments and financial institutions.
+Boasting the highest shipment value of paper products in Japan, Shikokuchuo City is a major center of papermaking and its related industries. The city is home to a cluster of papermakers, all located in a certain area. The council intends to take advantage of this feature of the circumstances and implement initiatives toward realizing carbon neutrality through public-private cooperation.
+In the first phase, the council will define its entire vision regarding a carbon-free society, collect information on cutting-edge technology trends and policy trends, and formulate a roadmap toward realizing carbon neutrality. Thereafter, while updating the roadmap, the council will proceed to the second phase, where they will implement various measures in order to contribute to achieving carbon neutrality in Shikokuchuo City.
+While respecting the bonds with local communities, Daio Paper will continue to contribute to protecting the global environment.
+Information Disclosure in line with the TCFD Recommendations
+ We position response to climate change as a top priority of management. Our policy, specific initiatives, etc. regarding climate change are examined at the Sustainability Committee, which reports to the Board of Directors and deliberates on such issues on a regular basis. Toward disclosing information in line with the TCFD recommendations, we are currently conducting scenario analysis, starting from the paper and paperboard business, which is expected to have a significant impact. We plan to provide a disclosure in the four TCFD thematic areas by April next year.
+      Shutting down of second coal-fired boiler
+ 51 Integrated Report 2021
+Integrated Report 2021 52
+Toward carbon neutrality
+  Feature 2 Initiatives toward a Carbon-free Society
+Mishima Mill at present
+Society
+SECTION 01
+Value Creation Story
+SECTION 02 SECTION 03 SECTION 04 Growth Strategies for Sustainable Value Provision Foundation Underpinning Sustainable Growth Data and Information
+Recovered paper (corrugated containers and magazines)
+Recovered paper (corrugated containers and magazines) As of FY2030 (One coal-fired boiler shut down) + hard-to-recycle recovered paper + gypsum board lining paper
+              Daio Paper
+Product
+Hard-to-recycle recovered paper
+CO2
+Incinerator No recovery of energy from waste
+Customer
+Gypsum board lining paper
+CH4
+Landfill
+Society
+Daio Paper
+CO2
+New power generator
+CO2
+Product
+Customer
+       CO2
+  Recycling plant
+Coal
+Incinerator No recovery of energy from waste
+Recycling plant
+Coal
+Incinerator No recovery of energy from waste
+Fuel
+(Plastics in recovered paper)
+Material recycling
+Material recycling
+Energy (Power + steam)
+Energy (Power + steam)
+CO2
+CO2
+CO2
+CO2
+Incinerator No recovery of energy from waste
+Landfill
+        External (upstream)
+Coal-fired boilers (3 units)
+Internal
+External (downstream)
+External (upstream)
+Coal-fired boilers (2 units)
+Internal
+External (downstream)FY2030 Target to Combat Global Warming
+Reducing CO2 Emitted through Production Activities by 46% Compared to FY2013
+- Shut Down One of the Three Coal-fired Boilers at the Mishima Mill -
+Proper management of forestation and expansion of overseas forestation area
+Promotion of energy conservation (reduction of energy consumption per unit by at least 1% every year)
+Installation of a new waste- to-energy boiler at the Mishima Mill (Environmental assessment in progress)
+Installation of solar power generation equipment at production bases in Japan and abroad
+     Message from the General Manager of the Production Division
+Contributing to Achieving Carbon Neutrality by Continuing Our Initiatives for
+and we plan to make the disclosure by April 2022.
+We believe that response to climate change should be
+regarded as a matter that we should work on actively as a going concern, not reluctantly as something unavoidable. We will implement specific measures step by step, not just stop at mere information disclosure.
+We have already taken the first step toward accomplishing the target. At the Mishima Mill, we began to operate a high- efficiency black liquor recovery boiler in July 2020, as well as
+an anaerobic treatment facility that extracts biogas from pulp wastewater in October of the same year. In FY2021, we plan
+to partially switch our lime kilns’ fuel source from heavy oil to liquefied natural gas (LNG), a low-carbon fuel.
+In addition to these efforts at the Mishima Mill, we are installing another waste boiler at Iwaki Daio Paper. Fueled by wood residue and waste plastic, the mill’s third waste boiler is scheduled for operation in FY2022. The completion
+of the boiler will transform Iwaki Daio Paper into a mill
+that uses only in-house power generated from non-fossil fuels. Moreover, Iwaki Daio Paper’s surplus power will
+be transferred to its adjacent Elleair Product’s Fukushima Factory, which is expected to contribute to reducing Fukushima Factory’s power purchases. This project is recognized as the first “collaborative energy-efficiency plan” under Ministry of Economy, Trade and Industry’s Act on the Rational Use of Energy (Energy Conservation Act).
+We also plan to newly install a waste boiler at the Mishima Mill, with environmental assessment currently underway. By doing so, we will shut down one of the three coal-fired boilers at the Mishima Mill by FY2030. Even after that, we will continue to reduce our dependence on coal by making effective use of biomass and waste-derived fuel. We will completely phase out coal usage and achieve carbon neutrality by FY2050.
+Environmental Conservation
+Hiroshi Yamasaki
+Director, Managing Executive Officer Responsible for Production Unit; General Manager of Production Division
+ At the Daio Paper Group, we formulated the Sustainability Vision in May 2021 and declared in the vision that we strive to achieve carbon neutrality by FY2050 under our long-term vision for global warming countermeasures. We also set
+the milestone target of reducing our CO2 emissions by 46%
+compared to FY2013 by FY2030.
+Moreover, this May, we announced our endorsement of
+the TCFD as part of our measures for disclosing information on climate change. Currently, we are preparing for information disclosure based on the TCFD recommendations,
+53 Integrated Report 2021
+Integrated Report 2021 54

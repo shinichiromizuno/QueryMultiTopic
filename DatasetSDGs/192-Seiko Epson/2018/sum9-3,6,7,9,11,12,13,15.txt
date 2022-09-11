@@ -1,0 +1,445 @@
+Value Creation Infrastructure (Environment)
+ An Environmental Vision for 2050
+Environmental Vision 2050
+Epson's vision is to become an indispensable company that uses its efficient, compact and precision technologies to achieve sustainability in a circular economy.
+Actions
+How Epson is Working for a Sustainable Society
+    ●
+g
+●
+● ● 
+g
+● ● 
+.
+s
+p
+pr
+sy
+y
+C
+ro
+s
+oc
+dv
+st
+o
+t
+on
+ce
+va
+e
+e
+nt
+es
+an
+m
+m
+tr
+r
+i
+i
+ss
+s
+s
+t
+b
+b
+s
+e
+e
+u
+u
+t
+s
+s,
+h
+h
+t
+te
+,
+p
+r
+ro
+et
+p
+ou
+t
+r
+r
+ug
+o
+o
+i
+o
+o
+gh
+i
+h
+o
+n
+n
+d
+d
+t
+t
+u
+uc
+o
+e
+e
+c
+p
+pe
+r
+rn
+t
+ts
+e
+na
+s
+a
+n
+a
+na
+at
+ti
+i
+n
+nd
+a
+o
+d
+s
+n
+n
+on
+n
+d
+se
+du
+a
+al
+l
+e
+e
+u
+r
+r
+n
+ni
+en
+v
+vi
+ic
+iq
+nv
+q
+vi
+c
+i
+e
+e
+y
+ya
+u
+u
+r
+r
+e
+o
+o
+s
+s
+.
+.
+an
+ei
+n
+n
+nd
+in
+de
+nn
+m
+m
+no
+e
+es
+ov
+en
+n
+s
+va
+t
+t
+ta
+a
+ta
+a
+al
+t
+t
+l
+i
+b
+b
+i
+i
+o
+i
+l
+li
+on
+n
+ni
+i
+n
+s
+sh
+.
+.
+it
+ti
+hr
+i
+a
+at
+re
+ti
+ec
+i
+v
+cy
+ve
+e
+y
+s
+s.
+c
+c
+l
+li
+n
+n
+in
+ng
+g
+Epson was founded in 1942 in a natural setting, in Suwa, Japan. Harmonious co-existence is our cornerstone. Even as we expanded globally, our culture of respect for the environment never wavered. In 1988 Epson became the world’s first enterprise to announce it would eliminate ozone-depleting chlorofluorocarbons (CFCs) from its operations. Past and present, Epson has always set high goals for its environmental initiatives. We revised Environmental Vision 2050 in 2018 in line with our aim of making Epson an indispensable company that is committed to sustainability, as stated in the Management Philosophy. We remain engaged with the problems faced by our customers and communities as we work for a sustainable society, starting with meeting the SDGs by 2030. Through our business, we will keep creating uniquely Epson environmental value.
+       R
+R
+e
+ed
+du
+u
+c
+ce
+e
+t
+th
+he
+e
+e
+en
+n
+v
+v
+i
+i
+r
+ro
+o
+n
+nm
+me
+en
+n
+t
+ta
+al
+l
+i
+i
+m
+m
+p
+p
+a
+a
+c
+c
+t
+t
+s
+s
+o
+of
+fo
+o
+u
+u
+r
+r
+m
+ma
+a
+n
+nu
+uf
+fa
+ac
+c
+t
+tu
+u
+r
+ri
+i
+  A Ad
+n
+c
+c
+e
+e
+t
+t
+h
+he
+ef
+fr
+r
+o
+on
+n
+t
+ti
+ie
+er
+r
+s
+so
+of
+f
+i
+in
+n
+d
+du
+u
+s
+s
+t
+tr
+r
+  C
+Established Environmental Vision 2050
+Second Environmental Benchmark Year Established General Environmental Action Plan
+Environmental Benchmark Year CFC-free Declaration
+Established Group Environmental Policy
+Global Enviromental Concern
+Global warming
+Depletion of resources
+Revised Environmental Vision 2050
+  Epson's SDGs from an environmental perspective
+(as of September 2018)In 2008, Epson established Environmental Vision 2050, a statement of our 2050 environmental goals. Ten years later, the business landscape is very different.
+Externally, the Paris Agreement of 2015 established a long-term global target of keeping the increase in average temperature worldwide to well below 2°C above pre-industrial levels.
+An international initiative known as Science Based Targets (SBT) recognizes
+Junichi Watanabe
+Managing Executive Officer General Administrative Manager, Production Planning Division
+businesses that set medium/long term greenhouse gas (GHG) reduction targets consistent with the 2°C goal. This is a new world standard. And since climate change is not the only environmental problem, we face greater demands to circulate resources. An example is the EU Circular Economy Action Plan. Enterprises have to step up their efforts.
+Internally, Epson has changed our business structure to better reflect our strengths. We transferred our small- and medium-sized LCD business and optical business. We are speeding up the shift in our business focus from consumers to office, commercial, and industrial customers. In light of these internal and external changes, we revised Environmental Vision 2050 in 2018. Under our new vision, we are taking environmental initiatives as an indispensable company striving to achieve a sustainable society.
+        49
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 50
+Epson 25 Corporate Vision Environmental Statement
+Contribute to the development of a sustainable society by leveraging efficient, compact and precision technologies to reduce the environmental impact of products and services across their life cycles.
+Water and soil pollution
+Approach Leading up to 2050
+To achieve the environmental vision by 2050, we have been setting milestone targets while working to bridge the gap needed to reach them. We seek to leverage our original efficient, compact and precision technologies to reach these milestones and reduce environmental impacts across the value chain, including through our business activities and improved product environmental performance. By offering products and services that enable new business processes, we aim to provide outstanding customer value in both economic and environmental terms.
+      Value Creation Infrastructure (Environment)
+Reducing Environmental Impacts of Business Activities
+Calculating Greenhouse Gas (GHG) Emissions in the Value Chain
+New factory at Hirooka Office Brings Cleanroom Expertise Together
+    To meet our medium- and long-term GHG reduction targets for getting to the 2°C goal, Epson tracks its own direct and indirect emissions (scopes 1, 2). However, we also track the GHG emissions of the entire value chain as based on the scope 3 standards of the Greenhouse Gas Protocol.*1 This is a requirement for SBT conformance.
+FY2017 scope 3 emissions
+2 Capital goods 240
+3 Fuel- and energy-related activities not included in scopes 1 or 2 39
+ Category thousand t-CO2e1 Purchased goods and services 1,100FY2017 GHG Emissions and Ratios
+455 thousand tonnes
+3,259 thousand tonnes
+137thousand tonnes
+Top Categories
+of Scope 3 Emissions
+4 Upstream transportation and distribution
+5 Waste generated in operations
+6 Business travel
+7 Employee commuting
+8 Upstream leased assets
+9 Downstream transportation and distribution
+10 Processing of sold products
+11 Use of sold products
+12 End-of-life treatment of sold products
+13 Downstream leased assets
+14 Franchises
+225
+6
+20
+34
+4
+ー
+68
+1,444
+79
+ー
+ー     Scope 2
+Category 11
+44.3%Category 1 Scope 3
+33.8%
+The new factory, known as Hirooka Office Building 9, was completed in July 2018. This factory houses the front-end process for PrecisionCore printheads, a core device in inkjet printers. The five-story plant has a four-level cleanroom that is predicted to greatly
+Decarbonize with Renewable Energy
+Epson took the startup of Building 9 as a chance to use more renewable energy (green electricity) in time for 2025 as we seek medium- to long-term growth in the office, commercial, and industrial sectors per the Epson 25 Corporate Vision and try to meet our long-term GHG
+LEDs for All Lighting
+LED lighting is one effective way to save energy in the factory. Aside from energy savings, LEDs provide another significant advantage: less frequent replacement means higher productivity. Semiconductor factories use yellow light with a wavelength of 500 nm or greater, since this does not affect the exposure process. LEDs are increasingly common in homes and offices, but it is only in the last few years that yellow LED products have come out. The cleanroom at Building 9 uses this new LED lighting, and the entire building is lit by LED lamps.
+Yellow LED lighting in the cleanroom
+increase electricity use and therefore GHG emissions as it gets up to speed. When we built the factory, therefore, we brought together all types of cleanroom expertise that Epson has learned over the years: space and energy efficiency, serviceability, safety, and more.
+reduction targets. The amount of renewable energy we plan to purchase in FY2018 would cover more than 10% of the scope 2 emissions for the entire Group. That amount of renewable energy would be enough to power Building 9 completely.
+High-Efficiency Air Cleaning System
+Epson uses a task and ambient air cleaning system*5 to manufacture PrecisionCore products. This efficient local air cleaning technology provides the required level of cleanliness (Class 1000 or better) with energy savings.
+The air cleaning system also eliminates the need to circulate clean air to the ceiling, etc., as in conventional cleanrooms. Less building material is needed and floors can be built to a lower height, using space more effectively.
+*5 An air cleaning system patented by Shimizu Corporation
+With no need for double ceilings or walls, air does not need to be circulated as oftenOther7.7%
+ Scope 1
+Category 4
+Category 2
+6.9%
+7.4%
+15 Investments ー *1 International GHG emissions accounting and reporting standard
+Environmental Indicators
+total
+3,259
+   We did not meet our water usage target for FY2017, as the startup of new factories for inkjet printers and metal powder products increased usage. However, usage per revenue*2 improved because of revenue growth. In every other indicator, we achieved our targets.   Total GHG emissions
+537 t-CO2e/billion yen
+VOC*4 emissions 184 t
+Target achieved
+Reduce by 52% Vs. FY2006
+      Target Per unit achieved
+ of sales
+Reduce by 22% Vs. FY2006
+PRTR*3 emissions
+5.7 t Target
+achieved
+Reduce by 60% Vs. FY2006
+    Waste emissions 34 thousand t
+Target achieved
+Reduce by 18% Vs. FY2006
+Water use
+8.324 million m3
+Reduce by 52% Vs. FY2006
+      Targets
+FY2017 targetsReduce by 20%
+(per unit of sales: 553 t-CO2e/ billion yen)
+Base value or less (14.4 t or less)
+Base value or less (387 t or less)
+Base value or less (42.4 thousand t or less)
+Reduce by 55% (7.794 million m3 or less)  51
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 52ex2

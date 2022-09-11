@@ -1,0 +1,20 @@
+Special Feature Creating Shared Value      Contribute to climate change mitigation and adaptation
+Assessing climate change impact on flood risk at a global scale:“LaRC-FloodTM Project”
+For returning the outcomes of climate change impact assessment research to the society, the MS&AD Insurance Group began joint research with The University of Tokyo and the Shibaura Institute of Technology in 2018. Last year, we launched a website that enables users to view the estimated flood risk evolving worldwide through the Web-based geographic information (web-GIS) system. Currently, we are undertaking a research that will lead to more precise predictions and assessments of flood risk.
+*Introduced as the research results of “Global Flood Risk under Climate Change” in the UN Intergovernmental Panel on Climate Change Fifth Report (IPCC-AR5).   Growing flood risks associated with rising temperatures
+In recent years, the global mean land surface temperature has been rising and it has reached a level of roughly 1-degree Celsius higher than that of the pre-industrial revolution. If climate change continues, the flood risk will rise worldwide and it could have a huge impact on the business activities
+of corporations. In order to minimize the risks of climate change and to propose a reasonable adaptation measure for a society, collaboration with scientists is needed.
+Bring the outcomes of flood risk assessment research to society
+Associate Professor Dai Yamazaki, Institute of Industrial Science, The University of Tokyo
+Meeting with Professor Hirabayashi (right) of the Shibaura Institute of Technology and Associate Professor Yamazaki (left) of The University of Tokyo
+ Given the globalization of the economy in recent years, a quantitative global-scale estimation of natural disaster risk is desired. Our research group has developed a flood inundation model that can be applied to a global scale, and we have set our goal to reduce flood damage through flood risk assessments under climate change as well as real-time flood simulations based on climate projections and weather forecast data. Precise risk calculation requires
+both flood inundation models and accurate terrain data, however, the baseline topography information such as elevation data is usually not available in developing countries. We are currently combining satellite observations and big data analysis to develop highly accurate terrain data for the whole world. As the flood simulations in data-sparse areas have improved, we started the collaborative work with the MS&AD Insurance Group to develop and implement a large-area flood hazard map that covers the entire Asia region. Researchers like us are truly excited when research outcomes are used to solve the actual problems of society. Working together with an insurance company is one step toward the implementation of measures to reduce the climate change risk to society, and it makes me even more motivated to conduct this research.
+A Mekong River Delta flooding simulation based on the global river model CaMa-Flood  Social issues
+Weather-related damage caused by climate change raises the risk of impairing business continuity
+Solutions
+Support management strategy and business investments that utilize forecasts of future weather damage occurrence
+Impact on society
+● Business activities that respond to climate change risks Economic impact on the Group
+● Strengthened relationships with customer companies as well as the continuation of stable relationships
+● Aggregation of expertise in the climate change risk field owing to industry-academia collaboration
+  060 MS&AD INSURANCE GROUP HOLDINGS

@@ -1,0 +1,171 @@
+
+Partnership with Customers
+Quality and Technologies GRI103-2, 3 Closely Related SDGs
+   Quality Policy
+In 1998, the year of Taiheiyo Cement’s inception, we established a quality policy based on our management policy. We revised the policy by incorporating a visual description of the code
+of conduct. Through those efforts we have been continually raising awareness of the policy across the organization. Moreover, it represents our aspiration to continue to be a company that customers trust and rely on by sharing a sense of achievement through each employee’s actions and by providing high-quality products and services, leveraging our high technological capabilities and quality assurance system.
+Quality Policy
+Improve customer satisfaction by ensuring each employee is pursuing quality that meets the needs of users in the Pacific Rim from a global perspective and providing quality assurance.
+Quality Assurance Initiatives and Quality Management System
+GRI416-1
+We focus on stabilizing and improving product quality while capitalizing on the production and quality control technologies we have developed over the years. Recently, we have further enhanced product quality control by capitalizing on advanced technologies to ensure improved stability such as an online analysis system for raw materials, clinker and cement, the measurement of clinker minerals by X-ray diffraction and our proprietary Taiheiyo Cement Quality Predictive System (TQPS).
+All of our cement plants in Japan, including
+those of group companies, have obtained ISO
+9001 certification, the international standard for quality management systems. Furthermore, all of
+our overseas cement plants in countries that adopt ISO have obtained ISO 9001 certification. To ensure product quality and improve business operations, we obtained ISO 9001 certification from the Japan Testing Center for Construction Materials. The scope of our certification encompasses the development, design and production of a range of cement, cement clinker and cement-based soil stabilizer products.
+We will continue to fully apply the ISO
+9001 approach in addition to our own quality management system to more deeply integrate our quality management system and business processes in an effort to strengthen our ability to continually provide ISO 9001-compliant products and deliver greater customer satisfaction.
+鼓Strengthening Our Relationship with Customers We place the highest priority on achieving greater customer satisfaction. We periodically exchange information among business units to strengthen production focused on quality that meets customer expectations. From our sales and technical staff at the branches and sales offices we collect information on customer requirements for product quality
+and services, including delivery, and analyze the information in order to provide suggestions for improvements. To encourage overseas customers to adopt our high-quality products we have started to incorporate local needs into product quality,
+just as we do for domestic customers, and we are fine-tuning our products to meet the requirements of each overseas market. We respond to each quality issue raised by customers and strive to improve product quality and customer satisfaction. Also, we actively identify potential quality risks, investigate their causes and implement extensive countermeasures while enhancing cross-divisional coordination toward establishing a more secure and safer quality assurance system.
+In addition, we have been expanding our quality assurance system to include the products
+of our group companies beyond Taiheiyo Cement products. We strive to identify and address material issues in a well-organized manner through cross- divisional activities toward strengthening the reliability of the Taiheiyo brand as well as customer satisfaction.
+    76 TAIHEIYO CEMENT REPORT 2020
+ Special Feature
+Business Activities
+Governance The Environment Collaborating with Society
+QMS Management System
+Transition of Minor Components of Ordinary Portland Cementa (Unit: mg/kg) FY1988 FY2016 FY2017 FY2018 FY2019 FY2020
+Quality and Respecting Human Rights Supply Chain Creating a Healthy and Communication with
+Technologies and Diversity and Creating Management Safe Workplace Communities an Energetic Workplace
+Sales
+Maximum Minimum Average Maximum Minimum Average Maximum Minimum Average Maximum Minimum Average Maximum Minimum Average Maximum Minimum Average Maximum Minimum Average Maximum Minimum Average Maximum Minimum
+- -
+17.4 32.3 5.3 556 1,059 137 221 668 18 122 233 17 17 39 2
+- - -
+1.5 2.6 0.6
+- - -
+Research &Technology Development Division
+Clarify quality requirements
+Review quality requirements
+Quality design in accordance with quality requirements
+Prototyping and evaluation
+Material Procurement
+Production Division
+● Production condition management ● Building quality into the process ● In-process inspections
+Acceptance inspections
+Customers
+Quality requirements
+Sales Division
+Technical Services
+Products and technical services
+Distribution Shipping inspections
+Fluorine
+All chromium
+Water-
+soluble hexavalent
+Zinc
+Lead
+Copper
+Arsenic
+Selenium
+Fluorine Cadmium
+Mercury
+Average Maximum Minimum
+- - -
+421 382 522 485 376 313
+74 81 81 91 61 74 7.4 8.3
+10.6 9.8 5.7 7.1 529 627 659 741 436 496 62 65 80 89 45 53 216 259 355 355 133 154 10 14 17 39 4 4 0.6 0.5> 0.7 0.5> 0.5> 0.5> 1.8 1.5 3.0 2.0 1.0> 1.0> 0.005> 0.005> 0.005> 0.005> 0.005> 0.005>
+448 427 435 543 504 578 339 355 337
+79 77 84 88 95 95 69 64 75 7.4 8.6 7.9 9.3 11.4 9.8 6.0 5.4 6.6
+530 600 554 659 772 677 390 449 493
+57 62 63 84 84 77 41 38 43
+223 274 263 319 415 359 162 163 181
+12 18 13 43 47 28 2 6 7 0.7 0.5> 0.8 1.2 0.5> 0.9 0.5> 0.5> 0.6 1.3 1.3 2.0 2.0 2.0 3.0 1.0> 1.0> 1.0> 0.008 0.005> 0.007 0.015 0.005> 0.011 0.005> 0.005> 0.005>
+Safe Cement and Cement Products
+GRI416-1
+Today every product is expected to be safe and cement, as a construction material that is indispensable for developing social infrastructure, is no exception. The cement industry has long made use of industrial waste and by-products such as blast furnace slag, coal ash and by-product gypsum as substitutes for natural mineral resources. Furthermore, using technologies we developed to recycle household waste such as the AK system to recycle municipal waste and the incineration residue recycling system, we also recycle construction-related soil and waste materials into raw material and fuel for cement production. When our cement plants accept waste we prevent its dispersal and minimize the release of odor by transporting the waste in a tightly sealed panel truck and storing it in a fully enclosed facility to protect the environment of the surrounding area as well as inside the plants.
+Minor Components of Ordinary Portland Cementa
+Range found in soil*
+Bar graph represents our FY2020 averages
+Wastes, as well as natural raw materials, contain 500 400
+435
+84
+(7.9) All
+554
+minute quantities of heavy metals such as chromium 300
+and lead. We continually reinforce the control of minor
+components as the volume of waste we receive at our 90
+cement plants increases. When we receive new types of 60
+waste or waste from new sources we strictly apply rules
+under which we conduct three kinds of inspection related 10
+13
+to the source of the waste, its chemical composition 0.19
+2.0
+and the results of trial use to identify any potentially negative impact on product quality or the surrounding environment. We will then make a final determination on whether to receive the waste. These measures help us ensure product safety.
+0.8 0.7 0.6 0.5
+0.1
+0.8
+(mg/kg) 1,600
+1,500
+900
+800
+700
+600
+200 100
+80 70
+50 40 30 20
+263 63
+Fluorine
+Zinc
+Lead
+Copper
+Arsenic Selenium Cadmium Mercury
+Average -
+chromium (water-soluble hexavalent chromium)
+*H.J.M. Bowen, Environmental Inorganic Chemistry. Translated by Teruo Asami and Mitsuo Chino. Hakuyusha, 1983.
+77
+TAIHEIYO CEMENT REPORT 2020
+0.007
+
+ Collaborating with Society
+Quality and Technologies
+Ensuring Product Safety Following a Nuclear Accident
+GRI416-1, 417-1
+As a consequence of the nuclear accident at the Fukushima Daiichi Nuclear Power Station of Tokyo Electric Power Company in 2011, we discovered
+that some industrial waste used for making cement contained radioactive material. We have established a system to ensure that the radioactive concentration in cement shipped from our plants is below the safety limit* set by the Japanese government by strictly controlling the radioactive concentrations in raw materials and
+fuels for cement. In the interest of full disclosure we
+post measurements of radioactive concentrations in our
+products on our website every month.
+*The Japanese government set the limit of 100 Bq/kg, effective May 2011, as the safety standard for radioactive concentrations in cement.
+For more information about radioactive concentration in our products, please visit:
+https://www.taiheiyo-cement.co.jp/news/sokutei.html (Japanese only)
+Information Provision Using SDS and Labeling
+GRI417-1
+To ensure the safety of cement users we prepare Safety Data Sheets which contain hazard identification details and make these sheets available on our website. Labels showing safety information are also attached to bags and flexible containers.
+User Societies and Industry Associations
+GRI417-1
+We founded and manage a variety of societies for cement users and industry associations to support them in strengthening their businesses and developing technological competitiveness. The National Taiheiyo Cement Ready-mixed Concrete Society, the largest
+of these organizations, has established 10 Taiheiyo Cement Ready-mixed Concrete Societies from Hokkaido to Kyushu. For technical support we hold technical sessions and presentations while conducting activities under a specific theme that meets regional user requirements. We also support users in obtaining qualifications such as Authorized Concrete Engineer, Authorized Chief Concrete Engineer, and Authorized Concrete Diagnosis and Maintenance Engineer.
+In addition to the Ready-mixed Concrete Society, we established other associations such as the Taiheiyo Cement Association for the Paving Block Industry and
+SPLITTON Association Japan to proactively deliver technical support for the mutual development of concrete companies. We will continue to support activities that benefit cement users.
+Representative Activities of the Ready-mixed Concrete Society (under Specific Themes)
+Survey of technical staff and education/training at ready-mixed concrete plants
+Compiling a booklet on representative near-miss cases at ready- mixed concrete plants
+Workshop on concrete work technologies by general contractor’s engineers
+Workshop on safety management at ready-mixed concrete plants
+Survey of trial mixing of concrete using fly ash from different sources
+Training workshop for young engineers at concrete plants in each prefecture
+Case study of annual policy and quality policy at ready-mixed concrete plants
+Workshop on health and safety for operators
+Compiling technical materials for hot-weather concrete in response to work in hot or extremely hot seasonal conditions
+Developing an FAQ on ready-mixed concrete technologies
+鼓Initiatives through the Taiheiyo Cement Association for the Paving Block Industry
+Concrete paving blocks are being deployed to lower vehicle speeds and reduce traffic accidents associated with excessive speed. To encourage the dissemination of our roadway blocks developed by the association, we are conducting an anecdotal evaluation of performance required for roadway pavement, their durability, and other properties at the Central Research Laboratory.
+Work style reform is currently in high demand
+at production and construction worksites for
+paving blocks. To gather information on the world’s advanced technologies to address this challenge,
+we, accompanied by association members, attended bauma2019, one of the world’s largest trade shows for construction machinery held in Germany in April 2019, and visited precast concrete-related companies.
+The knowledge we gained there has been shared with other member companies so that, as a means of contributing to society, we can promote a wider spread use of concrete block paving.
+Paving blocks constructed for evaluation
+   Hokkaido
+  Tohoku
+  Tokyo
+  Kanto
+  Hokuriku
+  Chubu
+  Kansai
+  Shikoku
+  Chugoku
+  Kyushu
+      78 TAIHEIYO CEMENT REPORT 2020

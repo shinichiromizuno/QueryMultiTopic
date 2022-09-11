@@ -1,0 +1,79 @@
+The Environment
+Environmental Management
+Environmental Management Policy
+Our environmental management policy declares an active commitment to environmental issues facing society, including not only preventing environmental pollution but also creating a recycling-based society, mitigating climate change, reducing environmental impacts, protecting water resources and conserving biodiversity as key management challenges. Under this policy we are focusing on improving our environmental performance.
+Company-wide Environmental Management System (EMS)
+In June 1997 we initiated ISO 14001 certification of each of our plants and attained certification of all six
+of our directly operated plants by 1999. Recognizing, however, that plant level management systems alone
+are insufficient to ensure comprehensive environmental protection through environmental management projects, we built a company-wide environmental management system (EMS) and extended it beyond plants to cover our headquarters, branches and Central Research Laboratory. In April 2009 our EMS was ISO 14001 certified by
+the Japan Testing Center for Construction Materials,
+an independent third-party testing, standardization
+and certification authority. As part of the continuing certification, the company-wide system underwent a renewal audit for the fourth time in March 2021.
+EMS Readiness
+Top management (the officer in charge of the Production Department) chairs the Environmental Management Committee with ultimate decision-making authority for environmental management. Overseen by the Environmental Management Committee, the relevant headquarters division manages our plants, mines, quarries and branches using an “umbrella” system.
+Company-wide EMS Readiness
+Secretariat: Environmental Administration Group, Production Department
+All of our cement plants in Japan, including those of group companies, have obtained ISO 14001 certification. Furthermore, all of our overseas cement plants in countries that adopt ISO have obtained
+ISO 14001 certification and are actively committed
+to environmental conservation. Cement plants in countries where ISO is not adopted as the mainstream standard operate their own EMS.
+Internal Environmental Audits
+We conducted internal environmental audits at all our sites in FY2021.
+As priority items from this year’s audit, confirmation of legal compliance reviews, external communications and corrective actions for unachieved items were identified as company-wide concerns. The status of a follow-up, including corrective and preventive actions for nonconformity with environmental requirements, and the status of responses to emergencies were identified as items that plants must deal with. Verifying the compliance status of service stations was identified as an item that must be dealt with by branches.
+The audit identified 34 findings, including 3 for which improvements were requested. Corrective actions were taken for all 3 findings for which improvements were requested.
+Environmental Education
+During Environment Month each June we deliver a message from the president and provide educational materials on the environment page of our portal site to increase awareness and encourage learning about the environment, and about environmental preservation activities throughout the group. Each workplace
+also engages in a number of different activities, such as conducting training sessions related to accident response, viewing environment-related videos, holding lectures and taking part in local cleanup activities. In FY2021, more than 400 activities took place, including group companies’ activities.
+Relevant SDGs
+Compliance with Environmental Laws
+ GRI307-1
+Environmental Accidents
+In FY2021, we had no legal or regulatory violations related to the environment that were subject to fines or penalties, or any significant accidents that affected the environment or ecosystems. However, we had three minor accidents and took measures to prevent their recurrence.
+Response to Environmental Accidents
+Each plant maintains emergency response plans
+in preparation for possible environmental accidents. They also conduct periodic fire-fighting drills in cooperation with local fire departments. Other training includes how to reduce environmental impact when an environmental accident occurs, and how to report it to a government entity.
+Environmental Complaints
+As we increasingly utilize ever more diverse
+forms of waste and by-products the number of environmental issues we need to consider also increases. Therefore, we are ramping up our efforts to reduce environmental impact through activities such as introducing indoor storage and sealed containers for waste and by-products, and improving our flue gas stacks. On receiving an environmental complaint, whenever possible we quickly travel to the site in question to check the situation, investigate the cause and provide an explanation. If we find that our activities are the cause we implement improvements.
+In FY2021, our cement plants received 109 environmental complaints, including those from outside sources. We responded to 25 of these, which were associated with our operations. The number
+of complaints has remained roughly the same since FY2018.
+Number of Environmental Complaints Received
+  Environmental Management Policy
+In January 2006 we formulated an Environmental Management Policy, reflecting the fact that we consider an active commitment to the environmental issues facing society to be key management challenges. In addition
+to initiatives emphasizing these six items in all business operations, we strive to communicate with a wide range of stakeholders, from international society to local communities, and to seek the ideal form for a sustainable cement industry as a member of the WBCSD and GCCA (Global Cement and Concrete Association).
+Formulated in January 2006 Revised in April 2019
+❶ Pursuing Environmentally Conscious Business Activities
+In pursuit of reducing environmental impacts, we properly assess the impacts of our business activities and promote the introduction of eco-efficient technologies into our business and the development of eco-conscious products. Also, we pursue environmental conservation activities as a member of the regional community.
+❷ Compliance with Environmental Laws and Regulations
+As a minimum, we comply with all environmental laws and regulations applicable to our business activities. Furthermore, beyond compliance, we meet environmental commitments undertaken through voluntary agreements.
+❸ Contributing to a Recycling-based Society Leveraging the inherent capabilities of the cement industry, we actively recycle industrial and municipal waste as raw materials and fuels for cement production.
+❹ Proactively Addressing the Issue of Climate Change We promote greater energy reduction throughout the whole of our business activities and strive to develop technology to help reduce society's total greenhouse gas emissions.
+❺ Promoting Global Technology Transfer
+Through the worldwide transfer and deployment of our technology, we aid the development of greater energy conservation, environmental preservation and utilization of waste materials.
+❻ Ecosystem Conservation
+We strive to protect the ecosystem, including biodiversity, by providing products and technologies that contribute to harmonious coexistence with nature.  Plants
+Mines and quarries
+Branches
+Production Dept., Mining Dept., General Affairs Dept., Cement Business Division Administration Dept. and Sales Dept., Mineral Resources Business Dept., Environmental Business Development Dept.
+CNPT* Other Headquarters, business sites
+Central Research Laboratory
+*The Carbon Neutral Technology Development Project Team
+Non-consolidated
+Water quality  29
+25 3
+42 1 3
+12
+2021 (FY)
+  Taiheiyo Cement Group Environmental Targets
+GCCA
+(Complaints) 35
+30 25 20 15 10
+5 0
+Air/fine particles Noise Vibrations Odor OtherCO2 Emission Reduction Targets
+Cement production-related CO2 emissions from Taiheiyo Cement and group companiesReduce specific net CO2 emissions
+by 10% or more from FY2001 levels by FY2026. CSR Objectives for 2025
+24
+29
+  Reduction Target for Main Air Pollutants
+Emissions of NOx, SOx and dust from the main stacks of kilns at the cement production sites of Taiheiyo Cement and group companiesLimit NOx, SOx and dust levels per tonne of clinker (g/t-clinker) to the target levels achieved in FY2011
+68
+69

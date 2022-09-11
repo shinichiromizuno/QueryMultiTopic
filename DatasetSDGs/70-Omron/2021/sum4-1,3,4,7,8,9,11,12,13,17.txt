@@ -1,0 +1,134 @@
+Business OMRON Corporation Integrated Report 2021 Social Systems, Solutions and Service Business (SSB)
+Social Solutions
+  Social Systems, Solutions and Service Business (SSB) has been working on realizing the society where people can live more comfortably. Our mission is “to create a society in which the people of the world live in a safer, more secure and comfortable society.” We support social infrastructure by providing solutions that optimally combine a wide range of hardware, software and services. These include power conditioners for solar power generation, storage batteries, railway station systems such as automatic ticket gates and ticket vending machines, traffic control systems, settlement systems, and network protection systems such as UPS.
+Creating a Next-generation Social Platform so that People Can Flourish and Live Safely and More Comfortably with Social Automation in the Future
+During VG2.0, SSB recognized lack of labor force as a social issue to be solved. Therefore, we have attempted to eliminate inconveniences in daily life through various solutions, such as automation of reception work at hotels and labor saving for cleaning, security and information services at stores and buildings. Also, toward the further solution of social issues and sustainable growth, we integrated our UPS business in 2018 and environment business in 2020, providing access and value to new markets such as housing, distribution, information infrastructure, municipalities, and manufacturing industries
+However, we are still required to solve more social issues not only for issues for certain markets or customers but also by deploying solutions
+to multiple markets. In addition to solving issues at the manufacturing sites we have been focusing on, we are also working on standardizing and enhancing services that can be provided to various industries and building an operation system.
+With outlook for the next 10 years, we recognize “environment (carbon neutral)”, “resilience” and “labor saving” as the social issues to be solved. Social issues such as increasing CO2 emissions, accelerating climate change and lack of labor force due to accelerating decrease of birth rate and aging population could cause various inconvenience and concerns in our daily life. For companies, management issues are becoming more complex with the need for business continuity and solution environmental issues. Efficient business management and manpower saving are therefore urgent issues to solve. We need to resolve not only manufacturing issues by providing existing devices and services, but also customers’ management issues.
+To achieve that, we need to improve ourselves as well. In addition to responding to customers’ needs, we will create a future society that is safer, securer, and more comfortable by identifying changes in society proactively. Furthermore, we will aim to realize next-generation social systems with the social automation that we obtained in our SSB.
+For example, in energy area, in addition to provision of renewal energy we have been working on, we will also work on the realization of area energy management that provides optimal balance of energy demands-supplies in the level of households and facilities in the future. We will start to contribute to spread development of renewable energies by deploying PV inverters and storage battery systems that we have provided for households to manufacturing industries and municipalities, utilizing SSB’s wide range of business areas. Further, by connecting each energy and sharing electric power, we will contribute to carbon neutral and maximized energy usage at regional levels, such as power storage in preparation for disasters.
+Labor shortage is also becoming a serious issue at many industries that support necessary infrastructure for living, and it is thus required to improve efficiency of operation while maintaining services. We have been providing devices and systems along with maintenance services for safe system operation, contributing to resolving issues at customers’ manufacturing sites and maintaining social systems. Moving forward, we will work on manpower saving and strengthening operations by comprehensively supporting remote monitoring/operation of devices and systems that customers are working on, and management services that solve customers’ issues by improving and optimizing
+Domains
+Corresponding SDGs
+  Managing Executive Officer, President OMRON SOCIAL SOLUTIONS CO.,LTD.
+Toshio Hosoi
+49
+Business Highlights
+Net Sales / Operating Income / Operating Income Margin
+Capital Expenditures / Depreciation and Amortization / R&D Expenses
+(Billions of yen) 120
+116.0 9.4%
+10.9
+(Billions of yen)
+40 6
+5.7
+3.0
+2.1
+Net Sales
+100.6
+Operating Income (right axis)
+Operating Income Margin
+6.0%
+Capital Expenditure (Billions of yen)
+Depreciation and Amortization
+R&D Expenses
+5.0
+2.9
+2.0
+ 95.7
+96.0 5
+7.3% 30
+20 3
+2
+4.8
+2.5
+2.0
+OMRON Corporation Integrated Report 2021 Business
+ work operation processes.
+We will continue to take on the challenge of creating next-generation social systems that support a society where people can live safely, securely and comfortably, resolving the issues of the future with automation that allows people to thrive
+  90 6.9% 6.1% 70.3
+6.5%
+4
+      60 68.0 30
+1.41.8 1.4
+2.1 1.6 1.3
+ 7.0 10 000
+6.5
+16 17 18 19 20
+4.1 4.8
+5.7
+1
+  Sales by Product
+21 FY (Forecast)
+5%
+FY2020 Net Sales ¥95.7 billion
+4% 8%
+16 17 18 19 20 FY
+  Other (Software Development, etc.)
+Energy, Environmental Solutions
+PV inverters
+Public Transportation (Automated Ticket Gates, Ticket Vending Machines)
+     Network protection (UPS)
+Engineering Payment Systems
+Social Issues to be Solved
+Actual progress during VG2.0
+8%
+32% 16%
+ Road Traffic (Road Traffic Management Systems, etc.)
+VG2.0 Goals
+Storage Batteries
+ 27%
+     Ticket
+Vending
+Machines Gates
+Automated Ticket
+      Increase in traffic accidents and traffic jam Global warming from CO2 emissions
+Slow growth of the renewable energy market
+Create driving safety support systems and technologies
+Cumulative shipped capacity of solar power/storage battery systems: 11.2 GW
+Build the energy resource aggregation business using solar power/ storage battery systems (Japan)
+     INPUT
+R&D cost:
+Total ¥17.6 billion Capital expenditure: Total ¥10 billion
+(Actual for FY2017 through FY2020)
+OUTPUT
+Analysis and verification on the relationship between change of driving behaviors in certain psychological state and risks, such as joint research on driving risk detection with universities.
+Provided automation and labor-saving solutions for reception, guidance, cleaning, security works for industries with serious lack of labor force. Provided energy composition and energy management system that respond to various needs, such as maximized power generation efficiency, self consumption or business continuity measures. Cumulative shipped capacity of solar power systems: 10.3 GW Cumulative shipped capacity of storage battery systems: 695 MWh Provided data power source, power source protection and monitoring system for disaster prevention in response to many natural disasters due to climate change.
+OUTCOME
+Contribute to realize a better society in which people around the world can continue to live in a safer, more secure and comfortable society by expanding renewable energy and providing people-friendly next-generation systems.
+SDGs SDGs 3.6.1 7.1.2
+SDGs SDGs 11.2.1 13.2.1
+50
+
+Business OMRON Corporation Integrated Report 2021
+Aiming for Carbon Neutral with Renewable Energy
+We have been experiencing many natural disasters due to climate change in recent years. Actions are being taken around the world aiming for carbon neutrality that aims for zero emissions of greenhouse gas (GHG), including CO2, the cause of climate change, by 2050. One of the actions is to increase usage rate of renewable energies. Companies are also required to take approach to realize 100% of renewable energy for electric power used in business activities (RE100*).
+  Resolving Issues at Manufacturing Sites with Abundant Industrial Knowledge and Engineering Skills
+Murata Manufacturing is a company that joins RE100 and leads CO2 reduction at many regions by increasing the rate of renewable energy for electric power used. While the project is proceeded to introduce solar power systems in domestic business locations, Okayama site of Murata Manufacturing had issues with installment location. OMRON, as a member of the project, verified the possibilities from stand point of insolation, intensity, cost and operation control, and suggested utilization of “air space” above the company parking for approximately 1,700 cars as the installment area. A carport type power generator (simplified garage with roof and columns) was adopted and double sided solar panels were also installed to maximize its power generation, as they can generate power from reflection on the back side of roof. Further, OMRON’s original remote monitoring and maintenance service (soramoni) prevents loss of generation due to equipment failures and enables maintaining power generation amount for a long period. Murata Manufacturing’s complete solar power plant (carport type solar power generation system) enables power generation for 850 general household annually, with estimated 2,394 tons of CO2 reduction. Companies will be the leaders for carbon neutrality—Murata Manufacturing and OMRON will continue to work on this challenge.
+Realizing Sustainable Society with Energy Optimization at Regional Levels
+In Japan where spaces for solar panel installment are limited, this achievement of Murata has huge potential. Moving forward, with OMRON’s industry knowledge and high engineering skills, we will promote introduction of optimal solar power generation system not only for companies but also for households and municipalities. Moreover, we will contribute to the realization of a carbon neutral and sustainable society with area energy management that provide optimal energy uses at the level of regions.
+Construction Department, EM Design Section OMRON FIELD ENGINEERING CO., LTD.
+Tatsunori Katagiri
+Left: No.1 Solar Power Plant Right: No.2 Solar Power Plant
+   Carport type solar power generation system
+ Murata Manufacturing manages its business with reinforcement of climate change countermeasures as a material issue. We consider the introduction of carport type to be effective as a measure for solar power generation at offices. We will continue to promote energy saving in partnership with OMRON FIELD ENGINEERING CO., LTD..
+General Manager, Facility Management Department Murata Manufacturing Co., Ltd.
+ Shigehiro Sakata
+51
+*RE100 is an international environmental initiative that aims for a 100% renewable energy rate in business activities by 2050.
+
+OMRON Corporation Integrated Report 2021 Business From Providing Systems to Management Service—Creating the Next
+Generation of Railway Station Management
+Lack of labor force due to shrinking working population is becoming more serious year by year. Since its foundation, OMRON has been contributing to improvement of railway station management for railway companies by providing systems and maintenance services such as automated ticket gates, ticket vending machines and remote monitoring systems for equipment. On the other hand, issues in railway companies are becoming more and more complex with challenges such as the needs for non-contact due to COVID-19 crisis as well as business continuity measures for disasters or response to inbound travelers.Supporting Head Office’s Station Management Work by Offering Device Operation Support Service
+In pursuit of safety, stability and security, the head office of Odakyu Electric Railway used to support station employees at all railway lines in the operation of railway station systems and response to abnormalities. However, it was a huge challenge for Odakyu with 70 stations to maintain support systems while improving efficiency. As a solution for this, OMRON started up a device operation support desk in 2012 and started outsourcing service to address inquiries of device operation and failures regardless of the device manufacturers, in response to inquiries from employees at stations. Since then, this has been not only saving manpower at the head office but also contributing to stable operation of railway station systems, seamlessly and immediately responding to inquiries for abnormalities and meeting on-site needs. We have accumulated achievements and won trust over 10 years now, and are continuing to provide smart maintenance utilizing ICT and new value to further optimize railway station operations.
+Maintenance work at station halls
+Station Smart Service Promotion Section
+Social System Support Department Field Service Business Head Office OMRON FIELD ENGINEERING CO., LTD.
+Hiroshi Watanabe
+Device operation support desk
+    Providing Safe, Secure and Comfortable Station Service to All Users by Strengthening Railway Station Operation
+How to operate stations efficiently and properly while responding to change of society and travelers’ needs; this cannot be solved by single system or service. Going forward, we will strengthen station operation and realize attractive services for travelers by providing not only device operation but also a management service that comprehensively supports operation of stations from planning to system introduction, operation, maintenance and improvement with our know-how and knowledge on sites that we obtained through developing public transportation systems and performing maintenance services over a long time.It is very helpful that we can have timely information at sites. This leads to smooth communication with station employees and improves services for customers through the support desk. Also, new insights are suggested to us every month at monthly reporting meetings. We look forward to even speedier collaboration in the future.
+Customer Sales Odakyu Electric Railway Co., Ltd.
+ Yasutaka Inoue
+52

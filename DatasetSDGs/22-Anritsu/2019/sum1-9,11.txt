@@ -1,0 +1,41 @@
+Solving Social Issues Through Business
+   Test and Measurement Business
+L Description of Social Issues
+Information communications, and tools that connect people over the Internet, such as social networking, photo sharing and video sharing services, have become indispensable in society today. These communications networks that allow people to connect with one another have been advancing on a daily basis, and fifth-generation mobile communications systems (5G) are on the verge of being launched with ultrahigh-speed, large capacity, ultra-low latency, and multiple simultaneous connections. In addition to the increasing sophistication of smartphones and tablets, 5G will find uses in fields such as medicine, agriculture, automobiles, and disaster prevention. This 5G technology is also expected to become communication infrastructure that helps us realize a sustainable society and solve a range of social issues including as a means to eliminate information disparities, prevent traffic accidents, and alleviate labor shortages.
+■ Anritsu Initiatives
+Anritsu provides its customers with a variety of
+measurement solutions that help ensure communications quality and conformance with standards-based specifications at the development, production, construction and maintenance stages for smart devices, mobile networks, fixed networks and cloud computing data centers that are the basis of 5G communications networks. Customers use our testing and measurement instruments so their products can safely and securely connect to robust 5G communica- tions networks.
+These 5G communications networks will not only contrib- ute to greater convenience for people, but will also be used in the industrial field. The realization of these new applica- tions will both boost economic growth and provide solution for social issues, such as SDGs, and lead to a more sustain- able society.
+With a mission of being the first to deliver optimal testing and measurement solutions with its advanced measurement technologies, Anritsu contributes to the creation of industry and advances in innovation that assist with the development of a sustainable society by helping customers maintain safe and secure infrastructure.
+   Automobiles
+Healthcare
+Construction
+5G New RAT C-RAN
+Factories
+100G/400G SDH/WDM
+OTN Ethernet
+Fixed networks
+Agriculture
+Entertainment
+40G/100G Data Center
+      Solving social issues
+Customers
+CPRI LTE
+LTE-A NB-IoT
+PCI-E
+CloudAutonomous drivingTelemedicineRemote controlRemote monitoringFarming supportVR/AR
+         Small Cell
+SDN/NFV
+Internet AOCSmart devices
+Mobile networks
+                Anritsu
+Solutions for developing and manufacturing IoT devices and modules
+Compatible with a wide range of products from RF to optical
+Support for 100G/400G high-speed communication
+Support with bit error rate tests that always lead the industry
+   Strengths
+􏰀 Communication and measurement technologies and products developed with over 120 years of experience covering optical, wired, wireless, and protocols
+􏰀 Seamlessly supporting customers’ businesses, from cutting-edge development to manufacturing and maintenance
+􏰀 Global development and sales system that provides timely support to customer requests in each region
+􏰀 Rapid deployment of cutting-edge technology through partnerships with key customers and suppliers
+8 ANRITSU CORPORATION

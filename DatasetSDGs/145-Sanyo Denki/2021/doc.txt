@@ -1,0 +1,2179 @@
+       INTEGRATED REPORT
+2021
+        
+ Philosophy
+We at SANYO DENKI Group Companies, aim to help all people achieve happiness, and work with people to make their dreams come true.
+To embody our corporate philosophy, we will achieve the following:
+For Society and Environment
+We will conduct management that contributes to preserving the global environment and enhancing human prosperity through our corporate activities.
+For Customers and Users
+We will conduct management that realizes the creation of new value for customers and users through our technologies, products, and services.
+For Suppliers and Business Partners
+We will conduct management aimed at mutual technical development and prosperity through deals of parts and materials, production contracting, and joint development.
+For Investors and Financial Institutions
+We will conduct management that increases our investment worth and credit through sound and constructive management and the provision of easily understandable information.
+For Competitor Companies
+We will conduct management that co-creates industrial and technological developments through technical alliances and competition.
+For Employees
+We will conduct management aimed at employee self-realization through work and corporate activities.
+Three CoreTechnologies and Six Sectors
+Under a corporate philosophy that aims to "help all people achieve happiness," SANYO DENKI is committed to developing new technologies and products in six sectors based on three technological concepts.
+Three Core Technologies
+Technology protecting the global environment Technology protecting human health and safety
+Technology utilizing new energy and energy conservation
+Six Sectors
+Medical
+Business sector that manufactures medical and nursing equipment for contributing to human health.
+Information and Communications
+Business sector that manufactures ICT equipment such as computers, communications equipment, and their peripheral devices
+Industrial
+Business sector that manufactures industrial automation equipment such as machine tools and robots
+Environmental Preservation
+Business sector that manufactures equipment for promoting the protection of the global environment
+Home Automation
+Business sector that manufactures equipment for improving lifestyle
+Energy Utilization
+Business sector that manufactures equipment for electric power generation and conversion, energy saving, and new energy utilization.
+Our Goals and Strategy Our Businesses Foundations of Value Creation Financial Data
+12
+
+             Contents
+Message from Chairman
+01 Corporate Philosophy
+Our Goals and Strategy
+     Editorial Policy
+This report covers the SANYO DENKI Group including its 18 consolidated subsidiaries (as of March 31, 2021). SANYO DENKI is working towards resolving social issues and helping create a sustainable society through ESG (environmental, social, and governance) activities.The contents of this report are voluntarily disclosed for stakeholders.
+Cautions regarding Forecasts
+Of the current plans and strategies of the SANYO DENKI Group described in this report, those that are not historical facts are future forecasts and involve risks and uncertainties. Accordingly, readers should be aware that actual results may vary significantly from forecasts due to a variety of factors. Note that the factors that affect business results are not limited to these mentioned.
+Our Businesses
+09 History of SANYO DENKI Group 11 SANYO DENKI in the Society
+13 Financial Highlights
+15 Cooling Systems Business
+17 Power Systems Business 19 Servo Systems Business
+21 Electrical Equipment Sales Business and
+Electrical Works Contracting Business – SANYO
+KOGYO CO., LTD.
+22 SANYO DENKI IT Solution CO., LTD.
+23 Operating Results by Business and Geographic
+Segment
+Foundations of Value Creation
+25 Executives
+27 Corporate Governance 31 Environmental
+36 Society and Community
+Financial Data
+41 10-Year Financial Summary 43 Production Sites
+46 Group Companies in Japan 47 Stock Information
+48 Company Overview
+Since April 2016, the SANYO DENKI Group has been engaged in the five-year Mid-term Management Plan, and completed all initiatives this March.
+This plan had the following aims:
+1. Continue to develop world-leading products in terms of quality, performance, and reliability;
+2. Establish a "borderless" sales system in which all group companies operate under the same management policy to deliver high and uniform quality products and services to customers around the world;
+3. Manage all information in real time to make
+all the latest business information available from anywhere in the world; and
+4. Build factory automation to improve production efficiency and quality as well as reduce inventory and improve production management.
+All of these have been achieved, and a new medium-term management plan was launched this April.
+The achievements in "factory automation" include the production lines of Servo Systems and Cooling Systems divisions have been significantly refurbished, centering around the Kangawa Works and Fujiyama Works in Ueda, Nagano, to create automated production lines that enable high-mix, low-volume production. These automated production lines significantly reduced production labor hours, lead time, and in-process inventory. It is also planned to build a new plan to reinforce our product design and construct production lines simultaneously.
+Our design and development capabilities have also been significantly enhanced. In March 2019, a new Technology Center was launched
+in the Philippines. This Technology Center significantly contributes to the development of new products and the improvement of production technology in the Philippines. Furthermore, a new wing was built at the Technology Center in Japan, which started operating in May 2021 to further advance our technology.
+Regarding our sales activities, SANYO DENKI (Tianjin) CO., LTD. was established in Tianjin, China and its Beijing branch office opened in April 2019 to focus on expanding our global business.
+SANYO DENKI IT Solution CO., LTD. was established for centralizing the IT operations of all of the 19 group companies. This company􏰀s high- quality digital services increase the efficiency of the group􏰀s business operations, and achieve real- time information sharing within the entire SANYO DENKI Group
+We appreciate your continued support of the SANYO DENKI Group.
+Shigeo Yamamoto
+Chairman of the Board & CEO
+04 05 07
+Message from Chairman Message from President
+Value Creation at SANYO DENKI Group
+34
+     Our Goals and Strategy Our Businesses Foundations of Value Creation Financial Data
+
+  Message from President
+you are only concerned with speed and quantity, you will be focused only on the immediate details and lose the perspective required to create what is truly necessary and innovative.
+To systematically organize such things,
+when developing new products, make sure to classify developments in the following four types: development of revised products, development
+of successor products, development of follower products, and development of pioneering products. Then clarify the aim of the development and the benefit it can offer to users. This will help minimize the discrepancies between what you aim for and the results.
+As you can see, the set goals are higher than our previous ones since we aim to develop world- leading products. For this reason, naturally, the design engineers will need a better development environment to achieve such goals. The SANYO DENKI Group has Technology Centers and major production factories concentrated in Ueda, Nagano, Japan and Subic, Philippines, allowing us to advance product development and production processes simultaneously. Furthermore, a new wing was added to the Technology Center in Ueda in May this year. This new wing is a research and development facility with state-of-the-art testing equipment, and has about twice the size of the existing building. We will make the best use of this latest equipment and establish a design and development process that will enable us to proactively take on challenging tasks.
+ Nobumasa Kodama
+President & COO
+MakingTechnology a Source of Growth
+The SANYO DENKI Group has maintained a strong commitment to improving our technology since its foundation. As a result of these efforts, the design and development capabilities of the entire group have grown dramatically. On the other hand, technological innovation and the market environment are changing at a speed that exceeds our growth.
+In order to keep up with this rapid change, we
+must improve the quality and speed of our product development. I believe that, in the period of 9th Mid-term Management Plan, those who engaging in the product development will be required to develop new products that are competitive in the global market.
+Thoughts on Technology
+I have been involved in the design of the Cooling Systems products for a long period of time ever since I joined the company. When I joined the company, there were only three designers in the Cooling Systems Division, including myself, and it was a much smaller organization compared to the Servo Systems Division and Power Systems Division at that time.
+The technology of cooling fans is very simple. However, for this very reason, it is not possible
+to produce good products unless the technology is sophisticated. In other words, the performance of products will not improve without enhancing
+the technology. As a familiar example, consider
+a toothbrush. Toothbrushes have a simple design and they look quite alike. However, to serve the purpose of brushing teeth, numerous technological innovations have been made and the performance required by users is continuously satisfied by combining various ideas involving hair tips, handles, materials, etc.
+In other words, simple technology is universal, however, by refining related techniques and creative ideas, it can become unique to users. Although the technology required for our product development is relatively simple, yet it is universal and durable.
+Expand into "Wide Markets in Depth"
+TechnicalThemes of 9th Mid-term Management Plan
+Until recently, SANYO DENKI Group􏰀s products have targeted "narrow markets in depth" markets. For example, Cooling Systems products are used in applications for communications equipment and data centers, Power Systems products are used
+in applications that require stable power. Servo Systems products are used in applications for factory automation and factory robots. All of these fields are essential for developing the industry, however, they are also susceptible to market trends and the boom and bust cycles of the global economy.
+From this point on, SANYO DENKI Group􏰀s goal is to expand the business focus from the current "narrow markets in depth" to "wider markets in depth." In addition to cultivating new fields, we also need to let more people know that our products can contribute to society better.
+We need to let the world know show consumers that our products can be used in many more situations and in many more ways. We also need to expand into wider fields in depth. In the past, we have introduced Airflow Tester that allows customers to measure
+the operating airflow in their equipment, and PWM Controller and San Ace Controller that remotely control the rotational speed of fans. However, these products were born from the idea of how to help customers make better use of our cooling fans. By utilizing these ideas, we would like to expand the scope of our products to "wider markets in depth" instead of the current "narrow markets in depth," thereby further improving our technology and elevating ourselves to a higher level as a company.
+In the 9th Medium-term Management Plan, which started this fiscal year, technology improvement is one of the major themes. The Design Department has set a goal of "a 20% increase in product development output."
+This goal of "a 20% increase in product development output" does not only mean faster development and increased quantities, but also expect a proactive attitude towards challenging projects. This means that in product development, if
+56
+       Our Goals and Strategy Our Businesses Foundations of Value Creation Financial Data
+
+ Value Creation at SANYO DENKI Group
+SANYO DENKI Group aims to realize a society where "we help all people achieve happiness, and work with people to make their dreams come true," as stated in our corporate philosophy.
+The Group will create new value by sincerely facing social issues and developing products and providing services that have never been seen before.
+s
+Manufacturing capital
+Intellectual capital
+Human capital
+Financial capital
+Social and relationship capital
+Natural capital
+* As of March 31, 2021.
+(FY 2020 results)
+Capital expenditures ¥3.1 billion
+R&D investment ¥2.9 billion
+Group employees 3,671 ppl *
+Capital
+¥70,387 million *
+Customer feedback and requests
+Electricity consumption 18.5 MWh
+Philosophy
+Strength: Customization
+Provide customization tailored to customers' needs.
+Strength: Product Development
+Have technological capabilities that can provide products with industry-leading performance and low environmental impact.
+e
+l
+P
+a
+l
+a
+n
+S
+n
+i
+n
+g
+g
+D
+D
+n
+e
+i
+v
+r
+e
+e
+u
+s
+l
+t
+o
+i
+a
+c
+f
+g
+p
+u
+n
+n
+m
+e
+a
+&
+n
+M
+t
+r
+P
+e v
+d
+d
+r
+r
+e
+o
+O
+c
+i
+e
+u
+c
+r
+e
+r
+e
+m
+e
+n
+t
+Our Goals and Strategy Our Businesses Foundations of Value Creation Financial Data
+78
+We at SANYO DENKI Group Companies, aim to help all people achieve happiness, and work with people to make their dreams come true.
+Products
+Social Value
+• Increased productivity
+• Improved living environment
+• Higher energy efficiency
+• Enhanced emergency management • Global environment preservation • Creation of hiring
+(FY 2020 results)
+Economic Value
+Net sales
+¥75.5 ¥4.8 billion
+billion Operating profit
+Net profit ¥3.9 billion
+
+ History of SANYO DENKI Group
+2015
+Reversible Flow Fan
+San Ace 136RF
+2014
+High Airflow Long Life Splash Proof Fan San Ace W
+2014
+Wide Temperature Range Fan
+San Ace T
+2010
+2017
+G Proof Fan
+San Ace 120GP San Ace 172GP
+2019
+San Ace Controller
+San Ace Controller
+ As We Near the
+1997
+Splash Proof Fan
+San Ace W/WS
+2009
+Centrifugal Fan
+San Ace C
+2006
+Silent Fan
+San Ace S
+2003
+Stepping Driver
+SANMOTION F
+2013
+ACDC Fan
+San Ace 120AD
+2010
+Splash Proof Centrifugal Fan
+San Ace W
+2006
+AC Servo Motor
+SANMOTION R
+2008
+AC Servo Amplifier
+SANMOTION R ADVANCED MODEL
+2009
+5-Phase Stepping Motor with Integrated Driver SANMOTION F5
+2009
+Voltage Dip Compensator
+SANUPS C23A
+2011
+Peak Cut Device
+SANUPS K33A
+2016
+Airflow Tester
+San Ace Airflow Tester
+Center Magnet Type Linear Servo Motor SANMOTION
+2014
+275 mm sq.
+AC Servo Motor SANMOTION R
+2015
+Multi-axis DC Servo Amplifier with EtherCAT Interface SANMOTION R ADVANCED MODEL
+2017
+100
+2009
+Low Power Consumption Fan
+San Ace
+2013
+High Airflow Long Life Fan San Ace L
+2016
+PWM Controller
+San Ace
+PWM Controller
+2016
+Bracket-mounted Centrifugal Fan San Ace C270
+2014
+Compact Cylinder Linear Servo Motor SANMOTION
+2011
+14 mm sq. 2-Phase Stepping Motor SANMOTION F2
+2013
+AC Servo Amplifier
+SANMOTION R 3E Model
+        th Anniversary of Our Foundation, the SANYO DENKI Group
+Continues to Manufacture Products That Are
+2004
+Oil Poof Fan
+San Ace WF
+2003
+High Airflow DC Fan
+San Ace G
+2003
+Counter Rotating Fan
+2018
+ACDC Fan Centrifugal Fan Splash Proof Centrifugal Fan San Ace 225AD
+2019
+DC Servo Motor
+SANMOTION K
+Motion Controller
+with EtherCAT Interface SANMOTION C
+2017
+4-Axis Integrated DC Input Closed-Loop Stepping Driver
+with EtherCAT Interface SANMOTION Model No.PB
+2018
+Standby UPS
+SANUPS N11C-Li
+2018
+Emergency
+Diesel Generator SANUPS G53A
+          Ahead of the Curve.
+The SANYO DENKI Group develops five businesses: Cooling Systems, Power Systems, Servo Systems, Electrical Equipment Sales, and Electrical Works Contracting.
+1994
+CPU Cooling Fan
+SAN ACE MC
+1991
+Long Life Fan
+1994
+AC Servo Motor
+SANMOTION P
+1992
+2-Phase Stepping Motor
+Stepsyn H Series
+1995
+Engine Generator
+1995
+Gas Turbine Generator
+1995
+PV Inverter
+SANSOLAR
+2016
+    San Ace
+Closed Loop Stepping Driver SANMOTION Model No.PB
+1998
+5-Phase Stepping Motor
+StepSyn
+1997
+Power Management Software
+1995
+Mobile Generator
+5-Phase Linear
+Actuator Stepping Motor SANMOTION F5
+2018
+    1989
+Blower mass production started
+B 120
+     1982
+DC Fan
+DC San Ace
+1980
+DC Servo Motor
+Super U
+1981
+Digital Controller
+SANDIC
+1982
+Power Monitor
+1997
+2001
+Closed Loop Stepping Motor SANMOTION Model No.PB
+2001
+DC Servo Motor
+SANMOTION T
+              Cooling Systems Business
+Electrical Equipment Sales Business
+1927
+Radio
+power generator power supply
+2005
+AC Servo Amplifier
+SANMOTION R
+Motion Controller
+SANMOTION C
+2004
+PV Inverter
+SANUPS P73D
+Power Systems Business
+Electrical Works Contracting Business
+1952
+AC Servo Motor DC Servo Motor (first in Japan)
+Servo Systems Business
+    1965
+Cooling Fan (first in Japan) San Ace
+1961
+1975
+DC Servo Amplifier
+SAN Driver
+1976
+2-Phase Stepping Driver
+1986
+5-Phase Stepping Driver
+1987
+Servo Motor
+with Absolute Encoder ABS865
+2005
+           1960
+VR Type Stepping Motor
+1974
+DC Servo Motor
+High Resper
+2013
+PV Inverter
+SANUPS P83E
+2015
+Online UPS
+SANUPS A11K
+Power Conditioner for Wind Power and
+Hydro Power Generation Systems
+SANUPS W73A
+2018
+Online UPS
+SANUPS A22A
+      1959
+Stepping Motor (first in Japan)
+1961
+FES Type UPS
+PMA Type
+Drive Circuit
+(including power supply)
+1963
+Static Power Supply Unit
+2001
+Medium-capacity UPS
+SANUPS AMB
+1999
+Highly Reliable UPS
+SANUPS R
+2010
+Remote Monitoring Tool
+SANUPS PV Monitor
+2013
+PV Inverter
+SANUPS P61B
+     History of Major New Products
+     August 1927
+Sanyo Shokai founded by HideoYamamoto to import and sell electrical components
+June 1932
+A factory for the production of small AC and DC generators and communications equipment power units established in the Nishi- Sugamo (current Higashi- Ikebukuro) area ofTokyo
+April 1942
+Renamed SANYO DENKI CO., LTD
+February 1944
+Ueda factories (Ueda Kita Works, former Midorigaoka Works) established
+December 1945
+Head Office and Tokyo Works relocated to the Sugamo (current North Otsuka) area of Tokyo
+September 1962
+Listed on the Second Section of theTokyo Stock Exchange
+April 1979
+Shioda Works established in Ueda, Nagano
+SANUPS
+2002
+ 1985
+UPS
+Parallel Processing
+UPS 2008
+SANUPS E23A
+Inverter
+SANUPS D11A
+           1951
+Hand Generator
+ 1920–1950’s 1960’s 1970’s 1980’s 1990’s 2000’s 2010’s–2020’s
+March 1980
+Tsuiji Works established in Ueda, Nagano
+November 1984
+Aoki Works established in Aoki, Nagano
+(current Logistics Center)
+December 1988
+SANYO DENKI EUROPE S.A. (France) established
+April 1990
+Fujiyama Works established in Ueda, Nagano
+April 1995
+SANYO DENKI AMERICA, INC. (U.S.A.) established
+July 1997
+Technology Center established in Ueda, Nagano
+March 1999
+SANYO DENKITechno Service CO., LTD. established
+February 2000
+SANYO DENKI PHILIPPINES, INC. (Philippines) established
+April 2003
+SANYO DENKI SHANGHAI CO., LTD. (China) established
+June 2005
+SANYO DENKI (H.K.) CO., LIMIT- ED (China) established
+June 2005
+SANYO DENKITechno Service (Shenzhen) CO., LTD. (China) established
+August 2005
+SANYO DENKI SINGAPORE PTE. LTD. (Singapore) established (Current SANYO DENKI CO., LTD. Singapore Branch)
+October 2005
+SANYO DENKI GERMANY GmbH (Germany) established
+November 2005
+SANYO DENKI KOREA CO., LTD. (Korea) established
+December 2005
+SANYO DENKITAIWAN CO., LTD. (Taiwan) established
+January 2008
+SANYO DENKI (Shenzhen) CO., LTD. (China) established
+January 2009
+Kangawa Works established in Ueda, Nagano
+July 2009
+SANYO KOGYO CO., LTD. became a wholly owned subsidiary
+April 2011
+SANYO DENKI (Zhongshan) CO., LTD. (China) established
+July 2011
+SANYO DENKI (THAILAND) CO., LTD. (Thailand) established
+March 2013
+Listed on the First Section of theTokyo Stock Exchange
+August 2013
+Head Office relocated to its current location
+November 2014
+SANYO DENKI ENGINEERING (Shanghai) CO., LTD. (China) established
+February 2015
+SANYO DENKI INDIA PRIVATE LIMITED (India) established
+March 2019
+Technology Center established at SANYO DENKI PHILIPPINES, INC.
+April 2019
+SANYO DENKI (Tianjin) CO., LTD. (China) established
+April 2021
+SANYO DENKI IT Solution CO., LTD. established
+            9
+December 1936
+Reorganized into a joint stock company (Sanyo Shokai Co., Ltd.)
+10
+           Our Goals and Strategy Our Businesses Foundations of Value Creation Financial Data
+
+        SANYO DENKI in the Society
+The Group will create new value by sincerely facing social issues to develop products and provide services that have never been seen before.
+              EV charger
+           Fan
+5G communication
+Fan UPS
+  Photovoltaic generator
+Fan Renewable Driver Energy Inverter & Motor
+                                                               In hospitals
+       In hospitals, SANYO DENKI products are found in a variety of equipment including medical inspection and analysis equipment.
+                                                                                                                               In semiconductor factories
+   In shopping malls
+In shopping malls, SANYO DENKI products are used in customer service and security applications, including food showcases, security robots, and information display panels.
+In semiconductor manufacturing factories, SANYO DENKI products are used to supply stable power to various units on automated production lines and the entire factory.
+                                                                  Air purifier
+Remote robot inspection
+                             Fan
+Amplifier & Motor
+Fan
+                             Wafer inspection
+Wafer dicing
+Photo emulsion coater
+                     Security robot
+Overhead conveyor
+ Food showcase
+Vaccine storage freezer
+PCR inspection
+Amplifier & Motor
+                                                                            11
+12
+Driver & Motor
+Fan
+Fan
+LED information panel
+Fan
+UPS
+Amplifier & Motor
+Fan
+UPS
+Amplifier & Motor
+Fan
+Wind power generator
+ Fan
+Renewable Amplifier Energy Inverter & Motor
+ Fan
+UPS
+Fan
+Hydroelectric generator
+Fan Renewable Energy Inverter
+             Our Goals and Strategy Our Businesses Foundations of Value Creation Financial Data
+
+ Financial Highlights
+Operating Revenues
+¥77,506million
+2010 2011 2012 2013 2014
+Total Equity / ROE
+¥70,387million /5.9%
+    (Millions of Yen) 70,295
+91,745
+89,188 74,798
+84,678
+70,706
+􏰅 Total Equity (Million of Yen)
+ROE (Return on equity attributable to owners of the parent) (%)
+53,420
+57,054
+62,135 64,832
+62,541 70,387
+        45,819
+51,618
+    35,609
+38,910
+41,495
+        Japanese GAAP
+Operating Profit / Operating Profit to Operating Revenues
+Basic Earnings per Share
+¥4,830million /6.2%
+¥325.70
+         8.1
+6.7
+Earnings* / Earnings to Operating Revenues
+Cash Dividends per Share
+7.1
+8.2
+80,282
+77,506
+  69,972
+64,050
+67,670
+    2015 2016
+2017
+8,784
+2017
+2018
+6,590
+2018
+2019
+2020
+2010 2011 2012
+2013 2014
+2015
+2016
+2017
+2018 2019 2020
+6.8
+7.2
+9.8
+IFRS
+7.8
+6.2
+13.5
+11.9
+70.30
+47.61
+301.00
+329.25
+325.70
+7.4
+8.5
+11.7
+7.0
+7.3
+10.8
+7.9
+0.7
+5.9
+    Japanese GAAP
+IFRS
+    􏰅
+Operating Profit (Million of Yen)
+Operating Profit to Operating Revenues (%)
+7,478
+2014
+5,685
+5,414
+2016
+5,432
+2015
+¥3,942million /5.1%
+   4,662 3,948 4,821
+6.2
+4,830
+2020
+(Yen) 72.70
+92.09
+526.89
+411.66
+    60.01
+  35.22
+          2010 2011 2012 2013
+1,043
+1.5
+2019
+2010 2011 2012
+2013 2014
+2015 *
+2016 *
+2017 *
+2018 2019 2020
+Japanese GAAP
+IFRS
+¥90
+Japanese GAAP
+IFRS
+  􏰅
+Earnings (Million of Yen)
+Earnings to Operating Revenues (%)
+4,518
+5,720
+6,415
+4,983
+  (Yen) 90 90 105 110 90 90 17
+         4,367
+3,727
+3,738
+4,031
+3,942
+  15 15
+       6.4
+6.2
+2,957
+4.6
+5.5
+6.2
+ 4.7
+5.4
+7.2
+5.9
+ 426
+5.1
+12
+13
+   0.6
+   Japanese GAAP
+IFRS
+   13
+14
+2010 2011 2012 2013
+* Earnings attributable to owners of the parent
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2010 2011 2012
+2013 2014
+2015 *
+2016 *
+2017 *
+2018 2019 2020
+Japanese GAAP
+* Our company implemented a share consolidation in which five shares were consolidated into one share on October 1, 2017. These values are calculated based on the assumption that the consolidation was implemented at the beginning of fiscal year 2015.
+IFRS
+     Our Goals and Strategy Our Businesses Foundations of Value Creation Financial Data
+
+    San Ace is a brand name for SANYO DENKI􏰀s Cooling Systems products, such as cooling fans and cooling fan units.
+Devices using electronic components do not operate properly without heat control solutions. Our San Ace Cooling Systems products can ensure the stable operation of these devices. By developing products that feature industry-leading performance, quality, and reliability, we will contribute to improving the performance and reliability of our customers􏰀equipment.
+In fiscal year 2020, demand for telecom, medical, and factory automation markets, such as robots and semiconductor manufacturing equipment, increased. Also, demand for medical equipment and air purifiers significantly increased. On the other hand, demand for printers and renewable energy inverters was sluggish.
+Consequently, operating revenue rose 5.4% year on year, to ¥23,350 million. The amount of orders received rose 10.3%, to ¥25,096 million, and the order backlog increased 37.3%, to ¥6,423 million.
+Cooling Systems Business
+30.1%
+¥23,350 million
+FY 2020 Operating Revenues Composition
+   Product Lineup
+■ DC Fan
+These are DC cooling fans
+with high reliability and high performance. In addition to standard DC cooling fans,
+the lineup includes products with special features, such
+as Counter Rotating Fans, Centrifugal Fans, Blowers, and Low Power Consumption Fans, allowing customers to select the optimal fan for their application. They are suitable for cooling servers, storage, and ICT equipment.
+■ Cooling Fan Unit Fans are embedded in steel
+sheets or trays as a unit. Custom fan units can be made tailored
+to equipment specifications and requirements.
+􏰃 DC Fan
+􏰃 High Static Pressure Fan 􏰃 Low Power Consumption
+Fan
+􏰃 Silent Fan
+􏰃 Counter Rotating Fan 􏰃 Centrifugal Fan
+􏰃 Blower
+􏰃 Reversible Flow Fan
+■ Endurance Fan Endurance fans are DC
+fans that feature high environmental durability. The series lineup has a variety
+of fans that operate stably even in severe environments, including the Wide Temperature Range Fans for use in a temperature range of 􏰇40 to +85oC, Splash Proof Fans for use in water-exposed environments, Long Life Fans with continuous operability
+of up to 20 years, Oil Proof Fans for use in oil mist environments.
+■ AC Fan
+We offer high-reliability AC
+Fans. In addition to standard AC Fans, the lineup also includes high-efficiency, long-life ACDC Fans, which internally convert AC power to DC power. These are suitable for cooling ICT equipment, control panels, and factory automation equipment.
+􏰃 ACDC Fan 􏰃 AC Fan
+■ San Ace Controller
+This IoT-enabled product can perform automatic control and remote monitoring of PWM fans. It can control the individual speeds of up to four fans.
+It can monitor and control fans
+in remote locations via a cloud server, contributing to equipment failure detection and preventive maintenance.
+        􏰃 Wide Temperature Range Fan
+􏰃 Splash Proof Fan 􏰃 Splash Proof
+Centrifugal Fan
+􏰃 Splash Proof Blower 􏰃 Oil Proof Fan
+􏰃 Long Life Fan
+􏰃 Long Life Counter
+Rotating Fan 􏰃 G Proof Fan
+      15
+■ Airflow Tester
+This is a compact and portable
+measuring instrument for measuring the airflow and system impedance within a device. By using measurement results during thermal design simulation, you can easily and accurately select the optimum fan for your equipment.
+■ PWM Controller
+This device can remotely control the speed of a PWM fan. With this product, PWM fans can be fully utilized without the need for preparing new circuits. The lineup has two types: Box type that only requires wiring and PCB type that needs to be integrated into the equipment.
+  Koichi Uchibori
+Operating Officer for Quality Control
+General Manager of Cooling Systems Division
+   Strength of our business
+   Initiatives of the 9th Mid-term Management Plan
+   The strength of our Cooling Systems business lies
+in the design and development capabilities of high-end products that boast industry-first and industry-leading performance. Cooling fans are used everywhere in our daily lives, however, their performance requirements vary by application. Our lineup of cooling fans includes specialized products such as Splash Proof Oil Proof Fans that can be used in harsh environments, Long Life Fans with long lifespans that do not require maintenance often, and Low Power Consumption Fans that minimize power usage. These cooling fans contribute to improving the performance and reliability of equipment in complex structures and harsh operating environments, such as ICT equipment, customers􏰀production facilities, and medical equipment, and support an affluent society.
+This design and development is based upon systems that enable us to listen to customer feedback and reflect it in product development, and a spirit to take on new challenges. The Airflow Tester is a typical example of this. The Airflow Tester is a device that can measure
+the cooling performance of a fan built in customers􏰀 equipment. It was developed based on a customer􏰀s feedback stating that they wanted to be able to perform an evaluation on their own without having to visit us and use our measurement equipment. This Airflow Tester is the first product in the industry designed to be portable while maintaining measurement prevision.
+The Cooling Systems Division plans to implement the initiatives set in the 9th Mid-term Management Plan with the following goals: advance the three technologies stated in the corporate philosophy, take on new technological challenges, and make San Ace a top brand in all fields. If these goals are achieved, the size of the
+Cooling Systems business is expected to double from the current level in five years.
+To make the San Ace brand a top brand in all fields, it is necessary to further expand the current product lineup to broader applications. In the next five years, our new product development will be categorized as follows: (1) develop successor products of existing products that have improved performance, (2) develop products that competitors have but we do not have in our lineup, and (3) develop pioneering products that create new value that does not currently exist in the market.
+To achieve these, we will strengthen our design and development capabilities. Specifically, we will carry out development by incorporating innovative technologies such as simulation technology and IoT. Furthermore, we will develop new core technology by creating an environment where we can collect, select, and study new core technology that are several years ahead
+of time. In addition, we will establish a system and structure to develop new markets, which will lead to the development of new products that have not been available by our company or the market.
+In the Production Department, we have advanced
+the automation of production lines, and have so far introduced an automated assembly line for the final assembly process of cooling fans. This automated assembly line uses QR codes and IC tags to manage products, supplies parts and jigs automatically, and performs necessary changeovers automatically. In the future, we will build a system that centrally manages and visualizes the flow of build-to-order production planning, parts procurement, production, and shipping, and flexibly supports high-mix, low-volume production.
+Also, the Quality Control Department will improve the skills of the technicians in the department to further improve the product quality, and introduce an IoT-enabled process management and monitoring system to achieve zero product defect.
+16
+Our Goals and Strategy Our Businesses Foundations of Value Creation Financial Data
+
+       SANUPS is a brand name for SANYO DENKI􏰀s Power Systems products such as uninterruptible power supplies (UPSs), inverters, engine generators, and renewable energy inverters.
+The electronic devices and communication networks indispensable for our daily lives cannot be maintained without a stable power supply. Our SANUPS Power Systems products, including uninterruptible power supplies (UPS) and renewable energy inverters, supply high-quality and stable power to customers􏰀equipment in the event of unexpected power outages as well as in normal situations. They can be used for disaster management and business continuity planning purposes as well.
+In fiscal 2020, demand for emergency systems, semiconductor manufacturing equipment, and medical equipment increased. On the other hand, demand for renewable energy facilities and industrial facilities other than semiconductor manufacturing equipment was sluggish.
+Accordingly, operating revenue dropped 7.8% year on year, to ¥7,223 million. The amount of orders received decreased 15.3%, to ¥6,905 million, and the order backlog declined 14.8%, to ¥1,834 million.
+Product Lineup
+■ UPS (Uninterruptible Power Supply)
+Power Systems Business
+FY 2020 Operating Revenues Composition
+9.3%
+¥7,223 million
+            This device constantly supplies power so that a system can function safely without abnormal stoppages or damage in the event of a power outage. UPSs with lithium-ion batteries had been added to our product lineup. UPSs are used as backup power for critical applications such as information systems and financial systems which are required to operate without interruption.
+■ Voltage Dip Compensator This device supplies power
+without interruption in the event
+of an instantaneous power outages or voltage dips, preventing factory facilities from failing or malfunctioning. It is suitable
+for factory facilities and power equipment.
+􏰃 Online UPS
+􏰃 Hybrid UPS
+􏰃 Parallel Processing UPS 􏰃 Standby UPS
+■ Inverter
+This inverter converts DC to
+stable AC power. The inverter provides the highest possible stability by maintaining a one unit reserve capacity. It prevents equipment malfunction due
+to waveform disturbance by outputting complete sine waves. It is essential for ICT equipment.
+■ Renewable Energy Inverter This device supplies power by
+converting the DC power generated by photovoltaic generation systems into AC power and is suitable for
+use in public and industrial facilities. By combining it with the SANUPS NET cloud service and internet access, the PV system status can be monitored from devices such as computers or smartphones. A power conditioner (renewable energy inverter) for wind and hydro power generation systems is also available.
+■ Static Transfer Switch
+This device constantly monitors two power sources, a regular and spare, and when a voltage dip or power failure occurs, it switches the power supply from the regular source to the spare source without interruption to continue the power supply. It is suitable for ICT equipment and other critical load equipment requiring reliability.
+■ Grid Management System This unit enables efficient electricity
+use within a microgrid small-scale energy network. One of its main features is storing excess power generated from distributed energy sources, such as photovoltaic and wind power, in lithium-ion or other types of batteries to use power economically.
+■ Emergency Diesel Generator ■ Power Generation Vehicle
+These are a diesel generator
+and power generation vehicle that supply power to public, telecommunication, and infrastructure facilities during emergencies. Combined with a SANYO DENKI uninterruptible power supply (UPS), they ensure continuous supply of stable power over long periods without interruption.
+            17
+          Toshihiko Baba
+Executive Operating Officer
+General Manager of Power Systems Division
+Officer for Technical Development
+     Strength of our business
+  Initiatives of the 9th Mid-term Management Plan
+     Since the foundation, SANYO DENKI has been developing various power supply products, such as radio power generators and Japan􏰀s first UPS products. The Power Systems business was the first business that SANYO DENKI launched. Presently, the Power Systems Division offers three product groups: UPS (uninterruptible power supply) products, renewable energy inverters (power conditioners), and engine generators. Our products have been widely used in applications where stable power supply is required, such as protecting electronic devices and equipment from instantaneous power grid failure and providing power supply in the event of an emergency. Recently, our UPSs with lithium-ion batteries􏰄which feature high environmental durability, long life, small
+size, and long-term backup􏰄are playing an active role
+in emergency, BCP (business continuity planning), and medical fields by helping keep people safe.
+All SANYO DENKI products have their own strengths, however, on the other hand, the entire industry is leaning towards commoditization, which makes it difficult to differentiate ourselves from our competitors. However, we believe that this is the environment in which we can leverage our strengths of having a wide-ranging product lineup and customization capabilities to provide custom products tailored to customer specifications.
+For example, the SANUPS A11K-Li UPS with lithium-
+ion batteries has the capability to supply power for a long period of time even when a power failure occurs. Currently, demand for vaccine storage is increasing. We have further customized these products to develop a model dedicated to medical storage refrigerators and freezers.
+Also, with the recent advancement in factory automation and IoT, more and more precision equipment has been used in factories is increasing. In particular, UPSs used in dusty factories require a structure that prevents foreign objects from entering inside and a measure for dissipating heat.
+We have developed UPSs suitable for such locations where environmental durability is required by creatively designing the product structure and using heat exchange technology.
+In addition to this, we offer an abundant lineup of products that use renewable energy, and products that come in handy in the event of an emergency. SANUPS M53A is a power generation vehicle that can supply power anytime, anywhere it is needed in the event of a power outage or facility inspection. It is available in a variety of types, including the van type that can be driven with a regular driver􏰀s license, and various options are also offered to meet a wide range of customer needs.
+In terms of production, we plan to improve profitability
+by increasing the ratio of in-house unit assembly (assembly process). This in-house assembly allows us to make good use of our safety and control technology, so we intend to push it forward.
+The Power Systems business is where SANYO DENKI started, and its older systems or culture had often made it more difficult to make decisions freely or flexibly than other younger business divisions. That is why we chose the slogan of "breaking out of the shell," for the next 9th Mid-term Management Plan, and we will review our conventional ways of thinking and take on new challenges.
+As one of the actual initiatives, we are developing products that utilize the strengths of SANYO DENKI PHILIPPINES, INC. In the past, Power Systems products have been manufactured mainly in Japan, and delivered to the customers in Japan. Although compact UPSs have already been produced at SANYO DENKI PHILIPPINES, INC., these were for use in Japan. This is because manufacturing and selling a large number of power supply products for use in foreign countries is difficult due to
+the difference in grid power and standard compliance requirements in each country. However, with the various safety standard certifications we have acquired, we are finally getting ready to deliver our power supply products to international customers. Most importantly, producing products in the Philippines will make it possible to directly provide products tailored to each country with added value. By leveraging this advantage of producing products at SANYO DENKI PHILIPPINES, INC., we will develop products targeting not only the domestic market but also the international markets.
+Thanks to its accumulated technology and wide product lineup, our Power Systems business􏰀potential applications are limitless. We will continue to manufacture products that can meet any possible need.
+18
+Our Goals and Strategy Our Businesses Foundations of Value Creation Financial Data
+
+          SANMOTION is a brand name for SANYO DENKI􏰀s Servo Systems products, such as servo motors, servo amplifiers, stepping motors and drivers, motion controllers, and encoders.
+Servo systems are used to drive a wide variety of machines including machine tools, industrial robots, and medical equipment. Our SANMOTION Servo Systems products contribute to improving the productivity of customers􏰀equipment with high-precision, high-speed positioning control and fine customization.
+In fiscal year 2020, demand for robots, surface mounters, injection molding machines, and semiconductor manufacturing equipment, which are our main sales markets, grew significantly due to increased capital investment in 5G-related equipment and automobiles in China.
+Servo Systems Business
+FY 2020 Operating Revenues Composition
+52.5%
+¥40,661 million
+  Consequently, operating revenue rose 24.4% year on year, to ¥40,661 million. The amount of orders received rose 44.9%, to ¥48,073 million, and the order backlog increased 87.0%, to ¥15,928 million.
+Product Lineup
+■ AC Servo Systems
+These are high-precision, high-performance servo systems. These achieve high-speed, precision positioning with vibration suppression function, shortening the cycle time of equipment. The lineup also includes high-speed spindle motors. These are suitable for high-speed, high-precision equipment such as semiconductor manufacturing equipment, robots, and machine tools. With a wide variety of models available, you can build the optimum system for your device.
+■ DC Servo Systems
+These are DC servo systems with low vibration and low noise. They operate stably at low speeds, and the use in combination with an encoder realizes high-precision positioning control. These are ideal for use with measuring instruments.
+                   ■ Linear Servo Systems These servo motors move in
+straight lines. Compared with ball screw-based linear systems, they have higher speed and precision and can simplify your system. They are suitable for semiconductor manufacturing equipment and chip mounters.
+■ Stepping Systems
+These are stepping systems that can achieve
+high-precision positioning with simple control. In addition to 2-phase, 3-phase, and 5-phase stepping systems, our lineup also includes closed-loop stepping systems, which offer
+all the advantages of both AC servo systems and stepping systems. These are suitable
+for a wide range of applications, including semiconductor manufacturing equipment, chip mounters, analysis/inspection equipment in the medical and environmental fields, ATMs, and surveillance cameras.
+􏰃 2-Phase Stepping Systems 􏰃 3-Phase Stepping Systems 􏰃 5-Phase Stepping Systems 􏰃 Closed Loop Stepping
+Systems
+■ Motion Controllers
+These are motion controllers featuring high-speed EtherCAT fieldbus. They offer three control functions: motion control, robot control, and sequence control, helping build systems including robots, conveying machines, and semiconductor manufacturing equipment.
+19
+   Satoru Onodera
+Operating Officer
+General Manager of Servo Systems Division
+Officer for Production Engineering Doctor of Engineering
+  Strengths of our business
+   Initiatives of the 9th Mid-term Management Plan
+   Servo systems are used to move, stop, and control the movement of equipment such as machine tools, robots, semiconductor manufacturing equipment, and medical equipment. Ours Servo Systems Business not only provides servo systems products but also involves our engineers working closely with customers from the design phase of customers􏰀equipment, and we excel in helping customers maximize the performance of their manufacturing equipment.
+The Servo Systems Business has evolved mainly through making contributions to manufactures. The technology we have accumulated over many years
+are also playing an increasingly important role in fields where new technological innovations are emerging. Expectations for servo system products are increasing in medical and welfare equipment fields, which contribute to human health, and in energy fields, which contribute to the preservation of the global environment.
+In addition to meeting the application and functional requirements of users, we can add new value to machinery and equipment by perusing product features such as high efficiency, compact and lightweight design, and low noise. The Servo Systems products involve converting electrical energy into mechanical energy. Through the mechanical devices, we can even create "happy energy" that can contribute to human health and the global environment.
+In the 8th Medium-term Management Plan, the previous 5-year plan, we redesigned the production lines in our factory and built automated "production innovation lines." This has greatly improved the production efficiency and manufacturing quality.
+The 9th Medium-term Management Plan, which started this year, aims to achieve a 1.5 times higher production capacity in Japan and 3 times higher overseas. The number of orders we receive from our customers has increased every year, and subsequently we now produce a wide range of products. To deliver high-quality products to customers faster under such
+circumstances, we need a new system that can produce products faster and more efficiently.
+First, our production factories will achieve this by further expanding the production facilities. We are also working to extend the functions of our newly introduced production innovation lines. In particular, we have been making efforts to make our production innovation lines IoT-ready. This will visualize manufacturing information using digital data, enabling the monitoring of production status in real time. This will enable even minor variances in quality to be detected immediately. This prevents failures from occurring, and enables changes and modifications of plans to be implemented quickly. Furthermore, we have been building a system that enables us to speed up the processes􏰄from design
+to production startup􏰄by using digital technology to
+link design information with the parts processing and assembly processes.
+In addition to manufacturing at the factory, we are also promoting initiatives that involve technical centers. SANYO DENKI Group sales offices are equipped with technical centers that allow us to customize products and conduct equipment tests in coordination with local customers. Working together with customers on their equipment enables you to make customization in more detail, leading to the development of products that benefit customers the most.
+We are also focusing on the development of new products. The SANYO DENKI Group has set a goal of
+a 20% increase in product development output in the five years of the 9th Medium-term Management Plan. The goal is to develop more products in a shorter period of time and increase the productivity of design and development. In product development, we are promoting co-creation initiative to create new value by empathizing with our customers.
+We continue to enhance our strengths and take on new challenges at the same time. We have excellent customization capabilities that we have accumulated through making contributions to the manufacturing of customers with Servo Systems products. In addition to reinforcing these strengths, we will take on the challenge of creating new products and services that contribute
+to the health of people and the betterment of global environment.
+20
+Our Goals and Strategy Our Businesses Foundations of Value Creation Financial Data
+
+   Electrical Equipment Sales Business
+Electrical Works Contracting Business
+      Ichiro Yamamoto
+Operating Officer
+President & COO
+at SANYO KOGYO CO., LTD
+Shigejiro Miyata
+Executive Operating Officer
+for Medium-Term Strategy Official
+President & COO
+at SANYO DENKI IT Solution CO.,LTD
+  Creation of Group Synergies
+  Strength of Business
+Background and Vision of Establishment
+  Initiatives of the 9th Mid-term Management Plan
+ Location: Ueda, Nagano, Japan (In Kangawa Works) Established on: April 1, 2021
+Main business:
+Develop and operate IT systems of the Group; manage and maintain the Group􏰀s network security; plan, develop, and consult on IT-related things.
+22
+       SANYO KOGYO CO., LTD.is a trading company specializing in electronic and electrical equipment. In order to meet the needs of our customers, we have a wide range of products manufactured by various manufacturers, and provide them rapidly in the most suitable applications. We also have engineering and construction functions, such as planning, design, installation, and maintenance of industrial control systems. Our strength is not limited to purchasing and delivering products but also providing effective one-stop services to add value to our services.
+We market a wide range of products, from small connectors to large control panels. We have more than 600 customers and suppliers each, and one of our strengths is that we have a wide range of businesses. Since SANYO KOGYO became a wholly owned subsidiary of SANYO DENKI in 2009, it has been operating in the black because it is less susceptible to fluctuations in market conditions and has a stable earnings base.
+We are also working on initiatives to create synergies through collaboration with group companies.
+For example, we contribute to improving the functions of SANYO DENKI products. SANYO DENKI􏰀s UPS (Uninterruptible Power Supply) products that we handle use lithium-ion batteries, which we handle as a trading company. We play a part in increasing the added value of SANYO DENKI products by proposing the most suitable products from a wide range of products.
+We are also revitalizing personnel exchanges among groups. In addition to sharing know-how about sales activities, our system engineers have been working in the design department of SANYO DENKI for a certain period of time in order to learn the structures of motors and amplifiers used in the workplace, and are exchanging information with others in a wide range of fields. We would like to develop more highly skilled staff through personnel training that transcends the boundaries between companies.
+SANYO DENKI IT Solution CO., LTD. was established in April 2021 with the aim of overseeing the IT operations of the entire group by utilizing the system development know-how and IT network that the SANYO DENKI Group has cultivated in its business operations.
+In addition to the core business of developing and operating various systems and managing and maintaining networks and security, we aim to create synergies among group companies by unifying and streamlining the systems within
+the group. Not limited to simply setting up the network infrastructure, business activities such as sales, production, and shipping are also connected throughout the network to improve operation efficiency and reduce costs.
+At SANYO DENKI IT Solution CO., LTD.,
+the people from the system department and
+the members who were in charge of software development at the production site are also actively engaging in operations. By gathering people with
+a wide range of knowledge and utilizing know-how they have cultivated in the field as information assets, we have the potential to approach projects from the infrastructure side as well as from the business side.
+At the moment, we are mainly operating within our group, however, in the future, we would like
+to work on planning and development, as well as building the consulting business outside the group. Although SANYO DENKI IT Solution CO., LTD. is a new company that was recently launched, we will develop an IT business that makes use of group synergies as a driving force for system operations and promotion of digitalization of the group.
+ In the mid-term management plan that started this year, we are challenging ideas and methods that are not bound by conventional methods under the theme of "Breaking out of the shell." For example, by taking advantage of our trading company functions, we are developing unique sales strategies that utilize our creativity, such as combining the products of Company A and Company B and selling them as a new unit. The fun aspect of this business is in the development of new markets with completely new combinations, grasping the flow of market conditions, quickly finding new products and suppliers, and bringing them to the world.
+Electrical Works Contracting Business
+2.6%
+    ¥1,976 million
+Electrical Equipment Sales Business
+5.5%
+¥4,295 million
+FY 2020 Operating Revenues Composition
+ 21
+Our Goals and Strategy Our Businesses Foundations of Value Creation Financial Data
+
+ Operating Results by Business and Geographic Segment
+􏰈 See the list of office addresses
+Joshin-Etsu Expressway
+Ueda
+Chikuma River
+Ueda Dentetsu Bessho Line
+Shinano Railway Line
+Hokuriku Shinkansen
+Sales
+132
+24 25
+Production and Development
+Technical Centers
+Europe
+1 SANYO DENKI EUROPE S.A.
+2 Poland Branch
+3 SANYO DENKI GERMANY GmbH
+Southeast Asia
+4 SANYO DENKI PHILIPPINES, INC.
+5 SANYO DENKI (THAILAND) CO., LTD.
+6 SANYO DENKI INDIA PRIVATE LIMITED
+7 New Delhi Office
+8 SANYO DENKI CO., LTD. Singapore Branch
+9 SANYO DENKI CO., LTD. Jakarta Representative Office
+Overview of Operating Results by Business
+9
+7 6
+21 16 10 12
+5
+13 4
+North America
+22 SANYO DENKI AMERICA, INC. 23 Silicon Valley Office
+24 Chicago Office
+25 Detroit Office (Repair Center)
+Japan
+SANYO DENKI CO., LTD.
+19 17
+East Asia
+1 Head Office
+2 Sapporo
+3 Sendai
+4 Utsunomiya
+5 Ueda
+6 Kofu
+10 Nagoya
+11 Kyoto
+12 Osaka
+13 Hiroshima
+14 Fukuoka
+15 Kangawa Works 16 Fujiyama Works 17 Shioda Works 18 Tsuiji Works
+19 Technology Center
+20 SANYO KOGYO CO., LTD.
+2
+3
+17
+8
+1120 15
+19
+18 14
+23
+22
+18
+Ueda Castle Park
+16
+Ueda Sugadaira Interchange
+521 15 22
+Our Goals and Strategy Our Businesses Foundations of Value Creation Financial Data
+23
+24
+Business
+Cooling Systems Business Power Systems Business Servo Systems Business Electrical Equipment Sales Business Electrical Works Contracting Business Total
+Order backlog
+6,423
+1,834 15,928 993 547 77,506 86,325 25,727
+¥1,976 million Electrical
+Equipment Sales Business
+5.5%
+¥4,295 million
+Servo Systems
+Business
+52.5%
+¥40,661 million
+¥23,350 million
+¥23,910 million East Asia
+Operating revenues
+Orders received
+23,350 7,223 40,661 4,295 1,976
+25,096 6,905 48,073 4,435 1,815
+(53,399) (10,519) (4,521) (8,691) (374) 130,024 (77,506)
+(Millions
+of Yen)
+Segment
+Geographic segment
+(Millions Operating revenues
+10 SANYO DENKI (Zhongshan) CO., LTD. 11 SANYO DENKI SHANGHAI CO., LTD. 12 SANYO DENKI (H.K.) CO., LIMITED 13 SANYO DENKI TAIWAN CO., LTD.
+14 SANYO DENKI KOREA CO., LTD.
+15 Busan Branch
+16 SANYO DENKI (Shenzhen) CO., LTD.
+17 Chengdu Branch
+18 SANYO DENKI (Tianjin) CO., LTD.
+19 Beijing Branch
+20 SANYO DENKI ENGINEERING (Shanghai) CO., LTD. 21 SANYO DENKI ENGINEERING (Shenzhen) CO., LTD.
+7
+11 10 9 12
+4 1
+6 20
+Sales
+Ueda Facilities Group Company
+60.1%
+¥78,146 million
+Operating Results by Geographic
+FY 2020 Consolidated Operating Revenues Composition
+Electrical Works Cooling Systems Contracting Business Business
+Southeast Asia
+Japan
+Japan 78,146
+9.8%
+North America
+Europe 4,552
+Breakdown by business
+¥12,689 million Europe
+Breakdown by geographic segment
+East Asia Southeast Asia Total
+12,689 23,910
+Power Systems Business
+9.3%
+¥7,223 million
+3.5%
+* After elimination of intersegment transactions
+¥10,724 million
+10,724
+of Yen)
+2.6% 30.1%
+18.4%
+7
+SANYO DENKI Techno Service CO., LTD. 22 SANYO DENKI IT Solution CO., LTD.
+8
+Kanazawa
+8 Hamamatsu
+9 Kariya
+21
+13 14
+¥4,552 million
+North America
+8.2%
+
+ Operating Officers
+    Satoru Onodera
+Operating Officer
+General Manager of Servo Systems Division
+Officer for Production Engineering
+Motoichiro Naruse
+Operating Officer
+General Manager of Purchasing Headquarters
+Koichi Uchibori
+Operating Officer for Quality Control
+General Manager of Cooling Systems Division
+Ichiro Yamamoto
+Operating Officer
+President & COO at SANYO KOGYO CO., LTD
+Jiro Sakamoto
+Operating Officer
+Deputy General Manager of Sales Headquarters
+Officer for New Markets Development
+Tatsuya Hirata
+Operating Officer
+General Manager of Sales Headquarters
+Masaki Iwayama
+Operating Officer
+Department Manager of Corporate Planning Department and General Affairs Department
+Norio Tazawa
+Operating Officer Chief of Ueda Facilities
+President & COO at SANYO DENKI Techno Service CO., LTD
+                  Directors
+    Shigeo Yamamoto * Representative Director
+Chairman of the Board & CEO
+Chihiro Nakayama * Director
+Senior Executive Operating Officer for Manufacturing
+Officer for Breaking the Shell and Finance
+Keiichi Kitamura* Director
+Executive Operating Officer for Business Administration
+Toru Suzuki
+Outside Director
+Shin Kurihara
+Outside Director
+Nobumasa Kodama * Representative Director
+President & COO
+Yoshimasa Matsumoto *
+Director
+Executive Operating Officer for Sales Officer for Group companies
+Yuichiro Miyake
+Outside Director
+Hiroshi Suwa
+Outside Director
+               *These directors are also appointed Operating Officer.
+   Auditors
+      Hiroaki Hayashi
+Auditor
+Takeshi Yamamoto
+Outside Auditor
+Fumio Amano
+Outside Auditor
+Noriko Miyagi
+Outside Auditor
+     26
+ Operating Officers
+    25
+Shigejiro Miyata
+Executive Operating Officer
+for Medium-Term Strategy Official
+President & COO at SANYO DENKI IT Solution CO.,LTD
+Toshihiko Baba
+Executive Operating Officer
+General Manager of Power Systems Division
+Officer for Technical Development
+ Executives
+As of June 2021
+    Our Goals and Strategy Our Businesses Foundations of Value Creation Financial Data
+
+Corporate Governance Structure
+  Election, Dismissal Directors
+Report
+Election, Dismissal
+Election, Dismissal Report Election, Dismissal
+General Meeting of Shareholders
+             Representative Directors
+Board of Directors
+Audit Report
+Advisory, Report Compensation Committee
+Audit & Supervisory Board Members Audit & Supervisory Board
+Audit, Cooperation Investigation
+Audit Department
+Internal Audit
+Cooperation
+Report
+Cooperation
+                         Election, Dismissal
+Report
+Report Election, Dismissal
+Board of Executive Officers Operating Officers President
+Instruction, Supervision
+      Instruction
+  Report
+Internal Control Evaluation Committee
+Report Supervision, Execution of Operation
+    Evaluation
+Sales, Business, Purchasing, and Administrative Divisions
+Corporate Philosophy / Business Conduct and Practices
+Crisis Management Committee Business Conduct and Practices Committee
+Other Committees and Projects Other Group Companies
+ Corporate Governance System Description
+  Organizational form
+Directors
+Board of Directors
+Auditors
+Board of Auditors
+Operating officer system
+Advisory committee of the board of directors
+Accounting auditor
+Company with a Board of Auditors
+Number of board of directors: 9 (including 4 outside directors)
+Director􏰀s term of office: 2 years Number of board of directors􏰀meetings
+held: 11
+Number of auditors: 4 (including 3 outside directors)
+Auditor􏰀s term of office: 4 years Number of board of auditors􏰀meetings
+held: 17
+Yes
+Compensation Committee Ernst & Young Shin Nihon LLC
+Board of Directors
+The board of directors always ensures that the activities of directors and employers comply with laws, regulations, and the Company􏰀s Articles of Incorporation. The board receives reports from the heads of divisions at regular board of directors meetings, and when needed. The board also makes decisions, issues instructions, and provides guidance when necessary.
+The board of directors appoints the necessary number of operating officers to realize systematic, appropriate, and speedy execution of operations, provides individuals the responsibility and authority they need to carry out their duties, oversees operations, and receives reports from the operating officers at board of directors meetings or whenever necessary.
+Board of Auditors
+Auditors audit the operations of the directors
+and check whether operating officers, and then the divisions under their control, are executing operations appropriately according to laws, regulations, the Articles of Incorporation, and by-laws.
+Audit Department
+The audit department, under direct control of the president, performs audits to check whether operations in all divisions of the company and its subsidiary group companies are being conducted appropriately according to laws, regulations, the Articles of Incorporation, and by-laws. It also provides guidance when it believes a practice needs to be improved.
+Business Conduct and Practices Committee
+The Business Conduct and Practices Committee, appointed by the board of directors, provides employees of the company and subsidiary group companies with thorough training on compliance with laws, business conduct, and practices.
+Compensation Committee
+The Compensation Committee that consists of one outside director excluding representative directors, three outside directors, and one independent outside auditor, as an advisory committee, examines the salaries for directors and operating officers, and reports it to the board of directors.
+Internal Control Evaluation Committee
+The internal control evaluation committee evaluates the internal controls of the company and group companies, and reports it to the board of directors. The board of directors then instructs or provides guidance based on the evaluation report.
+Risk Management System
+Crisis Management Committee
+The company􏰀s Crisis Management Committee, appointed by the board of directors, should recognize the risks that affect operations of the company and its subsidiary group companies, and strive to improve our crisis management system. During normal operations, the committee formulates measures to prevent risks from occurring.
+Number of directors
+9
+   Number of auditors
+4
+3 outside auditors
+4 outside directors
+      Initiatives to Strengthen Corporate Governance
+       1999
+2007
+2015
+2018
+2021
+          Supervisory functions strengthened
+Outside directors introduced
+The number of outside directors increased to two
+The number of outside directors increased to three
+The number of outside directors increased to four
+      Business execution clarified and expedited
+  Corporate governance enhanced
+Operating officer system introduced
+ Basic corporate governance policy formulated
+      Objectivity and transparency of management decisions secured
+Compensation Committee established
+     27
+28
+ Corporate Governance Basic Policy
+The SANYO DENKI Group enhances transparency of management and corporate governance, and is determined to construct and maintain an organizational system that can rapidly adjust to changes in management environment, and a fair management system that benefits our shareholders.
+In addition, we promote our corporate philosophy, "We at SANYO DENKI Group Companies aim to help all people achieve happiness, and work with people to make their dreams come true." In order to enhance the meaning of our company’s existence, the position of each stakeholder is respected in order to implement the corporate philosophy.
+      Our Goals and Strategy Our Businesses Foundations of Value Creation Financial Data
+Accounting Auditor
+Accounting Audit, Internal Control Audit
+
+ Corporate Governance
+Selection Criteria for Directors and Auditors
+The Articles of Incorporation states that there shall be no more than ten directors. Regarding selection of directors, an individual who is well versed in each business field or who possesses relevant legal, accounting, or management knowledge is selected to maintain balance between knowledge, experience, and capabilities as well as diversity within the board.
+Additionally, it is considered that many important matters directors are expected to address are not uniform and that policy related to selection should not be fixed.
+Executive Compensation
+Determination of executive compensation
+(1) Policy for determining executive compensation
+SANYO DENKI clarifies the policy for determining executive compensation at the board of directors meeting after consulting with and reporting to the Compensation Committee as follows.
+􏰂Executive compensation is decided at the board of directors meeting after the board of directors consults the Compensation
+Committee, which is established on a voluntary basis, and receives its report.
+􏰂Executive compensation includes monthly compensation as a fixed compensation, and performance-based compensation.
+The total amount of fixed-amount compensation and performance-based compensation is determined within the range of
+compensation approved at the general shareholders meeting. The calculation is generally as follows:
+Fixed compensation (basic salary)
+In the case of directors who also serve as executive operating officers, their compensation is determined based on the degree of responsibility they have for their assigned duties, and in the case of directors who do not serve as executive operating officers, their compensation is determined based on the degree of their involvement in overall management.
+Performance-based compensation
+Depending on the overall performance of the consolidated company in the previous fiscal year and the degree of performance of each director, the performance-based compensation is determined within the range of 0 to approximately five times (annual) the monthly compensation of each director.
+Retirement benefits
+Retirement benefits are calculated in accordance with the retirement benefits rules, and after consulting with and reporting to the Compensation Committee, the board of directors decides to submit the proposal to the general shareholders meeting.
+If a director causes any damage to the company during his/her term of office, some or all of the retirement benefits may not be paid.
+(2) Auditor compensation policy
+Auditors􏰀salaries are decided within the range that is approved at the general shareholder meeting, and finally approved by the board of auditors. Retirement benefits for auditors are discussed and finalized at the general shareholder meeting based on the submitted proposals.
+The proposals are made at the board of auditors beforehand.
+Status of Outside Directors
+(As of June 16, 2021)
+–
+–
+17/17 100􏰁
+N/A (Newly appointed)
+         Concurrent positions
+Attendance at the board of directors meetings
+Attendance at the board of auditors meetings
+           Outside Director
+Yuichiro Miyake
+Yes
+Lawyer
+Outside auditor at Shindengen Electric Manufacturing Co., Ltd.
+Outside auditor at Tadano Ltd. Outside director at Asahi Yukizai Corporation
+11/11 100􏰁
+           Outside Director
+Toru Suzuki
+Yes
+Certified public accountant
+11/11 100􏰁
+–
+              29
+30
+Outside Director
+Outside Auditor
+Hiroshi Suwa
+Yes
+Appointment criteria and qualifications of the independence of outside directors/officers
+Regarding the independence of outside directors and auditors, the independence standard set by the Tokyo Stock Exchange is used as the standard for SANYO DENKI. They are expected to provide appropriate management and/or auditing based on their specialized knowledge and experience. In principle, we appoint them based on the knowledge that there is no interest conflict with shareholders.
+Compensation Committee
+Committee Composition
+Activities
+Compensation Committee meetings were held five times in the period from April 2020 to March 2021. The followings are the topics of the meetings, which were the inquiries from the Board of Directors.
+(1) Executive compensation policies
+(2) Compensations of directors, officers, and group company executives (3) Retirement benefits
+Note: Retirement benefits are the amount recorded as a provision for directors􏰀retirement benefits during this financial year. Compliance Practice
+The SANYO DENKI Group positions the compliance practice as one of the important issues for group management and strives to promote it. In the Corporate Activity Standards common to the group, we have established definitions and action guidelines regarding Compliance with Laws and Regulations, Elimination of Antisocial Forces, Prevention of Money Laundering, Elimination of Unfair Trading Methods, Prohibition of Insider Trading, Gifts and Entertainment, Prohibition of Gifts and Entertainment to Public Institutions, Elimination of Political Activities, and Prevention of Interference with Market Competition, and have incorporated them into educational programs for all employees. In this way, we are focusing on ensuring a healthy business environment.
+Chair: Members:
+Hiroshi Suwa (Independent outside director) Yoshimasa Matsumoto (Director)
+Yuichiro Miyake (Independent outside director) Toru Suzuki (Independent outside director) Fumio Amano (Independent outside director)
+Independent officer
+ –
+–
+11/11 100􏰁
+      Outside Director
+Shin Kurihara
+Yes
+President & CEO at
+TI Automotive Japan Ltd.
+N/A (Newly appointed)
+–
+      Outside Auditor
+Fumio Amano
+Yes
+–
+11/11 100􏰁
+Compensation details for FY 2020
+  Officer types
+Total of compensations (Millions of Yen)
+Total amount of compensation by classification (Millions of Yen)
+Number of applicable officers
+            Takeshi Yamamoto
+       Yes
+11/11 100􏰁
+17/17 100􏰁
+ Directors
+(excluding outside directors)
+251
+Base salary
+180
+Performance-based compensation
+40
+Retirement benefits
+    30
+5
+3
+                  Outside Auditor
+Noriko Miyagi
+Yes
+Senior Managing Director at Resona Business Service Co., Ltd.
+N/A (Newly appointed)
+Auditors
+(excluding outside auditors)
+33
+29
+–
+3
+2
+         Outside Director
+53
+48
+–
+5
+               Outside Auditor
+24
+21
+–
+2
+3
+           Our Goals and Strategy Our Businesses Foundations of Value Creation Financial Data
+
+ Environmental
+        Chihiro Nakayama
+Director
+Senior Executive Operating Officer for Manufacturing
+Officer for Breaking the Shell and Finance
+Both business growth and environmental conservation are achieved to realize a sustainable and recycling-based society.
+the greater their contribution to environmental preservation.
+We are also strengthening our efforts to save energy in the factories themselves. In 1997, we introduced a Photovoltaic generation facility at
+the Technology Center in Ueda City in Nagano Prefecture. Presently, the entire Ueda Works has a maximum power generation capacity of 2,520 kW.
+In addition, by changing the factory lighting to LED lighting, we were able to significantly reduce power consumption. In 2014, we introduced LED lighting for the first time when the third factory of SANYO DENKI PHILIPPINES, INC. was opened. After that, in the last five years, we have changed the lighting of almost all factories in Japan to LED lighting.
+Furthermore, we are comprehensively reducing the amount of general and industrial waste generated by production activities and recycling
+them as part of zero-emission activities. As a result, we achieved a company-wide waste recycling rate of 99.7% in 2020. In addition, the Ueda Works
+and Head Office also engage in environmental conservation activities, such as regularly volunteering for community cleanups.
+SANYO DENKI PHILIPPINES, INC., established in 2000, also acquired the ISO 14001 certification in 2003. The company has set up a specialized department called Environment Health and Safety to promote the development of products certified as Eco-products and the introduction of LED lighting in factories, similar to Japanese factories. The company has three factories and a technology center for research and development, all of which use LED lighting. In addition, as a unique initiative rooted in the community, they actively engaged in environmental conservation activities such as tree planting and beach cleaning.
+Environmental Initiatives
+The SANYO DENKI Group􏰀s environmental policy is to manage its business in a manner that contributes to global environmental conservation and the prosperity of mankind through its corporate activities with respect to society and environment.
+Our environmental initiatives started with
+the acquisition of ISO 14001 certification. After acquiring this certification in 1999, we established an Environmental Action Committee in 2000. After that, for about 20 years, the Environmental Action Committee took the lead in promoting the following priority themes for environmental management: (1) development and manufacture of environmentally- friendly products, (2) reduction of the use of harmful chemical substances, (3) reduction of
+the environmental load in business activities,
+(4) contribution to the local community, and (5) protection of biodiversity and ecosystems.
+There are three main types of environmental initiatives as follows. The first is reduction of environmental load and power consumption through the development of products certified as Eco- products. The second is energy-saving initiatives at factories, and the third is waste reduction.
+First, in product development, we are working
+to develop products that incorporate the latest energy-saving technologies. Newly developed products are compared with commercially available and existing products, and are certified as Eco- products if they satisfy the specified evaluation standards. In 2020, 18 products were certified as Eco-products. For example, the high static pressure fan introduced last year has a structure that can reduce power consumption by about 20% compared to our conventional products. In other words, the more products that are certified as Eco-products,
+In the future, we will work on three major issues to help achieve a carbon-free society.
+The first is to positively develop products certified as Eco-products. We will strive to
+reduce environmental load and CO2 emissions by incorporating the latest energy-saving technologies. The goals of the SANYO DENKI Group are to develop new technologies and new products that will bring happiness to everyone who uses them. Based on the belief that developing superb products continuously leads to social contribution, SANYO DENKI will further focus on development of Eco- products.
+The second is to improve the energy efficiency in production activities. By strengthening the production facilities that we have been working
+on so far, we have been able to greatly improve production efficiency. In the future, we will utilize this production environment to further reduce wasted power in the factory by optimizing the layout and utilizing the IoT, and evolve the factory into a
+more energy-efficient facility while increasing the production capacity.
+The third is to strengthen efforts aimed at fulfilling carbon-neutral market requirements. In our Power Systems Business we have developed a number of products that can also utilize
+natural energy, such as power conditioners for photovoltaic generation systems (PV inverters) and grid management system. We believe that the widespread use of our products in the carbon- neutral market will significantly contribute to a carbon-free society. Entering this carbon-neutral market is also a great business opportunity for us. We will also focus on research and development activities to develop this market.
+The SANYO DENKI Group fully utilizes the technology cultivated to date and carries out corporate activities aimed at achieving both business growth and conserving the environment in order to realize a sustainable and recycling-based society.
+􏰈 See the Environmental Data Book
+Toward Carbon-Free Society
+    31
+32
+      Our Goals and Strategy Our Businesses Foundations of Value Creation Financial Data
+
+  Environmental
+        The SANYO DENKI Group promotes corporate activities aimed at preserving the global environment and human prosperity.
+Environmental Policy
+Basic Philosophy
+The SANYO DENKI Group helps preserve the global environment and enhance humanity􏰀s prosperity through its corporate activities for society and the environment.
+Basic Policy
+SANYO DENKI CO., LTD., comprising Kangawa Works, Shioda Works, Fujiyama Works, Technology Center, and Head Office, develops, designs, manufactures, and sells cooling fans, UPSs, power conditioners for photovoltaic generation systems (PV inverters), engine generators, servo systems, stepping systems, controllers, encoders, and driving devices. Under the principles listed below, each member of SANYO DENKI will take part in eco-friendly activities to help preserve our abundant global environment.
+1. To enhance our environmental performance, we will continuously improve the environmental
+management system and work hard to prevent pollution and reduce the environmental impact of our
+activities.
+2. We will assess the environmental impact of our corporate activities, set reduction targets, and achieve
+the targets.
+We identify the following items as high-priority for environmental management.
+(1) Develop, design, manufacture, and sell environment-friendly products
+(2) Reduce or eliminate the use of hazardous chemical substances
+(3) Reduce the environmental impact (energy consumption, amount of paper copies, waste, etc.) of business
+activities
+(4) Contribute to the local community
+(5) Protect biodiversity and ecosystem
+3. We observe environmental laws, restrictions, and other rules relevant to our company and work hard to preserve the environment.
+4. We document, carry out, and maintain our environmental principles, make them known to all our employees, and ask that our employees cooperate in the pursuit of these principles and reflect them in our environmental management processes.
+5. We will review the environmental management system periodically.
+6. We will openly publicize our environmental principles to parties inside and outside the company.
+Biodiversity Initiatives
+The protection of biodiversity is an important issue on a par with the prevention of global warming. The SANYO DENKI Group engages in energy saving activities and initiatives utilizing our own resources including our own technologies and products.
+Environmental Committee
+The Environmental Committee, which was established
+in April 2000, has been in operation for 20 years as of this year. Since fiscal 2004, energy conservation and waste reduction efforts at each site have been conducted as part of maintenance activities. In addition to reducing environmental impact, the Environmental Committee is working on reducing quantities of hazardous chemical substances, and developing eco-design products as a key theme focused on environmental management.
+Main Responsibilities of the Environmental Committee
+1. Planning, communication, and guidance on policies concerning environmental preservation activities.
+2. Preparation and maintenance of company regulations concerning environmental preservation activities (including the environmental manuals of the company).
+3. Promotion of environmental preservation activities at the head office, factories, branch offices, and other locations through environmental management managers.
+4. External contact for the company􏰀s environmental preservation activities.
+5. Surveys on social conditions concerning environmental preservation activities.
+What are the Eco-products?
+Efforts for Eco-Design
+Regarding product design, we are carrying out product development with the aim of incorporating the latest energy-saving technologies into our
+new products. Environmental impact of a product is assessed in each of the following stages: the procurement of parts and materials, manufacturing, distribution, use, recycling, and disposal.
+Newly developed products are compared with commercially available and existing products and are certified as Eco-products (eco-design products) if they satisfy the specified evaluation standards. In fiscal year 2020, 18 models were certified as Eco-products, raising the cumulative total to 315 models.
+Going forward, we will continue to promote the reduction of CO2 emission when in use and product development considering LCA.
+Implementation of Life Cycle Assessment (LCA)
+This LCA is one of the techniques used
+to provide a general quantitative measure
+of levels of environmental impact, including global warming, that products have
+through their life cycles. We evaluate the environmental compatibility of a product using LCA. The LCA implementation rate for our Eco-products is over 90%.
+  Eco-products are indicated by the "LEAF symbol" in the our catalogs
+Hybrid UPS
+SANUPS E11B-Li (2 kVA)
+ 33
+34
+Diagram of life cycle assessment (LCA)
+CO2 energy
+Manufacture of materials
+Final disposal
+Selected
+Natural environment
+Life cycle
+CO2 energy
+CO2 energy
+CO2 energy
+Chairperson of Chihiro Environmental Committee
+Director Nakayama Senior Executive Operating Officer
+Processing of parts
+Recycling (material, chemical, thermal)
+Crushed
+Processing of products
+Reuse
+Disassembled
+Transportation and distribution
+User
+Collected and transported
+CO2 emissions
+55.7% Products used in LCA comparison
+New product: E11BL202A Conventional product: E11A202A
+  Effects on the natural environment (global warming) are assessed at each stage of the life cycle, based on the energy consumption and the amount of CO2 emissions.
+       Our Goals and Strategy Our Businesses Foundations of Value Creation Financial Data
+
+ Environmental
+Society and Community
+       Reduction of CO2 Emissions
+As countermeasures against global warming, we consider the restriction of CO2 emissions through energy- saving activities as our top-priority task, and are promoting the improvement of energy efficiency and energy- saving activities. However, as production volumes have increased, energy consumption and CO2 emissions also increased in FY 2020.
+Supply Chain Management
+Material Procurement
+Based on our corporate policy, we strictly observe the regulations and procure materials while taking the environment into account, and make corporate social responsibility (CSR) through fair and equitable business.
+Basic Material Procurement Policy
+1. Compliance with domestic and international laws and social norms
+(1) Observe laws and regulations
+(2) Respect human rights, eliminate all forms of discrimination, and prohibit child and forced labor (3) Maintain appropriate labor environment
+2. Environmental consideration
+(1) Promote the procurement of parts and materials that are less harmful to the environment (2) Comprehensively manage hazardous chemical substances
+3. Promotion of fair and equitable trade
+(1) Open the door to a wide range of suppliers and select suppliers fairly and impartially
+(2) Conduct business in good faith on an equal footing based on relevant laws, regulations, and contracts (3) Strive to provide the necessary information and thoroughly manage and protect acquired information (4) Eliminate acts that violate corporate ethics
+Eliminating Conflict Minerals
+Procurement Policy
+The Electronic Industry Citizenship Coalition (EICC), whose members include major electronics companies and their suppliers around the world, encourages companies to monitor their supply chains to eliminate the use of mineral resources produced in the Democratic Republic of the Congo that are considered to be conflict minerals (conflict minerals or resources in conflict metal disputed areas). To address this issue, the SANYO DENKI Group has formulated the procurement policy stated below.
+Introduction results
+􏰂Switching to LED lighting in F2 building at Fujiyama Works 􏰂Replacement of two 35 kW compressors at Kangawa Works
+    Switching to LED lighting at Fujiyama Works
+Compressors at Kangawa Works
+Metric tonnes of CO2 equivalents
+Energy CO2 equivalent
+CO2 equivalent per 1,000 hours
+Metric tonnes of CO2 equivalents
+15,000 10,000 5,000 0
+CO2 emissions by site
+14,000 12,000 10,000
+8,000 6,000 4,000 2,000
+0
+12,300
+13,203116 867 866
+1,764
+13,111 3.75 1,039
+   126
+11,839
+744 781
+106 757 769
+1,635
+129 3.50 497 11,330
+11,839
+2015
+12,300
+2016
+13,203
+2017
+423 13,111 353
+423 11,330 311
+10,947123 143
+1,776 1,020 1,121 3.25
+314 327 143 1,080
+3,784 271
+5,920
+344 294 151 993
+4,000 247
+6,271
+148 957
+4,200 297
+145 10,947 298 326
+302
+956 4,075
+331
+6,870
+327 291 115 143 873
+   35
+0
+0 2015 2016 2017 2018 2019 2020(FY)
+36
+1,454
+266 1,346
+1,315 3.00
+2.75 8,419 2.50
+2.25 2.00
+2020(FY) Unit energy consumption
+872 3,958 3,789
+      2.73
+2.72
+2.78
+2.75
+    8,734
+2.76
+9,033
+9,590
+9,670
+2.65
+8,223
+625.8 thousand m3 PPA model, BCP, and products designed to reduce the use of electricity during peak time.
+1.
+2. 3.
+4.
+5.
+The SANYO DENKI Group recognizes its responsibilities as a member of the global community and acts in accordance with social norms and relevant laws and regulations of the countries where it operates. Under this policy, conflict minerals include tin, gold, tantalum, tungsten, and cobalt.
+We will occasionally check whether or not suppliers of parts and materials, which are likely to include any of these minerals, use minerals produced in the Congo as well as the country of origin of the minerals they use.
+We will immediately stop purchasing parts or materials should they be found to contain any minerals produced in the Democratic Republic of the Congo or neighboring conflict zones.
+Suppliers are asked to promptly contact our purchasing department should they discover that any of their products contain or may contain a conflict mineral, and follow the instructions provided.
+Regardless of the policy stated above, it may be difficult to identify the country of origin, refinery, and upstream suppliers of a material since conflict minerals constitute rare metals or precious metals and are traded in various forms and through different channels. We will conduct follow-up investigations at appropriate intervals to ensure that the investigation is thorough.
+1. Self-consumption of electricity
+800.0 600.0
+launched.
+10 5
+400.0
+20 15
+6,825
+259 265 5,295 5,466
+     2015
+2016
+2018 2019 A-type heavy oil     Other
+City gas
+2018
+2019
+2020(FY) Head Office
+Electricity    LPG    
+Kangawa Works     Tsuiji Works     
+Shioda Works     Fujiyama Works     Technology Center 
+2017
+Initiatives supporting carbon neutral market
+18.5 million kWh Power Systems products are used in more applications.
+25
+Logistics Center
+ 
+ Power conditioners SANUPS P73L and SANUPS P83E with self-charging function are actively
+2. Electricity trading
+With VPP (virtual power plant) realized, new demands, such as adjustment of the power supply and
+200.0 0 0.0
+ demand balance and electricity trading, have been identified.
+2015 2016 2017 2018 2019 2020(FY)
+2015 2016 2017 2018 2019 2020(FY)
+Participating in a VPP demonstration test where our SANUPS P73L power conditioner with power
+storage function is used
+3. Adjusting the electricity supply 35,000
+electricity supply is required.
+4.0 3.0 2.0 1.0
+ 119,000
+Power conditioners suitable for a storage battery system are developed and launched on the
+As the power supply of the renewable energy is unstable, equipment or a system for adjusting the
+market.
+5.0
+33
+10.0 8.0 6.0 4.0 2.0
+2015 2016 2017 2018 2019 2020(FY)
+mN
+m
+12.0
+     Unit energy consumption
+Energy CO2 equivalent
+Power consumption
+City Gas (Kangawa Works)
+(1 million kWh)
+(1,000m3)
+LPG
+(Technology Center)
+LPG
+(Fujiyama Works)
+(10,000m3)
+(10,000m3)
+Our Goals and Strategy Our Businesses Foundations of Value Creation Financial Data
+
+ Society and Community
+    Promotion of
+Health and Productivity Management
+Health Management Activities
+We conduct regular and special health examinations, stress checks, new employee training, mental health seminars, branch office patrols, walking events, and influenza vaccinations every year. In FY 2021, we provided COVID-19 vaccines in workplaces for workers who wanted them.
+Workplace Improvement
+Activities
+Based on the results of the stress check, for workplaces that have been identified as needing improvement, we conduct workplace improvement activities such as interviews with the support of occupational health nurses, and meetings with managers.
+Providing stress checks are a legal obligation, however, workplace improvement activities are not essential. However, the SANYO DENKI Group actively performed workplace improvement activities, and as a result of these initiatives, we were able to reduce the number of departments subject to improvements by 38% over five years.
+  SANYO DENKI Group Health Management Declaration
+SANYO DENKI group companies work together to engage in creating a workplace where our employees can maintain and promote physical and mental health and in health promotion. Further, we contribute to society to make use of our accumulated technologies and products since its founding in the promotion of health of all employees involved in SANYO DENKI Group.
+Chairperson of Health and Productivity Management Committee Chairman of the Board & CEO SANYO DENKI CO., LTD.
+Shigeo Yamamoto
+37
+Based on the corporate philosophy of helping all people achieve happiness and working with people to make their dreams come true, the SANYO DENKI Group aim to be a company that helps every employee achieve self-fulfillment through their work and life at the company.
+The SANYO DENKI Group Health Management Declaration declares that we are committed to health management across the group based on the belief that having work environment where employees work with vigor and enthusiasm and perform to the best of their abilities will result in contributing to medium- and long-term growth of SANYO DENKI Group and to society.
+Specific goal based on health challenges
+SANYO DENKI Group works on following goals based on the SANYO DENKI Group Health Management Declaration.
+1 Provide a comfortable workplace and eliminate a workplace with increased risks for health
+We perform stress check tests on a regular basis and provide feedback on the results of these tests. For a workplace with increased risks for health, we work to reduce health risks through workplace improvement activities supported by health nurses.
+2 Improvement rate in abnormal findings - 100% year over year
+For employees who have abnormal findings during health checkups, we provide them with health guidance or encourage them to seek medical attention to improve their health. We also support diet modifications by providing health-promoting menus at the staff cafeterias.
+3 Rate of improvement in exercise habits - 100% year over year
+We increase employees􏰀opportunities to do physical exercise and encourage them to make it a habit by conducting a questionnaire on awareness of exercises and walking events.
+Establishment of Health and
+Productivity Management Committee
+The Health and Productivity Management Committee was established in April 2021 with the aim of maintaining and improving the health of employees. By engaging in a range of health-related activities, this committee will promote the creation of workplaces and health promoting activities that enable employees to maintain and improve their physical and mental health.
+Industrial Health System
+Occupational health nurses are stationed at the Head Office and Ueda Works to support both physical and mental health of employees in cooperation with industrial physicians.
+We have established a consultation desk system for early detection of people with poor health condition, including activities related to improving the health of employees.
+Venue for occupational vaccinations against COVID-19 (Fujiyama Works)
+   Improvement of Employee’s Awareness of Health
+In order for each employee to maintain and improve their health, it is important to improve their awareness of health
+issues. Occupational health nurses prepare Health Report, which provides health-related information to employees on a regular basis, and publish it on the company􏰀s intranet site and the bulletin board at the factory to help improve employees􏰀health consciousness.
+ ■ Dietary Initiatives
+– Environmental Efforts –
+We renewed the menus at the staff cafeteria in the Ueda Works and incorporated health-friendly dishes. We continue to provide healthier and tastier menu items while incorporating employees􏰀opinions.
+■ Initiatives to Improve Exercise Habits – Implementation of Walking Event –
+We have been holding walking events every year
+since 2018 with the aim of eliminating the lack of
+exercise among employees and improving health
+checkup results. Pedometers and smart watches are rented to participants, and the average number of steps walked during the event is announced in ranked order,
+and prizes are awarded according to the results. The walking event is an initiative aimed at improving workers􏰀 exercise habits while encouraging them to have fun by tracking the number of steps taken each day and building walking habits.
+Last year, in spite of the Coronavirus pandemic, 240 people participated in the event - the largest number ever – and enjoyed competing with each other to build healthy bodies.
+  Health-conscious menu
+38
+ Our Goals and Strategy Our Businesses Foundations of Value Creation Financial Data
+
+     Society and Community
+    Promotion of
+Diversity and Inclusion
+        Promotion of Diversity
+Since the 1990s, the SANYO DENKI Group has treated all employees equally and evaluated their abilities and performance fairly and equitably without any discrimination based on nationality, race, origin, gender, age, religion, educational background, beliefs, or personal preferences. We also strictly observe this policy when hiring employees. We will continue to stick to this policy with 100% pride.
+Global Human Resources Strategy
+In order to promote global management, the SANYO DENKI Group actively appoints local staff to management and manager classes at group companies in each country. Currently, local people make up about half of the staff at respective group companies in each country. Furthermore, about half of them are women.
+Support for Balancing Childcare and Nursing Care
+We hold semi-annual briefing sessions for employees who are about to give birth or get involved in nursing care, as well as employees who are balancing work with childcare or nursing care, in order to provide information on laws related to childbirth, childcare, and nursing care, employment regulations, and health insurance union systems. In addition, the rate of male employees taking childcare leave has been increasing year by year, making it possible
+for new parents to balance childcare and nursing care regardless of gender. In July 2016, the company was awarded a certificate (known as Kurumin) recognizing it as a company that actively supports childcare based on the Act on Advancement of Measures to Support Raising Next-Generation Children.
+New employee training
+Self-Development and Volunteer Leave System
+(Studied in the UK and acquired the MA in Media and Public Relations)
+Support for Employees with Disabilities
+We are maintaining and supporting the work environment so that employees with disabilities can work in as lively a manner as other employees.
+■ Creation of Support Book and Consideration Check Sheet, and Implementation of Individual Interviews We have prepared a Support Book for each employee. This booklet shows at a glance what kind of support
+employees need from their surroundings to carry out their job responsibilities.
+In addition, we have prepared a Consideration Check Sheet that includes facilities and support equipment,
+frequency of hospital visits, necessity of support in case of disaster, and emergency contact information according to each work environment, which is useful for creating a safe and secure environment for employees.
+■ Maintenance of Workplace Environment
+We are maintaining the work environment by installing
+handrails in the toilets and supporting ostomates by providing multi-functional toilets.
+In addition, for employees with physical disabilities, we have introduced dedicated special transport carts with anti-static functions, and for employees with hearing disabilities, we check each other􏰀s work details using tablet terminals that can convert speech into text and enable communication via writing. As a result, we are improving work efficiency by making use of the workplace- and worker-specific requirements of each workplace.
+Personnel Training
+The SANYO DENKI Group management aims to manage the company so that employees can achieve self-realization through their work and corporate activities.
+■Training System
+Our training includes three main pillars: (1) grade-based training
+programs that help employees recognize the expected roles and activities of each professional qualification and to support them
+to demonstrate their abilities above the required levels, (2) career- based training programs that are dedicated to specific occupations such as sales and design, and (3) department-based training programs that help employees acquire special knowledge specific to their divisions. These training programs support employees who are striving to develop their own abilities and grow.
+In addition, we introduced training for newly promoted employees to further improve skills of young and mid-level employees, and are also focusing on developing employees who will lead the next generation. For managers, we perform manager training to help them acquire practical knowledge and skills as managers, with the aim of developing them into senior managers and produce top management candidates.
+■ Self-Development and Volunteer Leave System
+We have established a self-development and volunteer leave
+system that allows employees who wish to develop their own abilities and participate more in society to take leave for up to three years, and then return to work. This system is aimed at supporting employees to achieve self-fulfillment. In FY 2020, one of our employees who took advantage of this system obtained a master􏰀s degree in the UK and are applying the specialized skills she acquired in her work.
+Dedicated special transport cart with anti-static functions
+    39
+40
+       Our Goals and Strategy Our Businesses Foundations of Value Creation Financial Data
+
+ 10-Year Financial Summary
+Japanese GAAP Consolidated Operating Results:
+Cost of sales.......................................
+Operating profit .................................. Income (loss) before income taxes........
+Comprehensive income...................... Capital expenditures ........................... Research and development cost ........
+Net cash used in investing activities... Free cash flow ....................................
+Balance Sheet Data (As of March 31):
+Total net assets................................... Current liabilities ................................. Cash and cash equivalents .................
+Per Share Data (Yen):
+Cash dividends ...................................
+Ratios (%):
+ROE (Return on equity).......................
+56,059
+4,662 5,665
+4,074 1,128 2,162
+(1,111) 6,556
+38,910 24,821 9,378
+13
+11.9
+50,671
+3,948 4,412
+3,972 1,900 2,538
+(2,178) 3,035
+41,495 22,386 9,733
+15
+7.4
+52,344
+4,821 5,310
+6,212 2,337 2,405
+(2,065) 3,648
+45,819 26,006 13,719
+15
+8.5
+Millions of Yen
+71,163
+7,478 8,398
+7,698 3,386 2,461
+(3,587) 2,214
+51,618 31,509 13,151
+17
+11.7
+IFRS(1) Consolidated Operating Results:
+Cost of sales.......................................
+Operating profit...................................
+Earnings attributable to owners of the parent .................................................
+EBITDA(2) ............................................. Depreciation and amortization............
+Net cash provided by operating activities..............................................
+Net cash provided by (used in) financing activities ..............................
+Balance Sheet Data (As of March 31):
+Total equity ......................................... Current liabilities ................................. Cash and cash equivalents .................
+Per Share Data (Yen) (4), (5)
+Cash dividends ...................................
+Ratios (%):
+ROE (Return on equity attributable to owners of the parent).....................
+61,975
+5,432
+3,738 8,566 3,133
+4,930 (1,971)
+53,420 27,481 12,743
+18
+7.0
+57,022 5,414
+4,031 8,685 3,270
+6,571 (2,626)
+57,054 28,610 13,766
+18
+7.3
+66,284
+8,784
+6,415 12,323 3,538
+5,797 422
+62,135 34,849 13,182
+65
+10.8
+63,662
+6,590
+4,983 10,748 4,157
+3,058 3,682
+64,832 27,991 11,693
+110
+7.9
+56,757 1,043
+426 6,267 5,223
+8,728 (1,113)
+62,541 28,181 13,642
+90
+0.7
+Millions of Yen
+60,469
+4,830
+3,942 10,260 5,429
+4,959 10
+70,387 30,254 14,848
+90
+5.9
+     2011
+  2012
+  2013
+  2014(3)
+     2015
+  2016 2017 2018 2019 2020
+        Net sales.............................................
+69,972
+64,050
+67,670
+91,745
+  Selling, general, and administrative expenses ............................................
+9,249
+9,430
+10,504
+13,103
+Ordinary income ................................
+4,917
+4,503
+5,369
+8,409
+Earnings before income taxes ............
+Net income attributable to parent company shareholders .......................
+4,367
+2,957
+3,727
+5,720
+Net income.........................................
+EBITDA(2) .............................................
+7,294
+6,070
+6,930
+9,681
+Capital expenditures ...........................
+Depreciation and amortization............
+2,631
+2,121
+2,109
+2,202
+Research and development cost ........
+Net cash provided by operating activities..............................................
+7,667
+5,214
+5,714
+5,801
+Net cash used in investing activities...
+Net cash provided by (used in) financing activities ..............................
+(5,932)
+(3,298)
+(1,114)
+(3,352)
+Free cash flow ....................................
+Total assets.........................................
+Total assets.........................................
+69,863
+68,979
+78,232
+90,176
+Current assets ....................................
+Current assets ....................................
+45,443
+44,209
+51,959
+60,488
+Interest-bearing debt ..........................
+Interest-bearing debt ..........................
+11,869
+9,982
+10,472
+8,692
+Total number of shares issued (shares) ...............................................
+Total number of shares issued (shares) ...............................................
+64,860,935
+64,860,935
+64,860,935
+64,860,935
+Basic earnings per share ....................
+Net Income per Share ........................
+70.30
+47.61
+60.01
+92.09
+Equity attributable to owners of the parent per share .................................
+Book-value per share ..........................
+617.98
+667.82
+737.51
+830.94
+Ratio of equity attributable to owners of the parent to total assets ...............
+13,098
+5,268
+492
+2,480
+2,495
+(2,862)
+2,068
+88,700
+55,376
+64,860,935
+8,069
+301.00
+4,300.44
+Equity ratio .........................................
+55.0
+60.2
+58.6
+57.2
+60.2
+12,469 14,237 14,596 13,052 12,416
+5,332 8,540 6,890 986 4,996
+5,259 7,212 4,032 (1,014) 8,758
+1,962 8,044 6,052 4,156 3,100
+2,215 2,965 2,976 3,089 2,984
+(2,825) (6,770) (8,164) (5,330) (4,294)
+3,746 (972) (5,106) 3,398 665
+93,156 107,631 106,304 106,103 113,962
+58,143 66,738 63,595 61,915 68,730
+7,192 9,834 14,996 15,737 17,265
+64,860,935 12,972,187 12,972,187 12,972,187 12,972,187
+329.25 526.89 411.66 35.22 325.70
+4,665.35 5,132.20 5,355.20 5,166.39 5,814.95
+61.2 57.7 61.0 58.9 61.8
+    41
+42
+(1) Since fiscal 2015, consolidated financial statements have been prepared in accordance with the International Financial Reporting Standards (IFRS).
+(2) EBITDA (Earnings before interest and taxes) = Operating profit/income + depreciation and amortization
+(3) Previously, in preparing the consolidated financial statements, the necessary adjustments for consolidated accounting were made using the financial statements of 14 overseas
+consolidated subsidiaries as of three months earlier. Effective from the fiscal year ended March 31, 2015, however, for acquiring more accurate consolidated financial statements, we have employed on our accounting method to use the financial statements of the overseas consolidated subsidiaries for the same period as that of the Company. Accordingly, the above results for the year ended March 31, 2015, include the three-month results from January 1 to March 31, 2014, of the overseas consolidated subsidiaries.
+(4) Our company implemented a share consolidation in which five shares were consolidated into one share on October 1, 2017. Basic earnings per share and equity attributable to owners of the parent per share are calculated based on the assumption that the share consolidation was executed at the beginning of fiscal year 2015 (April 1, 2015).
+(5) The dividend for fiscal 2017 is the sum of the interim dividend amount of ¥10 and the year-end dividend amount of ¥55 (after the share consolidation). When converted on a post- share consolidation basis, the interim dividend will be ¥50 and the full-year dividend will be ¥105.
+Operating revenues ............................
+Selling, general, and administrative expenses ............................................
+80,282
+74,798 89,188 84,678 70,706 77,506
+     Our Goals and Strategy Our Businesses Foundations of Value Creation Financial Data
+
+   Production Sites
+SANYO DENKI CO., LTD.
+Ueda, Nagano
+This factory has large-scale automated production lines for producing servo motors. Also, it utilizes resources with its rainwater treatment facility and large PV generation system that can power the entire factory.
+Kangawa Works
+Total area: 67,140 m2 Number of employees: 671 ISO 9001, ISO 14001
+Products produced:
+Technology Center
+Total area: 44,926 m2 Number of employees: 347 ISO 9001, ISO 14001
+Motor
+Established as a research and development base in 1997, Technology Center engages in product development using state-of-the-art technology in cooperation with production bases in Japan and the Philippines.
+  Fujiyama Works
+Total area: 95,632 m2 Number of employees: 510 ISO 9001, ISO 14001
+Products produced:
+    Fan
+Renewable Energy Inverter
+UPS
+Generator
+Driver/ Amplifier
+Motion Controller
+Option
+Cooling Systems Options
+This factory produces Cooling Systems, Power Systems, and Servo Systems products with high efficiency using automated production lines. It also has a large PV generation system that can power the entire factory, saving energy.
+Acoustic anechoic chamber (RF anechoic chamber and acoustic anechoic chamber)
+Design room
+New Wing
+ Technical centers around the world
+Technical centers are located around the world to facilitate product customization tailored to local customers􏰀needs and to provide technical support and product maintenance service.
+Double chamber measuring device (for measuring airflow and static pressure)
+Acoustic anechoic chamber
+Vibration testing, high-speed testing, and environmental testing labs have been installed.
+    Shioda Works Total area: 6,503 m2
+ISO 9001, ISO 14001
+Tsuiji Works
+Total area: 11,517 m2
+ISO 9001, ISO 14001
+   43
+44
+    Our Goals and Strategy Our Businesses Foundations of Value Creation Financial Data
+
+ Production Sites
+Subic Bay Freeport Zone, Philippines
+Group Companies in Japan
+  Total area: 61,113m2
+Number of employees: 1,191 ISO 9001, ISO 14001, OHSAS 18001
+Products produced:
+This facility has three production factories and a Technology Center for research and development, and develops and produces Cooling Systems, Power Systems, and Servo Systems products.
+SANYO KOGYO CO., LTD. was founded in 1944, and organized as a SANYO DENKI group company in July 2009.
+As an engineering trading company, it deals with
+a wide range of businesses such as the sales of electrical and electronic products, and planning, design, installation, and maintenance of industrial control systems.
+Number of employees: 109
+Head Office: Meguro, Tokyo
+Sales bases: Tokyo, Kanagawa, Tochigi, Nagano,
+Osaka, Hiroshima
+Main business: Electrical contracting and sales
+of industrial electrical equipment, control devices, and electrical materials.
+SANYO DENKI Techno Service CO., LTD. was founded in 1999 as a SANYO DENKI group company, and has contributed to the group􏰀s production and services.
+Number of employees: 586
+ISO 9001, ISO 14001
+Head Office: Ueda, Nagano
+Main business: Electronics manufacturing,
+repair, and maintenance; field service; logistics service; facility maintenance; recycling; solar power generation; car maintenance service; insurance agency business, etc.
+Fan
+Renewable Energy Inverter
+UPS Motor
+Amplifier
+Head Office
+Engineering
+Engineering
+  Meguro Office
+               Building 1 and Building 2
+Technology Center
+Building 3
+Automatic solder paste dispenser
+Surface mounter
+Automatic optical inspection machine
+              45
+46
+Design room
+Anechoic chamber
+SANYO DENKI IT Solution CO., LTD. was founded in April, 2021 with the aim of integrating the IT systems of the entire group by using the group􏰀s IT networks and the IT-related know-how that we had accumulated through our past business operations.
+Head Office: Main business:
+Ueda, Nagano
+Develop and operate IT systems of the Group; manage and maintain the Group􏰀s network security; plan, develop, and consult on IT-related issues and projects.
+Note: Numbers of employees are as of March 31, 2021
+Building entrance
+PCB design
+Electronics manufacturing
+Sales of electrical and electronic products
+     Our Goals and Strategy Our Businesses Foundations of Value Creation Financial Data
+
+ Stock Information
+Company Overview
+(As of March 31, 2021)
+     Issued shares
+Number of shareholders
+Regular meeting of shareholders
+Dividend receiving shareholder settlement date
+12,972,187 shares
+3,947
+Founded
+Incorporated
+Capital
+Consolidated Operating Revenues Representatives
+Number of Employees
+Head Office
+Stock Listing
+Security Identification Code:
+August 1927
+December 1936
+¥9.9 billion (as of March 31, 2021)
+¥77.5 billion (FY 2020)
+Shigeo Yamamoto, Chairman & CEO
+Nobumasa Kodama, President & COO
+SANYO DENKI Group: 3,671 (as of March 31, 2021) 3-33-1 Minami-Otsuka, Toshima-ku, Tokyo 170-8451 The first section of the Tokyo Stock Exchange
+6516
+2021. 09 PLS
+             Within three months from April 1 every year
+Year-end dividend: March 31 of every year Interim dividend: September 30 of every year
+             Share unit number
+Shareholder registry administrator
+Treasury Stock 869,099 shares 6.70%
+Securities Companies 133,468 shares 1.03%
+Foreign Corporations, etc. 1,759,262 shares 13.56%
+Major Shareholders
+100 shares
+1-2-4 Kayaba-cho, Nihonbashi, Chuo-ku, Tokyo Japan Securities Agents, Ltd.
+Individuals and Others 2,845,905 shares 21.94%
+Financial Institutions 3,973,078 shares 30.63%
+Other Domestic Corporations 3,391,375 shares 26.14%
+1,122 318 245
+                        Breakdown by Type of Shareholders
+  Shareholder Names
+ Number of Held Shares
+ Shareholding Percentage
+Thousand shares
+%
+Kyodo Kogyo Co., Ltd.
+1,845
+15.25
+  The Master Trust Bank of Japan, Ltd. (account in trust) Sanyo Kaihatsu Co., Ltd.
+Norwegian government
+9.28 2.63 2.03
+Custody Bank of Japan, Ltd. (Trust account opened)
+762
+6.30
+Nippon Life Insurance Company
+298
+2.47
+Mizuho Bank Ltd.
+227
+1.88
+The Hachijuni Bank, Ltd.
+195
+1.61
+Sumitomo Mitsui Trust Bank, Limited.
+194
+1.60
+Tokio Marine & Nichido Fire Insurance Co., Ltd.
+ 191
+ 1.58
+ 47
+48
+Note 1. The shareholding percentage is calculated excluding treasury shares (869,099 shares).
+2. The number of shares shown in the list above is rounded down to the nearest thousand shares.
+      Our Goals and Strategy Our Businesses Foundations of Value Creation Financial Data
+
+ SANYO DENKI CO., LTD.
+https://www.sanyodenki.com
+     

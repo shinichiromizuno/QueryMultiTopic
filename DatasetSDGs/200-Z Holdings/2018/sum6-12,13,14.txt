@@ -1,0 +1,12 @@
+It is absolutely essential that we consider the environment in our business development. Accordingly, we will work to pass on nature and the social environment to the next generation in a sustainable manner.
+
+Developing the “kukai” Energy-efficient Supercomputer
+We have developed kukai,* a highly energy-efficient supercomputer that specializes in the utilization of deep learning and enables large-scale deep learning processing in shorter times and at lower costs. Compared with the previous in-house processing environment which used graphic processing units (GPU), kukai is theoretically able to process calculations at nearly 225 times the speed. Additionally, kukai has recorded world-leading values in terms of processing performance per power consumption, and is expected to decrease energy costs by nearly 15% compared with the latest GPU servers of similar size.
+Calculation processing equipment such as central processing units (CPU) and GPU generate heat when in operation and therefore need to be cooled by a fan or other form of air conditioning to maintain their processing capabilities. Instead of air cooling, kukai uses liquid immersion cooling whereby the hardware is immersed directly in a special liquid that does not conduct electricity. This method enhances both cooling and energy efficiencies.
+As a result of these features, kukai earned second place in the global energy-efficiency ranking GREEN500.
+* “kukai” has been developed through collaboration with ExaScaler Inc. and HPC SYSTEMS Inc.
+Reducing Environmental Burden at Our Data Centers through Use of Latest Technologies
+We independently manage the servers needed to operate our Internet business. At the same time, we engage in a data center business that involves the operation, management, and maintenance of servers that we handle on behalf of our client companies.
+We have upgraded existing facilities and invested in new equipment in the eight data centers we possess across Japan, thereby working to improve the efficiency of energy use.
+In particular, at Asian Frontier, our data center in Kitakyushu City, Fukuoka Prefecture, as well as at our Shirakawa Data Center in Shirakawa City, Fukushima Prefecture, we implement measures to combat global warming using the latest technologies, including the installation of air conditioning systems that use outside air.
+Additionally, our data center in the United States operates using 100% renewable energy (hydroelectricity).

@@ -1,0 +1,106 @@
+Risk Management Risk Management Structure
+Our risk management structure is described below.
+● Risk Management Committee
+The Committee identifies major risks that could have a serious impact on our business performance, confirms the validity of response measures to major risks, and gives instructions on what additional measure should be considered to our departments that oversee risk and each department. In fiscal 2019, the Risk Management Committee convened on five occasions to take up matters such as identifying major risks, measures against quality complaints, and measures to enhance our culture of safety.
+● Departments that oversee risk
+When it comes to risk oversight, the departments that oversee risk draft and promote response measures for our Group
+Business Continuity Plans (BCPs)
+Of the foreseeable disasters and accidents that could occur, we regard earthquakes; explosions, fires, and leaks; storm and flood damage, and pandemics as major emergencies. We prepare BCPs designed to ensure the continuity of business when such emergencies occur, and shares these with our clients as needed. What is more, we have also taken measures such as ensuring adequate inventories of products and raw materials, ensuring redundancy with our production systems, augmenting our supplies of spare parts, and
+Information Security
+We retain an extensive array of personal information on customers, shareholders, employees, and others. In addition to personal information, we also retain trade secrets and other confidential information relating to our business partners. All of this information in our possession is important and must be protected. Therefore, we are committed to ensuring that this information is never leaked.
+We also have measures in place to address computer security incidents (cyber attacks, phishing sites, illegal access, malware infections, and others) in order to prevent information leakages and improve the security of the information systems we operate. In order to strengthen our countermeasures against cyber attacks, in fiscal 2019 we upgraded the OS software on our in-house computers from an older version to the newest version. We also enhanced checks on unauthorized sites when browsing outside websites and strengthened measures against irregularities when work is performed by outsourcing contractors. In addition, to improve employee awareness of information security, we sent out information security trends and alerts, handed out additional information security handbooks, and offered security education, among other efforts.
+as a whole by coordinating with our various departments. These departments that oversee risk include the Corporate General Affairs Division, Personnel Division, Corporate Finance & Planning Division, Corporate Production Management & Engineering Division, Corporate Research & Development Division, Information Systems & Data Processing Department, Global Procurement Division, and more.
+● Each operating department
+Each operating department, which includes the sales departments, plants, research and development departments, and more at our Company and our group companies, take various different measures to properly manage risks that arise in the course of performing the duties of their sections and their company as part of their essential duties.
+systematizing our restoration structures.
+We recognize that the frequency with which disasters and incidents that we regard as major emergencies occur, as well as the magnitude and extent of their impacts, is changing every year as a result of advances in science and technology and the effects of climate change. As such, every year we verify the adequacy of our BCPs based on the latest information. Moving forward, we will continue to reassess our BCPs and provide training.
+We have established the Computer Security Incident Response Team of Sumitomo Bakelite Co., Ltd. (SUMIBE-CSIRT). Under both normal circumstances and when incidents arise, SUMIBE- CSIRT works together with the Corporate General Affairs Division, Information Systems & Data Processing Department, Personnel Division, Intellectual Property Department, and other relevant departments to respond to information security incidents.
+▶ System for Addressing Information Security Incidents
+    Sumitomo Bakelite Co., Ltd. Integrated Report 2020
+82
+Ordinary circumstances
+Sustainability Promotion Committee
+ Risk Management Committee
+ Computer Security Incident Response Team of Sumitomo Bakelite Co., Ltd. (SUMIBE-CSIRT) Chairperson: GM of Corporate General Affairs Division
+Vice Chairperson: GM of Information Systems & Data Processing Department
+ Incident
+ Computer Security Incident Response Headquarters Head
+Report Supervisionv
+ Computer Security Incident Response Team
+of Sumitomo Bakelite Co., Ltd. (SUMIBE-CSIRT) (Computer Security Incident Response Headquarters Secretariat)
+                Message from the President
+ Value Creation
+ Business Strategy
+ Environment
+ Social
+コ
+ プライアンス委員会
+Governance
+ Data
+Compliance Compliance System
+We emphasize compliance because we recognize that adherence to laws and corporate ethics is integral to the conduct of business.
+We established the Compliance Committee to minimize the risks of compliance violations at our Group, promote the creation of structures for compliance, and to promote activities to raise awareness of compliance.
+In fiscal 2019 the Compliance Committee was convened three times, where it took up matters such as security trade controls and our internal whistleblower system.
+Code of Conduct for Employees
+We make efforts to inform our employees of our Business Philosophy in which our business principal is shown, and Our Group's Code of Business Ethics and Conduct, such as by offering e-learning on a regular basis or having employees read this aloud from pamphlets in their workplace. Our Group's Code of Business Ethics and Conduct is consist of specific standards of conduct and explanations for Our Code of Conduct, which was enacted to serve as standards of conduct that our officers and employees must adhere to when carrying out their duties.
+The current version of Our Group's Code of Business Ethics and
+Articles for Emphasis in Compliance
+Workplaces in each department apply compliance to daily operations, decide on the key items for compliance and each prepare Articles for Emphasis in Compliance. Although the Articles differ among workplaces, they are displayed
+Compliance Education Using Cartoons
+Every month, our internal publication contains a fourframe cartoon about compliance under the title “The Way to Become a Compliance Master.” This cartoon explains compliance in an easy-to-follow style. Past cartoons have been compiled into two booklets, which were distributed to employees to raise awareness of compliance.
+▶ Compliance System
+   Compliance Committee
+   Chairperson
+  Sumitomo Bakelite Co., Ltd. Integrated Report 2020
+83
+Vice Chairperson
+ Committee Member
+ Secretariat (Corporate General Affairs Div.)
+Conduct was revamped in October 2017, taking into account our measures for CS promotion, SBPS, quality control, health and safety, as well as the latest worldwide trends in legal compliance. It has also been translated into seven languages.
+The booklet on Our Group's Code of Business Ethics and Conduct
+ prominently and confirmed with all employees periodically by having them read aloud in unison. Our group companies, in Japan and overseas, also undertake similar activities.
+Mamoru-kun joined the company 18 years ago. He’s a very active mid-level employee, and everyone relies on him. Mamoru-kun is able to offer appropriate advice throughout the company as a compliance master, which is especially appreciated given the spate of corporate scandals hitting Japan recently.
+Each Office Compliance Committee
+  ン
+
+ Message from
+監 査 お よ び リス ク 管 理
+the President
+ 協力 指
+Value Creation
+ ・命 令
+Business Strategy
+ Environment
+社長
+ Social
+ Governance
+ Data
+監査およびリスク管理 業務執行 指揮・命令 内部監査部門(監査室等)
+役員連絡会
+取締役
+監査役 執行役員
+ittee
+erson ber
+irs Div.)
+Each Office
+▶ Flow of the Whistleblower System Internal Contact Point
+External Contact Point
+assessments are conducted from the standpoint of whether the operations of departments are in compliance with relevant laws and conform to various standards. Departments where issues are identified are required to submit written reports detailing actions taken to resolve the issues.
+In fiscal 2019, compliance auditing and assessment was conducted from the standpoints of environment, human rights, occupational health and safety, provision and use of products and services, management of customer information and data, proper accounting, and fair trade, with no significant violations of laws or regulations.
+Internal Whistleblower System
+We have established an internal whistleblower system (which コンプhラasイbアeeンnスd委es員ign会ated the “Compliance Whistleblower Sy執st行em役"員
+at our Group). Under this system, employees can report to an internal contact point (GM of the Internal Audit Department) or an external contact point (Legal Counsel) when they have discovered a compliance violation or suspect there may have been such a violation, in an effort to promptly detect and preemptively prevent compliance violations. The privacy of whistleblowers is rigorously protected to ensure that they are not placed at a disadvantage as a consequence of reporting violations.
+In fiscal 2019 there were two cases reported to the Compliance
+Whistleblower System. The results of our investigations revealed
+that there were no major violations to laws and ordinances, such
+fraud, bribery or corruption, or the Antitrust Act, nor were there any cases that could have a significant negative impact on society. Both cases were dealt with appropriately.
+Moreover, some of our group companies have established their own unique internal whistleblower systems, which are
+Monitoring
+In accordance with the Basic Policy on Internal Control Systems, the Internal Auditing Regulations, the Basic Rules and Regulations for Internal Control over Financial Reporting, the Manufacturing Auditing Regulations, the Security Trade Control Regulations and other company regulations, Internal Audit Dept., Corporate EHS Promotion Dept., Corporate General Affairs & Legal Dept. and other departments involved in internal auditing, audit and assess the compliance of the Company and its our group companies, both in Japan and overseas. This is done mainly by means of site audits, at the actual sites, and written audits, via inspections of the results of self-audits, by the departments being audited. Audits and
+リスクマネジメント委 員 会
+情報交換
+as violations to laws against child labor, forced labor, accounting
+Compliance Committee
+distinct from our shared Compliance Whistleblower System, by taking into consideration factors such as the legal requirements of the country in which they are located, their company size, and so forth. In fiscal 2019 there were 120 cases reported to these unique internal whistleblower systems at these group companies. The results of investigations revealed that there were no major violations to laws and ordinances, such as violations to laws against child labor, forced labor, accounting fraud, bribery or corruption, or antitrust laws, nor were there any cases that could have a significant negative impact on society. All of these cases were dealt with appropriately.
+     Sumitomo Bakelite Co., Ltd. Integrated Report 2020
+84

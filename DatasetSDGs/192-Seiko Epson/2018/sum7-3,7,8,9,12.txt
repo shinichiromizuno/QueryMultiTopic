@@ -1,0 +1,23 @@
+Microdevices That Support the Four Areas of Innovation
+ Vision
+Contribute to Epson’s finished products and to the develop- ment of smart communications, power, transportation and man- ufacturing systems with ad- vanced Epson quartz timing and sensing solutions and low-power semiconductor solutions.
+Strategic Direction
+Quartz is an extremely frequency-stable material. Epson exploits this feature of quartz to the fullest to provide crystal devices used in consumer products such as smartphones, as well as in infrastructure and automotive applications that require exceptional accuracy and reliability. We will also meet the needs of various industries with timing devices, such as crystal units, oscillators, and real-time clock modules, and with sensing devices, such as gyroscopic sensors. At the same time, we will produce new value with distinctive products such as micro atomic oscillators.
+Moreover, we will provide LCD controllers, microcontrollers, application-specific integrated circuits (ASICs), LCD drivers, and other differentiated Epson semiconductor products for use in wearable products and automotive equipment.
+Original
+Value Provided by Microdevices
+Sensing solutions
+Sensors/IoT
+        Precision microdevice Efficient technology
+Compact
+Timing solutions
+Energy-saving solutions
+Industry/robotics
+  Strategic Progress
+Communications/ networks
+       45
+Epson Group Integrated Report 2018
+Micro atomic oscillators
+Oven Controlled Crystal Oscillators (OCXO)
+In the quartz segment, we are set to launch products that we have had in development for some time, including high-stability oven controlled crystal oscillators (OCXO) for communications and network applications and micro atomic oscillators, which are needed for applications that require timing devices of higher accuracy. Meanwhile, we will also strengthen our lineup of compact crystal devices for the consumer and other existing segments given the greater than anticipated needs that have surfaced in those markets. In the semiconductor business, Epson has seen revenue expand thanks to sustained market demand.
+We are establishing solid quality and stable production as we lay a foundation for business expansion. A project to develop high-efficiency production lines is also going to plan. In addition, we are seeing benefits from a program to reduce total costs, including the costs of materials and so forth. Moving forward we will strengthen existing areas by continuing to increase productivity and expand sales in new areas that we have entered.

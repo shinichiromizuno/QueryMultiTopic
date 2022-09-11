@@ -1,0 +1,9 @@
+The commercial and industrial printing industries had already been moving toward distributed printing to meet rising demand for local products, but COVID-19 further accelerated this trend. Demand is also on the rise for tools that enable printing firms that use large-format printers to efficiently manage production at multiple locations and reduce their reliance on skilled workers to perform maintenance.
+
+Monitor the live status of a fleet of printers at one or more sites on a single screen.
+View daily reports on printer operational status and performance.
+Epson monitors printer status remotely to accurately identify issues and helps users correct them.
+
+See printer status and quickly respond to issues to maximize productivity.
+Analyze daily printer operational status and error messages to improve production processes.
+Increase uptime with remote monitoring and support to reduce reliance on skilled maintenance workers.

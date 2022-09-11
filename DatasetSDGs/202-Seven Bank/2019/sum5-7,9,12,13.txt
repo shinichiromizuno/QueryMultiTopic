@@ -1,0 +1,59 @@
+Activities to Combat Climate Change
+Seven Bank views climate change as a serious social issue that must be given priority. Recently, risks from torrential rains, earthquakes and other natural disasters have been rising, bringing the possibility of a massive impact not only on society but also on the Bank’s services.
+We recognize that the true value of social infrastructure shows itself in an emergency, and we are striving to create an ATM platform that is resilient to disasters. (Please refer to “Offering a User Environment Where Safety and Security Are Maximized” on page 47.)
+We are also reducing our environmental burden with environmentally conscious operational design, including ATM development and operation, to achieve a business model suited to a sustainable society.
+Reducing ATM Energy Consumption
+Energy consumption of the third-generation ATMs we are operating nationwide is roughly 48% less than that of our second-generation ATMs. With approximately 25,000 ATMs, we have reduced our CO2 emissions by about 16,000 tons* a year. A significant reduction in energy consumption was achieved by aggressively adopting cutting-edge technologies to set our ATMs on an energy-saving mode when a transaction is not ongoing, and by switching the backlights of displays to LED lights. We are also promoting the effective use of resources by using durable parts and recyclable materials. In addition, we will strive to reduce our environmental burden even further with fourth-generation ATMs, which we will begin installing in 2019.
+*CO2 emissions are calculated assuming 1 Wh = 0.579 g.
+Increasing ATM Lifetimes and Recycling
+We actively introduce recycled materials and easy-to-maintain construction from the ATM design stage. We design ATMs for long lifetimes, replacing parts or performing maintenance when a malfunction occurs.
+When replacing or removing an ATM in a 7-Eleven store being remodeled or closed, we collect the old ATM and maintain and reuse it if possible. We also reuse parts from old ATMs, recycle aged units and handle unrecyclable ATM units and Uninterruptible Power Supply (UPS) batteries with the help of recycling business operators, thus achieving a recycling rate of 100% for ATMs.
+Reducing the Number of ATM Cash Replenishments
+A security company is needed to transport cash by vehicle when an ATM must be replenished. The security company helps reduce CO2 emissions from transporting cash by analyzing the usage of each ATM separately and reducing the number of cash replenishments.
+In addition, we keep ATMs stocked with cash and achieve stable, efficient operation by putting cash from sales proceeds at a 7-Eleven store into its ATM. This also makes 7-Eleven store operations more efficient by eliminating the need to take sales proceeds to a bank or an ATM outside the store for deposit. In these ways, we maintain low-cost operations, while achieving an operating rate of 99.98%.
+Utilization of FSC Certified Paper
+We use FSC certified paper for the cash envelopes and various leaflets at our ATMs and copies of the children’s picture book “Mori no Senshi (Guardian of the Forest) Bonolon,” which are distributed mainly at 7-Eleven stores.
+The international “Forest Stewardship Council (FSC) certification” system awards certification to properly managed forests and the appropriate processing and distribution of lumber from such forests. Seven Bank will continue to expand the use of environment-friendly FSC certified paper.
+Environmental Considerations at Our Offices
+CO2 emissions from the production, logistics and disposal of this integrated report are 11,933 kg, which is offset by the domestic credit gained from supporting the restoration from the Great East Japan Earthquake.
+We have established Green Procurement Guidelines, based on the Bank’s Basic CSR Policy, which indicates our fundamental views on green procurement. We procure and order office supplies in accordance with these guidelines and work to contribute to environmental preservation activities.
+                    63
+64
+Environmental Performance Index/Electricity use* (Offices, staffed outlets, ATM corners directly managed by Seven Bank) (Thousand kWh)
+Environmental Performance Index/ Volume of OA paper purchased
+Environmental Performance Index/ Ratio of green office supplies purchased
+2,000
+1,500
+1,000
+500
+8,000
+6,000
+4,000
+2,000
+82.8
+83.7
+72.7
+(Thousand sheets of paper)
+(%)
+100
+75
+50
+25
+   1,501
+1,172
+1,134
+1,143
+5,178
+4,591
+4,804
+    000 2010 2016 2017 2018 2016 2017 2018
+(Fiscal Year) (Fiscal Year)
+2016 2017
+2018 (Fiscal Year)
+      *Mainly based on requests from the government, with fiscal 2010 used as the standard
+The data on 25,000 ATMs nationwide is not included in the chart above because the electricity to run the ATMs is from the facilities that house our ATMs.
+Activities by Participating Officers and Employees
+We are working to raise officers’ and employees’ environmental awareness through a campaign to obtain Eco Test®* certification. Officers and employees who pass the test have the full amount of the test fee reimbursed by the Bank. Since fiscal 2014, 118 officers and employees in total have obtained Eco Test®* certification.
+Employees of the entire Group proactively volunteer in various activities, including those carried out by the Bank, to contribute to the preservation of the earth’s envi- ronment and to local communities. In fiscal 2018, in Seven Forest in collaboration with the Seven-Eleven Memorial Foundation, we participated in activities to nurture forests, ranging from planting trees to thinning and mowing. Besides helping con- serve forests and prevent global warming, we also use environmental preservation activities to promote environmental awareness among employees.
+Sustainability/Governance
+ *Eco Test®: The Certification Test for Environmental Specialists®, given by the Tokyo Chamber of Commerce and Industry

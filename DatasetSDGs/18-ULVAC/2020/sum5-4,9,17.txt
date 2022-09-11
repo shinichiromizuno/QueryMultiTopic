@@ -1,0 +1,7 @@
+Initiatives of the ULVAC-Osaka University Joint Research Laboratory for Future Technology
+On November 1, 2018, ULVAC, Inc. and the Graduate School of Engineering at Osaka University established the ULVAC-Osaka University Joint Research Laboratory for Future Technology (hereafter referred to as the “Joint Research Lab”) in the Central Terrace Building of the University’s Suita Campus. Through Osaka University’s industry- academia collaboration framework, the Joint Research Lab is working to achieve practical applications of the seeds of basic research in
+the engineering field, contribute to academia and industry based on medicine-engineering collaboration in the medical field, and develop highly creative human resources by promoting industry-academia exchanges. ULVAC positions the Joint Research Lab as a center of excellence for basic research and aims to create new value, including creation of quantum dot phosphors employing ULVAC’s proprietary technologies, which will lead to next-generation displays including full- color illumination, as well as technology for their mass-production, and the establishment of fundamental technologies in medicine and next- generation ceramics as part of development of application for the ultra- fast freeze-drying technology.
+1) Development of next-generation displays (quantum dot, LED) 2) Creation of next-generation devices using photon spin
+3) Establishment of a cell preservation technique using ultrafast
+ freeze-drying technology,
+etc.

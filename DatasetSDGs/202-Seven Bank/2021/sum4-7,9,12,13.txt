@@ -1,0 +1,73 @@
+educe the Environmental Burden
+  Reducing ATM Slip Waste
+For some time, we have reduced paper waste by having customers press a button to indicate whether they would like a receipt to be issued at our ATMs.
+Recently, in order to further reduce waste, we eliminated the slips that were previ- ously automatically issued when an incorrect PIN was entered or when there was an insufficient account balance. We also implemented programming to enable smooth transactions, such as voice guidance which draws customer attention to the ATM screen, and the addition of buttons which makes it easy to continue with one’s transaction even after an incorrect input.
+ご利用明細票
+取引日時 2021年 07月 06日 09:00
+取扱銀行番号 0100 店舗番号 0711 カード番号 0100-
+  取引内容
+お引き出し IC
+取引金額
+¥10,000*
+手数料
+¥105*
+取引残高
+¥226,000*
+These measures have resulted in an annual reduction of around 18.90 million slips.
+                                                       Value Creation—Foundation for Sustainable Growth
+ Reduce the Environmental Burden
+The deterioration of the environment severely affects the sustainability of a company. In addition, the risks of climate change could become a grave threat to future generations. Seven Bank is strengthening initiatives to reduce its environmental burden and is working with the companies of the Seven & i Group to resolve environmental issues.
+Reducing Energy Usage
+Reducing CO2 Emissions through the Installation of Fourth-generation ATMs
+Reducing Waste Generation
+Thorough ATM Recycling
+When remodeling or closing a 7-Eleven store, or when putting in a new fourth-generation ATM, old ATMs are collected and, if the body can be reused, it undergoes maintenance and is put back into use or even individual
+parts will be reused in other machines. ATMs which are too old and can no longer be reused are recycled with the help of recycling business operators, thus achiev- ing a recycling rate of around 100% for ATMs.
+ Promoting the Recycling of Printed Matter
+  The fourth-generation ATMs that we began installing in Second-generation September 2019 reduced energy consumption by ATM
+roughly 40% compared with the third-generation mod-
+els. With roughly 25,000 ATMs in operation, this equates
+to an approximately 6,050-ton* reduction in yearly CO2 emissions. These ATMs are designed to use energy efficiently; for example, when not processing customer transactions, they remain in an energy-saving mode.
+*Calculated with a CO2 emission coefficient of 0.000500 t-CO2/kWh.
+Third-generation ATM
+Additional
+40% reduction in energy consumption
+Fourth-generation ATM
+With printed matter such as “Mori no Senshi (Guardian of the Forest) Bonolon” books and Seven Bank ac- count leaflets, we strive to print only the amount required at the time of printing. Printed matter whose contents have become out of date, however, is subject to disposal. Seven Bank recycles not only the paper
+waste generated at its offices but also such printed matter tagged for disposal, working to reduce garbage production as well as the amount of new wood (pulp) used, contributing to the conservation of forest re- sources.
+      48% reduction in energy consumption
+Usage of Renewable Materials
+ Reducing Frequency of ATM Cash Transportation
+functionality, we are striving to purchase products and services prioritizing the fulfillment of requirements to reduce environmental burden, such as whether hazard- ous chemicals are used and whether the relevant item can be used for a long time, reused and recycled in order to realize a circulating society.
+Promoting reduced paper usage by eliminating requirements for stamps and signatures
+We use FSC® certified paper for the cash envelopes and various leaflets at our ATMs and copies of the children’s picture book “Mori no Senshi (Guardian of the Forest) Bonolon,” which are distributed mainly at 7-Eleven stores.
+Forest Stewardship Council (FSC®) certified paper is paper made from lumber cut from properly managed forests or other low-risk lumber. Seven Bank will continue to expand the use of environment-friendly FSC® certified paper.
+Environmental Data
+Dramatic progress in energy saving
+Green Procurement Initiative
+We have established and are implementing a policy, with regards to the office supplies we use internally as well as printing services, of procuring items with a low environmental burden from suppliers who promote environmental conservation.
+In the selection of office supplies and printing services, in addition to the required quality and
+ A security company must transport cash by vehicle when replenishing an ATM. The security company reduces CO2 emissions from transporting cash by analyzing the usage of each ATM separately and
+Reducing Paper Usage
+reducing the frequency of cash transportation.
+In addition, we achieve stable, efficient operation of
+ATMs in 7-Eleven stores by putting cash from store sales proceeds into their ATMs.
+Utilization of Forest Stewardship Council (FSC®) Certified Paper
+     We are promoting the digitization of various Seven Bank account services. In July 2021, we eliminated the requirement for stamps and registered signatures for a portion of account procedures. This eliminates the paperwork required for said stamps and signatures, promoting reduced paper usage.
+It is not uncommon for account procedure paper- work to be required to be re-submitted due to reasons
+such as discrepancies with the stamp registered to the account, and additional paperwork is also required for situations such as providing notification of the loss of a stamp registered to an account, burdening customers. Eliminating procedure requirements for stamps and signatures also enables customers to complete these procedures more smoothly.
+FSC®N002571
+Volume of OA paper purchased
+2017 2018 2019 2020
+   (Thousand kWh)
+2,000 1,500 1,000
+500
+Electricity usage*
+(Offices, staffed outlets, ATM corners directly managed by Seven Bank)
+(Thousand sheets of paper)
+5,000 4,000 3,000 2,000 1,000
+00 2010 2017 2018 2019 2020
+(Fiscal Year)
+  47
+*Mainly based on requests from the government, Seven Bank uses fiscal 2010 as a standard.
+The data on 25,000 ATMs nationwide is not included in the chart above because the electricity to run the ATMs is from the facilities that house our ATMs. 48

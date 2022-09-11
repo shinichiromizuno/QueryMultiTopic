@@ -1,0 +1,234 @@
+Tsubaki’s Sustainability The EnvironmentEnvironmental Management
+To contribute to the development of a sustainable society, the Tsubaki Group has established an Environmental Philosophy and a Basic Environmental Policy, under which it works to reduce its environmental burden from a medium- to long-term perspective while proactively developing and offering new products that are SDG-oriented.
+  Environmental Philosophy
+TheTsubaki Group recognizes that environmental conservation is one of the most important issues shared by humankind, and seriously considers the environment in all aspects of its global business activities and contributes to the “development of a sustainable society” by generating environmental value and economic value through manufacturing.
+The Tsubaki Group Basic Environmental Policy
+12345
+     Reduce environmental impact
+Develop and spread Observe laws and other Improve environmental Promote environmental
+   We will reduce our CO2 emissions.
+Reduce CO2 emissions by 30% or more by 2030 (compared with FYE 2014).
+eco-products requirements awareness
+Environmental Medium- to Long-TermTargets
+We will engage in energy saving and resource recycling.
+Realize a recycling-oriented society by minimizing use of natural resources and promoting the reduce, reuse, recycle (“3R”) approach to products.
+communication
+We will preserve beautiful and abundant nature.
+Work to coexist with nature in our regions of operation.
+Promotional System
+The Tsubaki Group’s environmental management is promoted under the charge of the executive officer in charge of the environment for Tsubakimoto Chain, centered on the Tsubaki Group Environmental Committee. This committee, which is chaired by the executive officer in charge of the environment for Tsubakimoto Chain and comprises plant managers, general managers of business segments, and
+long-term perspective. In addition, overseas business sites appoint environment promoting staff who communicate with the employee in charge of environmental promotion for Tsubakimoto Chain (Group Environmental Secretariat).
+System for Promoting the Environment
+ Tsubaki Group Environmental Committee
+   Environment promoting staff
+ representatives of each Group company, addresses the Group’s environmental issues from a medium- to
+Tsubaki Group Environmental Committee
+ SDG-oriented Products Working Group (New Technologies)
+ Environmental Key Persons Conference
+  SDG-oriented Products Working Group (New Applications)
+      Ecofactory Certification System
+The Group recognizes that the reduction of CO2 emissions that contribute to climate change, which is a pressing
+environmental issue of great concern, is necessary for an environmentally advanced corporation. It also recognizes
+52 TSUBAKI REPORT 2020
+4 affiliates Environmental Management Committee
+5 plants and 2 affiliates Environmental Management Committee
+Overseas Group companies Environmental Management Committee
+  KPIs Regarding the Environment
+  Material Issues (Priority Matters)
+KPIs
+FYE 2020 Results
+Target Figure
+Year of Achievement
+Scope
+Climate change mitigation measures (CO2 emissions reductions) and other environmental conservation
+Number of violations of environmental laws and regulations
+2
+0
+Annually
+Global
+Total CO2 emissions (percentage relative to FYE 2014)
+85.0%
+70% or less
+FYE 2031
+Domestic
+Waste recycling rate
+97.6%
+99% or more
+FYE 2031
+Domestic
+PRTR-substance emissions
+116.5 tons
+130.9 tons or less
+FYE 2031
+Domestic
+CDP climate change response boundary rate*
+92.6%
+90% or more
+FYE 2022
+Global
+         Scope: “Domestic” refers to Tsubakimoto Chain and consolidated subsidiaries in Japan; and “Global” refers to the Company and major subsidiaries in Japan and overseas. * Percentage of responses accounted for by the entire Group on a global basis using the CO2 emissions standard in the fiscal year covered by the CDP survey
+Contribution to the SDGs
+that resource recycling, such as the reduction of waste and the appropriate management of hazardous chemical substances, in addition to coexistence with nature in ways such as greening and water saving, is essential for such a corporation. Accordingly, the Group is tackling these issues.
+Against this backdrop, we established an Eco Factory Certification System that sets management indicators and milestones for each of the three themes of climate
+Environmental Performance
+Material Flow Chart
+change, resource recycling, and coexistence with nature, with the goal of steadily achieving our long-term targets for 2030. We launched activities at domestic business sites in the fiscal year ended March 31, 2019. Based on the results of those initiatives, the Kyotanabe Plant received the Platinum Award, an internal award for plants that have cleared certain environmental criteria, in the fiscal year ended March 31, 2020.
+Please see our website for more details on the environment. (Japanese Only) https://www.tsubakimoto.jp/sustainability/environment/
+      The Tsubaki Group understands the impact on the environment of its business activities and strives to reduce its environmental impact. The results of the efforts of 11 of our domestic business sites in the fiscal year ended March 31, 2020 are as follows.
+   Raw materials
+Energy
+Valuables
+21,254t
+INPUT
+Consumption 55,584t
+Business activities
+Office
+Research and development
+Dynamic (wear) testing Machine fabrication
+OUTPUT
+   Electricity
+Heavy oil A
+Gasoline
+112,738,000kWh
+256kl
+74kl
+Hazardous chemical substances under the PRTR Law
+Industrial waste 5,573t Recycle 5,873t General waste 445t Others 145t
+       Kerosene 10kl
+Production (manufac- turing)
+Heat treatment Welding Assembly Painting
+Quality inspection
+Release/transfer 117t CO2 emissions 63,658t-CO2
+360,000m3
+   Diesel oil
+City gas (excluding cogeneration)
+City gas (for cogeneration)
+Butane gas
+Propane gas
+7kl
+3,454,000m3
+26,000m3
+485t
+94,000m3
+Release into the atmosphere
+Release into the water
+            Total product manufacturing
+  Water
+LNG 952,000m3
+Consumption 360,000m3
+88,214 (Millions of yen)
+Implementing business sites: Tsubakimoto Chain (Kyotanabe
+Plant, Saitama Plant, Hyogo Plant, Nagaokakyo Plant, Okayama Plant), Tsubakimoto Custom Chain, Tsubakimoto Sprocket, Tsubakimoto Bulk Systems, Tsubakimoto Mayfran, Tsubakimoto Iron Casting, and Tsubaki Yamakyu Chain
+Implementing period: April 1, 2019 to March 31, 2020
+  TSUBAKI REPORT 2020 53
+Snapshot of Tsubaki Tsubaki’s Strategies and Performance Tsubaki’s Sustainability Financial and Non-Financial Data and Other Supplementary Information
+
+ Tsubaki’s Sustainability
+The Environment
+Environmental Accounting
+In order to engage efficiently in environmental conservation, we quantify investment and development costs and benefits at domestic business sites using classifications based on the Ministry of the Environment’s guidelines.
+In the fiscal year ended March 31, 2020, we proactively increased our investment in energy-saving facilities and equipment amid an expansion in production. We carried out major investments including in a solar power generation system and rainwater storage tanks at the new
+tensioner factory in our Saitama Plant, in addition to upgrading other energy-saving equipment and plant wastewater treatment facilities.
+Through this environmental accounting, we will analyze the cost of environmental conservation and the economic and environmental conservation effects gained through those activities. We will utilize the analysis in our activities going forward while endeavoring to disclose information on them.
+Environmental Conservation Costs (Business Activity Classification)
+(Thousands of yen)
+  FYE 2020
+ Amount invested
+Costs
+1,011,834
+521,679
+242,534
+179,495
+665,992
+151,093
+103,307
+191,090
+0
+0
+9,590
+212,140
+16,833
+239,243
+0
+748
+0
+0
+1,038,257
+973,809
+ Classification
+(1) Business area costs
+(1) - 1 Pollution prevention costs
+(1) - 2 Global environmental conservation costs
+(1) - 3 Resource recycling costs (2) Upstream/downstream costs
+(3) Administration costs
+(4) R&D costs
+(5) Social activity costs
+(6) Environmental remediation costs Total
+Details of major initiatives
+Introduction, operation, and management of air pollution prevention facilities and wastewater treatment facilities
+Introduction, operation, and management of electricity control systems
+Waste processing/recycling expenses, improvement of industrial waste storage facilities
+Outsourcing analysis costs, such as for substances with environmental impact
+Establishment and operation of environmental management systems (EMSs), worksite greening and maintenance, installation of air and water measurement equipment
+R&D of environment-friendly products (reduction of environmental burden during product use)
+Regional environmental conservation initiatives Groundwater purification measures, etc.
+             Initiatives for Reducing Environmental Impact
+Prevention of Global Warming
+As climate change progresses, the Tsubaki Group is working to reduce its CO2 greenhouse gas emissions. In Japan, under our environmental long-term targets, we are promoting specific initiatives based on our environmental action plan.
+Much of the energy used in the Group’s manufacturing is concentrated in the production process. We are therefore improving energy efficiency by proactively installing energy-saving production equipment while
+promoting the application of insulating paint coating for major plants and the conversion from heavy oil in air-conditioning equipment to liquefied natural gas and other fuels that have lower CO2 emissions. Further, when building or renovating plants, we carry out a host of CO2 reduction measures, such as expanding our use of renewable energy by proactively installing solar power generation equipment and adopting LED lighting.
+54 TSUBAKI REPORT 2020
+Breakdown
+
+Total CO2 Emissions
+Water Consumption
+Total Waste Emissions / Recycling Rate
+(t) (%)
+8,000 98.0 98.7 98.7 97.9 97.6 100
+(km3)
+500 400 300 200 100
+* The CO2 emissions factors for electricity are as follows. Domestic: The “basic emission coefficient” of the “emission
+coefficient by electric utility” published by the
+Ministry of the Environment
+Overseas: International Energy Agency (IEA), Emissions
+Factors (2018 edition), 2016 CO2 emissions factors
+(t-CO2)
+80,000 60,000 40,000 20,000
+(Base year) (FYE) Japan Overseas
+74,848
+74,107 71,351 45,362
+456
+  68,706
+417 284
+2014 2017 2018 2019 2020
+6,607
+6,932
+6,892
+   63,638
+393
+321 295
+  6,018 75 4,000 50 2,000 25 0000
+360 6,000
+5,232
+2014 2017 2018 2019 2020
+       47,244
+2014 2017 2018 2019 2020
+309
+ 45,455
+          Contribution to a Recycling-Oriented Society
+The Group is advancing initiatives designed to realize a recycling-oriented society with a low environmental impact by creating higher economic value through the reduced use of water and other resources while promoting the reduce, reuse, recycle (“3R”) approach.
+Specifically, these initiatives entail 1) reducing our total weight of waste, 2) improving our resource recycling rate, and 3) reducing our water consumption. In particular, we are working to fundamentally reduce the amount of materials we extract from the natural earth’s crust by
+using the total weight of waste discharged as a management indicator, including recyclables traded for sale, in addition to reducing waste and improving our resource recycling rate.
+Moreover, we are striving to reduce environmental impact and coexist with the natural environment through products and manufacturing in harmony with the environment, such as by reducing hazardous materials and greening our plants.
+Japan
+Overseas
+Industrial Waste (left) Non-Industrial Waste (left)
+* Data collected only in Japan
+(FYE)
+(FYE)
+Recycling Rate (right)Provision of Eco Products (SDG-oriented Products)
+  The Tsubaki Group has created many unique products that are environment-friendly, such as those with extended life spans and energy-saving features. In 2011, we established “eco” evaluation criteria with the aim of bolstering product development that helps customers reduce their environmental impact (ecology) and improve their economic performance (economy). We classify products that clear this criteria as eco products. Moreover, from the fiscal year ending March 31, 2021, we will add the SDGs as a new angle and expand the development and sale of new eco products from the following two perspectives.
+1. Contribution to environmental conservation through reductions of CO2 emissions from a life cycle perspective by improving existing products and developing new products
+Highly corrosion-resistant coating chain (RoHS compatible)
+2. Indirect contribution to environmental conservation by promoting existing products or new products in global markets for environmental (SDGs) products, such as those offering low-carbon or decarbonization features.
+TSUBAKI REPORT 2020 55

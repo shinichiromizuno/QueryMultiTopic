@@ -1,0 +1,10 @@
+In November 2019, EBARA launched new gas abatement systems for use in semiconductor manufacturing processes, namely Model TND-Single (burn + wet) and Model TND-Single Plus (wet + burn + wet).
+ These models are equipped with new burners to reduce heat energy loss for more efficient incineration and to lower NOx and CO emissions. In addition, these models feature improved performance that contributes
+to extended maintenance intervals (three to more than six times longer than prior EBARA products*). We anticipate that these new models will have an important role to play in the realization of E-Vision 2030.
+ As communication and robot technologies advance rapidly in conjunction with the progress of the IoT and AI technologies, demands such as for higher efficiency in gas abatement and extended maintenance intervals through deposit measures in semiconductor manufacturing processes are increasing. Having developed the new Model TND Series of gas abatement systems matched to customer needs, we will proceed to deploy highly reliable EBARA brand products to locations centered on Japan, North America, and Taiwan.
+* Comparisons were made using prior EBARA products under the same conditions. Results may vary based on conditions.
+
+Model TND-Single Gas Abatement System
+Gas abatement systems treat and release exhaust gas from incineration and other processes in a manner that prevents impacts on the surrounding environment. EBARA’s gas abatement systems are primarily used to treat the toxic gases emitted during semiconduc- tor manufacturing processes. Going forward, we will continue to support global advancements in digital technolo- gies with EBARA’s sophisticated technologies amid the ongoing rise
+in semiconductor demand.
+

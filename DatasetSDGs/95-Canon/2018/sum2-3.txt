@@ -1,0 +1,45 @@
+ Our Innovation Highlights
+02
+for Society
+CT scanner in use at Fujita Health University Hospital
+We are supporting more advanced medical treatment with new technologies amid rising demand for healthcare services.
+ The population of elderly people is increasing globally, and it is estimated that in 2050 the population aged 65 years or older will reach 1.4 billion, more than twice the current global population of this age group. Japan, where this demographic will exceed 40% of the population, and other advanced countries experiencing declining birthrates, will also face serious concerns over the accompanying rise in healthcare costs.
+Awareness among people who want to live life without limitation in their later years is growing, and the need for a wide range of health care services ranging from health promotion and disease prevention to advanced examination, diagnosis and treatment has increased.
+To respond to these social changes, the healthcare industry has undergone a major transformation on a global scale, based on the evolution of technology. Canon is concentrating its efforts in the field of diagnostic medical devices, where, in addition to therapeutic devices such as pacemakers and catheters, diagnostic equipment such as computed tomography (CT) and magnetic resonance imaging (MRI) systems have evolved significantly to support sophisticated medical care. Such diagnostic equipment not only fulfills a vital role in the prevention, early detection and early treatment of diseases, it is also relied upon for its economic benefits which include helping to streamline operations of doctors and other professionals at medical institutions while balancing low cost and high functionality.
+Worldwide medical device market
+    (in billions of U.S. dollars)
+400 300 200 100
+0
+Estimated avg. annual growth rate
+5.2%
+2020 (Year)
+    17 Canon Sustainability Report 2018
+2016
+2017 2018 2019
+Source: BMI Research “Worldwide Medical Devices Market Forecasts to 2021.” Graph created by Industry Research Department,
+Mizuho BankMessage from Canon Operations CSR Management Activity Highlights CSR Reporting Management Third-Party Management and Sustainability Structure Opinion / Assurance
+We are contributing to early disease detection and the development of advanced medicine with long-cultivated diagnostic imaging technologies and new innovation.
+The medical equipment market is expanding globally on the back of world population growth and aging, and it is estimated that in 2020, the world market will exceed ¥40 trillion.
+Canon is focusing on its medical business as one of its new business pillars in Phase V of the Excellent Global Corporation Plan. In December 2016, Canon Medical Systems (formerly Toshiba Medical Systems), a world leader in diagnostic imaging, joined the Canon Group, strengthening and expanding our business.
+Under the business slogan “Made for Life,” which
+expresses our desire to contribute to medical treatment
+that preserves precious lives, Canon Medical has been
+developing technologies, including CT, MRI and ultrasound
+equipment, which both reduce patient burden and
+increase image quality, while giving due consideration to
+the importance of medical care and conditions on the frontline. We will add to these technologies, such as Canon’s long-cultivated proprietary image-processing technologies and those offering information analysis using AI (artificial intelligence), to provide solutions even better suited to patients and medical professionals.
+In addition, we will promote healthcare IT that provides state-of-the-art hospital information systems and network solutions that make use of information and communication technologies (IT), as well as in vitro diagnostic systems that quickly and with high precision analyze specimens such as patient blood samples.    MRI system employing noise reduction technology
+ Our Achievements
+Innovation through high-definition CT
+CT, MRI, X-ray, and ultrasound diagnostic equipment are indis- pensable for the diagnosis and treatment of such serious diseases as cancer, heart disease, pneumonia, and cerebrovascular disease.
+    At Canon Medical, we approach the development of CT
+diagnostic devices with the aim of early detection, reliable diagnosis,
+and non-burdensome treatment. In 2017, we released the Aquilion
+Precision ultra-high resolution (UHR) CT system, realizing over-
+whelmingly higher resolution than ever before in order to meet
+the needs of the medical frontline, namely to clearly display
+human body structure with higher resolution while limiting
+patient burden from radiation exposure. While previous systems
+could not resolve shapes clearly less than 0.35mm, the Aquilion Precision achieves a resolution of 0.15mm while reducing the exposure dose. With the ability to acquire detailed biometric information that was previously undetectable, we are contributing to increased diagnostic ability of, for example, fine blood vessels diverging from a cerebral aneurysm, and expectations are high for application in the discovery of cancers that are difficult to detect in the early stages.
+Evaluating images acquired by the Aquilion Precision
+Canon Sustainability Report 2018 18

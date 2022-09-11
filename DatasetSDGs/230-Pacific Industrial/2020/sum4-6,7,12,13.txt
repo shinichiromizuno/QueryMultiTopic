@@ -1,0 +1,257 @@
+PACIFIC Environmental Challenge 2050
+We recognize the need to understand and act on global environmental initiatives from a medium- to long-term perspective, and have established policies and targets up to 2050, and put forward targets to challenge.
+As a company that conducts business on a global scale and benefits from the global environment, we will reduce the impact on the global environment as much as possible, and strive to mitigate and adapt to climate change so that future generations can live together with nature as we do now. We will work globally to realize a sustainable society.SDGsMaterialityDirection of effortsMedium- to long-term targets: KPIs  Mitigation of and adaptation to climate changeReduce CO2 emissions toward building a carbon-free societyReduction of CO2 emissions
+●Production technology development/ facility upgrading
+●Production process improvement ●Daily improvement activities ●Introduction of renewable energies■ 2030 targets■ 2050 targets35% reduction from FY2019 Zero
+ Sustainable resources useAccelerate the use of recycling resources in pursuit of sustainable operationsReduction of industrial wastes
+●Production technology development/ facility upgrading
+●Daily improvement activities ●Defect reduction activities ●Material recycling■ 2030 targets■ 2050 targets60 reduction % in Japan
+30 reduction % overseas
+from FY2019 Zero
+ Conservation of water resourcesSeek to minimize water usage and reduce water contamination risk according to local circumstancesReduction of water usage
+●Production technology development/ facility upgrading
+●Daily water usage reduction activities ●Promotion of water reuse
+●Change of surface processing specifications■ 2030 targets■ 2050 targetsOptimal usageMinimum usage
+Usage according to local circumstances Environmental Reports
+Practicing Environmental Management
+In keeping with our environmental philosophy, one of our three corporate philosophies, we have established two environmental policies and are taking actions for environmental conservation at all the stages of our corporate activities with the goal of becoming a excellent company that is respected by society.
+| H i g h l y
+r e l e v a n t
+S D G s |
+  33 Pacific Industrial Co.,Ltd. Sustainability report 2020
+ | Environmental initiatives | https://www.pacific-ind.co.jp/csr/environment/
+Resource Usage and Emissions (Material Balance)
+ WEB
+    INPUT
+Business process
+OUTPUT
+       Energy usage
+144.6 million kWh
+340.4 thousand GJ
+Raw material input
+CO2 emissions 88,249 t-CO2
+(Scope 1 19,417t-CO2) (Scope 2 68,833t-CO2)
+Total amount of industrial wastes 3,941t
+    Electricity usage
+  Fuel and others
+      Organic/inorganic materials
+ Of which, solvents
+9.4 thousand t
+ 2.7 thousand t
+Environmental Targets for FY2020
+R&D
+Test
+Prototyping
+Production
+Design
+Evaluation
+Sale
+   Of which, landfill volume of Pacific Industrial
+t VOC emissions
+66 140 t
+ Metallic materials
+ 202.3 thousand t
+Water usage
+1,701 thousand
+3 m
+       Status of ISO 14001 Certification
+Pacific Industrial considers ISO 14001 to be a requirement as a manufacturer, and actively seeks to build and maintain a global environment management system (EMS) for the entire group and each of its companies.
+As for certified sites, 18 out of 20 bases, or 90 percent of the total, have been certified (eight in Japan and 10 in other countries).
+External and Internal Environmental Audits
+Along with third-party audits, we conduct internal audits and management reviews (top management inspections) to ensure proper operation and continuous improvement of environment management systems. In September 2017, we conducted a third-party renewal audit and a transition assessment for the FY2015 edition, and we received certification that we have met the requirements. In addition, internal audits are used as an important opportunity to openly engage in discussions and to offer opinions and proposals through mutual audits, so as to raise the overall level of environmental management.
+Of which, emissions of
+Pacific Industrial 115
+t
+ *Consolidated group (excluding TSC and PSC)
+   Direction of efforts
+ Targets
+  1
+Development of environmentally friendly products, manufacturing methods and technologies
+ 25 or more developments
+  2
+ Reduction of CO2 emissions
+  49.1t/100 million yen or less*
+  3
+ Reduction of industrial wastes
+  455t or less
+  4
+ Reduction of VOC atmospheric emissions
+  115t or less
+  5
+ Proper use of water resources in production activities
+  Maintain the status quo
+     *From this year onward, we employ emission factors for the calculation of CO2 emissions included in the List of Calculation Methods/Emission Factors for the Calculation, Report, and Publishing Systems published by the Ministry of the Environment and the Ministry of Economy, Trade and Industry, to improve the accuracy of conversion.
+Pacific Industrial Co.,Ltd. Sustainability report 2020 34
+ 
+  for ENVIRONMENT
+    58.4
+38.6
+ Category
+ CO2 emissions
+(t-CO2)
+ Domestic
+(Pacific Industrial)
+1
+ Purchased goods and services
+ 504,489
+2
+ Capital goods
+  56,503
+ 3
+Fuel and energy-related activities not included in Scope 1 or 2
+6,982
+4
+ Transportation and delivery (upstream)
+ 6,969
+5
+ Wastes generated in operations
+ 599
+6
+ Business travel
+ 420
+7
+ Employee commuting
+ 2,304
+  9
+ Transportation and delivery (downstream)
+ 9,041
+12
+ End-of-life treatment of sold products
+  1,689
+Scope 3
+ 588,996
+ “Risks” and “Opportunities” Related to Climate Change
+The Pacific Industrial Group seeks to continuously monitor potential impacts on materiality (minimization of environmental load) that are considered highly important to our stakeholders and the Group, such as climate change and water, from a global viewpoint in terms of risk and opportunity.
+ Factors
+ Risks
+ Opportunities
+  Climate change
+ Increase in manufacturing costs due to higher energy prices arising from the introduction of a carbon tax and the tightening of environmental laws and regulations
+ Exclusion of the impact of a carbon tax through such efforts as productivity improvement, promotion of energy conservation and conversion to renewable energies
+ Exclusion of environmentally unfriendly products from the market as customers grow more aware of the environment
+   Reduction in greenhouse gas emissions, supported by the development of lighter energy-saving parts, next-generation auto parts and environmentally friendly products, etc.
+ Preservation of water resources (Physical risk)
+Suspension of operation/transportation due to lack of water, floods or other causes (impacts on production activities)
+ Continuous improvement of BCP and reinforcement of production and supplementation systems
+ Cost reduction resulting from reduced usage of water
+   Compliance with laws and regulations
+  Loss of trust from local communities and customers, and even decrease in orders due to non-compliance with environmental and other laws and regulations and inadequate efforts for environmental preservation
+  Improvement in corporate value and brand power brought about by enhanced efforts to address environmental and climate change issues
+    Environmental Reports
+Activities to Reduce Environmental Load
+The Pacific Industrial Group has been stepping up efforts to achieve co-existence with nature and local communities, in addition to activities to reduce environmental load during production.
+| Highly relevant SDGs |
+ Reduction of CO2 Emissions Total emissions Target : kt
+With an eye on the 1.5°C scenario of the Paris Agreement adopted in 2015, we endeavor to reduce energy usage by pushing forward such activities as production technology development, facility upgrading, production process improvement, and daily activity improvement and introduction of renewable energies. In FY2019, we started a special high-voltage power feeding system at East Ogaki Plant, and worked on other initiatives to cut CO2 emissions as well, such as reducing defects in the production process, improving production efficiency, and replacing fluorescent lights with LEDs at plants. We have also been working to develop and produce environmentally conscious products, such as TPMS products (tire pressure monitoring systems) with greater fuel efficiency and UHTSS products, which are used as a lightweight solution.
+Scope 3
+Target kt achieved
+*The Group’s emission figures were obtained from the consolidated group companies other than domestic subsidiaries (TSC and PSC).
+Emissions per 100 million yen in sales Target 49.9 t/100 47.3 t/100 achieved
+40.6
+Result :
+42.5 not
+Target : million yen Result : million yen Changes in CO2 emissions
+■ Total domestic emissions(kt) ● Emissions per 100 million yen in domestic sales (t/100 million yen) ■ Total overseas emissions (kt) ◆ Emissions per 100 million yen in overseas sales (t/100 million yen)
+  65.5
+28.5
+68.9
+58.7
+37.0
+2015
+The Group’s total emissions (kt)
+67.6 73.0 86.0 88.2 42.9 45.7
+ 79.4 32.3 28.9 70.0
+58.8 52.5
+ 56.8 51.6 47.3
+40.7 43.0 42.5
+2016 2017 2018 2019 (Fiscal year)
+  *From this year onward, we employ emission factors for the calculation of CO2 emissions included in the List of Calculation Methods/Emission Factors for the Calculation, Report, and Publishing Systems published by the Ministry of the Environment and the Ministry of Economy, Trade and Industry, to improve the accuracy of conversion.
+    *The Scope 3 figures were calculated based on the emission intensity database
+for calculating greenhouse gas emissions and other emissions by organizations throughout the supply chain (Ver. 3.0) published by the Ministry of the Environment.
+Conservation of water resources
+We are pushing forward resource recycling by reducing industrial waste generation through defect reduction activities in the manufacturing process and by recycling materials, primarily waste rubber and resin. In FY2019, we implemented activities to reduce defects in the production process through quality and performance standardization activities (SSA) for forming and stamping products and all urethane covers. As part of our effort to promote plant environment beautification, we refurbished the resource station at Nishi Ogaki Plant, which helped enhance employees’ environmental manners. We also carried out activities to turn branches, leaves and woodchips cut off in cleanups at Kita Ogaki Plant into compost, and use it to increase greenery within the plant.
+Total amount of industrial wastes
+929.2
+Target not achieved
+ Target :
+Industrial waste-related trends
+473
+t
+Result :
+t
+■ Amount of domestic landfill wastes (t) ■ Amount of overseas industrial wastes (t) ■ Amount of domestic industrial wastes (t) ◆ Domestic recycling rate (%)
+Amount of industrial wastes generated by the Group (t)
+2,477 2,728 3,188 3,474
+91 91 91 92
+3,940
+94
+ 2,726 2,353
+2015 2016 2017 2018 2019 (Fiscal year)
+*The amount of industrial wastes started to increase in FY2019 as production has increased at Kurihara and Wakayanagi Plants.
+2,162
+3,011 2,890
+929 584
+ 462
+24 24 24 28 66
+315 375
+ 35 Pacific Industrial Co.,Ltd. Sustainability report 2020
+Downstream Upstream Classification
+
+| Environmental initiatives | https://www.pacific-ind.co.jp/csr/environment/
+Chemical Substance Management
+We endeavor to manage and reduce environmentally hazardous substances contained in raw materials and properly manage the chemical substances we use in the production process in accordance with the relevant laws and regulations in Japan and overseas. We have also been working to develop production technologies and improve production processes. In place of coating and gilding, we are working on in-mold electronic technology to develop and produce design products, such as ornaments, as well as products made with colored materials, such as all urethane covers. We conduct a substance survey each year for our business partners using the JAMA/JAPIA Standard Material Datasheet.
+Preservation of Water Resources
+We encourage the management and reduction of water usage and the recycling of water according to local circumstances to promote effective use and preservation of water resources. We are also committed to controlling the quality of waste water and preserving the quality of water, and moving forward with biodiversity conservation activities, including the maintenance of ecosystems in river source and watershed areas. In place of coating and gilding methods that use a lot of water in the production process, we have been working to develop new decoration technologies that don’t require water.
+Emissions per 100 million yen in sales Target : 118 t Result : 115.1t
+Target achieved
+140
+25
+2019 (Fiscal year)
+Target achieved
+1,700
+187
+1,513
+2019 (Fiscal year)
+ WEB
+  VOC emissions trends (t)
+■ Domestic VOC emissions (t) ■ Overseas VOC emissions (t) VOC emissions trends (t)
+  162
+15
+2015
+147 136
+13 15
+2016 2017
+163
+23
+2018
+     147
+134
+121
+140
+115
+  1,521
+119
+1,402
+2015
+1,583
+150
+1,433
+2016
+1,716 1,756
+167 179
+1,548 1,576
+2017 2018
+Total water usage
+Maintain Result : the status quo
+1,513.8
+3 km
+Changes in water usage
+■ Domestic water usage (km3) ■ Overseas water usage (km3) Changes in water usage (km3)
+         Initiatives for Biodiversity
+In 2009, the Pacific Industry Group initiated various projects to learn about environmental conservation and a recycling-oriented society at the “Pacific Satoyama Woodland” in Kamiishizu-Cho, Ogaki City, Gifu Prefecture with our employees, their families and community residents. Since then, we have continuously engaged in these projects. During the decade, a total of 3,800 people participated in the projects with 1,665 trees planted. Moreover, we support “Stonefly Watching,” a water quality survey project conducted by an elementary school next to our head office and Nishi Ogaki Plant.
+The Stonefly Watching conducted in June 2019 in a riverside area of the Kuise River
+Environmental Communication
+We regularly invite residents living near our plants and government officials to our company office to host social gatherings. We introduce visitors to our initiatives dedicated to environmental friendliness, safety, and CSR, and take them on a tour around our plants and environmental facilities. We hosted such tours at Higashi Ogaki Plant in November 2018 and Yoro Plant in February 2019.
+We also carry out next-generation environmental education programs, teaching the importance of environmental activities such as the Pacific Satoyama Woodland projects to local elementary students and giving lectures on environmental efforts at universities. We maintain active communication with local NGOs so that we can work together and provide education through joint activities as well as support for environmental conservation projects.
+Green Power Procurement
+Leveraging the green power promotion initiative driven by Ogaki City, Gifu Pref Pacific Industrial Co.,Ltd. Sustainability report 2020 36

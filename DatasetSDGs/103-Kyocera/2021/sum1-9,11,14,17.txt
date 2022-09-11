@@ -1,0 +1,39 @@
+Information & Communication
+● Introducing Local 5G at Manufacturing Plants/Features of Kyocera's Local 5G System
+ Expanding Local 5G and
+Related Businesses as a Catalyst for Growth
+We aim to improve productivity by performing demonstration tests and verifying the effectiveness of local 5G. One example is the demonstration tests of local 5G at our Shiga Yasu Plant, which we hope to use as a step- ping stone to new business development. We are now experimenting with wearable cameras and high definition video distribution on production lines for our clay-type Li-ion storage battery products produced at the Shiga Yasu Plant.
+We will use knowledge developed through these demonstration tests to accumulate high value-added assets that can be rolled out at other Kyocera plants, and will use the system as a showcase for customers look- ing for remote work support systems.
+Kyocera Corporation's local 5G system offers stable communication through dedicated bandwidth; easy installation due to its compact, light- weight design; flexibility to meet custom needs regarding configuration and functionality; and secure communications on an independent net- work. Looking ahead, we hope to leverage the high-capacity, high-speed communications provided by local 5G to boost productivity and pursue automation initiatives using high resolution images and AI, further devel- oping the smart factory concept.
+● Joint Development of an Energy Harvesting Smart Buoy with Nagasaki University
+As marine contamination from pollution and trash, rising sea tempera- tures, and other climate change concerns have become urgent issues, understanding the state of our oceans is a pressing concern. We have jointly developed an energy-harvesting smart buoy for the collection of oceanographic data by integrating Nagasaki's University tidal current power generation technology with our IoT technologies, and actual sea trials using a prototype have been successful. Looking ahead, we hope to continue contributing to a better understanding of sea conditions in fishing, aquaculture, marine research, and related areas through further research.
+Kyocera's Local 5G system
+●SDN/NFV1 support allows for flexible system configuration Cloud
+Configuration
+CU/CN2
+RU3 DU4
+        K5G-C-100AWider adoption of AI and IoT, expanding digitalization, and the rapid deployment of 5G technology are expected to drive growth at our Information & Communication busi- ness. Our demonstration tests are helping to bring the smart factory concept into reality. One example is the intro- duction of local 5G at our Shiga Yasu Plant, where high- speed mobile broadband technology allows us to aggregate high-resolution images to visualize plant operations. We have jointly developed an energy harvesting smart buoy with Nagasaki University to collect oceanographic data, and sea trials using a prototype have been successful. All of these technologies depend on electronic components. Kyo- cera Corporation and AVX Corporation (now KYOCERA AVX Components Corporation) recently created the KYOCERA AVX brand in the electronics segment to strengthen and ex- pand our electronic components business globally.
+1 2
+3 4
+CU/CN RU
+SDN : Software Defined Network
+NFV : Network Functions Virtualization CU : Central Unit
+CN : Core Network
+RU : Radio Unit
+DU : Distributed Unit
+Energy Harvesting Smart Buoy
+  Growing Market
+Demand for antenna components and related products is expected to rise as the 5G market expands.
+■ Wireless Base Station
+Source: Graph drawn up by Kyocera Corporation, based on Gartner research  Source: Gartner Forecast Communications Service Provider Operational Technology,
+Worldwide, 2019-2025, 2Q21 Update, Michael Porowski et al., 24 Jun 2021 By segment 5G in Current Currency, End User Spending basis.
+Left, SLTT (small lens tide turbine); right, VTT (vertical tide turbine)
+ ● Creating the KYOCERA AVX Brand: Electronic Components Segment
+Kyocera Corporation and AVX Corporation (now KYOCERA AVX Compo- nents Corporation) formed the KYOCERA AVX brand to coincide with the launch of our consolidated electronic components segment in April 2021. Our goal is to strengthen and expand our electronic components busi- ness globally in the future. We plan to start transitioning to the new brand in October 2021. Further, we will begin integrating our sales organiza- tions in the U.S. and Europe in October 2021, and in Japan, China, and the rest of the Asian region in April 2022, to bolster our global sales capabili- ties. We plan to further expand the electronic components business by integrating the management resources of both companies in manufac- turing and development.
+  (US$ Mil) 30,000
+25,000 20,000 15,000 10,000
+5,000
+0 2019 2020
+2021 2022 2023 2024
+2025 (Year)
+       KYOCERA INTEGRATED REPORT 2021 17

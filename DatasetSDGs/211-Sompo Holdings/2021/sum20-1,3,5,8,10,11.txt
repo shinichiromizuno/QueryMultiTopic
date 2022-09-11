@@ -1,0 +1,186 @@
+  Nursing Care & Seniors Business
+The value provided by nursing care & seniors business is geared towards achieving SOMPO’s Purpose
+As Japan’s population continues to be transformed by an aging population and a declining birthrate, demand for nursing
+care services is growing. On the other hand, the country’s labor force is shrinking, fueling concerns of a significant imbalance between the number of people who can provide care and those who require it. And Japan is facing other major challenges; for example, the sustainability of its social security system is under threat because financial resources are being squeezed by the ballooning cost of paying social security benefits. Moreover, the environment that surrounds us is changing rapidly, highlighted by the emergence of new risks, like the COVID-19 pandemic, and advancements in digital technology.
+In light of those environmental factors and with a brand slogan of “changing the future of nursing care” we will aim to grow further as a nursing care operator by making full use of digital technology and real data, and strive to improve the sustainability of the nursing care industry and provide support to even more elderly citizens in need by drawing on the know-how of Sompo Care to build a nursing care ecosystem. On top of this, we will take steps to contribute to the realization of a future society filled with health and happiness by taking up the challenge of extending the health life expectancy by working to prevent de- mentia and supporting the social and economic activities of active seniors.
+  Looking back on the previous MTMP
+  Main KPIs for the New MTMP
+The Sompo Group entered in the nursing care business prior to the rollout of the long-term care insurance scheme, and
+we made a full-fledged entry into the nursing care business in the second half of fiscal 2015 after closing an M&A deal with two major nursing care operators with abundant experience and achievements in the industry. Under the previous Mid- Term Management Plan, we quickly set about merging those two companies, ramped up staff recruitment and training in order to maximize synergies with the Group, bolstered internal control systems and corporate governance, and prioritized the improvement of occupancy rates at existing facilities.
+With the objective of strengthening hiring and personnel training, in fiscal 2017 we set up the in-house Sompo Care University for caregivers in order to enhance the systems used to provide new employee training and regular follow-up training sessions. Moreover, in fiscal 2019 we endeavored to attract highly talented personnel mainly by raising the compensation for nursing care professionals to the highest level in the indus- try in some regions. Such measures yielded steady results during the period of the previous Mid-Term Management Plan with the turnover rate among full-time employees improving roughly seven percentage points to 11.4%.
+In terms of enhancing internal control systems and corporate governance, we took steps to establish an internal reporting channel with the aim of preventing serious incidents such as
+the maltreatment of elderly customers and we also put in place in-house rules on reporting such incidents. Furthermore, we gradually advanced the management and business integration between the two acquired nursing care operators—eventually becoming the current Sompo Care Inc. in July 2018.
+Particularly since fiscal 2018, we have focused on sowing the seeds of future growth. In July 2018 we launched the SOMPO Dementia Support Program to tackle the issue of dementia on a Group-wide basis. The program aims to realize a society that is prepared for the challenges of dementia and gives people the opportunity to live as they please even if they have been diagnosed with the disease. In February 2019 we started to explore the possibilities of IoT in the nursing care business by establishing the Future Care Lab in Japan as a future nursing care project for creating new nursing care solu- tions. The lab has so far tested over 350 types of technology, with 10 of those actually being put to use in the field of nursing care. In addition, in April 2020 we provided other nursing care operators with the business management know-how and ser- vices built up by Sompo Care, which marked the start of a new solutions business that seeks to contribute to the sustainability of the industry overall. Plus, we steadily undertook measures initiatives that lead to the current Mid-Term Management Plan. For example, in December 2020 we acquired Tokyo Tatemono Senior Life Support, a company that we expect will generate strong synergy effects with the Sompo Group as we target further growth in the nursing care business.
+As a result of these measures, the occupancy rate for existing facilities recovered to 89.4% in fiscal 2020 from 83.7% in fiscal 2016. Revenue (one of our management targets) increased from ¥110.7 billion in fiscal 2016 to ¥131.8 billion in fiscal 2020 and adjusted profit grew to ¥7.3 billion from a loss of ¥2.9 billion.
+ Indicators
+FY2020 actual
+PlanFY2021FY2023
+Adjusted profit by business
+¥7.3 billion¥6.5 billion
+¥8.0 billion+
+Revenue
+¥131.8 billion¥137.5 billion
+¥162.0 billion
+Occupancy rate
+89.4%90.8%
+93.8% Strengths, Opportunities and RisksRevenue and occupancy rate
+Adjusted profit
+(¥ bn)
+ Strengths
+• Nursing facility management know-how underpinned by our top ranking in Japan for the numbe of senior living units
+• High-quality nursing care services owing to substantial training systems, including Sompo Care University
+• Ability of research institutes (Future Care Lab in Japan) and staffs of nursing care fascilities to work togeth-
+er to implement new technologies
+• High quality, high-volume real data based on approx. 80,000 users and capability of data analisys through
+collaboration with Palantir
+Opportunities
+• Rising demand for nursing care as the elderly population increases
+• Innovation in conventional nursing care services using digital technology and real data (room for quality
+and productivity improvements)
+Risks
+• Labor shortages associated with a widening supply-demand gap among caregivers
+• Fears of a reduction in public long-term care benefits owing to strained public finances for nursing care insurance • Growing threat of cyber risks as the utilization of digital technology and online data gains further
+momentum
+Revenue (¥ bn)
+Occupancy rate (%)
+90.9 91.5
+7.3
+2020 (FY)
+    88.9
+123.8
+128.4
+131.8
+2020 (FY)
+6.2 4.0
+2018 2019
+89.4
+   119.2 110.7
+2.9 -2.9
+83.7
+ 2016
+2017
+2018 2019
+2016
+2017
+   138 Sompo Holdings, Inc. Integrated Annual Report 2021
+Sompo Holdings, Inc. Integrated Annual Report 2021 139BUSINESS
+ Nursing Care & Seniors Business
+New Mid-Term Management Plan
+Vision of the new MTMP
+Enhancing the Sustainability of the Nursing Care Industry and Supporting the Lives of More Elderly people
+Extend the healthy life expectancy of more elderly people
+Create a future society for healthy and happy lives
+2 Supporting by the ecosystem
+By combining real data generated from a database of ap- proximately 80,000 users with the data analysis technology of Palantir, we will aim to commercialize our Real Data Platform (RDP) for nursing care to bring forth new solutions. We will also expand our solutions business of providing the business know- how and services Sompo Care has honed thus far to other
+Real Data Platform vision
+nursing care business operators. We will look to build an eco- system by extending our real data and real services to nursing care business operators and adjacent industries, contribute to the sustainability of the industry as a whole, and provide assis- tance to as many senior citizens as possible.
+Solutions business (real services/things)
+To accomplish the SOMPO’s Purpose, in the nursing care & seniors business we aim to solve social issues con- cerning the graying of Japan’s population and so-called “new normal,” and provide two social values in the pro- cess: (1) enhancing the sustainability of the nursing care industry and supporting the lives of more elderly people; and (2) extend the healthy life expectancy of more elderly
+people. To that end, we are committed to three actions: (1) provide support as a nursing care operator; (2) sup- port by ecosystem; (3) and support active seniors. By doing so, we aim to contribute to Japan’s status as a world-class, affluent society of longevity and create a future society brimming with health and happiness.
+Activity data
+Cognitive function data
+Vital data
+24 hours 365 days
+Medication data
+Sleep data Dietary data
+Solution provision (using real data)
+Usage fees, etc.
+Home care
+Serviced residence for elderly
+Solution provision (real services and things)
+Usage fees, etc.
+Operation support
+Advisory
+ICT promotion
+• Food delivery services, facil- ity management, training & development
+• Nursing care products, assist- ing equipment sales, etc.
+Management advice (Marketing, PR, HR, etc.)
+Facility-based/home-based system sales and mainte- nance, etc.
+S1pecific strategies in the new MTMP
+Providing Support as a Nursing Care Operator
+3
+Supporting Active Seniors
+SOMPO (real data in nursing care)
+Customers
+Nursing care providers
+Specified facilities
+Business process support services
+Combination/analysis
+Industries adjacent to nursing care
+Food Medical businesses
+Special care homes ......
+Group homes
+Nursing care products ......
+Pharmacies
+BUSINESS
+140
+Sompo Holdings, Inc. Integrated Annual Report 2021
+Sompo Holdings, Inc. Integrated Annual Report 2021 141
+We intend to construct a nursing care model for the future by promoting the use of safe, sophisticated technology sub- stantiated by the Future Care Lab in Japan, as well as sci- ence-based nursing care powered by real data. We will also boost our ability to supply nursing care services by providing better compensation in order to attract highly proficient
+workers. Based on this strong capacity to supply services, we will aim to support the growing demand for nursing care through our own growth mainly by effectively combining in- house development with strategic M&As and expanding our full lineup of services encompassing both home- and facili- ty-based care.
+By extending our services to not only those who require nursing care, but also to the elderly population in general prior to such needs arising, we will embrace the challenge of contributing to
+a society in which seniors can lead fulfilling lives in any way they please, extension of healthy life expectancy, and keeping a lid on the cost of social security benefits. Our concrete measures for achieving this will revolve around the dual axes of a smart commu- nity business and the SOMPO Dementia Support Program. In the
+Start of smart community business (SOMPO)
+Contributing to realize a society where seniors can live prosper- ously in their own way in a super-smart society
+former, we will aim to encourage a change in mindset and behav- ior among active seniors and support their participation in society so they may enjoy a state of well-being. Through the latter, we hope to create a society that is prepared for dementia and gives people the opportunity to live as they please even if they have been diagnosed with the disease, so starting in fiscal 2021 we plan to launch in earnest some services that should prove useful in preventing the impairment of cognitive functions.
+Launch of cognitive decline prevention services
+To create a “society where people can live in their own way, even if they are preparing for or have dementia”
+Increase the capacity to “supply” nursing care services
+Environment
+Improvement of quality and productivity
+ICT/digitalization
+Scientific nursing care based on real data
+Training and development Skill improvement
+Productivity improvement
+Compensation improvement
+Secure human resources by passing the benefits of improved productivity onto employees
+Support the growing “demand” for long-term care
+Environment
+In-house development
+User growth
+M&As
+Social media/ social matching
+Mobility
+Online community
+Socialize
+Online medical services
+Health, Wellness
+Creative, Fun
+Process of cognitive decline No MCI
+Growth as a nursing care operator
+Mindset/behavior change support
+Offer a digital divide elimination course as a starting point for seniors who are “allergic” to digital tools or uncomfortable using them
+Carer* support
+For carers having problems with
+home care, provide services such as an introductory course on nursing
+care knowledge and skills, including digitalization, and community formation with carers in the community (peers)
+• Provide “exercise/nutrition guidance/cognitive function training/social participation” services
+• Target a wide range of people, including those without dementia, those diagnosed with MCI (mild cognitive impairment), and those with dementia
+Start full-scale service provision in FY2021
+• Expand scale by providing a full lineup of services (Facility-based + home-based)
+• Selectively carry out M&A based on scale and regional strategy
+Daily necessity shopping services
+Daily Living
+Food delivery
+Finance
+Expenditure management apps
+On-demand ride-sharing
+Micro-mobility
+Senior
+Online streaming
+Video distribution, photo processing, sharing
+dementia
+well-being, extension of healthy life expectancy
+Possibility of recovery
+Dementia prevention program
+PoC (proof of concept) started at local governments nationwide
+Personalized health promotion
+Dementia
+(Mild —> Moderate —> Severe)
+Nutrition guidance
+Cognitive function training
+Online banking, contactless payment
+Exercise
+Social participation
+SOMPO Smile Aging Program
+*Families, etc. who give nursing care at home

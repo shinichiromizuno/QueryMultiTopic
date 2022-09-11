@@ -1,0 +1,157 @@
+Review of Operations
+ Bearing Business
+      Fifth-generation super low friction torque tapered roller bearings (LFT-V)
+Bearings used in automobile transmissions and differential units
+• Lowest torque in the LFT series
+• Low fuel consumption and long
+automobile life
+• Contributes to space saving and weight reduction
+“PRECILENCE” super high precision bearings
+“P2*2”bearings that realize the“highest precision” rotatability applicable for the sophisticated machining precision required for machine tools
+• Rotation accuracy (four times more accurate than conventional bearings)
+• Quietness (about one-half the vibration of conventional bearings)
+• Low torque (30% lower than conventional bearings)
+• Long life (two times longer than conventional bearings)
+Controlled magnetic bearings
+Bearings used in turbo rotating machines such as compressors, blowers, expansion turbines and turbine generators
+• Support for high-speed rotation • Maintenance-free
+• Oil-free
+       Advantages
+Advantages
+Advantages
+SHAPING A BETTER FUTURE
+  Business Overview
+From vehicles to industrial machinery JTEKT bearing products are used in rotating parts for all industries, supporting the revolution of society in unseen places. In the automotive field, we support vehicle electrification and autonomous driving, while in the industrial machinery field, we develop business based on proposals supporting various usage environments, such as semiconductors, robotics and aerospace, in an effort to provide value and service. Through these activities, we will contribute to the realization of a better society from the perspectives of environmental preservation and the creation of social infrastructure.
+Business Environment
+Automotive bearings: Acceleration of vehicle electrification and autonomous driving Industrial machinery bearings: Diversification of operating environment
+Intensification of global competition
+Bearing Business Strengths
+Net sales and operating income ratio
+Fiscal 2019 Review and Business Strategy for Fiscal 2020
+(Billions of yen) 500
+400 300 200 100
+0
+(%) 6
+4 2 0 -2 -4
+In fiscal 2019, we engaged in structural reforms focused on Japan, North America and Europe. Despite improvements to our earnings structure resulting from these efforts, sales declined significantly, causing sales and profits to decline compared to the previous fiscal year.
+In fiscal 2020, we will promote global developments, including existing and new technological developments accumulated up to now over the past 100 years of the Koyo brand, while overcoming the trend toward commoditization by strengthening cost competitiveness through stringent cost-reduction efforts driven by manufacturing technology innovations.
+Net sales
+’18
+Operating income ratio
+Bearings play a role in supporting rotating parts in all types of machinery. JTEKT bearings contribute to society by providing a wide range of bearings for everything from all types of automobile to various industrial machines.
+Solutions for social issues
+(from the perspective of the SDGs)
+      Issues and Responses
+ As the JTEKT Group operates automobile parts and industrial machinery businesses, we are able to provide comprehensive development support from the customers’ perspective.
+Unmatched low-torque technology represented by the Low Friction Torque (LFT) series
+Broad product lineup enabling support for a wide-variety of industrial machine applications
+Main Products
+Customer Demands
+1. Improving profitability through structural reforms
+To survive market commoditization, we believe it necessary to strengthen cost competitiveness through cost reduction activities in accordance with the realization of innovative manufacturing reforms. To this end, we will promote structural reforms through selection and concentration from a global perspective, including manufacturing base integration, along with the robust promotion of productivity improvements through expanded automation, unmanned operations and increased speed.
+2. Aiming to become the niche leader in growing markets
+In the Bearing business, we believe that it is necessary to respond to changes in the social environment, such as the shift from internal combustion engines to electrification in the automobile industry, declining birthrates and aging populations and information technology innovations. To achieve this, we will concentrate resources on the development of new areas, new products and high added value products that anticipate customer needs in an aim to grow and develop by becoming the leader in the niche field.
+’17
+’19
+(FY)
+ Timely provision of products that support energy saving and electrification (high-speed rotation/ quietness/low-torque*1/compact)
+Products and services that respond to changes in the social environment
+Stable supply and cost competitiveness in line with
+globalization
+*1 To reduce force to move objects (equivalent to low friction)
+    37
+38
+*2 Indicates the highest level of bearing accuracy precision
+A Business that Continuously Creates Value and Provides Customers with Safety, Security, and Excitement
+—Koyo, the World’s Top Brand—
+In the Bearing Business, we want to contribute to automotive bearing technology innovations by advancing the elemental technologies we have cultivated over our 100-year history and by developing new automotive technologies to further promote electrification and autonomous driving.
+We also aim to contribute to robotics, semiconductors, medical equipment and a wide range of other industries expected to grow robustly in the future with our industrial machinery bearings.
+Katsumi Yamamoto
+Chief of Bearing Business Unit
+ 
+Review of Operations
+ Machine Tools & Mechatronics Business
+     Process concentration
+Motor shaft EV unit decelerator
+       High precision
+Difficult-to- cut material
+Carbide tool
+ Spindle
+SHAPING A BETTER FUTURE
+   Business Overview
+This business provides cam and crankshaft grinders*1, general-purpose cylindrical grinders and other cutting machines*2, machining centers*3, gear skiving centers*4 and other machine tools meeting customer needs, as well as IoE*5 Solution. Machine tool element components and system devices are proprietary and manufactured by the JTEKT Group. In recent years, this business has expanded into growth areas such as semiconductor equipment, vehicle battery equipment.
+*1 Machine that grinds the surface of a workpiece using a rotating grinding wheel
+*2 Machine that cuts the surface and shape of a workpiece using a rotating tool
+*3 A numerically controlled machine tool with an automatic tool change function that
+performs different types of machining such as milling, boring, drilling, and tapping using
+the same machine
+*4 Machine for gear skiving processing using relative speeds generated by tilting and
+rotating tools and workpieces
+*5 Internet of Everything: Refers to the connecting of everything to the Internet of Things (IoT)
+Business Environment
+Rapid conversion of automobiles to EVs Declining workforce, highly skilled workers not passing on technical knowledge
+Growing semiconductor demand in line with acceleration of 5G and artificial intelligence (AI) Intensifying global competition
+Net sales and operating income ratio
+Fiscal 2019 Review and Business Strategy for Fiscal 2020
+Reduction in working population
+• Increased labor-saving and automation needs
+Net sales
+Operating income ratio
+We are transforming machine tools TOYODA into a monozukuri (building excellent products) innovation company.
+Providing value in all phases of monozukuri and contributing to customer value enhancement with “Only One” technologies.
+Solutions for social issues
+(from the perspective of the SDGs)
+ (Billions of yen) 200
+150 100 50 0
+(%) 10
+5
+0
+In fiscal 2019, in response to social changes such as a declining workforce, the shift to EVs and the development of 5G and AI technologies, we released an autonomous grinding system with a built-in transport and measurement system, an advanced gear skiving center and JTEKT IoE Solution supporting human growth. Furthermore, in response to the customer need to use products over the long term, we pursued lifecycle value and made efforts to accelerate support for recovery utilizing customer data and dispatching personnel as soon as possible in the event of a disaster. However, the impact of the market slowdown was substantial, resulting lower sales and profit compared to
+the previous fiscal year.
+The economic downturn is expected to continue in fiscal
+2020, thus we will strive to strengthen our structure by streamlining manufacturing processes and further pursuing lifecycle value through the utilization of IoE technologies as a means of establishing our management foundation. Additionally, we will promote the evolution of “Only One” technologies for next generation high-precision cylindrical grinding machines and gear skiving centers.
+We will also make an effort to strengthen machine tool group cooperation and expand business in growth areas.
+      Customer Demands
+Issues and Responses
+Accelerating Digital Transformation
+’17
+’18
+’19
+(FY )
+Product innovation through miniaturization, weight reduction and noise reduction
+Labor saving and automated equipment that improve factory productivity
+Equipment able to facilitate detailed and homogeneous processing
+Shorten delivery times and lower equipment costs through local production
+To maintain and further advance our position as Japan’s top provider of high-precision cylindrical grinders and the leading company in gear skiving with“Only One”technology, we must accelerate product development and create greater value than ever before. To this end, we are making
+an effort to speed up production development with the establishment of a digital design center and a modular evaluation center with the aim of accelerating the digital transformation to create new business value.
+?
+      (Millions of people) 100
+50
+0
+60.0 66.48
+’16
+58.1 56.7
+64.04
+Labor force participation rate (%)
+55.5 58.80
+’30
+  61.49
+What’s the best solution?
+ Grinding system integrating in-line measurement that maintains the production of quality products
+Pursuing the Speedy Creation of New Value
+Cooperative robot and gear skiving center that realize highly efficient combined machining of all kinds of gears
+Appropriate support realizing improved productivity and quality
+ ’20 ’25
+   Machine Tools & Mechatronics Business Strengths
+Our strengths include, technological capabilities cultivated in automobile engine lines, “No. 1 & Only One” high precision grinding and gear skiving technologies, with the technologies used to control these realized through in- house development and manufacturing utilizing integrated machinery.
+The overall strength of the JTEKT Group lies in the ability to propose the entire systems that improve the value of customer products through cost reductions, advanced functionality and other enhancements.
+Our mission is to provide tools that enhance the value of customer manufacturing by helping them realize their goals.
+Social changes and technological innovations create new demand and new competition. We want to be sensitive to changes and demand to pursue and provide new value in a timely manner.
+ Koyo Machine Industries Co., Ltd.
+Koyo Thermo Systems Co., Ltd.
+GROUP
+  Koyo Electronics Industries Co., Ltd.
+Shinji Kato
+Chief of Machine Tools & Mechatronics Business Unit
+ 39
+40

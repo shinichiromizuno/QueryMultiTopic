@@ -1,0 +1,46 @@
+Value creation initiatives
+Technology to Create Social Value Technology Development System and Policy
+Technology Development System
+Kumagai Gumi's Technical Research & Development Division, Civil Engineering Management Division, and Building Management Division collaborate on the development of technologies. We set out policies related to technology development, research topics in new business domains, and other matters through the Technology Development Management Subcommittee, and carry out development of technologies that directly connect to business.
+Technology development under the Medium-Term Management Plan
+The Kumagai Gumi Group's Medium-Term Management Plan sets out areas of focus related to technology development as follows, to strengthen our management foundation.
+We believe that basic research aimed at a decarbonized society, technology development in renewable energy or other fields aimed at a sustainable society, and future- oriented initiatives in domains such as smart cities will lead to opening up new business domains for us. We will also engage in co-creation with other companies on production systems that use robotics, AI, and other technologies to contribute to innovation and the advancement of various functions in construction.
+Patent-related measures
+Our patent applications filed in fiscal 2020 were mainly related to materials, structures, and fire resistance in the field of wood, accounting for about 20% of our total number of applications. The number of patent applications related to caregiving assistance and movement assistance is also increasing, accounting for about 10% of our total number of applications.
+In this area, to prepare for overseas expansion of the independent walking aid developed by Kumagai Gumi (refer P9), we are acquiring intellectual property rights
+TOPICS
+Development of environmentally considerate technologies
+Related information P38-39 Special Feature 2
+       Insulated Fire-Resistant λ-WOOD® (Lambda-WOOD) acquires Ministry certification for 1 to 3 hours fireproof performance
+ Planning Group
+Technical Research & Development InstituteNew Technology Innovation Center
+  One challenge in achieving medium- to large- scale wooden construction is fire prevention and fire resistance performance. The Building Standards Act stipulates the fire resistance performance of major structural parts, varying with the number of floors of a fire-resistant building. Constructing a high-rise wood structure without constraints related to the number of floors requires a demonstrated fire resistance of 3 hours for columns and beams and 2 hours for floors and walls.
+In evaluation tests of fire resistance, heating that simulates a fire is performed for 1 to 3 hours while a constant vertical load is applied, to confirm that the load-bearing member does not carbonize between the time that the heating is stopped and the time that the fire is extinguished naturally.
+Developed by Kumagai Gumi, Insulated Fire- resistant λ-WOOD was certified in March 2021 by the Minister of Land, Infrastructure, Transport and Tourism for use in all fire-resistant structures as a wood fire-resistant structural member with 1 to 3 hours of resistance in laminated lumber
+columns and beams and 1 to 2 hours in CLT floors and walls.
+Insulated Fire-Resistant λ-WOOD layers a hard gypsum board and an insulating fire- resistant panel on the "fire-stopping layer" installed around the load-bearing structural member (pillar) to reduce the thickness of the member. This allows free selection of surface finishing material.
+Insulated Fire-Resistant λ-WOOD (pillar) is being used in the construction of our new Fukui head office.
+Specifications for Insulated Fire-Resistant λ-WOOD (pillar)
+Load-bearing member
+Surface finishing material
+   Fore-stopping layer
+● Hard gypsum board ● Insulated fire-resistant panel ● Hard gypsum boardCivil Engineering Management DivisionBuilding Management DivisionCivil Engineering Technology Department
+Building Engineering Department
+Technology Development Management Subcommittee
+Technological development
+Kumagai Gumi has established an R&D vision and mission to achieve R&D with the period of the Medium- Term Management Plan and beyond in sight, and is formulating a technology development policy.      Research and development vision
+Achievement of communities for sustainable and enriching livingMission
+Develop technologies that aid the world and bear responsibility for the future across the agesTechnological development policy
+Contribution to the achievement of a decarbonized and recycling-oriented society
+Contribution to advanced construction through digitalization40
+The Kumagai Gumi Group Corporate Report 2021 41
+Technical Research & Development Division
+ Research and development that contributes to a recycling-based, decarbonized society
+Technology development in response to the digital society
+Technology development that contributes to the advancement of various functions in construction
+During the three-year period of the plan, we will carry out research and development across the company while promoting technology development that supports our management foundation.
+Related information P13 Number of patent applications
+regarding patent rights, design rights, and trademark rights not only in Japan but also overseas.
+Reflecting the increase in joint research and joint development cases with private companies, universities, and other research institutes, about 35% of the total number of applications are joint applications. We will continue strengthening collaboration with other companies and promoting the Kumagai Gumi Group's patent measures.
+ Value creation initiatives
+    

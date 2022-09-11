@@ -1,0 +1,34 @@
+Business Strategy
+Printing Group
+By providing printing services based on a “cyber-physical” approach that integrates hardware and software components, Canon is helping customers to realize advanced, efficient operations and save labor in an age of digital transformation (DX).
+ Competitive advantages of the Printing Group
+• Ownership of electrophotography and inkjet technologies for digital printing
+• Breadth of product range, from consumer products to equipment for office and commercial printing; globally developed sales and customer support networks
+• Mass production capabilities for standard and high-performance printers that constitute many parts, based on organized intra-Group collaboration and ability to make production machinery in-house
+ Basic Rationale on Value Creation
+Printing has been an integral part of people’s lives and societal development. Printing is essential to cultured living beyond the basic needs such as clothing, food and shelter; today, it would be difficult to achieve economic development, cultural inheritance and scientific progress without print. Printers are necessities in use throughout the world.
+Advances in IT are driving the shift to paperless offices, and the use of digital displays over printed paper is expected to continue going forward. Canon, however, sees social value in printing because it helps people collaborate more efficiently and be creative, supports deep thinking, and can simply be fun to have. We will continue to create products that deliver such value.
+Canon’s history is closely tied to the evolution of copiers and printers. We developed electrophotography and inkjet printing technology from scratch, and have succeeded in helping to foster the global, widespread use of copying and printing. We have continued to create new value with the incorporation of new technologies to meet the changing needs of the time. For example, during the shift to digital over the past 20 years, we have brought new benefit by leveraging digital technology to enable instant reproduction and distribution of data.
+The society of the future is likely to be based on cloud computing as ICT continues to evolve. Developing on-demand printing services that take advantage of such infrastructure, Canon’s aim is to provide on-demand printing of user-designated contents. The keys to realizing this will be print security and contents-on-demand technologies. Our products will become more “advanced and user- centric” and will have functional simplicity, stability and ease of use combined in one package, while also having the ability to access a range of services in a connected environment. Remote access to systems and software turns devices into cyber-physical systems in which the hardware and software are integrated. Canon hopes to serve our customers in the areas of efficiency and reduction of labor by providing digital printing services based on such systems.
+Canon’s value creation and other activities in this field contribute mainly to the achievement of SDG 9 (Industry, Innovation and Infrastructure).
+Related SDGs
+       15 Canon Sustainability Report 2021
+ Phase V Review
+The three businesses targeting the consumer, office and commercial printing markets (which includes inkjet printers, multifunction printers and production printers) were integrated into a single digital printing business. This allowed us to rapidly assess any printing-related opportunities and risks based on centralized information, and to formulate a comprehensive strategy for the next-generation printing market. The revised set-up also supported new business development.
+We expanded the product line-up with models for commercial printing, including continuous feed digital
+Business Strategy in Phase VI
+Business opportunities
+• Demand for new printing/document solutions brought about by advances in IT
+• Need for new printing services that cater to diverse work styles such as remote work
+• Growth of digital printing markets in commercial and industrial printing sectors
+In digital commercial printing, an area expected to grow, we will harness the collective resources of the Canon Group to create new products offering high image quality, productivity and reliability. We will also focus on accommodating an expanded range of print media, notably the printing of labels and packages.
+Based on this approach, Canon aims to provide a range of hardware that can address all types of printing: those done at homes and offices, commercial and industrial printing and prints made in vertical markets. Canon will also offer print systems that can deliver cloud-based on-demand printing services to the home and office, commercial and industrial facilities, and commercial/industrial print providers.
+The COVID-19 pandemic has clearly shown an impact on customer workflows; the capability to print was not necessarily available to all working in different environments prior to COVID. We are focused on providing new solutions for the Digital Transformation (DX) era based on the print management technology we have developed for office environments. We see this approach will lead to higher earnings as well.
+presses for the graphic arts market. In terms of office equipment, we developed the imageRUNNER ADVANCE Gen3 series with color-shift and integrated cloud capabilities.
+In 2020, lockdown in response to the pandemic forced many people to working from home, which significantly depressed the demand for office equipment. However, demand has since recovered as economies re-opened. Meanwhile the sales of home- office printers and consumables rose sharply. Integration of the three businesses enabled us to respond quickly to such developments.
+Risks
+• Delay in development of digital services that meet the latest needs
+• Acceleration of declining office print volume trend due to impact of COVID-19 pandemic
+In emerging markets, instead of going through a gradual development process, things can skip or jump to the next phase, bringing a whole new set of needs and demands. We aim to expand our business by first conducting detailed research on each national and regional market to determine the precise needs.
+We are also looking for new business possibilities such as applying thermal inkjet technology to other industrial sectors. We are also committed to the environment, and based on various technological innovations related to sustainability we have developed to date, we intend to invest more for this cause.
+        Canon Sustainability Report 2021 16

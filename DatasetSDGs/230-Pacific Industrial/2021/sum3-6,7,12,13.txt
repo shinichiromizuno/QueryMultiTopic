@@ -1,0 +1,332 @@
+      for ENVIRONMENT
+Minimizing environmental load
+In keeping with our environmental philosophy, one of our corporate philosophies, the Pacific Industrial Group has established environmental policies and are taking actions for environmental conservation at all the stages of our corporate activity with the goal of becoming an excellent company that has earned the respect of society.
+   SDGs
+Environmental Philosophy
+Environmental Policies
+Highly relevant SDGs
+We shall actively partake in protection of the global environment, and strive to be a “credible high quality company” that is respected by society.
+We accelerate environmental load reduction activities with the participation of all employees to achieve the PACIFIC Environmental Challenge 2050.
+     PACIFIC Environmental Challenge 2050
+We recognize the need to understand and act on global environmental initiatives from a medium- to long-term perspective, and have established policies and targets up to 2050, and put forward targets to challenge.
+As a company that conducts business on a global scale and benefits from the global environment, we will reduce the impact on the global environment as much as possible, and strive to mitigate and adapt to climate change so that future generations can live together with nature as we do now. We will work globally to realize a sustainable society.MaterialityMitigation of and adaptation to climate change
+Direction of efforts
+■ Production technology development/ facility upgrading
+■ Production process improvement
+■ Daily improvement activities
+■ Introduction of renewable energies
+■ Production technology development/ facility upgrading
+■ Daily improvement activities
+■ Defect reduction activities
+■ Material recycling
+■ Production technology development/ facility upgrading
+■ Daily water usage reduction activities
+■ Promotion of water reuse
+■ Change of surface processing specifications
+■ 2030 targets 50% reduction
+from FY2019
+■ 2050 targets Net Zero
+Medium- to long-term targets: KPIs
+    Reduce CO2 emissions toward building a carbon-free society
+Reduction of CO2 emissions (Scope 1,2)
+   Accelerate the use of recycling resources in pursuit of sustainable operationsReduction of industrial wastes
+■ 2030 targets 60 reduction
+■ 2050 targets Minimum
+ Sustainable resources use
+ 30% in Japan reduction
+usage
+% overseas from FY2019Seek to minimize water usage and reduce water contamination risk according to local circumstancesReduction of water usage
+■ 2030 targets Optimal
+■ 2050 targets Minimum
+ Conservation of water resources
+  usage
+usage
+Usage according to local circumstances
+  Reduce CO2 emissions throughout the life cycle
+We are promoting initiatives that cover all stages, from procurement and production to use and disposal, in order to reduce CO2 emissions throughout the product lifecycle. In addition to energy conservation and the introduction of renewable energies in our own production, we are also working with our customers and suppliers to reduce CO2 emissions, and on reducing CO2 emissions during the use of our products by reducing their weight, etc.
+LCA: Life Cycle Assessment
+Source: Prepared by us based on JAMA figures
+            Scope3 Scope1
+Materials Parts manufacturing Scope2
+<Electricity>
+Drastic reduction of CO2 through renewable energy generation
+Scope3
+Vehicle manufacturing
+Scope3
+Scope3
+Disposal
+           Current fuel efficiency regulations
+Driving Tank to Wheel
+BEV Electric appliances
+Fuel Production Tank to Wheel
+         WtW regulations
+     Pacific Industrial Co.,Ltd. Sustainability report 2021 32
+  Minimizing environmental load
+Resource Usage and Emissions (Material Balance)
+     INPUT
+Energy usage
+■ Electricity usage 163 million
+kWh
+■ Fuel and others
+293 thousand
+GJ
+Raw material input
+■ Organic/inorganic materials 8,487t
+■ Of which, solvents 2,224 t
+■ Metallic materials 183,462 t
+Water usage
+1,645 thousand m3
+Business process
+OUTPUT
+CO2 emissions
+85,798 t-CO2 (Scope 1 17,279t-CO2)
+(Scope 1 68,519t-CO2) Total amount of industrial wastes
+2,539 t
+■ Of which, landfill volume of Pacific Industrial 48t
+VOC emissions
+113 t
+■ Of which, landfill volume of Pacific Industrial 86t
+Raw material inputs are non-consolidated figures.
+            SASB
+TR-AP-130a.1
+R&D
+Test
+Prototyping
+Production
+Design
+Evaluation
+Sale
+                      Status of ISO 14001 Certification
+The Pacific Industrial Group considers ISO 14001 certification to be an absolute requirement as a manufacturer and has actively sought to build and maintain an environment management system (EMS) since 2000 on a global scale. With the addition of PIT, which was certified in February 2021, 19 of our 20 sites have been certified (eight in Japan and 11 overseas), equating to a 95% acquisition rate.
+Environmental Communication
+We invite residents living near our plants and government officials to our company office regularly to host social gatherings. We introduce visitors to our initiatives dedicated to environmental friendliness, safety, and sustainability, and take them on a tour around our plants and environmental facilities. We
+hosted such tours at the Higashi Ogaki Plant in September 2021. In addition, we work to educate the next generation by giving lectures at universities and others on environmental efforts.
+*Consolidated group (excluding TSC and PSC).
+  Environmental Targets for FY2021
+  Direction of efforts
+ Targets
+  1
+CO2 emissions
+ 5% reduction (global)
+  2
+ Amount of industrial wastes
+ 35% reduction in Japan 2% reduction overseas
+  3
+ Water usage
+ Optimal usage (global)
+   33
+Pacific Industrial Co.,Ltd. Sustainability report 2021
+from FY2019
+
+          CO2 Emission Reduction Topics
+TOPICS
+  Conversion of boiler fuel from heavy oil to city gas
+At our Higashi Ogaki Plant, we replaced the steam boiler with a small, once-through high-efficiency boiler, making it possible to switch the fuel from heavy oil to city gas, which emits less CO2. The annual reduction in CO2 emissions will be approximately 680 tons.
+Small once-through boiler installed at the Higashi Ogaki Plant
+  Converting to extra high-voltage power
+The Higashi Ogaki Plant originally received high-voltage power from an electric power company as well as produced its own electricity from an internal diesel-powered generator system. The introduction of special high-voltage power feeding system allowed us to shut down our conventional power generation system on a planned basis and cut fuel (heavy oil) consumption, enabling us to reduce CO2 emissions. The annual reduction in CO2 emissions will be approximately 1,000 tons.
+ Energy saving by downsizing cationic electrodeposition coating (E-Coat) equipment
+At our Nishi Ogaki Plant, by implementing improvements such as making coating hangers more universally adaptable, we were able to consolidate the production volume of two E-Coat lines for our stamping products into one and stop using one coating line entirely. We also deployed a fully integrated E-Coat line for small parts that incorporates processes from assembly up to and including final coating, reducing energy consumption and improving productivity. The annual reduction in CO2 emissions will be approximately 320 tons.
+Cationic electrodeposition coating equipment at Nishi Ogaki Plant
+Special high-voltage power receiving equipment at Higashi Ogaki Plant
+    Introduction of renewable energy
+SASB
+TR-AP-130a.1
+To increase the proportion of renewable energy in our electricity consumption, we have introduced solar power generation at six plants in Japan and at one plant overseas. In FY2021, we are installing solar power generation systems at our Kurihara Plant in the Tohoku region in Japan and at PVT in Taiwan, and we expect to increase the ratio of renewable-to-total energy consumption from 1.2% in FY2020 to 1.6%. In addition, going forward we will actively promote the introduction of renewable energy and increase the ratio of renewable energy.
+Solar panels at Higashi Ogaki Plant
+Pacific Industrial Co.,Ltd. Sustainability report 2021 34
+Energy conversion
+Energy conversion
+Production technology
+Renewable energy
+
+  Minimizing environmental load
+Mitigation of and adaptation to climate change
+We recognize that climate change is one of the most important issues facing society, and we have declared that we will be carbon neutral by 2050, reduce CO2 emissions by 50% by 2030 (compared to FY2019, Scope 1 or 2), and are implementing group-wide initiatives to reduce CO2 emissions. We also endorsed the TCFD in May 2021, and are working strategically to understand the
+risks and opportunities of climate change. In this report, we have organized our efforts to address
+climate change in line with the TCFD final recommendations.
+     Main “risks and opportunities”
+ Strategy
+ Indicators and Targets
+  Transition risks
+  · Carbon pricing
+· Requests from customers to reduce CO2
+emissions
+· Decrease in sales of parts for internal
+combustion engine vehicles
+ Set annual milestones and accelerate efforts to become carbon neutral.
+· Promote energy conservation and fuel switching on a daily basis · Planning for model plants for decarbonized production
+· Proactive renewable energy introduction
+· Introduction of ICP into capital investment decisions
+  · Reduce CO2 emissions by 50% by FY2030 · Reduce CO2 emissions to net zero by
+FY2050.
+(PACIFIC Environmental Challenge 2050) * Scope 1+2, compared to FY2019
+   Physical risks
+ · Floods
+· Heatstroke
+· Supply chain supply risks due to flooding,
+drought, etc.
+· At our Thailand plant, which has experienced flooding, strengthen drainage capacity by increasing the diameter of drain pipes, etc., and collect and analyze information on global flooding risks.
+· Establish a multi-company purchasing system and promote the incorporation of flood risk and other such concerns into our BCP, as major domestic suppliers are concentrated in Gifu and Aichi prefectures.
+· Proactively introduce air conditioners and air-conditioned clothing, share temperature information, and take other meticulous precautions to combat heatstroke.
+ Promote the following initiatives related to material topic “Climate change adaptation measures”
+· Support for business partner BCP
+formulation
+· Promote cooperation with local
+communities in times of disaster · Heat stroke prevention
+  Opportunities
+  · Increase in sales of lightweight products such as UHTSS products made by cold stamping (LCA contributes to CO2 reduction)
+· Increase in sales of products for EVs
+· Improving resilience (against disasters) by
+enhancing BCP, including those of suppliers
+ · Demand for UHTSS products is increasing in line with the global need for safer and more fuel-efficient vehicles. In particular, we are strategically introducing and proposing the use of UHTSS products made by cold stamping, which is one of our strengths, because it can reduce CO2 emissions during production to about 1/8 of that of the hot stamping method (according to our calculations).
+· Strengthen development of products for EVs in the areas of stamping, molding, valves, TPMS, and forged products in anticipation of the rapidly expanding trend toward electrification of automobiles.
+  Set the following KPIs for materiality
+· Ratio of UHTSS products to total stamping
+products (25% in FY2024)
+· Percentage of sales for electrified vehicles
+(FY2030 70%)
+     35
+Pacific Industrial Co.,Ltd. Sustainability report 2021
+Governance
+We have identified 15 material topics that are important for sustainability management, including “Mitigation of and adaptation to climate change,” and categorized them into four themes. The “Mitigation of and adaptation to climate change” is led by the General Manager of the Safety and Environment Department, who works with the Corporate Planning Department to set KPIs and integrate them into business activities. Among the material topics, “Mitigation of and adaptation to climate change” is recognized as the most important one. In addition to reporting and deliberating on the status and making decisions at the Sustainability Promotion Committee, held four times a year (attended by internal directors including the president), we discuss important issues individually at weekly Corporate Strategy Committee meetings. In addition, at least once a year, the Board of Directors deliberates on the status of sustainability activity reports and initiatives regarding risks and opportunities for climate change-related issues.
+Risk Management
+The materiality assessment of climate change is determined in consultation with the Corporate Strategy Committee and Board of Directors. Risks and opportunities are identified and evaluated by the Sustainability Promotion Committee and discussed at Corporate Strategy Committee meetings. Issues that are already recognized as having a significant impact, such as carbon neutrality and electrification, are discussed at Corporate Strategy Committee meetings and Board of Directors meetings as needed, they are incorporated into strategies, and then measures are formulated and implemented.
+Strategies, Indicators and Targets
+Received a high rating in the CDP survey
+We responded as a supply chain to a survey by the CDP, an international NGO that evaluates the quality of climate change initiatives and disclosure, and in December 2020 we received an “A-” leadership level rating on climate change and, in February 2021, we were named to the “Leaderboard” for supplier engagement.
+
+ Reduction of CO2 Emissions
+With an eye on the 1.5°C scenario of the Paris Agreement adopted in 2015, the Pacific Industrial Group endeavors to reduce energy usage by pushing forward such activities as production technology development, facility upgrading, production process improvement, and daily activity improvement and introduction of renewable energies. In FY2020, we worked to reduce CO2 emissions with the full-scale operation of our Higashi Ogaki Plant’s special high-voltage power feeding system and the efficient operation of compressors.
+ Targets and results (Pacific Industrial)
+Total Target 39.8 emissions kt or less
+Result 38.0
+Target Emissions per Target 49.1t/100million yen Result 46.4 t/100 Target kt achieved 100 million yen in sales or less million yen achieved
+  Changes in CO2 emissions KPI
+■ Total domestic emissions(kt) ● Emissions per 100 million yen in domestic sales (t/100 million yen)
+■ Total overseas emissions (kt) ◆ Emissions per 100 million yen in overseas sales (t/100 million yen) The Group’s total emissions (kt)
+Scope 3
+Deployed Renewable Energy Capacity by SiteStrategy
+CO2 emissions (t-CO2)Domestic (Pacific Industrial)1Purchased goods and services
+460,875
+2Capital goods28,8293
+Fuel and energy-related activities not included in Scope 1 or 2
+6,445
+4Transportation and delivery (upstream)6,372
+5Wastes generated in operations4706
+Business travel
+200
+7Employee commuting2,410
+9Transportation and delivery (downstream)8,29812
+End-of-life treatment of sold products1,566
+Scope 3515,465Base
+Solar power generation capacity (kW)Nishi Ogaki Plant200Higashi Ogaki Plant500Kyushu Plant300Kita Ogaki Plant
+469Mino Plant100Yoro Plant100Domestic1,669South Korea PVI
+100Overseas100Global1,769
+78.7 84.1
+106.9 43.4
+94.2
+56.8
+90.1 94.3
+85.8
+47.8
+69.7
+46.4
+38.0
+2020 (Fiscal year)
+47.1
+51.7
+     40.1
+58.4
+76.5
+68.0
+51.6
+47.3
+ 38.7 40.7
+2016 2017
+43.1 42.5
+2018 2019
+*The Scope 3 figures were calculated based on the emission intensity database for calculating greenhouse gas emissions and other emissions by organizations throughout the supply chain (Ver. 3.0) published by the Ministry of the Environment.
+ * We employ emission factors for the calculation of CO2 emissions included in the List of Calculation Methods/Emission Factors for the Calculation, Report, and Publishing Systems published by the Ministry of the Environment and the Ministry of Economy, Trade and Industry.
+Sustainable resources use
+ The Pacific Industrial Group is pushing forward resource recycling by reducing industrial waste generation through defect reduction activities in the manufacturing process and by recycling materials, primarily waste rubber and resin. In FY2020, we worked mainly on transforming woodchips and sludge into usable material at the Kurihara Plant and reducing waste plastic at the Higashi Ogaki Plant.
+Industrial waste-related trends KPI SASB
+■ Amount of domestic landfill wastes (t) ■ Amount of domestic industrial wastes (t)
+TR-AP-150a.1
+◆ Domestic recycling rate (%)
+91 91 92 94
+2016 2017 2018 2019
+   Targets and results (Pacific Industrial)
+Total amount of industrial wastes
+Target 455t or less
+Result 687 t Target not achieved
+Targets and results (Pacific Industrial)
+Total water usage
+Target 1,514km3 or less
+Result 1,393 km3 Target achieved
+■ Amount of overseas industrial wastes (t)
+Amount of industrial wastes generated by the Group (t)
+2,055 2,352 2,759 3,132
+2,539
+1,852
+375
+462
+2,175
+96
+2020 (Fiscal year)
+584
+Changes in water usage (km3)
+■ BOD (t/year)
+■ COD (t/year) 4.8
+3.8
+2,202
+   1,890 1,680
+    24 24 28 66 48
+2016 2017 2018 2019 2020 (Fiscal year)
+Conservation of water resources
+929
+687
+   The Pacific Industrial Group actively manages and reduces water usage to be in line with regional circumstances, encourages water recycling, and endeavors toward efficient water consumption and its preservation. In FY2020, we downsized our ED-coat facilities and reduced water consumption. We will continue to work to control wastewater quality and preserve the quality of normal water, and promote activities to conserve biodiversity, including maintaining the ecosystems in river source and watershed areas.
+Changes in water usage KPI
+■ Domestic water usage (km3) ■ Overseas water usage (km3)
+BOD·COD emissions trends
+ Nishi Ogaki Plant Higashi Ogaki Plant
+5.0
+2.9
+0.5 0.3
+■ BOD (t/year) ■ COD (t/year)
+  1,583
+1,716
+1,756
+1,744
+1,645
+252
+1,393
+4.6
+2017
+5.0
+  168 150
+180 231
+    3.5
+3.5
+0.4 0.1
+2020 (Fiscal year)
+      2.8
+0.2
+2.4
+   1,433
+1,548
+1,577
+1,514
+0.4
+0.4 0.20.3 0.1
+2018 2019
+  2016
+2017
+2018
+2019
+2020 (Fiscal year)
+2016
+* Emission figures are totals calculated from data from all in-Group companies aside from domestic subsidiaries (TSC and PSC).
+* We have adjusted calculation method and some data points.
+Pacific Industrial Co.,Ltd. Sustainability report 2021 36

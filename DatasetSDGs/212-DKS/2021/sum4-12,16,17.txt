@@ -1,0 +1,365 @@
+DKS’s Growth Strategy 2: Sustainability
+Organizational Resilience
+DKS has established an appropriate corporate governance system for sustainable growth and improvement of corporate value over the medium to long term and strives to ensure thorough compliance and risk management. Even if the organization becomes exposed to various changes in the outside environment and risks, to achieve sustainable growth and social contributions DKS aims to be an organization that is conscious of resilience and flexibility in addition to sustainability and growth.
+DKS’s Framework Supporting Sustainable Growth
+The corporate philosophy around which the Company forms the basis of its actions is indicated in our Company Credo, Company Mottoes, and Code of Corporate Ethics. These are also outlined in our Declaration of Action by Officers and Employees.
+With the selection of five focus SDGs Sustainable Development Goals and the promotion of health-based company management covered in our new medium-term management plan FELIZ 115, on October 1, 2020 we revised our Code of Corporate Ethics and Declaration of Action by Officers and Employees and made these known both internally and externally.
+   Strategies and Initiatives
+Digital Society Initiatives
+ Preventative maintenance leveraging DX
+Our project for increasing contributions from older plants is one of the priority measures of medium-term management plan FELIZ 115. The depreciation period has ended for aging plants constructed in the Showa period (1926-1989). Therefore, if these plants stay in operation and produce products continuously, it could be said that these plants have earnings power that leads to profit just by selling products.
+Consequently, it is important for us to find ways to keep these fully depreciated plants operating without interruption. At the same time, the machinery and equipment (pumps, tanks, etc.) of these plants have aged and bring the risk of declining performance and breakdowns.
+One form of DX at production sites is preventative maintenance we perform that discovers early signs of machinery and equipment malfunction. Since this enables preemptive measures before an incident occurs—and thereby allows us to minimize production interruptions, we are strategically implementing repairs and maintenance in parallel with our stage-one “smart” Production Headquarters changes that include profit generation through production efficiency improvements. Specifically, this includes sensors that constantly monitor machinery and equipment for sounds and vibrations during operation and help us visualize minute fluctuations that are difficult for a human technician to detect.
+Using a smartphone (existing infrastructure) to gather noise data on equipment being monitored by sensors
+Initiatives to Strengthen Corporate Branding
+In our medium-term management plan FELIZ 115, we have set a target of 10 billion yen in annual net sales in the life sciences business.
+One of our strategies for reaching this target is to strengthen corporate branding, so we are aiming to further boost corporate value and presence of DKS.
+In order to increase recognition of DKS among the general public, our specific initiatives have included posting information on social media sites and other activities, such as opening limited-time pop-up shops in JR Kyoto Isetan and similar department stores. Additionally, we are collaborating with prestigious companies in Kyoto to develop original products such as general foods, soft drinks, and alcoholic beverages using the DKS Group’s unique technologies and materials.
+  48
+DKS REPORT 2021
+Pop-up shop in JR Kyoto Isetan
+ 
+ Establishing a Compliance Structure
+Since the Compliance Control Committee was established in 2004, the Company has been continuously engaged in the building and maintenance of our compliance system, as well as in activities to instill compliance practices in our employees. Recognizing that compliance activities are indispensable for continuing as a sound company, we will further strengthen our activities in the years to come.
+   Corporate Philosophy
+The corporate philosophy around which the Company forms the basis of its actions is indicated in our Company Credo, Company Mottoes, and Code of Corporate Ethics. These are also outlined in our Declaration of Action by Officers and Employees.
+With the selection of five focus SDGs and the promotion of health and productivity management covered in our medium- term management plan FELIZ 115, we revised our Code of Corporate Ethics and Declaration of Action by Officers and Employees on October 1, 2020 and made these known both internally and externally.
+Additionally, in order to instill our corporate philosophy among employees, we posted it in various places inside our offices and published a Compliance Manga Case Book detailing issues that tend to arise in everyday work situations. This book, which was distributed to all employees, uses an approachable (manga illustrated) format to convey its information. Furthermore, our e-learning program for all employees explains and tests participants on our corporate philosophy as part of efforts to deepen everyone’s
+Compliance System
+Compliance Control Committee
+The Compliance Control Committee is charged with establishing and maintaining the Company’s compliance system. Since its establishment in 2004, the Compliance Control Committee has been continuously engaged in building the compliance system, implementing educational activities to entrench compliance practices in our employees and conducting surveys to ensure understanding of the compliance system.
+Corporate Ethics Month
+The Compliance Control Committee has designated October every year to be Corporate Ethics Month and conducts activities during the month, including educational activities and the dissemination of information, centered on a particular theme.
+The theme for fiscal 2020 was the revised Code of Corporate Ethics and the confirmation and implementation of the Declaration of Action by Officers and Employees. In each department, we reiterated the basics of the Code
+understanding of the philosophy and to offer a valuable reference for making judgments in day-to-day tasks.
+ Code of Corporate Ethics
+To establish corporate ethics that contribute to putting the Company policies into practice, we established a six-item set of principles as the Code of Corporate Ethics and adhere to the word and spirit of all laws and regulations, as well as international rules. We also respect the culture and customs of each country and region where we practice our business activities and declare that we will act with social common sense.
+Declaration of Action by Officers and Employees
+Regarding the six-item set of principles established as the Code of Corporate Ethics, we broke down the content as to what kind of behavior is actually required, clearly state the guidelines for the actions of officers and employees (including seconded and contract employees, as well as temporary employees) and declare that these guidelines will be implemented as a code of conduct.
+      of Corporate Ethics, and department members deliberated on specific actions to take. Additionally, we gathered case studies from each department on compliance-related questions in everyday work tasks.
+Compliance Manga Case Book
+Whistleblower Hotlines
+DKS has established whistleblower internal and external hotlines where employees can consult on and report possible violations to established laws and regulations. Instructions on using the hotlines are always available internally, such as on the Company intranet.
+Compliance Awareness Survey
+We conduct a Compliance Awareness Survey for all employees each December with the aim of accurately understanding the effects from activities aimed at further instilling compliance practices. Based on employee awareness of key issues, we use the results to determine initiatives for the following fiscal year.
+The fiscal year ended March 2021 was the 16th consecutive year the Company has implemented the Compliance Awareness Survey.
+The survey assessed respondents’ understanding of the revised Code of Corporate Ethics and Declaration of Action by Officers and Employees as well as each department’s achievement of these measures, and awareness of the whistleblower hotlines.
+The survey posed questions about areas of policy that employees would like to see improved in the future and many requests were made reflecting current conditions regarding workplace environments and working from home.
+Please see the data on p. 70 for survey results.
+A
+2. インサイダー取引って何?
+Q
+企画部の A さんは、非常に画期的な新商品を開発した。役員からも「すばらしい商 品だ! 売れるのは間違いない」とお墨付きをもらった。 その後、新商品のヒットを確信した A さんは、同期で仲のよい他部署の B さんに 「今度の新商品は絶対売れるから!」と自信満々に話した。
+B さんは新商品の情報は初耳。平然を装っていたが、内心「いいことを聞いた」と 思い、帰宅後にパソコンで自社株を購入した。 新商品発表後、証券取引等監視委員会の職員が、A さんたちの会社にやってきた。
+職員に厳しく詰め寄られて、慌てふためく2人。A さんは「自分は株取引をしてい ないのに、なんで疑われるの !?」と納得のいかない様子だった。
+    問題があります。担当者に連絡がつかないときは、上司に相談する などして、すみやかにお客様へ対応してください。
+ 他部署の人に対して、新商品が絶対売れるなどの未公表の会社情報 を伝えてもよいでしょうか?
+こ売れはるのすはばら間し違いいねなえ!いだろう! いだいとん ですけど
+役員
+新商品
+企Aさん画部
+今度の新商品絶対売れるから! へー
+同他部僚署Bさのん
+自宅で こ株りゃ価買もわ上ながいるだ手ろはうな...いな
+後日 エーッ!
+イあ取ンな引サたしイまたダしちたーね! なんで僕が!? ば...!れた
+の監証職視券員委取員引会等
+事例から学べること
+自分が担当者でなくても、会社の一員である以上、当事者のひとりです。お客様 にとっては、会社を代表する人物であることを自覚しましょう。 クレームは、迅速に対応し、絶対に後回してはいけません。苦情連絡第一報にて 所管部署長・関係者に調査依頼し、24時間以内に『一次報告』をお客様に必ず提出 します(必要に応じ『1週間以内報告』『中間報告』も提出します)。 担当者に連絡がつかないときは、上司に相談するなど、すみやかに対応してくだ さい。クレームを放置すると、会社の信用を損ない、お客様との関係が悪化する おそれがあります。クレームの内容によっては、取引の減少、停止、損害賠償請 求などにつながるおそれもあります。 クレームの発生後はお客様へ速やかに訪問し謝罪と調査をします。クレームの内 容は『苦情処理連絡票』を発行して所管部署長と関係者に報告します。 クレーム対応は、お客様との関係を強化する機会です。誠実で適切な対処によっ て信頼を得ましょう。
+参照
+企業倫理憲章1、役員・従業員行動宣言1(3)、I11「製 品苦情処理規程」、ISO 文書「製品苦情処理運用規程(B1)」
+      6
+7
+DKS REPORT 2021 49
+ コンプライアンス漫画 ケースブック
+
+DKS’s Growth Strategy 2: Sustainability
+Organizational Resilience
+Strengthening Risk Management
+Diverse and increasingly complex, the corporate risks surrounding the Company could result in adverse impacts on the Company itself, as well as on employees, shareholders, customers, and local communities. We position risk management as an important management issue and are taking steps to prevent potential risks and the spread of risks that have already manifested.
+    Risk Management System
+To address the Group risks and systematically promote activities, we have established a Risk Management Control Committee that meets on a regular basis and is composed of representatives of each department, with an operating executive officer serving as the chairperson.
+The Risk Management Control Committee’s objective is to appropriately manage and set countermeasures for potential risks that may interfere with our achievement of business targets. The activities of the committee are carried out following the PDCA cycle, based on the basic process of risk assessment, risk response, monitoring, and review.
+In Japan and overseas, the Company and its subsidiaries are working to maintain and strengthen crisis management systems so that we can communicate risk crisis information as soon as possible, ascertain the situation, and take appropriate measures. To deal with potential and/or evident risks, we have taken several steps, including establishing and maintaining Risk Management Procedures, Product Liability (PL) Prevention and Management Procedures, and
+Business Continuity Plan (BCP)
+BCP is an abbreviation for Business Continuity Plan, which allows a company to maintain critical operations without suspending plans when it is affected by an unforeseen natural disaster such as an earthquake. Even if business activities are unavoidably interrupted, the BCP focuses on restarting important functions within the recovery time objective and minimizing the risks involved in interrupted operations.
+We have created BCPs for a large-scale earthquake and the outbreak of a highly virulent H1N1-type influenza, and we are regularly reviewing and updating these plans.
+Disaster Preparedness
+There has been an increasing prevalence of natural disasters such as earthquakes and water damage from torrential rain, as
+Initiatives to Prevent the Spread of COVID-19
+The Risk Management Control Committee has been using our intranet and other means to inform all employees of the Company’s countermeasures to COVID-19, which spread worldwide in 2020. These countermeasures focus on the policies of the central government and local municipal governments, as well as work styles that take into account the level of infections. Primary measures being implemented* are: prohibiting (in principle) overseas business trips, establishing strategies to address domestic business trips, creating standard practices for responding when someone has a confirmed infection or close-contact exposure,
+Information Security Rules.
+In fiscal 2020, we reassessed our risk management criteria
+and process for sharing information when an impactful event occurs, while we also extended and revised our BCP for handling earthquakes.
+We utilized our e-learning platform to educate employees on the concept of business continuity management as an aspect of risk management for addressing business interruptions, which allowed us to emphasize the importance of this concept to employees.
+Basic Process for Risk Management
+Ascertain the status of the organization
+Respond to risks
+well as extended heat waves and heavy snowfall accompanying abnormal weather patterns. We are proceeding to implement and strengthen appropriate measures for these types of risks to human life and business activities.
+In the event of a crisis, our Risk Management Manual establishes management levels in line with the crisis, with the person in charge—according to those risk management levels—tasked with implementing risk management.
+Risk Management Level
+Understanding risk possibilities under normal operation
+Risks to be coped with within plants, branches, offices and subsidiaries Risks to be coped with within divisions (including subsidiaries)
+Risks to be coped with Company-wide
+Unexpected risks
+recommending working from home and following staggered office hours, promoting the use of our online meeting system, implementing daily infection prevention strategies (hand washing, gargling, alcohol disinfectant, face masks, etc.), carrying out temperature checks at building entrances, and setting up spray-guard partitions.
+We are continuing to gather information and pursue business continuity measures during this time of the COVID- 19 pandemic.
+*Initiatives up to August 2021 (measures are subject to change according to the level of infections)
+      Risk assessment
+Identification of risks Analyzation of risks Evaluation of risks
+                  Risk Management Level I
+ Risk Management Level II
+ Risk Management Level III
+ Risk Management Level IV
+ Risk Management Level V
+         50
+DKS REPORT 2021
+ Communication & discussion
+Monitoring & review
+
+ Strengthening Corporate Governance
+Characteristics of DKS’s Governance
+DKS engages in business based on our Company Credo, “Contributing to the nation and society through industry,” along with our three Company Mottoes—"Quality First,” “Cost Reduction” and “R&D Efforts”—which embody the spirit of our founders. Our basic concept on corporate governance is to establish a management foundation able to
+Status of Response to Corporate Governance Code
+Regarding compliance with the Corporate Governance Code, we have not implemented nine of the principles. Please refer to our Corporate Governance Report for the principles and our reasons for non-implementation.
+Initiatives for Strengthening Governance
+Board of Directors Diversity
+Company directors possess knowledge and experience in various fields such as sales, production, research, purchasing and logistics, planning, accounting and finance, and personnel and general affairs, as well as overseas management experience. Each outside director has accumulated extensive business experience and specialized knowledge from their various backgrounds, including
+Overall Efficacy of the Board of Directors
+Every year, all officers (directors and Audit & Supervisory Board Members) carry out self-evaluations based on a questionnaire prepared by the Office of the Board of Directors (Secretary Department). The Office of the Board of Directors tallies these questionnaire results, which are analyzed and evaluated by outside officers and full-time Audit & Supervisory Board Members. Last fiscal year, outside officers and full-time Audit & Supervisory Board Members made a general determination that the operation of the Board of Directors is appropriate and effective, and the evaluators provided opinions that will facilitate further elevation of this effectiveness. The Board is striving to make on-going improvements that take these opinions into account.
+earn and maintain the trust of society, as well as to conduct transparent and fair corporate activities that are rooted in corporate social responsibility (CSR). Consequently, we pursue higher governance as management policy and position it as one of our most important tasks.
+Detailed corporate governance information
+https://www2.tse.or.jp/disc/44610/140120210615449019.pdf (Japanese only)
+manufacturing companies in different industries, administrative agencies related to labor conditions and occupational health and safety, and university-level nanotechnology research. At present, the Board of Directors is not sufficiently diverse in many ways, including gender, but in the future, if such a person is recognized as qualified, he or she will be appointed as a member of the Board of Directors.
+Timeline of Corporate Governance Enhancement Initiatives
+            Year Month
+Details
+Appointment of independent outside directors: 1 person in total
+Establishment of new provisions for putting Board of Directors resolutions in writing
+Establishment of an Outside Officers Committee
+Appointment of independent outside directors: 2 people in total
+General Meeting of Shareholders material made available on the internet
+Online exercising of voting rights made available
+Adoption of an online voting platform for institutional investors
+Establishment of an Advisory Board Appointment of independent outside directors: 3 people in total (3 of 8 directors are independent outside directors)
+ 2014
+  June
+ 2015
+  May
+ 2017
+June
+ 2018
+ June
+ 2020
+  May
+ 2021
+ May
+ 2021
+  June
+          DKS REPORT 2021 51
+ 
+DKS’s Growth Strategy 2: Sustainability
+Organizational Resilience
+Organizational Design and Structure
+  Outline of Structure
+Company Outside
+Appoint/Dismiss
+Report
+Report
+Policies, planning and guidance
+ Audit
+General Meeting of Shareholders
+  Board of Directors Directors: 8 people
+Company (5) Outside (3)
+Cooperate
+Decide on resolutions regarding appointments/ dismissals
+Judge on accounting audit appropriateness
+Cooperate
+Accounting auditor
+   Audit & Supervisory Board Auditor: 5 people
+Company (2) Outside (3)
+ Cooperate
+Audit
+  Advisory board
+Company (1) Outside (7)
+*
+    Auditor assistant
+   CEO
+Management Committee
+Deliberate important matters Managing Directors
+Report
+Internal Audit Department
+  General Affairs and Legal Department
+  Compliance Control Committee
+RC (Environment, Safety & Quality) Promotion Conference
+ Risk Management Control Committee
+ Security Export Control Committee
+ Audit
+Report, etc.
+ Respective business execution departments/Group companies
+ Appoint/Dismiss
+Appoint/Dismiss
+Report
+  Select/Dismiss Supervise
+   Audit
+Report
+   Guide/Supervise
+Check for illegal activities
+Propose/Report important matters
+    *“Outside” includes experts
+Organizational composition and roles
+Management Committee
+Chaired by the Chairman CEO, the Management Committee is comprised of five internal directors, two full-time Audit & Supervisory Board Members, two senior executive officers, and three executive officers. The Committee reviews and considers items which need approval prior to the Board of Directors (primarily accounts, finance, and performance- related matters), as well as important resolutions and reports based on the Official Regulations of Administrative Authority and the Official Regulations of Accounting and Finance. In the process, the Committee carries out regulations and adjustments across the Company. The Management Committee meets on a regular basis (generally twice a month). In principle, matters brought before the Board of Directors are first given careful review by the Management Committee, which endeavors to check their compliance with laws, regulations, and the Articles of Incorporation, in order to facilitate rational decision making.
+Matters deliberated by the Board of Directors
+Report, etc.
+Policies, planning and guidance
+   No. of meetings
+Main details
+Average time committed
+     12 times in total
+• Accounts-related items
+• Executive appointments, remuneration
+• Segment business plans
+• Progress reports on medium-term management plan FELIZ 115
+• Reports on corporate governance
+• Reports on internal control evaluations (related to financial reports) and the Internal Control Report
+• Reports related to evaluating the effectiveness of the Board of Directors
+   52
+DKS REPORT 2021
+Senior executive officers: 3 people Executive officers: 10 people (Business execution)
+122 min.
+  
+  Appointment and Dismissal of the CEO and the CEO Succession Plan
+Regarding the appointment of the CEO, the outgoing CEO proposes a candidate for successor who shall be resolved after thorough deliberation by the Board of Directors, which includes three independent outside directors. If the CEO is not sufficiently fulfilling his role, or if there is a reason to dismiss the CEO, the Board of Directors will deliberate and resolve the dismissal.
+In addition, succession planning for the CEO is the most important matter for the survival of the Company, thus it is critical to identify actual and potential capabilities of management. The succession plan is the exclusive property of the CEO, who is familiar with all aspects of the Company. DKS believes it is desirable to hear the opinions of outside officers regarding the qualities and aptitude of successors, thus our successor training committee and our Advisory Board, which include outside officers as members, provide opportunities to appropriately incorporate the advice and participation of outside directors.
+Establishment of an Advisory Board
+The Company voluntarily established an Advisory Board as a supplementary body with the goal of improving the fairness, objectivity, and transparency of the decision-making process of the Board of Directors.
+Reasons for Selection of Outside Directors
+Establishing the Advisory Board ensures appropriate opportunities for outside officers to participate in and provide advice on CEO successor selection, officer remuneration, and the like.
+The Advisory Board is comprised of the Chairman CEO, six outside officers, a majority of whom are independent, and one outside expert. The Board is chaired by an independent outside director.
+Role of the Advisory Board
+The Board reviews, deliberates, and advises the Board of Directors on the following:
+(1) Matters related to overall management
+(2) Matters related to selecting director candidates, including
+representative directors
+(3) Matters related to plans for training Company director
+successors
+(4) Matters related to policies and procedures relevant to
+director remuneration
+(5) Matters related to determining and revising the officer
+remuneration scheme and remuneration amounts (6) Other matters deemed necessary by the Board of
+Directors
+ Name Reasons for selection and expected contribution to the Company
+  AOKI Sunao
+ TANIGUCHI Tsutomu
+ OKUYAMA Kikuo
+  Mr. Aoki has extensive experience and advanced, specialized knowledge from many years in management positions at Mitsubishi Heavy Industries, Ltd. Based on his seven years of professional experience serving as an outside director of the Company, he has played an appropriate role in overseeing business execution as an outside director by actively providing his opinions on the medium-term management plan and management strategies, among other subjects. The Company deems that, going forward, Mr. Aoki will continue offering appropriate supervision of the execution of Company business and will provide advice from a broad-based perspective.
+Mr. Taniguchi has extensive experience and advanced, specialized knowledge from serving in key positions at the Labor Standards Inspection Office. Based on his four years of professional experience serving as an outside director of the Company, he has appropriately fulfilled his role in overseeing business execution by actively providing his opinions on labor conditions and occupational safety and health, among other subjects. The Company deems that, going forward, Mr. Taniguchi will continue offering appropriate supervision and valuable advice.
+Mr. Okuyama has extensive knowledge and experience in the field of nanotechnology, particularly from his involvement in university-level research. He has also made dedicated effort toward industry-academia-government collaboration and is expected to offer valuable advice related to fields in which the Company conducts research, and in the field of life sciences. The Company deems that Mr. Okuyama will be able to leverage his experience and expertise to improve the Group’s sustainable growth and corporate value.
+   DKS REPORT 2021 53
+ 
+DKS’s Growth Strategy 2: Sustainability
+Organizational Resilience
+Officer Remuneration
+The basic policy regarding director and Audit & Supervisory Board Member remuneration involves a) appropriate compensation for execution of duties, b) remuneration that encourages actions to improve business performance and maximize corporate value, and c) remuneration that deepens value-sharing with shareholders.
+Director Remuneration
+Director remuneration consists of 1) fixed remuneration, 2) performance-linked remuneration (incentives), and 3) stock remuneration (deepens value-sharing with shareholders). For outside directors, in consideration of involvement in business execution decisions, compensation consists of 1) fixed remuneration and 3) stock remuneration.
+    Scope of amount
+1) Fixed remuneration
+2) Performance-linked remuneration
+3) Stock remuneration
+          54
+DKS REPORT 2021
+Calculation method
+Monthly remuneration is set based on the size of the role tasked to each director and their position.
+Targets for indicators related to performance-linked remuneration in the fiscal year under review were to exceed consolidated net sales of ¥59.5 billion, consolidated ordinary income of ¥4.1 billion, and consolidated operating cash flow above ¥3.2 billion in fiscal 2018. In the previous fiscal year,
+which the performance-linked remuneration for the current fiscal year is subject to, consolidated sales increased to ¥61.4 billion and consolidated ordinary income decreased to ¥3.5 billion. In addition, consolidated operating cash flow increased by ¥3.7 billion.
+1) Fixed remuneration
+Company performance in the previous fiscal year is evaluated once each year, with the departments each director is in charge of evaluated twice each year; then, the amount of remuneration is calculated and increased or decreased within a certain range.
+DKS introduced a transfer-restricted stock remuneration system, with decisions as to the specific allocation of monetary remuneration to be paid for the granting of transfer-restricted shares based on the size of the role tasked to each director and their position.
+At the 153th Ordinary General Meeting of Shareholders held on June 27, 2017, a resolution determined the amount of stock remuneration be set at ¥100 million per annum (¥6 million or less per annum for outside directors; this does not include the salary of employees who concurrently serve as directors), with 100,000 shares as the maximum number of common shares to be issued or disposed of per annum. All of the above are drawn up by the CEO and remitted and paid upon resolution by the Board of Directors.
+     At the 154th Ordinary General Meeting of Shareholders held on June 26, 2018, a resolution determined that monthly remuneration for directors be set at ¥30 million (¥360 million per annum, with outside director remuneration set at ¥3 million per month). This does not include the salary of employees who concurrently serve as directors.
+ Audit & Supervisory Board Member Remuneration
+Audit & Supervisory Board Member remuneration is composed of 1) fixed remuneration and 2) stock remuneration based on the appropriateness of audits conducted and the role played in promoting shareholder interests.
+Regarding stock remuneration, DKS introduced a transfer-restricted stock remuneration system, and determines the amount of monetary remuneration to be paid for granting transfer-restricted shares suitable for the role of an Audit & Supervisory Board Member entrusted by shareholders.
+At the 153th Ordinary General Meeting of Shareholders held on June 27, 2017, a resolution set maximum stock compensation at ¥20 million per annum, with 20,000 shares as the total number of common shares of the Company to be issued or disposed of per annum. All the above are determined and remitted after consultation with Audit & Supervisory Board Members.
+Total Amount of Remuneration for Each Officer Position, Total Amount of Remuneration by Remuneration Type, and Number of Applicable Officers
+252 236 (4) 20 10 2 46 42 — 3 8
+ 2) Stock remuneration
+     Calculation method
+ Scope of amount
+An amount suitable for the role of an Audit & Supervisory Board Member entrusted by shareholders is set and paid as fixed monthly remuneration.
+   At the 141th Ordinary General Meeting of Shareholders held on June 29, 2005, a resolution set maximum compensation at ¥6 million per month (¥72 million per annum).
+     Officer position
+Total remuneration (Millions of yen)
+Total remuneration by type (Millions of yen)
+Number of applicable officers (persons)
+    Director (excluding outside directors)
+Fixed
+Performance-linked
+Stock-based
+         43
+  39
+    —
+   3
+  Audit & Supervisory Board Member (excluding outside Audit & Supervisory Board Members)
+  Outside officers
+   
+DKS’s Growth Strategy 2: Sustainability
+Dialogue with Shareholders and Investors
+Disclosing the necessary corporate information in a timely and appropriate manner, the Company attaches importance to occasions for communicating with the wide range of people concerned. While actively conducting dialogues with its many investors, the Company has been able to seize opportunities for dialogue involving stories about its creation of value. The Company arranges regular large and small meetings with investors so that the CEO can communicate with investors in his own words. In addition, with regard to explaining financial performance and business scope, the personnel in charge of IR meet directly with investors. With this integrated report serving as a tool for constructive dialogue, we are working to improve corporate value, including mutual understanding.
+ Frequent questions from stakeholders
+Q Could you give us an overview of the medium- term management plan and your progress on it?
+A In April 2020, we launched our five-year management plan, FELIZ 115. Focused on the social environment of 2030, it is a framework for transforming into a company that will persist for the next 100 years. Our Company Credo, “Contributing to the nation and society through industry” is everlasting. The medium-term management plan is positioned in order to chart a course to raising corporate value and reaching consolidated net sales of ¥100 billion. Our general review of the first year of the plan is as follows:
+(1) We carried out a portfolio review, including improving
+profitability and withdrawing from certain projects, and we
+reorganized our business structure.
+(2) We brought on line Plant #4 in the Yokkaichi Branch Kasumi
+Plant, enabling greater production capacity to handle demand.
+(3) We established the Life Sciences Business Headquarters (under
+direct supervision of the president ), aiming for life sciences business on the scale of ¥10 billion in 2025.
+(4) In order to start and build out new businesses, we revamped our R&D organization to place priority on profitability.
+(5) We proactively hired non-Japanese employees and strove to promote diversity.
+Please see the “Investor Relations” tab on our website for details on our medium-term management plan (in Japanese only).
+https://www.dks-web.co.jp/ir/strategy/index.html
+Dialogue with Institutional Investors and Analysts
+Every year, we hold briefing sessions and small-group meetings with institutional investors covering the full-year and first-half periods, in June and December respectively. In fiscal 2020, we made maximum effort to address COVID-19 and therefore reduced the size of these gatherings, which were held in a hall adjoining Tokyo Station. With the impact of the state of emergency declaration and priority measures to prevent spread of the
+infection, attendees were
+more inclined to follow
+stay-at-home
+recommendations and
+there were only 58
+participants (which was
+fewer than last year).
+Dialogue with Individual Shareholders and Investors
+We held our 157th Ordinary General Meeting of Shareholders and management briefing at the RIHGA Royal Hotel Kyoto on Friday, June 25, 2021. Subsequently, on Friday, July 2, we held another management briefing in Tokyo. Despite the coronavirus pandemic, there were more attendees than the previous year and participants provided us with candid input.
+Q What products are your growth drivers?
+A Currently, special nonionic surfactants, rock hardening agents, radiation-curable resin materials, flame retardants, and electronic device materials are our growth drivers. Rock hardening agents are used to prevent tunnel collapse during tunnel digging, while flame retardants are used to make plastic materials and home insulation materials less flammable. Due to the increased time people are spending at home during the COVID-19 pandemic, demand has grown for antistatic agents used for liquid crystal film in TVs, personal computers, and similar devices.
+Q What is your philosophy on shareholder returns?
+A While keeping our dividend consistent with internal reserves necessary for future business development, our policy is to maintain a stable long-term dividend for shareholders. Additionally, we adopted a shareholder benefit program in fiscal 2019. In proportion to the number of shares held, this fiscal year’s benefit program provided shareholders with I. Japonica-Bombyx Fungus and Sudachin manufactured by the DKS Group.
+Please see the “Investor Relations” tab on our website for details on the (consolidated) dividend payout ratio (in Japanese only).
+https://www.dks-web.co.jp/ir/library/index.html
+Shareholder Survey Results
+This section presents some of the results of shareholders’ responses to our survey. On survey questions related to IR activities, interest was higher than last year with regard to “Website improvements” and “Briefing sessions for retail investors,” due to there being an increase in the number of individual shareholders. There was also an approximate 20% increase year-on-year in the number of survey cards completed. We thank everyone for their valuable and extensive feedback.
+Going forward, we will devise approaches to conveying DKS’s management policies and business direction in the clearest manner possible.
+What are your expectations for DKS’s IR activities?
+     Earnings briefing
+ Enhancement of shareholders’ reports
+ Website improvements
+ Expanded integrated report
+content
+ Briefing sessions for retail
+investors
+ Shareholder round-table
+conference expansion
+ Enhancement of the Notice of
+the Ordinary General Meeting
+of Shareholders
+ Other
+6%
+2%
+11% 15%
+5%
+  18%
+43%
+DKS REPORT 2021 55

@@ -1,0 +1,171 @@
+Intellectual Capital Message from Corporate Officers in Charge of Oncology Area
+Taking Maximum Advantage of Our Superior In-house Product Creation AbilitySenior Vice President President, Oncology Business Group
+Takashi Owa (Right)
+Vice President Chief Medicine Creation Officer, Oncology Business Group, Chief Discovery Officer, Oncology Business Group
+Terushige Iike (Left)
+     Strengths
+1. Ability to create products supported by superior organic synthetic chemistry and drug discovery science
+2. Maximization of product value based on our Ricchi strategy which emphasizes competitive superiority and differentiation
+3. Progress of pipeline (H3 Biomedicine Inc., ADC taskforce etc.)
+Q : What are Eisai’s strengths in the area of Oncology?
+A : Iike Our greatest strength is our ability to create products supported by superior organic synthetic chemistry and drug discovery science. In pharmaceutical R&D, finding innovative candidate compounds during
+the basic research stage is of course very important. But equally important is the technology to efficiently synthesize the compound and link it to commercial production. In that sense, I think that Halaven was truly innovative, as it was created via the successful industrial synthesis of a natural product derivatives with a complex chemical structure; a groundbreaking achievement at the time.
+■Retracing Halaven’s Discovery/Invention
+ And it is through our superior drug discovery science that
+Halichondrin B
+Lenvima has a novel binding mode with target kinase and an FGFR and RET inhibitory effect. As a result, it was approved as a distinctive tyrosine kinase inhibitor.
+Owa In order to develop Halaven, Eisai’s first in-house anticancer agent, there were several challenges that needed to be surmounted. The origin of Halaven goes back to the discovery of a natural product with antitumor properties called Halichondrin B, which was extracted from a marine sponge called Halichondria Okadai. However, Halichondrin B could only be obtained from the sponge in small amounts, so in order to provide a stable supply of a drug made from this class of compound, it was determined that an important milestone would be achieving total synthesis of the natural product and finding a structurally simple analog. For these two points, Professor Yoshito Kishi’s research group at Harvard University played a decisive role. Through joint research by Kishi’s laboratory and Eisai, it was determined that the right half of the Halichondrin analog exhibited
+Halaven
+(generic name: eribulin)
+H2N
+MeO
+44
+Weaknesses
+1. Plans for the submission of Halaven and Lenvima successors are still midway
+2. Delays in contributing to patients due to rapidly increasing competitive landscape
+  Opportunities
+1. Expansion of oncology market based on creation of high value-added drugs
+2. Expansion of oncology market along with economic growth in developing and emerging countries
+Threats
+1. Launch of competitors’ innovative products
+2. Increasing pressure to lower drug prices as governments
+promote policies to reduce healthcare costs
+ HOOOOH HO OHHHO HOH
+HOOH OO
+HO Me
+Pharmaceutical optimization
+MeOO
+• Molecular weight: 826
+• Chiral carbons: 19
+• Total synthetic steps: 64
+O
+O O
+OH
+O O H
+O H OH
+extremely powerful antitumor activities, and this discovery lead to the creation of Halaven at the Eisai Research Institute in Andover. The total synthesis process of Halaven was established, consisting of over 60 steps, and this led to Halaven’s regulatory approval. This medicine creation process was an unprecedented series of challenges for us, but that is precisely why we can say that the creation of Halaven was a result of the passion and brilliance of Eisai researchers.
+O
+Me
+O
+O
+The marine sponge
+Halichondria okadai
+ Halichondrin B
+Me H HOOO
+H H Me
+    Company Introduction Management Strategies
+■Summary of the results of the Phase III study of Lenvima for the treatment of hepatocellular carcinoma
+  Lenvima Arm
+ Sorafenib Arm
+ Hazard Ratio
+ OS Median (95%CI)
+ 13.6(12.1-14.9) months
+ 12.3(10.4-13.9) months
+ 0.92(0.79-1.06)
+ PFS Median (95%CI)*
+7.4(6.9-8.8) months
+3.7(3.6-4.6) months
+0.66(0.57-0.77)
+ TTP Median (95%CI)*
+ 8.9(7.4-9.2) months
+ 3.7(3.6-5.4) months
+ 0.63(0.53-0.73)
+ ORR Median (95%CI)*
+ 115 people (24%)
+ 44 people (9%)
+   *P<0.00001
+** Cheung A et al., the 53rd Annual Meeting of the American Society of Clinical Oncology (ASCO), (June 2017), Abstract No:4001
+Lenvima was created from the high level fusion of the innovative and highly unique in vitro and in vivo model system established by the Tsukuba Research Laboratory biology team and an extremely intricate drug design by
+the chemistry team. The project team didn’t just focus
+on the creation of VEGF ( Vascular Endothelial Growth Factor) pathway inhibitors. Rather, their design concept was to look at the entire tumor angiogenesis process, and by inhibiting it, produce life extending effects in vivo. As a result, Lenvima has a unique mechanism of action which selectively inhibits both the kinases involved in maintaining the tumor microenvironment and the kinases involved in the proliferation of cancer cells, in a well-balanced way.
+Iike Another one of our strengths is the maximization of product value based on our Ricchi strategy which emphasizes competitive superiority and differentiation. Indication expansion for our second in-house developed anticancer agent Lenvima is proceeding very smoothly. In 2015, we began marketing Lenvima for the treatment of thyroid cancer in Japan, the U.S., and Europe. In 2016, it was approved as a second-line treatment for advanced renal cell carcinoma in the U.S. and Europe. And in January 2017, a Phase III study of Lenvima against sorafenib as a first-
+line treatment for patients with unresectable hepatocellular carcinoma met its primary endpoint.
+At present, sorafenib is the only first-line treatment for unresectable hepatocellular carcinoma, and no other treatment has demonstrated non-inferiority against sorafenib in the past 10 years. However, after this long period of darkness, Lenvima is the light at the end of the tunnel. According to the results of the Phase III study, Lenvima met the statistical criteria for non-inferiority
+of overall survival compared to sorafenib, and showed statistically significant and clinically meaningful improvement for progression free survival, time to progression, and objective response rate. We have submitted applications for the treatment of hepatocellular carcinoma in Japan in June 2017, and in the U.S. and Europe in July 2017. We’re also planning to submit an application in China in the second half of fiscal 2017.
+Q : What is the development status of next- generation products that will follow on from Halaven and Lenvima?
+A : Iike Apart from expanding indications for Halaven and Lenvima, we would like to increase the number of late clinical stage projects. We have several promising next generation projects which we feel have potential equal to that of Halaven and Lenvima. These are currently in PhaseIstudies or in preparation to enter PhaseI, and we will continue to develop them.
+Owa H3 Biomedicine Inc. is working on creating new cancer treatments leading to precision medicine, and their pipeline is extremely promising. By narrowing down targets such as cancer genomics and aberrant splicing, clinical studies can proceed over a shorter period, with fewer patients. There are two projects at the PhaseIstage (H3B- 8800, H3B-6527), and another in the preparation stage (H3B-6545) which is expected to enter PhaseIwithin fiscal 2017. By taking advantage of Boston’s location to secure diverse talent, and promoting revolutionary drug discovery projects rooted in human cancer genome information, H3 Biomedicine has been able to move several projects into the clinical phase in an extremely short period of time since their inception in 2010. This a noteworthy achievement.
+■Pipeline of H3B Biomedicine Inc.
+Furthermore, the development of Eisai’s first antibody- drug conjugate (ADC) is very important for our pipeline strategy. ADCs are next generation antibody drugs, in which antibody drugs and low molecular drugs (payloads) are chemically conjugated via a suitable linker. Antibody drugs have the advantage of high target selectivity and few side effects, but have a problem in that they can only act
+on target molecules outside of a cell or cell membrane. On the other hand, improving the selectivity of low molecular drugs has been a constant issue, but due to membrane permeability, they have the advantage of being able to target substances such as proteins inside cells. ADCs are receiving much attention as a hybrid treatment in which antibody drugs and low molecular drugs are combined in a way
+that they cover each other’s weakness and enhance each other’s strengths.
+Value Creation Activities
+Business Base (ESG) Appendix
+  H3B-8800
+Splicing modulator which includes chemical structure derived from natural products
+ Currently conducting PhaseIstudy in hematological malignancies. Aiming to launch by fiscal 2020.
+ H3B-6527 FGFR4 inhibitor
+  Currently conducting PhaseIstudy in hepatocellular carcinoma. Aiming to launch by fiscal 2020.
+ H3B-6545
+First-in-class estrogen receptor antagonist
+Plan to initiate PhaseIstudy in breast cancer in fiscal 2017. Aiming to launch shortly after fiscal 2020.
+  45
+Eisai Integrated Report 2017
+
+ Eisai is currently developing an ADC, namely MORAb-202, which combines the antibody drug farletuzumab, developed with the antibody technology of our subsidiary Morphotek Inc., and eribulin (Halaven), a masterpiece of modern organic synthetic chemistry with a novel mechanism of action that impacts tumor microenvironment. Halaven was the only chemotherapeutic agent which demonstrated the extension of overall survival (OS) as monotherapy in large-scale clinical studies for the treatment of refractory breast cancer and soft tissue sarcoma, and its usage as payload is thought to be extremely useful. MORAb-202’s non-clinical data suggests excellent efficacy and safety profiles with dosage of only
+one fifth of that of Halaven, so we have great expectations for its development. What’s more, the ADC project is not limited to a once-off with MORAb-202. Morphotek Inc. owns proprietary technologies for two different antibody site- specific conjugations in addition to diverse antibody drug candidates, and we believe that the future holds various possibilities, including the possibility of a contract research outsourcing business.
+■Eisai’s First Antibody-Drug Conjugate (ADC) MORAb-202
+This ADC is a combination of farletuzumab, an in-house discovered antibody currently in clinical development, and eribulin, a masterpiece of modern synthetic organic chemistry.
+of progression free survival against the comparator,
+and we think that there is sufficient evidence that it will
+be competitive. But because Lenvima was granted the breakthrough therapy and priority review designation from the FDA and approved for this indication based on the results of the Phase II study, there are few doctors with prescription experience, and recognition of the combination therapy is low. We are currently strengthening measures
+to counter these problems. First, we would like to improve the prescription ratio among patients for which other treatments have not produced sufficient results. To that end, it is important to not only raise our share of voice but also
+to collaborate with medical and access organizations and
+to create real world evidence. Additionally, we can expect increased recognition of Lenvima through the ongoing Phase III study for the first line treatment for renal cell carcinoma.
+On the other hand, for the hepatocellular carcinoma,
+we submitted for a first line and monotherapy treatment and based on head-to-head comparison with the existing product sorafenib. However, there is sufficient evidence obtained from PhaseIII study that it will potentially be the first choice. As such, we are expecting swift expansion after we receive regulatory approval.
+Q : What are the opportunities / threats in the oncology area?
+A : Iike It is thought that the creation of ground-breaking high value-added drugs such as antibodies and drugs leading to precision medicine will further expand the oncology market. In addition, we expect the market to expand along with economic growth in developing and emerging countries.
+Owa The launch of innovative products by the competitors is a large threat, but not one that will necessarily take growth opportunities from us. Current anticancer treatment strategies often make use of combination therapies to obtain higher clinical effects, so if we can demonstrate
+the scientific rationality of using our agents in combination with new products, then we can dramatically increase our growth potential. For Halaven and Lenvima, we are actively developing combination therapies with anti-PD1 antibodies and molecular targeted drugs (For further details, please refer to page 48). The key in this case is to demonstrate rational combination mechanisms in both clinical and non- clinical studies.
+Iike With social welfare costs rising globally, many governments around the world are implementing policies to reduce healthcare costs, and as a result, there is increasing pressure to lower drug prices, which is a threat to our business. High priced anticancer agents are appearing one after another on the market, so setting reasonable prices
+is a very important issue for us. We feel that drug prices should be determined based on the fundamental value that they provide to patients. We are striving to create drugs that bring true value to patients, but at the same time, we believe that the value of innovation should also be appropriately reflected in the price.
+   Antibody farletuzumab
+Farletuzumab is internalized into the cells.
+  Linker
+Cleaved by enzyme in the cell
+  Payload* eribulin
+・Unique mechanism of action of natural derived products targeting cancer micro environment.
+・Does not form aggregates due to its high water solubility.
+ *The agent to bind antibody through linker
+Q : Are there any marketing challenges for the
+expansion of Lenvima?
+A : Iike With regard to the second line treatment of advanced renal cell carcinoma, the largest market is the U.S., but due to intensifying competition following the emergence of anti-PD1 antibodies, we have not been able to make our planned contributions to patients yet. However, the combination therapy of Lenvima and everolimus is the only second line treatment for unresectable or metastatic renal cell carcinoma to demonstrate a significant extension
+ 46
+
+Intellectual Capital
+2 “Ricchi” and Ongoing Projects in Oncology Area Establishment of a new technology platform and continuous creation of innovative programs
+  Ricchi 1 Cancer Microenvironment
+The periphery of cancer cells is surrounded by tissue called stroma. In the stroma, connective tissues including immune cells, inflammatory cells, tumor vessels, lymphatic vessels and collagen, form a distinctive structure called the cancer microenvironment. Halaven is reported to have unique mechanisms of action in the cancer microenvironment including an effect that inhibits cell division while promoting the epithelial state of breast cancer cells. Meanwhile, Lenvima is known to demonstrate an anti-tumor effect and inhibit angiogenesis in the cancer microenvironment.
+■ Mesenchymal Cells and Stromal Cells (Cell Differentiation and Cancer Stemness)
+Eisai possesses technological capabilities cultivated in the development of Halaven for synthesizing highly complex compounds as well as diverse natural product-based compound libraries. We have also developed research tools that include bio-imaging technologies for performing image analyses of the protein distribution in tissue and organisms as well as super immune-deficient mouse models implanted with human tissue samples.
+Furthermore, as an approach to cancer stem cells, which are thought to be a cause of cancer relapse and metastasis, we are establishing animal models and cell-based evaluation systems to investigate cell differentiation, epigenetic control, and tumor metabolism. In addition, our subsidiary Morphotek Inc. possesses antibody technology and unique site- specific conjugation technology.
+■ Vascular Endothelial Cells (Abnormal Tumor Vessels)
+Eisai possesses original diverse small molecule libraries targeting kinases cultivated through the development of Lenvima at the Tsukuba Research Laboratories. We have also retained biomarkers from clinical samples in order to identify new molecular targets involved in abnormal tumor vessels in the cancer microenvironment and drug resistant mechanisms.
+■ Myeloid Cells (Immunosuppressive Myeloid Lineage)
+It is believed that a prostaglandin acting on its receptor
+induces the promotion of immunosuppression and immune
+inflammation. Toll-like receptor is a pattern-recognition
+receptor that recognizes aberrations in living systems, such
+as viruses, bacteria and malignant tumors, and transmits
+signals to lymphocytes. It is believed to control the immunoregulatory mechanism that maintains the immunological system. Eisai possesses unique compound libraries related to prostaglandin and toll-like receptors, a combination of cellular and non-cellular based assays, and an evaluation system to evaluate myeloid cell-mediated cancer immunity.
+Ricchi 2 Cancer Cells Driver Gene Mutation and Aberrant Splicing in Cancer Cells
+Established in 2010, H3 Biomedicine Inc. has built a cutting-
+edge cancer genome platform to identify and evaluate
+genes which play an important role in the occurrence and
+progression of cancer (cancer driver genes), genes which
+have already developed drug resistance to anticancer agents,
+and target genes which cause aberrant splicing. Additionally,
+as a “splicing platform”, they possess libraries for compounds which regulate splicing as well as a unique screening system to identify compounds that target abnormal protein (splicing variants) which is caused by incorrect order or different patterns in splicing. They aim to obtain approvals within a short timeframe through a fast and unique decision making scheme to ascertain chemical compound potential and target molecules, based on human biology.
+* For details on aberrant splicing, please refer to page 94.
+ Main Ongoing Projects
+•MORAb-202, an Antibody Drug Conjugate (ADC) based on a combination of farletuzumab and Halaven
+•Halichondrin origin
+ Main Ongoing Projects
+•Lenvima and anti-PD-1 therapy pembrolizumab
+combination regimen
+•Lenvima and everolimus combination regimen *For details, please refer to page 48.
+ Main Ongoing Project
+•EP4 Antagonist E7046
+*EP4: A receptor of the prostaglandin E2 receptor 4 family 47
+Eisai Integrated Report 2017

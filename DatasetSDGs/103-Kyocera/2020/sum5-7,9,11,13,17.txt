@@ -1,0 +1,52 @@
+Environment & Energy
+Developing New Products for
+the Self-consumed Energy Market
+The key market for the Kyocera Group’s energy-related business is the Japanese market, where demand is expected to shift from selling electricity via the feed-in tariff system to self-consumed renewable energy. In order to channel this new demand towards profits, we plan to make efforts to expand sales of products such as our world’s first*1 clay-type Li-ion storage battery, SOFC (solid oxide fuel cell), and energy management systems(EMS), in addition to our solar power generating systems. We are also watching trends in infrastructure construction, such as VPP and local energy management systems that target efficient energy use centering on renewable energy. Going forward, we will respond to needs that are expanding to include various kinds of systems and services as well as devices, and will contribute to solutions for social issues.Market Eye
+Interest in the energy business is in- creasing worldwide, and momentum is gathering to resolve environmental and energy issues, with the conclusion of the Paris Agreement at COP21 aimed at achieving a decarbonized world, and the setting of the Sustainable Development Goals (SDGs). According to the IEA Sustainable Development Scenario, the world’s renewable electricity capacity will dramatically increase as we head towards 2040.
+■ The world’s renewable electricity capacity according to the IEA Sustainable Development Scenario
+ ■North America ■Europe ■Asia-Pacific region ■Other regions 2018
+(Year)
+2030 2040
+        0
+2,000 4,000 6,000 8,000 10,000 12,000
+(GW)Electric power supply
+Electric power grid supply
+Kyocera EPA LLC Service operatorGrowth Strategy Priority Markets
+Related businesses
+■ Industrial & Automotive Components Group ■ Semiconductor Components Group
+■ Electronic Devices Group
+■ Communications Group
+■ Document Solutions Group ■ Life & Environment Group
+  ● Regional Energy Management Tests
+Kyocera is carrying out joint research with Hioki Regional Energy Co., Ltd. and Hitachi Power Solutions Co., Ltd. on microgrid energy management in the city of Hioki, Kagoshima Prefecture. The aim is to achieve regional decarbonation via the local production and consumption of renewable energy, to expand regional economic circulation via local power companies, and to implement electric power supply and demand technologies that will help to supply power when a disaster strikes.
+● Trifuente, a New Three-battery Product
+Kyocera has successfully developed the world’s first*1 clay-type Li-ion storage battery and has started small-scale limited sales of the Enerezza®*2energy storage system for residential use, which is installed with that storage battery. We have also launched Ene-Farm Mini, the world’s smallest*3 household fuel cell co-generation system, and are supplying Tokyo Gas Co., Ltd. with the fuel cell unit (installed in the hot water tank) we developed jointly with Dainichi Co., Ltd. and PURPOSE CO., LTD. The fuel cell unit is being supplied under the Kyocera brand.
+Trifuente is a system that combines energy manage- ment with Kyocera’s solar cells, storage batteries and fuel cells, which are distinguished by their high quality and long-term reliability.
+● Shifting from Manufacturing to Services
+Kyocera has established Kyocera Kanden Energy LLP with Kansai Electric Power Company, and has launched new electric power services using our solar power generating systems. We are seeking synergy between our high quality solar power generating systems with their long-term reliability, and the Kansai Electric Power Group’s know-how regarding energy services. We have also established Kyocera EPA LLC and constructed lease schemes for businesses that provide solar power services. Going forward, we aim to aggressively expand our service business.
+EV automated driving in the 5G era
+Accessible and attractive transportation system
+Reliable energy systems even in times of emergency
+Emergency power supply
+Local consumption of locally produced energy
+Autonomous dispersed energy systems
+Energy services with regional infrastructure
+Accessible means of transport for the elderly and young families
+Adoption of community EV
+ZEH and ZEB
+Environmentally friendly lifestyle
+Diverse business creation
+P2P electric power transactions
+                  Enerezza, stationary residential energy storage system
+(From the left, power conditioner, storage battery unit, and remote control)
+Home Kyocera Kanden Energy LLP
+Ene-Farm Mini, household fuel cell co-generation system
+(From the left, the heat-source machine and fuel cell unit, illustrating their combination)
+     Industry Kyocera EPA LLC Private power
+consumption
+● Solar power generating system installation and maintenance, free of charge to the customer
+● Transferred free of charge to the customer once
+the contract has expired (in principle, after 10 years)
+Electric power services
+Solar power generating system lease
+KYOCERA INTEGRATED REPORT 2020 19

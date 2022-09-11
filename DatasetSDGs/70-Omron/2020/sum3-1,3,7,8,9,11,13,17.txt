@@ -1,0 +1,274 @@
+Electronic and Mechanical Components Business (EMC)
+Domains
+Corresponding SDGs
+Devices and Modules that Support OMRON Growth
+ The mission of the Electronic and Mechanical Components Business (EMC): “With our devices and modules, create customer value, and contribute to society.” EMC is OMRON’s core business unit as a global component supplier of relays, switches, connectors and sensors that act as eyes and ears for wide variety of products playing a vital role in switching and connecting devices, for customers across various industries including smartphones, home appliances, automotive and industrial equipment manufacturers.
+  Managing Executive Officer Company President, Electronic and Mechanical Components Company
+Shizuto Yukumoto
+Transformation into a BusinessThat Creates Value for Customers and Continues to Develop Innovative Module Products that Contribute to People and Societies around the World
+The EMC segment has faced three major changes in recent years. The first is social changes. Social issues are becoming more diverse and serious, as evident from labor shortages due to the declining birthrate and aging population, and the widening use of electric vehicles and renewable energy as a response to rapid global warming. The second is the change in customer behavior. Technological innovations in AI, IoT, and robotics have advanced at a much faster pace than expected, and customers are looking for partners with technological capabilities. The last change relates to competition. The emergence of multiple new players, particularly in emerging economies, has led to rapid commoditization.
+For EMC to continue to grow sustainably in its own right in the face of these changes, it required a significant change in its conventional business model. To that end, since 2017, we have focused on three key initiatives to transform our business into one that provides not only stand-alone devices but also modules that combine multiple technologies, in order to be a partner of choice with the ability to co-create value with our customers.
+The first involves redefining the target customers for our modules, in other words, the focus domains. We see the accelerating “shift to smarter equipment” and the “shift to battery-powered and direct-current power sources,” as typified by electric vehicles and storage battery systems, as two major trends, and have identified industries related to these trends as our focus domains.
+The second is the provision of value through a combination of the strengths we have cultivated. The strengths of the EMC are “devices” such as relays and sensors, and the “technologies” in producing these products, such as fine- processing techniques and software embedding. We are building a framework and organization for developing modules that deliver value to our customers by combining these strengths.
+The third is the consolidation of strengths that support the development of modules. Before, the EMC’s strengths in technologies, quality, and production, cultivated through providing devices over many years, were scattered globally. By consolidating these elements, we were able to not only reinforce our organizational strengths but improve efficiency. This has resulted in a significant improvement particularly in production efficiency.
+With the current COVID shock, there is a growing demand for smarter equipment, such as non-contact temperature measurement systems and devices that operate without manually activating a switch. EMC will realize its transformation into a business that continues to develop devices and modules that create value for customers and contribute to people’s lives and the advancement of societies around the world by supplying core components that help solve social issues through our customers’ products and services.
+41 OMRON Corporation Integrated Report 2020 Business
+                                Business Highlights
+Net Sales / Operating Income / Operating Income Margin
+Capital Expenditures / Depreciation and Amortization / R&D Expenses
+Net Sales (Billions of yen)
+120
+104.7
+0
+15
+Fiscal 2019 Results and Fiscal 2020 Plan
+      90 60 30
+95.2
+10.2%
+9.8
+16
+88.4
+Operating Income
+Operating Income Margin (right axis)
+Capital Expenditures Depreciation and Amortization (Billions of yen)
+R&D Expenses
+104.4 103.1
+12.0%
+7.9%
+(%) 15
+10
+5
+14
+12 10
+10 8.9 7.9 7.7 8 8.3
+6 6.5
+4 4.9 4.6 5.3 2
+0
+12
+  76.0
+7.6 7.6 5.9
+  8.6
+12.5
+17
+8.2
+18
+1.0% 0.7%
+0.9 0.5 0
+5.1 4.9
+15 16 17 18 19FY
+  19 20FY (Forecast)
+In fiscal 2019, in China, home appliances, machine tools and automotive demand declined significantly as a result of reduced capital investment caused by lower exports and decline in consumer purchase sentiment. Demand also declined in the Americas and Europe due to weak customer sentiment. Combined with the impact of foreign exchange due to yen appreciation, net sales decreased significantly compared to the previous year. Operating income also decreased significantly compared to the previous year due to the impact of foreign exchange in addition to lower net sales to external customers and
+OMRON Group businesses.
+In fiscal 2020, we expect the impact of the spread of COVID-19 to continue, and that it will take time for a market recovery to be seen in the automobile industry in particular. The business environment for the consumer and commercial products market is also expected to continue to be challenging, and we forecast net sales for fiscal 2020 to be lower than the previous year. Due to the decline in net sales and the impact of yen appreciation, we forecast operating income to decrease compared to the previous year.
+Sales by Product
+Other Electronic and Mechanical Components (Amusement Equipment, Image Sensing, MEMS Sensors, etc.)
+Power Supply Units for Amusement Devices
+Relays, Switches, Connectors
+   26%
+Net Sales in FY2019 ¥88.4 billion
+74%
+Fiscal 2020 Goals
+Power Relays for Printed Circuit Boards
+       Progress of Sustainability Initiatives
+Social Issues to be Solved
+INPUT
+Number of employees: 7,743 Research and development expenses: ¥4.9 billion
+Capital expenditures: ¥5.9 billion
+Human Image Sensor
+MEMS Pressure Sensors
+Surface-Mounted Switches
+MIL Connectors
+    Solve social issues relating in the domains of FA, Healthcare and Social Solutions
+As a device and module business supporting focus domains, contribute to achieving sustainability goals in each domain
+ Fiscal 2019 Progress
+OUTPUT
+Net sales: ¥88.4 billion Operating income: ¥0.9 billion
+   Business
+OMRON Corporation Integrated Report 2020 42
+OUTCOME
+Advanced sustainability goals in each domain through the provision of devices and modules
+8.2%
+
+                                Development of Devices and Modules that Create Value for Customers
+In EMC, we have cultivated our strengths in “devices” such as relays and sensors, and the “technologies” in producing these products, such as fine processing techniques, algorithm development, and compact software embedding. We are developing devices and modules that create value for customers by combining these strengths. Here are two such examples.
+Seismic SensorThat DetectsTremors and Damage to Buildings from Earthquakes
+OMRON contributes to enabling people to live safe and secure lives by providing advanced electronic component for equipment and devices that support society.
+One such component is the mechanical seismoscope for gas meters installed in homes and commercial facilities. The seismoscope is a key component of a gas meter that detects strong shaking above a certain intensity as an earthquake. It has been used in gas meters for many years as a security function component to prevent secondary disasters such as a fire by automatically shutting off the gas supply in the event of an earthquake.
+In Japan, the importance of securing the lifeline after a major earthquake came to be widely recognized after the Great East Japan Earthquake of 2011. With respect to gas meters, there was increasing demand for a system to shut off the gas supply automatically only in the event of an earthquake registering 5 or above on the seismic intensity scale, not only as a safety measure to detect and shut off the gas supply during an earthquake, but also to ensure a stable supply of gas in areas with less damage. To meet this demand, there was a need for a sensor that could accurately determine seismic intensity than the conventional seismoscopes.
+To solve this problem, we developed the world’s smallest class* seismic sensor that incorporates a 3-axis acceleration sensor with OMRON’s unique algorithm. This seismic sensor analyzes the data obtained from the 3-axis acceleration sensor using a unique SI value calculation algorithm to calculate the SI value which enables the scale of the earthquake to be determined with high precision. This enables accurate earthquake determination of 5 or above on the seismic intensity scale, and gas companies can provide a stable supply of gas according to the extent of the damage.
+In addition, the compact and low power consumption features of this seismic sensor make it ideal for installation in equipment. This was achieved through a combination of OMRON’s in-device edge processing technologies. Moreover, the sensor comes with a memory function that can record the magnitude of earthquake, for use in further enhancing the safety of gas supply system itself. This will enable gas companies to collect earthquake data and formulate appropriate recovery measures based on the seismic intensity and collapsed building information, and the damage situation, in each area.
+Seismic sensor Gas meter installed with a seismic sensor
+* As a sensor for measuring and outputting SI values. As of November 6, 2015. Internal survey.
+  43 OMRON Corporation Integrated Report 2020 Business
+
+                                Virtual Modules Essential for Creating Comfortable Work Environments While Also Saving Energy
+Work styles in which people actively choose their work locations according to their individual circumstances, such as the content and progress of their work, have drawn much attention in recent years. Such styles of work are expected to lead to improved productivity by facilitating communication and collaboration with a diverse range of people and enabling people to handle individual tasks with a high level of concentration. Eliminating the need for fixed seating can also be expected to improve operational efficiency in the office and thus save energy.
+However, in the past, air conditioning, lighting and other equipment in a buildings had their own sensors and were controlled independently. To operate office spaces more comfortably and efficiently, and to promote further improvement in productivity and energy saving, it is necessary to develop a system that optimizes the office space overall.
+OMRON, Nikken Sekkei Ltd, KYOWA EXEO CORPORATION, WHERE, Inc., and Kanda Tsushinki Co., Ltd. have been working together since April 2020 to develop and test a sensor and facility control network system to save energy and optimize office spaces at the same time. The network system aims to optimize the overall office space by analyzing environmental data on temperature, humidity, brightness level and other conditions obtained from various sensors installed in the office, and then centrally controlling air conditioning, lighting and other equipment.
+       Multi-purpose sensors
+Overall optimization
+Air conditioning
+Multi-purpose sensors
+Multi-purpose sensors
+    signage
+   Overview of the sensor and facility control network system
+OMRON’s environmental sensor and thermopile motion sensor provide “vision and senses” which are indispensable to this network system. The environmental sensor is an ultra-compact, complex sensing device packed with six sensors. By analyzing the data from each sensor, it can measure eight types of environmental data, including temperature, humidity, illuminance, atmospheric pressure, and discomfort index. The motion sensor uses a unique algorithm to analyze temperature data obtained from non-contact temperature sensors to accurately determine how many people there are within a scope of approximately 13m2.*
+By combining the environmental sensor and the motion sensor and using these as a virtual module, it is possible to ascertain in real time how many people there are in the office and where, as well the conditions of the space around them. This makes it possible to provide a comfortable space that has been optimized overall in which the temperature and brightness levels are adjusted according to actual conditions.
+Environmental sensor Thermopile motion sensor * Detects conditions in an area measuring 3.6 m × 3.6 m when installed on a 3 m ceiling.
+   Business OMRON Corporation Integrated Report 2020 44
+
+                                Social Systems, Solutions and Service Business (SSB)
+Domains
+Corresponding SDGs
+  The mission of the Social Systems, Solutions and Service Business (SSB) is “Creating a society in which the people of the world live in safety, security, and comfort.” We provide a wide range of terminals and systems, including PV inverters, storage batteries, railway station systems such as automated ticket gates and ticket vending machines, traffic and road management systems, payment systems, and UPS that protect equipment from unexpected power disruption which cause data loss. We also provide total solutions ranging from software development to comprehensive maintenance services to support the social infrastructure.
+ Managing Executive Officer
+OMRON SOCIAL SOLUTIONS Co., Ltd. President and CEO
+Toshio Hosoi
+Realizing a Well-being Society Where People Can Continue to Live a Safe, Secure, and Comfortable Life in the New Normal Era
+Looking ahead to the future, there are many social issues to be solved in front of us. COVID-19 has changed social structures, lifestyles and even our business styles. Amidst these rapid changes, as a company entrusted with the task of providing social systems, OMRON has to identify new social issues and resolve them in addition to maintaining the social infrastructure.
+The SSB has defined “labor saving,” “resilience,” and the “environment” as the three social issues to be solved by 2030. Labor saving is a major issue for maintaining social infrastructure functions. Necessity of labor saving is growing even more in response to the demand of non-contact systems due to the COVID-19 pandemic. Railway companies, our customers, are taking initiatives to maintain and improve their services and optimize their operations by the
+concept of saving labor through “coexistence of people and machines.” The initiatives include automating passenger support desk work handled by railway station attendants and using remote monitoring systems that enable centralized management of multiple facilities. For our initiatives in resilience, we aim to build a “strong” infrastructure assuming that disasters will occur and respond to the increasing frequency and severity of natural disasters on a global scale. We will accelerate our initiatives from the broad perspective of solving region-specific issues to build safe and secure communities. By combining our infrastructure monitoring technologies including water level monitoring to detect river flooding before it occurs with local governments’ information and knowledge. In the field of the environment, we take initiatives to promote renewable energy and optimize energy usage in response to climate change caused by global warming. In fiscal 2020, we merged the Environmental Solutions Business, which was under the direct control of headquarters. This resulted in adding energy control technologies cultivated in the development of environmental components such as PV inverters and storage batteries to our existing capabilities in software development and engineering. Leveraging this additional capability, we contribute to creating a sustainable society by creating systems for managing and coordinating energy demand on a regional basis, as well as sharing energy in the event of a disaster. The SSB will continue challenging to realize a safe, secure, and comfortable society required in the new normal era by solving these social issues through social automation, which combines our automation technologies based on AI, IoT, and robotics and providing total solutions in the fields of energy, transport, lifestyle services, and communities.
+45 OMRON Corporation Integrated Report 2020 Business
+Social Solutions
+ 
+                                Business Highlights
+Net Sales / Operating Income / Operating Income Margin
+Capital Expenditures / Depreciation and Amortization / R&D Expenses
+Net Sales Operating Income (Billions of yen)
+120 90
+Operating Income Margin (right axis)
+116.0 9.4%
+Capital Expenditures
+(Billions of yen)
+Depreciation and Amortization
+4.8
+2.1 2.5
+2.0 2.1 1.3
+     30
+75.9 6.1% 70.3
+2.9 4.1 4.8
+000 15 16 17 18 19 20FY
+(Forecast)
+Fiscal 2019 Results and Fiscal 2020 Plan
+In fiscal 2019, the SSB segment experienced strong demand for upgrades in the Public Transportation and Road Management Systems Business. In response, we proposed solutions tailored to the needs of our customers. In addition, the Environmental Solutions Business reported strong performance for the year, experiencing growing demand for storage battery systems. Net sales increased significantly compared to the prior fiscal year. Operating income increased significantly year on
+(%) 10
+6
+5
+R&D Expenses
+5.7
+ 100.6
+6.9%
+93.0
+   4 6068.0 53
+6.5%
+2 6.5 10.9 5.0 1
+5.4%
+3.0
+ 2.2
+1.6
+1.5
+1.8
+1.4
+1.4
+1.6
+  year, mainly due to higher net sales and improved profitability.
+In fiscal 2020, we expect to see significant changes in investment among customers in the Public Transportation Business due to the impact of lower travel revenues. Although the Energy System Components Business is seeing a growing market for storage battery systems, the impact of the spread of COVID-19 has limited customer business activities, likely resulting in weak sales for the segment. As a result, we forecast net sales for fiscal 2020 to be lower than the previous year. Due to the decline in net sales, we forecast operating income to decrease year on year.
+Sales by Product
+Other (Software Development, etc.)
+Energy, Environmental Solutions
+15 16 17 18 19FY
+     Uninterruptible Power Supply Units (UPS)
+Engineering
+24%
+4% 7%
+Net Sales in FY2019 ¥116.0 billion
+32%
+PV inverters
+Storage Batteries
+        Payment Systems
+5%4% 24%
+Public Transportation (Automated Ticket Gates, Ticket Vending Machines)
+Automated Ticket Gates
+   Progress of Sustainability Initiatives
+Social Issues to be Solved
+INPUT
+Number of employees: 3,237 Research and development expenses: ¥5.7 billion
+Capital expenditures: ¥3.0 billion
+Ticket Vending Machines
+Road Traffic (Road Traffic Management Systems, etc.)
+  Fiscal 2020 Goals
+  Contribute to achieving a smart society in which people around the world can continue to lead a safe, secure, comfortable, and clean life
+Global warming from CO2 emissions
+Slow growth of the renewable energy market
+ Fiscal 2019 Progress
+OUTPUT
+Net sales: ¥116.0 billion
+Operating income: ¥10.9 billion Launched tailgating detection function for the driving safety support system Cumulative shipped capacity of solar power systems: 9.6GW
+Cumulative shipped capacity of storage battery systems: 438MWh
+Create driving safety support systems and technologies Cumulative shipped capacity of solar power/storage battery systems: 11.2GW
+Build the energy resource aggregation business using solar power/storage battery systems (Japan)
+   Business
+OMRON Corporation Integrated Report 2020 46
+OUTCOME
+Environmental contribution by SSB products and services: 898kt-CO2
+SDGs Goal 7.1.2 SDGs Goal 13.2.1
+3.8%
+
+                                Promoting the Development of Resilient Communities That Are Resistant to Disasters
+In recent years, floods and landslides caused by torrential rain and other natural disasters are increasing in frequency and severity in Japan. Previous natural disaster countermeasures were formed by systematic preparations and set procedures based on a tendency identified from past observation data. However, the recent natural disasters are beyond our expectations and they continue to set new records in scale. It is getting difficult to limit the damage using conventional countermeasures. Each local community needs to build a resilient system that can cope with events exceeding expectations, and to minimize the damage by making decisions and acting autonomously. This is becoming a social issue.
+This article introduces our initiatives; the next-generation of disaster prevention “Visualization” that we are working on in cooperation with Maizuru City in Kyoto Prefecture.
+ Next-Generation Disaster Prevention: Visualization
+To build resilient communities, it is necessary to first detect risks that could cause extensive damage to each region in real time, and then visualize them on a community-wide basis. However, local governments, which are responsible for implementing these measures are facing financial difficulties due to aging and depopulation. We therefore set out to develop a compact monitoring system for visualizing regional disaster prevention information, narrowing down the functions of sensors for detecting risks by utilizing our own assets.
+We are now in the process of incorporating the monitoring system into Maizuru City’s portal site and setting up the system within the city. By combining data from tide gauges, river water level gauges, rain gauges and other disaster-prevention sensors installed throughout the city with the map data of the local government, the system allows local government employees and residents to view all disaster prevention- related information on one screen. This advanced initiative has been selected as a model for enhancing national resilience* under the Cross- ministerial Strategic Innovation Promotion Program of the Cabinet Office.
+Aiming for Realizing an Autonomous Resilient System
+The benefits of a resilient system are not only to minimize damage, but also minimize the burden on local government employees and residents in the event of a disaster so that they can focus on a quick recovery. To build an autonomous resilient system, it is necessary to combine the “visualization” function to monitor risks in real time, “enhancement” to supply energy required for supporting life in an emergency, and an “optimization” function to manage the operations of the region.
+We contribute to the creation of a sustainable society by introducing autonomous resilient systems to local governments in Japan.
+Monitoring Business Department Business Development HQ
+Toshiyuki Kinami
+Monitoring system being developed with Maizuru City
+        Monitoring
+Radio Sensor
+Visualization
+Management
+Cloud
+Optimization
+Autonomous resilient system
+Energy
+   Power
+generation Storage
+Enhancement
+  Autonomous resilient system which the SSB is building
+  Having been selected as a SDGs Future City, Maizuru City is aiming for a community, where people can enjoy interaction, a convenient and well-being country life. Developing a safe community by solving disaster prevention issues is the cornerstone of this initiative. We would like to further promote this initiative in collaboration with OMRON SOCIAL SOLUTIONS.
+Manager of Flood Control Sewerage Construction Division,
+Department of Water and Sanitation, Maizuru City Mr. Sunao Higashiyama
+* Realization of an information system that ensures each citizen can evacuate safely and make decision for an early recovery in the event of a large-scale disaster.
+47 OMRON Corporation Integrated Report 2020 Business
+
+                                Lifestyle Service Automation for Improving Services and Saving Labor
+In Japan, the labor shortage caused by the declining birthrate and aging population is becoming a serious issue year by year. Particularly in the hotel industry, where the number of hotels has increased rapidly due to the continuing demand for inbound tourism, labor shortage has become a serious social issue. OMRON entered the automation business in the area of hotel operations in 2018. With the aim of streamlining and saving labor in hotel operations, we have developed and introduced “Smare,” a self check-in terminal. Recently, the necessity of preventive measures against COVID-19 increased demand for further contactless service through automation.
+The article below introduces the application check-in model introduced at APA HOTEL.It’s All for Our Customers:
+Developing an Application Check-in Model that Enables a High Level of Hospitality
+APA HOTEL, a leading company in the hotel industry, has adopted Smare. They
+consulted us for solutions to improve the service to their customers. This led to developing the app check-in model for APA app subscribers. The current self check-
+in service for their registered members took time in its procedures. To solve this
+issue, we need to combine APA HOTEL’s knowledge and our automation
+technologies to realize their “Always Pleasant Amenity (APA)” concept. The
+application check-in model was the result of this collaboration, shortening the
+waiting time to the last one second and escorting customers to their rooms which
+realized a higher level of hospitality.
+The application check-in model does not merely reduce check-in time; it also
+minimizes the risk of infections from human contact. By eliminating the need to
+hand over room keys, customers do not need to wait at the front desk and can go
+directly to their rooms. Furthermore, by streamlining front desk work, it frees up
+the staff’s time which they can devote to entertaining the customers.
+We will continue to advance our automation business in the hotel industry by
+developing remote and centralized hotel management system, and robots that can
+clean and monitor. Through these initiatives, we will contribute to solving the labor shortage issues and offering lifestyle services with enhanced safety, security, and comfort.
+ Business Development Department, Social Solution Business HQ
+Ryoji Ohashi
+Application Check-in Model
+ As indicated in our company name, APA HOTEL aims to constantly provide safe, secure and comfortable accommodation services for customers.
+We have worked on cutting-edge initiatives with OMRON SOCIAL SOLUTIONS ever since we opened our first APA HOTEL in 1984. In developing the application check-in model, OMRON showed understanding towards our goal and motto: “Time Is Life.” OMRON and our staff considered how to shorten the check-in speed as much as possible and realized a system that not only affords comfortable, but also stress-free check-in for customers and reduced the risk of COVID-19 infection. In addition to the check-in model, I am looking forward to working together to realize a more comfortable accommodation service together.
+Director, IT Department,
+APA HOTEL Mr. Tomonari Kozuka
+ Business OMRON Corporation Integrated Report 2020 48

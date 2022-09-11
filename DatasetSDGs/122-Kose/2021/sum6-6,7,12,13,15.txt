@@ -1,0 +1,99 @@
+In Japan, we are actively engaged in environmental conservation activities around production bases. Reflecting the importance we place on harmony with local communities, production departments carry out cleanup activities every month. We will continue this cleanup program to help beautify communities and conserve the environment as part of our overall contribution to society.
+
+
+The KOSÉ Group conducted a material analysis of sustainability- related issues. As a result, in the KOSÉ Sustainability Plan, we positioned addressing the environment and climate change as an essential management issue in our efforts to drive business growth while helping achieve a sustainable society. In October 2020, we announced our support for the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD), and joined the TCFD Consortium, an organization of Japanese companies and other institutions that support the TCFD recommendations.
+Based on the TCFD recommendations, we will disclose information to stakeholders on the business risks and opportunities caused by climate change from the four perspectives of governance, strategy, risk management and indexes/goals. We will also continue to make Group-wide efforts to reduce CO2 emissions.
+
+The KOSÉ Group views sustainability-related issues as management issues, and has established a system for promoting solutions to such issues. Specifically, we established the Sustainability Committee chaired by the President & CEO. This committee proposes sustainability strategies to and receives approval from the Management Committee, and then reports the results to the Board of Directors. As chairperson, the President & CEO is also responsible for evaluation and monitoring related to climate change. In addition, in fiscal 2020 we established subcommittees and projects for CO2 emission reduction and other individual themes to promote more effective cross-departmental activities.
+
+For organizational risks related to climate change, the Risk Management and Compliance Committee is in charge of enterprise risk management and leads the identification and assessment of risks at the corporate level. Among them we have made climate change an essential factor in our consideration of energy usage, CO2 emissions, water consumption, and waste water. We take into account climate change-related physical risks in many areas of planning, including in our business continuity plan. The Sustainability Committee and the Risk Management and Compliance Committee are monitoring climate change-related issues based on these frameworks.
+
+6■ Strategy (Scenario Analysis)
+The KOSÉ Group is conducting scenario analysis in accordance
+with the TCFD recommendations to examine the transition risks and physical risks associated with climate change. In this analysis, companies evaluate the financial impact of climate change under the TCFD's scenarios of a 2°C and a 4°C rise in average global temperatures, and disclose information on their initiatives. We are also using the TCFD scenarios as a reference in examining business strategies to realize the KOSÉ Group’s envisioned future for society and the planet. In the scenario analysis, we identify risks and opportunities in procurement
+The KOSÉ Group’s Risks and Opportunities
+and demand for our products and services not just in the short term, but also with a medium-to-long-term view toward 2030 and beyond, based on the KOSÉ Sustainability Plan, which outlines the Group’s sustainability initiatives and targets to achieve by 2030. We then prioritize and evaluate important factors. Furthermore, of these factors, we identify those with the greatest physical and transition impact as a measure for evaluating the potential impact of climate change on the KOSÉ Group. We also analyze the degree of financial impact of risks and opportunities.
+■ Specific Activities
+At the Gunma Factory, one of our main production facilities,
+we switched all of the electricity we purchase to electricity from renewable energy sources from January 2021. Over a full year, this will be equivalent to approximately 23% of the amount of greenhouse gas emissions from energy and purchased electricity at all KOSÉ Group locations, using fiscal 2018 as the base year.
+At KOSÉ SALES CO., LTD., we are promoting car sharing to reduce the number of sales vehicles used. We also conducted a fundamental review of sales operations, and are taking steps to achieve further reductions.
+■ Indicators and Targets
+Based on the results of the scenario analysis, the KOSÉ Group
+realized it was critical to set some bold targets for CO2
+emission reduction in its operations to contribute to keeping the rise in average atmospheric temperatures within 2°C.  Accordingly, we set targets for the reduction of CO2 greenhouse gas emissions as one of the activity themes in the KOSÉ Sustainability Plan, because CO2 is a greenhouse gas that the KOSÉ Group is likely to emit. In March 2021, we revised the reduction target for CO2 emissions from the energy we use and from generation of the electricity we purchase (SCOPE 1 and 2) to 35% from 28%, and set a new target of a 30% reduction for emissions across the value chain (SCOPE 3) (both targets vs. fiscal 2018). Each has been approved as a Science Based Target by the international Science Based Targets initiative.
+The KOSÉ Group is now carrying out ambitious initiatives to curb CO2 emissions with a broad perspective, from our own business activities to the entire value chain.
+We remain dedicated to taking effective action on climate change and a range of other social issues, and thereby help realize a healthy future for the Earth in which everyone can live with peace of mind.
+KOSÉ Gunma Factory
+Breakdown of 2020 Greenhouse Gas Emissions by SCOPE (Kilotons of CO2)
+ Analysis
+Risks/Opportunities
+Effect
+Size of Impact* on KOSÉ
+Summary
+2°C
+4°CTransition RisksShift in consumer demand to
+environmentally friendly products; Decrease decline in reputation due to in sales passive response
+++In the 2°C scenario, a passive environmental response would lead
+— to lower sales of our products as environmental awareness among
+consumers increases.
+In the 2°C scenario, the imposition of a carbon tax, including on
+— suppliers, would lead to increases in our operating and
+procurement costs.
+In the 2°C scenario, stronger plastic regulations would make it
+— necessary to procure biomass plastics and recycled plastics, leading
+to an increase in costs.
+  Stronger restrictions on greenhouse gas emissions; introduction of carbon pricing (affecting KOSÉ and suppliers)
+Increase in costs++Substitution of plastic materials due to introduction of restrictions on plastics
+Increase in costs++
+Production restrictions due to introduction of restrictions on water intake and discharge
+Decrease in sales
++
+++Water stress increases and the introduction of related water intake restrictions in the regions where we operate as a result of climate change, could lead to lost sales opportunities due to suspension of production operations. This impact would likely occur in the 2°C scenario, but we assume it would be even more significant in the 4°C scenario.Physical RisksIncrease in raw material procurement Increase risk due to climate change in costs
++
+++If the global yields of palm oil and other raw materials used in our products and containers change as a result of rising temperatures, our procurement costs could also change.Suspension of factory operations due to damage from floods or other disasters
+Decrease in sales+
+++If increasingly severe natural disasters affect any of our factories, sales of our products could decrease due to temporary shutdowns of factories.Damage to production facilities and supply chain disruptions caused by abnormal weather
+Decrease in sales
+Increase in costs
++
+++If increasingly severe natural disasters affect any of our factories, costs such as repair and rebuilding expenses could arise. If the production bases and inventory storage locations of suppliers are similarly affected by natural disasters, there is a risk that the supply of our products could be interrupted.OpportunitiesIncreased demand for sunscreen and UV protection products due to increasing UV exposure
+Increase in sales+
+++If UV exposure in daily life increases, the number of people who need UV protection products and the frequency of use could increase, resulting in increased sales of those products.Increased demand for cooling
+products and makeup smudging Increase prevention products due to rising in sales temperatures
++
+++In cosmetics-related products such as skin lotion and foundation, if needs for products that provide a cooling sensation and prevent makeup from smudging increase along with rising temperatures, sales of those products could increase.Improvement of brand value due to reduction of the environmental footprint of our products
+Increase in sales++As environmental awareness increases throughout society, our
+— ability to achieve and publicize a reduction in our environmental
+footprint could have a positive effect in marketing.
+An increase in the perceived added value of providing low-carbon
+— and non-plastic products and services could have a positive effect
+on revenue.
+ Development and expansion of products and services with reduced environmental impact
+Increase in sales++Improved cost competitiveness from renewable energy and energy-saving equipment
+Decrease in costs++
++The purchase of renewable energy and introduction of energy- saving equipment would lead to a decrease in our energy costs. In particular, in the 2°C scenario, while electricity prices will be higher than their current level, renewable energy purchase prices will fall, so purchasing renewable energy will provide cost advantages.7
+233
+9
+16
+  57 52 4
+SCOPE 1
+SCOPE 3
+Purchased goods and services
+Capital goods
+Fuel- and energy-related activities not included in SCOPE 1 or 2
+Upstream transportation and distribution
+26 4
+Fiscal 2020 Total Emissions
+693 kilotons of CO2
+330
+ SCOPE 2 (market-based)
+Waste generated in operations
+Business travel
+Employee commuting
+Use of sold products
+End-of-life treatment of sold products
+  * —: minimal impact
++: some impact
+++: substantial impact
+36 KOSÉ REPORT 2021 
+KOSÉ REPORT 2021 37

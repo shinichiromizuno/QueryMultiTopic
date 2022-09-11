@@ -1,0 +1,40 @@
+ ©JAXA
+Efforts to Mitigate Global Warming
+Supplying lithium-ion batteries for the Greenhouse Gases Observing
+Satellite IBUKI-2
+With a view toward measures to counter global warming, high-precision observation data about actual greenhouse gas emissions are crucially important. The IBUKI-2 satellite covers almost the entire earth from space and is able to provide such data. It is equipped with high-performance, high-quality storage batteries from GS Yuasa which are able to withstand the harsh conditions in space, thereby contributing to stable operation of the satellite.Global temperature rises over time (average) (°C)
+0.6
+   0.4 0.2 0.0
+-0.2
+-0.4
+     -0.6
+Source: IPCC, Fifth Assessment Report
+1950 2000
+ 1850 1900
+Changes in carbon dioxide concentrations
+in the entire atmosphere (based on observation data from IBUKI satellite) (ppm)
+410
+ 405 400 395 390 385
+380 2009 2010
+2012 2014 2016 2018
+0.85°C rise 1880–2012
+Total atmospheric average concentration of carbon dioxide by month Estimated average annual concentration
+          Source: Ministry of the Environment, National Institute for Environmental Studies, JAXA, GOSAT Project
+Supporting accurate observation of global greenhouse gases with world-leading technology
+The world is currently facing environmental changes such as weather irregularities and rising sea levels due to global warming, and deforestation and desertification due to human development. With the increase of carbon dioxide and other greenhouse gases, the survival of living organisms themselves is about to be threatened. Furthermore, the occurrence of large-scale disasters threatens society and life.
+By supplying storage batteries for the observation satellite, the GS Yuasa Group will contribute to accurate greenhouse gas measurements on a global scale, which in turn will be useful for devising future countermeasures.
+9.4 By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes, with all countries taking action in accordance with their respective capabilities.
+13.3 Improve education, awareness-raising and human and institutional capacity on climate change mitigation, adaptation, impact reduction and early warning.
+    Efforts to combat climate change with satellites
+Reflecting growing concern over the aggravation of climate change caused by global warming, the Paris Agreement was adopted in 2015 as an international agreement on climate change. Countries around the world are now pursuing initiatives aimed at resolving issues.
+Against this backdrop, the Japan Aerospace Exploration Agency (JAXA), the Ministry of the Environment, and the National Institute for Environmental Studies have jointly developed IBUKI-2 as a greenhouse gas observation technology satellite. It was successfully launched in October 2018 from the Tanegashima Space Center in Japan to monitor global emissions of carbon dioxide, methane, and carbon monoxide, which are greenhouse gases.
+The observation of greenhouse gas emissions from the ground is hampered by the limited number of observation points, as well as different observation methods by country and region, leading to a lack of accurate data. By contrast, observation from space has enabled an increase in observation points by a factor of about 150, allowing precise and uniform monitoring of the entire globe. In addition, combination with ground-based observation data makes climate change predictions more sophisticated and contributes to the accuracy of carbon emission estimations.
+Various countries around the world are now pursuing efforts to develop and launch satellites for observing greenhouse gases, and mutual verification of observation data with IBUKI and IBUKI-2 is also planned. These efforts are expected to
+contribute to achieving the targets of the Paris Agreement.
+The design life of IBUKI-2 is five years. To enable long-term and continuous observation, a compact, lightweight yet high-capacity, high-performance lithium-ion battery was needed, which would have to withstand long-term use in a harsh environment including conditions such as weightlessness and vacuum. GS Yuasa developed the world’s first lithium-ion battery for use in satellites and has the top share on a by-volume basis in this market. Our track record was one of the factors why we were selected as a supplier of lithium-ion batteries for this project.
+Launching a satellite is a very expensive process, and once
+in space, no repairs or replacement are possible in case of a problem. Reliability is therefore a paramount requirement. Our lithium-ion batteries are helping to reduce launching costs and contribute to a drastically prolonged service life.
+Ever since we developed our first lithium-ion battery in the 1990s, we have continued to strive for further performance enhancements. Lithium-ion batteries currently under development for satellite applications will feature an even higher energy density and enable longer operation in space.
+We will continue to deliver the highest-performance, highest-quality batteries that are designed to meet the needs of their respective application environment, ranging from everyday life to extreme conditions on the cutting edge of exploration.
+17 GS YUASA Report 2019
+GS YUASA Report 2019 18

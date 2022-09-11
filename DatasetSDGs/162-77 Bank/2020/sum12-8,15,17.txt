@@ -1,0 +1,85 @@
+■ Automating and Streamlining Branch Office Operations with Digital Technologies
+We are creating more time to focus on consulting by consolidating the remaining administrative work at the branches to the headquarters and automating it through the use of RPA and other digital technologies.
+〈Case Study〉
+Credit rating operations in the financing business, etc.
+■ Realization of a Cashless Society
+Cashless payments are spreading around the world. The central government’s goal is to increase the domestic cashless payment ratio from the current 25% to 80% in the future in order to improve payment efficiency and attract inbound tourism consumption.
+In order to enhance customer convenience through cashless transactions, we support debit cards as well as a wide variety of smartphone-based cashless-payment services provided by external companies.
+■ Expansion of Non-face-to-face Channels
+The Bank is making efforts to expand its non-face-to-face channels, such as the 77 Bank App.Branch Branch
+work
+work work
+Headquarters
+ Branch Branch
+Consolidating operations
+work
+ work
+〈Compression〉 Digital workImproved efficiency ● Utilization of AI-OCR (converting written text on forms into data) through digitization ● Utilization of RPA (automation of registration work)▶ 77 Bank App
+App that enables retail customers to use various services whenever they want without visiting a teller, including viewing balances, or having fun saving for preset goals like buying a car or going on a trip.
+  Balance, deposit, and withdrawal details
+You can check your account balance and deposit/withdrawal details in real time.
+Coupon
+We will send out special coupons.
+     Transfers and other transactions (Internet Banking)
+Customers can log into their Internet banking account to make transfers and other transactions.*
+ Lifetime Passbook by Moneytree
+By linking up to Moneytree, a personal-asset-management app, users can manage their bank, securities, credit card and point services balances and so forth all in one place.*
+* To use this service, users must sign up for the 77 Direct Service and register on first use.
+▶ 77 BANK PayB
+App that enables payments to be made anytime, anywhere without going to an ATM or convenience store, as long as you have a smartphone and payment handling slip.
+▶ 77 Bank app account opening
+App that enables a user to apply to open an ordinary deposit account or investment trust trading account from the comfort of their home, etc. at any time without visiting a teller.
+口座開設
+The 77 Bank Website
+for Our Customers’ Employees 77 Web Relations
+We are constantly updating this site with exclusive information, such as about campaigns and products that are available only to employees of our customer companies.
+    Deposit by Purpose
+Clients can set a target amount and deadline for saving for each purpose, such as purchasing a car or taking a trip.
+Links to Other Companies’ Websites
+77 Bank app can provide links to other companies’ websites in order to enhance convenience by providing local information and convenient information from other companies' services, and the list of links is expanding.
+         Rakuten Edy
+LINE Pay
+PayPay
+pring
+merpay
+docomo Kouza
+J‐Coin Pay
+Bank Pay
+77 JCB Debit■ Collaboration with 77 Card
+MORI-NO-MIYAKO CASHLESS TOWN initiative of Sendai’s Central Shopping District is aimed at making the
+district the most convenient place to shop in Japan.
+With the aim of further promoting the use of cashless payments, The 77 Bank, together with 77 Card, is working with the Sendai City and other organizations to revitalize shopping areas. We aim to increase sales at local stores by utilizing the data obtained from the spread of cashless payments.
+Using data to help improve the business environmentSupport Collaboration
+Collaboration
+    Promote of cashless payments Operation of a bulk duty-free counter
+Campaign announcement
+Payment terminal deployment
+Installation of contracted terminals
+Central shopping districtSendai City Central Shopping District Revitalization Council
+  "Future Vision"To increase store sales by utilizing the obtained data
+    Internet Insurance
+Internet insurance is an insurance product that can be completed from application to contract via smartphone. One can also use the Insurance Robot Advisor
+for detailed
+simulations.
+100% Web based Loans
+Insurance Review Simulation
+With nine questions, customers can get a solid quote and automatically calculate their premiums.
+WEB Passbook
+WEB Passbook is an environmentally friendly and convenient service that allows users to inquire about their balance, deposits, and withdrawals
+without providing a paper passbook. Users can
+check transactions from
+the past 13 months.
+IB Investment Trust
+The fees are more reasonable than over the counter. Users can also set goals with the email function.
+Investment Trust Information Distribution Service
+You will receive information about funds (NAV, distributions and so forth), stock market information and recommendations from
+us according to your
+settings.
+   100% Web based loans are a loan product that can be completed from application to contract via smartphone.
+〈Lineup〉
+●77 Car Loan ●77 Wide Loan ●77 Educational Loan
+●77 Card Loan
+●77 multi-purpose Loan
+  77 Card issues credit cards for retail and corporate customers and is also engaged in the card loan guarantee business. In addition, 77 Card Co., Ltd. the company is working together with goverment agencies to support the introduction of cashless terminals to promote the further
+37 THE 77 BANK INTEGRATED REPORT
+THE 77 BANK INTEGRATED REPORT 38

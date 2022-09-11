@@ -1,0 +1,108 @@
+ Environment
+- Achieve Environmental Sustainability -
+As the world takes a major step toward decarbonization, the Group, which operates in 26 countries and regions around the world, recognizes the importance of taking responsibility for the impact of our business activities on the global environment and taking measures to reduce them. We will promote initiatives to reduce our global environmental impact such as decarbonization, water resource conservation, and waste reduction in all aspects of our business activities. We will also promote scenario analysis of climate change risks and opportunities based on TCFD recommendations, which will lead to increased corporate value over the medium and long term.
+     ESG Materiality
+Implemented Measures
+Targets and Issues
+Initiatives for a decarbonized societyPublication of CO2 reduction targetsEndorsement of TCFD recommendations and disclosure of informationWater Resources Conservation
+Efficient water use
+Establishment and disclosure of water use targets (KPI)Waste ReductionContinued thorough separation of waste and improvement of painting equipmentConsideration of methods to reduce the increasing amount of sludge and wood wasteEnvironmental initiatives
+https://www.sanwa-hldgs.co.jp/english/csr/effort/environment/
+  Environmental targets and achievements of Sanwa Shutter Corporation
+Waste reduction
+Trends in waste emissions of Sanwa Shutter Corporation
+(Tons)
+Offices Factories
+FY2018 FY2019 FY2020
+* For offices, includes only industrial waste
+The Group strives to reduce its environmental impact by reducing waste emissions and promoting recycling in all business processes in order to make effective use of limited global resources and realize a recycling-oriented society. We believe that efforts to reduce waste will lead to more efficient use of raw materials and energy resources, as well as contribute to cost reduction and energy and greenhouse- gas reductions during disposal.
+ [2030 targets]
+30% reduction in Scope 1 + Scope 2 CO2 emissions compared with FY2020
+ 2,121
+2,061
+2,145
+4,854
+ Theme
+Environmental targets for FY2020
+Reduce logistics energy consumption units*1 by 2% compared with fiscal 2018
+Commercialize eco-products
+Study and research eco-products
+Commercialize eco-friendly design products
+Promote green procurement
+FY2020 Results
+0.0512 (Target 0.0513)
+Four themes (target: three or more themes)
+Four themes (target: four or more themes)
+Ten themes (target: ten or more themes)
+Switch to 4M*5 in six projects (target: four or more projects)
+FY2021 Targets
+0.0507 0.0235 0.1135 22.75 34.77
+Three or more themes
+Four or more themes
+Ten or more themes
+Four or more projects
+    Factories
+       Reduce
+Factories
+0.1197 (Target 0.1146)
+Factories
+4,426 4,576
+         Reduce industrial waste units*3 by 3% compared with fiscal 2017
+Offices
+24.34 (Target 22.99)
+Offices
+          Reduce waste units*4 by 2% compared with fiscal 2018
+Factories
+38.25 (Target 35.14)
+Factories
+               Create
+          Purchase
+  *1 Amount of energy used (crude oil kl equivalent) / value of goods shipped (¥ million) *2 Offices: Amount of energy used (crude oil kl equivalent) / total floor area (m2) Factories: Amount of energy used (crude oil kl equivalent) / value of goods
+shipped (¥ million)
+*3 Amount of industrial waste (kg) / net sales (¥ million)
+*4 Amount of waste (kg) / value of goods shipped (¥ million) *5 Man, Machine, Method, Material
+40 SANWA HOLDINGS CORPORATION
+INTEGRATED REPORT 2021
+Factories
+      Reduce facility energy consumption units*2 by 2% compared with fiscal 2018
+Offices
+0.0238 (Target 0.0237)
+Offices
+  
+A History of Value CreationStrategies for Securing Competitive AdvantageESG Materiality InitiativesFinancial Section and Corporate DataManufacturingEnvironmentPeopleManagement Foundation of the GroupInitiatives for a decarbonized society
+Trends in emissions by scope at Sanwa Shutter Corporation
+improve efficiency by establishing and operating an environmental management system based on ISO 14001 to reduce greenhouse gas emissions in its business activities.
+In the NF Group, the Riexinger Plant in Germany, the NF Door Plant in Poland, the Robust Plant in Sweden, and the sales company Vertriebs in Germany have acquired the ISO 14001 certification and are working to reduce energy consumption. In 2020, the Riexinger Plant switched all of its lighting to LED. This is expected to result in an annual reduction of approximately 520 tons of CO2.
+(t-CO2) Scope 1
+Scope 2 12,629
+14,335 10,466
+FY2018
+*Calculated based on the amount of fuel used for the transportation by shippers (part of Category 4: Transportation/Logistics (Upstream))
+Our environment has changed dramatically, and the movement toward a decarbonized society is accelerating, in response to the Paris Agreement in December 2015 and the 2050 Declaration on Carbon Neutrality announced by the Japanese government in October 2020. As a manufacturer with 63 production sites around the world, the Group is working to reduce energy consumption and
+Water resources conservation
+Breakdown(63 locations) of water risk assessment for
+manufacturing bases
+(FY2020) High
+(4 locations)
+Scope 3 Category 4
+ 12,385
+12,830 10,714
+11,715 12,185 10,240
+ FY2019
+FY2020
+   Before the switch to LED lighting
+After the switch to LED lighting Low
+(21 locations)
+Medium-High
+(6 locations)
+Low-Medium
+(32 locations)
+and reusing water. Further, we work to comply with all local laws and regulations on wastewater quality control.
+Due to the nature of our production activities, in which we mainly cut, form and assemble metal parts, our water consumption may be regarded as low in light of our production volume. However, some processes, such as painting, require the use of a certain amount of water. Sanwa Shutter Corporation’s plants are striving to reduce water consumption through the effective use of water circulation systems for painting equipment and chillers that circulate chilled tank water, as well as the integration of piping.
+CLOSE-UP
+JAPAN
+   Due to global climate change and the growing demand for water as a result of rapid population growth, the depletion of water resources and shortages are becoming serious issues for society. As the Group is continually growing globally, we recognize the importance of the preservation and effective use of water resources. For this reason, we are taking the initiative to help preserve these resources. We are working to decrease the volume of water consumed at every production base by strengthening the management of water use, improving production processes,
+Since 2012, the Sanwa Group Social Contribution Club, a volunteer organization for officers and employees that engages in donation activities, has been making ongoing donations to JEAN, a general incorporated association that
+works on initiatives to solve the issues of marine debris through litter collection campaigns, surveys of residents, and public awareness raising through performances and workshops.
+ SANWA HOLDINGS CORPORATION
+INTEGRATED REPORT 2021 41

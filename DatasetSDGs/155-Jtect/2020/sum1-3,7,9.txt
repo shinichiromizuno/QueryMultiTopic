@@ -1,0 +1,213 @@
+Review of Operations
+ Steering BusinessAxial force (kN)
+Segment
+4
+5
+A
+6
+7
+B
+8
+9
+C
+10
+11
+D
+12
+13
+E
+14
+SU
+15
+F V/PICK-U
+P
+16
+Vehicle posture control / Optimal cornering
+ration
+~2030
+Ideal
+Reaction force unit
+Driving force Braking force distribution distribution
+Toyota Group coope
+~2018
+Technology internalization
+Strengthen JTEKT Group foundation
+Chassis area
+    ~2024
+     17
+  System
+C-EPS
+P/DP-EPS
+ H-EPS/HPS
+C-EPS
+DP-EPS
+ RP-EPS
+RP-EPS
+ H-EPS*6/HPS*7
+SHAPING A BETTER FUTURE
+  Business Overview
+Contributes to safety, the environment and improved convenience through the provision of steering systems, which assume the basic vehicle function of “turning.” With a main product lineup including column assist-type EPS*1 and rack assist-type EPS*2 able to provide EPS for a variety of automobiles, from passenger cars to large commercial vehicles, this is one of JTEKT’s flagship businesses with No. 1 global share.
+*1 EPS where the motor responsible for the assist is attached to the column
+*2 EPS where the motor responsible for the assist is attached around the steering rack
+Business Environment
+Rapid progress of technological innovations represented by CASE*3, including autonomous driving and vehicle electrification
+Global-scale projects and increasingly sophisticated customer demands
+Sluggish growth in automobile market due to sudden economic slowdown
+Intensifying price competition
+*3 Acronym that stands for Connected, Autonomous, Shared, and Electric. This implies the importance of mobility services across industries as well as physical changes to automobiles in terms of components.
+Steering Business Strengths
+Net sales and operating income ratio
+Fiscal 2019 Review and Business Strategy for Fiscal 2020
+(Billions of yen) 800
+600 400 200
+In fiscal 2019, sales and profit declined compared to the previous fiscal year because of sluggish growth in the automobile market caused by the sudden economic slowdown and intensifying market competition. At the same time, R&D expenses increased due to expanded investment in the switch to rack assist-type EPS, development efforts in new areas and CASE compliance.
+In fiscal 2020, we will focus on profit and work to build a robust structure that can withstand changes in the market and operating environment. Additionally, as the No. 1 steering system supplier, we will further enhance our competitiveness and make the leap from steering system supplier to a supplier able to contribute to chassis functionality, striving to evolve from a business that provides products to a provider of value.
+Driveline area Driveline
+Steering
+Brake
+Suspension
+Net sales
+Operating income ratio
+(%) 10
+5
+JTEKT applies technologies cultivated in electric power steering (EPS) to contribute to the realization of a safer and more comfortable car society and autonomous driving.
+Solutions for social issues
+(from the perspective of the SDGs)
+        00
+Vehicle dynamics
+Component system technology
+Unit element technology
+  ’17 ’18
+Customer Demands
+’19
+(FY )
+High quality, high performance, low cost (service maximization)
+System proposals from vehicle perspective Provision of advanced systems (technologies and products realizing autonomous driving)
+Runs smoothly by reading off the magnetic marker information on the dedicated road and specifying the position of the vehicle (co-development with Advanced Smart Mobility Co., Ltd.)
+Lane Keep Control
+—Autonomous Bus Demonstration Test—
+Magnetic marker
+Realizing safety, security, comfort and convenience at a high level by fusing human and vehicles
+Steering unit
+Steer-by-wire*8
+ Issues and Responses
+*8 A mechanism that transmits the rotation of the steering wheel to the tire electronically rather than mechanically
+  One out of every four cars in the world is equipped with JTEKT steering Developing global business for Japanese customers as well as European customers
+Column assist-type EPS (C-EPS), dual pinion-type EPS (DP-EPS)*4, and rack parallel-type EPS (RP-EPS)*5 in the main product lineup, which can provide EPS to all passenger cars
+Sales Development Production Make efficient, Mutual complement
+2 m 2m
+1. Improving profitability by strengthening project planning and management.
+We promoted the development of each project by dividing roles for each function, from planning to mass production, which limited the collaboration across functional boundaries. In response to this issue, we will build a system that allows us to manage projects, from initial planning to order receipt and mass production in a single process, to improve both the quality of service we provide our customers and profitability.
+2. Building an optimal business structure to improve competitiveness
+Amid drastic changes that happen once in a century, JTEKT’s ability to deepen the global collaboration required to maintain our competitive advantage as the No. 1 supplier in steering has been an issue. In response, we will respond swiftly to market demands, rethink our new business structure, leverage the strengths of each Group company and build optimal production systems in competitive areas and manufacturing sites to improve our competitiveness.
+                  No. 1 share
+Utilizing these three strengths, JTEKT will contribute to the realization of a car-oriented society where everyone
+Group companies
+Sales
+Development
+Production
+            *4 EPS with two pinion shafts and assist motor mounted around the rack bar
+*5 EPS with assist motor attached parallel to the rack bar
+*6 Electro-hydraulic power steering: Steering mechanism using a motor to drive a pump that assists hydraulically *7 Hydraulic power steering: Steering mechanism that uses the engine to operate a pump that assists hydraulically
+Wide customer
+can move safely, securely,
+Abundant lineup
+Making the Leap from Steering System Supplier to a Supplier Able to Contribute to Chassis Functionality
+Steering share Fiscal 2019
+base and comfortably
+To succeed in the automobile industry, which is said to be undergoing a once-in-a-century period of changes, JTEKT believes that it will not survive by simply providing steering systems as in the past. Leveraging the strengths and experience that earned us a No. 1 global market share, we will expand our approach to focus on the chassis domain, transforming from a business that provides products to one that provides value, evolving into a business that customers need more than ever before.
+   (%) 0
+JTEKT
+Company A Company B Company C
+10 20
+30
+   27%
+ Hirofumi Matsuoka
+Chief of Steering Systems Business Unit
+  Column assist-type EPS
+Dual pinion-type EPS
+Rack parallel-type EPS
+ 33 * C-EPS, P-EPS, RP-EPS, and H-EPS are registered trademarks of JTEKT Corporation.
+34
+Review of OperationsSHAPING A BETTER FUTURE
+ Driveline Business
+      Creating New Added Value
+Autonomous driving
+Natural behavior Low noise
+Provide Solutions
+Realize driving demanded for mobility
+Enhance driveline systems
+Low vibration Electrification Lightweight
+   Stopping
+Turning
+Provide high-performance driveline units
+High-efficiency Compact
+    Driving
+Sensing (road surface information)
+   Advance cultivated skills and techniques to refine productsITCC integrated differential Driveline system
+   Development of New TORSEN “Type D”
+Development Concept
+Providing compact, low-priced LSD*8 for EVs and FF passenger cars, contributing to improved safety, security, and driving performance
+*8 Limited Slip Differential: A driveline device that optimally distributes the torque of the left and right or front and rear axles when the vehicle turns
+TORSEN Type-D
+ITCC and Differential*9 Modularization Development
+Development Concept
+Compact, lightweight and low-cost modularized 4WD unit meeting customer expectations.
+*9 Mechanism that absorbs the rotational difference between the left and right wheels to make smooth turns
+    Business Overview
+Providing driveline products*1 for vehicles, torque control devices (TCDs)*2, hydraulic systems*3 and valve units for fuel cell vehicles (FCVs), etc., related to the basic vehicle function of “driving.”
+*1 Drive shafts, propeller shafts and other products that deliver driving force
+*2 TORSEN, ITCC and other mechanisms that distribute front, rear, left and right driving force *3 Electric oil pumps, mechanical oil pumps, FC valves and other products
+Business Environment
+Changes in product composition due to acceleration of vehicle electrification and autonomous driving Slowdown of growth in emerging markets and intensifying market competition
+Competitor mergers, accelerating alliance revisions
+Driveline Business Strengths
+Net sales and operating income ratio
+Fiscal 2019 Review and Business Strategy for Fiscal 2020
+*5 Intelligent Torque Controlled Coupling: A mechanism that detects the difference between front and rear wheel rotation and achieves optimal front and rear wheel torque distribution by electronic control
+*6 A type of limited slip differential (LSD) driveline device that optimally distributes the torque of the left and right or
+STEP 3
+Vehicle behavior control
+4WD
+Driveline
+front and rear axles when the vehicle turns.
+STEP 1
+Individual unit response
+STEP 2
+Modularization (compact, light and low-cost) Driveline system-optimized proposals
+Net sales
+Operating income ratio
+(%) 10
+5
+Through the energy-saving, improved travelling safety, and other benefits provided by our driveline parts, we will contribute to the creation of a safer and more secure society. We will also contribute to the enjoyment of driving through vehicle torque control.
+Solutions for social issues
+(from the perspective of the SDGs)
+ (Billions of yen) 200
+150 100 50
+In fiscal 2019, sales increased but profits declined compared to the previous fiscal year due to a slowdown in emerging markets, the impact of the COVID-19 pandemic, intensifying market competition and higher expenses associated with the development of next-generation products.
+In fiscal 2020, we will establish solid traction, placing a higher priority than ever on profits. At the same time, we will bolster our business foundation to make the leap forward as a system supplier.
+      Wide lineup: Product lineup includes driveline, hydraulic systems and TCD
+4WD control technology: 4WD control making full use of “No. 1” product ITCC*5 and “Only One” product TORSEN*6 Provides comprehensive vehicle driveline system solutions
+00
+Issues and Responses
+Improving Competitiveness with Thorough Cost-Reductions and a Stronger Business Foundation
+ ’17 ’18 ’19
+Customer Demands
+Provision of high-quality, low-cost products Driveline system through product proposals (especially in conventional areas) for customers shifting resources to CASE*4
+(FY )
+*4 Acronym that stands for Connected, Autonomous, Shared, and Electric. This implies the importance of mobility services across industries as well as physical changes to automobiles in terms of components.
+Amid a rapidly changing competitive environment characterized by competition with mega suppliers, market entry by companies in different industries and corporate restructuring driven by competition, JTEKT must thoroughly increase it competitive advantage. To meet this expectation,
+realizing increased efficiency and a stronger structure are challenges. In response, we will promote thorough improvements in efficiency utilizing the TPS*10 and aim to become a professional driveline organization.
+*10 Toyota Production System
+   JTEKT (ITCC) +
+Yutaka Seimitsu (differential)
+Propeller shaft*7
+      4WD system Drive shaft
+    *7 Shaft that transmits the driving force of the engine to the rear axle in 4WD vehicles and FR vehicles
+Promoting accumulation of technology and knowledge to become a supplier able to propose units or modules based on an understanding the behavior of the entire vehicle
+In an aim to improve vehicle performance, JTEKT will provide optimal driveline system proposals to facilitate solutions for safe, secure and comfortable automobiles.
+At present, we are experiencing what is said to be a once-in-a-century period of transformation, with the automobile manufacturers comprising our customer base allocating a massive amount of resources to CASE compliance. Given these conditions, JTEKT believes we can contribute to society through automobile advances enabling us to meet expectations as a true partner to our customers through proposals for products involved with automobile driving functions responsible for total systems.
+Takumi Matsumoto
+Chief of Driveline Systems Business Unit
+ 35
+36

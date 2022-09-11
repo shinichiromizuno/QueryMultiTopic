@@ -1,0 +1,668 @@
+Environmental Performance
+Reducing Energy Use and CO2 Emissions
+Regarding energy usage at our business sites in Japan, our per production amount value rose slightly due to the decrease in production. As for CO2 emissions, both emissions and per production amount value are on a downward trajectory, but we expect that our emissions will increase slightly in 2020 due to the recovery of production and the emissions coefficient of our energy suppliers.
+At our overseas business sites, both our energy consumption and CO2 emissions declined from the previous year, but our per production amount value increased due to the decrease in production. As we expect production to recover in 2020 we anticipate that our energy consumption will increase, but we anticipate reductions in CO2 based on our efforts to achieve this.
+▶ Energy usage per production amount value*1
+Disclosure of Scope 3*3 Data
+In 2015, our Group began calculating and disclosing Scope 3 emissions in the supply chain of business sites belonging to Group companies in Japan because of the growing importance of understanding CO2 emissions covering the entire supply chain. In fiscal 2018, we enlarged the scope to cover overseas business sites. The scope of said disclosures cover a total of eight categories including Category 1 “Purchased goods and services.” In addition, we confirmed that three categories including Category 8 “Upstream leased assets” are not applicable.
+Similar to past years, Category 1 “Purchased goods and services” accounted for a large portion of CO2 emissions, and this includes the portion from overseas. However, emissions have been declining since fiscal 2018 due to the drop in purchase volumes, primarily at overseas business sites. Moving forward, we will continue to calculate and disclose data on other categories and work to increase the accuracy of the data for each category, while also promoting ongoing efforts to reduce CO2 emissions across the entire supply chain. *3 See the glossary on page 108.
+▶ CO Emissions in Certain Categories of Scope 3 and Other 2
+Scopes (In Japan and Oversea Sites)
+       (thousand kL) (kL/million yen)
+(thousand kL) (kL/million yen) (thousand kL) (kL/million yen) 8(t0housan7d4kL) (kL1/m.0il0lionyen)
+80 74 1.00
+ 80 74 1.00 80 74 1.00
+ 60 60
+0.75
+ 60 60
+44 0.75
+40 0.65 40 0.65 40 0.65 40 0.65
+0.55 0.55
+42 41
+42 41 0.50
+0.75 44 42 42 41 0.75
+44 44
+42
+42
+42 42 41 0.50
+  20 20
+0.50 0.50
+0.51 0.51
+0.25 0.25
+0.55
+0.50 0.50
+0.51 0.51
+0.50 0.50
+ 20 20
+0.25 0.25
+0 0
+0.00 0.00
+0
+0 2005
+2017 2017
+2018 2018
+2019 2019
+(fis0c.a0l0year) 2020 0.00
+  2005 2005 2005
+2020 (fiscal year)No.CategoryEmissions (thousand t-CO2 / year)1Purchased goods and services8932Capital goods303
+Fuel- and energy-related activities not included in Scope 1&2
+384Upstream transportation and distribution765Waste generated in operations96
+Business travel
+37Employee commuting48Upstream leased assetsNot applicable13Downstream leased assetsNot applicable14FranchisesNot applicable15Investments6Scope 3 Total
+1,059Scope 1 (All direct emissions)81Scope 2 (Indirect emissions associated with purchased power and steam)13115(t0housa1n3d 8t-CO2)
+150
+138 138 138
+150 150
+2017 2017
+2018 2018
+2019 2019
+(plan) (fiscal year) 2020
+2(p0la2n0) (fiscal year)
+▶ CO2 emissions per production amount value*2
+(plan) (plan)(thousand t-CO2) (thousand t-CO2) (thousand t-CO2)
+(t/million yen) (t/million yen) (t/million yen) (t/million yen)  100 100
+84 84
+1.2 83 75 79 1.2 83 75 79 1.2 83 75 79 1.2
+100 100
+84
+83 0.99
+1.21 84
+75 79 0.92
+ 50 50
+0.99 1.04 0.99 0.99
+0.6 0.6
+0
+0
+0.0 0.0
+0 0
+2019
+2020
+(fis0c.a0l year) 0.0
+1.21 1.04
+ 1.21
+1.21 1.04
+1.04
+2005 2017 2018
+(thousand kL)
+(thousand kL)
+(thousand kL) 8(t0housand kL) 72
+0.92
+0.92
+0.92 0.6
+50 50
+0.6
+   2005 2017 2018 2005 2017 2018 2005 2017 2018
+2019
+2020
+(fiscal year) (fiscal year) (fiscal year)
+▶ Energy usage per production amount value
+2019 2019
+(plan) 2020 2(p0la2n0)
+(plan) (plan)
+ 80 72
+68 69 1.00 69 1.00 68 1.00
+80
+60 60
+71 71
+(kL/million yen) (kL/million yen) (kL/million yen) (kL1/m.0il0lion yen)
+ 60
+72
+0.75 0.75
+80 72
+71 71
+68 69
+68 69 0.75
+  0.68 0.75 400.66620.680.50
+120 120
+1.5
+60 0.66
+0.62 0.68
+0.50 0.50 0.50
+ 0.
+ 40 40 40
+0.66 0.66
+0.68 2018 2019
+ 20
+0.62 0.6
+0.25
+20 20 20
+0.25 0.25 0.25
+* Data covers all the business sites in Japan and Oversea listed on page 3.
+Calculation method:
+We calculated the amount of emissions in accordance with the Basic Guidelines on Accounting for Greenhouse Gas Emissions Throughout the Supply Chain Ver. 3 issued by the Ministry of the Environment and the Ministry of Economy, Trade and Industry of Japan, using the emission coefficient stated in the basic database IDEA Ver. 2.3 Carbon Footprint Communication Program developed jointly by the National Institute of Advanced Industrial Science and Technology and the Japan Environmental Management Association for Industry as well as the Emissions Intensity Database for Calculating Greenhouse Gas Emissions of Organizations through the Supply Chain
+*1 Energy usage per production amount value is determined using the following equation:
+Energy usage per production amount value = energy usage/(production amount x unit price) Energy consumption is calculated as a crude oil equivalent.
+*2 CO emissions per production amount value are determined using the following equation: 2
+CO2 emissions per production amount value = CO2 emissions/(production amount x unit price) Also, CO2 emissions are the sum of Scope 1 and Scope 2 emissions.
+See the business sites listed on page 3 about the boundary.
+ 0
+0.00
+0
+0
+0 2005
+0.00
+  2005 2005 2005
+2017 2017 2017
+2018 2019 2018 2019 2018 2019
+2020
+(fiscal year) (fiscal year) (fiscal year)
+2017
+(fis0c.a0l0year) 2020 0.00
+▶ C(thOou2saenmd t-iCsOsi)ons per production amount value(t/million yen)
+2 (thousand t-CO2)
+(t/million yen) 153 (t/million yen)
+(thousand t-CO2) 16(t0housand t-CO2)
+153 153 153
+150 (t2/m.0illion yen)
+160
+150 137 136 2.0 150 2.0 150 137 136 2.0
+160 160
+137 137
+136
+136 1.5
+(plan)
+2020 2(p0la2n0) (plan) (plan)
+  120 120
+1.41 1.41
+1.31 1.31
+1.36 1.36
+1.5 1.5
+ 80 80
+1.41 1.41
+1.31 1.31
+1.36 1.36
+1.0 1.0
+ 80 80
+1.0 1.0
+ 40 40
+0.5 0.5
+40 40
+0.5 0.5
+ 0
+0
+0.0 0.0
+0
+0200520171819 0.0
+20
+2
+ 20
+2005 2017 2018 2019 2020 (fiscal year)
+*
+20
+20
+(fis0c.a0l year)
+  Sumitomo Bakelite Co., Ltd. Integrated Report 2020
+47
+2005 2017 2018 2019 2020 2005 2017 2018 2019 2(p0la2n0) (plan)
+(fiscal year)
+(plan) (fiscal year)
+(plan)
+Business sites in Japan Business sites overseas
+            2015 2016 2017 2018
+2019 (fiscal year)
+2015 2016 2017 2018
+2019 (fiscal year)
+2015 2016 2017
+2018 2019 (fiscal year)
+6
+Compared to fiscal 2005
+Compared to fis t
+15 11
+2
+a
+ Message from the President
+ Value Creation
+ Business Strategy
+ 200 1 Environment
+150 100
+ 3
+33% redu
+150 So1ci3a7l 136
+ ction
+110
+35 29
+Governance
+30
+25 20
+ 60% reduc
+Data
+13
+12
+(thousa(tnhdout-sC(atOnhdo2)ut-sCaOnd2)t-CO2) (thousa(tnhdout)s(atnhdout)sand t)
+50 (t) (t) (t) 10
+163
+(t) (t) (t) 46 46 46
+300 278 250
+200
+150
+ComCpaormedCpoatormefdpisatcroaelfdi2st0co0a5lfi2s0ca0l52005
+ComCpaormedCpoatormefdpisatcroaelfdi2st0co0a5lfi2s0ca0l52005
+50% 5re0d%u5cret0id%ouncretidounction 600 0
+ComCpaormedCpoatormefdpisatcroaelfdi2st0co0a5lfi2s0ca0l52005
+85% 8re5d%u8cret5id%ouncretidounction
+160 160 160 46% 4re6d%u4cret6id%ouncretidounction 138 138 138
+40 40 40
+2005200250210802501280210912801290201290202302(0f0is3c0al2y(f0eis3acr0a) l (yfeisacra) l year2) 005200250210802501280210912801290201290202302(0f0is3c0al2y(f0eis3acr0a) l (yfeisacra) l year2) 005200250210802501280210912801290201290202302(0f0is3c0al2y(f0eis3acr0a) l (yfeisacra) l year) ■ Vaupellグループの
+20 20 20 80 80 80 75 75797579757975 75 15 15 15
+2005
+14141414141414 14
+10 10 10 300 300 300
+2030 (fiscal year) Target
+2005
+2018 2019 Result
+2020 Plan T
+120 120 120
+2018 2019 2020
+Reducing Material Loss
+450 450 450
+14
+Our group is working to increase th5e e5ffici5ency of resource
+83 83 83
+Result Plan
+150 137 136 ▶ NOx Emission
+30 25
+110
+45 45 45 37 37 37 3 39393939 39 5
+25
+25 25
+600 600
+0
+21 21 21
+512 512 512
+10 10 10
+173 173 173
+120 120101620106 106
+000 000 000
+utilization, because it regards the reduction of environmental onward. We intend to continue promoting further reductions
+impactsRaesuaRltnesouPRlpltaepnsouPrlltTataunrngPeiltTatyanrgteoTtairmgeptrove profitability. TRherosuRltgehsuPoRltauensruPlltTaanrgPelTatanrgtehTtraorguegth analysis of lossesReinsuRolteusruPpRltaernosucPleltTaasnrsgPelTatsanrugesTtianrgetMFCA. 影響による見直し分
+efforts toward material flow cost accounting (MFCA*1 ), we are promoting the improvement of effective use of raw materials
+*1 See the glossary on page 108.
+ComCpaormedCpoatormefdpisatcroaelfdi2st0co0a5lfi2s0ca0l52005 ComCpaormedCpoatormefdpisatcroaelfdi2st0co0a▶5lfi2s0cMa0l5a2t0e0r5ial Subject to ZerCoomEmCpaoirsmesdCpioatormnesfdpisaMtcroaeelfdi2ast0cso1au0lfri2se0csa1l0in20J1a0pan
+(thousa(tnhdout-sC(atOnhdo2)ut-sCaOnd2)t-CO2) (thousa(tnhdout)s(atnhdout)sand t) (t) (t) (t)
+by reducing material loss, including not only waste but also
+200 200 200 33% 3re3d%u3cret3id%ouncretidounction 35 35 35 60% 6re0d%u6cret0id%ouncretidounction
+350 350 350
+60%6re0d%u6cret0id%ouncretidounction
+163 163 163 29 29 29 val1u5a0b1le50re1s5o0urces. 30 30 30
+278 278 278 300 300■ 30402
+■ External incineration
+150 150 150
+expectation is that this will gradually d7e7cli7n7e f7ro7m fiscal 2020
+5
+ 137 137131637136 136
+(t) 1000
+150 150 150
+The Group is implementing measure2s0 to20att2a0in zero emissions
+250 250■ 2150 948
+■ Internal incineration
+110 110 110
+25 25 25
+200 200■26005 150 150 150 100100100
+137 137 13■7 Landfill 132 132 132
+ 100 100 100
+13 13 13
+12 1211211121112 12
+112 11211012110 110
+15 15 15
+of waste in Japan by promoting recycling and reuse instead 750
+50 50 50 10 10 10
+5 5 5 50 50■520 ■6
+■12
+of disposing of waste in landfills or treating it in simple ■0 ■0
+0 0 0 0 0 0 500 0 0■00 ■0
+2 0 0 5 2 i n 0 0 c 2 5 i 0 n 2 1 0 e 8 0 r 2 5 a 0 t 1 2 o 8 0 2 r 1 s 0 9 1 2 w8 0 1 2 i t 9 0 h 2 2 0 o 0 1 u 2 9 0 t 2 2 h 0 0 2 e 3 0 0 a 2 2 t ( 0 f 0 i s 3 r c e 0 a l 2 c y ( f 0 e o i s 3 a c v r 0 a ) e l ( y f r e i s y a c r a ) i l n y e a a r 2 ) n 0 0 e 5 f 2 f 0 o 0 2 r 5 0 t 2 1 0 t 8 o 0 2 5 0 r 1 2 e 8 0 d 2 1 0 u 9 1 c 2 8 0 e 1 2 9 t 0 2 h 2 0 e 0 1 2 9 0 2 2 0 0 2 3 0 0 2 2 ( 0 f 0 i s 3 c 0 a l 2 y ( f 0 e i s 3 a c r 0 a ) l ( y f e i s a c r a ) l y e a r 2 ) 0 1 ■0 2 5 0 6 1 2 0 0 2 1 0 8 1 2 ■0 0 1 2 5 8 0 5 2 1 0 9 1 2 8 0 1 2 9 0 2 1 0 9 1 2 9 0 1 2 9 0 2 3 0 0 1 2 ( 9 f 0 i s 3 c 0 a l 2 y ( f 0 e i s 3 a c r 0 a ) l ( y f e i s a c r a ) l y e a r )
+■10
+  ResuRlt esuPRltaensuPlltTaanrgPelTatanrgeTtarget ResuRlt esuPRltaensuPlltTaanrgPelTatanrgeTta2r5g0et environmental impact of our waste.
+■ 103 ■ 94
+ResuRlt esuPRltaensuPlltTaanrgPelTatanrgeTtarget
+The graph shows the volume of materials subject to zero emissions measures for the base year of fiscal 2005 and
+■ Va■upVela■luグpVルeallーuグpプルeのllーグプルのープの
+recent years. Owing to the circumstances with our treatment
+0
+58 61
+2017 2018 2019
+(thousand(t)t-CO(2t))
+Compared to fiscal 2005
+(t)
+Compared to fiscal 2005
+(t) 15
+■ Ext■ernEaxl■teinrEncxiantleinrnactaiinoleinractinioenration (t) ■342■342■342 (thousandt)
+(th
+8
+6 10 4
+2
+(th
+15 10 5
+(th
+8 6 4 2
+(th
+15 16 12
+8
+948 94■8 914■8 1 ■ 1 ■ Int■ernInalt■einrncIniantleinrnactaiinoleinractinioenration
+45
+600 37
+39 39
+85% reduction
+160100010001000 46% reduction 25
+138
+750 750 750
+500 500 500 ■0 ■0 ■0 ■0 ■0 10
+■ 103■ 103■ 19043■ 94■ 94
+■ 605■ 605■ 605
+Emissions into the Atmosphere
+512 (t) (t) (t)
+■ Lan■dfLilaln■dfLilalndfill 20
+21
+8 8 3 3 ■ 1 2 ■ 1 2 ■ ■ 1 1 20 ■ 1 0 ■ 1 0 1 1 4 4
+32 30 450
+120 80 40 0
+and therefore emissions of SOx*2 fell. Heavy oil is still in use (thousand t-CO2) at some business sites in regions(thwouhsaendret) city gas supplies are
+10
+*4
+some degree of variance due to an increase in the nitrogen
+200 150 100
+50 0
+Compared to fiscal 2005 Compared to fiscal 2005 33% reduction 35 60% reduction
+whole t(th) ese increases have been and continue to be within Compared to fiscal 2010
+60% reduction
+250 250 250
+*3
+10 10 10
+5 20155 52016 2017 Re2s0u1lt8 P2la0n19 T(faisrcgael ytear) 2015 2016
+2005
+58 58 5681 61 61
+2018 2019 2020 2030 (fiscal year) 2005
+2018 2019 2020 2030 (fiscal year)
+0
+0
+02004. Fuel conversion was completed in fiscal 2019 at our Result Plan Target Result Plan Target
+2017
+1 1 4 4 The G■ro5u6■p’s56■b■u5s65i■ne5s5■s 5s5ites in Japan have been promoting
+■752 ■27■926 ■765■6 15 ■0■0■0■0■0
+10
+2018 2019 2020 2030 (fiscal year0) 2005
+19 19 19
+18 18 18
+5
+2005200520015720172017820182018920192012902(f0is2c0al2y(0feis2acr0a) l (yfeisacra) l year)
+15 15
+15 15 15 77
+a shift of boiler fuel from heavy0oil to city gas since fiscal 115 115 11054 104 104
+dust
+have seen
+Shizuoka Plant, which had a few remaining heavy oil boilers,
+content of the city gas used and fluctuations depending on
+unavailable, and we are working to o2p9timize the combustion
+350 expectations.
+(plan) (plan) (plan)
+0 0 0
+the con20d1i5ti2o0n15s20o1f562t0h1e62c0o16m720b1u7s20t0i1o78n20o18f20c01i1t89y2(f0igs1ca9a2ls(yf0.ies1ac9Bra)l(uyfiestacra)ol yneart) he
+1 1 4 4
+25 25 25
+10 15 5
+10 condi1t5io0ns and keep both e1m06issions of SOx and soot and
+300
+20 20 20
+16 16 11673
+15 d0own at low levels. Emissions of NOx
+15 11250 15
+115
+104
+   影響に影よ響るに影見よ直響るしに見分よ直るし見分直し分
+providers, the amount of waste we disposed of in landfills
+* Zero-emissions-targeted substances comprise landfill waste, internally incinerated waste, and externally incinerated waste. No waste was internally incinerated at business sites in Japan from fiscal 2012 onward.
+increased in fiscal 2019 due to the generation of waste that will be switched from recycling to landfill disposal. Our
+Compared to fiscal 2005 50% reduction
+* Data covers all the business sites in Japan listed on page 3.
+(t) 46
+2005
+2020 (fiscal year) (plan)
+ 32 32 32
+2005 2018 2019 020 030( lyear
+0
+15 15 15 10 10 10 5 5 5
+0.4 0.4 0.4
+0.R3es0u.l3t 0P.3lan Target
+20 ▶ SOx Emissions
+137 ▶ Soot and Dust Emissions 132 112 110
+15 13 12 10 (t) (t) (t)
+12
+2005 201180 2100119010210021001021003100(1fis0c1al0year1)0 2010 2018 2019 2019 2030(fiscalyear)
+8 8 8
+11
+Result Plan Target
+100 50 0
+(t) (t) (t) 0.5 0.5 0.5
+       30 30 30 15 15 15
+P
+0.3 0.30.03.30.3 0.3 0.2 0.2 0.2
+esult
+2
+ R
+lan
+   ■2■6■0■0
+20
+15 15
+10 5 0
+19
+18
+0.2 0.2 0.2
+0.2 0.2 0.2 0.1 0.1 0.1
+   0.1 0.1 0.1 000 000 0.00.00.0
+ ■ Vaupellグループの
+      2015201250210612501260210712601270210812702108210912(80fis1c9a2l (y0fies1ac9ra)l(yfiesacra)l year) 影響による見直し分
+2015201250210612501260210712601270210812702108210912(8f0is1c9a2l (y0fies1ac9ra)l(yfiesacra)l year)
+2015201250210612501260210712601270210812702108210912(f80is1c9a2l (yf0ies1ac9ra)l(yfiesacra)l year) * Data of NOx, SOx, Soot and Dust cover all the business sites
+in Japan listed on page 3.
+* 2,3,4 See the glossary on page 108.
+(t) 1000
+750
+■ 342 ■ External incineration
+Effluent discharged from plants includes pollutants, which are
+▶
+(t) 25
+948
+■ 1 ■ Internal incineration ■ 605 ■ Landfill
+COD
+Emissions into the Hydrosphere
+categorized into industrial and household sewage. Treatment facilities, such as■h12igh-c■on10centration phenol recovery
+ 500 ■0 ■0
+equipment and activated sludge treatment equipment, and
+16
+■ 56 ■ 55 ■ 103 ■ 94
+  250 0
+(t) 45
+30 15 0
+surveillance systems for constant monitoring are in place to
+58 61 115 104
+ensure compliance with environmental standards and laws
+ 2005and 2r0e1g7ulatio2n01s8 at th20e19natio2n0a2l0a(fnisdcal lyoeacr)al government levels. (plan)
+ Additionally risk assessments are conducted on leakages into
+2019 (fiscal year) 4 * Data covers all the business sites in Japan listed on page 3.
+  rainwater that also includes cooling water to prevent sudden
+and unexpected increases in environmental impacts.
+COD,*5 which is used as a water quality indicator, is trending
+downward after improving the problems with the activated
+10
+2015 2016
+2017
+2018
+46 (t)
+sludge treatment equipment at the Shizuoka Plant. Over the
+(t) 0.5
+37 39 39 15
+long term it has remained low. 10 10
+*5 See the glossary on page 108. 10 5
+32
+Sumitomo Bakelite Co., Ltd. Integrated Report 2020
+10
+8
+0.4 0.3
+0.3
+0.3
+9
+2 Ta
+rget
+fisca
+)
+  48
+0.2 0.2
+0.2 0.1
+0.1 0 0.0
+o
+2
+o
+
+              Message from the President
+ Value Creation
+ Business Strategy
+ Environment
+ Social
+ Governance
+ Data
+Conservation of Water Resources
+When it comes to the water used at our Group's locations,
+in Japan a large share of the water used comes from
+groundwater, while overseas a large share of this comes from
+waterworks. The water used in our plants in Japan accounts
+for 84% of the water used by the entire Group.
+retroactively back to 2005. There were no changes to the overall trends from this. Furthermore, it also came to light that there were errors in the method by which water was being aggregated at Vaupell's Ballard & Everett Plant, and so this was corrected starting from the aggregation of fiscal 2019 figures.
+The(Gthoruosaunpdmh3)aswork■eWdateorusraegedvuoclumeetinhJeapanm■ouWnateroufsagwevaotluemreiotverseas ▶
+(thousand m3) ■ Water usage volume in Japan 12,000
+12,000 Water Usage Volume
+uses. In particular, we are promoting ongoing reductions of
+achieved substantial decreases in its water usage for two
+years in a row. Overall, water usage by the Group in Japan and
+overseas has been reduced by 47% compared to fiscal 2005.
+■ Water usage volume overseas
+water usage at our Shizuoka Plant, which accounts for a large
+fiscal 2005 perce9n,0t0a0ge of the Group’s water usage in J4a7p%arne,duacntidonhave
+Compared to
+    6,000
+9,000
+6,000
+8,082
+3,000 4,970
+ 8,082
+Moving forward, we will promote internal reviews in order
+ 5,428
+to se3t,0c0o0mpany-wide 4ta,9r7g0ets for reducing 4o,u9r19water usage.
+   4,407 As it had come to light that our Shizuoka Plant had been
+5,428
+2017
+4,919
+2018
+ 1,881
+aggregating its water usag1e,0o8n7 a Jan1u,0a4r7y–Dece9m76ber bas8i6s1,
+0
+4,407
+ this was revised so that it was being aggregated on an April– March basis the same as our other locations, with this applied
+2005 2016 2017 2018 2019 (fiscal year)
+1,881
+2005 2016
+1,087
+976
+861
+In Japan
+Overseas
+0
+2019 (fiscal year)
+Industrial water
+1,047
+Compared to fiscal 2005 47% reduction
+  ▶ Water Usage by Source in Fiscal 2019 Waterworks
+* See the business sites listed on page 3 about the boundary.
+   Industrial water
+15%
+4%
+Groundwater 81%
+Industrial water
+3% Groundwater
+15%
+Waterworks 4%
+  Industrial water
+3% Groundwater
+21%
+ 21%
+  Assessment of Water-Related Risk in Fiscal 2019
+Since fiscal 2015, we have been continuously surveying the regional watershed risk of all major plants in the Group (11 sites in Japan and 24 sites overseas). Continuing on from fiscal 2018, in fiscal 2019 there were significant changes to the WRI Aqueduct*1 tool. While the risk level for our business sites in Japan fell, conversely the risk level for districts in China worsened.
+▶ Assessment of Water-Related Risk in Fiscal 2019
+Groundwater 81%
+In Japan Waterworks
+77%
+Overse
+Our Group revised risk levels based on the results of WRI studies and independent studies performed on each business site. We compiled the results into a table that contains the risks facing each of the regions in which the Group operates. Using these results, going forward, we will continue working to preserve water resources more effectively.
+*1 A tool providing information on water risks developed and published by the World Resources Institute (WRI).
+  Region
+Number of bases
+Water consumption (thousand m3)
+Number of bases
+Water consumption (thousand m3) Number of bases
+Water consumption (thousand m3) Number of bases
+Water consumption (thousand m3) Number of bases
+Water consumption (thousand m3)
+Extremely high
+High
+Risk level
+Medium to high Low to medium
+Low
+Total
+7
+275
+5
+172
+9
+298
+3
+   Japan
+China (and Taiwan) Southeast Asia North America Europe
+ 
+ 
+14
+42 160
+21
+51 95
+ 1
+ 7
+1
+61
+7
+3,751
+2
+73
+2
+112
+2
+3
+642
+2
+25
+6
+180
+10
+4,393
+                  39
+100
+   Sumitomo Bakelite Co., Ltd. Integrated Report 2020
+49
+ a
+
+ Message from the President
+ Value Creation
+ Business Strategy
+ Environment
+ Social
+ Governance
+ Data
+Soil/Underground Water Pollution Countermeasures
+Response to Soil/Underground Water Pollution
+Our Group carries out risk assessments relating to leakage of chemical substances at all of our business sites, and we promote both the development and implementation of preventive frameworks. At the same time, when contamination caused by past leakage accidents is confirmed, we actively undertake voluntary surveys and institute countermeasures in order to prevent the environmental impact and health damage from spreading.
+We did not suffer any severe leakage accidents in fiscal 2019.
+▶ Results of Soil and Groundwater Studies, Related Actions, and Monitoring ResultsSiteResults of InvestigationCountermeasures and monitoring resultsAmagasaki PlantLead was detected by soil content sampling in 2009 and 2010 (max. 500 mg/kg whereas the standard is 150 mg/kg). No groundwater contamination was detected.Heavy metals exceeding the standard values of the Soil Contamination Countermeasures Act were detected at the business sites on the left. Monitoring of the groundwater is conducted at these sites every year and their contamination levels have been confirmed to be below standard values.Akita Sumitomo BakeliteLead was detected by soil elution sampling in 2005 (max. 0.032 mg/L whereas the standard is 0.01 mg/L). No groundwater contamination was detected.Yamaroku Kasei IndustryIn January 2016, 1,4-Dioxane in excess of the standard concentrations was detected in the company's cooling water effluent, with concentrations of a similar amount confirmed in well water drawn from on the premises that had been used. In consultation with the government, the plant stopped drawing water and switched to a closed water cooling system. The company has no history of using the substance in question.The company cooperates with an ongoing monitoring survey of the groundwater quality that is regularly conducted by Osaka Prefecture, and also continues to perform independent examinations as well. The latest measurement results were 1.48mg/L (standard value of 0.05mg/L).Initiatives for resource recycling
+Marine plastics
+When it comes to the problem of marine plastics, we are moving ahead with activities to contribute to reducing plastic marine waste via a number of initiatives based on the Japanese government’s Plastic Resource Recycling Strategy. These initiatives include managing the raw materials used and the plastic products we manufacture, promoting the recycling of said products, and developing new products.
+We are currently taking part in the Japan Initiative for Marine Environment (JaIME), which was established by major companies and industry organizations in the chemical industry, as well as the Clean Ocean Material Alliance (CLOMA), which was established by a broad range of business operators related to supply chains for plastic products, including those in the chemical industry and distribution/retail industries, with the goal of forming cross-industry partnerships. Through this, we are working to address a variety of challenges by aiming to curb plastic waste across our supply chain as a whole and promoting recycling via 3R activities for plastic products.
+Recycling
+Our Group promotes recycling as a means to make effective use of resources. This recycling includes the recovery and recycling of phenol from waste liquid produced by phenolic resin reactions during the product production process, fine grinding of offcuts from phenolic laminated sheets and decorative melamine resin laminate for use as a filler in phenolic resin molding compounds reuse of molded article by-products (sprues and runners) as raw material for molding materials, as well as reuse of excess sludge from activated sludge effluent treatment equipment as compost (organic fertilizer).
+Sumitomo Bakelite Co., Ltd. Integrated Report 2020
+50

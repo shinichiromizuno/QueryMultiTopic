@@ -1,0 +1,15 @@
+Completed construction of the No. 3
+SD*1 building at the Ibaraki Plant —Realize full automation of all Kampo formulation manufacturing processes—
+Construction was completed on the No. 3 SD building at the Ibaraki Plant in December 2019. The crude drug chopping process to the extracted liquid drying process is carried out at this building. This state-of-the-art powdered extract manufacturing building meets world-standard pharmaceutical GMP*2. We have promoted the active introduction of robots into the manufacturing process for many years. Following the completion of the granulation and packaging building at the Shizuoka Plant in 2016, and with the completion of the No.
+3 SD Building at the Ibaraki Plant, we realized the introduction
+of a series of robotics technologies for the entire manufacturing process for Kampo formulations. As a culmination of the technologies developed thus far, we succeeded in improving both labor productivity and the work environment by introducing robotic technologies into the crude drug chopping and weighing process and in the process for injecting crude drugs into the extraction device, for which automation was said to be difficult. Through this we achieved automation and saved on labor.
+*1: SD stands for Spray Dryer A device that ejects the extract from the top of the dryer in the form of mist and cools it at the same time as instant drying so that it is not affected by heat to make an extract powder.
+*2: GMP stands for Good Manufacturing Practice (a standard for manufacturing and quality control for pharmaceuticals and quasi-drugs)
+
+Tsumura is implementing global warming countermeasures focused on energy conservation. These countermeasures include introducing highly efficient equipment, improving work processes, and revising operating procedures.
+Production divisions endeavor to reduce energy consumption by revising operation control procedures through the use of energy management systems and introducing and upgrading
+to highly efficient equipment, such as co-generation systems. In Kampo extract manufacturing processes, we work to
+reduce the use of electricity and steam by introducing high- efficiency hybrid concentrating devices. Also in this area, we recover water used for cooling condensed steam so it can be recycled for cleaning purposes, thereby realizing water savings. Meanwhile, offices and distribution divisions are making efforts to save energy used for air-conditioning and lighting in addition to replacing all fleet vehicles with hybrid vehicles and utilizing fuel-efficient tires on trucks used for long-distance driving.
+
+Tsumura is using artificial intelligence (AI), automation, robotic process automation (RPA), and other new technologies to improve efficiency in cultivation, crude drug processing, production,
+sales activities, and routine work in order to boost productivity in response to increased Kampo product demand and to cut costs via laborsaving measures.

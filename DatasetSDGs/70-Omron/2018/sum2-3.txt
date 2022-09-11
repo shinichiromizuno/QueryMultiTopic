@@ -1,0 +1,94 @@
+HealthcareHealthcare Business provides the world with devices and services critical to healthy and active living. Blood pressure management used to be the sole domain of hospitals.Today, OMRON works with healthcare professionals to spread word of home-use digital blood pressure monitors that make measurements easy and accurate. In this way and many more, OMRON will continue to solve social health issues related to cardiovascular disease, respiratory disease, and pain management, contributing to a better future society.
+Extending Healthy Life Expectancies and Reducing Health Care CostsThe ultimate vision of our cardiovascular disease business is Zero Events. Zero Events means completely eliminating the incident of brain disease and cardiovascular disease. High blood pressure is a major cause of event onset. Human blood pressure is never constant. It fluctuates continuously, rising in response to stress, alcohol consumption, smoking, sleep apnea, and other conditions. OMRON plays an important role in preventing high blood pressure, offering products and services that ensure everyone receives the best diagnoses and treatment possible. Our devices collect and analyze data about blood pressure, sleep time and quality and activity level. We can even track data related to genetics and environment.
+Our respiratory disease business, which deals in nebulizers and other products, aids in the early detection and treatment of asthma. Much of our work is in the emerging economies of the world, where a rise in air pollution is making asthma-related spasms
+even worse. Our pain management business is dedicated to helping people live healthy, active lives. Here, we offer low-frequency therapy equipment and other products to help manage pain without relying on drugs. Our solutions relieve issues with foot, back, and knee pain that tend to hinder everyday activity.
+At OMRON, we are proud of our role in helping extend healthy lives, reduce soaring medical costs, and solve other social health issues through the prevention and treatment of lifestyle diseases.
+Sources:
+*1 World Health Organization
+*2 International Respiratory Societies
+*3 Pain in Japan (Japan), National Health Interview Survey (U.S.)
+ 48
+Fiscal 2020 Targets and Fiscal 2017 Progress
+Fiscal 2017 Progress
+Net Sales in Domain
+¥108.5 billion
+ProgressToward Sustainability Goals
+Adoption of home-use blood pressure monitors and nebulizers in emerging economies struggling with rising lifestyle and respiratory diseases (India, China, etc.)
+Global Health Issues
+Brain and Cardiovascular Disease Patients*1
+Respiratory Disease Patients (Worldwide)*2
+Chronic Pain Patients (Japan, U.S.)*3
+17.5 million 440 million 73 million
+ Fiscal 2020 Targets
+Sales Target
+¥150 billion
+Sustainability Goals
+• Blood Pressure Monitor Sales: 25 million units/year
+• DevelopTechnologies to continuously monitor blood pressure fluctuations*4
+• Nebulizer + Asthma Wheeze Monitor Sales: 7.65 million units/year
+Applicable Good Health and
+SDGsHealthcare Business (HCB)
+ Healthcare Business (HCB)  *4 Target added
+Well-Being
+  Eliminating Diseases Related to High Blood Pressure: Zero Events An Evolution in Solving Social Health Issues
+Zero Events is a major OMRON initiative to completely eliminate deaths, bed confinement, and other events arising from stroke, myocardial infarction, and high blood pressure.
+Fiscal 2017 Highlights
+Developing Innovative Devices for Advanced Blood PressureTracking
+   Blood pressure is never in a steady state. It fluctuates throughout the day and varies from person to person. Understanding the when and why of these individual fluctuations is key to preventing and treating high blood pressure. However, to gain this understanding requires more frequent measurements throughout the day. In response, OMRON is developing wearable blood pressure monitors worn constantly like a
+Advancement
+wristwatch. These monitors let users measure their own blood pressure comfortably throughout the day to identify fluctuations. These devices also track activity (number of steps, etc.) and sleep data.
+We are also developing combination blood pressure with electrocardiograph devices that can share data with personal physicians, revolutionizing personal health care in the near future.
+* Under development
+* Under development
+ Advancements in Blood Pressure Monitors
+      Blood Pressure
+Blood Pressure
+  ECG
+ Blood Pressure
+      Blood Pressure
+Activity
+  Sleep
+49
+      Wrist Blood Pressure Monitor
+Upper Arm Blood Pressure Monitor
+Wearable Blood Pressure Monitor
+Blood Pressure Monitor with ECG
+Vision Strategy Business Governance Financial Information Corporate Information
+
+  Looking to the Near Future
+Personalized Healthcare for Zero Events Individualized Diagnosis and Treatment Support Services
+OMRON is developing sensing devices that collect and analyze a wide range of health-related data from patients. This data includes vital signs, lifestyle data (exercise, diet), medical and genetic data (personal and family health history, etc.), and much more. We are also developing advanced algorithms that use this data to identify the risk of brain and cardiovascular diseases with high precision. We are developing services and applications that use this data to help
+users reduce salt intake, exercise more, know when to go to the hospital, take their medicine, and provide other reminders and support tailored to the individu- al’s own characteristics and preferences.
+OMRON is changing the notion of personalized medical care through diagnosis and treatment support services used by medical professionals and behavior change support services used by individuals for personal health management.
+• Behavior Change Support
+• Personalized Care
+   Patient
+Wearable Blood Pressure Monitor
+Activity Sleep
+Upper Arm Blood Pressure Monitor
+ECG
+ Blood Pressure
+  Blood Pressure
+ Providing Innovative Device
+   Doctor
+    Diagnosis and Treatment Support
+   Data Accumulation and Analysis
+ 50
+
+An In-Depth Look
+Rising Use of Home-Use Blood Pressure Monitors to Battle High Blood Pressure in Emerging Economies
+More than 1 billion people are believed to suffer from high blood pressure around the world. In emerging economies, where middle-class populations are exploding, we expect to see a major rise in patients suffering from high blood pressure due to lifestyle diseases.
+At OMRON, we believe in-home blood
+pressure management is an important part
+of prevention and improvement. We have
+been working with governments and
+medical institutions for many years to speed
+the adoption of home-use blood pressure
+monitors. Under this initiative, we
+cooperated with the International Society of
+Hypertension and the World Hypertension
+League in a blood pressure measurement project, conducted in 100 countries in conjunction with World Hypertension Day on May 17, 2017. For our part, we sponsored activities in India, China, and several other countries to educate citizens about measuring blood pressure regularly. In India, we held blood pressure measurement events in 13 cities, taking measurements for more than 1,300 people in total. In China, we worked with the Chinese hyper tension association, the Ruijin Hospital (Shanghai Jiao Tong University School of Medicine) and the Shanghai Research Institute of Hypertension, donating 8,720 blood pressure monitors and taking measurements for nearly 490,000 people. Our fiscal 2018 goal is to conduct similar activities across 200 cities, taking blood pressure readings for 1 million people.
+Expanding Production Capacity for Latin American
+Markets
+Brazil and other Latin American markets are experiencing a rise in high blood pressure and asthma patients, linked to a growing middle class and lifestyle changes. In response to these circumstances, OMRON acquired Brazilian nebulizer maker NS Indústria de Aparelhos Médicos (NS) in 2014. This acquisition provided access to NS sales channels for our blood pressure monitors and nebulizers. In 2017, we built a new blood pressure monitor production line inside NS, starting production of wrist blood pressure monitors for sale in Brazil. In May 2017, we began construction of a new plant in Brazil to manufacture blood pressure monitors and nebulizers for sale in Latin American markets. We expect the plant to commence operations in 2019. Our aim is to increase production capacity in Brazil from 1.2 million units in 2017 to 5.4 million units in 2022, meeting the growing demand in Latin America for our products.
+ Joint press announcement about the World Hypertension Day blood pressure measurement program.51

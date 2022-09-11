@@ -1,0 +1,56 @@
+Intellectual Capital: Research and Development   Hydrogen energy utilization system
+While we delivered hydrogen production equipment for a demonstration project of the Ministry of the Environment of Japan last fiscal year, we will start to sell Hydro Creator, a water electrolysis-based hydrogen production system, based on the operation results of the equipment this fiscal year. Concurrently, we established a hydrogen system exhibition room in the Takasago Thermal Engineering Innovation Center and launched the permanent display of Hydro Creator
+and the demonstration of the production of CO2-free hydrogen using renewable energy. The production of hydrogen using renewable energy attracts worldwide attention as a crucial technology that can make a great contribution to the achievement of a low-carbon society. We will provide Hydro Creator to hydrogen- related demonstration projects and hydrogen system suppliers to help create a hydrogen-based society beyond the field of commercial buildings.
+This system can be fixed or used as a portable type in plant facilities and enables the recovered heat to be used in different places and at different times. The heat can be used effectively for dehumidification, heating and drying processes, for example.
+We also expect to introduce it as an offline heat recovery, transport and utilization system to recover waste heat from sludge and garbage incineration plants of local governments, etc., as well as waste heat from factories, and use the heat in the nearby areas.
+In fiscal 2018-19, we launched a demonstration test for the system as a project subsidized by the New Energy and
+Industrial Technology Development Organization (NEDO) jointly with Hamura City, Tokyo, TEPCO Energy Partner, Incorporated, Ishihara Sangyo Kaisha, Ltd., Morimatsu Industry Co., Ltd., Hino Motors, Ltd. and the National Institute of Advanced Industrial Science and Technology (AIST). We have created a thermal storage system using HASClay, a new high-density heat storage material, to collect full-year demonstration data on the fixed type and the offline heat transport type and demonstrated the storage of waste heat from factories, cogeneration exhaust gas and waste warm water, as well as the use of heat in production lines and commercial facilities.
+▲ HASClay heat storage material developed in a granulated form
+  Hydrogen Creator, a water electrolysis-based hydrogen production system we will start to sell
+Hydrogen system exhibition room
+(Takasago Thermal Engineering Innovation Center)
+Heat storage: recovery of heat from the exhaust gas
+Heat storage temperature: 70 °C
+Heat radiation: Supply of heat
+Air and moisture
+Air and moisture (moist air)
+HASClay adsorbent Adsorbent generates heat
+(dry) (water is adsorbed)
+Air
+(hot and dry) → Heat utilization (2) When heat is emitted
+(water is adsorbed)
+   Dried with Adsorbent HASClay
+(moist) adsorbent (water is desorbed)
+Heat
+(waste heat, etc.)
+Air
+(1) When heat is stored (water is desorbed)
+Used repeatedly
+▲ Principles of heat storage and radiation in adsorbent thermal storage
+■Fixed type demonstration facilities: Yokkaichi Plant of Ishihara Sangyo
+ Titanium oxide production process/drying line
+Heat storage tank
+Batch operation
+Heat storage tank
+Supply the warm air produced from the moist exhaust gas to reduce the consumption of steam for heating
+Supply the dry air/warm water produced from moist air to reduce fuel consumption in boilers
+Heat radiation site (1): Hamura City Swimming Center
+Supply the dry air produced from moist air to reduce the consumption of cool and warm water
+Heat radiation site (2): Air conditioning equipment in the same plant (industrial air conditioning)
+      Drying line
+ Adsorbent thermal storage system: Realizing the recovery and use of low-temperature waste heat of around 100 °C
+■Offline heat transmission demonstration facilities: Site around Hamura Plant of Hino Motors
+  The use of waste heat is required for further energy saving and reduction of CO2 emissions in the areas of industry. While the use of high-temperature waste heat for power and steam generation, etc. is promoted, most low- temperature waste heat of around 100 °C is discarded at present because their uses are limited and the mismatch
+in time and space between the supply of the heat and thermal demand makes it difficult to use the heat.
+To solve this challenge, we have developed a new large- scale thermal storage system that recycles waste/unused heat for air conditioning and as a thermal source.
+Heat storage
+Heat storage tank
+Heat radiation
+     ●The low-temperature waste heat of around 100 °C can be stored.
+● The thermal storage density is more than twice that of a conventional latent thermal storage
+system (500 kJ/liter or more).
+●The recovered waste heat can be used for air conditioning (heating, outdoor air processing,
+dehumidification) and hot water supply.
+●The heat loss from the stored heat is reduced (because the absorption and desorption reactions
+of water are used as the principle).
+●The users of the heat can substantially reduce their CO2 emissions.

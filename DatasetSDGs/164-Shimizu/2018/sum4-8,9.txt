@@ -1,0 +1,28 @@
+      About Shimizu Initiatives in Various Areas Business Base
+Corporate Governance
+Financial Statements and Data CollectionInitiatives in Improving Productivity
+  Aiming to Create an Attractive Construction Industry
+Responding to the labor shortages in the construction industry is an urgent challenge as the number of people in their productive years declines. Shimizu is working to improve productivity in the construction production process as one major means of dealing with this shortage. We will take active steps to con- tinually improve productivity and make other improvements in the future and will strive to make the construction industry more attractive so that we can continue to provide better construction service and meet the increasingly diverse and complex needs of customers.
+Improving Productivity through Robot Development (Building Construction)
+  Improving Productivity through Use of ICT
+As one means of improving productivity, Shimizu has expanded the range of employees we supply with smartphones and tablets (iPads) from con- struction managers to employees involved in sales and design, and are developing and using the optimal applications for each area. Using iPads at job sites to hold meetings, perform inspections, monitor processes, and accomplish other tasks has smoothed out the construction management process in particular. We have also replaced the bulletin board for the morning meet- ing with a large monitor. The work to be per- formed and notifications for that day are projected on the screen from an iPad in diagrammatic form. Using ICT technology in this way not only improves work efficiency, it ensures seamless, accurate communication through visualization, and this enables us to achieve better quality and greater safety. Shimizu will accelerate the use of ICT technology even more in the future.
+Improving Productivity through BIM Use
+The 3D BIM data is used to check interference and simulate construction, and enables visual exami- nation of many aspects. This helps to prevent reworking. It is extremely effective for coordinating among different areas of expertise and examining intricate fittings, in particular. Secondary use of BIM data also enables sharing of awareness among the relevant parties through the visualiza- tion of analytical data or creation of a model with a 3D printer. This is useful for speeding up the identification and resolution of problems. (Examples of specific initiatives are listed on Page 26)
+Using iPads to share information at job sites
+Image of Shimz Smart Site
+The development and pilot period has ended, and the Shimz Smart Site system is now in full operation at the karaksa hotel Shin-Osaka Pre- mier (tentative name), a high-rise hotel on which construction began in June 2017. The various robots (except for the Autonomous-ELV) will be put to work as construction progresses toward the scheduled completion in August 2019.
+Shimizu will roll-out these robots mainly to large job sites in the Greater Tokyo Area from 2019, and will also actively pursue development of robots in the future to expand the types of applicable construction work.
+i-Construction (Civil Engineering)
+Shimz Smart Site is a next-generation production system that enables workers and robots to work together. It achieves this through ICT-based con- struction, with BIM at the core. The system includes a lightweight all-weather cover and the five robots listed in the right column. ®
+  Crane capable of horizontal extension
+Lifts loads of materials
+Horizontal transport robot
+Steel column welding robot
+Multifunction construction robot
+                 Construction utility drawing
+Simulation of construction using BIM
+Construction work using ICT in progress on Yamba Dam
+Shimizu has introduced ICT-based construction and precast concrete for concrete structures in all aspects of the Yamba Dam construction project in Agatsuma-gun, Gunma Prefecture. A drone is used for measurements. The bulldozers and vibrating rollers are equipped with GNSS antennas and use satellite data to monitor concrete height and the number of roller compactions. Shimizu is working reduce the number of workers required and shorten the construction period through substan- tial reduction in the number of surveyors and unskilled workers, and are also working to improve productivity through the introduction of IT tools for construction management tasks.
+  Example of visualization
+44 Shimizu Corporate Report 2018
+Shimizu Corporate Report 2018 45

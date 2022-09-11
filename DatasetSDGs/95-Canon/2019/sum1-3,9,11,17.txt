@@ -1,0 +1,42 @@
+    Management Approach
+Contribute to a better future, a sustainable society through innovation
+   Why It Matters
+Multiple challenges remain as people in many countries work to realize a more sustainable future. We will need to harness our collective abilities as humans to solve such problems as supporting the aging population in developed countries, improving the quality of life in developing countries, or tackling security issues linked to the growth of IT.
+Following its corporate philosophy of kyosei, Canon is committed to creating new value through diversified products and services based on advanced technologies and platforms while creating good relationships with customers, business partners, communities and the global environment. Under Phase V of our Excellent Global Corporation Plan initiated in 2016, an important
+GRI103-1
+strategy we are implementing is to “reinforce/expand new businesses while creating future businesses.” We have also defined “Creating New Value and Solving Social Issues” as a key materiality theme. This approach involves contributing to efforts to solve issues that face the global community by reinforcing and expanding businesses with high societal demand, such as healthcare, security and industrial robots with a focus on diagnostic equipment that enables advanced medical treatments, network cameras supporting safe, efficient social infrastructure, and industrial equipment underpinning the IT used in advanced technologies for daily life.
+  53 Canon Sustainability Report 2019
+ Management Basic Information Strategy
+Canon’s Approach
+Value Creation
+Business Strategy
+Management Foundation
+GRI102-11
+CSR Reporting
+GRI102-15
+Third-Party Opinion / Assurance
+GRI103-2    To realize the materiality topic of “Creating New Value and Solving Social Issues,” Canon is moving ahead with major strategic changes aimed at sustainable growth, based on the three key challenges of “Creating a Safe and Secure Society,” “Expanding Our Medical Business,” and “Supporting Industrial Innovation.”
+We are building Canon’s new business foundation around our traditional mainstays of office equipment and digital cameras plus our four new businesses: commercial printing, network cameras, healthcare, and industrial equipment. Utilizing the storehouse of technologies and expertise we have cultivated, we are also leveraging our collaboration in these new business fields with newly acquired Group companies Canon Tokki, Canon ANELVA, Canon Machinery, Océ, Axis, Milestone Systems (Milestone) and Canon Medical Systems (Canon Medical) to create new value. We also continue to promote joint development and open innovation with top research institutions, such as universities, and other companies in Japan and overseas, while seeking to supply products and services tailored to various needs.
+Continuous Risk/Opportunity Appraisal
+With urbanization advancing rapidly around the world, threats to the safety and security of homes and businesses continue to diversify, ranging from various types of urban crime to terrorism and cyber-attacks. Aging demographic trends and increasingly obsolete infrastructure are also widely recognized as social issues on a global scale, especially in developed countries. These issues pose a significant risk to Canon’s business from such perspectives as information security enhancement, HR management, and infrastructure protection from natural disasters.
+At the same time, companies are starting to recognize the business opportunities inherent in helping to address such social issues as part of building a sustainable
+Overview of Material Issues and Activities in 2018
+society. For a company with global operations such as Canon, staying in touch with social issues in each region and contributing to solutions through business not only helps us to fulfill social responsibilities, but also enhances the sustainability of Canon’s operations and of society.
+Relationship with SDGs
+Through our wide-ranging business activities, technologies, products, solutions and services, Canon, along with our customers and business partners, contributes to the achievement of the Sustainable Development Goals (SDGs) promoted by the United Nations listed below.
+Creating a Safe and Secure Society
+In collaboration with Axis and Milestone Systems, we will respond to diverse needs for “security and safety” with network visual solutions including video analysis technology based on network cameras.
+Expanding Our Medical Business
+In collaboration with Group company Canon Medical, we are focusing on the fields of diagnostic imaging, healthcare IT and in vitro diagnostics to develop our business by providing solutions closely attuned to the needs of medical institutions and patients.
+Supporting Industrial Innovation
+We are supporting constant innovation to adapt to changing social conditions by applying proprietary optical and image-processing technologies to the development of industrial equipment.
+GRI103-3
+         Creating a Safe and Secure Society
+As part of our focus on network visual solutions,
+we welcomed the Israel-based leading provider of video analytics solutions BriefCam to the Canon Group.
+Expanding Our Medical Business
+Canon Medical Systems entered the cancer genomic testing sector by making ActMed a subsidiary. The Company also completed development of the
+deep-learning technology AiCE for CT image reconstruction. This promises to improve diagnostic accuracy while reducing patient exposure to radiation.
+Supporting Industrial Innovation
+Canon worked to increase productivity in the manufacturing sector through accelerated collaborative efforts to develop system-based solutions in the field of factory automation.
+Canon Sustainability Report 2019 54

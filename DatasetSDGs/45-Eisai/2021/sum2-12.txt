@@ -1,0 +1,62 @@
+Manufactured Capital Social and Relationship Capital Stable Supply and Quality Assurance 8.1billion Total number of tablets, capsules, and vials supplied in fiscal 2020
+Fulfilling our mission and responsibility to consistently supply high quality products for patients around the world
+  ■ Initiatives to Achieve Stable Supply
+Eisai has been making an effort to maintain a stable supply of medicines despite the turmoil in society under the impact of the COVID-19 pandemic, as a “human health care (hhc)” company. At all 9 of our medicine production sites in Japan and overseas, we give top priority to employee safety, and we have been implementing various infection prevention measures. In addition to temperature measurement before coming to work, washing hands/disinfecting fingers and gargling, prohibition of unnecessary or non-urgent business trips and going outside the office, and restriction of visitors, we are also taking the following actions; changing from face-to-face meetings to remote meetings, staggered lunchtimes, and unified seating directions during meals in order to avoid having people too close together in confined spaces. We also recommend working from
+●Stable supply under COVID-19
+home to employees who are able to do that, and we are continuing production activities while minimizing the risk of infection. In addition, we are carrying out a wide range of inspections regarding the operating status of our medicine production sites, manufacturing contractors, and raw material suppliers, as well as regarding the distribution status, and we are strengthening production and distribution management so that patients do not feel anxious about the supply of medicines. Due to the prolonged COVID-19 pandemic, there is a possibility that stable supply, including transportation from overseas, will see some disruption. For this reason, we are striving to maintain a stable supply through accelerated procurement of overseas products and raw materials.PlantNumber of days closed due to COVID-19
+FY2020 working days
+Manufacturing sites utilization rate
+CountryKashima
+Japan0239100.0Kawashima0238100.0Fukushima (EA Pharma)0240100.0SuzhouChina0244100.0Benxi
+0
+244
+100.0HatfieldU.K.0253100.0BaltimoreU.S.0252100.0VizagIndia324798.8BogorIndonesia1025096.0■ Sustainable Production and Quality
+Eisai has formulated a BCP (Business Continuity Plan) as a disaster or pandemic countermeasure, and regularly reviews it, in order to stably produce medicines and deliver them to patients. In our BCP, we aim to minimize damage in the event of a disaster or a pandemic, and be able to promptly start activities for business continuity. We maintain a system that allows us to continue supplying medicines by securing a backup production system.
+From our experience of COVID-19, we think that it is necessary to transform the current production system, which requires employees to perform manual machine operation at the sites. We are aiming to convert the system by automation or remote operation so as not to be affected by restrictions on employees’ attendance in the event of an emergency.
+33
+■ Strengthening the Production and Quality Assurance System by Constructing New Buildings in Kawashima and Kashima
+The construction of a new building (the 5th) to manufacture anticancer agents at the Kawashima Industrial Park (Gifu, Japan) was completed in December 2020. Since the 5th manufacturing building handles highly active substances, it is designed to make it possible to manufacture anticancer agents more safely with various preventive features for controlling highly active substances, such as controlling exposure to workers. We will increase the production capacity of the in-house discovered and developed anticancer agent Lenvima®
+The 5th manufacturing building in Kawashima
+■ Quality Assurance Initiatives
+We have built a system to ensure quality that can be utilized with confidence in any country and region of the world. We can deliver to patients medicines that not only meet national regulatory requirements but are also manufactured and inspected according to approved methods, and are of the intended quality. Recently, scandals such as discrepancies in approval documents have become issues at some generic drug manufacturers, which represents a serious problem for society. At Eisai, in addition to continuous self- inspection of quality control systems, we also carry out risk assessments, taking quality issues at other companies into account, and strive to build a quality assurance system that can even detect unexpected
+●List of the functions of each plant, and major manufactured items ○
+there, and further contribute to improving the benefits to patients and their families in Japan and overseas.
+The construction of the F5 building, which is a multi- purpose plant that can handle a wide range of manufacturing conditions, was completed at Kashima (Ibaraki, Japan) in May 2020. We will continue to contribute to patients’ well-being by manufacturing the drug substance of the anti-insomnia drug Dayvigo® that we plan to manufacture there, and by introducing new technologies.
+The F5 building in Kashima
+series of incidents. Securing data integrity (integrity, consistency, and accuracy) in manufacturing and quality inspection of medicines is also extremely important. We conduct training regularly to further reinforce data integrity, automate the calculation and recording of important data, and separate the governance of the manufacturing department from that of the quality control and quality assurance department. For our contract manufacturing companies, we dispatch engineers to check the manufacturing sites to secure data integrity and carry out continuous inspections of the quality control system, in addition to implementing regular Good Manufacturing Practice (GMP) audits for manufacturing control and quality control of medicines.
+Lenvima®, Dayvigo®, Halaven®, Fycompa®
+○ Lenvima®, Dayvigo®, Fycompa®, Lunesta®
+○ Elental®, Goofice®, Moviprep®
+○ Methycobal®, Merislon®, Aricept®
+○ Transfer factor*, loxoprofen sodium
+○ Lenvima®, Dayvigo®, Halaven®, Fycompa®
+○ Gliadel®
+  Plant
+Country
+APIs
+Formulation
+Packaging
+Major manufactured items
+ Kashima
+ Kawashima
+ Fukushima (EA Pharma)
+ Suzhou
+ Benxi
+ Hatfield
+ Baltimore
+ Vizag
+ Bogor Japan
+China
+U.K.
+U.S.
+India ○
+Indonesia
+○ ○ ○ ○ ○ ○
+○ ○
+   ○
+   Warfarin®, diethylcarbamazine (DEC) tablets, API for generics
+○
+○ Pariet®, Aricept®, Methycobal®
+ * Product name in Chinese:转移因子口服溶液
+34
+Eisai Value Creation Report 2021

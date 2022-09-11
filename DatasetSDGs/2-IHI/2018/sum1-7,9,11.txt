@@ -1,0 +1,34 @@
+opics
+Building a 100-megawatt facility
+IHI and Sumitomo Corporation entered into an agreement with Electricidade de Moçambique to construct a gas-fired combined cycle power plant in Temane, Inembane Province. Gas-based facilities will
+ Building energy infrastructures to support the
+economic growth of emerging nations
+ー Concluding a contract to construct a gas-fired combined cycle power plant for Mozambique’s state-run power company ー
+  likely become the Republic of Mozambique’s prime source of electricity in the years ahead. The new facility will be the nation’s second such setup after one in Maputo, the capital.
+Computer illustration of power station in Mozambique
+
+Electric power infrastructure development vital to sustaining Africa’s ongoing economic growth Mozambique is part of sub-Saharan Africa, which is generating economic growth of around 4% annually. The power infrastructure is inadequate, however, constraining growth.
+We seek to help improve the regional power infrastructure and enjoy mutual progress by deploying our world-leading power turbine technology there.
+Our IHI Global Monitoring and Technical Service Center assists plants around the clock
+Energy supply infrastructure must operate stably, and it is important for customers that this also be at minimal cost. We monitor plants worldwide around the clock through at our IHI Global Monitoring and Technical Service Center. We work to prevent failures if detecting anomalies and quickly restore operations if problems occur. Together with regular maintenance and day-to-day operation support services, we will continue to provide support throughout the life cycle.
+
+IHI Global Monitoring and Technical Service Center at IHI headquarters
+This unit monitors the operations of plants in Japan and abroad around the clock and is a vehicle for sharing information between headquarters engineers and domestic and overseas maintenance sites promptly responding to issues.
+   Control systems
+Customers
+Other plants
+I H I
+Operational data
+ Operational data
+Data flow
+Continuous Internet connection
+    Gas turbines
+Engineer terminals
+system
+Power plants
+Site communications equipment
+Preventive maintenance
+Data servers
+Configuration of Remo-moniTM remote monitoring system
+
+We will help materialize SDGs by providing products and services.

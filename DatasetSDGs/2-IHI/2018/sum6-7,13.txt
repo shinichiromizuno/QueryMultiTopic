@@ -1,0 +1,60 @@
+Special Feature Resolving Social Issues through Business (2) 
+  
+Cutting carbon dioxide emissions 
+Supporting the energy needs of circular societies with low-carbon and decarbonization technologies 
+Twin IHI Gasifier demonstration unit in Indonesia 
+Developing IHI’s low-carbon and decarbonization technologies 
+Biomass is a carbon neutral energy source because carbon sequestration through plant photosynthesis balances out carbon dioxide emissions from burning biomass. For thermal power plants, you can reduce emissions by co-firing biomass chips from thinned timber and other wood sources with fossil fuels. Conventional setup limit the biomass mixture to 2% or 3% of the heating value in co-firing. We developed a wood biomass high-ratio co-firing system that raises the calorific value of wood biomass in utility power boilers to 50%. Companies can deploy this technology with minimal modifications to existing facilities, for which 
+IHI received a New Energy Award of the Minister of Economy, Trade and Industry Prize in fiscal 2016. 
+ 
+Energy demand should rise in coming years as the global population grows, urbanizes, and industrializes At the same time, that the Paris Agreement adopted at the 2015 United Nations Climate Change Conference set national reduction targets for carbon dioxide emissions, a factor in climate change. The global community thus faces the challenge of lowering environmental impacts while accommodating greater energy demand. 
+Fossil fuels play an important role in generating electricity and stabilizing power supplies. Combustion produces carbon dioxide, creating a need for technology to streamline power generation and reduce emissions to tap fossil fuels more effectively. 
+The IHI Group seeks to help materialize circular societies that do not depend on finite resources by reducing emissions through its low-carbon and decarbonization technologies. 
+Final electricity consumption 
+    
+35 IHI Integrated Report 2018 
+* Low- and middle-income countries had a nominal GDP per capita below $4,000 as of 2015 
+Source: The Institute of Energy Economics, Japan, IEEJ Outlook 2018 
+Trillions of kilowatt-hours 
+If half of the calorific value of coal-fired boilers of Japan’s leading power producers came from wood biomass, the nation’s annual carbon dioxide emissions could reduce by almost 100 million metric tons. 
+Creating biomass fuel from waste 
+As well as developing biomass combustion technology, we are also producing biomass fuels. In Southeast Asia, palm trees are grown extensively for palm oil. Empty fruit bunches resulting from production contain a lot of water, ash, and salt, and are often dumped as is. The resulting unpleasant odors 
+and methane are among the resulting environmental problems. IHI created a technique to pelletize empty fruit bunch waste as biomass fuel for thermal power plants. We have constructed a pilot plant in Malaysia with a view to commercializing this process. 
+Creating biomass fuel from palm tree waste 
+does not generate carbon dioxide when burned, and could be a useful clean fuel in power production if a technique can be developed to stabilize combustion. IHI is participating in the Cross-Ministerial Strategic Innovation Promotion Program of the Japanese Cabinet Office’s Council for Science, Technology and Innovation to develop ammonia-fueled combustion technology. We created a technique to co-fire ammonia with conventional fuels in gas turbines and boilers it. 
+We were the first in the world to achieve a co-firing ratio representing 20% of the gross heating value for a 2,000 kilowatt-class gas turbine. The nitrogen oxide emissions were lower than the regulatory limit. With boilers, our technique can cut carbon dioxide emissions and lower maintenance by reducing sulfide corrosion and ash volumes. It is also worth noting that we were able to generate power from a one-kilowatt-class direct ammonia solid oxide fuel cell. 
+Lignite accounts for half of global coal reserves. While this low-grade coal is inexpensive, it has not been used effectively because of its low heating value and handling challenges. 
+We accordingly developed the Twin IHI Gasifier, also known as TIGAR®, which converts untapped resources into valuable fuel substances by applying circulating fluidized-bed technology. TIGAR can produce syngas, which consists of hydrogen and carbon monoxide. 
+Syngas is versatile intermediate resource not only for producing such high-value-added offerings as ammonia, methanol, and synthetic natural gas but also for generating heat and power TIGAR® can be combined with carbon dioxide capture and storage technology to produce hydrogen without carbon dioxide emissions. 
+Value chain centered on TIGAR® 
+Strategy 
+Creating Value for Businesses and Society 
+Challenge ESG Management Data Section Resolving Social Issues through Business The Foundation for Sustainable Growth 
+
+TIGAR® 
+   
+brown coal 
+Biomass 
+Fuel cell 
+Fuel cell bus 
+H2 
+
+CO2 NH3 
+Hydrogen station 
+ 
+Carbon dioxide capture and storage 
+Power boiler 
+Gas turbine 
+ 
+Converting untapped low-grade coal into valuable fuel and products 
+ 
+Palm farm 
+Empty fruit bunches 
+Empty fruit bunch pellets 
+Materializing circular societies 
+Beyond the technologies presented in this report, the IHI Group is developing a range of low-carbon and decarbonization technologies. They include ocean current and binary power generation systems and algae biofuels. 
+We will step up efforts to develop technologies and practical applications to help materialize circular societies. 
+ 
+Using carbon dioxide-free ammonia 
+Ammonia is a nitrogen and hydrogen compound that 
+IHI Integrated Report 2018 36 

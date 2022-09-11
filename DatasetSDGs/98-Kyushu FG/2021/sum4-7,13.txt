@@ -1,0 +1,163 @@
+Addressing Climate Change
+We regard environmental issues, including climate change, as important management challenges, and in June 2019, we declared our support for the TCFD recommendations. We strive for transparent disclosure of each of “Governance,” “Strategy,” “Risk Management,” and “Numerical Targets and Goals,” items included in the TCFD recommendations for disclosure.
+Governance
+The Group has established the Sustainability Promotion Committee, chaired by the President and Representative Director and reporting to the Board of Directors and the Group Management Council. Every three months, the Sustainability Promotion Committee meets to receive reports and discuss action plans and other important matters pertaining to environmental challenges, including climate change. The results of these activities are then reflected in the Group’s management strategy and risk management. In December 2020, we formulated a new Group Envi- ronmental Policy, establishing a system in which the status of our environmental efforts, including for climate change, is regularly reported to the Board of Directors, with the Board of Directors supervising efforts against climate change.
+In addition, we have established a system for appropriate management of Group-wide promotion of initiatives to resolve social and envi- ronmental challenges, including climate change, under the Sustainability Management Office at our headquarters and Sustainability Promo- tion Offices at affiliated banks. This system ensures effectiveness of measure promotion.
+Subjects for discussion and reporting pertaining to climate change in FY2020
+Formulation of environmental policy, reporting of CO2 emissions, sustainability-related investments and loans, progress reporting for efforts to solve other environmental challenges including climate change, etc.
+Strategies
+(1) Risks and opportunities
+The Group is aware that risks resulting from climate change will have effects on its business operation, strategies, and financial plans. While si- multaneously taking action in risk management related to the climate utilizing scenario analyses, etc., we consider customer investments to- ward reduction of greenhouse gas emissions and improvement of energy efficiency (sustainable finance, transition finance) in the interest of achieving a decarbonized society as a business opportunity. To that end, we will actively develop financial initiatives aimed at mitigating envi- ronmental burden.
+(2) Scenario analysis
+In order to concretely understand the impact of climate change on our business, Higo Bank was selected for the Ministry of the Environment’s 2020 Scenario Analysis Pilot Program Support Project for Climate Risk and Opportunity in Line with the TCFD Recommendations, where a scenario analysis out to 2050 was conducted.
+In recognizing the climate-related physical risk and transition risk as climate-related risks, Higo Bank’s physical risk was anticipated to be credit risk due to asset damage from abnormal weather such as wind and flood disasters, and its transition risk was anticipated to be growing credit risk for customers affected by changing customer consumption preferences and stronger regulations due to climate change. Physical Risk
+In the 8.5 scenario (4°C scenario) from the Intergovernmental Panel on Climate Change (IPCC), we calculated the impact on credit-related ex- penses from wind and flood disasters, which would comprise more than half of climate change-caused natural disasters and would be espe- cially frequent in Kyushu.
+We estimated the increase to credit costs as an impact of these physical risks based on estimations of devaluation from typhoon and heavy rain damage to collateral real estate held by Higo Bank (direct impact) and estimations of the number of days of customer business stagnation from damage to buildings (indirect impact). Our calculations resulted in a maximum increase in credit costs of about ¥3.3 billion by 2050, and the impact is considered to be of a limited amount.
+*1 Flooding depth and amount of damage based on flooding depth is calculated for each asset based on the Ministry of Land, Infrastructure, Transport and Tourism’s hazard maps and the Manual for Economic Evaluation of Flood Control Investment.
+*2 Refers to the IPCC’s RCP8.5 scenario.
+Transition Risk
+We have selected sectors with high risk impact from factors such as credit exposure, and conducted an analysis of risks associated with climate change within the International Energy Agency’s (IEA) 2°C Scenario and 4°C Scenario, using assessment items including government policy/ law, market/technological change, reputation, and physical risk.Sector
+Major assessment itemsMajor risksEnergy
+Policy/laws
+• Carbon tax/carbon pricing
+• Complying with GHG* emissions
+regulations• Increase in oil/coal tax rates (increased construction/operating costs, decreased asset values, decreased sales)
+• Stronger GHG emissions regulations (increased operating costs, decreased asset values)Market/ technology
+• Energy mix
+• Customer behavioral changes
+• Spread of renewable energies (increased operating costs, decreased sales)
+• Heightened awareness of environmental responsibility (increased operating costs, decreased
+sales)
+Physical risk• Intensifying abnormal weather• Stronger disaster prevention measures and occurrence of property damage (increased operating costs)Real estate
+Policy/laws
+• Carbon tax/carbon pricing
+• Complying with GHG emissions
+regulations
+• Increase in oil/coal tax rates (increased construction/operating costs)
+• Stronger energy efficiency regulations for new buildings (increased construction costs)
+Market/ technology• Customer behavioral changes• Shifting needs to buildings with stronger environmental performance (increased construction costs, decreased rents)
+Physical risk• Intensifying abnormal weather• Flooding/landslides at existing assets (increased construction/operating costs, decreased asset values, decreased sales)
+Automotive/ transportation
+Policy/laws• Carbon tax/carbon pricing• Introduction of carbon tax (increased operating costs)Market/ technology
+• Energy pricing
+• Spread of electric vehicles
+• Rising energy prices (increased operating costs)
+• Shift to electric vehicles (increased capital investment)
+Physical risk• Increasing average temperatures • Intensifying abnormal weather• Thermal expansion of railroad tracks (increased operating costs and capital investment)
+• Impact of catastrophic disasters on operations (increased operating costs and capital investment) *Greenhouse gases
+The Group’s Main Risks and Opportunities, Based on Physical and Transition Risks
+■ Risks
+• There is a risk of damage to the value of the Group’s loan assets by the introduction of carbon tax, climate change-related policies such as
+increased oil coal tax rates, and stronger GHG emission regulations and energy efficiency regulations for new buildings, which could affect
+customer businesses and financial statuses.
+• There is a risk of damage to the value of the Group’s loan assets by intensifying abnormal weather, which could cause stagnation in customer
+business activities and/or property damage and therefore affect customer businesses and financial statuses.
+• There is a risk of diminished Group corporate reputation in the event of poor Group response to environmental issues versus its competitors. ■ Opportunities
+• Demand is expected to increase for funds as a result of customer capital investment, etc. toward decarbonization, including from the spread
+of renewable energy in the energy sector, the introduction of high-efficiency construction and low-carbon building materials in the real es-
+tate sector, and the growth of electric vehicles and low-carbon technologies in the automobile and transportation sectors.
+• Demand is expected to increase for funds across all sectors from additional customer investments in disaster prevention facilities, etc. due to
+the intensification of abnormal weather.
+• Increased opportunity is expected for providing financial instruments and services related to environmental conservation and insurance
+products in preparation for natural disasters due to the intensification of natural disasters and changes in customer behavior driven by heightened awareness of environmental responsibility.
+We recognize that this is our first analysis in this area, and that there is room for further reflection in strategy and risk management. In FY2021, we will expand the areas and items in scope of analysis, and continue to improve and refine our scenario analysis for the entire Group.
+Risk Management
+Based on the results of its scenario analysis, the Group recognizes that climate change risk may affect the Group’s finances in the medium to long term. We have added climate change risk to the category of "Risks related to external factors" as we carry out integrated risk management.
+In assessment of potential investment/loan recipients, the front-line sales office and the loan-related department that conducts loan inspec- tion examine whether the loan application in question meets ESG criteria by taking into consideration ESG elements.
+Going forward, we will deepen our scenario analyses across the Group and work to quantify climate change risk. In addition, we will discuss policies for investments and loans in each sector, including energy and other carbon-related businesses.
+  Direct impact (devaluation of Higo Bank-held collateral)Indirect impact (performance deterioration due to customer sales stagnation)Risk event
+Wind and flood disastersScenario4°C Scenario *1
+Scope of analysisCollateral under the “buildings” category among all real estate collateral properties owned in Kumamoto City (5,222 properties)Companies located in central downtown Kumamoto City (382 companies)Risk indicatorCredit-related expenses (credit cost)Analysis results *2
+· Approximately 45% of collateral properties in scope suffer flooding · Credit cost increase of ¥2.4 billion
+· Approximately 90% of collateral properties in scope suffer flooding
+· Credit cost increase of ¥900 million 29 Kyushu Financial Group - Integrated Report 2021
+Kyushu Financial Group - Integrated Report 2021 30
+What the Kyushu Financial Group Aims to Achieve
+Initiatives for SDGs
+ Numerical Targets and Goals
+■ (1) Targets
+Transition of CO2 Emissions
+*Scope of calculation: Kyushu Financial Group Headquarters, Higo Bank, Kagoshima Bank
+• Calculation of CO2 emissions conforms to the GHG Protocol, and uses the Ministry of the Environment’s Basic Guidelines on Accounting for Greenhouse Gas Emissions Throughout the
+Supply Chain and the Emission Unit Values Report Ver 3.0.
+• Emissions factors are per electric power company (actual values) for grid power at the location of the project and as of the most recent data at the time of calculation.
+• Of Scope 3 emissions, Categories 8, 9, 10, 11, 13, and 14 were not applicable to this calculation and are zero. Category 15 is not calculated as of this document, and calculation methods
+are to be explored going forward.
+• Regarding Scope 1 and Scope 2 emissions presented here, we have reviewed disclosure content from the integrated report issued July 2020 and refined measurement items from this.
+Results of Environment-Related Investments and Loans (FY2020)
+Contribution Activities for Local Communities
+In addition to our main business, Kyushu Financial Group works to help realize a vigorous local community, part of our management philosophy, through human resources development, donations, volunteer activi- ties, and more.
+ ■ Providing side job opportunities in mask production
+In order to support individuals who have been financially affected by COVID-19, we carried out the Kumamoto Mask Project, a project bringing everyone together via side jobs in cooperation with volunteers from Kumamoto’s financial institu- tions and economic organizations. In this initiative, we purchased masks created by individuals suffering from diminished incomes, distributing these masks free of charge to businesses in the prefecture and people who would like masks. The re- sponse was enough to reach our target mask count on the first day, and by the end of the project, nearly 500,000 masks were distributed from more than 7,000 mask-makers.
+Masks being packaged
+Mask distribution
+  Measured ItemFY2017
+FY2018
+FY2019
+FY2020
+Scope 1: Gasoline, LPG, city gas, Class A heavy oil, light oil, kerosene1,741
+1,672
+1,653
+1,792
+Scope 2: Electricity
+11,731
+10,633
+8,017
+9,143Subtotal13,472
+12,305
+9,670
+10,935
+Scope 3: Other items related to indirect emissions
+45,478
+53,147
+66,947
+51,058Total
+58,950
+65,452
+76,617
+61,993■ Received Minister’s Award for Corporate Hometown Tax Payment
+■ Held the Kagoshima Fair in Taiwan
+In January 2021, we held the Kagoshima Fair, a tourism and product promotion project for Kagoshima in Taiwan. In addition to attracting inbound tourists in the future, we
+will use this fair to explore the export
+potential of products made in Ka-
+goshima Prefecture and expand
+Kagoshima Bank received the Minister’s Award for Corporate Home-
+town Tax Payment from the Minister of State for Special Missions of
+the Cabinet Office in recognition of the bank’s efforts to support mu-
+nicipal governments by utilizing the corporate hometown tax pay-
+ment system. The bank was recognized for its outstanding
+achievements in regional revitalization, having donated more than sales channels through export
+ Value of environment-related loans issued
+¥12.98 billionLoans for renewable energy generation CO2 reduction impact
+¥11.68 billion 459,090tons per year
+■ (2) Targets
+CO2 Emission Reduction Targets
+227 million yen to nine municipalities since 2018.
+■ Human resource development through the Kagin Future Creation Ideathon Program
+In connection with the Kagin Future Creation Plan Contest that had been ongoing for some time, we implemented the Kagin Future Cre- ation Ideathon Program, an initiative for students to learn the basic processes of idea creation and business creation. With the future of the region in mind, we aim to cultivate human resources who have an interest in and connection to creating and commercializing ideas and new businesses for solving regional issues.
+■ Tree planting activities Higo Bank
+Higo Bank has planted approximately 140,000 trees since 2006 in Aso Daikan no Mori in collaboration with the Foundation for the Preservation of Green and Water Resources of Higo. Moreover, each year since 2011, to conserve groundwater and reduce abandoned farmland, we plant and harvest
+rice at the Aso Mizukake no Tanada fields (Aso terraced rice paddies), promoting action to achieve a sustainable local community.
+support.
+■ Commended for regional vitalization support
+Our two banks have been recognized for their efforts to use manga for regional vitalization and to support issue resolution through use of the foreign technical intern trainee program, commended by the Minister for Regional Revitalization and certified by the Cabinet Of- fice’s Headquarters for Revitalization of Cities, People, and Careers as distinctive initiatives among financial institutions contributing to re- gional revitalization. Going forward, we will continue to work to re- solve challenges toward regional vitalization.
+Kagoshima Bank
+Every year since 2012, Kagoshima Bank has participated in Kagoshi- ma Prefecture’s Kyushu Forest Day Tree Planting Festival, raising awareness of environmental conservation of Bank employees as they join tree planting activities. Based on the Kagoshima Environ- ment Partners Agreement, we
+participate in the “afforestation project by companies to nur- ture the environment” along- side Kagoshima Prefecture, and also work on forest manage- ment focused on thinning.CO2 emissions*
+By FY2023, vs. FY2019 levels -10%
+(Ref )
+By FY2030, vs. FY2013 levels
+-46
+By FY2030, vs. FY2013 levels
+-60
+By FY2030, vs. FY2019 levels
+-30
+%
+% equiv. (Under Scopes 1, 2, & 3)
+% equiv. (Under Scopes 1 & 2)
+*Covers categories for potential of active reductions, including Scope 1, Scope 2, and Scope 3 (categories 1, 3, 4, 5, and 12).
+Target for Environment-Related Investments and Loans
+   Cumulative environment-related investments and loans (FY2021 to FY2030)
+¥200.0 billion
+31 Kyushu Financial Group - Integrated Report 2021
+Kyushu Financial Group - Integrated Report 2021 32

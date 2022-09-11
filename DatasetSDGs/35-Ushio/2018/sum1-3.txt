@@ -1,0 +1,37 @@
+Solutions to Social Issues and Lighting Edge Technologies
+ World’s First Successful Bacterial Disinfection
+of Pressure Ulcers Using 222 nm UV Light
+Harmless to the Human Body
+USHIO regards creating new business in fields such as medicine and hygiene as something more than a key management task. To illustrate this, we introduce some of the ways we are helping solve social issues through our operations.
+A Ray of Light for the Bedridden
+A medical term for bedsores is pressure ulcers. Both terms allude to how the injuries come about.
+When people are bedridden for a long time, constant pres- sure against the skin in contact with the bed limits blood flow and can lead to skin, hypodermis, and muscle death. In serious cases, these pressure ulcers can bring about bacterial infections of the hypodermis, bone, and so forth, and even complications leading to death.
+Many patients are now suffering from pressure ulcers. In the United States, it costs some three trillion yen a year to treat the numerous patients with pressure ulcers, diabetic leg ulcers, and the like. As life expectancy increases in the future, that cost may rise. In addition, chronic wounds are at risk of infection. While antibiotics and antibacterial creams are used accordingly for prevention and treatment, multi-drug resistant bacteria such as MRSA (methicillin-resistant Staphylococcus aureus) that cannot be eliminated with such drugs are on the rise of late. Moreover, using antibiotics entails a risk of creating new strains of drug resistant bacteria.
+A desire to use USHIO’s “light” to help suffering patients is what fueled the R&D that gave rise to USHIO’s 222 nm ultra- violet sterilization system. What started with the conclusion of exclusive license and research agreements with Columbia University in the United States led to a collaborative project with the National University Hospital of Singapore (NUHS) and the world’s first successful method of ridding pressure ulcers of bacteria without otherwise affecting patients’ bodies.
+UV Sterilization Has Great Potential
+Sterilization and disinfection that harnesses UV light’s pow- erful energy has immense potential. Basic research is already underway in the United States and Japan to put it to use in disinfecting surgical sites during surgery, and applications for disinfection and sterilization abound in the field of hygiene. We believe it is our mission to wield the power of light to ease the pain and suffering of patients worldwide.
+USHIO’s Light Technology and SDGs
+Of the Sustainable Development Goals (SDGs), we are especially focusing on “Good Health and Well-being” as it is deeply connected to our business. Our 222 nm UV sterilization system is one example. USHIO is contributing toward the achievement of SDGs via light technology.
+“Good Health and Well-being” is a particularly relevant target for USHIO
+By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and com- bat hepatitis, water-borne diseases and other communicable diseases.
+By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination.
+Why the 222 nm Wavelength of UV Light Is Harmless to the Human Body
+  Potential applications for our 222 nm UV sterilization system
+• Treatment of infected chronic wounds
+• Disinfection of surgical sites during surgery
+• Curbing airborne transmission and infection through
+contact of SARS-CoV (SARS coronavirus), MERS-CoV (MERS coronavirus), dengue fever, and the Ebola virus
+• Hand disinfection
+• Equipping appliances like hand dryers with a steriliza- tion function
+• Spore fungus and norovirus sterilization
+UV light causes things like tanning and photo- aging such as wrinkles and sunspots. While it is gen- erally thought of as being harmful to the human body, that is not always the case. The effects of UV light depend on the wavelength.
+UV light around 260 nm is actually the most effec- tive for disinfection, but that wavelength is very harmful to the human body.
+On the other hand, 222 nm UV light reaches the core of bacterial cells but not the nucleus of human cells, so it does not damage human DNA or bring about carcinogens or otherwise harm the human body.
+222 nm is the best wavelength of UV light for ster- ilization and disinfection since shorter wavelengths are not only less effective but also require use in a vacuum environment and secondary equipment.
+Human-friendly UV light 222 nm
+Human-friendly UV light 222 nm
+Bacterial cells
+1 μm
+Human cells (10–25 μm) are bigger than bacterial cells (1 μm). So when 222 nm UV light is irradiated, it reaches the core of bacterial cells but not the nucleus of human cells, and therefore does not damage human DNA.
+             25
+26

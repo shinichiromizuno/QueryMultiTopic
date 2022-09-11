@@ -1,0 +1,121 @@
+ Growth Strategies Related SDGs
+ Strengths
+Competitive crude oil procurement through production optimization tools
+Unified sales systems for nationwide network of 13,000 service stations in Japan Nationwide network of 13 refineries and plants in Japan
+Global supply network for lubricants
+Production capacity of chemical products with a strong presence in global markets High-performance materials technology (highly heat resistant resins, optical films, etc.)
+Broad portfolio of renewable energy businesses including mega solar, wind power, and biomass using idle company-owned land
+  Risks
+Dealing with declining domestic demand due to population decline and the growth of eco-cars Gaining an edge over highly cost-competitive, large-scale overseas refineries
+Developing and strengthening businesses that will be mainstays of the future
+Initiatives for the shift to low carbon, which are rapidly progressing worldwide
+ Opportunities
+Economic growth and rising demand for petroleum and petrochemical products in emerging countries, mainly in Asia
+Rising demand for clean energy, including renewable energy
+Basic Policies of the Second Medium-Term Management Plan
+ 1. Generate ongoing cash flow by strengthening the competitiveness of the base businesses
+2. Pursue selective investment to develop and strengthen growth businesses and optimize the business portfolio 3. Strengthen the business foundation
+73 ENEOS Holdings, Inc. | ENEOS REPORT Integrated Report 2020
+  Business Environment and Review of the First Medium-Term Management Plan
+Over the medium to long term, the decline in oil demand in Japan is expected to continue, while steady growth is anticipated in global demand for lubricants and petrochemical products.
+Fiscal 2019, the final year of the first Medium-Term Manage- ment Plan, was a tough year in terms of business performance. Factors affecting our performance included lower prices for petrochemical products due to production activity at large facilities in China, the spread of COVID-19 in the fourth quarter, and reduced margins and inventory valuation losses on petroleum products accompanying the sharp drop in the price of crude oil. However, our ongoing rationalization and efficiency efforts in our petroleum refining & supply and petrochemicals businesses enabled us to generate a synergy effect of 122.5 billion yen, exceeding the 100.0 billion yen target of the first Medium-Term Management Plan.
+On the production side, measures to improve efficiency included converting the Muroran Plant from a production plant to a distribu- tion base and integrating our refinery and manufacturing plants in the Kawasaki area. We also halted refining operations at the Osaka Refinery and converted it to a business site for an asphalt-fueled electric power facility. In addition, a final agreement was reached to continue the joint venture collaboration with the Osaka International Refining Company (OIREC) refining business, which was created through a merger with PetroChina International (Japan) Co., Ltd., while switching the operation to the Chiba refinery. At the Kashima Complex, we began joint studies with Mitsubishi Chemical Corpora- tion on the use of chemicals to recycle waste plastic.
+On the sales side, with the integration of all of our service station brands into the ENEOS brand, we introduced the new
+EneJet self-service stations and the EneKey keyholder fob for quick payment. We also began introduction of on-site laundro- mats and verification trials of car sharing services as part of our efforts to evolve our service station network, the largest in Japan, into a lifestyle platform.
+In our electric power business, we unified our household retail brands under the ENEOS Denki brand and expanded the supply area to cover the Kansai, Chubu, Tohoku, and Shikoku regions, resulting in an increase in the number of contracts to roughly 690,000 at the end of fiscal 2019. In April 2020, we expanded the coverage further to include the Hokuriku and Kyushu regions. While developing our domestic power generation business to secure power sources, we also became a partner in a power generation project in the state of Ohio, the Group’s first participation in an international gas-fired power generation business.
+In our gas business, we expanded sales of ENEOS Toshi Gas, our residential city gas business, in the Kanto region and at the end of fiscal 2019 had increased the number of contracts to approxi- mately 60,000. We also began discussions with strategic overseas business partners about an LNG business in Vietnam.
+In our hydrogen business, as a medium- to long-term initiative, we commenced construction of three new ENEOS hydrogen stations to add to our 44 existing sites. We also participated in technology research for the development of an international supply chain for the commercialization of CO2-free hydrogen.
+In our renewable energy business, we decided to participate in an offshore wind power project in Taiwan and are working toward starting operations in 2021. Construction of the Muroran Biomass Power Plant also progressed, and the plant commenced commercial operation in May 2020. We also entered into a business and capital alliance with Renewable Japan Co., Ltd. to further contribute to the realization of a low-carbon society.
+Fixed Gas Station Market Share (End of Fiscal 2019)
+Other
+24.7% ENEOS
+Market Share of Fuel Oil Sales in Japan
+Fiscal 2018 Fiscal 2019
+(%)
+60 50 40 30 20 10
+0
+47.8 49.8 47.0 46.8 48.1 46.8
+Fuel oil A
+   49.4 49.5 46.3 45.1
+43.4 42.5
+Diesel fuel
+No.1 43.8% in Japan
+             (Fuel type) * Excluding crude oil for electricity
+Cosmo 9.4%
+Idemitsu + Showa Shell
+22.1%
+   Gasoline
+Kerosene
+Total of 4 products
+Domestic demand for fuel oil*
+ENEOS Holdings, Inc. | ENEOS REPORT Integrated Report 2020 74
+
+Energy Business
+Business Strategy
+To achieve the Long-Term Vision, we are carrying out initiatives in line with the basic strategies of the second Medium-Term Management Plan (see page 73) to steadily produce results. We will achieve the plan through bold and strategic transformation by addressing the challenges of the energy transition, mobility transformation, and changing social systems, responding to the rapidly changing petroleum products market, and forging ahead in the face of uncertainty.
+Generate Ongoing Cash Flow
+by Strengthening the Competitiveness of the Base Businesses
+Continue to Pursue Optimal Production and Supply Structure
+Actively introduce digital technology, including verification of AI-based automation of refinery operations
+Optimize supply by introducing digital tools throughout supply chain management (SCM)
+Build an Optimal Petroleum Product Sales Structure
+Integrate the business processes for JX and TonenGeneral with the introduction of the integrated enterprise resources planning system Use RPA and other digital technologies to further improve efficiency and productivity at branch offices
+Use ICT and AI to improve land-based shipping efficiency, and formulate an effective BCP for prompt and flexible response in the event of a major earthquake
+Rebuild OIREC Business
+Halt the refining function at the Osaka refinery and relocate refinery management to Chiba
+Shift Human Resources to Growth Businesses in Accordance with Decreases in Domestic Demand
+Strengthen human resource systems for the next generation in the overseas, electricity, gas, renewable energy, and new business segments
+Pursue selective investment to develop and strengthen growth businesses and optimize the business portfolio
+Pursue Development of Chemical Refineries and Enter the Derivatives Field
+Raise the chemical ratios at the Kawasaki, Kashima, Mizushima, and Oita industrial complexes from 10% to 30%
+Expand production of products with technological advantages, including hydrogenated petroleum resin, ENB, and wire insula- tion materials
+Build the ENEOS Platform (see next page)
+Build a service-station-based platform to offer total services according to customer life stages. Create mobility services and lifestyle support services in addition to existing services
+Grow into a platform that provides total services for all needs, according to customers’ life stages
+Provide an Efficient, Stable Supply of Low-Carbon Energy
+Roll out an electric power service that meets the needs of customers through the integrated use of distributed power sources
+Expand the customer base and construct an optimal portfolio of power generation sources
+Expand domestic and overseas renewable energy power gener- ation capacity to over 1 million kW
+Build a CO2-free hydrogen supply chain
+Environmentally Conscious Businesses
+Pursue plastic waste recycling using refineries
+Plastic Waste Recycling Flow Chart
+Strengthening the Business Foundation
+We are strengthening our governance and business management framework to enhance our international competitiveness.
+We will enable autonomous management in each division and strengthen monitoring by management. We will also fully utilize integrated enterprise resource planning systems and other digital technologies to improve the agility and efficiency of our business execution. In addition, we are building human resources systems for the development, deployment and maximization of capabilities of our personnel, who carry out our business operations.
+         Petrochemical products
+ Use & disposal Collection
+  Petroleum refining
+Plastic waste recycling
+  Sorting (oil recovery)
+    75 ENEOS Holdings, Inc. | ENEOS REPORT Integrated Report 2020
+
+ ENEOS Platform
+  Car leasing Car sharing
+Real platform (SS network)
+Digital platform
+Combined stores
+Laundry service & delivery
+    Mobility services
+AI engine
+Lifestyle support services
+ Functions of the ENEOS Platform
+Car sharing with vehicle delivery
+EV charging
+Customer
+DB Reservation management
+Online call center
+Small deliveries
+House cleaning
+Help with household tasks
+   Matching algorithm
+Freer and more active movement
+Freer and more active lifestyle
+ In FocusStart of operation at the Muroran Biomass Power Plant, Japan’s largest biomass power plant
+ ENEOS Biomass Power Muroran GK, in which ENEOS is an investor, started commercial operation of Japan’s largest biomass power plant in May 2020. The plant is a joint project with JGC Holdings Corporation.
+The electric power generated by the plant, which is fueled primarily by palm kernel shells, is sold using the feed-in tariff (FIT) system for renewable energy. With a power generation capacity of 74.9 MW, the plant is the largest power plant in Japan that uses solely woody biomass as fuel.
+“Biomass” is a general term for biological resources derived from animals and plants that can be used as energy sources. Biomass power generation is the process of burning or gasifying biomass to generate electricity. Since biomass is organic matter, power generation using biomass as a fuel generates CO2 emissions. Burning palm kernel shells, however, is not viewed as increasing CO2 in the atmosphere because the
+palm trees absorb CO2 through photosynthesis while they grow.
+ENEOS has been actively developing its biomass power generation business, as biomass power genera- tion is a promising source of renewable energy due to the fact that the ash produced in the combustion process can be recycled, and biomass-generated power also has a high degree of supply stability.
+ENEOS is expanding its renewable energy power generation business across Japan and currently operates 18 mega solar power plants producing 46 MW and two wind power farms generating 4 MW. The Muroran Biomass Power Plant is the first biomass power plant where ENEOS is the main operator. While providing a stable supply of energy, we will continue our proactive efforts to supply environmentally friendly energy in order to contribute to the development of a low-carbon, recycling-oriented society.
+ENEOS Holdings, Inc. | ENEOS REPORT Integrated Report 2020 76

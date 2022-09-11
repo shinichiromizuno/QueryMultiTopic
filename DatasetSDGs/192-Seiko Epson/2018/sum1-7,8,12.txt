@@ -1,0 +1,74 @@
+Minimizing Customer Environmental Impacts Feature
+Office Inkjet PrintersContributing to Office Environmental Solutions
+High-Speed Linehead Inkjet MFPs for Printing Performance with Low Power Consumption
+With built-in PrecisionCore lineheads, the WF-C20590 is a high-speed multi-function inkjet capable of print speeds up to 100 ppm (pages per minute). That’s double the output of the typical office laser printer. Enabled by Epson’s inkjet technologies, high-speed linehead multi-function printers (MFPs) take the combination of print performance and energy efficiency to the next level.
+        Power consumption*2
+Print speed*3 100
+         Technology Shift
+SDGs it helps achieve
+about
+laser printers
+1/8
+th
+ppm
+ that of
+            Laser Printer
+Ink jet Printer
+High-speed linehead inkjet MFP
+    User Comment
+        Businesses are more sensitive than ever to environmental issues. Many try to save energy by adjusting their thermostat settings or adopting LED lighting. What they may overlook is that printers and MFPs account for about 10% of total power consumed in a typical office.
+We see an opportunity to help them further cut their energy use and costs. Epson inkjet printers draw very little power when printing because ink droplets are ejected by the action of piezoelectric elements that contract under only a tiny applied voltage. In contrast, laser printers require heat-and a lot of electricity-to fuse toner to paper.
+Increasing efficiency and reducing energy costs
+Maike Röttger
+Plan International Germany CEO
+          Ideas
+for the Office
+We at Plan International, a children’s aid organization that is active in over 70 countries, have replaced most of our laser printers with Epson inkjet printers. We use Epson’s high-speed linehead inkjet multifunction printers for high-volume print jobs in order to maximize speed, quality, and efficiency. Lower energy costs are an added benefit, as are a cooler office environment and better indoor air quality, since inkjets do not heat up a room. We are extremely satisfied with the excellent output and superior printing performance of Epson’s printers, as well as their environmental performance, as sustainability is crucial in environmentally conscious Germany.
+      *3
+A4, landscape, single side printing on WF-C20590. Calculating method is at: https://www.epson.com/printspeed
+         How Power is Consumed at the Office*1
+Others 3%
+WF-20590 0.80 0.05 Wh/page
+Reducing CO2 Emissions with High-Capacity Ink Tank Inkjet Printers
+High-capacity ink tanks reduce resource consumption for consumables and packaging. Consumables CO2 emissions are only about
+1/5th of conventional
+cartridge model.
+High-capacity ink tank printer
+Compares CO2 emissions from raw materials and parts manufacturing for consumables to print 300 pages (A4, color) per month/18,000 pages in 5 years with models EW-M770T and PX-M650F. CO2 emissions calculated based on Epson’s evaluation conditions and will vary depending on customer printer use. Results based on calculation method used in Japan.
+Evaluated: Cartridge model: ink cartridges, packaging. High-capacity ink tank model: ink bottles, packaging.
+        Printers & MFPs
+%
+LED lighting
+29
+Central air conditioning
+Power Consumption Per Page
+(WF-20590 versus average values for typical office laser printers*2)
+(Wh/page)
+    10
+0.70 % 0.60 0.50 0.40 0.30 0.20 0.10 0.00
+ Average
+       PCs
+13
+45%
+0.4
+Wh/page
+CO2 emissions of consumables compared*4
+ (kg-CO2e)0 1 2 3 4 5 6
+about
+  Cartridge printer
+PX-M650F
+  5.54
+         CO2 emissions
+  High-capacity ink tank printer
+EW-M770T
+ %
+Top 10 competitive color MFPs
+Epson
+1.16
+15
+th
+ *1 Epson research based on data from commissioned survey conducted in March 2018 by SOMPO Risk Management & Health Care Inc.
+*2 Comparative simulation of power consumption per page. Ten of the leading (in terms of unit shipments) A3 color MFPs with outputs of at least 45 ppm were selected, and their average per-page electricity consumption was compared. (Source for 2017 unit shipments: IDC’s Worldwide Quarterly Hardcopy Peripherals Tracker 2017Q4.) Our per page calculations are based on the TEC values posted on energystar.gov as of February 2018.
+*4
+those of cartridge printer
+25 Epson Group Integrated Report 2018 Epson Group Integrated Report 2018 26

@@ -1,0 +1,3648 @@
+3-3-5 Owa, Suwa, Nagano 392-8502, Japan TEL: +81-266-52-3131 https://global.epson.com
+  Epson Group Integrated Report 2018
+  Epson Group
+INTEGRATED REPORT 2018
+  
+   We at Epson seek to create customer value as guided by our Management Philosophy with the aims of winning and maintaining the trust of our stakeholders and of contributing in an ongoing way to the development of society. We will fulfill our corporate social responsibility through actions designed to achieve our Management Philosophy.
+In April 2017, Epson revised its Management Philosophy, which guides everything we do, to expressly state our goal of making Epson an indispensable company. In conjunction with these changes, we also revised“Principles of Corporate Behavior,”Epson’s corporate code of conduct. This code of conduct, which is shared throughout the Epson Group, articulates cautionary measures and standards of conduct that employees are expected to follow when dealing with customers, shareholders, investors, and other stakeholders.
+Principles of Corporate Behavior
+  1 Pursuing customer satisfaction
+  We think of our customers’perspective at all times and continue to create trusted products and services that please our customers around the world.
+    2 Preserving the natural environment
+We integrate environmental considerations into our corporate activities and actively strive to meet high conservation standards when fulfilling our responsibilities as a good corporate citizen.
+      3 Fostering diverse values and teamwork
+   We strengthen teamwork by recognizing the value of a diverse workforce and creating synergies between individuals and our organization.
+      4 Creating a safe, healthy, and fair work environment in which human rights are respected
+  We respect basic human rights and create a cheerful, safe, healthy, and fair work environment that is free of discrimination.
+    5 Ensuring effective governance and compliance
+We institute effective corporate governance and internal controls, and we observe laws, regulations, and other rules and maintain the highest ethics in all activities.
+      6 Ensuring the security of people, assets, and information
+   We protect the safety and security of people and company assets, and we exercise strict care in the management of all information.
+     7 Working with business partners for mutual benefit
+We seek to maintain mutually beneficial relationships with our suppliers, sales channels, collaborators, and other business partners, whom we ask to live up to the highest standards of ethical conduct while respecting their autonomy and independence.
+      8 Prospering with the Community
+   We actively contribute to the communities in which we operate, as well as the international community, facilitating mutually beneficial relationships.
+     9 Initiating honest dialogue with our stakeholders
+ We maintain open lines of communication with our stakeholders, thoughtfully considering their views and suggestions.
+    (Excerpt)
+ Management Philosophy ............................................................ 1 A History of Value Creation ...................................................... 3 Key CSR Themes (Materiality Matrix) ...................................... 5 Value Creation Story .................................................................... 7 To Our Stakeholders .................................................................... 9 Epson 25 Corporate Vision ...................................................... 15 Message from the Director of Finance .................................. 17 Financial and Non-Financial Highlights ..................................21 Special Feature:Minimizing Customer Environment Impacts 23 Business Segment Overview .................................................... 29 Value Creation Strategy
+ Inkjet Innovation ..................................................................... 31  Visual Innovation .................................................................... 37  Wearables Innovation ............................................................ 41  Robotics Innovation .................................................................43  Microdevices That Support the Four Areas of Innovation 45  Intellectual Property Underpinning Epson Innovation .... 46
+Key CSR Themes and the 17 SDGs ......................................... 47 Value Creation Infrastructure
+ Environment ...............................................................................49  Society ....................................................................................... 53  Governance .............................................................................. 59 Consolidated Financial Highlights ......................................... 69 Global Network .......................................................................... 71 Group Outline .............................................................................. 73 Shareholder and Share Information ........................................ 74
+Note: Epson products and services vary by region. Most of the products featured in this Report are models for the Japanese market. Please refer to your local Epson sales company for details of products and services available in your region.
+Disclaimer
+This report includes forward-looking statements, estimates, and plans. Projections herein are based on the best information available at the time of publication. Actual results may vary from those discussed.
+Editorial Policy
+This report provides important information to shareholders, investors, and other stakeholders about Epson’s sustainability and growth potential by covering topics such as Epson’s business strategies, financial performance, and ESG activities. Editorial decisions in the preparation of this report were based on the principles outlined in
+“Guidance for Collaborative Value Creation”from the Japanese Ministry of Economy, Trade and Industry and on the“ International Integrated Reporting Framework”from the International Integrated Reporting Council (IIRC).
+Reference websites
+Information Disclosure
+Investor Relations
+https://global.epson.com/IR/
+Social Responsibility
+https://global.epson.com/SR/
+        Financial information
+ Integrated Report
+Annual Report (PDF) Investor Relations (Web)
+Non-financial information
+(booklet & PDF)
+Sustainability Report (PDF) Social Responsibility (Web)
+ Period covered: April 1, 2017 to March 31, 2018 (Some information may be from other periods.) Coverage: 87 Epson Group companies (including Seiko Epson Corporation)
+Note“: Epson”refers to the Epson Group, unless indicated otherwise.
+Please do not use images and other content in this report without permission.
+Epson has also been working to improve communication with stakeholders by publishing a Sustainability Report and providing information on its websites and in other media.
+1 Epson Group Integrated Report 2018 Epson Group Integrated Report 2018 2
+Contents
+
+                           A History of Value Creation
+2010
+High-capacity ink tank printers
+2011
+Web-based
+intelligent 2008 receipt printers
+Compact inkjet printers for the home
+2015
+Color inkjet label printers with linehead
+2016
+Office papermaking system
+2017
+High-speed linehead inkjet multifunction printers
+     2008
+Large-format signage printers
+  Now in business for three-quarters of a century, Epson, which began in 1942 as Daiwa Kogyo Limited, has evolved and expanded over the decades while maintaining its DNA as a product developer and man- ufacturer. Our history has been informed not only by our products and services but also by our culture, ability to capture broad social change, and sustained value creation. Epson’s history is a history of value creation.
+2000
+Large-format pigment-ink printers
+2014
+High-capacity ink pack printers
+2016
+High-brightness laser projectors
+2018
+Accent lighting laser projectors
+Smart glasses with OLED display
+2016
+Folding arm 6-axis robots
+         Epson’s Business Segments
+Wearable Visual Products &
+Communications Industrial Solutions
+Product History by Business Segment
+Printing solutions
+Visual communications
+Wearable products & industrial solutions 1968
+EP-101 miniprinter
+1994
+Color
+inkjet printers
+2010
+Digital label press
+2010
+Interactive projectors
+High-brightness projectors
+Printing Solutions
+1993
+Micro Piezo inkjet printers
+1994
+3LCD
+data projectors
+1994
+2003
+Inkjet
+textile printers
+            Epson
+1986
+Scanners
+1987
+Laser printers
+1987
+Plastic SMD crystal oscillators
+1988
+Automatic power generating quartz watches
+1996
+Hybrid receipt printers
+2009
+       1982
+2005
+DVD player- projectors
+2011
+Smart glasses
+2011
+Rapid, low-vibration SCARA robots
+2016
+  PCs SIDM printers
+1983
+SCARA robots
+1989
+Liquid crystal video projectors
+  1980
+  2009
+Compact 6-axis robots
+2018
+Mechanical Moon Phase watches
+2017
+High-performance analog watches
+2018
+  IC test
+handlers High-temperature- robot  
+Autonomous dual-arm
+    2010
+resistant gyro-sensors
+2014
+Activity trackers with heart rate monitor
+2015
+2010s
+        2012
+  Founded
+1942
+Crystal chronometer Quartz watches (analog)
+1965 1970
+1942 - 1979
+1975 1980
+1985
+1990
+mechanical watch Inertial
+2000 2005 2010 measurementunits
+1973
+Quartz watches (digital)
+1993
+Ultraminiature robot
+1995
+1990s
+GPS sports 1999 monitors
+Spring Drive
+watches 2012
+GPS Solar 2003 watches
+Semi Skeleton 2011
+2000s
+Surging ahead into a new era
+2003, Seiko Epson shares listed on the Tokyo Stock Exchange. 2005, established the“Exceed Your Vision”global tagline to build the brand worldwide.
+2017
+ 1956
+Mechanical watches
+1960
+1963 1969
+1982
+LCD
+TV watch
+   From its beginnings to the advent of the Epson brand
+Becoming a trusted global company
+1975, set up our first overseas sales site in the U.S. and began building a global sales network. 1989, established the Epson Group Manage- ment Philosophy to articulate our goals.
+Global pioneer in environmental action
+1992, eliminated CFCs from our production process- es in Japan. Behind our pioneering environmental actions was a conviction that conservation was our only hope for prospering as a company.
+Contributing to global solutions
+Continue to develop new technologies such as the PaperLab A-8000 (2016). Under the Epson 25 Corporate Vision, aiming to create a new connected age of people, things, and informa- tion with efficient, compact and precision technologies.
+Established in 1942 as Daiwa Kogyo Ltd. Named official timekeeper at the 1964 Tokyo Olympics as a member of the Seiko Group. Developed a printing timer. In 1968, released the EP-101, the world’s first compact, lightweight digital printer. In 1975, we established the Epson brand and expanded into new business areas.
+1980s
+  Daiwa Kogyo Ltd., The EP-101, the world’s first compact, lightweight digital printer Epson America, Inc., Epson’s Epson, winner of the Stratospheric Ozone Layer Protection Seiko Epson shares listed The PaperLab A-8000 office papermaking system the predecessor of Seiko Epson (1942) and the inspiration for the“Epson”brand name (1968) first overseas sales company in the U.S. (1975) Award from the U.S. Environmental Protection Agency (1992) on Section 1 of the TSE (2003) produces new paper from used paper (2016)
+3 Epson Group Integrated Report 2018 Epson Group Integrated Report 2018 4
+          
+           Key CSR Themes (Materiality Matrix)
+ Key CSR Themes and SDGs for Addressing Social Issues
+It is important for us to identify priority issues as a company and to address them through our business activities in order to reach the goals stated in our Management Philosophy and to become an indispensable company. We comprehensively iden- tified social responsibility topics by referencing ISO 26000 and other sources for guidance. We evaluated the topics from both a company perspective and a social perspective. Those found to have the highest priority were mapped in a materiality matrix “( Key CSR Theme Matrix”). In the 2017 fiscal year, we analyzed these topics against the sustainable development goals (SDGs) to select SDGs that are aligned with our strategies.
+  See P47-48 for details
+       Identifying the Key Themes
+To identify key social responsibility topics, we analyzed research on long-term social trends and looked at the company’s strategic direction based on the company’s 2025 stra- tegic vision (the Epson 25 Corporate Vision) and on our code of conduct (Principles of Corporate Behavior) for realizing the Management Philos- ophy. We listed up 466 challenges as potential key topics and then mapped them to the seven core subjects of ISO 26000.
+Epson’s CSR Executive Council and CSR Management Committee evalu- ated and prioritized the topics to narrow down the list to 29 challeng- es. Epson’s materiality matrix “( Key CSR Themes”) was established after Epson’s outside directors and CSR consultant evaluated the importance of the topics from a social perspec- tive.
+Commitment to the SDGs
+Epson is using its original efficient, compact, and precision technologies and initiatives as vehicles to drive innovations that will enrich the world and make it a better place. Our goals are the same as those of the sustainable development goals (SDGs) adopted by the United Nations.
+Epson is creating new value by looking hard at solutions to social issues, understanding the expectations that society has of us, and then pro- viding products and services that far exceed those expectations. We at Epson are committed to the development of sustainable societies through the four areas of innovation identified in the Epson 25 Corporate Vision.
+Minoru Usui
+President
+Seiko Epson Corporation
+Key CSR Themes
+  Importance from Epson's Perspective
+   ● Effective use of energy and resources
+● Climate change and global warming ● Respect for human rights
+● Consumer health and safety
+ ● Creating new products and services with advanced technology
+● Contributing to the environment through products and services
+● Information security
+ ● Awareness-raising and consumer education
+● Control of water and drainage
+● Universal design
+ ● Corporate governance
+● Communication with
+stakeholders
+● Community contributions and
+engagement
+● Labor conditions and work
+environment
+● Occupational health and safety ● Transparent disclosure
+ ● Business operations aligned with global social trends
+● Productivity improvement utilizing ICT
+● Product competitiveness
+● Strategic marketing
+● Compliance
+● Diversity
+● Human resources development,
+hiring, and retention
+● Product quality and communications
+● Supply chain management
+ ● Resource recycling
+● Biodiversity conservation
+● Air pollution
+  ● Risk management (including BCP)
+    Identifying Key CSR Themes
+Recognize social trends and company direction
+Understand mid- and long-term trends and identified 466 poten- tial key themes in select areas
+Evaluate materiality from a societal perspective
+Outside board mem- bers and experts evaluate their materi- ality
+Select areas
+● Management Philosophy ● Principles of Corporate
+Behavior
+● Corporate Vision
+Epson 25
+● Mid-term Business Plan ● Environment Vision 2050
+      Evaluate materiality from a company perspective
+Epson’s CSR Executive Council and CSR Man- agement Committee evaluate their material- ity
+Determine validity of themes
+Epson’s CSR Manage- ment Committee deter- mines the validity of the CSR themes and selects key themes
+● Global Japan ● White Paper
+Information and Communications in Japan 2016
+● RBA Code of Conduct
+● GRI
+● SASB
+● ISO 26000
+● SDGs
+● SRI survey item
+Electrical & Electronics Industry trends and societal demands
+      Direction of company management
+General social trends
+General societal demands
+5 Epson Group Integrated Report 2018 Epson Group Integrated Report 2018 6
+ Importance from a Societal Perspective
+Principles of Corporate Behavior Management Philosophy
+
+                Expansion of the office
+market
+● Inkjet printers
+● Office papermaking
+systems
+● Projectors
+● Scanners
+Expansion of the commercial and industrial markets
+● Commercial and industrial printers
+● High-brightness projectors ● Robots
+Reinforcement of the consumer market
+● Wearable products ● Smart glasses
+● Inkjet printers
+FY2025 financial objectives
+Revenue ROS*2
+¥ 1,700billion 12%
+Business profit*1 ROE*3
+¥ 200billion 15%
+* Assumed exchange rates: ¥115/USD & ¥125/EUR
+     Financial
+Total asets ¥1,033.3 billion Rating A (R&I)
+ Manufacturing
+Balance of property, plant and equipment, and intangible assets
+3,
+¥319.9 billion
+ Intellectual
+The top 100 global patent applicants
+Global No. 7
+ Human
+Total employees
+76,391
+ Natural
+Limited natural resources (e.g., energy & materials)
+ FY2017 financial results
+Revenue
+¥1,102.1billion Business profit*1
+¥74.7billion
+              Epson aims to achieve 13 SDGs
+(as of 3/2018)
+ Value Creation Story
+  Creating New Value by Leveraging Epson’s Technologies
+to Drive Innovation in Four Areas
+Steady business growth is essential if we are to achieve the goals set forth in the Management Philosophy. Epson will achieve growth by addressing social issues while leveraging the efficient, compact, and precision technologies in its DNA to drive inkjet, visual, wearables, and robotics innovations that create value in the areas of smart technology, the environment, and performance. In addition to our strength in consumer markets, we will further expand our presence in the office, commercial, and industrial sectors to achieve this growth and contribute to solutions to global social issues.
+See P47-48 for details
+Achieving the Goals of the Management Philosophy
+Indispensable company
+Exceeding
+customer
+expectations Exceed Your Vision
+      Type of Capital
+Epson’s Growth
+    Epson’s DNA
+Growth Strategy (The four areas of innovation)
+Inkjet innovation
+Visual innovation
+Wearables innovation
+Robotics innovation
+Microdevices
+Supporting the four areas of innovation
+Value Creation
+Increase office productivity and lower environmental impacts
+Support telecommuting, SOHO, and other decentralized work arrangements
+Increase commercial and industrial productivity, reduce energy consumption, lower environmental impacts, and reduce the labor load
+Create outstanding visual experiences and a natural visual communications
+environment
+Provide enrichment and delight in everything from sports to everyday life
+Shift the work of people to areas that are more creative and add higher value
+Help to build smart social infrastructure using the IoT
+                        Social and relationship
+Epson Group companies
+87 (including Seiko Epson Corp.) (16companiesinJapanand71overseas)
+Efficient, Compact, and Precision Technologies
+Smart technologies
+The environment
+Performance
+       Environment
+Governance
+ESG initiatives that embody
+the values espoused
+in Epson’s Management Philosophy
+Social issues affecting Epson
+Social
+   7
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 8
+*1
+*2 *3
+Business profit is very similar to operating income under Japanese accounting standards (J-GAAP), both conceptually and numerically. Epson began using business profit as an indicator after adopting International Financial Reporting Standards (IFRS).
+Business profit/revenue
+Profit for the period attributable to owners of the parent company/Beginning and ending balance average equity attributable to owners of the parent company
+5
+2
+n
+o
+s
+p
+E
+
+       To Our Stakeholders
+ Contributing to Society
+as an Indispensable Company by Maintaining High Aspirations and Creating Customer Value
+Minoru Usui
+President
+Seiko Epson Corporation
+Aims of Changes to the Management Philosophy
+Making Epson an Indispensable Company by Helping to Realize a Better World
+In 2017, we revised the Epson Group’s Management Philosophy, adding the phrase“indispensable company”to declare our commitment to use our technology to provide new customer value in order to play a central role in realizing a better world.
+Our reason for being is to enrich lives and make society happier. As a company, we have to make a profit, but that profit has to be the result of earning the trust of our customers. The revised Management Philosophy articulates our goal of sustaining growth and being indispensable to our customers, business partners, employees, and society by earning a profit as a sign that we have earned trust.
+A company will fail to recognize its true mission and make itself indispensable if it becomes absorbed in rival’s moves or in market competition. Our primary emphasis should be on tackling the needs of customers and society, and on exceeding their expectations. At Epson, we seek to create value that exceeds customer expectations by encouraging our people to draw on their strengths and take the initiative to identify and deliver products and services that will enrich lives and bring our customers delight, happiness, and greater convenience.
+  9
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 10
+      
+            To Our Stakeholders
+Corporate Vision for Achieving the Management Philosophy
+Providing Our Efficient, Compact and Precision Technologies to Drive Innovation in Four Areas
+Vertically Integrated Business Model
+Perfecting Core Technologies and Core Devices to Maximize Customer Value
+  The Epson 25 Corporate Vision maps out Epson’s course for the 10-year period from FY2016 to FY2025. The vision statement reads: “Creating a new connected age of people, things and information with efficient, compact and precision technologies."
+Epson draws its strength from the efficient, compact, and precision technologies in its DNA. We have a history of improving product energy efficiency, reducing the size of parts and products without sacrificing performance, and achieving ever greater precision. Our efficient, compact, and precision technologies yield value in the form of smart technologies, the environment, and performance. Environmental impact mitigation and smart technologies are among the megatrends that will characterize the next decade. Both will be supported by advances in information and communications technology (ICT). Advances in ICT will lead to data of all kinds being uploaded to and available on the Internet, fueling the expansion of cyberspace. As a result, people in the real world will become directly involved with the cyber world, and products at the junction of these two worlds will become important for customers. As the ultimate real-world manufacturer, Epson will provide products and services whose value has been maximized using the
+ultimate in efficient, compact, and precision technologies. We will also collaborate with the IT companies that underpin cyberspace to connect people, things, and information, and thereby create even greater value.
+As declared in Epson 25, we seek to drive inkjet innovation, visual innovation, wearables innovation, and robotics innovation. Microdevices, primarily crystal devices and semiconductors, will support innovation in these four areas.
+We will fully tap into all of Epson’s strengths and take advantage of Epson’s position to drive innovation in these four areas and usher in a new age.
+The Four Areas of Innovation Under Epson 25
+Epson’s creativity in product development and manufacturing is a byproduct of vertical integration. The core devices that determine the functions of our finished products are developed internally by drawing on the ideas and skills of our people.
+We own and are thus able to wring the maximum benefit from all the core technologies and devices in our products. For printers, this is printheads. For projectors, it is microdisplays. For watches, it is precision processing technology. For robotics, it is sensors. All of these devices and technologies have been developed and refined over time by dedicated Epson engineers. As a finished product manufacturer, we understand better than anyone what type of value customers need. Listening carefully to our customers and developing products for them give us the opportunity to refine the core technologies and devices that are essential to finished product performance.
+In inkjet printers, for example, we have been able to expand the applications for finished products by improving the core technology. Inkjet systems, which use far less power than laser systems, meet the needs of customers who want to
+Epson’s Vertically Integrated Business Model
+shrink their environmental footprint. We have broadly expanded the potential applications of inkjet systems by advancing our proprietary Micro Piezo inkjet technology, achieving superb durability, wide ink compatibility, terrific image quality and blazing print speeds. We now have inkjet printers not only for consumer use but for office, commercial and industrial applications. We have been able to accomplish this largely thanks to vertical integration, a business model that allows us to squeeze the maximum benefit from Epson’s outstanding technology and finite resources.
+We are driving innovation in four areas where we can draw on Epson’s strengths and create unrivaled customer value. These are areas that we discovered when doing business in both devices and finished products. They are also areas where we can exploit the competitive edge that vertical integration affords. Of course, vertical integration is not necessarily the most effective approach in every field. We will also actively collaborate with other companies that enable us to even better leverage our own strengths as we seek to drive innovation by the most effective means possible and become an indispensable company.
+ Epson 25 Corporate Vision Financial Targets and the Role of the Phase 1 Business Plan (FY2016-2018)
+Inkjet innovation
+Visual innovation
+Wearables innovation
+Robotics innovation
+ Stable Revenue Growth
+   FY2016-2018
+● Prepare foundation &  products
+First phase
+FY2019-2021
+● Show results and  grow profit
+ROS 10% (FY2021 target)
+Second phase
+FY2022-2025
+● Establish a high profit  structure
+ROS 12% (FY2025 target)
+Third phase
+   FY2025 targets
+    Revenue
+¥ 1,700 billion
+ROS*2
+12%
+    Business profit*1
+¥ 200 billion
+ROE*3
+15%
+                        *1 Business profit is very similar to operating income under Japanese accounting standards (J-GAAP), both conceptually and numerically. Epson began using business profit as an indicator after adopting International Financial Reporting Standards (IFRS). *2 Business profit/revenue
+*3 Profit for the period attributable to owners of the parent company/Beginning and ending balance average equity attributable to owners of the parent company
+More in-depth commentary by the chief operating officers about Epson’s growth strategies in the four areas of innovation
+See P31-44 for details
+Assumed rates: ¥115/USD, ¥125/EUR
+  11
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 12
+
+            To Our Stakeholders
+  Progress of the Phase 1 Mid-Range Business Plan
+Major Steps Toward Achieving Epson 25
+ESG Initiatives
+Striving for Sustainability
+Epson has long contributed to solutions to social challenges through the products and services we provide. I believe that helping to realize a better world is our mission and that every action we take to achieve the Management Philosophy fulfills our responsibility to society as a corporation. This approach is also aligned with the sustainable development goals of the United Nations.
+In 2017, we identified challenges that we need to address to reach our stated goal of becoming an indispensable company. The highest priority issues and challenges were mapped onto a materiality matrix (‵‵Key CSR Themes"). We also examined our initiatives against the 169 targets of the 17 SDGs. We identified 13 SDGs that intersect with Epson’s initiatives and have declared our intention of addressing them.
+In 2018, we amended“Environmental Vision 2050,”a long-term environmental action policy established a decade ago, to more sharply delineate our goal of providing products and services that reduce environmental impacts.
+In addition, in 2016, Epson strengthened board of director oversight by mandating that outside directors comprise at least 40% of the board in order to ensure decision-making transparency and fairness.
+We will continue to aspire to be an indispensable company that plays a central role in realizing a better world. We will strive to create new value by advancing our technologies and driving innovation to make the world a happier and easier place to live for all.
+Epson aims to achieve 13 SDGs (as of March 2018)
+ We have finished the second year of the Phase 1 Mid-Range Business Plan (FY2016-2018) under Epson 25, and although progress is not where we had hoped it would be in all areas, we are convinced that we are headed in the right strategic direction.
+In our core printer business, we launched high-speed linehead inkjet multifunction printers that deliver brilliant output at blazing speeds while saving energy. We are looking to displace laser printers in offices. Yet, while office users understand inkjet value, there were certain business roadblocks that slowed sales in the immediate term. However, the biggest takeaway from the past year was the sense that the world believes in us. We were clearly reminded that markets will not be receptive to products that offer less than superior environmental performance. The response we received signaled that people believe in the Epson 25 vision and that its realization is becoming a reality.
+In projectors, we expanded our lineup of laser models and provided the value of bright, high-quality laser images for spatial lighting, decor, staging, and performances to more customers. In wearable products, we announced the new Trume brand of analog watches and created new value by using our technology to deliver distinctive
+products. In robotics, we released unique force sensors, autonomous dual-arm robots, and other products that perform menial jobs and enable people to switch to jobs in which they can exercise greater creativity.
+Going forward, we will further accelerate solution selling in order to expand our customer contact points from B2C to B2B. Since new sales networks can’t be grown overnight, employees and dealers are visiting customers together to inform them about our products and the value they provide. We also have to build stronger relationships with business partners and engage in various collaborative efforts. Additional growth also hinges on our ability to foresee and flexibly adapt to social changes. This is another reason why communication with stakeholders must not be neglected.
+Now that we are through the second year of the Epson 25 Phase 1 plan, I am convinced that stakeholders are beginning to understand that the future we envision for Epson is not just a pipe dream but is something we can actually achieve. We will continue to nurture developments that promise to create new value and build a solid foundation for growth in order to meet our 2025 fiscal year targets of ¥1,700 billion in revenue, a 12% ROS, and a 15% ROE.
+             13
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 14
+Blazingly fast yet energy-efficient linehead inkjet multifunction printers deliver outstanding print quality
+Laser projectors produce brilliant images for spatial performances
+Trume-brand analog watches combine state-of-the-art wearable technology with artisan skills
+Autonomous dual-arm robots have arms that move independently to perform tasks
+
+           Epson 25 Corporate Vision
+In March 2016, Epson established its Epson 25 Corporate Vision, which sets the company’s path for growth until 2025.
+ Vision Statement
+Advances in information and communications technology mean increasing amounts of infor- mation will become available on the internet, and so-called cyber space will continue to expand. Epson believes that products acting as the interface between cyber space and the actual or real world where customers operate will be of critical importance. As a company that specializes in generating value in the real world, Epson’s vision is to create a new con- nected age of people, things and information with efficient, compact and precision technolo- gies that generate value to customers in the form of smart technologies, the environment and performance in four areas of innovation.
+Value Generated by Epson Technologies
+Our efficient, compact, and precision technolo- gies are in our DNA as a manufacturer and are the source of our technological strength. These technologies, which represent a tireless pursuit of every greater energy efficiency, min- iaturization, accuracy, are a strength that differentiates Epson from other companies.
+Smart technologies
+Create convenient and easy-to-use products that can be used anytime and anywhere, and which help customers reduce waste, and save money, effort and time.
+Environment
+Leverage Epson products to reduce environmental impact by improving customers’work processes, and contribute to a sustainable society.
+Performance
+Use outstanding products to contribute to customers’ performance through productivity, accuracy and creativity.
+● Connectivity ● Usability
+● Reliability
+                   15
+Epson Group Integrated Report 2018
+Performance
+● Productivity ● Accuracy
+● Creativity
+● Energy efficiency
+● Process innovation ● Optimization
+Smart technologies
+Environment
+ Value generated by Epson’s efficient, compact and precision technologies
+  Epson’s Four Areas of Innovation
+Epson will generate value with its efficient, compact and precision technologies in printing, visual communica- tions, wearables, robotics and microdevices to drive innovations in four areas. We will also strengthen our busi- ness infrastructure to support these efforts.
+              Inkjet innovation
+Visual innovation
+Wearables innovation
+Robotics innovation
+    Printing Domain
+Refine Micro Piezo technol- ogy, and expand into high-productivity segments. Improve environmental performance and create a sustainable printing ecosys- tem.
+Visual Communications Domain
+Refine original microdisplay and projection technologies, and create outstanding visual experiences and a natural visual communica- tions environment for every aspect of business and lifestyles.
+Wearables Domain
+Leverage our watchmaking heritage, refine timekeeping and sensing accuracy, and offer a sense of status and fashion.
+Robotics Domain
+Combine our core technolo- gies with sensing and smart technologies in manufactur- ing, expand applications, and create a future in which robots support people in a wide variety of situations.
+      Microdevices
+Microdevices Domain: Supporting the Four Innovations
+Contribute to Epson’s finished products and to the development of smart communications, power, transportation and manufacturing systems with advanced Epson quartz timing and sensing solutions and low-power semiconductor solutions.
+Epson has set high targets and established its vision. Going forward, we aim to create a new connected age of people, things and information with efficient, compact and precision technologies, and become a company that is indispensable for our customers and society.
+Epson Group Integrated Report 2018 16
+ 
+            Message from the Director of Finance
+Financial Strategies for Achieving Epson 25
+  In 2016, we established the Epson 25 Corporate Vision. This plan, which is based on an analysis of megatrends and changes in the business environment, articulates how we want Epson to be by 2025. The actions we are pursuing are designed to enable us to reach the financial targets of Epson 25: ¥1,700 billion in revenue, ¥200 billion in business profit, a 12% ROS, and a 15% ROE.
+Approach to Achieving the ROE Targets
+Epson’s top priority is on strategic investment in growth, but we also seek to provide returns to shareholders and build a financial structure that is capable of withstanding change.
+Business growth through strategic progress
+Achievement of future growth through strategic investment
+(in plant and equipment, R&D, sales infrastructure and resources, etc.)
+Phase 1 Mid-Range Business Plan
+Financial Targets in the Epson 25 Corporate Vision
+ ■ Revenue
+■ Business profit
+■ ROS
+¥1,700 billion ¥200 billion 12% 15%
+   ■ ROE
+Budget exchange rates: ¥115/USD & ¥125/EUR
+  Executing Epson 25 through Dependable, Agile Financial Management
+Tatsuaki Seki
+FY2017 Financial Results
+In FY2017, Epson recorded ¥1,102.1 billion in revenue (7.5% year-on-year growth) and ¥74.7 billion in business profit*1 (13.6% year-on-year growth). This growth in revenue and business profit were driven largely by strong sales of high-capacity ink tank printers, which meet the needs of customers who want to print without worrying unduly about cost. We also continued to expand our projector market share and sales of models in a stronger high-brightness lineup. Our financial performance also benefited from the weak yen and positive foreign exchange effects.
+On the other hand, profit for the period declined by 13.8% year-on-year, to ¥41.7 billion. This decline was due primarily to foreign exchange losses and an increase in tax expenses associated with U.S. tax reform.
+10% (target)
+Director, Executive Officer
+General Administrative Manager, Management Control Division
+Our fundamental approach to achieving Epson 25 is to expand management and regenerate resources through a cycle comprised of four perspectives: (1) business investment; (2) financial performance and investment
+management; (3) capital distribution and allocation; and (4) financing and capital structure. Through this approach, we will achieve our Epson 25 financial targets, sustain growth, and increase corporate value.
+FY2015 FY2016-FY2018
+Final year of Epson 25 FY2025
+9.5% (result) Sustain at ≥
+Build a robust financial foundation (retain earnings to increase the shareholders’ equity ratio) Ensure appropriate capital efficiency (profit distribution & acquisition of treasury shares)
+15% (target)
+        On the whole, we have made steady strategic progress under the first 3-year phase of the Epson 25 Corporate Vision, a period designated for building infrastructure and preparing products. For example, we have launched strategic products, such as high-speed linehead inkjet multifunction printers and high-brightness projectors, and have reinforced business infrastructure by building new factories. We also face some issues. We have not moved fast enough in some new areas and have not been able to adequately convince office users of the value of replacing their laser systems with inkjets. Nevertheless, we believe in the rightness of our strategic direction and, in FY2018, are bent on pursuing planned mid-term actions that better position Epson to generate earnings.
+Cycle for Expanding Management Resources
+Best investment choices for sustained growth and increased corporate value Achieve future growth through strategic investment
+Manage financial performance and investment based on the PDCA manage- ment cycle
+Respond quickly to issues
+1
+Business investment
+2
+Financial performance and investment management
+Management resource
+expansion
+4
+Financing and capital structure
+3
+Capital distribution and allocation
+Maintain a stable shareholders’equity ratio Establish financing plans for different scenarios
+Provide shareholder returns in line with performance
+Retain earnings to build a robust financial structure
+      17
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 18
+*1 Calculated by deducting the cost of sales and SGA expenses from revenue
+FY2025 revenue target
+
+             Message from the Director of Finance
+Phase 1 Mid-Range Business Plan Financial Strategies
+3 Capital Distribution and Allocation
+Epson strives to achieve sustained business growth through
+the creation of customer value and to generate stable cash flow by improving profitability and using management resources efficiently. While our top priority is on strategic investment in growth, we also follow a parallel policy of actively returning profits and building a robust financial structure that is capable of withstanding changes in the business environment.
+ For the first phase under Epson 25 (FY2016-2018) we are focusing most heavily on the business investment perspective, investing in product development and production equipment and facilities that will provide a robust business foundation.
+In the second phase (2019-2021), we are leaning toward curtailing investment somewhat compared to the first
+1 Business Investment
+The first three years of Epson 25 were designated as a period for laying a solid foundation for future growth. We have been investing between ¥70 billion and ¥80 billion per year in strategic growth (mainly to increase our production capacity, strengthen our information and communications technology, and improve manufacturing efficiency). At the same time, we have continued to invest in R&D and our sales organization.
+In FY2017, we focused on strengthening our production and sales infrastructure. We built a new factory in the Philippines, at the site of our current printer and projector production operations, to put us in a position to respond to projected growth in global demand. In Japan, meanwhile, we built a new manufacturing factory for PrecisionCore printheads, the core devices powering office, commercial, and industrial inkjets. We are also strengthening our office printer and emerging markets sales organizations.
+In FY2018, construction work began on a new factory. The new factory will have facilities for the trial manufacture and
+Financial Performance and Investment Management
+Day-to-day management of financial performance and investment supports our growth strategy by allowing us to rapidly respond to budgetary issues with a PDCA cycle based on dependable operations that ensure accurate financial and accounting operations in every company and corner of the Epson Group.
+Our ROE target under the Phase 1 plan is 10% or better. In FY2017, however, we recorded an ROE of 8.3%, down year on year, due to a shortfall in business profit. I believe that to maintain a suitable ROE and generate stable cash flow we need real-time financial and inventory data, and so we are exploring a new management system. We will stably expand earnings by addressing issues such as these.
+phase. We will stay focused on the target ROE while driving higher profit and additional growth as a result of investments made to date.
+Investment in growth is our top priority for the cash generated through the management resource expansion cycle, but we will also use this cash to strengthen our financial structure and shareholder returns.
+mass-production of large commercial and industrial printing systems. It will also have a test lab for digital textile printing. These investments will enable us to accelerate initiatives in high-margin office, commercial, and industrial markets, increase our ability to generate cash, and build a stable financial structure.
+In FY2017, we recorded year-on-year growth in business profit, so we increased the annual dividend to ¥62 per share, up ¥2 per share from the previous year.
+Dividend Per Share and Dividend Payout Ratio Trend (Based on Business Profit)
+Dividend per share ■ Year-end ■ Interim
+(Yen)
+  Dividend payout ratio
+ 45.9
+41.7(%)
+32
+30 30
+30
+2016 2017
+ In line with this policy, we have set a consolidated dividend
+payout ratio in the range of 40% as a mid-term target. This 36.1 ratio is based on profit after an amount equivalent to the
+statutory effective tax rate is deducted from business profit,
+a profit category that shows profit from Epson’s main
+operations. Epson intends to more actively give back to
+shareholders by repurchasing shares as warranted by share
+price, the capital situation, and other factors. 2015
+30
+30
+ Cash Flow Trend
+■ Net cash provided by (used in) operating activities ■ Net cash provided by (used in) investing activities   Free cash flow
+4 Financing and Capital Structure
+Given that Epson’s shareholders’ equity ratio has hovered
+*2
+around 50% and that net cash has been consistently
+positive, we believe that the company’s financial position is sound.
+Epson maintains an A credit rating*3 and is in a position to efficiently gain steady financing. From a business continuity planning (BCP) perspective, we are also prepared for contingencies, with a financing plan for different scenarios.
+*2 Cash and deposits + short-term investment securities - interest-bearing liabilities *3 Rating per Rating and Investment Information, Inc.
+Interest-Bearing Liabilities, Ratio of Interest-Bearing Liabilities, and Net Cash
+■ Interest-bearing liabilities   Ratio of interest-bearing liabilities
+18.5
+(Billions of yen)
+0
+113
+61.4
+-51.5 2015
+(Billions of yen)
+15.1
+141.7
+March 31,
+2016
+(Fiscal year)
+     -75.7 2016
+-74.6 2017
+(Fiscal year)
+ 2
+Financial Performance and Investment in Growth
+March 31,
+2015
+  Business growth
+Growth strategy
+Further Strengthening Financial Management
+               Performance management
+Investment management
+Rapid, decisive business decision-making is essential for carrying out the foregoing initiatives smoothly and for executing the cycle for expanding management resources. This is another reason why we are exploring a new system that will enable us to manage the financial situation in real-time. We are currently at the preparatory stage, standardizing and gaining additional visibility into our business processes, but in addition to overhauling our global enterprise system, we are also exploring a comprehensive system that may incorporate robotic process automation (RPA) and artificial intelligence. In addition to contributing to rapid and
+decisive decision-making, these systems should increase employee work efficiency and accelerate a shift toward high added value operations.
+In addition to being Seiko Epson’s Chief Financial Officer, I am also the Chief Compliance Office (CCO), with responsibility for enhancing and strengthening corporate governance. I expect the new system to also yield benefits in the containment of fraud risk and other areas of governance. Through these initiatives, we will work to further increase corporate value so as to meet the expectations of our shareholders, investors, and other stakeholders.
+   19
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 20
+96.8
+21.1
+84.2
+9.6
+Dependable operations
+Net cash (Billions of yen)
+59.3 88.7 75.2 63.1
+185.9
+15.0
+146.5
+16.1(%) 166.5
+  March 31, March 31,
+2017 2018
+
+            Financial and Non-Financial Highlights
+Financial Highlights
+Non-Financial Highlights
+Greenhouse Gas (GHG) Emissions*1
+592 thousand t-CO2e
+■■ Scope 1 (Japan)
+■■ Scope 1 (overseas) ■■ Scope 2 (overseas)
+   Revenue
+1,102.1
+Business Profit
+Profit for the Period Attributable to Owners of the Parent Company/ROE
+Water Use
+3 8.324 million m
+■■ Usage in Japan
+Emissions per unit of consolidated revenue
+Total Employees & Overseas Employees as a % of the Total
+    ¥
+billion
+¥
+74.7
+billion
+101.2
+84.9
+Profit for the period 41.8 attributable to owners
+of the parent company ¥ billion
+employees
+Total 76,391
+(Billions of yen )
+(Billions of yen )
+(Billions of yen )
+ROE
+(%)
+30
+20
+10
+(Thousand t-CO2e)
+(t-CO2e/billion yen)
+(Million m3)
+■■ Usage overseas
+(Thousand m3/billion yen) (People)
+(%)
+73.5 74.6 80
+72,420 76,391 60
+40
+20
+1,200 1,000 800 600 400 200
+120 100 80 60 40 20
+120 100 80 60 40 20
+1,000 800 600 400 200
+7.7
+7.6
+8.324
+8.0 100,000 6.0 80,000 60,000 40,000 2.0 20,000
+1,008.4 1,086.3
+1,092.4
+1,102.1
+513
+557
+7.0
+7.1
+72.3
+ROE
+8.3
+Overseas employees as a % of the total
+74.6
+%
+Profit for the period attributable to owners of the parent company
+■■ Scope 2 (Japan) Emissions per unit of consolidated revenue
+%
+27.7 112.5 84.2
+552
+557
+558
+571
+537 600
+10.0 7.3
+8.0 7.360 7.577 7.717 7.906 6.0
+4.0
+2.0
+74.9 73,171
+73.3
+69,878 67,605
+                       8.3
+2013 2014 2015 2016 2017 (Fiscal year)
+Profit jumped in FY2013-14 due to one-time factors, such as deferred tax assets and profit resulting from a revision to the company’s defined-benefit plan. In FY2017, it declined due to forex losses and higher tax expenses related to U.S. tax reform.
+Research and Development Costs
+0000000000
+■■ Total employees
+Overseas employees as a % of the total
+ 1,024.8
+498
+544
+  90.0
+65.8
+74.7
+592
+400
+200
+45.7
+48.3
+41.8
+4.0
+       2013 2014 2015 2016 2017 (Fiscal year) Revenue dipped in FY2016 due to negative
+foreign exchange effects but rebounded sharply in FY2017 primarily as a result of continued sales growth in high-capacity ink tank printers and high-brightness projectors, as well as foreign exchange tailwinds.
+Free Cash Flows
+2013 2014 2015 2016 2017 (Fiscal year) In FY2015 and FY2016 profit decreased as
+the yen rose. In FY2017, however, we recorded profit growth due to a combination of revenue growth, the effects of a weaker yen, and improved profitability from an increase in high added value products.
+2013 2014 2015 2016 2017 (Fiscal year) GHG emissions increased in FY2017 due to
+the startup of new factories for inkjet printers and metal powder products, but we met our CO2 emissions-per-revenue target.
+* Past data was recalculated due to changes in emissions factors and targeted GHG substances.
+Employees with Disabilities in the Epson Group in Japan
+2013 2014 2015 2016 2017 (Fiscal year) Water use increased in FY2017 due to the
+startup of new factories, but usage per revenue improved.
+Outside Officers as a %
+2013 2014 2015 2016 2017 (Fiscal year) Overseas employees continued to increase
+in FY2017 in conjunction with the expansion of overseas manufacturing.
+Analyst and Investor Meetings & Overseas IR Meetings
+  Capital Expenditures
+*3 f Total Officers
+    9.6
+■■ Net cash provided by (used in) operating activities ■■ Net cash provided by (used in) investing activities
+79.4
+(Billions of yen)
+50.3
+2.48
+*2
+Employees with disabilities (%)
+Legally mandated quota (%)
+o5
+339
+¥
+billion
+¥
+billion
+69.4
+¥
+billion
+%
+Meetings
+Overseas IR Meetings 71
+■■ Total meetings (Times)
+Free cash flows
+■■ Inside audit & supervisory board members ■■ Inside directors
+■■ Independent outside audit & supervisory board members ■■ Independent outside directors
+(Billions of yen) 114.8 100
+108.8
+113.0
+(Billions of yen)
+96.8
+84.2
+80
+75.3
+79.4
+60 50 40 30 20 10
+0
+Overseas IR Meetings (Times)
+     21
+*1 Combined total scope 1 (direct emissions from the use of fuels, etc.) and scope 2 (indirect emissions from purchased energy, etc.) emissions *2 The figures for each year are as of June 1 of the year in question. *3 The number of officers as of the end of June of each year
+73.6
+76.0
+  61.4
+    50
+0 40
+400 300 200 100
+0
+380
+100
+80
+60
+40
+20
+0
+60
+20 0
+2.43
+367
+369
+370
+48.8
+47.8
+53.1
+52.7
+50.3 (%) 2.6
+(People)
+2.48 18 15
+12 2.0 9
+      We maintained a high level of free cash flows up until FY2015 thanks mainly to profit growth and highly selective investment. Free cash flows decreased in FY2016 but have remained positive primarily because Epson spent more heavily on strategic investments to lay a stronger foundation for growth.
+2014
+2016
+2016 2017
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 22
+21.1
+9.6
+45.4
+2.4 2.2 2.0 1.8 1.6 1.4
+15 2
+15 2
+339
+ 2.24
+2.27
+  37.8
+2.14
+12 5
+11 5
+12 5
+ -50 -41.2 -32.7 -100
+2013 2014
+-51.5
+-75.7 -74.6
+2015 2016 2017 (Fiscal year)
+2017 (Fiscal year) We continue to develop the next-generation
+6 36
+0 2 2 2014 2015
+2013
+2014
+2015
+2016
+26.3
+ 9.5
+10.1
+3 3
+65
+80
+     47
+57
+71
+     8
+8
+7
+7
+   2017 (Fiscal year) We have been investing aggressively since
+2013
+2014
+2015
+2016
+   FY2015 in additional production capacity and new core printer and projector products to lay a foundation for medium- and long-term growth.
+products and key devices that will help drive future growth, such as printheads and microdisplays.
+2017 (Fiscal year) Epson’s management and IR team meet and talk
+2017 (Fiscal year) We set a target of 2.5% in FY2020 and are
+2013
+2015
+2018 (Fiscal year) Independent outside directors must comprise
+2013
+2014
+2015
+2016
+looking to expand employment opportunities.
+at least 1/3 of the board. They are responsible for monitoring of the management, advisory function for improving business efficiency, and monitoring of conflicts of interest.
+with analysts, institutional investors, and individual investors more than 300 times a year to deepen mutual understanding and build long-term relationships.
+
+                                                                                                 Special Feature
+Customers choose Epson products
+to shrink their environmental impacts
+Minimizing Customer Environmental Impacts
+    Products and Services That Are Better for the Environment
+       and meet the SDGs.
+The impacts that one company can have on the achievement of a sustainable society is limited, but Epson is looking to make an impacts and make the world a better place through products and services that support customers’ sustainability efforts and through collaborative action with local communities and partners.
+Engaging partners and communities
+Achievement of a sustainable society
+                                  Epson
+Epson actions
+Customers contributions
+High-speed linehead inkjet MFPs for printing performance with low power consumption
+Dry-process office papermaking system makes new paper on-site
+High-capacity ink tank printers using few resources for consumables
+            As a manufacturer, Epson has always asked itself what it can do to achieve a sustainable society and has worked for many years to increase the energy efficiency of its production processes and products, improve resource efficiency, and eliminate harmful and hazardous substances.
+To make a greater contribution, we seek to drive work process innovations by minimizing the environmental impacts incurred by our customers when using Epson products and by raising operational efficiency and productivity. Achieving this will mean taking on new challenges to offer value existing technologies cannot provide.
+Epson’s answer is to use our original technologies to provide products and services offer this value to our customers worldwide.
+Use
+Deliver
+Product life cycle
+Think
+People are increasingly aware of the SDGs ideals for the environment and prosperity. We offer customers powerful support in their efforts to realize these. Epson’s concrete and effective solutions help offices use energy more efficiently, use resources more effectively, and reform their work style.
+The following pages showcase products that help customers benefit the environment and achieve the SDGs. These products are an ideal way for customers to practice ESG investment, which is growing in recent years.
+                   Create
+Choose
+Recycle & Reuse
+Contribution to the SDGs
+The SDGs assign goals and targets to United Nations member countries at all levels of development. Enterprises and local governments play an active role in solving the problems.
+With Epson products and services, customers can help achieve the SDGs as they use resources and energy more effectively and promote work reform. Secondary targets, such as providing environmental education, also benefit.
+Capturing ESG investment
+E
+SG
+    There is growth in the ESG investment category, where investors choose their investments after measuring corporate value based on ESG criteria.
+With Epson products and services, enterprises can preserve the environment, achieve work reform by boosting productivity, and thereby enhance enterprise value.
+    23
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 24
+        
+                                                                                                                                                                                               Special Minimizing Customer Environmental Impacts Feature
+Office Inkjet Printers
+  Contributing to Office Environmental Solutions
+High-Speed Linehead Inkjet MFPs for Printing Performance with Low Power Consumption
+With built-in PrecisionCore lineheads, the WF-C20590 is a high-speed multi-function inkjet capable of print speeds up to 100 ppm (pages per minute). That’s double the output of the typical office laser printer. Enabled by Epson’s inkjet technologies, high-speed linehead multi-function printers (MFPs) take the combination of print performance and energy efficiency to the next level.
+        Power consumption*2
+Print speed*3 100
+         Technology Shift
+SDGs it helps achieve
+about
+laser printers
+1/8
+th
+ppm
+ that of
+            Laser Printer
+Ink jet Printer
+High-speed linehead inkjet MFP
+    User Comment
+        Businesses are more sensitive than ever to environmental issues. Many try to save energy by adjusting their thermostat settings or adopting LED lighting. What they may overlook is that printers and MFPs account for about 10% of total power consumed in a typical office.
+We see an opportunity to help them further cut their energy use and costs. Epson inkjet printers draw very little power when printing because ink droplets are ejected by the action of piezoelectric elements that contract under only a tiny applied voltage. In contrast, laser printers require heat-and a lot of electricity-to fuse toner to paper.
+Increasing efficiency and reducing energy costs
+Maike Röttger
+Plan International Germany CEO
+          Ideas
+for the Office
+We at Plan International, a children’s aid organization that is active in over 70 countries, have replaced most of our laser printers with Epson inkjet printers. We use Epson’s high-speed linehead inkjet multifunction printers for high-volume print jobs in order to maximize speed, quality, and efficiency. Lower energy costs are an added benefit, as are a cooler office environment and better indoor air quality, since inkjets do not heat up a room. We are extremely satisfied with the excellent output and superior printing performance of Epson’s printers, as well as their environmental performance, as sustainability is crucial in environmentally conscious Germany.
+      *3
+A4, landscape, single side printing on WF-C20590. Calculating method is at: https://www.epson.com/printspeed
+         How Power is Consumed at the Office*1
+Others 3%
+WF-20590 0.80 0.05 Wh/page
+Reducing CO2 Emissions with High-Capacity Ink Tank Inkjet Printers
+High-capacity ink tanks reduce resource consumption for consumables and packaging. Consumables CO2 emissions are only about
+1/5th of conventional
+cartridge model.
+High-capacity ink tank printer
+Compares CO2 emissions from raw materials and parts manufacturing for consumables to print 300 pages (A4, color) per month/18,000 pages in 5 years with models EW-M770T and PX-M650F. CO2 emissions calculated based on Epson’s evaluation conditions and will vary depending on customer printer use. Results based on calculation method used in Japan.
+Evaluated: Cartridge model: ink cartridges, packaging. High-capacity ink tank model: ink bottles, packaging.
+        Printers & MFPs
+%
+LED lighting
+29
+Central air conditioning
+Power Consumption Per Page
+(WF-20590 versus average values for typical office laser printers*2)
+(Wh/page)
+    10
+0.70 % 0.60 0.50 0.40 0.30 0.20 0.10 0.00
+ Average
+       PCs
+13
+45%
+0.4
+Wh/page
+CO2 emissions of consumables compared*4
+ (kg-CO2e)0 1 2 3 4 5 6
+about
+  Cartridge printer
+PX-M650F
+  5.54
+         CO2 emissions
+  High-capacity ink tank printer
+EW-M770T
+ %
+Top 10 competitive color MFPs
+Epson
+1.16
+15
+th
+ *1 Epson research based on data from commissioned survey conducted in March 2018 by SOMPO Risk Management & Health Care Inc.
+*2 Comparative simulation of power consumption per page. Ten of the leading (in terms of unit shipments) A3 color MFPs with outputs of at least 45 ppm were selected, and their average per-page electricity consumption was compared. (Source for 2017 unit shipments: IDC’s Worldwide Quarterly Hardcopy Peripherals Tracker 2017Q4.) Our per page calculations are based on the TEC values posted on energystar.gov as of February 2018.
+*4
+those of cartridge printer
+25 Epson Group Integrated Report 2018 Epson Group Integrated Report 2018 26
+                                   
+                                                                                                                     Special Minimizing Customer Environmental Impacts Feature
+PaperLab, a Dry Process Office Papermaking System
+ Making New Paper on the Spot
+         Adding New Value to Paper Contributes to a Circulating Society
+創
+User Comment
+Beyond Direct Benefits:
+Raise Children’s Awareness of the Environment
+          Winner at 1st EcoPro Awards*1
+Creation
+SDGs it helps achieve
+Toshiyuki Oguchi
+Mayor of Shiojiri, Japan
+The city government of Shiojiri decided to install a PaperLab after examining the potential environmental, security, and job creation benefits. We saw that we could promote environmental conservation through local recycling of used paper without stressing water resources. We saw that we could strengthen security by destroying sensitive information on-site. And we saw that we could develop employment opportunities for persons with disabilities. I personally feel that the biggest benefit is that the PaperLab can inspire children. For a resource-poor country like Japan, the development of high-productivity industries is important for the national identity. So, I think it is critical to instill in children a sense of awe and excitement about technology and learning.
+A tangible benefit of installing PaperLab is its productivity: We are producing, on average, 18,000 new sheets of paper per month from locally recovered paper and use them to make application forms, etc. This has enabled us to reduce the amount of waste paper transported off-site for disposal by 20%.
+                                       Dry-process office papermaking system
+The PaperLab A-8000, the world’s first dry-process office papermaking system*2, makes new paper from old right on site. Epson’s unique dry fiber technology represents a breakthrough in paper recycling. It enables scrap paper to be reused not only in new paper production but also in the production of a variety of other pulp-based products.
+*1 Minister’s Prize, the Ministry of Economy, Trade and Industry
+*2 Based on a November 2016 Epson study of the office paper recycling market
+Environmental education for children
+Application forms made with recycled paper
+Many customers are using PaperLab to benefit environment, promote recycling
+Internal Case Study
+Epson uses the A-8000 extensively to recycle and reproduce paper used on its own sites. In 2018, this recycled paper was used to produce all orientation training materials for new employees. It is being used for calendars and employee business cards. This paper is also used for notebooks and memo pads, and we plan to further expand uses in the near future. The production of paper and paper-based goods has expanded the range of job opportunities for the staff of Epson Mizube Corp., a special subsidiary that supports the employment of persons with disabilities and is involved in these activities.
+Epson also uses a machine that employs dry fiber technology to upcycle recovered paper into waste-ink pads for inkjet printers and sound absorbing materials for the A-8000.
+● Suwa City
+                   Customers ● Shiojiri City
+● Hachinohe City
+● Nagano Prefecture ● Sompo Japan Nipponkoa Insurance Inc.
+● Setagaya General Services Co., Ltd. ● Transcosmos Inc.
+● Tokyo Century Corporation
+● The Hachijuni Bank, Ltd., and others
+        Preservation of Water Resources
+An ordinary paper recycling process uses about a cup of water to produce a single A4 sized sheet of paper. In contrast, the A-8000 uses only a small fraction of this to maintain humidity within the system, thus helping to conserve precious water resources.
+Effective Use of Forest Resources
+Paper is produced from wood taken from the forests, and while efforts have been made to conserve this resource by producing cardboard from recycled paper, the A-8000 produces new copy paper from used documents right in the office. Also, any paper produced by the A-8000 may be marked with the
+Awareness-Raising
+The A-8000 reproduces paper on the spot ̶a fresh surprise that can raise the environmental awareness of your staff and spawn further environmental action. Children who have had the opportunity to see paper recycled come away with insights and greater concern for the environment, as well as a desire to solve environmental issues with science.
+(listed in random order)
+Calendars made using recycled paper
+eco-label established by the 3R Promotion Forum Japan.
+Made with 100% post-consumer paper
+  27 Epson Group Integrated Report 2018 Epson Group Integrated Report 2018 28
+                                     
+            Business Segment Overview
+Printing Solutions Segment
+Visual Communications Segment
+18.0% Office and business products
+  Revenue
+Revenue
+      736.6
+198.8
+¥
+(up 7.3% year on year)
+Segment profit
+billion
+(up 10.7% year on year)
+Segment profit
+94.8
+24.4
+billion
+(Billions of yen)
+(Billions of yen)
+¥
+(Billions of yen)
+0
+(Billions of yen)
+0
+Segment revenue as a percentage of total revenue
+Revenue
+Segment profit
+Segment revenue as a percentage of total revenue
+Revenue
+Segment profit
+      billion
+(up 12.8% year on year)
+Main Products
+Home and SOHO products
+Office and business products
+For office workgroups
+Inkjet MFPs
+High-speed linehead inkjet MFPs
+0
+0
+billion
+66.7% For the Home
+Home printers
+84.1
+2016
+94.8
+2017 (Fiscal year)
+16.1
+¥25040
+¥
+(up 51.3% year on year)
+1,000 750 500
+160
+120
+80
+240 160
+32 24 16
+686.6
+736.6
+179.6 198.8 808
+24.4
+    2016
+2017 (Fiscal year)
+2016
+2017 (Fiscal year)
+2016 2017 (Fiscal year)
+     Main Products
+      For SOHO
+For meetings and education
+ Home products
+Laser projectors for the home
+Smart glasses
+Powerful multifunction business projectors
+Ultra-short throw desktop projectors for education and business
+Interactive, wall-mounted, ultra-short throw business laser projectors
+Smart glasses
+Professional models
+    High-capacity ink tank printers
+Home projectors
+Basic business projector models
+Commercial products
+For events and signage
+High-brightness laser projectors
+          For business (retail, distribution, etc.)
+Receipt printers
+Scanners
+For spatial projection and decor
+Lighting projectors with a laser light source
+     Wearable Products & Industrial Solutions Segment
+  Revenue
+   167.3
+billion
+(up 5.5% year on year)
+Segment profit
+Segment revenue as a percentage of total revenue
+Revenue
+Segment profit
+   Commercial and industrial products
+For photos and graphics
+Large-format inkjet printers
+For textiles
+Digital inkjet textile printers
+billion
+(down 8.4% year on year)
+2016
+2017 (Fiscal year) 2016
+Serial-impact dot-matrix printers
+¥
+(Billions of yen)
+(Billions of yen)
+12
+9 7.8
+Dry process office papermaking system
+200 150 100
+158.5
+167.3
+¥
+7.1
+15.2% Industrial robots
+SCARA robots
+6 50 3 00
+7.1
+2017 (Fiscal year)
+      For signage
+Main Products
+   Large-format inkjet printers
+For labels
+Inkjet digital label presses
+Watches
+GPS satellite radio-controlled watches
+with“Light Charge”
+GPS running gear
+Mechanical watches
+            Small articulated robots
+Autonomous dual-arm robots
+Force sensing systems
+   29
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 30
+© Peanuts EPD wrist wear
+Grand Seiko
+Sales: Seiko Watch Corporation
+Microdevices, other
+Quartz devices Temperature-compensated crystal oscillators
+16-bit
+microcontrollers Superfine alloy powders
+
+          Value Creation Strategy
+Inkjet Innovation Visual Innovation
+Wearables Innovation Robotics Innovation
+   Inkjet Innovation
+help printers transition from analog to digital systems by offering clean, space-efficient, environmentally considerate digital inkjet printing systems that, in addition to being ideally suited for short-run print jobs and short turnaround times, save water and reduce material wastes and emissions while delivering the desired output without relying on highly skilled labor.
+We will also provide new value by building sustainable office printing ecosystems with the PaperLab A-8000, a dry-process office papermaking system that produces new paper from used paper.
+Strategic Progress
+In FY2017 we began selling high-speed linehead inkjet multifunction printers. These are core strategic products for driving the replacement of laser printers with inkjets in the office. Unlike laser printing systems, inkjet systems do not use heat in the printing process, which means they consume far less energy. Inkjets also have the advantage of having fewer replacement parts and being easier to maintain. We have also been building our sales network as we roll out our high-speed linehead inkjet multifunction printers by strengthening ties with customers and cooperation with dealers who have sales experience and expertise. High-capacity ink tank printer sales have continued to grow. We have expanded and upgraded our product lineup in developed markets like Japan and the U.S., as well as in emerging markets. I believe that the unit sales growth we are seeing is the result of having won over customers by genuinely addressing the needs of those who want to print
+Printing Sectors
+Office
+High-speed copying
+Office papermaking system
+as much as they need, whenever they need, without guilt or hesitation. The importance of high-capacity ink tank models will continue to grow for Epson, so we will be more active in educating potential customers about their value in Japan, North America, Western Europe, and other markets where recognition of these models has been low.
+In the commercial and industrial sectors, we made strategic progress in the signage, textile, and label markets. In addition, we installed the PaperLab A-8000 at the facilities of premium partners, who are collaborating with us to increase product value. As we move forward, we will evolve our business operations by developing technologies that customer needs in all product categories and that offer the long-term value that customers expect.
+  Vision
+Refine Micro Piezo technology, and expand into high-productivity segments, improve environmental performance and create
+a sustainable printing ecosystem.
+Value Creation
+Smart technologies
+Environment
+Performance
+Reduce costs, time, and trouble in printing, and create new possibilities for digital printing.
+Mitigate environmental impacts and risks caused by the use of resources, electricity, and chemicals in tradition- al printing.
+Contribute to higher customer productivity with high-speed, high-quality prints on a range of media of various sizes.
+ Koichi Kubota Representative Director, Senior Managing Executive Officer Chief Operating Officer, Printing Solutions Operations Division
+20 15 10
+5 0
+Inkjet Printer Unit Shipments
+(million units)
+Ink cartridge models High-capacity ink printers*1
+         The Long-Term Business Environment
+Offices and consumers are said to be going paperless as information and communications technology (ICT) advances, but that does not mean that total global print volume is declining. It is true that cost and environmental concerns curb the appetite for prints and that there are more opportunities today to share and view information on-screen. However, the volume of digital information is growing rapidly, so the final print volume has not significantly changed. The value of paper as a convenient medium for presenting more information at a glance is not likely to change. That is why I believe it is our responsibility as a printer manufacturer to provide customers with innovative products and services that reduce their printing costs and environmental impacts.
+In the commercial and industrial sector, we expect print demand in the signage, textile, and label printing markets to grow. Growth will be driven by surging demand for items such as printed clothing, packaging, and advertisements as emerging markets expand and populations swell. At the same time, commercial and industrial printing companies
+will move away from unwieldly analog systems, which require the production of press plates, and toward digital systems, which print images directly onto media while reducing environmental impacts, easily accommodating short-run print jobs, and providing shorter turnaround times. As the spread of digital technology continues to alter the printing market landscape, our focus will be on solving emerging challenges and meeting changing needs rather than on competing against others on price or specifications.
+Strategic Direction
+We are looking to capitalize on our inkjet technology to expand business in the office, commercial, and industrial printing segments. To do so, I think it will be increasingly important to respond to issues that customers face, such as the need to increase productivity via fast, stable printing and the desire for better environmental performance.
+In the office market we will drive a technology shift from laser printers to inkjet printers, which consume far less power and produce far lower consumables emissions. We will also reduce users’printing costs so they can print without hesitation. In the commercial and industrial markets, we will
+2013 2014
+2015 2016 2017
+2018 (Fiscal year) Outlook
+ *1 Includes high-capacity ink tank, high-capacity ink pack, and high-speed linehead inkjet multifunction printers.
+   Inkjet innovation
+Commercial & Industrial
+Digital label press
+Digital textile printing
+           High-speed linehead,
+smart technologies
+Dry fiber technology
+Highly durable, high-speed printhead
+High-performance ink and media handling
+       31
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 32
+
+        Value Creation Strategy
+Inkjet Innovation Visual Innovation
+Wearables Innovation Robotics Innovation
+Product Strategies for Achieving Growth
+Office Inkjet Printers
+The Office Printer Market
+Global printer demand has been moving sideways, but inkjet printers exhibited annual unit growth in FY2017 on the strength of high-capacity ink tank printers.
+Sales of Epson’s high-capacity ink tank printers have been steadily expanding in every region. Competitors have launched conceptually similar products that have helped to further raise the market profile of this product category. As the pioneer in this category, however, Epson has built a robust brand, a broad product lineup, and strong sales channels, and our cumulative sales in this category as of June 2018 topped 30 million units. In tandem with our high-speed linehead inkjet multifunction printers, which we have begun to roll out globally, our high-capacity ink tank printers have uncovered needs and are offering value not available with laser systems, thus triggering the start of a broad technology shift.
+Epson’s Market Potential
+The global printer market, including consumables, is a roughly US$162 billion market (based on user purchases). Within this market, office laser printers and consumables occupy a space that is estimated to be about 3.5 times larger than that of inkjet printers. This space represents a huge, largely untapped market for Epson’s inkjet printers, which offer productivity and quality rivalling that of laser printers while also offering unique value in areas such as environmental performance.
+The Inkjet Advantage
+The laser printing process is complicated, comprising charging, exposure, development, transfer, and fusing steps. In the transfer and fusing steps, powdered toner is transferred to a sheet of paper through contact and fused with a combination of heat and pressure.
+In contrast, Epson’s inkjet printers are simple, non-contact systems that deposit ink droplets on media without heating the ink, so they are durable, require only infrequent parts replacement, and produce little waste. The fact that they do not use heat also means that they consume little energy. These characteristics translate into a lower environmental impact and a lower total cost of ownership (TCO).
+Epson’s inkjet systems differ from other inkjets in that Epson systems employ proprietary Micro Piezo technology, a common platform of technology for all Epson inkjet printers, whether for the home or business.
+Non-Contact, Heat-Free System with a Simple Structure
+        Inkjet printers
+A non-contact printing method in which tiny droplets of ink are deposited on a page.
+Fire ink
+Charge
+Expose Develop
+Transfer Contact Fuse Heat
+Pressure
+Laser printers
+Laser systems print by transferring toner from a drum to the paper and by using heat and pressure to fuse the toner to the paper.
+2. Expose 1. Charge
+Printing process
+    Printer Market Size and Epson’s Strategy
+A simple, contact-free structure that does not use heat
+5. Fuse
+3. Develop 4. Transfer
+Global market for printers
+& consumables
+(WW)
+36B USD
+Inkjet printers
+76B USD
+45+ ppm 31-44 ppm
+Features of Epson Inkjet Systems
+ Characteristics
+  Heat not used Non-contact Simple structure
+       50B USD
+45+ ppm 31-44 ppm
+2
+Advantages
+  21-30 ppm
+Low power consumption
+Durable
+Infrequent parts replacement
+Little waste
+         Low TCO
+& low environmental impact
+    1-20 ppm
+21-30 ppm 1-20 ppm
+1
+  High-capacity ink tank MFPs
+User Comment
+A4
+Laser printers
+A3
+  * Source: Epson research, 2016 * ppm: pages per minute
+PrecisionCore Lineheads for Blazing Speeds and Superb Image Quality
+  In the 30 ppm or less zone, where inkjet printers have gradually 1 begun to replace laser printers, Epson will further strengthen its lineup of high-capacity ink tank and high-capacity ink pack printers
+to capture high print volume customers.
+ 2 In the 45+ ppm A3 printer zone we will launch high-speed linehead inkjet multifunction printers.
+ PrecisionCore lineheads have 36 print chips arranged diagonally on a 43-mm-wide head, giving these compact lineheads approximately 33,500 effective nozzles.
+Most inkjet printers use serial printheads, which print while rapidly shuttling back and forth over a page as the page is incrementally inched forward. In contrast, PrecisionCore lineheads are stationary and extend across the width of the paper, so sheets can be transported without stopping during the printing process. This allows Epson printers to reach speeds of up to 100 pages per minute*1 while the high nozzle density achieves laser-like output.
+We plan to grow our business by providing printers that increase productivity by delivering peerless print
+PrecisionCore Powering an Array of Printer Products
+    High-speed linehead inkjet MFPs
+      Low Printing Costs a Significant Benefit
+Printhead on which print chips are mounted
+Linehead on which print chips are mounted
+Business inkjet MFPs
+High-speed linehead inkjet MFPs
+ iT-DnS Pte Ltd, a security systems provider that sets up video surveillance systems at large-scale events, prints out hundreds of pages of reports, training materials, and other documents each month. However, since the per-page cost of color prints was high and the print quality low, we, as a small company for which printing costs are a significant issue, used to print out most of these documents in black-and-white and then highlight important details with highlighters to avoid the high cost per page of color prints. Epson’s high-capacity ink tank printers, which produce prints at an even lower cost per page than laser printers, significantly reduced our expenses while improving our efficiency. We can print several hundred pages without any noticeable drop in ink levels and no refills. And we can print everything in color without worrying about costs, so we can print documents rather than read them on a PC screen.
+PrecisionCore MicroTFP print chips
+Lam Sze Wei
+Business Director
+for Sales and Marketing iT-DnS Pte Ltd (Singapore)
+speeds and quality and by driving a technology shift in the office market, which is currently dominated by laser systems.
+*1 A4, landscape, single side printing on WF-C20590. Calculating method is at: https://www.epson.com/printspeed
+ 33
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 34
+
+       Value Creation Strategy
+Inkjet Innovation Visual Innovation Wearables Innovation Robotics Innovation
+Product Strategies for Achieving Growth
+Commercial and Industrial Inkjet Printers
+Expanding Production Infrastructure
+    Epson and the Commercial and Industrial Printing Markets
+Epson formed a commercial large-format inkjet printer business in 1999 and has led the digitization of commercial printing ever since by capitalizing on photo-quality inkjet output for large-format photos and color matching proofs. Now the signage, textile, and label markets are ripe for growth thanks to ample room for digitization and business expansion. In the commercial and industrial printing markets, increased design diversity and short-run production demand are behind a finer segmentation of social needs and pursuit of differentiation. Tougher environmental and cost requirements are also likely to drive additional digital printing market expansion.
+Commercial and Industrial Printing Market Size
+The Value of Inkjet Technology
+Digital printing has the advantage of being able to produce complex designs in short production runs. Epson is developing printing systems that exploit its Micro Piezo inkjet technology to deliver stable output of higher quality at blazing speeds.
+Our efficient, compact, and precision technologies enable us to engineer small, easy-to-use inkjet systems that use space efficiently, reduce operation and maintenance labor, and lower overall production costs. Low water use and low waste emissions also give digital printing production processes a huge advantage over conventional analog printing processes. Our PrecisionCore printheads boast excellent ink compatibility and durability while delivering exceptional output at blazing speeds. Because we develop and mass-produce our own core devices, we can rapidly incorporate even the most exacting customer needs into our product plans and designs to deliver products that exceed their expectations.
+Our digital inkjet printing solutions are helping our commercial and industrial customers raise their productivity even as they shrink their environmental footprints.
+Value Provided to Commercial & Industrial Customers
+In addition to high image quality, productivity, stable operation, and a low TCO, Epson printers offer the value below.
+Reinforcing Core Device Development and Production Sites
+We have been investing in long-term growth of the printing solutions business. One of the investments was in a new factory at the Hirooka Office, in Japan. Construction on the factory was completed in July 2018, and production lines are now being readied for operations. The new factory will produce PrecisionCore print chips, the core components in PrecisionCore printheads.
+The Hirooka factory, which will also have an R&D function, is expected to approximately triple Epson’s PrecisionCore print chip production capacity from the 2017 level. This capacity will enable us to meet growing demand for high-speed business inkjet printers in the office market. It will also allow us to meet inkjet printhead demand, which we see rising as digitization takes hold in the commercial and industrial sectors.
+Another new building (the B Wing of the Innovation Center) under construction at the Hirooka Office will house a trial production and mass production facility for large commercial and industrial printing systems, as well as a test lab for textile printing. In addition to strengthening our R&D capabilities and production technology, the new building will consolidate key departments under the same roof to increase work efficiency. The advanced production technology and expertise developed here will be rolled out to our overseas production sites to improve the Epson Group’s overall manufacturing capabilities.
+Strengthening Production Capacity Overseas
+Epson has major production sites for inkjet printers and projectors in China, Indonesia, and the Philippines, and we continue to expand production in line with our long-term business strategy.
+In July 2017, we expanded our global inkjet printer and projector production capacity with the completion of construction on a new factory at Epson Precision (Philippines), Inc. (EPPI).
+We expect inkjet printer demand to continue to increase. Not only are sales of Epson’s core high-capacity ink tank printers growing rapidly in emerging nations, but we are also seeing steady growth in sales of high-speed linehead inkjet multifunction printers and other office inkjets. We will thus continue to reinforce production capacity and improve efficiency.
+We have also taken care to boost the environmental performance of the new factory at EPPI by installing on a rooftop mega-solar power system that is capable of generating up to 3,000 kW of output.
+    Digitization rate (%)
+Room for growth with digital solutions
+100
+Analog printing
+Digital printing
+0
+Products Launched in Growth Areas
+        Photo & graphics
+Unbeatable powers of expression and print quality
+  Signage
+Support a variety of media and applications
+  Textiles
+Low environmental impact and printing on a variety of materials
+ Labels
+On-demand printing of a large variety of labels in small quantities
+ 35
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 36
+Photo & graphics
+Signage
+Width: Market size (on a monetary basis). FY2017 analog + digital market (printer + ink) by category, per Epson research
+Epson’s share (on a global unit basis) in digital markets, per Epson research
+Textiles
+Labels
+    Approx. Approx. 30% 10%
+Approx. 30%
+Large-format dye-sublimation transfer printers for textiles
+Approx. 20%
+   Signage (signs and decor)
+ Textiles (apparel)
+ Labels (package printing)
+    Large-format printers for signs and displays
+Digital textile printers
+Digital label presses
+Color label printers
+New factory at the Hirooka Office
+New factory at EPPI
+
+           Value Creation Strategy
+Inkjet Innovation Visual Innovation
+Wearables Innovation
+Robotics Innovation
+    Visual Innovation
+Refine original microdisplay and projection technologies, and create outstanding visual experiences and a natural visual communications environment for every aspect of business and lifestyles.
+Strategic Progress
+Epson expanded its global share to 36% and maintained the top share. Our share is expanding particularly in Europe, the Middle East, China, and Southeast Asia. We enhanced our lineup of laser projectors in the high-brightness market and, for the first time, won the top share in the high-brightness seg- ment of the global market by carrying out effective sales cam- paigns in developed markets. Going forward, we will work to further expand our share by reinforcing the product lineup, identifying territories where there is room for growth, and strengthening our sales and marketing activities.
+We have also begun to provide laser light sources in projec- tors for the ultra-short throw segment. Flat panel displays are squeezing ultra-short throw projector market demand, but we plan to compete by providing laser models, better cost performance, and easy installation.
+LightScene
+   Vision
+Value Creation
+Smart technologies
+Environment
+Performance
+Enrich communication through the ubiquitous rendering of images.
+Use realistic augmented reality (AR) and virtual reality (VR) images to reduce environmental impacts associat- ed with the movement of people and things.
+Use high-quality images to enrich lives and enhance customer productivity.
+Spatial design with LightScene projectors
+Meanwhile, our Moverio smart glasses are beginning to find use in various areas within industry and the service sector, and have been introduced for tasks as varied as equipment maintenance and subtitles in theaters. However, we need to raise recognition further. There is still much more we can do to propose uses in new situations. We will continue to devel- op concrete value propositions for smart glasses, which we believe have huge, untapped communications potential.
+Our LightScene accent lighting projectors can be used for illumination or to project images. They are already being used in digital art, commercial signage, and decor applications in venues such as shopping complexes and theme parks. We will work to gain greater recognition for these projectors by using them to produce captivating visual experiences and provide new value in new markets.
+ Yasunori Ogawa Director, Executive Officer
+Chief Operating Officer, Visual Products Operation Division
+Epson
+Epson
+Global Market Share (Unit Volume)
+Other
+E
+D
+FY2017 FY2015
+15% 23% High-
+brightness share*4
+      The Long-Term Business Environment
+We cannot count on substantial growth in the existing projector market, but the total display device market is still growing, with traction provided by flat panel displays and cheap micro-projectors. I think we are going to see much more growth in visual communications applications that use visual imagery and other information to effectively appeal to an audience. Globalization is also bringing with it more opportunities for people in remote locations to communicate just as if they were in the same location. We will respond to social changes such as these by accurately assessing what
+customers need and developing products to serve those needs. In the smart glasses market, the value proposition is crucial. In the computer game market, closed headsets are receiving a lot of attention, with each manufacturer guarding its own territory. Epson’s smart glasses have see-through lenses. This is an advantage in commercial and industrial markets where users need to be able to see their surroundings. Epson will advertise this as value to be delivered. Going forward, we will advance product development and advertise the value to be delivered.
+Strategic Direction
+Epson’s strength in projectors derives from technology, of course, but also from customer care. By making technology and customer care the centerpieces of our business strategy, we have developed products that satisfy the most challenging customer needs and requirements. I firmly believe that it is our unwavering dedication to quality that is the reason for our ongoing success.
+We will continue to develop projectors that provide new value and that expand the potential for future visual communications. Challenges include, for example, the development of projectors that deliver bright images in any environment, projectors that throw images not only on static screens but on three-dimensional or moving objects, and lighting projectors for staging and decor.
+33% 36% Worldwide
+share*3
+CBA
+Source: Futuresource Consulting Ltd.
+*3 For 500-lumen and higher projectors
+*4 High-brightness projectors are defined as models that produce 4,000-lumen or
+more and that have a replaceable lens
+Visual Communications Markets
+  Signage
+Smart glasses
+Visual innovation
+   Market Share by Region
+(for 500-lumen and higher projectors)
+FY2017 FY2015
+23% 51%
+Lighting/ projection mapping
+     31% 22
+million million units units
+*1 Europe, the Middle East, and Africa
+North America
+ EMEA*1
+China
+1.2
+Ultra-high brightness technologies
+Lighter, more compact; sensing and AR technology
+         35%
+million units
+63% 63%
+Laser light source
+and other optical control technologies
+  37
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 38
+APAC*2
+1.3
+million units
+Japan
+0.2
+million units
+South America
+*2 Asia and the Pacific, excluding China and Japan  Source: Futuresource Consulting Ltd.
+0.6
+million units
+
+       Value Creation Strategy
+Inkjet Innovation Visual Innovation Wearables Innovation Robotics Innovation
+Product Strategies for Achieving Growth
+Laser Projectors
+Original Epson Technology
+Brightness is one of the things that has continued to advance since the first Epson-brand 3LCD projector was released in 1989. In 2015, Epson developed its first commercial laser projector. Epson’s laser projectors have numerous original features that conventional lamp projectors do not, such as devices made using inorganic materials that are highly resis- tant to intense laser heat and light, a high-efficiency cooling system that employs a Peltier device, and a sealed, dust-proof construction.
+Expanding Market for Events, Signage, and Spatial Design
+Applications for Epson’s laser projectors are expanding in the event and signage markets, where they are used to communicate dynamic new visual content.
+With a lineup of products that offer distinctive features and that range in brightness from 2,000 lumens to 25,000 lumens, we help you captivate and visually communicate with your audience.
+1
+2
+6
+4 35
+ 3 Use for in-store decor. Project designs on products and mannequins.
+● Project from a range of angles
+● Product designs that match shop decor
+ 6 Outdoor projection mapping ● High-brightness
+● Dust-proof design
+Smart Glasses
+Original Epson Technology
+Epson’s smart glasses allow you to enjoy see-through images hands-free on a virtual big-screen, anytime and anywhere. Images and information are seamlessly overlaid in the user’s field of view on bright, high-contrast silicon-based OLED (organic light-emitting diode) displays.
+Users can comfortably use these smart glasses for long periods of time thanks to a combination of light control technology developed for projectors and Epson’s efficient, compact, and precision technolo- gies. Moverio smart glasses support various data transmission meth- ods and connect to a variety of services, devices, and media. The built-in sensors and camera provide data and images as needed.
+Making Lives Easier and More Satisfying
+Our smart glasses will make your life and work more efficient and satisfying by offering the convenience of hands-free operation along with augmented reality (AR) images that are overlaid on your actual surroundings.
+       3LCD laser projector features
+● Instant power-up and constant brightness ● Virtually maintenance-free operation
+● 360-degree installation flexibility
+● Usableunderarangeofenvironmentalconditions ● Quiet operation, with low fan noise
+Smart glasses features
+● Binocular, see-through lenses
+● Hands-free operation
+● Seamless, high-quality images
+● Broad connectivity with services, devices, and media
+              1 Delicate image advertising
+● Extraordinary color,
+sharpness, and detail
+● Dust-proof design
+ 4 Project on floors, walls-virtually any surface ● High-brightness ● Compact
+● Simple design
+ 2 Installation hallways, reception areas, and other limited spaces
+● Ultra-short throw ● Widescreen images
+ 5 Project displays on windows, ceilings, and other limited spaces
+● High-brightness ● Compact ● Ultra-short throw
+Personal applications
+● High image quality ● Lighter and compact
+Enjoy visual entertainment no matter where you are
+View your drone’s video-feed in real-time
+Service applications
+● Use information input by on-board sensors and camera
+● Comfortable fit for people of all ages
+Useful on-display guidance using AR technology
+Sightseeing tours that use GPS and other on-board sensors
+Industrial applications
+● Use information input by on-board sensors and camera
+● Hands-free operation
+● Rugged and durable design
+Helmet not included
+Display work procedures using object recognition technology
+Remote visual assistance enabled by camera that connects workers with a command center
+Enjoy new visual experiences
+Create added value for existing services
+Improve work efficiency and quality with a hands-free headset that delivers useful information
+                     39
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 40
+
+        Value Creation Strategy
+Inkjet Innovation Visual Innovation
+Wearables Innovation
+Robotics Innovation
+   Wearables Innovation
+Value Provided to Customers through Wearables Innovation
+A brand for each type of customer value provided
+High-precision sensing
+Smart GPS Sports Watch Watch
+Watch
+2
+Beauty as an analog watch
+  Vision
+Leverage our watchmaking heritage, refine timekeeping and sensing accuracy, and offer a sense of status and fashion.
+Value Creation
+Smart technologies
+Environment
+Performance
+State-of-the-art sensors and devices provide functional- ity and convenience.
+Low-power devices and power-generating technology help to conserve energy resources.
+Accuracy, design, craftsmanship, and sensing technolo- gies make products a pleasure to wear.
+1
+   Design emphasis
+ 34
+* The illustration conceptually indicates the positioning of Epson’s brands in the watch market.
+  1
+We maximize the potential of analog watches by wielding a combination of state-of-the-art technology and artisan skills. In addition to telling time, the first models boast advanced sensing functions for taking measurements of the wearer and of the wearer’s surroundings. The results of measurements are naturally and beautifully displayed using analog hands. The models in the second collection are designed to be more “watch-like” and offer a new style, with ageing and replaceable bands.
+ Junichi Watanabe
+Managing Executive Officer
+Chief Operating Officer, Wearable Products Operations Division
+The Long-Term Business Environment
+The watch market is expected to continue to steadily grow as the global population increases and as people in emerging nations become more affluent.
+At the same time, wearers are all looking for something different in a watch, and that is why the market is crowded with countless styles and brands of watches.
+Now the market is heading toward a period of transition, in which consumers will seek new value such as that provided by smartwatches with computer functions.
+We see the watch market growing stably over the longer term because of the diverse needs that exist in the market.
+Strategic Direction
+Efficient, compact, and precision technologies have been in our DNA from the beginning. And the relentless pursuit of improvements to accuracy, our low-power semiconductor fabrication technology and parts micromachining technology have led us to a single conviction: There are watches that hold fresh promise and that only Epson can produce. We will provide unique products that only Epson can produce by combining the precision processing
+technology we have developed over the years with our sensors and other core technologies.
+We are looking to operate efficiently and grow sales without heavy additional investment by taking advantage of Epson’s current technology development, production, and sales capabilities.
+Strategic Progress
+Until recently, Epson had three original watch brands: the Orient Star/Orient brand of fine yet practical mechanical watches; the WristableGPS/ProSense brand of running monitors with advanced sensing capabilities, and the Smart Canvas brand of watches that use finely rendered graphics to represent the passage of time.
+In 2017 we created Trume, a new brand for analog watches that feature the ultimate in advanced technology. We later added a new collection that offers new ways to enjoy watches.
+We will build Trume into an indispensable brand by delivering unique value that only Epson can achieve.
+  2
+We are combining Orient’s tradition and Epson’s watch technology to provide even more elegant, accurate, and high-quality mechanical watches. Orient Star Mechanical Moon Phase watches combine a moon phase function and semi-skeleton features for a genuine mechanical watch experience. They are both practical and exquisite, with features such as finely embossed dials, ornaments, and a dual curved sapphire glass.
+   3
+WristableGPS sports watches (“ProSense” in some markets) are ideal for activities like running and hiking. In addition to outstanding positioning accuracy and long battery life, the models announced in 2017 capture a GPS signal in a shorter amount of time. They also have an Easy View Display for improved visibility and enhanced activity tracking, providing full support every day, including race day.
+   4
+ Smart Canvas watches hold a peculiar charm that neither earlier watches nor fashion accessories do. Some models feature popular characters while others have original content and swappable bands so that you can tailor the watch to your likes.
+41
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 42
+  
+         Value Creation Strategy
+Inkjet Innovation Visual Innovation
+Wearables Innovation Robotics Innovation
+   Robotics Innovation
+expectations. With sales companies and manufacturing sites around the world, as well as an Epson network that provides local sales and service, we will quickly identify customer needs and rapidly respond to even the most detailed requirements. Our goal is to make our strengths even stronger and to be a leader in the compact precision robot market, which is expected to grow at an annual rate of 8% for the next decade.
+Strategic Progress
+The market for compact precision robots is expanding, and we are seeing growth in revenue and profit from our current SCARA and 6-axis robots, particularly from expansion in China, Taiwan, Europe and the Americas. Epson’s SCARA robots have maintained the top share of the global market for seven consecutive years*1.
+In November 2017, we released WorkSense autonomous dual-arm robots. These robots recognize objects much like humans do, and they adjust the amount of force the arms apply to objects. They can be moved to where they are needed and quickly set up to perform, unattended, assembly and other tasks, thus helping to expand the areas of production that can be automated.
+The number of new entrants in the robot market is growing,
+especially in China, where local vendors have emerged, and
+price competition is intensifying. But what customers want are
+not only the robots themselves but total package solutions that
+include peripheral equipment. Epson recommends solutions
+*1 Epson was No. 1 in terms of both unit shipments and revenue from 2011 to 2017. (Source: Fuji Keizai “2012-2018 Worldwide Robot Market and Future Outlook".)
+based on knowledge of customer needs and requirements, insights gained by having Epson sales and production personnel observe customer operations on-site. We will further solidify these strengths to increase our market presence.
+There is currently a shortage of people who can do the necessary programming to implement robots in this growing market. The market thus requires robots that people without advanced programming skills can easily teach. Epson has responded to this need by developing a simple programming function that is scheduled for an FY2018 market release. This function allows users to arrange the necessary commands in a sequence on-screen and then manually move the robot arm to set a given move.
+In addition, we will produce safe collaborative robots “( cobots”) that work alongside people. These robots will be equipped with sensor-based safety features that cause the arm to slow down when a human approaches, and to stop on contact.
+The Growing Market for Compact Precision Robots and Epson’s Market Share Targets
+ Vision
+Combine our core technologies with sensing and smart technologies in manufacturing, expand applications, and create a future in which robots support people in a wide variety of situations.
+Value Creation
+Smart technologies
+Environment
+Performance
+By providing solutions with robots that see, sense, think, and work, and by enabling anyone to easily use our robots, we will free people from performing work they don’t want to do and work that employers don’t want them to do, thus allowing them to shift into higher added value jobs that are more creative.
+Mitigate environmental impacts with compact, slim, lightweight robots that are energy-efficient.
+Using original robotics and sensing technologies, we will achieve robots that move accurately, at high speed, and with low vibration, thereby providing solutions that exceed customer expectations and increase their productivity.
+ Yoshifumi Yoshida Executive Officer
+Chief Operating Officer, Robotics Solutions Operations Division
+150
+100
+50
+0
+Epson unit share
+Small articulated robots
+(Billions of yen)
+     The Long-Term Business Environment
+Robot use is set to expand. Not only will robots be used in place of people to perform repetitive manufacturing tasks in factories, they will also be used to perform tasks in the back offices, as well as to provide personal assistance in the home. The need for robots is expected to grow across society as more people, including people in emerging countries, want to be freed from menial labor and have time to themselves.
+To expand these uses of robots, we must enable robots to recognize and react to their surroundings so that they do not collide with people or other objects or, if they do, to do so safely. Advances in artificial intelligence (AI) and precision sensing are essential for achieving this.
+As global manufacturing wages rise and as competition for workers intensifies, manufacturers are rapidly turning to robots for relief and the market has entered a growth phase. The opportunity for growth has attracted new entrants from other industries that have their own technology, so there is no doubt that the market is going to undergo major change.
+Strategic Direction
+The efficient, compact, and precision technologies that grew out of our watch manufacturing operations are the source of
+Epson’s strength. By complementing these with processing technologies, sensing technologies, and a host of other technologies and devices developed in our other businesses, we can provide compact, slim, lightweight robotic solutions of unrivaled speed and accuracy. Where we can take advantage of this strength is in the compact precision robot segment. Ordinarily, a robot arm moving at high speed will vibrate and deviate from the intended position. To accurately position small parts at high speed, the robot needs a system to control vibration and positional deviation. Epson is helping customers reach their productivity goals by equipping robots with sensor-based control technology that enables fast, accurate robots to stop on a dime. In addition, equipping 6-axis robots with Epson’s force sensors enables the robots to detect forces as small as 0.1 Newtons at the end-effector. This level of sensitivity allows our robots to automate tasks that previously relied on a human sense of touch, such as delicate assembly, polishing, and insertion tasks.
+Epson, which has been developing, selling, and using its own robots in Epson factories for many years, is accumulating knowledge through real-world testing of automated solutions. Epson will draw on this knowledge to understand the needs on customers’ manufacturing lines and the potential for future automation, and to provide solutions that exceed
+SCARA robots
+2016 2020 28% ~40%
+2016
+4% ~10%
+Collaborative robots
+2016 2020 ー ~5%
+(Year)
+   Robotics Markets
+Warehouses, etc.
+Robotics innovation
+* Figures based on Epson research
+Artificial intelligence
+Analysis Judgment
+Machine learning
+Service/personal
+2020
+        Sensing technologies
+Smart technologies
+Lower the barriers to automation
+Manufacturing
+      43
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 44
+
+  Value Creation Strategy
+  Microdevices That Support the Four Areas of Innovation
+ Vision
+Contribute to Epson’s finished products and to the develop- ment of smart communications, power, transportation and man- ufacturing systems with ad- vanced Epson quartz timing and sensing solutions and low-power semiconductor solutions.
+Strategic Direction
+Quartz is an extremely frequency-stable material. Epson exploits this feature of quartz to the fullest to provide crystal devices used in consumer products such as smartphones, as well as in infrastructure and automotive applications that require exceptional accuracy and reliability. We will also meet the needs of various industries with timing devices, such as crystal units, oscillators, and real-time clock modules, and with sensing devices, such as gyroscopic sensors. At the same time, we will produce new value with distinctive products such as micro atomic oscillators.
+Moreover, we will provide LCD controllers, microcontrollers, application-specific integrated circuits (ASICs), LCD drivers, and other differentiated Epson semiconductor products for use in wearable products and automotive equipment.
+Original
+Value Provided by Microdevices
+Sensing solutions
+Sensors/IoT
+        Precision microdevice Efficient technology
+Compact
+Timing solutions
+Energy-saving solutions
+Industry/robotics
+  Strategic Progress
+Communications/ networks
+       45
+Epson Group Integrated Report 2018
+Micro atomic oscillators
+Oven Controlled Crystal Oscillators (OCXO)
+In the quartz segment, we are set to launch products that we have had in development for some time, including high-stability oven controlled crystal oscillators (OCXO) for communications and network applications and micro atomic oscillators, which are needed for applications that require timing devices of higher accuracy. Meanwhile, we will also strengthen our lineup of compact crystal devices for the consumer and other existing segments given the greater than anticipated needs that have surfaced in those markets. In the semiconductor business, Epson has seen revenue expand thanks to sustained market demand.
+We are establishing solid quality and stable production as we lay a foundation for business expansion. A project to develop high-efficiency production lines is also going to plan. In addition, we are seeing benefits from a program to reduce total costs, including the costs of materials and so forth. Moving forward we will strengthen existing areas by continuing to increase productivity and expand sales in new areas that we have entered.
+32-bit microcontrollers Display controllers
+  Value Creation Strategy
+  Intellectual Property Underpinning Epson Innovation
+Intellectual Property Leadership
+Epson is a vertically integrated company that drives innovation by honing its original core technologies and using advanced manufacturing techniques to create products. Consequently, we emphasize an intellectual property strategy that supports innovation. In 2015, Epson came in 7th in the top 100 global patent application rankings announced by the World Intellectual Property Organization (WIPO).
+Our patent portfolio is both qualitatively and quantitatively world-class in product categories such as inkjet printers and projectors, and this industry-leading intellectual property supports the creation of proprietary core technologies.
+A Global Leader in Patent Applications
+Ranking by Number of Publications of Unexamined Patent Applications in Different Product Categories
+Quartz crystal devices 2nd Quartz crystal devices 3rd
+* 2017 ranking in number of patent applications laid open to the public (Epson research) (January 1 to December 31, 2017)
+‵‵Top 100 Global Innovator" for Seven Consecutive Years
+In 2017, Clarivate Analytics recognized Epson as one of the Top 100 Global Innovators for our contributions to the improvement and advancement of science and technology through intellectual property. This marks the seventh consecutive year Epson has been selected to the list of global leaders in innovation and research. 37 companies, including 14 Japanese companies, were named as innovators for seven consecutive years.
+ The Top 100 Global Patent Application Rankings (WIPO)
+* These rankings are announced once every 10 years.
+ 1983-1992
+ 1993-2002
+ 2003-2012
+ 16th
+18th
+ 7th
+    Ranking in Number of Registered Patents
+United States22nd
+* 2017 ranking in number of patents registered (Epson research) (January 1 to December 31, 2017)
+*1 The China ranking is only for foreign companies (January 1 to December 31, 2017)
+    Inkjet printers
+1st
+Inkjet printers
+1st
+  Projectors
+1st
+Projectors
+1st
+Japan
+9th
+    Robotics
+1st
+Robotics
+2nd
+   China*1
+16th
+   Seiko Epson executive Toshiya Takahata (right) accepting a trophy from a Clarivate Analytics representative
+Epson Group Integrated Report 2018 46
+ 
+       Key CSR Themes and the 17 SDGs
+Epson is Contributing to the SDGs through Its Businesses
+As stated in its Management Philosophy, Epson seeks to become an indispensable company. We believe this is consistent with the realization of a sustainable society, which is the objective of the SDGs. We identified priority initiatives for addressing social issues in“Key CSR Themes,”a materiality matrix, and mapped these initiatives to the 169 targets within the 17 SDGs.
+     Key CSR Themes
+A selection of 16
+of the highest priority themes
+FY2018 Action Item Categories
+For more information, see the following URL: https://global.epson.com/SR/csr_initiative/action_items.html
+ Epson Initiatives Mapped to the SDGs
+  Creating new products and services with leading technology
+● Connect cyberspace and the real world toward creating a new connected age of people, things and information, and provide the value of our efficient, compact and precision technologies to the real world in every business
+3.6 3.9
+4.1 4.2 4.3 4.4 4.5
+6.3 6.4 6.6
+7.3 7.a
+8.2 8.4
+9.4 9.c
+ 11.6 12.2 13.2 12.4
+12.5
+In this section we have listed on SDG targets that Epson belie assessment of linkages with our
+ 15.1 15.4
+ly the numbers for representative ves it can impact based on an business operations.
+Business operations aligned with global social trends
+● As the importance of smart technologies and the environmental performance grow increasingly important, Epson, as a real world manufacturing company, will continue to create smart products that contribute to the environment and demonstrate unrivaled performance
+Productivity improvement utilizing ICT
+● Maintain high-quality, high-efficiency productivity by leveraging Epson’s unique IT, sensing, and automation technologies in manufacturing
+Products competitiveness
+● Continue to provide high-quality, cost-competitive products that other companies cannot easily imitate, and do so in a timely manner through improvements in operation efficiency and personal productivity
+Strategic marketing
+● Optimize regional sales organizations, improve planning quality with a market-driven (market-in) approach, and transform the brand image
+ Effective use of energy and resources
+● Carry out SBT-compliant actions to reduce CO2 emissions, and publish the results (scopes 1, 2 and 3: Reduce total CO2 emissions)
+● Reduce CO2 emissions (Draft a plan for introducing renewable energy)
+7.2 7.3
+13.2
+Climate change and global warming
+● Carry out SBT-compliant actions to reduce CO2 emissions, and publish the results (scopes 1, 2 and 3: Reduce total CO2 emissions)
+● Reduce CO2 emissions (Draft a plan for introducing renewable energy)
+7.3
+12.2 12.4
+13.2
+Contributing to the environment through products and services
+● Carry out SBT-compliant actions to reduce CO2 emissions, and publish the results (Set scope 3 emissions intensity targets and reduce emissions)
+3.9
+6.3 6.4 6.6
+7.3
+9.4
+11.6
+12.2 12.4 12.5
+13.2
+15.1 15.2 15.4 15.5
+ Respecting human rights
+● Communicating and enforcing “The Policies regarding Human Rights and Labor Standards" ● Continue responding to and monitoring personal data protection requirements
+● Follow up on self-check questionnaires
+4.7
+5.1 5.5
+8.5 8.7 8.8
+10.3
+Diversity
+● Measures to increase the number of women in management positions ● Execute plans to achieve the female hiring target
+● Maintaining and increasing employment of persons with disabilities
+4.7
+5.5
+8.5
+10.2
+Human resources development, hiring, and retention
+● Recruiting, hiring, and retaining talent in a shrinking labor pool ● Build infrastructure for managing human resources information (a talent management system) and develop human resource appointment, placement and training policies through personnel reviews ● Training programs and assessing their results ● Review 360-degree surveys and employee motivation surveys, explore future actions, and establish a direction
+4.4 4.7
+8.8
+10.2
+12.a
+Supply chain management
+● Asking key suppliers to observe the Epson Supplier Code of Conduct
+● Supplier questionnaires and feedback on results
+● Supplier on-site verification and corrective action ● Conflict minerals survey
+5.2
+8.5 8.7 8.8
+10.2 10.3
+12.4 12.6
+13.1
+16.4 16.5
+Product quality and communications
+● Visiting customers directly to gather and analyze information about their wants and needs, closely examining customer wants by analyzing customer inquiries, using the findings to shape future products and services, and improving quality and customer satisfaction
+12.8
+16.6 16.8
+Consumer health and safety
+● Continue strengthening our prevention activities
+12.4
+ Compliance
+● Begin Group compliance activities by introducing a compliance program ● Explore a global whistleblower system
+● Compliance awareness program
+16.4 16.5
+Information security
+● Information security measures ● Strengthen product security
+16.4
+ Epson confirmed that its initiatives support the achievement of the 13 SDGs to the right.
+                                                           47
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 48
+● The figures in the table below indicate which of the 169 targets (1.1 to 17.19) under the SDGs Epson is addressing with its initiatives (as of September 2018).
+      Main business Environment Social Governance
+
+            Value Creation Infrastructure (Environment)
+ An Environmental Vision for 2050
+Environmental Vision 2050
+Epson's vision is to become an indispensable company that uses its efficient, compact and precision technologies to achieve sustainability in a circular economy.
+Actions
+How Epson is Working for a Sustainable Society
+    ●
+g
+●
+● ● 
+g
+● ● 
+.
+s
+p
+pr
+sy
+y
+C
+ro
+s
+oc
+dv
+st
+o
+t
+on
+ce
+va
+e
+e
+nt
+es
+an
+m
+m
+tr
+r
+i
+i
+ss
+s
+s
+t
+b
+b
+s
+e
+e
+u
+u
+t
+s
+s,
+h
+h
+t
+te
+,
+p
+r
+ro
+et
+p
+ou
+t
+r
+r
+ug
+o
+o
+i
+o
+o
+gh
+i
+h
+o
+n
+n
+d
+d
+t
+t
+u
+uc
+o
+e
+e
+c
+p
+pe
+r
+rn
+t
+ts
+e
+na
+s
+a
+n
+a
+na
+at
+ti
+i
+n
+nd
+a
+o
+d
+s
+n
+n
+on
+n
+d
+se
+du
+a
+al
+l
+e
+e
+u
+r
+r
+n
+ni
+en
+v
+vi
+ic
+iq
+nv
+q
+vi
+c
+i
+e
+e
+y
+ya
+u
+u
+r
+r
+e
+o
+o
+s
+s
+.
+.
+an
+ei
+n
+n
+nd
+in
+de
+nn
+m
+m
+no
+e
+es
+ov
+en
+n
+s
+va
+t
+t
+ta
+a
+ta
+a
+al
+t
+t
+l
+i
+b
+b
+i
+i
+o
+i
+l
+li
+on
+n
+ni
+i
+n
+s
+sh
+.
+.
+it
+ti
+hr
+i
+a
+at
+re
+ti
+ec
+i
+v
+cy
+ve
+e
+y
+s
+s.
+c
+c
+l
+li
+n
+n
+in
+ng
+g
+Epson was founded in 1942 in a natural setting, in Suwa, Japan. Harmonious co-existence is our cornerstone. Even as we expanded globally, our culture of respect for the environment never wavered. In 1988 Epson became the world’s first enterprise to announce it would eliminate ozone-depleting chlorofluorocarbons (CFCs) from its operations. Past and present, Epson has always set high goals for its environmental initiatives. We revised Environmental Vision 2050 in 2018 in line with our aim of making Epson an indispensable company that is committed to sustainability, as stated in the Management Philosophy. We remain engaged with the problems faced by our customers and communities as we work for a sustainable society, starting with meeting the SDGs by 2030. Through our business, we will keep creating uniquely Epson environmental value.
+       R
+R
+e
+ed
+du
+u
+c
+ce
+e
+t
+th
+he
+e
+e
+en
+n
+v
+v
+i
+i
+r
+ro
+o
+n
+nm
+me
+en
+n
+t
+ta
+al
+l
+i
+i
+m
+m
+p
+p
+a
+a
+c
+c
+t
+t
+s
+s
+o
+of
+fo
+o
+u
+u
+r
+r
+m
+ma
+a
+n
+nu
+uf
+fa
+ac
+c
+t
+tu
+u
+r
+ri
+i
+  A Ad
+n
+c
+c
+e
+e
+t
+t
+h
+he
+ef
+fr
+r
+o
+on
+n
+t
+ti
+ie
+er
+r
+s
+so
+of
+f
+i
+in
+n
+d
+du
+u
+s
+s
+t
+tr
+r
+  C
+Established Environmental Vision 2050
+Second Environmental Benchmark Year Established General Environmental Action Plan
+Environmental Benchmark Year CFC-free Declaration
+Established Group Environmental Policy
+Global Enviromental Concern
+Global warming
+Depletion of resources
+Revised Environmental Vision 2050
+  Epson's SDGs from an environmental perspective
+(as of September 2018)
+  In 2008, Epson established Environmental Vision 2050, a statement of our 2050 environmental goals. Ten years later, the business landscape is very different.
+Externally, the Paris Agreement of 2015 established a long-term global target of keeping the increase in average temperature worldwide to well below 2°C above pre-industrial levels.
+An international initiative known as Science Based Targets (SBT) recognizes
+Junichi Watanabe
+Managing Executive Officer General Administrative Manager, Production Planning Division
+businesses that set medium/long term greenhouse gas (GHG) reduction targets consistent with the 2°C goal. This is a new world standard. And since climate change is not the only environmental problem, we face greater demands to circulate resources. An example is the EU Circular Economy Action Plan. Enterprises have to step up their efforts.
+Internally, Epson has changed our business structure to better reflect our strengths. We transferred our small- and medium-sized LCD business and optical business. We are speeding up the shift in our business focus from consumers to office, commercial, and industrial customers. In light of these internal and external changes, we revised Environmental Vision 2050 in 2018. Under our new vision, we are taking environmental initiatives as an indispensable company striving to achieve a sustainable society.
+        49
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 50
+Epson 25 Corporate Vision Environmental Statement
+Contribute to the development of a sustainable society by leveraging efficient, compact and precision technologies to reduce the environmental impact of products and services across their life cycles.
+Water and soil pollution
+Approach Leading up to 2050
+To achieve the environmental vision by 2050, we have been setting milestone targets while working to bridge the gap needed to reach them. We seek to leverage our original efficient, compact and precision technologies to reach these milestones and reduce environmental impacts across the value chain, including through our business activities and improved product environmental performance. By offering products and services that enable new business processes, we aim to provide outstanding customer value in both economic and environmental terms.
+
+       Value Creation Infrastructure (Environment)
+Reducing Environmental Impacts of Business Activities
+Calculating Greenhouse Gas (GHG) Emissions in the Value Chain
+New factory at Hirooka Office Brings Cleanroom Expertise Together
+    To meet our medium- and long-term GHG reduction targets for getting to the 2°C goal, Epson tracks its own direct and indirect emissions (scopes 1, 2). However, we also track the GHG emissions of the entire value chain as based on the scope 3 standards of the Greenhouse Gas Protocol.*1 This is a requirement for SBT conformance.
+FY2017 scope 3 emissions
+2 Capital goods 240
+3 Fuel- and energy-related activities not included in scopes 1 or 2 39
+   Category thousand t-CO2e
+  1 Purchased goods and services 1,100
+    FY2017 GHG Emissions and Ratios
+455 thousand tonnes
+3,259 thousand tonnes
+137thousand tonnes
+Top Categories
+of Scope 3 Emissions
+4 Upstream transportation and distribution
+5 Waste generated in operations
+6 Business travel
+7 Employee commuting
+8 Upstream leased assets
+9 Downstream transportation and distribution
+10 Processing of sold products
+11 Use of sold products
+12 End-of-life treatment of sold products
+13 Downstream leased assets
+14 Franchises
+225
+6
+20
+34
+4
+ー
+68
+1,444
+79
+ー
+ー
+           Scope 2
+Category 11
+44.3%
+  Category 1
+  Scope 3
+33.8%
+The new factory, known as Hirooka Office Building 9, was completed in July 2018. This factory houses the front-end process for PrecisionCore printheads, a core device in inkjet printers. The five-story plant has a four-level cleanroom that is predicted to greatly
+Decarbonize with Renewable Energy
+Epson took the startup of Building 9 as a chance to use more renewable energy (green electricity) in time for 2025 as we seek medium- to long-term growth in the office, commercial, and industrial sectors per the Epson 25 Corporate Vision and try to meet our long-term GHG
+LEDs for All Lighting
+LED lighting is one effective way to save energy in the factory. Aside from energy savings, LEDs provide another significant advantage: less frequent replacement means higher productivity. Semiconductor factories use yellow light with a wavelength of 500 nm or greater, since this does not affect the exposure process. LEDs are increasingly common in homes and offices, but it is only in the last few years that yellow LED products have come out. The cleanroom at Building 9 uses this new LED lighting, and the entire building is lit by LED lamps.
+Yellow LED lighting in the cleanroom
+increase electricity use and therefore GHG emissions as it gets up to speed. When we built the factory, therefore, we brought together all types of cleanroom expertise that Epson has learned over the years: space and energy efficiency, serviceability, safety, and more.
+reduction targets. The amount of renewable energy we plan to purchase in FY2018 would cover more than 10% of the scope 2 emissions for the entire Group. That amount of renewable energy would be enough to power Building 9 completely.
+High-Efficiency Air Cleaning System
+Epson uses a task and ambient air cleaning system*5 to manufacture PrecisionCore products. This efficient local air cleaning technology provides the required level of cleanliness (Class 1000 or better) with energy savings.
+The air cleaning system also eliminates the need to circulate clean air to the ceiling, etc., as in conventional cleanrooms. Less building material is needed and floors can be built to a lower height, using space more effectively.
+*5 An air cleaning system patented by Shimizu Corporation
+With no need for double ceilings or walls, air does not need to be circulated as often
+  Other
+ 7.7%
+    Scope 1
+Category 4
+Category 2
+6.9%
+7.4%
+15 Investments ー
+    *1 International GHG emissions accounting and reporting standard
+Environmental Indicators
+total
+3,259
+   We did not meet our water usage target for FY2017, as the startup of new factories for inkjet printers and metal powder products increased usage. However, usage per revenue*2 improved because of revenue growth. In every other indicator, we achieved our targets.
+    Total GHG emissions
+537 t-CO2e/billion yen
+VOC*4 emissions 184 t
+Target achieved
+Reduce by 52% Vs. FY2006
+      Target Per unit achieved
+ of sales
+Reduce by 22% Vs. FY2006
+PRTR*3 emissions
+5.7 t Target
+achieved
+Reduce by 60% Vs. FY2006
+    Waste emissions 34 thousand t
+Target achieved
+Reduce by 18% Vs. FY2006
+Water use
+8.324 million m3
+Reduce by 52% Vs. FY2006
+      Targets
+FY2017 targets
+ Reduce by 20%
+(per unit of sales: 553 t-CO2e/ billion yen)
+Base value or less (14.4 t or less)
+Base value or less (387 t or less)
+Base value or less (42.4 thousand t or less)
+Reduce by 55% (7.794 million m3 or less)
+        51
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 52
+*2 Water usage/revenue (inc. foreign exchange effects)  *3 Substances reported in PRTR database *4 Volatile organic compounds
+● GHG emissions
+● PRTR emissions
+● VOC emissions
+● Waste emissions
+● Water use * Vs. FY2006
+      
+            Value Creation Infrastructure (Society)
+Enhancing Quality of Products and Services
+At Epson, we define quality as the degree to which our products and services match customer needs. Quality assurance, moreover, is how we continue to make and offer products and services that delight customers and win their trust. Epson works as a team to win customers’trust at every point of contact we have with them and throughout the life cycle of each product.
+Vision for Mid-Range CS & Quality Initiatives
+Epson implements CS & quality programs in line with its Mid-Range CS & Quality Action Policy, which is based on its Quality Policy and that stipulates its vision for creating products and services that please customers and earn their trust.
+Planning and Design Initiatives
+Epson product planning seeks to meet customer expectations by sending our design engineers on personal visits to hear their thoughts and needs first-hand. They also analyze feedback received by our information center.
+Initiatives for Improving Quality
+To continue providing product and service quality that exceeds customer expectations and achieve the Epson 25 Corporate Vision, Epson envisions how each function should be in respect to quality. We then narrow down the challenges each business and organization needs to address to get to that ideal and work to overcome them.
+       Category
+Functions
+Goals
+ Product development value chain
+Planning and design
+1 Plan products, services meeting customer expectations
+Design
+2 Secure design quality to achieve plan intent
+Process design, mass production prep, mass production
+3 Secure process quality to achieve plan & design intent and maintain production quality
+Sales
+4 Provide service and support that reassure customers
+ Foundations
+Compliance and product safety
+5 Secure product safety and ensure legal compliance
+Human resources
+6 Ascertain the root of problems and secure personnel who can deal with them
+Systems
+7 Have systems that constantly innovate quality
+        CS & Quality Vision (Creating Customer Value)
+Case Studies
+Resolving issues refilling ink in high-capacity ink tank printers
+ Issue
+Ink could stain user’s hands when removing protective seal or tipping the bottle
+ Issue
+The bottle had to be squeezed about 50 times in the roughly two minutes it took to refill a tank.
+ Issue
+Filling a tank with
+the wrong color of ink
+Ink tank
+      We seek to achieve the goals of the Epson 25 Corporate Vision by raising the quality of work in all operations, demonstrating teamwork and collective strength, and providing products and services that exceed customer expectations.
+1. Ours is a customer-centric process in which we listen to customer expectations and react by designing our products and services to accurately reflect them.
+2. We continuously improve the quality of our operations in response to changes in society and customers.
+   Collect feedback
+Create value
+Create
+Customer information/ resources
+Solution
+We eliminated the protective seal and replaced it with an airtight bottle cap and a slotted valve near the tip of the nozzle to prevent ink from dripping.
+Sales Initiatives
+Solution
+Ink bottles and printer ink filling holes were redesigned to enable easy filling. Users simply have to insert a bottle nozzle into an ink tank and wait about 40 seconds for the tank to fill. Filling automatically stops when a tank is full.
+Solution
+The ink bottles have a tip that is uniquely shaped for each color and can only be inserted in a tank of the same color.
+Ink bottles act like a key that fits only the correct ink tank
+       Deliver
+Products/ services
+Deliver value
+Customers
+Produce
+Customer value
+  Promotion Framework
+Quality Assurance Program Organization
+The president of Seiko Epson Corporation heads up our quality assurance program. A Quality Assurance Council, committees, and project teams solve shared issues and serious problems. In addition, we manage our quality assurance programs by periodically assessing and reviewing the state of quality and the progress of actions, reporting the results to the president, and formulating and implementing policies for further improvement.
+Collaboration, instructions & reports
+In case of accident in a product owned by a customer, the local sales company in Japan or abroad and the affected business’s market response team file a flash report on the Quality Crisis Management (QCM) system.*1
+Affected departments, including the QA department of the operations division or Group company, promptly analyze the cause and study solutions. Top management and affected departments share information and make appropriate disclosures and responses, putting the customer first. We also report to outside organizations as legally required, as in the Consumer Product Safety Act in Japan.
+*1 An IT system for quickly reporting product accidents in any market in the world; very serious reports go directly to top management, Head Office, and operations division
+Epson Product Incident Response Process
+Product incident occurs
+Inquiry
+Sales companies and market support departments
+Share value
+Ink bottle valve (at bottle tip)
+Ink bottle
+Ink bottle
+     Seiko Epson
+ President
+ General administrative manager in charge of quality assurance
+Head of quality assurance supervisory department
+SEC quality assurance supervisory department
+Quality Assurance Council/ committees/project teams
+Instructions & reports
+Instructions & reports
+Delivery
+QCM system
+Delivery
+Entry into QCM system
+   Chief executive
+Report assessment and approval
+Division/Affiliate quality assurance department
+Cause analysis
+Countermeasure planning
+Reporting decision
+Corporate HQ Quality Assurance
+Legal Affairs Public Relations Other related depts.
+Issue reports, share information, respo
+ Sales company Service & Support
+Legal Affairs Public Relations Other related depts.
+nd
+   Assessments & reports
+   Operations division
+Epson Group manufacturing companies
+    Solve important common issues
+Chief operating officer
+President
+Epson Group sales companies
+  President
+   Head of quality assurance
+Head of quality assurance
+Head of quality assurance
+Reports
+& notifications
+Outside agencies
+Delivery
+Appropriate release of information & market support
+Customers
+  53
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 54
+Manufacturing companies managed by the operations division
+Collaboration
+Collaboration
+
+             Value Creation Infrastructure (Society)
+Maximizing the Capacities of Our Diverse Personnel
+Respecting Human Rights
+Epson is serious about keeping all forms of discrimination and unfair practices out of its operations around the world. This stance is reflected in our participation in the United Nations Global Compact. Also, the Group’s policies regarding human rights and labor standards articulate Epson’s strong convictions in areas including respect for human rights, elimination of harassment, eradication of all forms of discrimination, respect for local culture and customs, prohibition of child and forced labor, and maintenance of positive labor-management relations. These attitudes are widely disseminated and practiced throughout the Group.
+The Policies regarding Human Rights and Labor Standards
+https://global.epson.com/company/epson_way/principle/human_rights.html
+Better Workplace Environments for Employees
+In 2018, METI and Nippon Kenko Kaigi recognized Seiko Epson under the White 500 program, large enterprise category. A safe and healthy work environment and physical and mental wellness are the foundation of a healthy company. We strive to ensure that all our employees and partners can enjoy working as a team, knowing they are safe and secure.
+In Japan, every five years we institute a mid-range plan on health. The current plan, Health Action 2020, proclaims emphasizing safety and improving the working environment while fostering employee and workplace independence
+and autonomy as our basic stance. Initiatives address health in three focus areas: workplace, physical, and mental.
+Health Action 2020: Three Key Areas and Actions
+Promoting Diversity
+Epson’s true customers are end-users the world over. To enrich their lives, we have to understand them and meet their needs. To achieve this, our own diversity is important. We believe that only with a diverse workforce of people who have respect for one another and who know and practice what is important can we create customer value. To deliver results that surprise and delight our customers, Epson promotes female managerial staff and foreign nationals, fostering a corporate culture that enables diverse personnel to display their abilities to the full.
+     Group Human Resources Development Policy
+Epson develops its human resources in line with the Epson Group Human Resources Development Policy established in 1996, which designates talented people as a precious management resource and asserts that it is people that connect, support, and nurture the Epson Group. We assist employees so that they can achieve their dreams of self-fulfillment.
+We provide training so that our people understand their roles and what is expected of them as members of the Epson team. Training enables them to work and communicate effectively, solve problems and achieve goals, and experience personal and professional growth.
+Human Resources Development Policy
+https://global.epson.com/company/epson_way/principle/human_policy.html
+Developing Global Human Resources
+Epson runs a global business, and thus it is critical to our management that we foster global human resources that can help us pursue the common global goals of our business, each within the role of his or her Epson Group company.
+The Global Incubation Seminar (GIS) is a training program in which we share Epson’s vision and values with up-and-coming leaders from Group companies around the world, and empower them to put these into practice in their own
+Message from an FY2017 GIS Participant
+Cumulative
+GIS participants
+   organizations. We have
+held GIS every year since
+1999, training more than
+350 individuals so far.
+Additionally, in FY2017,
+Epson held the inaugural Global Executive Seminar (GES). The GES, which we plan to make an annual event, seeks to further strengthen executive management training at Group companies. The seminar is designed to develop leaders who can develop strategies and consider issues, such as how to achieve Epson’s long-term goals, what role they and their companies should play, and what changes to make, in a business environment with limited future visibility.
+GIS/GES Target Trainees
+About
+ 350
+persons
+Number of female
+Number of employees
+  managers
+with disabilities
+On Seiko Epson staff as of March 20, 2018
+Seiko Epson, domestic Group employees on June 1, 2017
+persons / 3%
+22 *1 *1 Percentage of current managers
+persons /2.48% Epson works continually to achieve true diversity by
+enabling a diverse workforce, including women and foreign nationals, to take an active role and by reviewing our system to create a better working environment. 
+Masayuki Kawana, Director, Executive Officer
+General Administrative Manager, Human Resources Division
+Work Reform
+Epson specifies its work goals and work culture. Our goal is for all employees to maintain and improve their physical and mental health while working efficiently in a vital, rewarding work environment, without excessive labor demands. In this way, the company will develop in perpetuity, raising its corporate value and ensuring a win-win relationship with its employees.
+Beginning in FY2017, we are reforming the way we work through what we call our WILL BE program.*2 It includes targets for working hours in the medium term, and others.
+Annual total working hours per employee
+284
+  Commitment to Diversity
+ President Directors
+    GES GIS
+Department Managers Senior Managers
+Managers
+Health and safety obligations
+    W Weight
+Workplace health
+Physical health
+Mental health
+・ Overwork prevention
+・ Workplace harassment
+preventon
+Creation of a pleasant workplace
+・ Teamwork & energy ・ Encourage individual
+skills
+      EE
+ Eat Treatment
+Self care
+Prevention
+P Prevention
+Exercise
+      I was impressed with the presentations from executive management and discussions with other participants. I think GIS participants need to take the initiative to share Epson values and the lessons about value that we learned in the training to align everyone across the Epson Group, and especially members of management, in the same direction.
+T
+S Smoke -free
+"We Step" activities Take a step forward
+Prevention, education, early detection/treatment, recurrence prevention
+1,971
+FY2018 target 1,905 hours
+  55
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 56
+Yuan Xue
+Epson (China) Co., Ltd. Senior Manager, Market Support Dept.
+*2“WILL BE”signifies work-life balance, innovation, liveliness, and enjoyment.
+Epson’s work goals and work culture
+https://global.epson.com/SR/our_people/pdf/diversity.pdf
+W: Weight control
+E: Exercise
+S: Smoke-free efforts T: Treatment/checkup E: Eating smart
+P: Prevention/promotion
+Appropriate assignment, support
+Training, consultation
+FY2017 results
+Target hours 1,970 hours
+
+               Value Creation Infrastructure (Society)
+Supply Chain
+Socially Responsible Procurement Program
+Epson’s socially responsible procurement program helps suppliers enhance CSR. At supplier briefings, we ask them to practice socially responsible procurement and complete a Self Assessment Questionnaire (SAQ) on their observance of the Epson Supplier Code of Conduct. We verify their answers on-site and conduct audits, after which we share issues and work for improvement.
+Employee Training
+During on-site verification of suppliers by Epson employees, we review documents, tour the site, and interview workers to ascertain labor and human rights conditions. Aimed at developing the skills to identify worker concerns and dissatisfaction, we invite instructors from outside organizations to train Epson procurement staff who do on-site verifications in how to interview workers.
+This is required training for employees who perform on-site verifications so they can do so with greater accuracy.
+Dealing with Conflict Minerals
+Epson prohibits and works to eliminate the use of conflict minerals that fund armed groups tied to human rights abuses and environmental destruction in the Democratic Republic of the Congo and adjoining countries.
+Conflict Minerals Survey Implementation Status
+    Our procurement seeks to build trusting relationships with our business partners around the world based on fairness, coexistence, transparency, and co-prosperity.
+As a global enterprise, Epson does business with about 1,500 suppliers around the world. Component quality, delivery, and procurement cost are important, but we look for more than just those factors that affect product quality and our business activities. The public cares about CSR issues like the environment and human rights, so we hold our suppliers to high ethical standards to ensure we contribute to society and fulfill our social responsibility.
+Share vision
+Briefings
+Status assessment
+SAQ
+Cooperation check
+On-site verification
+Share issues
+Evaluation
+Improvement initiatives
+Improvement
+Socially Responsible Procurement Program
+Briefings
+   Supply Chain Strategy
+In keeping with our Management Philosophy and other values statements, our procurement emphasizes six points as the highest priority for the entire supply chain.
+1. Provide products and services that create customer value
+2. Work proactively for environmental conservation
+3. Comply with laws and social norms and take actions based on high ethical standards
+4. Respect human rights
+5. Ensure safe, healthy, and fair working environments
+6. Establish business continuity management (BCM)
+Since FY2016, we have held socially responsible procurement briefings for suppliers to share information on Epson’s socially responsible procurement programs with suppliers. In FY2017, we held a total of eleven briefings in Japan, China, and Indonesia. Briefings were attended by 613 people from 453 suppliers, who learned about Epson’s efforts.
+Briefing (Indonesia)
+Learning Supplier Status, Sharing Information, Improving
+Suppliers take the SAQ to assess how well they are following the Epson Supplier Code of Conduct. If the results reveal risks at a supplier, we perform on-site verifications and audits and share information on any problems we find. We also share plans for any needed improvements and work together to implement them.
+FY2015 FY2016
+FY2017
+     The Epson Group Procurement Guidelines and Supplier Code of Conduct, based on the RBA Code of Conduct, set requirements in the areas of labor, health and safety, environmental conservation, management, and ethics, as well as seven additional requirements that Epson considers important, such as export control and security in the supply chain. We are thereby asking our suppliers to comply with a more concrete protocol.
+Number of suppliers surveyed
+Number of identified smelters (1)
+Number of CFS-certified*1 smelters (2)
+Percentage CFS-certified (2)/(1)
+716 561 388
+298 314 312
+211 243 249
+71% 77% 80%
+     Our Supply Chain Works Together for a Sustainable Society
+Epson seeks to create customer value as guided by our Management Philosophy in order to win and maintain the trust of our stakeholders into the future and to contribute in an ongoing way to the development of society. We will fulfill our corporate social responsibility through actions designed to achieve our Management Philosophy. When suppliers take the same approach as Epson to human rights, labor conditions, the environment, compliance, ethics, quality, and information security, we can solve society’s challenges together and contribute to the making of a sustainable society.
+*1 Smelters using only non-conflict minerals
+Supplier Business Continuity Plans (BCP)
+Epson aims to establish systems to get the supply of products flowing again as soon as possible if a supply chain disaster or accident disrupts it.
+In FY2017, a fire at a supplier’s facility disrupted our business activities. We began doing more to teach and raise awareness among suppliers as a result. The following initiatives are being taken:
+● We ask our 1,353 suppliers to self-assess their BCP control level and make improvements.
+● Epson disaster and safety management staff inspect sites of 399 key suppliers for fire risk. They suggest improvements and follow up on implementation.
+     57
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 58
+Managing Executive Officer,
+General Administrative Manager, Production Planning Division
+Junichi Watanabe
+On-site verification by third-party auditor (Indonesia)
+
+       Value Creation Infrastructure (Governance)
+Corporate Governance
+Actions to Ensure Board Effectiveness
+Seiko Epson seeks to continuously enhance the effectiveness of its board of directors pursuant to its Corporate Governance Policy. Toward this end, Seiko Epson has been analyzing and evaluating the effectiveness of its board of directors every year since FY2015 based on a self-evaluation questionnaire that all board members were asked to complete.
+Evaluation Process
+FY2016 FY2017 (evaluation of the 2016 fiscal year) Summary of evaluation results released
+2017 Jan. Feb. Mar. Apr. May Jun. Jul. Aug. Sep. Oct. Nov. Dec. Jan.
+        Basic Principles
+To achieve the goals declared in the Management Philosophy, promote sustainable growth, and increase corporate value over the long term, Epson strives to continuously enhance and strengthen corporate governance so as to realize transparent, fair, timely, and decisive decision-making.
+Corporate Governance System
+Initiatives to Enhance and Strengthen Corporate Governance
+Conduct a questionnaire (Feb.-Mar.)
+All directors evaluate and comment on their own performance and on that of the board as a whole.
+Questionnaire Topics
+1. Board functioning
+Are the Management Philosophy and direction clear?
+Are discussions free, dynamic, and constructive?
+2. Board composition and process
+Do advisory bodies to the board (the Director Nomination Committee, Director Compensation Committee, and Compliance Committee) function effectively?
+3. Board operations
+Are outside directors provided with sufficient information?
+Are handouts and other materials appropriate in terms of organiza- tion and quality?
+Analyze & evaluate results (Mar.-May), release results (Jun.)
+We analyze and release a summary of questionnaire results in a Corporate Governance Report.
+Concrete Actions
+Results of board effectiveness evaluations
+Areas where the board is effective
+● Discussion regarding the direction and strategies of the company were exhaustive because the board was able
+to focus more tightly on important
+Implement improvements (July- )
+The board further increases its effectiveness by addressing selected issues.
+Implementation of improvements
+      2012
+Elected an outside director
+2013
+Established“Standard of Outside Officers’ Independence”*1
+2014
+Increased outside directors
+2015
+Established a Corporate Governance Policy
+2016
+● Transitioned from a company with an audit & supervisory board to a company with an audit & supervisory committee
+● Increased the number of outside directors
+● Introduced a performance-linked stock compen-
+sation plan
+2018
+Corporate Governance Policy revised
+        1
+* The name and content of“Criteria for Independence of Outside Directors”
+were revised in April 2017.
+ 
+business issues.
+  
+● The board exercises its supervisory
+ 
+ 
+angles.
+● Decisions were made quickly and
+decisively on the executive line due to
+the articulation of effective strategies and  policies and the delegation of authority.
+ function by promoting free, vigorous,
+constructive dialog from many different
+                 FY2018 Evaluation Results (Results Released in June 2018 for the 2017 Fiscal Year)
+In FY2018, to make the evaluation more objective, we asked an independent firm to evaluate and provide feedback about each step in the process, from creating the questionnaire to analyzing and evaluating the answers.
+                       59
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 60
+● Respect the rights of shareholders, and secure equality.
+● Keeping the interests of shareholders, customers, communities, business partners, employees and other stakeholders in mind, work in an appropriately cooperative manner with them.
+● Disclose company information as appropriate and ensure transparency.
+● Directors, Executive Officers, and Special Audit & Supervisory Officers shall be aware of their fiduciary responsibilities and shall fulfill the roles and responsibilities expected of them.
+● Epson shall engage in constructive dialogue with shareholders.
+(i)Evaluation topics
+(ii)Summary of results
+(1) Board composition, functioning, and operation (2) The function of the Audit & Supervisory Committee (3) The function and operation of advisory bodies to the board
+(4) Management team evaluation, compensation, and succession planning
+(5) Dialog with shareholders (6) Other
+The board of directors as a whole was found to be functioning effectively, as was the case in fiscal 2016. The board is of an appropriate size and diversity, the members engage in constructive debate and exchange of ideas under the fair and efficient operation of the chairman of the board, and authority is delegated appropriately by the board to the management team.
+At the same time, it was noted that there are opportunities to further enhance board effectiveness by, for example, strengthening policies and systems for better mirroring the opinions expressed in constructive dialog with shareholders and by reinforcing the risk management in respect of the business strategy.
+We will strive to further improve the effectiveness of the board by addressing these opportunities going forward.
+The board ensured its effectiveness by providing strategic direction on selected issues, appointing owners to address those issues, and monitoring progress. It also input results to further increase the quality of next year’s board effectiveness evaluation.
+Actions to improve board effectiveness
+● Promoted more constructive dialog to, among other things,
+  validate the strategic direction of
+the company
+ 
+● Provided materials and information well in advance of meetings to help ensure dynamic discussions
+    Areas where improvement is needed
+● Enhancement of director discussions
+● Efficiency of board administrative   operations
+            
+           Value Creation Infrastructure (Governance)
+       Outside Directors on Increasing Corporate Value
+Seiko Epson has elected five outside directors as required by the Compa- ny’s Corporate Gover- nance Policy and Criteria for Independence of Out- side Directors.
+*1 The rate of attendance was calculated using the number of board meetings held in FY2017 as the denominator.
+Present at 12 out of 13 board meetings (92.3 %)*1
+Main contributions to the board
+Mr. Omiya has extensive experience and insight as an executive and engineer. He actively speaks out and makes recommendations over a broad range of matters as an executive with expertise in global heavy industry management.
+Using Scientific Management to Contribute to Growth
+The world has entered an era of rapid geopolitical and technological change. The Epson 25 Corporate Vision serves as a guide to riding out the tumult, pioneer- ing a new future by connecting people, things, and information with efficient, compact and precision technologies, and achieving further growth. I want to use the technical insights I have gained as a heavy equipment engineer and business executive, as well as my scientific man- agement experience, to help Epson rapidly reach the right decisions.
+Mari Matsunaga
+Present at 13 out of 13 board meetings (100%)
+Main contributions to the board
+Ms. Matsunaga, who has a track record of creating new business models and considerable insight and experience as an outside director, expresses opinions on outside collabora- tion and human resources strategy.
+Diversity for Faster,
+More Dynamic Operations
+A company that wishes to increase the dynamism and speed of its operations must have internal innovation programs but must also harness the energy produced by using and combining external knowledge and technologies. Epson has developed its own corporate culture and vertically integrated business model. To increase corporate value, Epson must maintain these strengths while also promoting diversity in areas such as values and work arrangements. As an outside director, I will use my own experi- ence to continue to help foster dynamism.
+Michihiro Nara
+Present at 13 out of 13 board meetings (100%)
+Main contributions to the board
+Mr. Nara has legal expertise as an attorney and extensive experience and insight as an outside director at multiple companies. He actively speaks out on issues and makes recommendations particularly from a legal perspective.
+Further Enhancing Internal Control and Compliance
+I will monitor internal control and compliance. One focus will be on overseas operations. Attention to compliance needs to be uniform across global operations, and overseas person- nel need to be reminded of the importance of compliance to improve compliance systems. The second focus will be on aligning the level of compliance awareness between the differ- ent manufacturing and sales organizations. Although appropriate education and training are being provided to achieve this, I feel that a stronger effort will be needed particularly to instill awareness in organization leaders.
+Chikami Tsubaki
+Present at 13 out of 13 board meetings (100%)
+Main contributions to the board
+Ms. Tsubaki has finance and accounting expertise as a C.P.A. and extensive experience and insight as an outside director. She actively speaks out on issues and makes recommenda- tions particularly from financial and accounting perspective.
+Drawing Attention to Strengths That Cannot Be Expressed by Financial Figures
+To increase corporate value, you need to draw the attention of customers, investors, employees, and other stakeholders to strengths that do not show up in the financial figures. One way to do this is by developing KPI that visually illustrate strengths in areas such as technology. Publicizing initiatives to develop human capital and strengthen the compliance framework at overseas sites are also effective ways to increase corporate value. As an outside director, I will help Epson earn recognition as an indispensable compa- ny through its high aspirations and passion.
+Yoshio Shirai
+Present at 13 out of 13 board meetings (100%)
+Main contributions to the board
+Mr. Shirai has extensive experience and insight as an executive and engineer. He actively speaks out on issues and makes recommendations based on his expertise in global automotive industry and trading company management.
+Giving Back and Minimization of Wastes
+I will use my experience in manufacturing company and trading company management to help make Epson a genuinely indispensable company by supporting management’s efforts to protect the interests of shareholders and to reduce wastes. To protect the interests of shareholders, a company must be operational- ly sound and give back to its employees, business partners, and community. To reduce wastes, which all manufacturers generate in many forms, I will focus on waste in areas such as investment, quality, and inventory to maximize earnings and efficiency.
+Hideaki Omiya
+           Actions to Ensure Management Transparency
+Epson has established a Director Nomination Committee and a Director Compensation Com- mittee as advisory bodies to the board of directors. The purpose of these committees is to ensure the transparency and objectivity of selections for director, executive officer, and special audit & supervisory officer, as well as their compensation. Outside directors com- prise the majority of both committees, which also include the representative director/presi- dent and the director in charge of human resources. Directors who are full-time members of the Audit & Supervisory Committee can attend either meeting as observers.
+Director Nomination Committee
+● Screens director and executive officer candidates
+President
+Director in charge of human resources
+Director Compensation Committee
+● Deliberates director and executive officer compensation
+President
+Director in charge of human resources
+Inside Director
+Policy on Officer Compensation
+Compensation for Executive Officers
+(1) Compensation shall provide an incentive to improve business performance to increase corporate value. (2) Compensation shall be sufficient to attract qualified persons both from within the company and
+from outside.
+(3) Compensation shall be commensurate with period performance so that they can fully demon-
+Compensation for Non-Executive Officers
+(1) The composition of compensation shall guarantee independence so that they can exert their function.
+(2) Compensation shall be sufficient to attract qualified persons both from within the company and from outside.
+        strate their managerial abilities.
+Officer Compensation System
+Base compensation (fixed and variable)
+This is a monthly monetary amount determined by taking into account factors such as the individual’s position and responsibilities. Base compensation for executive officers reflects the results of annual performance evaluations.
+Bonuses (variable)
+An annual bonus is paid to executive officers. The amount is determined based on considerations such as the level of achievement with respect to annual performance targets. Bonuses reflect the annual performance evaluation results.
+Stock compensation (variable)
+Executive officers are compensated with Seiko Epson shares under a trust scheme. The number of shares issued is dependent on the level of achievement with respect to financial performance targets, such as ROS and ROE.
+   61
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 62
+Outside Director
+* Non-executive officers receive fixed base compensation only. They do not receive bonuses and stock compensation.
+ 
+       Value Creation Infrastructure (Governance)
+Complying with the Corporate Governance Code
+On September 5, 2018, Seiko Epson announced that it had amended its Corporate Governance Policy and submitted a Corporate Governance Report after verifying compliance with the spirit and content of Japan’s Corporate Governance Code, which was revised effective June 1, 2018.
+Seiko Epson endorses the Code and implements all its principles.
+Key Amendments to the Corporate Governance Policy
+Compliance
+Basic Principles
+At Epson, our Management Philosophy forms the foundation for how we run our business. Our mission is to build stakeholder trust as we grow and prosper with communities and to help create a better world. We seek to do this through business activities that comply with the law, adhere to the highest standards of business ethics, and create value that exceeds customer expectations.
+Organization
+Seiko Epson transitioned to a company with an Audit & Supervisory Committee. The move was approved by shareholders at the general shareholders’ meeting in June 2016. The composition of the Compliance Committee and the role of the chief compliance officer (CCO) were revised in conjunction with this change.
+Under the current system, the Compliance Committee acts as an advisory body to the board of directors. It hears and discusses important matters concerning the company’s compliance program to supervise whether the compliance program is being properly implemented along the executive line, and it reports its findings and offers its opinions to the board of directors. The CCO supervises the execution of all compliance operations and periodically reports the state of compliance affairs to the Compliance Committee. The department that supervises compliance control coordinates and monitors general compliance efforts and takes corrective action where needed.
+Instilling Compliance Globally
+Epson has established a system of Group-wide beliefs, starting with the Management Philosophy, that serves as a guide to proper conduct. Epson Group companies conduct a variety of group-wide unified activities during Compliance Month, in October.
+In addition, we have appointed regional chief compliance officers (R-CCOs) in the Americas, Europe, China, and the Asia-Pacific region. The R-CCOs encourage and assist affiliates in their territories with compliance activities, and put in place compliance systems that are regionally tailored.
+Reporting Systems
+Epson is committed to maintaining effective reporting systems and has installed internal and external compliance hotlines and other advisory and support services to facilitate the reporting of potential compliance issues. We have also provided reporting channels for use by our business partners, to quickly catch any potential compliance problems that could go undetected internally. The identity of whistleblowers is rigorously protected and reprisals of any type are strictly forbidden.
+Counseling and Support Services in Japan
+● Epson Helplines
+● Harassment counseling
+● Counseling related to overwork and long working hours ● Counseling for persons with disabilities
+● Insider trading advisory service
+● Antitrust (antimonopoly) advisory service
+● Corruption (bribery) regulations advisory service ● Employee counseling
+● Reporting contact for business partners
+Whistleblowing systems have been installed in all Epson Group companies worldwide. The use of these systems is monitored, and usage data are reported to a corporate management body and to Group companies in an effort to increase system effectiveness.
+      Code (Principle)
+Subject
+Key Point
+1-4
+Cross-shareholdings
+● Specified that the board of directors shall annually examine the rationale for individual cross-shareholdings
+● Specified that the number of shares shall be reduced if
+there is not a valid reason for cross-holding.
+3-1
+Policies & procedures for selecting/ dismissing officers
+● Established new policies and procedures for dismissing directors and other officers, including the president.
+4-13
+Succession plan for the CEO and other top executives
+● Specified that the board of directors shall be tangibly involved in the creation of a president succession plan.
+       Actions of Seiko Epson (Corporate Governance Report)
+   Code (Principle)
+Subject
+Description of Actions
+1-4
+Cross-shareholdings
+● Determine the advisability of individual cross-shareholdings in the Epson Group by analyzing the reasons for them as well as the risks and rewards.
+● Reduced the number of shares in unnecessary holdings.
+2-6
+Roles of corporate pension funds as asset owners
+● Recruit and assign qualified persons to manage corporate pension funds, and provide such persons with ongoing educational opportunities.
+4-13
+Succession plan for the CEO and other top executives
+● Analyze the selection and development of succession candidates, and explore and implement concrete development plans within the HR Development Strategy Council, an advisory body to the president. Report the development situation and issues to the Director Nomination Committee, which mainly consists of outside directors.
+● Identify candidates to succeed the president and provide the necessary training opportunities to prepare them to assume a critical management role.
+    Compliance System Diagram
+Report & opinions Instructions & inquiries
+Monitor & supervise Report
+      63
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 64
+Corporate Governance
+https://global.epson.com/SR/organizational_governance/
+Compliance Committee Chair: Full-time member of the Audit & Supervisory Committee
+Report
+Audit & Supervisory Committee
+Corporate Strategy Council (deliberative body)
+Compliance control department
+Executive organization (Divisions, operations divisions, Epson Group companies)
+Report Instructions
+Internal audit department
+Independent
+monitoring
+Executive officer
+Board of Directors
+  President
+CCO
+      
+               Value Creation Infrastructure (Governance)
+Risk Management
+Epson’s Risk Management Organization
+List of Main Risks
+Note: The content of the list was excerpted from“Risks related to Epson’s business operations”in Epson’s Annual Report. Please see the Annual Report for additional details.
+ Seiko Epson’s board of directors has approved an internal control system policy pursuant to the Companies Act.
+The policy specifies the following system for managing risks based on the Epson Group Risk Management Basic Regulation.
+Risk Management Organization Chart
+Epson’s Annual Report 2018
+https://global.epson.com/IR/library/
+Main Risks
+Parts procaurement risks from certain suppliers
+Intellectual property rights risks
+ Management of serious risks in the Epson Group
+Group-wide management of serious risks (horizontal/functional)
+1 President
+Corporate Strategy Council
+General Description of Risk
+● A supplier parts shortage or quality problem with supplier parts could interfere with Epson’s manufacturing and selling activities.
+● An objection might be raised to, or an application to invalidate might be filed with respect to, an intellectual property right of Epson, and as a result, that right might be recognized as invalid.
+● A third party to whom we originally had not granted a license could come to possess a license as a result of a merger with or acquisition by another party, potentially causing us to lose the competitive advantage conferred by that intellectual property.
+● New restrictions could be imposed on an Epson business as a result of a buyout or a merger with a third party, and we could be forced to spend money to find a solution to those restrictions.
+Main Countermeasures
+● Procure parts and materials from multiple suppliers whenever possible.
+● Work with suppliers to maintain or improve quality and reduce costs to ensure stable and efficient procurement.
+● Independently develop technologies we need; acquire patent, trademark, and other IP rights for them; and license the rights for products and technologies.
+● Strengthen our intellectual property portfolio by placing personnel in key positions to manage our IP.
+● Take environmental action in line with a mid- range action plan and “Environmental Vision 2050,”a statement of our long-term goals for reducing our environmental impacts. Drive programs to develop and manufacture low-impact products, reduce energy use, recover and recycle end-of-life products, ensure compliance with international substance regulations, and improve environmental management systems.
+● Secure talent by providing role-based compensation and actively promoting good people internationally.
+● Conduct disaster drills, prepare earthquake disaster management and response plans, and establish business continuity plans to mitigate the effects of disasters to the extent possible.
+● Insure against losses arising from earthquakes. (However, the scope of indemnification is limited.)
+● Ensure compliance by building a robust compliance framework in each country and business and through internal awareness campaigns.
+● Treat compliance as a high management priority, and develop measures to prevent and control potential issues as appropriate.
+ Board of Directors
+        Group-business management of serious risks (vertical/operations)
+  Report 4
+Risk management department
+Monitoring
+(Head Office organization) Head Office supervisory departments
+         2
+Operations division A
+2 Operations division B
+2 Operations division C
+3
+   1 The Chief Risk Management Officer in the Epson Group is the president of Seiko Epson.
+2 The heads of divisions own responsibility for managing risks in their respective businesses and subsidiaries.
+3 The heads of Seiko Epson Head Office organizations own responsibility for managing risks in their areas of operations, both in their respective businesses and across companies in the Epson Group.
+Actions to Control Serious Risks
+Epson treats serious risks that could have serious consequences on the company as follows:
+(1) We identify risks that could have serious adverse effects
+on Epson Group management. These serious Group-wide risks are owned by the appropriate departments in the Seiko Epson Head Office. These departments draft and execute a control plan, monitor the progress of the plan, and evaluate the effectiveness of the control activities.
+(2) We identify risks that could have serious adverse effects on business operations. These serious business risks are owned by the chief operating officer of the relevant business. Personnel draft and execute a control plan, monitor the progress of the plan, and evaluate the effectiveness of the control activities under the supervision of the COO.
+Crisis Management
+Epson has a standing Crisis Management Committee. The committee is chaired by the president. The general administrative manager in charge of risk management serves as vice-chair. The rest of the committee is made up of the
+4 The Seiko Epson risk management department monitors overall risk management in the Epson Group, makes corrections and adjustments thereto, and ensures the efficacy of risk management programs.
+(3) The handling of serious Group-wide risks and serious business risks is reported to and discussed by the Corporate Strategy Council on a quarterly and half-yearly basis, and we strive to ensure the effectiveness of control plans by revising them as needed. The president of Seiko Epson reports important risk management affairs to the board of directors every quarter.
+Environmental risks
+Hiring and personnel retention risks
+Risks from natural or other disasters
+Legal, regulatory, licensing and similar risks
+●
+●
+●
+●
+●
+An environmental problem could arise that would require us to pay damages and/or fines, bear costs for cleanup, or halt production.
+New regulations could be enacted that would require major expenditures.
+We may be unable to hire and retain talented personnel to develop advanced new technologies and manufacture advanced new products.
+Our operating results could be adversely affected by any number of unpredictable events, including but not limited to natural disasters, pandemics involving new strains of influenza virus, infection by computer viruses, leaks or theft of customer data, reputational damage on social media, failures of mission-critical internal IT systems, cyber attacks, supply chain disruptions, and acts of terrorism or war.
+Epson conducts business worldwide and could incur reputational damage, higher costs, or other negative consequences such as large civil fines and constraints on its activities if it were to violate international law, be investigated by authorities, or be subjected to stricter laws or regulations.
+Epson Group sales & manufacturing companies
+            Risk Management Cycle
+        Control plan execution (DO)
+Risk assessment (CHECK)
+Control plan creation (PLAN)
+Identification of serious risks (ANALYZE)
+       general managers of supervisory departments at the Head Office. An organization and a predetermined crisis management program are in place to enable us to rapidly mount a Group-wide response in the event of a crisis.
+   65
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 66
+
+       Value Creation Infrastructure (Governance)
+           Director Profile (Current as of October 1, 2018)
+    Minoru Usui
+President and Representative Director
+Career Profile
+11/1979 Joined Shinshu Seiki Co. Ltd. (now Seiko Epson Corp. [SEC])
+4/1997 General Manager, IJ Development & Design Department, Imaging & Information Products Operations Division, SEC
+4/2002 Deputy Chief Operating Officer, Imaging & Information Products Division, SEC
+6/2002 Director, SEC
+11/2004 Deputy General Administrative Manager,
+Corporate Research & Development Division, SEC
+11/2005 General Administrative Manager, Production
+Engineering & Development Division, SEC
+7/2007 General Administrative Manager, Corporate
+Research & Development Division, SEC 10/2007 Managing Director, SEC
+6/2008 Representative Director/President, SEC (to present)
+Tatsuaki Seki
+Director, Executive Officer
+General Administrative Manager, Management Control Division
+Career Profile
+4/1983 Joined Epson Corp. (now Seiko Epson Corp. [SEC]) 11/2005 General Manager, BS Business Management
+Department, SEC
+10/2014 General Manager, Financial & General
+Accounting Department, SEC
+10/2015 Deputy General Administrative Manager,
+Management Control Division, SEC
+6/2016 Director, Executive Officer, SEC (to present)
+Chief Compliance Officer, SEC (to present) General Administrative Manager, Management Control Division, SEC (to present)
+Koichi Kubota
+Representative Director, Senior Managing Executive Officer Chief Operating Officer, Printing Solutions
+Operations Division
+Career Profile
+4/1983 Joined Epson Corp. (now Seiko Epson Corp. [SEC]) 11/1999 General Manager, TP Sales Planning Department, SEC 7/2008 Chief Operating Officer, Visual Instruments Operations
+Division, SEC 6/2010 Executive Officer, SEC
+10/2011 Chief Operating Officer, Visual Products Operations Division, SEC 6/2012 Director, SEC
+6/2013 Chief Operating Officer, Printer Operations Division, SEC 6/2015 Managing Director, SEC
+4/2016 Deputy General Administrative Manager, Corporate Planning Division, SEC
+6/2016 Director, Managing Executive Officer
+4/2017 Chief Operating Officer, Printing Solutions Operations
+Division, SEC (to present)
+6/2017 Director, Senior Managing Executive Officer, SEC
+10/2018 Representative Director, Senior Managing Executive Officer, SEC (to present)
+Hideaki Omiya
+Outside Director
+Career Profile
+Outside
+Independent Director
+Mari Matsunaga Outside Director
+Outside Director
+Career Profile
+4/1977 Joined Japan Recruit Center (currently Recruit Holdings Co., Ltd.)
+7/1986 Chief Editor, Shushoku Journal, Recruit 7/1988 Chief Editor, Travaille, Recruit
+7/1997 General Manager, Planning Div., Gateway
+Business Dept., NTT Mobile Communications
+Network Inc. (currently NTT Docomo, Inc.) 4/2000 President & Director, Mari Matsunaga Office 6/2012 Outside Director, MS & AD Insurance Group
+Holdings, Inc. (to present)
+Outside Director, Terumo Corporation 6/2014 Outside Director, ROHTO Pharmaceutical Co.,
+Ltd. (to present)
+6/2016 Outside Director, SEC (to present)
+Chikami Tsubaki Outside Director
+Outside Director
+Audit & Supervisory Committee Member
+Career Profile
+4/1970 Joined Ebara Infilco. Co. Ltd. (now Ebara Corporation)
+5/1975 Joined Asahi & Co. (now KPMG AZSA LLC) 3/1979 Registered as a certified public accountant 7/1999 Managing Director, asahi & Co. (now KPMG
+AZSA LLC)
+7/2004 Chief Executive, Japanese Institute of Certified
+Public Accountants
+6/2013 Outside Audit & Supervisory Board Member,
+NKSJ Holdings, Inc. (now SOMPO Holdings, inc.) 6/2014 Statutory Auditor, Heiwa Real Estate Co., Ltd. (to
+present)
+6/2016 Outside Director, Audit & Supervisory
+Committee Member, SEC (to present)
+Audit & Supervisory Committee Members
+Taro Shigemoto
+Independent
+New
+          6/1969 Joined Mitsubishi Heavy Industries, Ltd. (MHI) 6/2002 Director, MHI
+6/2005 Director, Member of the Board, Managing
+Executive Officer, MHI
+4/2007 Director, Member of the Board, Executive Vice
+President, MHI
+4/2008 Director, Member of the Board, President &
+CEO, MHI
+4/2013 Chairman of the Board, MHI (to present) 6/2014 Outside Director, SEC (to present)
+6/2016 Outside Director, Mitsubishi Corporation (to
+present)
+6/2018 Outside Director, Nomura Research Institute,
+Director
+Full-Time Audit & Supervisory Committee Member
+Career Profile
+4/1985 Joined Seiko Epson Corp. (SEC)
+4/2003 General Manager, TP Business Management
+Department, SEC
+2/2014 President, Epson Engineering (Shenzhen) Ltd. 6/2016 Special Audit & Supervisory Officer & General
+Administrative Manager, Audit & Supervisory
+Ltd. (to present)
+Committee Office, SEC
+6/2018 Director, Full-Time Audit & Supervisory
+Committee Member, SEC (to present)
+          Masayuki Kawana
+Director, Executive Officer
+General Administrative Manager, Human Resources Division/CSR Management Office
+Chairman, Epson Sales Japan Corporation
+Career Profile
+4/1988 Joined Seiko Epson Co-op
+3/1999 Joined Seiko Epson Corp. (SEC) 10/2008 General Manager, Human Resources
+Department, SEC
+6/2014 Director, SEC
+General Administrative Manager, Human
+Resources Department, SEC (to present)
+6/2015 Representative Director/President, Orient
+Watch Co., Ltd.
+6/2016 Director, Executive Officer, SEC (to present)
+10/2016 General Administrative Manager, CSR Management Office, SEC (to present)
+6/2018 Chairman, Epson Sales Japan Corp. (to present)
+Yasunori Ogawa
+New
+Michihiro Nara
+Outside
+Independent Director
+Independent
+Yoshio Shirai
+Outside Director
+Audit & Supervisory Committee Member
+Career Profile
+Outside
+Independent Director
+      Director, Executive Officer
+Chief Operating Officer, Visual Products Operations Division/General Administrative Manager, Technology Development Division
+Career Profile
+4/1988 Joined Seiko Epson Corp. (SEC)
+4/2008 General Manager, VI Business Management
+Department, SEC
+10/2008 General Manager, VI Planning & Design
+Department, SEC
+4/2017 Chief Operating Officer, Visual Products
+Operations Division, SEC (to present) 6/2017 Executive Officer, SEC
+6/2018 Director, Executive Officer, SEC (to present) 10/2018 General Administrative Manager, Technology
+Development Division, SEC (to present)
+Outside Director
+Audit & Supervisory Committee Member
+Career Profile
+      4/1974 Registered as an attorney-at-law
+7/1988 Member, Tokyo Local Mental Health Inquiry Commission 4/1995 Managing Director, Japan Federation of Bar Associations
+Vice-Chairman, Daiichi Tokyo Bar
+4/2006 Vice-Chairman, Japan Federation of Bar Associations
+Chairman, Daiichi Tokyo Bar
+6/2007 Commissioner, Independent Central Committee on
+Validation of Pension Records, Ministry of Internal
+Affairs & Communications
+3/2011 Member, Legislative Council of the Ministry of Justice 6/2013 Outside Audit & Supervisory Board Member, SEC 6/2014 Outside Director, Oji Holdings Corp. (to present) 6/2015 Outside Audit & Supervisory Board Member, Chori Co., Ltd.
+Outside Director, Nihon Tokushu Toryo Co., Ltd. (to present) 6/2016 Outside Director, Audit & Supervisory Committee
+Member, SEC (to present)
+Outside Director, Audit & Supervisory Committee Member, Chori
+6/2001 Director, Toyota Motor Corporation (Toyota) 6/2003 Managing Officer, Toyota
+6/2005 Senior Executive Managing Member of the Board
+of Directors, Toyota
+6/2007 Executive Vice President, Member of Board, Hino
+Motors, Ltd.
+6/2008 President, Member of the Board, Hino Motors 6/2013 Adviser to Hino Motors
+Vice Chairman of the Board of Toyota Tsusho
+Corporation
+6/2015 Adviser, Toyota Tusho
+6/2016 Outside director, Audit & Supervisory Committee Member, SEC (to present)
+6/2017 Advisor, Hino Motors
+Outside Director, Audit & Supervisory Committee Member, Fujikura Ltd. (to present)
+67 Epson Group Integrated Report 2018 Epson Group Integrated Report 2018 68
+ 
+       Consolidated Financial Highlights
+  JGAAP (Consolidation)
+IFRS (Consolidation)
+           FY2007
+1,347.8 368.4 57.5 63.2 52.0 19.0
+1,139.1 447.2 342.2
+112.0 △ 50.7 61.2
+82.8 63.9 79.2 39.3
+4.2
+5.2
+4.7 32.9
+Net income (loss) per share (EPS) Shareholders’equitypershare(BPS) 2,277.45
+FY2008
+1,122.4 289.4 △ 1.5 5.3 △ 89.5 △ 111.3
+917.3 302.6 351.2
+FY2009
+985.3 259.4 18.2 13.8 △ 0.7 △ 19.7
+870.0 281.2 311.6
+FY2010
+973.6 262.9 32.7 31.1 15.3 10.2
+798.2 269.2 272.1
+FY2011
+877.9 248.8 24.6 27.0 15.6 5.0
+740.7 246.4 239.8
+26.6 △ 31.5 △ 4.8
+52.1 38.9 37.6 33.3
+2.0
+3.5
+3.1 99.2
+26.22 1,377.60 26.00
+44.24 0.84
+313.9 175.6 178.1 210.3
+79.08 108.98
+75,303 19,765 55,538
+FY2012
+851.2 234.4 21.2 17.6 △ 3.4 △ 10.0
+778.5 256.7 271.8
+FY2013
+Revenue 1,008.4
+FY2014
+1,086.3 395.9 101.2 131.3 132.5 112.5
+1,006.2 494.3 185.9
+108.8
+FY2015
+1,092.4 397.6 84.9 94.0 91.5 45.7
+941.3 467.8 141.7
+113.0
+FY2016
+1,024.8 365.9 65.8 67.8 67.4 48.3
+974.3 492.1 146.5
+FY2017
+1,102.1 400.8 74.7 65.0 62.6 41.8
+1,033.3 512.7 166.5
+84.2 △ 74.6 9.6
+50.3 79.4 49.4 49.6
+8.3
+7.4
+6.8 52.2 41.7
+118.78 1,455.67 62.00
+15.92 1.30
+250.1 320.4 233.2 298.2
+110.85 129.66
+76,391 19,436 56,955
+ Statement of Income (Billions of yen)
+              Statement of Income (Billions of yen)
+             Net sales
+Gross profit
+Operating income (loss)
+Ordinary income
+Income (loss) before income taxes and minority interests Net income (loss)
+Total assets
+Shareholders’ equity*1 Interest-bearing liabilities*2
+Net cash provided by (used in) operating activities Net cash provided by (used in) investing activities Free cash flows
+Research and development costs Capital expenditures Depreciation and amortization Shareholders’equity ratio
+ROE (net income (loss)/average shareholders’ equity at beginning and end of year)
+ROA (Ordinary income/average total assets at beginning and end of year)
+ROS (Ordinary income (loss)/net sales) Consolidated dividend payout ratio
+44.2 61.0 16.7
+82.0 55.6 78.4 33.0
+29.7
+0.5
+0.5 -
+△ 566.92 1,541.16 26.00
+- 0.86
+368.7 236.6 262.1 255.0
+100.53 143.48
+72,326 24,190 48,136
+56.5 43.2 13.3
+68.8 25.9 47.3 32.3
+△ 6.8
+1.6
+1.4 -
+△ 99.34 1,407.92 10.00
+- 1.03
+345.0 217.6 212.9 209.8
+92.85 131.15
+77,936 22,602 55,334
+32.3 23.6 8.7
+54.3 31.8 41.1 33.7
+3.7
+3.7
+3.2 39.0
+51.25 1,347.71 20.00
+25.99 0.99
+367.5 199.2 189.5 217.3
+85.72 113.12
+74,551 20,704 53,847
+42.9 39.5 3.4
+49.9 43.1 39.3 33.0
+△ 4.0
+2.3
+2.1 -
+△ 56.41 1,435.20 20.00
+- 0.64
+266.6 200.3 175.2 209.1
+83.11 107.14
+68,761 18,234 50,527
+Gross profit
+Business profit*4
+Profit from operating activities
+Profit before tax
+Profit for the period attributable to owners of the parent company
+Total assets
+Equity attributable to owners of the parent company Interest-bearing liabilities
+Net cash provided by (used in) operating activities Net cash provided by (used in) investing activities Free cash flows
+Research and development costs
+Capital expenditures
+Depreciation and amortization
+Equity attributable to owners of the parent company ratio
+ROE (Profit for the period attributable to owners of the parent company/Beginning and ending balance average equity attributable to owners of the parent company)
+ROA (Business profit/Beginning and ending balance average total assets)
+ROS (Business profit/revenue)
+Consolidated dividend payout ratio
+Consolidated dividend Payout Ratio (Based on Business Profit)*5
+Basic earnings per share (EPS)
+Equity attributable to owners of the parent company per share (BPS) Cash dividends per share
+Price Earnings Ratio (PER) Price Book-value Ratio (PBR)
+Japan
+The Americas Europe Asia/Oceania
+Yen/U.S. dollars Yen/Euro
+Total Domestic Overseas
+362.5 90.0 79.5 77.9 84.2
+908.8 362.3 220.5
+114.8 △ 41.2 73.6
+48.8 37.8 40.7 39.9
+27.7
+10.4
+8.9 10.6 14.2
+235.35*6 1,012.83*6 50.00
+6.82 1.58
+280.9 260.2 218.4 248.8
+100.23 134.37
+73,171 18,372 54,799
+96.8 75.7 21.1
+52.7 75.3 43.2 50.5
+10.1
+6.9
+6.4 43.9 45.9
+136.82 1,397.40 60.00
+17.13 1.68
+251.3 290.9 211.9 270.5
+108.38 118.79
+72,420 19,175 53,245
+                                                                   Statement of Financial Position (Billions of yen)
+              Statement of Financial Position (Billions of yen)
+                                     Statement of Cash Flows (Billions of yen)
+              Statement of Cash Flows (Billions of yen)
+                        △ △
+△
+△
+△
+△
+△
+32.7 76.0
+47.8 45.4 44.4 49.1
+26.3
+10.6
+9.3 18.3 29.0
+△
+51.5 61.4
+53.1 69.4 45.3 49.7
+9.5
+8.7
+7.8 46.9 36.1
+△
+               Financial and Management Indicators (Billions of yen・%)
+              Financial and Management Indicators (Billions of yen・%)
+                                                                                                                   Per Share Data (Yen)
+              Per Share Data (Yen)
+           97.24
+314.61*6 1,381.66*6 115.00
+6.77 1.54
+276.2 304.6 230.9 274.4
+109.93 138.77
+69,878 18,627 51,251
+127.94 1,307.58 60.00*7
+14.21 1.39
+264.0 320.0 226.3 282.0
+120.14 132.58
+67,605 18,699 48,906
+                          Cash dividends per share
+Price Earnings Ratio (PER) Price Book-value Ratio (PBR)
+Japan
+The Americas Europe Asia/Oceania
+Yen/U.S. dollars Yen/Euro
+Total Domestic Overseas
+32.00
+27.61 1.18
+427.9 274.4 344.4 301.0
+114.28 161.53
+88,925 25,735 63,190
+ Index of Stock Price (Multiples)
+              Index of Stock Price (Multiples)
+                          Sales Breakdown by Region (Billions of yen) *3
+             Revenue Breakdown by Region (Billions of yen)
+                                                   Average Exchange Rate for the Period (Yen)
+              Average Exchange Rate for the Period (Yen)
+                         Number of Employees at Period End (Person)
+              Number of Employees at Period End (Person)
+                                                  69
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 70
+*1 Shareholders’equity = total net assets - minority interests
+*2 Lease obligations are included in interest-bearing liabilities.
+*3 Sales (revenue) by region is based on the location of the customers.
+*4 *5 *6
+*7
+Business profit is calculated by subtracting Cost of sales and Selling, general and administrative expenses from Revenue.
+Calculated based on profit after an amount equivalent to the statutory effective tax rate is deducted from business profit.
+Basic earnings per share (EPS) and equity attributable to owners of the parent company per share (BPS) were calculated under the assumption that the shares split took effect at the beginning of the year ended March 31, 2014.
+Seiko Epson Corporation (the“Company”) completed the Company’s ordinary shares split with an effective date of April 1, 2015. As a result, each share of the Company’s ordinary shares was split into two shares.
+     
+ 71
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 72
+Global Network
+In 1968, Epson established its first production site outside Japan, in Singapore. Today, Epson has sales and marketing sites, service sites, as well as production and R&D sites around the globe to accurately identify, and swiftly and flexibly meet the needs of customers in different regions.
+Sales/Service Subsidiaries and Affiliates
+1 Japan
+2 Epson America, Inc., San Jose Office
+3 Epson America, Inc., Schaumburg Office
+4 Epson America, Inc., Miami Office
+5 K-Sun Corporation
+6 Epson Canada Ltd.
+7 Epson de Mexico, S.A. de C.V.
+8 Epson Guatemala, S.A.
+9 Epson Costa Rica, S.A.
+10 Epson Venezuela, S.R.L.
+11 Epson Colombia Ltda.
+12 Epsodecua Cia, Ltda.
+13 Epson Peru S.A.
+14 Epson Chile, S.A.
+15 Epson Argentina S.R.L.
+16 Epson do Brasil Industria e Comercio Ltda.
+17 Epson (U.K.) Ltd.
+18 Epson (U.K.) Ltd., Ireland Office
+19 Epson Deutschland GmbH
+20 Epson Deutschland GmbH, Switzerland Office
+21 Epson Deutschland GmbH, Austria Office
+22 Epson France S.A.S.
+23 Epson Iberica, S.A.U.
+24 Epson Iberica, S.A.U., Portugal Office
+India Pvt.
+India Pvt.
+India Pvt.
+India Pvt.
+India Pvt.
+India Pvt.
+India Pvt.
+India Pvt.
+India Pvt.
+India Pvt.
+India Pvt.
+India Pvt. Ltd., Bangladesh Office (Thailand) Co., Ltd.
+Manufacturing Subsidiaries and Affiliates
+1 Japan
+2 Epson Portland Inc.
+3 Epson Paulista Ltda.
+4 Epson Telford Ltd.
+5 Fratelli Robustelli S.r.l.
+6 Tianjin Epson Co., Ltd.
+7 Epson Surface Engineering (Zhenjiang) Co., Ltd. 8 Shanghai Sanhuan Magnetics Co., Ltd.
+9 Epson Wuxi Co., Ltd.
+10 Epson Precision Suzhou Co., Ltd. 11 Fujian Epson Co., Ltd.
+12 Orient Watch (Shenzhen) Ltd.
+13 Epson Precision (Shenzhen) Ltd.
+14 Epson Engineering (Shenzhen) Ltd. 15 E&G Electronic (Shenzhen) Ltd.
+16 Epson Precision (Philippines), Inc. 17 Epson Precision (Thailand) Ltd.
+18 Epson Precision Malaysia Sdn. Bhd. 19 Epson Precision (Johor) Sdn. Bhd. 20 Singapore Epson Industrial Pte. Ltd. 21 PT Epson Batam
+22 PT. Indonesia Epson Industry
+R&D Subsidiaries and Affiliates
+1 Japan
+2 Epson America, Inc. (San Jose Development Center) 3 Epson Canada Ltd. (Development Center)
+4 Epson Canada Ltd. (Vancouver Design Center)
+Epson Europe B.V.
+18 4 17 2 19
+37
+31 32
+33
+34
+30 41
+Epson (China) Co., Ltd.
+4 42 2
+Epson America, Inc.
+2235 29 36 205 21 38
+40
+2625 39
+23 27
+5 63 3
+366
+2428 667 22
+43
+46
+47
+50
+49
+71 9 10 69 72 70
+Seiko Epson Corp. Head Office Japan
+Europe
+25 For.Tex S.r.l.
+26 Epson Italia S.p.A.
+27 Epson Italia S.p.A., Istanbul Office (Turkey) 28 Epson Italia S.p.A., Athens Office (Greece) 29 Epson Europe Electronics GmbH
+30 Epson CIS L.L.C.
+31 Epson Europe B.V., Norway Office
+32 Epson Europe B.V., Denmark Office
+33 Epson Europe B.V., Sweden Office
+34 Epson Europe B.V., Finland Office
+35 Epson Europe B.V., Belgium Office
+36 Epson Europe B.V., Czech Republic Office 37 Epson Europe B.V., Poland Office
+38 Epson Europe B.V., Hungary Office
+39 Epson Europe B.V., Romania Office
+40 Epson Europe B.V., Kiev Office
+41 Epson Europe B.V., Moscow Office
+42 Epson Europe B.V., Kazakhstan Office
+43 Epson Europe B.V., Israel Office
+44 Epson Europe B.V., Saudi Arabia Office
+45 Epson Europe B.V., Middle East Office
+46 Epson Europe B.V., Kenya Office
+47 Epson Europe B.V., South Africa Office
+48 Epson India Pvt. Ltd.
+49 Epson
+50 Epson
+51 Epson
+52 Epson
+53 Epson
+54 Epson
+55 Epson
+56 Epson
+57 Epson
+58 Epson
+59 Epson
+60 Epson
+61 Epson
+62 Epson
+63 Epson
+64 Epson Malaysia Sdn. Bhd. 65 PT. Epson Indonesia
+45
+44 51
+52 60
+78 79 62
+18
+53 54
+Epson Singapore 17
+7
+55
+48 56 Pte.Ltd. 61
+8
+57 6316
+10 11
+58 59
+31 33 34 32
+18
+64 19 20 4 21
+22 65
+66
+36 13
+73
+74 11 75 13 12
+14 76 15 2 77
+4
+9
+12
+6878801 1
+1
+42
+22 2936
+20525 21 38
+26 39
+23
+24 27 57 63 58
+72
+17351937 81 50 7411 1415
+28
+59
+China, India and the surrounding area
+73 Epson (China) Co., Ltd., Chengdu Office
+74 Epson (China) Co., Ltd., Chongqing Office
+75 Epson (China) Co., Ltd., Guangzhou Office
+76 Epson (China) Co., Ltd., Shenzhen Office
+77 Epson Hong Kong Ltd.
+78 Epson Taiwan Technology & Trading Ltd.
+79 TekCare Corporation
+80 Epson Korea Co., Ltd.
+81 Epson Australia Pty. Ltd.
+82 Epson Australia Pty. Ltd., New Zealand Office
+Regional Headquarters
+1 Epson America, Inc.
+2 Epson Europe B.V.
+3 Epson (China) Co., Ltd.
+4 Epson Singapore Pte. Ltd.
+Branches
+1 Seiko Epson Corporation, Korea Office
+2 Seiko Epson Corporation, Hong Kong Office
+Ltd., New Delhi Office Ltd., Jaipur Office
+Ltd., Ahmedabad Office Ltd., Kolkata Office
+Ltd., Mumbai Office
+Ltd., Pune Office
+Ltd., Secunderabad Office Ltd., Chennai Office
+Ltd., Coimbatore Office Ltd., Cochin Office
+Ltd., Sri Lanka Office
+Philippines Corporation Vietnam Co., Ltd.
+66 Epson (China) Co., Ltd., Shenyang Office 67 Epson (China) Co., Ltd., Jinan Office
+68 Epson (China) Co., Ltd., Nanjing Office 69 Epson (China) Co., Ltd., Shanghai Office 70 Epson (China) Co., Ltd., Hangzhou Office 71 Epson (China) Co., Ltd., Xian Office
+72 Epson (China) Co., Ltd., Wuhan Office
+as of September 30, 2018
+82 51
+52 60
+75 13 12 14 76 15 2 77
+78 79
+62 16
+49
+53
+54 55
+48 56
+17
+61
+73
+70
+71
+163
+67
+68 7 8 9 10 69
+80 1
+
+       Group Outline
+Shareholder and Share Information
+ Company Name
+Seiko Epson Corporation
+Founded
+May 18, 1942
+Head Office
+3-3-5 Owa, Suwa-shi, Nagano, Japan
+Paid-in Capital
+¥53,204 million
+ Shareholder’s Equity
+Principal Shareholders
+The Master Trust Bank of Japan, Ltd. (Trust Account) Sanko Kigyo Kabushiki Kaisha
+Yasuo Hattori
+The Dai-ichi Life Insurance Company, Limited
+Seiko Epson Corporation Employees’Shareholding Association
+(as of March 31, 2018)
+(as of March 31, 2018)
+49,052 13.91 20,000 5.67 11,932 3.38
+8,736 2.47
+7,229 2.05
+Distribution of Ownership among Shareholders
+as of March 31, 2018
+     Total number of shares authorized to be issued
+ 1,214,916,736
+  Total number of shares issued
+  399,634,778
+  Number of shareholders
+ 44,571
+  Japanese individuals and others*1
+ 30.06%
+financial institutions
+  Japanese
+36.10%
+      Revenue (consolidated)
+¥ 1,102.1billion (FY2017)
+ Number of employees
+Epson Group 76,391 (consolidated):
+Parent company: 12,502 (as of March 31, 2018)
+   Group companies
+87
+(includes parent company)
+Japan: 16, Overseas: 71 (as of March 31, 2018)
+ Breakdown of ownership
+Japanese securities companies
+ Shareholders
+Number of shares held (thousand shares)
+Shareholding ratio (%)
+ 3.27%
+ Japan Trustee Services Bank, Ltd. (Trust Account)
+25,593
+7.26
+ Other Japanese corporations
+Seiko Holdings Corporation
+12,000
+3.40
+Noboru Hattori
+11,199
+3.17
+Foreign institutions and others
+13.66%
+Mizuho Trust & Banking Co., Ltd. Retirement benefit trust (Mizuho Bank, Ltd. account)
+8,153
+2.31
+Percentage of Sales Revenue by Region
+Asia/ Oceania
+Group Company Breakdown
+Percentage of Employees by Region (consolidated)
+* Seiko Epson owns 47,232,611 treasury shares but has been excluded from the list of major shareholders. The % of shares held is calculated as a % of the total number of shares issued, minus treasury shares. Numbers are rounded to the nearest hundredth.
+* Shares held are rounded off to the nearest thousand.
+* Noboru Hattori passed away on August 10, 2017. His name appears on the list because share transfer procedures had not been
+16.91%
+*1 Including the treasury stock
+Trust & Custody Services Bank, Ltd. (security investment trust account)
+6,308
+1.79
+  FTSE4Good Index Series
+UK (June 2018) https://www.ftse.com/products/indices/FTSE4Good
+ Morningstar Socially Responsible Investment Index
+Japan (January 2018) https://www.morningstar.co.jp/sri/index.htm (Japanese)
+ Japan
+completed as of March 31, 2018.
+Inclusion in Social Responsible Investment (SRI) and ESG Indexes
+    Japan
+Asia/ Oceania
+Percentage of employees by region
+25.4%
+The Americas In 2018 Seiko Epson has again been selected as a
+   27.1% Europe
+Percentage of
+sales revenue
+by region
+(FY2017)
+22.6% The Americas
+67.1%
+21.2% 29.1% 3.0% been selected when the GPIF began ESG investing.
+constituent of the SRI indexes on the right, as well as (consolidated) Europe to the FTSE Blossom Japan Index and the MSCI (as of March 31, 2018) Japan Empowering Women Index (WIN), which have
+4.5%
+Manufacturing/ 3,000 R&D 2,500
+2,000
+1,500 1,000 500
+   Monthly Share Price and Volume Trend
+(Yen)
+Share price
+Volume
+(Thousand shares)
+150,000 120,000 90,000 60,000 30,000
+  Manufacturing/ R&D
+7
+24
+      73
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 74
+Sales/ Service
+Japan: 16 (as of March 31, 2018)
+Sales/ Service
+Overseas: 71 (as of March 31, 2018)
+9470 0 6 12 6 12 6 12 6 12 6 12 6 12 6 12 6 12 6 12 6 12 6 12 6
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 (Year)
+* Seiko Epson completed a 2-for-1 split of the Company’s common shares effective April 1, 2015. * The share price chart has been split adjusted.
+      

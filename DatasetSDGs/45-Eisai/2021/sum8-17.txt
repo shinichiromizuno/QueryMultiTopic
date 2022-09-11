@@ -1,0 +1,193 @@
+Financial Capital Financial Strategy 10.1% Average ROE from fiscal 2011 to fiscal 2020
+Aiming to continuously maximize shareholder value based on “Medium- to Long-Term ROE Management,” “Sustainable and Stable Shareholder Returns,” and “Value-Creative Investment Criteria for Growth”
+ Eisai has set out a financial strategy map as its CFO policy to continuously maximize shareholder value. This strategy consists of three key themes: “ROE management,” “Dividend policy,” and “Value-Creative Investment Criteria (VCIC).”
+■ ROE Management —Targeting a positive equity spread over the medium- to long-term
+Eisai has been working to improve its medium- to long-term ROE since the beginning of the 2000s. Eisai aims to avoid short-termism and to achieve ROE above cost of equity over the medium- to long-term (e.g., 10- year average). In other words, Eisai aims to create a “positive equity spread (ROE – Cost of shareholders’ equity).” Cost of shareholders’ equity is the return demanded by shareholders, and Eisai has conservatively assumed a cost of shareholders’ equity of 8%. Eisai is generating a historical 10-year average ROE of 10.1% and a positive equity spread of 2.1%.
+●Trends in ROE by fiscal year and medium- to long-term value creation
+(%) 20
+14.3
+5
+0
+■ROE (%)
+Using financial leverage
+Eisai has pursued an optimal capital structure while maintaining financial integrity. Aiming to maintain a single A level credit rating as a general rule, we have set the KPIs of Net DER*1 of -0.3 to 0.3, a ratio of equity attributable to owners of the parent of 50%-60% and Net Debt*2/EBITDA*3 of less than 3 years. By undertaking business activities based on financial discipline, we are steadily reducing interest-bearing debt, and we secured a satisfactory net cash position as of the end of fiscal 2020. Net DER was -0.27, the ratio of equity attributable to owners of the parent was 64.5% and Net Debt/EBITDA was -2.1 years. We have secured not only sufficient financial integrity and liquidity on hand to absorb the impact of COVID-19 but also sufficient achievement of KPIs in this period of proactive investment.
+ Historical 10-year average ROE (10.1%)18.6 Cost of equity (8%)
+    15
+10
+10.9
+9.4
+10.4 8.8
+       6.1
+(Fiscal year)
+ 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020●Strong balance sheet —Dividend sustainability by maintaining optimal capital structure—
+* Results up to end of fiscal 2012 were calculated pursuant to J-GAAP, while results from end of fiscal 2013 onward were calculated pursuant to IFRS.
+(Billions of yen)
+700
+600 500 400 300 200 100
+0
+(100) (200)
+416.8
+469.4 41% 47%
+0.27
+End of fiscal 2012
+526.3 54%
+0.08
+End of fiscal 2013
+598.7
+0.00
+End of fiscal 2014
+573.7
+-0.06
+End of fiscal 2015
+593.6
+-0.27
+End of fiscal 2017
+628.1
+-0.32
+End of fiscal 2018
+678.1
+-0.29
+End of fiscal 2019
+703.2
+-0.27
+End of fiscal 2020
+*1 Net debt equity ratio (Net DER) = (Interest- bearing debt (borrowings) - Cash and cash equivalents - Time deposits exceeding three months – Investment securities held by the parent company*4) / Equity attributable to owners of the parent
+       End of fiscal 2011
+7.6 7.7
+■ Ratio of equity attributable to owners of the parent ■ Net debt equity ratio (Net DER)*1 ■Equity attributable to owners of the parent ■Net interest-bearing debt*2 
+6.8
+   584.6 57%
+-0.11
+End of fiscal 2016
+*2
+*3 *4
+Net interest-bearing debt = Interest-
+bearing debt (borrowings) - Cash and cash equivalents - Time deposits exceeding three months, etc. - Investment securities held by the parent company*4
+Earnings Before Interest, Taxes, Depreciation and Amortization
+Investment securities held by the parent company except corporate venture investment (CVI) executed by the CVI department are included in the formula since fiscal 2013 under IFRS.
+61
+Equity spread: ROE – Cost of equity (CoE)
+The key indicator of shareholder value creation based on the residual income model*
+Eisai conservatively assumes cost of equity of 8% (risk-free rate of 2% + risk premium of 6%)
+* CFO policy (CHUOKEIZAI-SHA, 2020)
+Historical 10-year equity spread
+Historical 10-year average ROE: 10.1% − CoE 8% = 2.1% *Results up to fiscal 2012 were calculated pursuant to generally accepted
+accounting principles in Japan (J-GAAP), while results from fiscal 2013 onward were calculated pursuant to International Financial Reporting Standards (IFRS).
+ 64%
+ 65%
+   59%
+ 57%
+59%
+57%
+ 0.38
+ Increasing margins
+Eisai has focused on expanding high-profit global brands discovered and developed in-house, such as Lenvima®, Halaven®, and Fycompa®. Eisai is aiming to improve its margin by effective operation through utilizing partnerships and emphasizing careful selection of and concentration on priority projects.
+Improving turnover
+Eisai has managed the cash conversion cycle (CCC) effectively to control working capital, and has strived to improve asset efficiency through steps including selling assets including investment securities, and so on. The Corporate Governance Code, which was revised in June 2018, calls for the validation of benefits and risks of strategically held shares. Before the revision of the Code, Eisai had sold strategically held shares. In fiscal 2020, Eisai sold strategically held shares in 5 stocks (selling all shares of 4 stocks out of the 5) and part of 2 deemed holding shares.
+●The number of stocks held (Number by issuers)
+30 32 20
+10
+0 fiscal fiscal fiscal fiscal 2017 2018 2019 2020
+  25 21 17
+  ■ Dividend Policy
+Eisai returns profits to all shareholders in a stable and sustainable manner based on factors such as a strong balance sheet and comprehensive consideration of consolidated financial results, dividend on equity (DOE, ratio of equity attributable to owners of the parent) and free cash flow*1, as well as consideration of the signaling effect. We strive for an “optimal dividend policy based on an optimal capital structure” that depends on long-term balance sheet management, rather than a dividend payout ratio based on short-term performance. As a main KPI for dividends, from the perspective of balance sheet management, Eisai has adopted DOE, which indicates the ratio of dividends to consolidated net assets.
+■ VCIC (Value-Creative Investment Criteria)
+In the future, prioritization and selection of investments will become even more important for companies to achieve growth. Therefore, Eisai has determined Value-Creative Investment Criteria (VCIC) for its strategic investments to ensure value creation. When making investments, we use Net Present Value (NPV) and the Internal Rate of Return (IRR) spread using
+a risk-adjusted hurdle rate as KPIs. In principle, we select only those investments with a positive NPV and set a certain spread for IRR to assure value creation.
+In principle, Eisai strives to maintain dividends within the range of free cash flow over multiple years, while the current payout ratio is increasing. Eisai maintains
+a healthy balance sheet under present conditions. Therefore, we intend to maintain a dividend of 160 yen per share in fiscal 2021*2 with an intention to balance stable dividend payment and investment for corporate growth. Acquisition of treasury stock will
+be carried out appropriately after factors such as the market environment, theoretical share price, and capital efficiency (ROE) are taken into account.
+*1 “Net cash from operating activities”-“Capital expenditures (cash basis)” *2 Dividends per share subject to approval of Board of Directors
+In setting hurdle rates, we factor in all risk elements, such as the particular investment project, the investee country and liquidity. We have approximately 200 types of hurdle rates, and apply the risk-adjusted hurdle rate appropriate for each respective investment project.
+The Corporate Governance Code, which was revised in June 2018, calls for the allocation of management resources in a manner that takes into account the cost of shareholders’ equity. Eisai introduced VCIC in 2013 to ensure corporate value creation.
+  Formula of risk-adjusted hurdle rate
+Risk-adjusted hurdle rate = Risk free rate + β × Risk premium (+ liquidity premium)
+- Risk free rate: 10-year average yield of 10-year government bond - β: Defined by investment categories (risk profile)
+62
+Eisai Value Creation Report 2021
+Management Strategies Social Value Creation Social Value Creation Social Value Creation Foundation for Company Introduction (R&D) (Access to Medicines) (Human Capital) Supporting Value Creation
+
+ ■ Funding Policy
+Eisai’s funding policy is based on the pecking order theory. Eisai prioritizes cash on hand over debt, and equity financing is the last option.
+As an efficient funding measure, Eisai has adopted a Global Cash Management System (GCMS) for the effective cash utilization among group companies.
+■ Financial Strategy based on the ESG-Value Relevance Model
+In order to realize the value of ESG and non-financial information and link it to corporate value, it is necessary to synchronize ESG and ROE (return on equity). Eisai proposed a synchronization model (IIRC-PBR Model) regarding financial capital and non-financial capital value relevance based on Eisai’s corporate philosophy (human health care, or hhc) at the same time as the announcement of the International Integrated Reporting Council (IIRC) framework, taking into account longer-term capital efficiency (ROE and equity spread) and sustainability (importance of non-financial capital), and has accelerated the synchronization. Technically, shareholders’ equity is the sum of the book value of shareholders’ equity (BV) and market value added (MVA) that exceeds BV. The portion that exceeds
+PBR of 1X is related to ESG value, or “non-financial capital” related. First, under the 1 Intrinsic Value Model, MVA was defined as ESG/CSR value (cost of capital
+reduction effects), customer value, human value, and organizational value. In contrast to this, the 2 IIRC- PBR Model explains the relevance of six capitals
+under the IIRC framework, by positioning Book Value
+of Shareholders’ Equity (BV) as financial capital, and relating MVA to non-financial capital consisting of intellectual capital, human capital, manufactured capital, social and relationship capital and natural capital, based on the assumption that shareholder value equals long- term total market capitalization and also equals BV
+plus MVA. In the 3 Residual Income Model (RIM), it is held that MVA converges in the sum of present value of equity spread. Therefore, it can be considered that future financial value creation based on equity spread over the long term does not conflict with non-financial capital value such as ESG and MVA creation and is not mutually contradictory, and can be synchronized as part of stakeholder capitalism.
+●IIRC-PBR model (Value relevance of the six types of capital that compose corporate value)
+—Net assets (book value on accounting basis) are related to financial capital and market value added (MVA) is related to non-financial capital—
+Non-financial capital including ESG*1 increases long-term shareholder value Added value creation by non-financial capital indicated by PBR*2
+Neurology
+Oncology
+Intellectual Capital Human Capital
+Manufactured Capital
+Social and Relationship Capital
+Natural Capital Financial Capital
+   Trends in Eisai’s PBR (from the end of fiscal 2008 to end of fiscal 2019)
+ Enhancement of non-financial capital
+(Times)
+6
+5
+4 3
+2
+1 0
+End of fiscal 2008
+➡
+Continuous increase of shareholder value
+   hhc ⇒ESG➡SDGs*3 Contribution to patients’ value Contribution to employee value
+Conversion to future equity spread
+    *4
+ Non-financial capital
+ Market Value Added (MVA) (self-created goodwill)
+Potential Value
+   Net assets (book value on accounting basis)
+*1 Environment, Social, and Governance
+*2 Price Book-value Ratio
+*3 Sustainable Development Goals
+*4 ROE-Cost of Equity (CoE) (Eisai conservatively assumes cost of equity of 8%)
+Source: CFO policy (CHUOKEIZAI-SHA, 2020), partially re-edited
+63
+End of fiscal 2019
+
+In conjunction with the Non-Financial Capital and equity spread Value Relevance Model, the Intrinsic Value Model which relates non-financial capital to MVA, the IIRC-PBR Model, and the Residual Income Model (RIM) which posits a relationship between MVA and equity spread, are mutually complementary through the creation of MVA.
+In the Residual Income Model, it is proven mathematically that the present value of residual income is a function of equity spread (ROE). This suggests that the portion corresponding to PBR above 1X is the ESG value-added recognized by
+●Non-financial capital and equity spread value relevance model*1 1 Intrinsic Value Model*2
+investors, and that this should move into line with the relative strength of ROE over the ultra-long term. However, short-termism destroys this balance. For example, an attempt to reduce R&D and personnel expenses in the short term and buy back shares aggressively would undermine long-term sustainability. For that reason, Eisai promotes sustainable management that aims to increase ROE in the long term, looking at the average of 10 years via investment in R&D, and in people, with a long-term perspective.
+Shareholder Value
+2 IIRC-PBR Model
+   Sustainable Value (Value of ESG/CSR)Customer ValueHuman ValueOrganizational ValueIntellectual CapitalHuman CapitalManufactured CapitalSocial and Relationship CapitalNatural Capital
+   Market Value Added (MVA)
+  Book Value of Shareholders’ Equity (BV)
+ Financial Capital
+3 Residual Income Model(RIM) Shareholder Value = BV +
+t=1
+(IIRC framework)
+   Sum of Present Value of Equity Spread (MVA)
+∑(∞ N e t i n c o m e t − C o E × B V t - 1 )
+Residual Income
+Equity Spread × BV
+( ROE − CoE )×BV
+(Return on Equity attributable (Cost of Equity) to owners of the parent)
+ *1 CFO policy (CHUOKEIZAI-SHA, 2020), partially reedited *2 Financial Strategies for Maximizing Corporate Value (Doyukan, 2009)
+(1+CoE)
+tEnhancement of Non-Financial Capital for Corporate Strategy Purposes
+Practicing ESG management by visualizing the relationship between non-financial capital and financial capital
+Eisai has been developing studies on the relationship between non-financial capital, financial capital, and enhancement of corporate value, which many stakeholders have asked us to substantiate, and we are aiming to foster sustainable management with digital tools. The multi regression analysis of Eisai’s ESG KPIs indicated that its corporate value correlates not only with personnel expenses and R&D expenses, but also with the female manager ratio and the number of the users of the childcare system.
+For details about the study, we ask readers to refer to “Quantitative Analysis of Non-Financial Value” on pages 57 to 58, and “Newest Research with Harvard Business School” on page59.
+●Correlation between Female manager ratio and Operating profit ●Correlation between Number of male users of childcare leave program and ROE
+(%) 12 140 20 20
+(%) (Billions of yen)
+   10 8 6 4 2
+120 100 80 60 40 20
+16 16 12 12 88 44
+ 0*00*0
+  2014 2015 2016 2017 2018 2019 2020
+■ Operating profit (right)  ■ Ratio of women in management (left) * We positioned fiscal 2020 as a year of upfront investment for future growth.
+(Fiscal year)
+2014 2015 2016 2017 2018 2019 2020 (Fiscal year)
+■ ROE (right)  ■ Number of users of childcare program (male) (left)
+Source: Arranged from “Cockpit,” digital ESG platform designed by ABeam Consulting Ltd.64
+Eisai Value Creation Report 2021

@@ -1,0 +1,656 @@
+Chemical Substance Management
+ Chemical Substance Management throughout Product Life Cycles
+ The targets for 2020 agreed upon at the WSSD*1 call for the worldwide and comprehensive management of chemical substances throughout the product life cycle, from development to manufacturing, use and disposal, by 2020 in order to minimize the significant adverse effects on human health and the environment caused by the manufacture and use of chemical substances. Following this trend, the regulatory environment is changing, as new regulations on the management of chemical substances have been established not only in Europe and the United States, but also in Asian countries since 2015.
+In September 2015, the Sustainable Development Goals (SDGs) were adopted at the U.N. Summit. They comprise 17 goals and 169 targets to be achieved by 2030 to create a sustainable
+Chemical Substance Management System
+We are focussing on promoting the use of SDSs*2 across the Group not only for disclosing information related to chemical substances under regulatory control in Japan and overseas, but also for disclosing relevant information voluntarily so as to improve the quality of the Group’s information disclosure practices. Particularly for the GHS*3 system, we have introduced MSDgen.*4 and offer SDS and labels that are compliant with the laws and regulations of 40 countries, including Japan, in the official languages of each country. In 2019, we revised our SDS to accommodate the new additions to Taiwan's Priority Management Chemicals and the U.S.’ TSCA Active Inventory.
+*2,3,4 See the glossary on page 108.
+Chemical Substance Management System
+In the interest of ensuring safety, we confirm that all of the chemical substances constituting the raw materials and products handled by the Group conform with the laws and regulations of each country. We are also making progress with the creation of a Chemical Substance Management System to centrally manage these chemical substances. Introducing this system allows us to speed up chemical substance- related investigations (inventory in each country, the safety of products and raw materials, regulatory information, etc.) and to provide accurate information. We are now rolling out the system to plants that manufacture molded articles*17 and expanding application of volume tracking management to products for Taiwan and South Korea, in addition to Japan’s Act on the Evaluation of Chemical Substances and Regulation of Their Manufacture and Industrial Safety and Health Act as well as Europe’s REACH.*18 We will continue to enhance our
+world. Aimed at achieving the SDGs in 2030, the governments of each country have begun taking proactive actions. The Group (each of our plants and research institutes worldwide) is working on the SDGs through the management of chemicals carried out as part of our Responsible Care activities.
+In terms of its management of chemical substances, the Group has a system in place for studying and reviewing chemical substance-related laws and regulations in Japan and throughout the world from the product development phase onward. We manage the chemical substances contained in products in order to comply with the laws of the countries where we operate and to minimize environmental impacts throughout product life cycles.
+*1 See the glossary on page 108.
+▶ Status of GHS implementation and countries
+            Region
+Europe  United States Mexico  China  Taiwan  South Korea  Indonesia  Malaysia  Vietnam  Thailand  Japan 
+Compliant with the new HCS*6
+Compliant with TT-BCT*14 Compliant with JIS Z 7253*16
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+Co
+2018
+mpliant wi
+2020
+th
+    Prop 65*7
+          Compliant with CLP*5 categories
+ Compliant with GB/T 16483*9
+                 Compliant with NOM*8
+ Compliant with CNS15030 Z1051*10
+        Compliant with Occupational Safety and Health Act*11
+             Compliant with CLASS regulation*13
+        Compliant with 44/ M-DAG/PER/9*12
+                   Compliant with DIW notification*15
+      Countries in which we provide SDS: 40 (North America/Latin America: 4 countries, Europe: 25 countries, Asia/Oceania: 10 countries, Japan)
+*5 to 16 See the glossary on page 108.
+system for managing chemical substances in order to ensure even more meticulous management of these substances.
+*17 “Molded articles” here refers to all molded articles that have a defined shape with dimensions that can be measured. This applies to molded products and parts of devices, electronic components, paper, packaging materials, etc.
+ *18 See the glossary on page 108.
+▶ Chemical Substance Management System In Japan
+Overseas
+Bases/Plants
+Research laboratories  Sumitomo Bakelite Co., Ltd. Integrated Report 2020
+54
+Bases/Plants
+Research laboratories
+Databese
+Safety data, information on laws and regulations, etc. are applied to chemical substance management.
+WSSD 2020 goals
+o
+i
+t
+a
+m
+r
+o
+n
+s
+f
+h
+a
+r
+i
+n
+n
+g
+I
+             Message from the President
+ Value Creation
+ Business Strategy
+ Environment
+ Social
+ Governance
+ Data
+Product Liability
+The Group’s Basic Policy and System for Quality Assurance
+Our Group has established quality management systems
+In Japan Overseas
+(QMS) based on ISO 9001 and is continuing to acquire relevant
+certifications (a total of 36 sites have been certified as of May
+1, 2020). Recognizing the provision of products and services
+▶ Quality Management System
+   Sumitomo Bakelite Co., Ltd. (including Group companies in Japan and overseas)
+ Director in Charge of Safety/Environment/Quality/SBPS
+ General Manager of Corporate Quality Assurance Promotion Department
+  Information & Telecommunication Business Unit
+ Director in Charge of Operations
+ Staff serving concurrently in Corporate Quality Assurance Promotion Department
+ High Performance Plastic Business Unit
+ Director in Charge of Operations
+ Staff serving concurrently in Corporate Quality Assurance Promotion Department
+   Bases/Platnhtast customers can always feel satisfactioBnasaens/dPlapnetasce of mind Databese
+in using is an important social mission for our Company, all relevant departments collaborate on all processes—from product
+ Safety data, information on laws
+planning, research, design & development, preparation for
+and regulations, etc. are applied to
+ Each plant
+ Staff responsible for each plant
+ Staff serving concurrently in Corporate Quality Assurance Promotion Department Manager of Quality Assurance Department
+ Each plant
+ Staff responsible for each plant
+ Staff serving concurrently in
+Sumitomo Bakelite Co., Ltd. (includ
+Corporate Quality Assurance
+Promotion Department
+Manager of Quality Assurance
+Director in Charge of S
+Department
+ Researcphroduction, production, sales & service, toRqeuseaalirtcyhassurance— laboratories chemical substance management. laboratories
+with an awareness of the importance of ensuring the safety of
+products and create and appropriately implement and management
+ingerseas)
+   Complaint/process abnormality occurrence
+response to issues found
+frameworkswithinwhichtoenhanceandmaintainproductafe
+In Japan Overseas safety and quality. We formulated our Quality Management
+Policy to ensure that every employee of our Group systematically
+implements product safety and quality assurance initiatives
+in accordance with QMS. We also began training for quality
+*2 See the glossary on page 108G.eneral Manager of Corporate Quality Assurance Promotion Department
+Initiatives
+Analysis
+measures Reporting
+abnormality information
+QPiT21 website
+Emails containing serious matters
+Information sharing
+Quality Improvement Activities for Existing Business
+information taking measures to prevent rSetoafcfcurrences of problems, and
+department department
+knowledge that can be shared anIndveustiegdatiaotn any time by relevant
+in relevant Measures for
+cooperation with tdheeparbtmuesnitness spitresventotinsgee if their structures
+for soundly implementing countermeasures to complaints are
+12
+member
+Database P (Production) information
+Emergency
+rigorous 4M change control. Cross-functional responses are
+divisions. In fiscal 2019 we focused on preventing complaints
+Complaint/process
+in charge
+Enter finalization processing
+measure Analysis
+made to rapidly solve not only serious but also minor complaints.
+frFolamsh nreewcsurring. FoSrtaffifsmceamlb2er020 we are carrying out checks in
+abnormality occurrence
+3
+In order to prevent new occurrences and recurrence of issues
+recurrences
+Enter complaint
+Server
+leading to complaints and process abnormality, we use “Why-
+Prevention measures
+information/process
+QPiT21
+abnormality information
+Why Analysis” and “Further Investigation” to identify what
+Emfuainlsctoinotaninining. serious matters
+Sumitomo Bakelite Co., Ltd. Integrated Report 2020
+55
+website
+Information sharing
+Reporting
+▶ QMS Certification Received Business Unit
+High Performance Plastic Business Unit
+Enter finalization processing
+measure
+Information & Telecommunication
+2
+QOL* Business Unit
+or in Charge of perations
+ach plant
+ion Department
+f Quality Assurance epartment
+ut ‘Monozukuri’
+Audits manuf
+Before before
+Conventional d
+(performed by qual departments indivi ・Full audit using s
+・Not enough days all items
+・Insufficient skills ・Lack of informati
+From fiscal 2017
+Division audit
+(jointly condu
+● Identification of root issues Aatbe business site
+QOL*2 Business Unit
+ Director in Charge of Operations
+ Each plant
+ Staff responsible for each plant
+ Staff serving concurrently in
+Group companies in Japan and ov
+Corporate Quality Assurance
+Promotion Department
+Manager of Quality Assurance
+ty/Environment/Quality/SBPS
+Department
+Direc
+ Business/products
+tor in Charge of Director in Charge of Direct
+ Certification Standard
+Operations Operations O
+  ISO9001
+Staff ser Corporat Prom
+Staff resp Staff ser
+ Quality of life products (packaging films for food
+ving concurrently in Staff serving concurrently in eaQnudaliptyhAasrsmurancceuticalCporpodrautectQsu,ablitiyoA-bssausreandceproducts,
+tion Department Promotion Department
+construction materials, waterproofing products, etc.)
+ High-performance plastics (included molded
+Each plant Each plant E
+articles)
+onsible for each plant Staff responsible for each plant Staff respo
+ Semiconductor-related materials
+ving concurrently in Staff serving concurrently in Staff servi
+  l Production l/Production
+IATF16949
+quality control
+Corporat
+Sales &
+Prom Manager
+Quick shari
+information response to i
+Provision of
+e Quality Assurance Corporate QVuoailcitey oAfssurance Corporate
+SHeirgvihc-eperformaCnucsetomplearstics (included molded
+tion Department PromotiCounsDtoepmaertrment Promot
+articles) Value
+of Quality Assurance Manager of Quality Assurance Manager o
+Department Department D
+ Semiconductor-related materials
+ng of quality
+and speedy Framework Supporting Thermoplastic sheets
+ ssues found the Initiatives
+ ISO13485
+ent review, project review,
+ Medical products
+esign and ● Defining rules
+ion and collaboration of the
+ISO15378
+eering, FMEA, DRBFM and F
+ divisions ● Building organizations Packaging Materials for Pharmaceuticals
+TA ● Fostering human
+ tc.
+FSSC22000
+  Packaging films for food
+resource
+ AS9100 or JIS Q9100
+ Aircraft components Abo
+  Bases/Plants Databese Bases/Plants management representative.
+  Initiatives
+Aimed at Improving Customer Satisfaction*1)
+III. Reducing Risks to New Products or New Businesses
+Basic Policy
+shall create an eaffnicdiernetgwuloartkifolonws, oeftcq.uarlietyafpoprmlieadtiotno for fundamental Research Research
+Quality Management Policy for FY2020
+o
+Safety data, information on laws
+In mind with Customer First and Quality First, we (all SB Group employees)
+improvement, concthriebmutiincgaltosuinbcsretasnicneg mtheancaomgepmaneyn’st.profitability and at laboratories Quality AssuralanbceoartaEtoacrhiePsrocess
+nsible for each plan ng concurrently in
+the same time achieving a sustainable society through SDGs:
+Customer
+Require- Information Review & Design & Transfer to Initia Quality Assurance
+One Sumibe / Zero Defect / Proactive
+  Action Plan: SDG 12. Ensure sustainable consumption and production patterns
+Contro
+Process
+o
+ments/Needs and Analysis Selection of Issues Development (DR) Manufacturing (DR) Market Trends I. Working toward Ensuring Quality that Provides Safety and Peace of Mind (QA
+Department’s Role and Responsibility)
+Strict assessment Improvement of Improvement of II. Quality Improvement Aofcitsisvuiteiess of ExistingdeBsiugsniqnueaslistyes (ComplparionctesssHqaunadliltiyng
+●
+Implementation of the quality assurance function of the mother site
+developmentIVq.uIamlitpyrionvdeicmese,netc.o)f t●hAeppErnotpireiatTeogtoa/lsMtopanduecfaisciotunsrinatge(aMchomnoilezsutkounrei) P●rCohcaensgsetChornoturoglh ● Participat concerned fromDthaeilyiniItniaslpsetacgtieoonfadnedsigMnoanodzduekvuerlioApmudeintt ● Prevention of quality problems through reliability engin
+●
+Process improvement (new product developm   d Reflection of the voice of customer through utilization of support tools e
+●
+V. Fostering Outstanding Quality Management Representative to Lead the Next Generation
+*1 See the glossary on page 108.
+▶ Future State Vision of Appropriate New-Product Development and Commercialization Processes of the Group Customer
+Close assessment during design reviews
+●
+ Quality Assurance at Each Process
+ Review & Selection of Issues
+Q
+ Design &
+Development (DR)
+(Quality)
+ Transfer to
+Manufacturing (DR)
+5
+Sta in r dep
+ ffImnietimalbPerorduction 4
+eCleovnatrnotl/Production artment de
+usi par
+ Sales & Service
+ness tment
+     Require- ments/Needs and Market Trends
+12
+information P (Production)
+B
+Investigation
+Provision of Customer Value
+Information Analysis
+Staff member in charge
+Strict aDssaestsambeantse of issues
+Improvement of
+Improvement of Quick sharing of quality
+Implementation of the quality assurance function of the mother site Flash news 3 Staff member
+information
+Emergency
+design quality
+process quality
+information and speedy
+Framework Supporting the Initiatives
+Process quality control
+Voice of Customer
+  ● ● Process improvement (new product development review, project review, design and
+Appropriate go/stop decisions at each milestone Change Control in relevant Measures for
+development quality indices, etc.) Participation and collaboration of the divisions
+concerned from the initial stage of design and development
+●
+Prevention of quality problems through reliability engineering, FMrEeAc,uDrRrBenFMceasnd FTA
+●
+CloseassessmentduringdesignreSviewrvse
+Enter complaint
+r Reflection of the voice of customer through utilization of support tools etc.
+information/process
+●
+Prevention
+● ● ●department preventing
+● Defining rules
+● Building organizations ● Fostering human
+resource
+ We are working to enhance the quality of our existing products through such efforts as ensuring rapid response to complQai(nQutsal,ity)
+happened, causes, and countermeasures, among other factors,
+5 Staff member 4
+Business
+in relevant
+concerning these issues. This information is organized as
+  o
+o
+i
+i
+t
+t
+a
+a
+m
+m
+r
+r
+o
+o
+g
+g
+f
+f
+n
+n
+n
+n
+i
+i
+r
+r
+a
+a
+I
+I
+h
+h
+s
+s
+n
+n
+t
+A
+a h
+i
+a
+o o
+s c
+o
+
+        Message from the President
+ Value Creation
+ Business Strategy
+ Environment
+ Social
+ Governance
+ Data
+Reducing Risk Relating to New Business
+There is a need to improve (optimize) the output quality (degree of perfection) of product designs and process designs when developing new products and to shorten (minimize) the time required for the development process by minimizing rework.
+❶ Shortening New-Product Development Periods and Improving Work Quality
+In new product development, initial plans are often delayed
+because of the tendency for a variety of problems requiring
+reworking to arise. To prevent this, we implement the Plan-Do-
+Check-Action (PDCA) cycle to increase the degree of perfection
+of design quality and shorten the development period through
+and Effects Analysis (FMEA) to predict potential failures or abnormalities by analyzing health and safety risks on people including customers related to our products, along with Design Review Based on Failure Mode (DRBFM) that focuses on changes to the design and changes to conditions and the environment. In turn, we implement risk reduction measures
+in all processes of DR, FMEA and DRBFM as well as during technical verification at the time of using new raw materials.
+In addition, we use Fault Tree Analysis (FTA) that rationally analyzes accidents and defects in a hierarchical manner to discover root causesSaumnitdomofuBankdeliatemCoe., Lntdt. a(inlclsudoinlguGtrioupncsomfpoanriespirneJavpeannantdinovgerseas) recurrence.
+ collaboration of all the divisions concerned from the initial phases.
+Director in Charge of Safety/Environment/Quality/SBPS
+In Japan Overseas Furthermore, we implement the following to ensure that the
+In fiscal 2019 our quality education for young employees did
+problems do not recur in subsequent development work.
+i) Feedback Review Analysis to identify problems through reviews of
+Bases/Plants Bases/Plants development processes over time.
+on statisticalIntformoaltsionu&sTeledcotmomuinmicaptiornove thHiegh Plervfoermlanocfe Pqlaustaiclity from the
+Business Unit Business Unit QOL*2 Business Unit
+Databese
+Director in Charge of Director in Charge of
+Operations Operations will continue to address this in fiscal 2020 as well.
+Director in Charge of Operations
+ach plant
+nsible for each plant
+ii) Why-Why Analysis and Further Investigation to identify root
+causes of the occurrence and out-flowing of problems in terms
+Staff serving concurrently in Corpo
+Pro
+Staff re
+Staff serving concurrently in
+ of technology and management. Why-Why Analysis and Further
+Safety data, information on laws
+Investigation are anlsdoreugsuedlationdse,tetrcm. ainreawphpyliepdrotoblems were not
+Research chemical substance management. Research prevented in terms of organizations, allocation of functions, systems,
+laboratories laboratories frameworks, and culture and to identify measures for preventing
+Staff s
+Corpo Quality Assurance
+Pro on Department Manag Quality Assurance
+recurrence and new occurrences.
+❷ Proactive Use of Various Quality Control Techniques
+In addition to design review (DR) during each stage of product design and process design, we conduct Failure Modes
+epartment
+The “QPiT” System for Processing Quality-Related Complaints
+Customer Provision of Require- Information Review & Design & Transfer to Initial Production
+Voice of system. QPiT21 (Quality & Production information Tools 21) by converting it to a moSanleitso&rSefrovircme at. DoCuinstgomsero has made
+ments/Needs and Analysis Selection of Issues Development (DR) Manufacturing (DR) Control/Production Value Customer
+is a system that allows the central management of quality-
+it possible for us to confirm the extent to which we have
+Market Trends
+Strict assessment Improvement of
+Improvement of
+Quick sharing of quality
+and production-related information, and it has been built into
+achieved our targets for each quarter on a daily basis. In
+of issues design quality
+process quality information and speedy Framework Supporting addition, we issue preespdonicsettioinssuiens founrdmattihoenInitoiantivews orsening
+thIenitGiatrivoeus pwide intranet. The system was introduced in order
+Process improvement (new product development review, project review, design and ● Defining rules
+to accelerate the communication of quality- and production- indicators regarding recurrences with the same customer or
+●
+Implementation of the quality assurance function of the mother site
+●
+Appropriate go/stop decisions at each milestone relacotnecedrneindfromrmthaetinioitianlswtagiethofidnestighneanGddreoveulopp,mfeantci●liPtaretventtiohneofsquhaalitryinprgoblemsthrougsharmeliaebiliptyroendguinecetr,inga,nFdMEhA,aDvReBFeMsatnadbFlTiAshedastru●cFtuosrterinfgohrumparnomptly
+Change Control
+● Close assessment during design reviews ● Reflection of the voice of customer through utilization of support tools etc. resource
+development quality indices, etc.)
+●
+●
+●
+of information, and encourage the integration and effective utilization of information levels. With this system it is possible to respond efficiently, rapidly and appropriately to complaints. In fiscal 2019, we began automatically graphing data related
+▶ Complaint Processing Flow
+Ab
+Database
+Server
+Q (Quality) information
+P (Production) information
+QPiT21 website
+Process quality control
+General Manager of Corporate Quality Assurance Promotion Department
+not just cover FTA and FMEA, we also enhanced our education
+development stage through to the mass production stage. We
+Quality education (on FTA / FMEA) for second year engineering employees held in June 2019
+Participation and collaboration of the divisions ● Building organizations reporting initial responses from each business department and
+corporate site to management. For fiscal 2020, we will adopt a structure for issuing prediction information on worsening indicators across business departments.
+5 Staff member 4 in relevant
+department
+Enter finalization processing
+ng concurrently in
+ Quality Assurance at Each Process
+We manage complaints relating to quality using the “QPiT21” to complaints via our QPiT system, and began using this
+ Business department
+Investigation
+Emergency measure
+Analysis
+Measures for preventing recurrences
+Prevention measures
+Reporting
+   12
+Complaint/process abnormality occurrence
+Staff member in charge
+ When a complaint or process abnormality occurs, an employee enters the information into the QPiT21 system.
+This information is sent to all staff members in charge, and the relevant business units investigate the complaint or process abnormality, and provide an emergency response, carry out analysis, implement measures to prevent recurrences and other similar occurrences, report back to customers, etc.
+Sumitomo Bakelite Co., Ltd. Integrated Report 2020
+56
+Flash news 3
+Staff member in relevant department
+rate Quality Assurance motion Department
+Each plant
+sponsible for each plant
+erving concurrently in rate Quality Assurance motion Department
+er of Quality Assurance
+Department
+Corporate Quality Assurance Promotion Department
+Each plant
+Staff responsible for each plant
+Staff serving concurrently in Corporate Quality Assurance Promotion Department Manager of Quality Assurance Department
+E
+Staff respo
+Staff servi Corporate Promoti
+Manager of D
+   Enter complaint information/process abnormality information
+Emails containing serious matters
+Information sharing
+    o
+i
+t
+a
+m
+r
+o
+n
+s
+f
+h
+a
+r
+i
+n
+n
+g
+I
+o
+
+   Message from the President
+ Value Creation
+ Business Strategy
+ Environment
+ Social
+ Governance
+ Data
+eas
+lants
+rch ories
+inspects and examines operations daily from customers’
+ity Assurance at Each Process
+Internal Quality Auditing and Daily Inspection/Review
+ For the quality audit for fiscal 2019, we continued to carry out
+the ‘Monozukuri’ Audits (see below), a system launched in
+2017, which is conducted jointly for the three departments
+of quality, EHS, and SBPS within the Corporate Production
+Management and EnSguimniteomeorBiankgelitDe Ciov.,iLstdi.o(inc.luding Group companies in Japan and overseas)
+departments (participation in DR, cooperation with FMEA, etc.) and support of production activities at each business department (change control, FEMA, FTA, Why-Why Analysis and Further Investigation, participation in quality meetings and DR, maintaining/managing quality information and quality data, and checking the appropriateness of complaint countermeasures, etc.). It also carries out activities to raise awareness about quality improvement.
+The Corporate Quality Assurance Promotion Department
+Information & Telecommunication Business Unit
+High Performance Plastic Business Unit
+Director in Charge of Operations
+Staff serving concurrently in Corporate Quality Assurance Promotion Department
+QOL*2 Business Unit
+‘Monozukuri’ Audits
+Director in Charge of Operations
+Director in Charge of Operations
+Amagasaki Plant, and Utsunomiya Plant) and two subsidiaries
+Director in Charge of Safety/Environment/Quality/SBPS
+General Manager of Corporate Quality Assurance Promotion Department
+perspectives through support of R&D activities at research
+ Staff serving concurrently in Corporate Quality Assurance Promotion Department
+Purpose and method of the ‘Monozukuri’ Audits
+Conventional audits that have been conducted for quality,
+companies (Kyushu Sumitomo Bakelite Co., Ltd. and Akita environmentS,taffnredspsonasfibeletfyor feoacrh eplanct h bStuafsf rienseposnsibsleiftoer emachapdlanet it dStiaffif rcesupoltnsible for eachSpluanmt itomo Bakelite Co., Ltd.) in Japan, while overseas said
+Each plant Each plant Each plant
+for us to identify the root issues each business site is faced audits were carried out at three business sites in Europe and
+Staff serving concurrently in Staff serving concurrently in Staff serving concurrently in
+Corporate Quality Assurance Corporate Quality Assurance Corporate Quality Assurance Promotion Department Promotion Department Promotion Department
+with, due to factors such as insufficient man-hours spent four business sites in China and Southeast Asia. In addition,
+Manager of Quality Assurance Manager of Quality Assurance Manager of Quality Assurance
+on the audits, inadequate skills of the auditors, and a lack of information provided beforehand.
+Furthermore, the internal audits conducted by each business site focused on the management system, and It was not possible to successfully link the activities from the extraction of essential issues to the prevention of recurrence and prevention. Therefore, in order to resolve these problems, we built an audit system (combining ‘Monozukuri’ Audits and internal audits)
+that is able to identify the root issues in each business site,
+education and instruction (including accompanying auditors onsite where necessary) were provided as a way to foster internal auditor leaders at business sites within Japan in order to strengthen our internal audits.
+The findings from internal audits and ‘Monozukuri’ Audits consist of essential issues and items that could lead to essential issues. We have largely succeeded in achieving the functionality to deduce these essential issues. What is more, we have disclosed the findings from other business sites to ten of the audited business sites, had each of them perform self-inspections on their own sites, and make corrections and improvements where needed in order to roll out risk reductions laterally.
+For fiscal 2020, we will continue working to improve the skills of auditors by training them as a way to enhance “combining 'Monozukuri' Audits and internal audits,” thereby aiming to further improve the effectiveness of our audits.
+Department Department Department
+correct and improve the situation, and prevent occurrence and
+Transfer to Initial Production
+Provision of Customer Value
+Voice of Customer
+recurrence of issues.
+Sales & Service
+Manufacturing (DR) Control/Production
+(1) Audits will be conducted in greater detail (review of questions Improvement of on check sheet) to inspQeucictk ashnadrincgovf qeuralaituy dit points that could pose
+Process quality control
+process quality
+provement (new product development review, project review, design and ● Defining rules
+information and speedy Framework Supporting
+or predict problems in terms of quality, EHS, or production that
+response to issues found the Initiatives ●
+problems through reliability engineering, FMEA, DRBFM and FTA ● Fostering human departments (quality assurance, EHS, SBPS) within the Corporate
+e
+●
+Change Con(t2ro)lBu
+sPianrteicsipsatisointeansdwcoillalbboreatiionsopfethcetdeidvisijonisntly by t
+hBeuiltdhinrgeoergapnrizoamtionostion
+ uality) ormation oduction) ormation
+iT21 bsite
+Business
+In fiscal 2019, wedepbaertgmaent prepadreinpagrtemdeunctational manuals and
+occurred last year.
+●
+rough utilization of support tools etc. resource
+Production Management & Engineering Division (‘Monozukuri’ Audits).
+(3) Internal audits conducted by each business site will contain inspection items from ‘Monozukuri’ Audits to enable business sites to correct/improve issues autonomously using the PDCA cycle.
+(4) ‘Monozukuri’ Audits will inspect internal audit results, the status of corrective actions or improvements, and important matters, and
+also invol5ve follow-ups, etc. 4 in relevant
+Staff member
+having provide instructions from our head office in order to
+strenEngtehrefinaelidzautcioantioprnocfoesrsintgernal auditors as part of our efforts
+Flash news Staff member
+to enhance3internal audits at our business sites.
+Results of ‘Monozukuri’ Audits
+in relevant Measures for department preventing recurrences
+measures
+In fiscal 20I1n9fo,rm‘Matoionnoszhuakruinrgi’ AudRietsportwingere conducted on four
+Emails containing serious matters
+directly managed business sites (Shizuoka Plant, Kanuma Plant,
+Investigation
+Emergency measure
+Analysis
+Prevention
+About ‘Monozukuri’ Audits
+Audits that comprehensively cover quality, EHS, and manufacturing to increase our ability to detect problems beforehand and promote fundamental improvements
+Before
+From fiscal 2017
+ Conventional division audits
+(performed by quality assurance and EHS departments individually on each business site)
+・Full audit using sample items
+・Not enough days or man-hours to fully check all items
+・Insufficient skills of the auditing team ・Lack of information beforehand
+Conventional internal audits
+(Each business site)
+・ISO system audit focused
+・ISO system audits alone do not help in terms of prevention
+  Division audits become a part of ‘Monozukuri’ Audits (jointly conducted by quality assurance, EHS, SBPS)
+● Identification of root issues at each business site
+● Able to correct/improve and prevent issues Established audit system (combining ‘Monozukuri’ Audits and internal audits)
+   A scene from a ‘Monozukuri’ Audit at Indopherin Jaya A scene from a ‘Monozukuri’ Audit at the Kanuma Plant
+Sumitomo Bakelite Co., Ltd. Integrated Report 2020
+57

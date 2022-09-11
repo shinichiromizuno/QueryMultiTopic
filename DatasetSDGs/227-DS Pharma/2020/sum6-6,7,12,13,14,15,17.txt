@@ -1,0 +1,105 @@
+Environment
+Environmental management
+Sumitomo Dainippon Pharma uses energy, water resources, and a variety of chemical substances for R&D and for manufacturing products. The shutdown of operations, administrative penalties, or damage to social trust due to the occurrence of a serious environmental problem or an increase in expenses for environmental protection due to responding to new environmental issues could have a serious impact on operating results. On the other hand, initiatives such as reducing energy costs and the recycling of waste into valuable resources as well as the creation of products that contribute to solving environmental issues are business opportunities that help to make a positive financial impact. Under our Basic Environmental Policies, Sumitomo Dainippon Pharma formulates a three-year Mid-term Environmental Plan and an Annual Implementation Plan. We evaluate initiatives at the Environmental and Safety Committee and respond appropriately to risks and opportunities, thereby leading to the enhancement of corporate value.
+Contributing to building a low-carbon society
+As part of our efforts to build a low-carbon society, which is one of our most important topics in the Mid-term Environmental Plan, we have set a target of reducing CO2 emissions by 23% by fiscal 2020, compared to fiscal 2005. As of fiscal 2019, we had reduced emissions by 34%. In particular, in recent years, we have systematically promoted the installation of LED lighting, and we have also been working to calculate greenhouse gas emissions across the supply chain. In addition, we are aiming to obtain Science Based Targets (SBT) certification for our fiscal 2030 GHG emission reduction target during fiscal 2020.
+Profile Value Creation Strategies CSR-Based Management Financial Section
+CO2 emission trends
+(t-CO2)
+100,000 80,000 60,000
+Scope 2
+Scope 1
+Total of Scope 1 and Scope 2
+65,532
+58,750 54,430
+41,805 38,906 35,270 23,727 19,844 19,160
+ 82,098
+74,007 73,533
+       In fiscal 2019, we formulated new targets up to fiscal 40,000 2030 aimed at realizing a sustainable society.
+ 20,000 35% from fiscal 2017 level by fiscal 2030 0
+ • Reduce greenhouse gas (GHG) emissions (Scope 1 + 2) by
+ • Reduce water withdrawal by 12% from fiscal 2018 level by fiscal 2030
+• Maintain recycling rate for waste at 80% or higher and aim for at least 85%
+• Maintain final disposal rate for waste at less than 1% and aim for less than 0.5%
+Sumitomo Dainippon Pharma’s environmental management
+Basic Environmental Policies
+• Development of products and technologies with less environmental burden
+• Promotion of business activities with less environmental burden
+• Environmental protection activities involving the whole Company
+• Compliance with laws and regulations, and voluntary initiatives
+• Education and awareness promotion
+• Environmental protection activities for
+regional communities
+• Communication
+2015 2016
+2017
+2005
+2018 2019 (FY)
+Scope 2
+35,270 t-CO2 8.2%
+Scope 3
+376,272 t-CO2 87.4%
+Annual Implementation Plan
+To formulate an Annual Implementation Plan of action for achieving the goals of the Mid-term Environmental Plan
+Fiscal 2019 CO2 emissions by scope
+Scope 1
+19,160 t-CO2 4.4%
+     Mid-term Environmental Plan
+To formulate a Mid-term Environmental Plan comprising specific measures for implementing the basic environmental policies
+Sumitomo Dainippon Pharma Co., Ltd. Integrated Report 2020 64
+Value Chain
+Environment
+Identifying risks and opportunities
+In light of the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD) and concerns about global water risk, we will analyze the identified risks and opportunities related to climate change and water. We conducted risk surveys on water risk, including water supply and demand (current and future) and vulnerabilities in downstream environments, at our main sites in fiscal 2019, which we will analyze going forward.
+Third-party assurance
+Fiscal 2019 environmental information indicated with a in the Integrated Report 2020 has received third-party
+Overview of environmental impact (FY2019)
+assurance from KPMG AZSA Sustainability Co., Ltd. in order to enhance the reliability of the information. The Independent Assurance Report is on page 66.
+Related SDGs
+       INPUT
+Energy Consumption
+(crude oil equivalent)
+Total energy
+consumption*1 ····31,961kl
+includes fuel for (business vehicles)
+Raw Material Withdrawal
+• Raw materials for products (excluding metals) · · · · · 5,199t
+• Raw materials for products (metals) ·····················11t
+• PRTR substances ······· 2,044t
+• Product packaging
+materials · · · · · · · · · · · · · · · · · · 721t
+Water Withdrawal*4
+Tap water ········· 253,832t Industrial water · · · 289,223t Ground water · · · · · 224,210t Other ················· 7,080t
+ OUTPUT
+Released into the Atmosphere
+• CO2 emissions
+Released into Water Systems
+Total amount of water discharged*5 · · · 774,345t
+• BOD ··················· 0.2t • COD ··················· 2.2t • Phosphorus ··········· 0.1t • Nitrogen ·············· 0.4t • PRTR substances · · · · · · 0.0t
+Waste
+• Amount of waste generated ··········9,381t Of which specially-controlled industrial waste · · · · 8,014t
+• Amount recycled · · · 7,760t • Amount of final
+disposal · · · · · · · · · · · · · · · · · 47t • PRTR substances · · · 1,926t
+Scope 1*2 ·········19,160t-CO2 from energy sources only,
+(includes fuel for business vehicles) Scope 2*3 ·········35,270t-CO2
+• SOx ·························· 0.3t •NOx························ 43.9t • Dust emissions ·············· 0.8t • PRTR substances ············ 8.2t
+Business Activities
+ Research and development
+  Offices
+Manufacturing
+ Logistics
+Boundary of calculation: Sumitomo Dainippon Pharma Co., Ltd. facilities in Japan only (plants, research laboratories, distribution centers, Osaka Head Office, Tokyo Head Office, branches and business offices). Water withdrawal, total amount of water discharged, and waste excludes branches and business offices. Methods of Calculation and Emissions Intensity, etc.
+*1 (Purchased electricity × unit calorific value + purchased heat × unit calorific value + fuel consumption × unit calorific value) × 0.0258 kl/GJ
+The unit calorific values and the types of fuel to be calculated are based on “Act on the Rational Use of Energy.” However, when the unit calorific values of
+electricity and heat for sites located on the premises of Sumitomo Chemical Co., Ltd. are provided by Sumitomo Chemical Co., Ltd., those values are used.
+*2 Fuel consumption × fuel unit calorific value × fuel CO2 emissions factor
+The unit calorific values and CO2 emissions factors are based on “Greenhouse Gas Emissions Accounting, Reporting, and Disclosure System” which is provided in “Act on Promotion of Global Warming Countermeasures.”
+*3 Purchased electricity × electricity CO2 emissions factor#1 + purchased heat × heat CO2 emissions factor#2
+Notes: #1 The value (0.33 t-CO2 / thousand kWh) which The Federation of Pharmaceutical Manufacturers’ Associations of JAPAN has adopted to manage
+the progress of its CO2 reduction target
+#2 The values based on “Greenhouse Gas Emissions Accounting, Reporting, and Disclosure System” which is provided in “Act on Promotion of
+Global Warming Countermeasures.” However, we use values provided by Sumitomo Chemical Co, Ltd. for sites located on the premises of
+Sumitomo Chemical Co., Ltd.
+*4 The amount of water withdrawal from tap water, industrial water, ground water, and other.
+*5 Total amount of water discharged into sewerage and public water bodies and so on. As the amount of water discharged is not measured at each facility,
+the total amount of water discharged is considered to be equivalent to the total amount of water withdrawal.

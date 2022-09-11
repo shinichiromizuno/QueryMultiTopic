@@ -1,0 +1,1 @@
+Silhouette-based people-counting software that protects individual privacy can play a role in maintaining social distancing by assessing current occupancy of a restaurant or venue relative to its COVID-safe capacity.

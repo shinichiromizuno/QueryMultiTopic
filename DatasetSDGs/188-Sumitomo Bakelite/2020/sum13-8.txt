@@ -1,0 +1,455 @@
+Safety and Security
+5
+7 2
+▶ Management Structure
+2
+2 1 11
+9
+1 4 3 2 3
+Occupational Health and Safety Management System
+10 7 9 11 0 20 4 12 6
+585127
+0
+3
+4 0
+7
+10
+8 3
+2 1 1
+5 2
+  Our Group has established a Responsible Care Committee
+chaired by the director overseeing company-wide safety.
+This committee determines health and safety activity policies
+■ 2015 ■ 2016 ■ 2017 ■ 2018 ■ 2019
+along with important measures for preventing disasters
+and accidents, and based on these, rolls out health and
+safety activities across the entire company. What is more, in
+       4
+1 1 1 2 3 1 3 2
+2October 2019 we enacted our uniform, company-wide Safety 3
+Philosophy: Prioritizing Safety in Everyth1ing We Do and our
+5112 3
+three1Safe1ty Ac2tion Guidelines. These have been translated
+1 1 1 1 1 1 1 0 1
+into eight languages and deployed throughout the entire
+company to promote the complete elimination of serious disasters and major accidents.
+Each of our business sites makes efforts closely in tune with the needs of individual workplaces within a company-wide framework and under an accountability structure involving the managers of business sites. At its monthly meetings, the Health and Safety Committee inspects health and safety management activities, ensures thorough compliance with relevant laws and ordinances, and considers capital investments to realize risk reduction, among other actions.
+In 2009, our Group’s plants and main subsidiaries in Japan began pursuing OHSAS18001 accreditation, followed by our Group’s overseas subsidiaries from 2010. Today, a total of 23 business sites have received accreditation, including five business sites and three subsidiaries in Japan and 15 subsidiaries overseas. In addition, we are making steady progress on transitioning over to ISO 45001 as a result of the repeal of OHSAS 18001 scheduled for 2021.
+Machinery and Equipment Risk Reduction Activities
+All new machinery and equipment installed at domestic production plants and subsidiaries from 2008 and at overseas subsidiaries from 2009, have been designed in compliance with ISO12100. We carry out risk assessments of existing facilities when changes occur, such as when the facilities are restructured or work procedures change, in an effort to make machinery and equipment fundamentally safer.
+Risk Reduction Activities relating to Chemical Substances
+  Complaints from Authorities, Local Governments and Local Communities
+Sumitomo Bakelite Co., Ltd. Integrated Report 2020
+51
+Employee Relation & Welfare Department, Personnel Division
+Corporate EHS Promotion Department, Corporate Production management & Engineering Division
+Safety Manager
+Health Manager
+Industrial Physician
+In 2012, we introduced chemical substance risk assessments at plants in Japan and subsidiaries worldwide. We verify our evaluation results when changes occur, such as information on the risks and hazards posed by chemical substances and changes to work procedures. This is done in aiming to prevent adverse health effects to employees through exposure to chemical substances, and to prevent explosion or fire incidents caused by chemical substances.
+President
+ Director Responsible for Health and Safety
+ Senior Health and Safety Manager (Plant Manager at each plant)
+  Health and Safety Committee at each plant
+Labor Union
+  Safety Task Forces in each department and section
+Workplaces
+Superintendents, Team Leaders, Leaders, Team Members, Section Members
+Specialist Task Forces
+  Our business sites in Japan along with subsidiaries worldwide comply with laws and ordinances and address prevention needs in order to preserve the environment. In fiscal 2019, we received five complaints concerning the environment (two
+from Japan and three from overseas). Three of these involved instructions to improve our environmental impact, one was a noise complaint, and one was a complaint concerning odors. Each of these were addressed in the appropriate manner.
+b
+b
+■ Occupational accidents not resulting in lost workdays
+Other
+Contact with high or low-temperature objects
+Collisions
+Being rammed into
+Contact with flying or falling objects
+Strains or overexertion
+Falls and slips from a height
+Contact with harmful materials
+Cuts and abrasions
+Falls
+Pinching and entanglement
+Other
+Contact with high or low-temperature objects
+Collisions
+Being rammed into
+Contact with flying or falling objects
+Strains or overexertion
+Falls and slips from a height
+Contact with harmful materials
+Cuts and abrasions
+Falls
+Pinching and entanglement
+                                       Message from the President
+ Value Creation
+ Business Strategy
+ Environment
+ Social
+ Governance
+ Data
+Health and Safety Education
+We carry out measures to reduce the risks posed by machinery and chemical substances in order to ensure safety on sites where these are used. At the same time, we conduct hazard prediction training as well as initiatives, such as “pointing and calling” and making proposals for reducing near-miss accidents. We have introduced “Safety Gyms” at each production plant to allow employees to learn about the fundamentals of safety. They are able to improve their safety consciousness and learn hazard prediction skills and risk identification skills.
+Furthermore, we also conduct safety education at every level. This includes holding safety meetings in which all plant managers participate to share initiatives involving safety activities in which they take a lead and act as role models, specialized safety education for managers, basic correspondence education on safety for mid-level employees, and hands-on safety education for new employees. In addition,
+Occupational Accident Figures
+Trends in the Frequency Rate of Accidents at Sumitomo Bakelite and Subsidiaries Worldwide
+we make efforts to disclose disaster and accident information, and to share information in a timely manner through the use of our Safety Portal Site, which was set up online so that it was accessible by every employee. The Safety Philosophy and Safety Action Guidelines that were enacted in October 2019 have also been translated into eight languages, and education is being carried out at every business site.
+Sumitomo Bakelite (Suzhou) Co., Ltd. Yamaroku Kasei Industry Co., Ltd. Safety dojo (Safety gym) training Training course in CPR using an AED
+All industries Chemical industry Sumitomo Bakelite only
+Sumitomo Bakelite and subsidiaries in Japan
+AOlvleinrsdeuasstrsieusbsidiariCeshemicalindustry SumitomoBakeliteonly
+    The graph on the right shows the overall frequency rate*1 3 4
+4.63
+3.38 3.38
+of occupational accidents, including those occurring at
+subsidiaries worldwide.
+52 3
+1.61 0.81
+3.12.561 0.21
+0.810.15 2015
+3.23 1.63
+3.07 1.66
+1.83 4.63
+1.80 0.94
+▶ Frequency Rate of Occupational Accidents at Sumitomo
+5
+4 5
+Sumitomo Bakelite and subsidiaries in Japan
+Bakelite and Subsidiaries Worldwide
+4.63 All3i.n2d5 ustries 3.23Chemical industry Sumitomo
+Overseas subsidiaries
+3.07 Sumitomo Bakelite and subsidiaries in Japan
+Bakelite only
+Ov3e.r2s5eas subsidiaries
+  Compared with 2018, our 2019 frequency rate worsened on 2
+account of the fact that the number of accidents resulting 30
+3.23 0.70
+0.51 3.07 0.24
+0.900.35 0.00
+2018
+1.83 0.35 0.00
+02.90018
+0.35
+0.00 2018
+10.8504
+41 1
+0.88 1.63
+0.81 1.66
+0.90 1.83
+ 0.65 0.88
+0.81 2017
+30.3.287
+  in lost workdays in Japan increased by one. Though this
+improved overseas due to a drop in the number of occupational
+2
+0.21
+0.70 1.63 0.65
+0.51 1.66 0.24
+0.27 1.80
+0
+1.61 2015
+0.15
+2016
+0.94 2019 (year) 0.54
+  accidents resulting in lost workdays. 1
+0.81
+0.88 0.70
+0.81 0.51
+0.94 0.54 0.27
+2016
+2017
+2019 (year)
+   *1 Frequencyrate=(Deathsandinjuries/totalworkinghours)x1,000,000
+* Data covers each calendar year.
+See the business sites listed on page 3 about the boundary.
+Trends in Occupational Accidents at Sumitomo Bakelite and Subsidiaries
+Number of Employees Injured as a Result of Occupational Accidents
+The graph on right shows the number of employees injured as a result of occupational accidents at our company as well as subsidiaries in Japan. In 2019 there was a slight increase in both occupational accidents resulting in lost workdays and occupational accidents not resulting in lost workdays, and the total number of employees injured rose for the second straight year.
+Occupational Accidents by Type
+Occupational accidents in Japan categorized by type are shown in the graph on the right.
+In 2019 pinching and entanglement accidents increased. Other than this, no prominent trends were observed with regard to the type of accidents, but the majority was made up of accidents caused by unsafe actions taken by workers. By notifying all employees of our Safety Action Guidelines and utilizing our Safety Portal Site, we will continue with initiatives to enhance the safety awareness of workers.
+0
+0.21
+0.15 2015
+0.65 2016
+0.24 2017
+2019 (year)
+ ▶(nNumubmerboef irnjuorefd)EmployOececsupIantjiuonrealdacacsidaenRtseressuullttiongf iOn lcocsut wpaotrkiodnayasl
+30
+■
+Accidents (in Japan)
+■ Occupational accidents not resulting in lost workdays (number of injured) Occupational accidents resulting in lost workdays
+24 ■
+30
+18
+24
+18
+■ Occupational accidents not resulting in lost workdays 15 15
+  30
+■ Occupational accidents not resulting in lost workdays 12
+12
+12
+Occupational accidents resulting in lost workdays
+10 (number of injured)
+9 10 1
+18 ■ 15
+18
+11 13 15 9 15
+ 24
+2 135 13 18
+6 12
+4 3 11 9
+ 0
+18 6
+120
+11 * Data covers each calendar year.
+0
+(number of injured) 20
+10
+12 9
+2016 2017
+2018 2019 (year)
+20915
+1 4 3 2 3
+ 15
+2015 2016 2017 2018
+15
+  210519 (year) 1 4 3 2 3
+13
+▶ Occu2p0a1t5ional Acc2i0d1e6nts by Ty2p01e7(in Japan20) 18 2019 (year)
+6 9
+See the business sites listed on page 3 about the boundary.
+ (number of injured)
+■ 2015 ■ 2016 ■ 2017 ■ 2018 ■ 2019 ■ 2015 ■ 2016 ■ 2017 ■ 2018 ■ 2019
+16 4 20
+ 12 2 2 16 4 2 3
+ 8 7 (number of injured1)
+■ 2015 ■ 2016 ■ 2017 ■ 2018 ■ 20119 1221211 2
+ Sumitomo Bakelite Co., Ltd. Integrated Report 2020
+52
+1 1 1 2 3 1 3 2 2111111101
+204
+2 5 1 1 2 3
+3
+1 1 1 1 1
+2 1 1 1 1 1 1 1 0 1 1 5 112 3
+ 16 12
+8 0 4
+0
+8 74
+3 2332 1
+0 4
+4 3 1 1 2
+ 2 4
+7 1
+4
+2 1 3 1
+1 1 2 3 1 3 2 1 1 1 1 1 1 0 1
+1
+2 2
+1 5 1 1 2 3 3 1 1 2
+Other Other
+Other
+Contact wCiothnthaicgthwith high Conta
+or low-temorploewra-ttuerme perature
+objects objects CollisionsCollisions
+or low object
+Being ramBmeinegd rinatmomed into Being
+Contact wCiothntfalycitnwg ith flying Conta
+or falling orbjfeacllitnsg objects
+or falli
+Strains orStrains or Strain overexertoiovnerexertion overe
+Falls andFsalipllsand slips Falls a from a hefirgohmt a height from a
+Contact wCiothntact with Conta harmful mhartmerifaullsmaterials
+Cuts andCaubtrsasainodnsabrasions Cuts a
+Falls Falls
+Falls
+Pinching Panindching and Pinchi entanglemenetnatnglement entan
+Collisi
+harmf
+
+                                    Message from the President
+ Value Creation
+ Business Strategy
+ Environment
+ Social
+ Governance
+ Data
+Overseas subsidiaries
+edged tools, Strains or overexertion such as handling heavy
+3.25
+1.61 0.81
+0.21
+0.15 2015
+er of injured)
+10
+9
+3.23
+of occupationa3l.0a7ccidents not resulting in lost workdays fell
+27
+in additional languages (English, Chinese) to our Safety Portal
+Trends in Occupational Accidents at Overseas Subsidiaries
+Occupational Accidents by Type
+The graph below shows the occupational accidents categorized by type of accident.
+Number of Employees Injured as a Result of Occupational Accidents
+All industries Chemical industry Sumitomo Bakelite only
+■ Occupational accidents resulting in lost workdays In 2019, the following four types of accidents made up 80%
+The graph below shows the number of employees injured as a
+(number of injured) ■ Occupational accidents not resulting in lost workdays of all accidents: pinching/entanglement in machines, cuts by
+Sumitomo Bakelite and subsidiaries in Japan
+result of occupational accidents at our overseas subsidiaries.
+60 55 52 52
+In 2019, the number of occupational accidents resulting in
+4.63
+lost workdays fell by approximately 30% and the number
+50 48 15
+43
+3.38
+marginally, for a decrease in the total number of employees
+30
+20 40
+1.66 1.83
+inju1re.6d3 in comparison with 2018. Sumitomo Bakelite (Dongguan)
+Site, move forward with making every employee aware of our
+1.80
+Co., Ltd. once again went a0n.9e0 ntire year without any occupational
+31 27 25 29 Sa1f0ety Philosophy and Safety Action Guidelines, and continue
+0.88 0.81 0.70
+0.94
+accidents, thus br0in.5g1ing its total to three0.y5e4ars and a total of 4
+with initiatives designed to raise safety levels to the same level
+0.65 0.24 0.35 0.27 0.00
+0
+as in Jap2a0n1.5 2016 2017 2018 2019 (year)
+million consecutive hours without any occupational accidents.
+2016 2017 2018 2019 (year)
+▶ Number of Employees Injured as a Result of Occupational Accidents (Overseas)
+▶ Occupational Accidents by Type (Overseas)
+■ Occupational accidents resulting in lost workdays ■ Occupational accidents not resulting in lost workdays
+■ 2015 ■ 2016 ■ 2017 ■ 2018 ■ 2019 16
+(number of injured)
+60
+52
+48
+■ Occupational acciden2t1s resulting in lost workda
+(number of injured)
+objects, and contact with harmful substances such as chemical
+40 21 21
+substances. We will continue to post educational ma14terials
+  50
+52 27
+55
+15
+43 14
+2019 (year)
+60 50 40 30 20
+  21 ■Occupati a
+40
+   30 20 10 15
+0 11
+a
+7 4 10 4
+onal
+31
+ccidents not resulting in lost workd
+5 7 9
+8 11
+    12
+27
+15
+18
+25
+2015
+er of injured)
+4 2
+715 3114243
+4
+1 1 1 2 3 1 3 2 Safety reaffirming measures taken for disasters that occurred in the past, and utilizing safety dojo training.
+Health Manager
+Industrial Physician
+(number of injured)
+60
+50
+■ 2015 ■ 2016 ■ 2017 ■ 2018 ■ 2019 TOPIC
+6 5 8 12 5
+0 0
+  10 7 0 5
+10
+5 7
+8
+2
+12 7 34 0
+2 325211 2 1 7 511624
+1 1 4243
+  13
+3
+    2015
+9
+2016
+2017
+2018
+2019 (year)
+1 *Data4coverseachcalen3daryear. 2 3
+See the business sites listed on page 3 about the boundary.
+2016
+2017
+2018
+ Sumitomo Bakelite (Dongguan) Co., Ltd. has gone three years and 4 million consecutive hours without an accident
+16
+40 ■ 2015 ■ 2016 ■ 2017 ■ 2018 ■ 2019
+President
+Director Responsible for Health and Safety
+Senior Health and Safety Manager (Plant Manager at each plant)
+ 5 8 Employee Relation & Welfare On October 28, 2019, Sumitomo Bakelite (Dongguan) Co., Ltd. reached three years and a total of 4
+  30 7 4 9 Department, Personnel Division million consecutive hours without any occupational accidents.
+10 7 11 0 0
+O20n account of4this, Sumitom6o Bakelite President Fujiwara presented the company with a certifiCcoartpeorate EHS Promotion Department,
+12 3
+of com5menda8tion and an e5scutcheon. I1n2 order7 to continue with it0s streak of zero accideCnotsrp, orate Production management
+2 10 3 4 1 1 7 5 8 2 5
+& Engineering Division
+Sumitomo Bakelite (Dongguan) Co., Ltd. has cont5inued to2carry out a2number of initiatives together 2 3 10 7 2 21 7 11 6 2 4
+w0ith the Environmental Health, Safety, and Disaster1Prevention Committee and its employees.
+1
+3 1 1 2
+11 2
+5 These initiatives include sharing information related to3disasters that occur at other business sites,
+2 1 1 1 1 1 1 1 0 1
+Accident Prevention
+Accident Prevention is the top priority of all our business sites. Our oEmbjpelocytieveeReislationm&aWkelfbaruesiness sites safer and more secure,
+Manager
+Department, Personnel Division
+helping all business sites achieve an accident and disaster-
+and thus earn the confidence of the local community, ensure
+free record. It also conducts drills and puts in place accident
+Corporate EHS Promotion Department, Director Responsible for
+Superintendents, Team Leaders, Leaders, prevention measures to minimizTeadmamMeamgbeerins, SthecetioenvMenemt tbhearst an
+employee safety, and maintain stable supplies of products to
+Corporate Production management Health and Safety custom&eErnsg. inTeheerinDg iDsiavisitoenr Prevention Committee is convened
+accident does occur.
+S.B. Sheet Waterproof Systems Co., Ltd. (Nara Plant)
+Evacuation drill (test scenario using a satellite phone)
+53
+H om
+Sumitomo Bakelite (Shanghai) Co., Ltd. Sumitomo Bakelite (Nantong) Co., Ltd.
+Specialist Task Forces
+Workplaces Superintendents, Team Leaders, Leaders, Team Members, Section Members
+Sumitomo Bakelite Co., Ltd. Integrated Report 2020
+Amagasaki Plant
+Emergency response drill for when leaks occur (arranging sandbags to prevent leaked oil from entering a rainwater channel)
+Firefighting drill General emergency drill
+15
+Safety Task Forces in each
+department and section
+ys ys
+40
+President
+Safety Task Forces in each
+Task
+29
+Health and Safety Committee at each plant
+Labor Union
+Specialist
+ and implements activities systematically with the aim of

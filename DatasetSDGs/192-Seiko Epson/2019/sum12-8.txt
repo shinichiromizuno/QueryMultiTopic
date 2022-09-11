@@ -1,0 +1,2 @@
+Epson’s force sensors endow robots with the ability to“feel”extremely subtle forces. This ability allows them to assemble mating parts, plug in flexible flat cables (FFC), insert capacitors, perform other difficult tasks that have traditionally relied on human sensory perception.
+By providing solutions that make automation easy, we are helping manufacturers use robots to perform tasks that used to be done by humans. This liberates people from dull, repetitive tasks and allows them to focus on more creative, value-added jobs.

@@ -1,0 +1,282 @@
+Environmental Management
+Our Company Group's Environmental Vision for 2050 (CO2 reduction)
+ Our Group relies upon the earth’s natural resources and energy in order to do business. However, doing business will generate garbage and air and water emissions. For this reason, we believe it is important for our Group to adhere to environmental laws and regulations, conduct business in an environmentally friendly manner, and engage in initiatives that reduce the environmental impact on the entire society through our products and services.
+In fiscal 2018 our Group established a plan with medium- to long-term targets ending in fiscal 2030, and has been promoting activities based on this. However, in light of the environmental challenges that will only grow more severe from this year on, we felt it was necessary to promote activities from an even longer-term perspective. Therefore, we formulated our Environmental Vision for 2050 (CO2 reduction) ending in 2050.
+For the future, we will continue to promote activities aimed at our challenges for the year 2050 by using SBT*1 as one of the indicators for this.
+▶ Striving to achieve zero CO2 emissions and SBT 250
+     200 150 100
+50
+0
+2015 2020
+202303m0e中di長um期- 目to 標long-term targets 2°C
+       2025 2030 2035
+target
+WB2°C target
+Striving to achieve zero emissions
+2040 2045 2050 (year)
+*1 SBT: Abbreviation for “science-based targets.” It refers to an initiative that aims to achieve the Paris Agreement target of “keeping a global temperature rise this century well below 2 degrees Celsius” through the public declaration, setting, and implementation of a greenhouse gas emissions reduction target by corporations that is consistent with science. It is a joint, international initiative. The target level was raised in October 2019 and has become a greenhouse gas reduction target consistent with the requirements of the Paris Agreement (Aiming to keep a global temperature rise well below 2 degree Celsius and 1.5 degree Celsius below pre-industrial levels).
+ Environmental Vision for 2050 (CO2 reduction)
+ 1 Strive to achieve zero CO2 emissions (Scope 1 and 2) by 2050
+◉ Reduce CO2 emissions via energy conservation activities, MFCA activities, and improving process efficiency
+◉ Increase the share of our energy from renewable sources by getting a grasp of the electric power conditions in each country
+2 Contribute to reducing CO2, including along supply chains.
+◉ Develop products that factor in reducing CO2 throughout their life cycle
+(Improve efficiency, reduce weight, lengthen service lives, recycle, switch to mono-material design, etc.: Use LCA) ◉ We will work together with our supply chain
+Initiatives for the Climate Change Program
+CDP (headquartered in London)*2 is an international NGO established in 2000 in partnership with institutional investors from around the world. It carries out projects in which it sends out questionnaires to major companies and municipal governments around the world on issues such as climate change, water security, and forests, and that seek climate change strategies and specific declarations related to emissions of greenhouse gases.
+With the CDP's 2019 survey, survey activities were conducted on behalf of 525 institutional investors with net invested assets totaling 96 trillion U.S. dollars. More than 8,400 companies, accounting for over 50% of global market capitalization,
+disclose environmental data on their initiatives for climate change programs via the CDP.
+We complied with the CDP's request to respond to its 2019 climate change survey, and we were awarded a "B" rating on January 20, 2020. For fiscal 2020, we have been requested to reply to the survey on water security in addition to the one on climate change, and we intend to respond.
+We will continue to reduce our environmental impact, conserve resources and energy, control chemical substances, develop products that contribute to the environment, and contribute to countering climate change, while also promoting the disclosure
+of environmental information in the future.
+*2 This was formerly known as The Carbon Disclosure Project, but now its official name is the
+CDP.
+Sumitomo Bakelite Co., Ltd. Integrated Report 2020
+43
+1..5°C ttarget
+Emissions(thousand t-CO2)
+ Message from the President
+ Value Creation
+ Business Strategy
+ Environment
+ Social
+ Governance
+ Data
+Environmental Management System
+Under our newly established Environmental Vision for 2050, our Group will work to address environmental conservation across the entire Group based on our Policy on Responsible Care Activities in aiming to contribute to the sustainable development of society.
+To actively reduce environmental impacts, conserve biodiversity, and prevent soil and groundwater pollution, our Responsible Care Committee and Environmental Impact Reduction Committee take the lead in checking compliance with environmental laws and regulations as well as conducting environmental assessments throughout the entire life cycle, from R&D to raw materials procurement, production, sales and final disposal. Based on the results, each workplace and work site take appropriate actions.
+From January 2020, our Responsible Care Committee and Environmental Impact Reduction Committee began carrying out activities as subordinate committees under the
+Sustainability Promotion Committee. We will continue to promote environmental management under this sustainability promotion structure.
+▶ Environmental Management Structure
+*1 The Sustainability Promotion Committee is a committee that is chaired by the president, and was launched in April 2019. See pages 39 and 40 for details.
+*2 The above system diagram is just an excerpt of our committees related to environmental management. See page 39 regarding our Responsible Care Committee and Environmental Impact Reduction Committee.
+  Responsible Care Committee*2
+  Activities of the Environmental Impact Reduction Committee
+The Environmental Impact Reduction Committee recaps each year’s progress toward medium- to long-term environmental targets at the end of the fiscal year and determines the targets for the following fiscal year. It carries out its activities with the approval of the Sustainability Promotion Committee, which serves as its parent body. Two subcommittees were established within the committee in order to achieve its objectives, and these subcommittees work to reduce our environmental impact.
+The Life Cycle Subcommittee aims to establish production systems with minimal environmental impacts through scientific, quantitative, and objective assessments of environmental impacts, from the R&D phase onward, under the Policy on Responsible Care Activities. The subcommittee is moving forward with its activities under its set target of ensuring that 25% of its researchers are capable of performing life cycle assessments (LCA) at all research and development departments and instituting energy conservation on their own by fiscal 2022 by continuing to foster said researchers and developers. In fiscal 2019 the number of certified personnel was hovering above the target line. In addition, as part of its efforts to expand the aggregation of environmentally friendly products company-wide, it has revised the phrasing from "environmentally friendly products (non-consolidated)" to "SDG- contributing products and technologies (consolidated)."
+In fiscal 2020, the Life Cycle Subcommittee will work to enhance educational opportunities, horizontally deploy LCA evaluations on baseline products, and expand items on which LCA evaluations have been carried out for SDG-contributing products.
+The Energy Conservation Subcommittee worked to establish, across all business sites in Japan, a mechanism for continuously soliciting and trying out ideas for saving energy through such means as voluntary implementation initiatives in business sites. In fiscal 2019, the subcommittee successfully reduced
+energy consumption by as much as 1,424 kL (55,181 GJ) in crude oil equivalent, or 2,748t-CO2, compared with fiscal 2018, primarily by reducing city gas and electricity consumption. Furthermore, the subcommittee established and successfully achieved targets by carrying out unique activities to conserve electricity in the summer and winter months. Outside of Japan, the subcommittee worked to ensure a similar level of activities as in Japan and continued to promote the roll out of activity methods and best practices.
+The subcommittee has established an energy conservation target for fiscal 2020 too, and will continue efforts aimed at achieving energy consumption reduction plans at the workplace level. In particular, the subcommittee will focus on creating a system across business sites in Japan for sharing practices for reducing energy consumption and technical information related to energy conservation in order to improve the level of energy-saving technology throughout our Company; and having the mother plants in Japan provide technical support to their affiliated sites through a tie-up with the Company-wide Energy Conservation Secretariat.
+LCA training in progress
+Environmental Impact Reduction Committee*2
+Life Cycle Subcommittee
+   Energy Conservation Subcommittee
+Business Site Energy Conservation Committee
+ Sumitomo Bakelite Co., Ltd. Integrated Report 2020
+44
+President
+ Sustainability Promotion Committee*1
+
+ Message from the President
+ Value Creation
+ Business Strategy
+ Environment
+ Social
+ Governance
+ Data
+Material Flows and Investments in Environmental Protection
+The figure below shows inputs, including raw materials and energy, and outputs that are products and emissions released into the environment.
+The Group is working to minimize its impact on the environment by means of waste reduction and resource savings through promoting more efficient use of raw materials, energy, and water. For fiscal 2019, we reduced both our emissions of CO2 and the amount of water used compared with the previous year through reduction efforts at our business sites. In addition, in light of the impact that the coronavirus (COVID-19) pandemic has had in terms of bringing economic activity to a standstill in the latter part of the fiscal year as a separate causal factor, we saw reductions across numerous items such as the volumes of inputs of raw materials and sales of products. Conversely, our amount of recycled waste has increased. This can be attributed to import restrictions on waste plastics in the China / Southeast Asian region, which in turn has led to an increase in waste plastics being disposed of as waste, whereas before these had been traded as a valuable good.
+  ▶ Material Flow
+  Raw Materials*1
+    Raw materials for resins
+173,268 tons
+Resins 59,242 tons
+     Base materials and fillers
+ 73,767 tons
+Solvents 8,392 tons
+Investments in Environmental Protection
+Our Group has compiled data annually on the amounts of investments in environmental protection of all Group companies in Japan since 2000.
+In fiscal 2019 we made investments of 281 million yen in total. Just as we did in fiscal 2018, we continued to implement energy- conservation measures such as increasing the efficiency of power supplies. However, since a large-scale project wound down, the amount we invested declined compared to fiscal 2018.
+▶ Amounts of Investments in Environmental Protection in Fiscal 2019
+* Data covers the time period and business sites in Japan listed on page 3.
+Sumitomo Bakelite Co., Ltd. Integrated Report 2020
+45
+INPUT
+OUTPUT
+Drainage: 6,040 thousand m3*5
+(Sewage: 577 thousand m3, Public water area: 5,463 thousand m3)
+COD*6:15 tons in Japan and 4 tons overseas
+     Secondary materials and others 18,728 tons
+Chemical substances: 252 tons
+(of which substances subject to the PRTR Act totaled 6 tons)
+ OUTPUT
+Environmental Emissions
+ CO2: 212,292 tons
+(Scope 1: 81,174 tons) (Scope 2: 131,118 tons) (of which emissions from waste liquid combustion: 1,410 tons)
+ SOx*2 : 34 tons NOx*3 : 77 tons Soot and dust*4: 0.2 tons
+  Waste: 17,245 tons*7
+Breakdown: Landfill
+Incineration without heat recovery Recycled
+3,091 tons
+3,388 tons 10,765 tons
+ Water
+5,269 thousand m3 (Waterworks: 816 thousand m3) (Industrial water: 691 thousand m3) (Groundwater: 3,762 thousand m3)
+ Valuable materials 9,483 tons
+  Energy
+110,188 kL (Crude oil equivalent) (4,271 thousand GJ)
+ *1 The ratio of renewable raw materials to total raw materials used is small at the current point in time, but we will continue to work on ways to increase this ratio.
+*2,3,4, and 6 See the glossary on page 108. SOx, NOx, and soot and dust are calculated using the company’s own formula based on exhaust gas readings and fuel usage amount, among other variables. Since methods of calculating emissions of soot and dust differ among countries, this figure is compiled solely for business sites in Japan at present. COD is calculated based on the measured concentration and drainage volume. Data on overseas COD covers sites that measure COD within drainage. Data for overseas sites are stated separately because the types of oxidant (potassium
+dichromate is mainly used overseas) used for measurement differ from those used in Japan.
+*5 Drainage volume is determined by calculating drainage into sewages based on the breakdown of total usage. Drainage into public water areas is calculated using readings from flow meters installed
+at business sites; while water usage volume is used for business sites without flow meters.
+*7 The volume of hazardous waste found in our total waste volume came to 8,226 t (based on the definitions used by each country). The volume of hazardous waste is not subject to assurance. *8 The volume of products shipped and value of products sold are not subject to assurance.
+Products*8
+367,570 tons
+(Total sales of other products that are difficult to calculate by weight: ¥22,277 million)
+ Category
+ Investment amounts (millions of yen)
+ Emissions control
+  33
+ Energy conservation
+244
+ Waste reduction, recycling, and treatment
+ 4
+ Total
+  281
+   
+      Message from the President
+ Value Creation
+ Business Strategy
+ Environment
+ Social
+ Governance
+ Data
+Medium- to Long-term Environmental Targets and Performance
+ Medium- to Long-term Environmental Targets
+We have established a medium- to long-term environmental plan starting from fiscal 2018 and ending in fiscal 2030, and are promoting activities based on this.
+In particular, we have formulated targets for reducing greenhouse gases that are based on the following.
+·Response to sustainable development needs shared by the international community with 2030 as the target year established in the SDGs approved at the UN Summit in September 2015.
+·Response to the greenhouse gas reduction target for fiscal 2030 indicated in the Japanese government’s INDC in COP21.
+·Response to the Act on the Rational Use of Energy and the Act on Promotion of Global Warming Countermeasures.
+In addition, we are focusing our efforts on the reduction of greenhouse gas (CO2 emissions) linked with the Japan Business Federation (Keidanren)’s Commitment to a Low Carbon Society, which we have participated in through the Japan Chemical Industry Association. Furthermore, as we have done in the past, the amount of material loss (waste and valuable materials) generated is suppressed. By controlling it, we will improve the resource utilization rate and promote the effective use of raw materials. We will also set targets for reducing chemical substance emissions and systematically promote efforts to reduce environmental impact.
+Initiatives at Business Sites in Japan
+We saw reductions that were over and above our expectations in light of the impact that the coronavirus pandemic had in terms of bringing economic activity to a standstill at the end of fiscal 2019. For fiscal 2020, we expect to see increases over fiscal 2019 based on the expected recovery in production activities and the emission factors of our power suppliers.
+Regarding material loss, we are promoting measures to detect and cut down on waste at our plants through MFCA*1 activities at each
+of our business sites. We saw a slight increase in material loss due to the effects of the import restrictions on waste plastics in China and Southeast Asia in fiscal 2019. However, we will institute further measures to reduce the amount of losses that arise, and we expect this to once again begin declining starting from fiscal 2020.
+As for emissions of chemical substances, we had business sites that saw temporary increases in their atmospheric emissions for reasons such as the start of new businesses. These sites achieved substantial reductions by introducing exhaust combustion equipment. We are also making progress on treating the substances subject to the PRTR Act found within said emissions of these same business sites, achieving substantial reductions of 5.5 tons versus the previous year. For fiscal 2020, we will proceed with increasing our efficiency in treating this, and expect to be able to reduce this still further.
+*1 See the glossary on page 108.
+Initiatives at Overseas Business Sites
+CO2 emissions at overseas business sites fell significantly compared to the previous fiscal year due partially to the results of Energy conservation activities at each business site, but also as a result of the coronavirus. For fiscal 2020 our aim is to recover our production activities while at the same time promoting further reductions.
+As for the occurrence of material loss, this was similarly impacted, and thus fell. Moving forward, we will perform monitoring to ensure that no waste arises when our production activities recover via MFCA activities in aiming to reduce this further.
+We reduced emissions of chemical substances compared with last year by operating the exhaust combustion equipment introduced the previous year in a more efficient manner. For the future, we will move forward in reducing our consumption to an even greater extent at each of our business sites.
+▶(t(th(htoChououOsusasan2andndedtt-mC-tC-OCOiO2 s) ions
+138 138
+▶(t(th(hAtohouomususasanoandndudtt)n)t)t of material loss
+▶(t(Ct)()t)hemical substance emissions
+s
+ 2))2 1(1t(6t1h(6hto06ho0uo0ususasanandnddtt-C-tC-OCOO22))2)
+CComompapararerdeddttotoffiisfsicscacalal2l202005055
+(2t(2th(52ht5oho5uoususasanandnddtt))t)
+CComompapararerdeddttotoffiisfsicscacalal2l202005055
+6060(0t(0t)(0)t)
+CComompapararerdeddttotoffiisfsicscacalal2l202005055 5
+  13138388
+51512122 45450500 51512122
+45450500 303000
+303000 15150500
+▶ Amount of material loss
+(t(th(htohouoususasanandnddtt))t) (t(t)()t)
+(t(th(htohouoususasanandnddtt))t) (t(t)()t)
+35355 29299 35350500 27278788 30300 303000
+35355 6060%0%rrerdeduducuctctiitoinonn 35350500
+ CComomp5p50ap50a%r0a%re%erderdrederttdeodotudouffcuicisftscitciscitoaocianolanln2l202005055 5050%0%rrerdeduducuctctiitoinonn
+CComomp8p85ap85a%r5a%re%erderdrederttdeodotudouffcuicisftscitciscitoaocianolanln2l20200505 8585%5%rrerdeduducuctctiitoinonn
+ 16160600 12120200
+12120200 80800
+80800 40400
+40400 00
+00
+▶ CO2 emissions
+(t(th(htohouoususasanandnddtt-C-tC-OCOO22))2) (t(th(htohouoususasanandnddtt-C-tC-OCOO22))2)
+2525 202050
+2020 1251505
+10510550 15015005 050550
+21211 2121
+60600 600
+ 21
+14144
+14144 14144 14144 10100
+1010 10
+   83833 83833
+75755 75755
+79799 79799
+75755 75755
+14144
+14144
+     0505
+17173733
+171373 12120200 10106066 777
+    15150500 00
+173 12120200 101606 106
+   2020 5 20201018188 20201019199 20202020200 20203030300(f(fi(sifsciscacalalyyleyeaearar))r) RResesusulutltlt PlPalalnann TaTarargregetett
+20203030300(f(fi(sifsciscacalalyyleyeaearar))r) RResesusulutltlt PlPalalnann TaTarargregetett
+20201019199
+RResesusulutltlt PlPalalnann TaTarargregetett
+777
+00 202005055 20201018188 20201019199 20202020200 20203030300(f(fi(sifsciscacalalyyleyeaearar))r)
+00 202005055
+202005055 20201018188 20201019199 20202020200 20203030300(f(fi(sifsciscacalalyyleyeaearar))r)
+20201018188
+20202020200
+RResesusulutltlt PlPalalnann TaTarargregetett
+202005055 20201018188 20201019199 20202020200 20203030300(f(fi(sifsciscacalalyyleyeaearar))r)
+RResesusulutltlt PlPalalnann TaTarargregetett
+   202005055 20201018188 20201019199 20202020200 20203030300(f(fi(sifsciscacalalyyleyeaearar))r) RResesusulutltlt PlPalalnann TaTarargregetett
+▶ Chemical substance emissions
+    CComompapararerdeddttotoffiisfsicscacalal2l202005055 CComomp3p33ap3a%r3a%re%erderdrederttdeodotudouffcuicisftscitciscitoaocianolanln2l202005055
+202000 16163633
+202000 33%3%rrerdeduducuctctiitoinonn
+CComompapararerdeddttotoffiisfsicscacalal2l202005055 CComomp6p60ap60a%r0a%re%erderdrederttdeodotudouffcuicisftscitciscitoaocianolanln2l202005055
+CComompapararerdeddttotoffiisfsicscacalal2l20201010100 CComomp6p60ap60a%r0a%re%erderdrederttdeodotudouffcuicisftscitciscitoaocianolanln2l20201010100
+       15150500 163
+15150500 15150500
+13137377 13136366 13137377 13136366
+2929 25255 29
+6060%0%rrerdeduducuctctiitoinonn
+163 15150500
+110100
+30300
+25250500 278 303000 278
+    101000 101000
+110100 25255 13133
+15155 12122
+25250500
+13137377 13132322 13137377 13132322
+20200
+202000
+  111 111
+55
+00 202005055 20201018188 20201019199 20202020200 20203030300(f(fi(sifsciscacalalyyleyeaearar))r)
+RResesusulutltlt PlPalalnann TaTarargregetett
+202005055 20201018188 20201019199 20202020200 20203030300(f(fi(sifsciscacalalyyleyeaearar))r)
+RResesusulutltlt PlPalalnann TaTarargregetett * For definitions and the calculation method of CO2 emissions, material loss, and chemical substance emissions, refer to page 104.
+12122 15150500
+112122 110100 110
+ 20200
+10100 13133
+202000
+  50500 50500
+12122 151050 150
+112122 110
+20201010100 20201018188 20201019199 20201019199 20203030300(f(fi(sifsciscacalalyyleyeaearar))r)
+RResesusulutltlt PlPalalnann TaTarargregetett
+20201010100 20201018188 20201019199 20201019199 20203030300(f(fi(sifsciscacalalyyleyeaearar))r)
+RResesusulutltlt PlPalalnann TaTarargregetett
+15155 12122 55
+101000
+     00
+00 202005055
+10100 00
+50500 101000
+   RResesusulutltlt PlPalalnann TaTarargregetett * See the business sites listed on page 3 about the boundary.
+20203030300(f(fi(sifsciscacalalyyleyeaearar))r) RResesusulutltlt PlPalalnann TaTarargregetett
+00 50500
+20201018188
+202005055 20201018188 20201019199 20202020200 20203030300(f(fi(sifsciscacalalyyleyeaearar))r)
+20201019199
+20202020200
+00
+* The total of the 35 substances subject to the PRTR Act included in chemical substance emissions released by our Group’s sites in Japan amounted to 5.5 tons and the total amount transferred amounted to 99 tons. For details of the transfer and release of substances subject to the PRTR Act, refer to the Data Section on page 106.
+46

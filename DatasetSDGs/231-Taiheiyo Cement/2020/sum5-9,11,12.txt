@@ -1,0 +1,128 @@
+ The Environment
+Recycling Waste and Other Materials GRI103-2, 3, 203-1, 413-1 Closely Related SDGs
+   Resource Recycling with Industries
+鼓Electric Power Utilities
+We accept coal ash produced at coalfired power
+plants and use it as a substitute for clay as a raw
+material in cement. In addition, we operate ash
+centers* to use more ash effectively. We also supply
+the power plants with limestone powder which is
+used as a flue-gas desulfurization material to scrub
+the harmful sulfur oxide from the exhaust produced
+by the burning of coal. The reaction of the flue-gas
+desulfurization material with sulfur oxide forms
+gypsum, which we use effectively as a raw material
+for cement.
+*Ash centers are distribution sites with collection/transportation (transshipment and storage) and intermediate-processing (powder mixing) functions. They receive coal ash from coal- fired power plants and ensure a stable supply to our cement plants, while enabling effective utilization of coal ash and supplying diverse products that meet user needs.
+鼓Steelmakers
+In the iron and steelmaking process, impurities are removed from iron ore to make iron. We supply the limestone powder and quicklime used as purifying materials in the refining process. We also use by-products such as blast furnace slag and steel slag that remain after the refining process as raw materials for cement and mineral components.
+鼓Construction Soil
+Conventionally this soil had been dumped
+into landfills. By making effective use of it as an alternative raw material for cement we contribute to the material recycling of construction soil as well as to the extension of the lifetime of landfills. We have also set up intermediary facilities that organically link sites where construction soil is produced to our nationwide plants.
+Resource Recycling with Communities
+Although most municipal waste is incinerated and the ash is buried in landfills, finding new landfill
+sites has become very difficult. Waste treatment has particularly become a source of concern for Japan’s major city governments and the situation is expected to get worse. We have three systems for recycling municipal waste and strive to make effective use of such resources and resolve environmental issues.
+● Incineration Residues Recycling System
+A system for recycling municipal waste incineration ash (bottom ash and fly ash) as a raw material for ordinary Portland cement.
+● AK System
+A system for recycling household waste and general business waste as alternative raw materials and fuels for cement manufacture. The waste is pre-processed through biological breakdown (fermentation) using a waste recycling kiln.
+● Ecocement System
+Ecocement is a new type of cement made primarily from the municipal waste incineration ash. More than 500 kg of ash and other waste materials are used per tonne of Ecocement.
+Mineral Resource Cycle with Electric Power Utilities and Steelmakers
+  Limestone Limestone powder,
+  Thermal Power Plant
+quicklime
+Cement Plant
+Steel Mill
+Slag, iron slag, blast furnace dust, etc.
+Ash
+Ash Center
+Gypsum
+powder
+     Municipal Waste Recycling Systems for Cement Production
+Portland Cement Plants
+ AK System
+Municipal waste is recycled at cement plants as fuel and raw material for ordinary Portland cement.
+Recycling System for Incineration Residues
+Municipal waste incineration ash is recycled at cement plants as a raw material for ordinary Portland cement.
+    Community Municipal waste Incineration plant
+Incineration residues from municipal waste
+Ordinary Portland cement
+Taiheiyo cement
+Ecocement
+Ecocement
+ Ecocement Plant Ecocement System
+Incineration residues from municipal waste are recycled as raw materials for Ecocement
+      Ready-mixed concrete plants
+Concrete products manufacturing plants
+ 66 TAIHEIYO CEMENT REPORT 2020
+    Special Feature Business Activities Governance Collaborating with SocietyPerformance of Recycled-Waste-to-Cement System GRI301-1, 2
+All of our directly operated cement plants in Japan recycle waste and by- products into alternative raw materials and fuels for cement. This helps to extend the lifetime of landfills, prevent the depletion of natural mineral resources, limit greenhouse gas emissions and reduce emissions of pollutants into the atmosphere.
+In FY2020 we recycled 6.387 million tonnes of waste and by-products, a decrease of approximately 178,000 tonnes compared to the amount in FY2019 This was due to a decrease in the amounts of blast furnace slag, by- product gypsum, unburned ash, soot and dust we accepted, which offset the increased volumes of coal ash, waste plastic, waste oil, water treatment plant sewage sludge and ash. This means we recycled 409.5 kg of waste and by- products per tonne of cement produced.
+In addition, all of the group’s cement plants in Japan accept waste and by-products for recycling.
+Trends in Use of Waste and By-products per Unit
+Production
+Non-consolidated
+ (kg/t-cement) 500
+407.4 404.2 413.4 409.4 409.5 267.3
+  400
+300
+200
+100
+0 2001 2016 2017 2018 2019 2020 (FY)
+         Waste and By-products Used in the Cement Manufacturing Process
+Raw mill
+Trucks Ships
+Freight cars
+    Limestone
+Rotary kiln
+Burning Process
+After preheating, the materials are burned in a rotary kiln. The resultant material is then rapidly cooled to form an intermediate product called clinker.
+Finish mill
+Finishing Process
+A small amount of gypsum is added to the clinker and ground in the finish mill to produce cement.
+Non-consolidated
+    Various kinds of materials
+Transportation
+The cement is then transported by ship, truck or railway freight car.
+      RawMaterialPreparationProcess
+Limestone, iron wastes, etc., are mixed together, dried and ground in a raw mill.
+Waste and by-products used
+        Raw materials
+Blast furnace slag, coal ash, dirt and sludge, non-ferrous slag, steelmaking slag, construction soil, molding sand, etc.
+Raw materials
+Incineration residues from municipal waste, sewage sludge, etc.
+Fuels
+Waste oil, waste plastic, used tires, wood chips, scrap pachinko machines, RDF (municipal waste), recycled oil, BOF
+Gypsum
+FGD gypsum, chemically derived gypsum, etc.
+Mineral components
+Slag powder, fly ash, etc.
+ Waste and By-products Used in Cement Plants (FY2020)
+Reference: Resources needed to produce one tonne of
+cement
+Limestone:
+Clay:
+Silica:
+Iron, etc.:
+Gypsum:
+Coal, etc.:
+Electric power: 107.0 kWh
+1,194 kg 228 kg 71 kg 28 kg 39 kg 111.2 kg
+ Waste and By-products
+Total Amount (t)
+Rate (kg/t-cement)
+Industrial
+Coal ash (including JIS fly ash)1,988,807127.5Blast furnace slag
+1,145,277
+73.4
+By-product gypsum509,22032.6Unburned ash, soot emissions, dust503,35032.3Dirt and sludge
+383,618
+24.6
+Construction soil228,44214.6Waste plastic180,88911.6Waste oil155,43010.0Wood chips
+73,721
+4.7
+Other666,70442.7Subtotal5,835,458
+374.1Household
+Water treatment plant sewage sludge and ash380,93824.4Municipal waste incineration residues142,1349.1Municipal waste, etc.28,4681.8Subtotal551,539
+35.4Total6,386,997409.5Raw material-related5,808,924372.4Fuel-related578,07337.1     TAIHEIYO CEMENT REPORT 2020 67

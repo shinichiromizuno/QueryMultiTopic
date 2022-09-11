@@ -1,0 +1,68 @@
+Quality Assurance  GRI103-2, 3
+Quality Policy
+In 1998, the year of Taiheiyo Cement’s inception, we established a quality policy based on our management policy. We revised the policy by incorporating a visual description of the code
+of conduct. Through those efforts we have since continually raised awareness of the policy across the organization. It represents our aspiration to continue to be a company that customers trust and rely on by sharing a sense of achievement through each employee’s actions and by providing high- quality products and services, leveraging our high technological capabilities and quality assurance system.
+Quality Policy
+All of our employees adopt a global perspective, striving to boost customer satisfaction and contribute to society by providing environmentally-friendly products and quality that matches our customers’ needs.
+In order to achieve the aims of our policy
+quality management systems. Furthermore, all of our overseas cement plants in countries that adopt ISO have obtained ISO 9001 certification. To ensure product quality and improve business operations, we obtained ISO 9001 (JIS Q9001) certification from the Japan Testing Center for Construction Materials. The scope of our certification encompasses the development, design and production of a range
+of cement, cement clinker and cement-based soil stabilizer products.
+We will continue to fully apply the ISO 9001 approach in addition to our own quality management system (QMS) and enhance initiatives to strengthen our ability to continually provide ISO 9001-compliant products and deliver greater customer satisfaction.
+facility to protect the environment of the surrounding area as well as that inside the plant.
+We have already established fixed standards
+for the management of heavy metals contained in natural resources, and are constantly enhancing
+the control of minor components as the volume of waste we receive increases. When we receive new types of waste or waste from new sources we strictly apply rules under which we conduct three kinds
+of inspection related to the source of the waste, its chemical composition and the results of trial use to identify any potentially negative impact on product quality or the surrounding environment. We will then make a final decision on whether to receive the waste. These measures help us ensure product safety.
+Ensuring Product Safety Following a Nuclear Accident
+ GRI416-1, 417-1
+As a consequence of the nuclear accident at the Fukushima Daiichi Nuclear Power Station of Tokyo Electric Power Company Holdings, Inc. in 2011,
+we discovered that some industrial waste used for making cement contained specified radioactive material. We have established a system to ensure
+that the radioactive concentration in cement shipped from our plants is below the safety limit* set by the Japanese government by strictly controlling the radioactive concentrations in raw materials and fuels for cement. In the interest of full disclosure we post the measurement results on our website every month.
+* The Japanese government set a limit of 100 Bq/kg as the safety standard for radioactive concentrations in cement, effective from May 2011.
+Please see our website for more information about radioactive concentrations in our products.
+https://www.taiheiyo-cement.co.jp/news/sokutei.html (Japanese only)
+Provision of Information Using SDS and Labeling  GRI417-1
+To ensure the safety of cement users we prepare Safety Data Sheets which contain hazard identification details and make these sheets available on our website. GHS labels are also attached to bags and flexible containers.
+Relevant SDGs
+ Minor Components of Ordinary Portland Cement (Unit: mg/kg)
+❶ We develop specific product quality targets based on our Quality Policy, and disseminate them within the company.
+Sales
+Quality requirements
+Sales Division
+Technical Services
+Products and technical services
+Distribution Shipping inspection
+Production Division
+❷ We focus our efforts and work positively to achieve the quality targets.
+Research & Technology Development Division
+Clarify quality requirements
+Review quality requirements Quality design in accordance with quality requirements Prototyping and evaluation
+Material Procurement
+ Management of production conditions
+❸ We carefully review the levels of customer satisfaction and product quality that have been achieved.
+ Building quality into the process  In-process inspections
+Acceptance inspection
+❹ We implement a quality management system and continually improve our products.
+Quality Assurance Initiatives and Quality Management System
+ GRI416-1
+We focus on stabilizing and improving product quality while capitalizing on the production and quality control technologies we have developed over the years. We are further enhancing product quality control by capitalizing on advanced technologies to ensure improved stability such as an online analysis system for raw materials, clinker and cement, the measurement of clinker minerals by X-ray diffraction and our proprietary Taiheiyo Cement Quality Predictive System (TQPS). Via measures such as making effective use of industrial waste, we aim for cement production that pays due attention to the conservation of the global environment.
+All of our Portland cement plants in Japan, including those of group companies, have obtained ISO 9001 certification, the international standard for
+Safe Cement and Cement Products
+(mg/kg) 700
+600 500 400 300 200 100
+90 80 70 60 50 40 30 20 10
+1 0.8 0.6 0.4 0.20
+* Numerical values are our averages for FY2021 609
+267 66
+8.0
+Fluorine Total Water-soluble Zinc Lead Copper Arsenic Selenium Cadmium Mercury chromium hexavalent
+chromium
+Quality Management System Customer
+Average Lead Max.
+Copper
+Arsenic Selenium Cadmium Mercury
+ GRI416-1
+Today every product is expected to be safe;
+as a construction material that is indispensable
+for developing social infrastructure cement is no exception. The cement industry has long made use of industrial waste and by-products such as blast furnace slag, coal ash and by-product gypsum as substitutes for natural mineral resources. Furthermore, using technologies we developed to recycle household waste, such as the AK system to recycle municipal waste and our incineration residue recycling system, we also recycle construction-related soil and waste materials into raw material and fuel for cement production. When our cement plants accept
+waste we prevent its dispersal and minimize the release of odor by transporting the waste in a tightly sealed panel truck and storing it in a fully enclosed

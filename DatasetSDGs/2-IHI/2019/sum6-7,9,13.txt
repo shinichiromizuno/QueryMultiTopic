@@ -1,0 +1,51 @@
+46 
+Value-creation Strategy 
+
+Topics 
+Launch of Smart Community businesses for sustainable local production for local consumption 
+Photovoltaic power and other renewable energies are being introduced at an accelerated pace worldwide to help counter global warming and realize a carbon-free society. 
+But since the amount of photovoltaic power generation fluctuates greatly depending on the weather, time of day and season, power transmission sometimes exceeds the capacity to the ready-made power grid system. Such situations present the risk of large-scale power failures. Accordingly, resolving such disruptions in stable power supply is a key issue. 
+With the cooperation of Soma, Fukushima Prefecture, the Soma IHI Green Energy Center have been launched in April 2018. With the aim of realizing “local production of renewable energy for local consumption” — that is, consuming as much generated renewable electric power as possible within the local community — as well as contributing to the development of the local area community. 
+The center supplies photovoltaic power to nearby sewage disposal plants, etc. and converts surplus electricity into steam and hydrogen to maximize usage of the power it produces. 
+Foundation for Sustainable Data 
+Growth 
+    
+Soma City 
+Smart Communities through local 
+production of renewable energy 
+for local consumption —Newly opened Soma IHI Green Energy Center— 
+
+Monitoring of the energy management system control room 
+Fukushima 
+Manufacture of biomass fuel from an unused resource 
+Sludge generated in sewage disposal plants is an industrial waste, so its disposal cost presents a problem. However, steam produced with the center’s surplus electricity can be used in a drying process to remove moisture in the sludge and reduce its mass, lowering the disposal cost significantly. 
+Moreover, dried sludge formed into pellets can be sold as biomass fuel, which promises to reduce the disposal cost further and create a new business in the local region. 
+Hydrogen production for strengthening of disaster prevention 
+The center is home to Japan’s largest fuel-cell power- generation facility, which supplies electricity to the Reconstruction Support and Meeting Center, which becomes Disaster Preparedness Headquarters in Emergencies. In addition, the center has a hydrogen research facility for open innovation aimed at furthering the use of hydrogen as a valuable resource. Activities also include plans to hold hands-on learning events for elementary and middle school students. Through this initiative, IHI is contributing not only to the stable supply of clean electricity, but also disaster preparedness and regional development, working in harmony with its host community. 
+Achieve SDGs by providing products and services. 
+ 
+Conceptual image of the Soma IHI Green Energy Center 
+
+Local consumption of surplus locally produced electric power 
+ 
+Hydrogen research facility 
+Sewage disposal plant 
+Storage battery 
+Photovoltaic power generation 
+Zero backfeed to ready-made power distribution grids 
+Hydrogen 
+Steam 
+FCV 
+Fuel cell vehicle (FCV) 
+Fuel cell 
+Ammonia Methane 
+Research on conversion/usage 
+Sludge 
+Power transmission during emergencies 
+Pellets 
+RSMC & DPHE Center (the Reconstruction Support 
+and Meeting Center, which becomes Disaster Preparedness Headquarters in Emergencies) 
+Biomass fuel Farming fertilizer, etc. 
+          
+Sewage sludge drying equipment 
+Drying 

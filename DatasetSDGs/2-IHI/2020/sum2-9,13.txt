@@ -1,0 +1,121 @@
+
+Value Creation Story 2 Mitigation of Climate Change (Part 2) 
+   
+Creating Prosperity in Daily Life environmental performance. 
+The IHI Group will contribute to reduction of CO2 emissions and enable 
+safe and clean air transport with a new aircraft system that improves 
+Solutions 
+The IHI Group is taking a multifaceted approach to reduction of CO2 emissions from aviation. This includes lighter aero engine components, electrification of aircraft and aero engines, development of algae biofuel, and support for operational optimization through digital twins. 
+ 
+Electrification 
+• Autonomous air- cooling system 
+• Engine embedded electric machine 
+• Metering-integrated fuel-feeding electrification Schematic diagram of aero engine 
+(image) 
+• Support optimization of aircraft operation with digital twin simulation 
+Operating data 
+Prediction 
+Sensors and diagnosis 
+Value Offered to Society 
+We will contribute to the achievement of a 50% reduction in net aviation CO2 emissions from 2005 levels by 2050, the goal set by the International Air Transport Association (IATA), while facilitating the smooth and economical flow of people and goods. 
+Lighter weight and higher heat resistance 
+
+• Carbon fiber reinforced plastics (CFRP) fan cases and fan blades 
+• Ceramic matrix composite (CMC) turbine blades* 
+* Conducting joint research in JAXA’s En-Core Project (FY2018–2023) 
+Bio-jet fuel 
+• Production of bio-jet fuel using oil extracted from fast-growing microalgae 
+Fan cases 
+  
+Forecast of CO2 Emissions from International Aviation and Conceptual Illustration of Emissions ReductionTargets 
+(Mt-CO2) 
+2,000 1,800 1,600 1,400 1,200 1,000 
+800 600 
+2010 2020 Source: Ministry of Land, Infrastructure, Transport and Tourism 
+(Sept. 20, 2016 press release) 
+Digital twins 
+  
+15 
+If no measures are taken 
+Market-based mechanism 
+Use of biofuels 
+Reduction with use of alternative fuels and market-based mechanism 
+Reduction with new technologies and operational improvements Microalgae 
+  
+
+2020 level 
+2030 2040 
+Social Issue 
+In the aviation industry, while demand for air transport is falling due to the COVID-19 pandemic, the industry continues to regard the implementation of climate change countermeasures as an issue it should prioritize. 
+According to a survey by the Japan Aircraft Development Corporation, the annual amount of CO2 emitted by international air transport is 560 million tons (figure for 2016), which is estimated to be approximately 1.7% of the 32.8 billion tons of CO2 emitted worldwide. 
+In terms of CO2 emissions from international aviation, the general assembly of the International Civil Aviation Organization (ICAO) established a global goal of carbon- neutral growth from 2020 onwards. 
+ 
+s 
+t 
+n 
+e 
+m 
+e 
+v 
+o 
+pr 
+m 
+li 
+s 
+l 
+na 
+e 
+io 
+d 
+o 
+at 
+m 
+er 
+p 
+w 
+e 
+O 
+n 
+of 
+Adoption 
+
+
+  
+CASE STUDY 1 Enabling safe and clean air transport with electrification of aircraft 
+Cooling system for power electronics 
+Electric fuel system 
+Air conditioning and cabin pressurization control system 
+ 
+One global-scale climate change goal is the reduction of CO2 emissions from aircraft. The IATA has set the target of reducing net aviation CO2 emissions by 50% from 2005 levels by 2050. Achieving that will require not only conventional technological improvements, but all-new aircraft systems that radically improve environmental performance while maintaining safety and economic efficiency. 
+IHI launched the MEAAP (More Electric Architecture for Aircraft and Propulsion) project in 2012 with domestic aviation-related companies, and is conducting research and development aimed at practical application in the 2030s. 
+The biggest challenge is development of a large-capacity electric motor-generator that can handle the necessary 
+increase in power consumption. IHI is developing an engine embedded electric machine,1 which achieved a rated output of 250 kW in ground tests in February 2020. In May 2020, we completed the world’s first successful evaluation test of an air cooling system for 100 kW-class power electronics.2 In addition, we will optimize the system by linking it with electrification of the fuel system and the air conditioning and cabin pressurization control system, which are currently under development. 
+IHI will further develop advanced technologies and aims to establish a new position in the aircraft industry, and thereby better contribute to mitigation of climate change through total energy management of aircraft. 
+Engine embedded electric machine 
+ 
+1. A motor-generator with excellent heat resistance that connects directly to the engine to provide the large amount of electric power needed by an electrified aircraft. It is mounted inside the tail cone of the engine. 
+2. A clean, efficient cooling system for cooling power electronics (semiconductor- based electronic power conversion and control systems) that uses cabin air, which is typically emitted as exhaust outside the aircraft, instead of a conventional cooling system that uses cooling water, etc. 
+  
+CASE STUDY 2 Bio-jet fuel manufactured from microalgae receives international standards certification 
+Cultivation 
+Sunlight 
+Photosynthesis 
+CO2 
+Drying 
+Dry algae 
+Extraction 
+Algal oil 
+Reformation 
+Built-in systems for cabin air-conditioning and for engines 
+      
+To reduce CO2 emissions related to air transport, there is a worldwide need for development of renewable alternative aviation fuels. IHI, under the consignment from the New Energy and Industrial Technology Development Organization (NEDO), is undertaking a project to develop technology for stable production of bio-jet fuel from fast-growing microalgae (hyper-growth Botryococcus braunii).3 
+The project, which started in FY2017 has seen the progression of algal culture tests in Kagoshima Prefecture, Japan and Saraburi Province, Thailand targeting future commercialization. We have also been developing an integrated process for reforming oil extracted from the 
+algae to manufacture fuel. We are the first Japanese corporation to apply for and 
+obtain ASTM D7566 Annex 7 standardization approval. Fuel that conforms to this standard can be mixed as is with existing fuels, meaning that engines and fuel supply infrastructure would need no modification. 
+Based on the progress of this technology development, we aim to quickly begin commercial production of bio-jet fuel. In FY2020, we plan to supply our fuel for use in the aircraft of domestic regular airline routes for commercial demonstration flights. 
+3. Strain owned by GGT Corporation 
+Pilot-scale test facility in Thailand 
+
+Bio-jet fuel 
+
+16 

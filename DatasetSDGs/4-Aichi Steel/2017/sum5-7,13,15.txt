@@ -1,0 +1,176 @@
+Priority Issue5 
+
+Strengthening Efforts toward Manufacturing in Harmony with the Global Environment 
+ISO 26000 6.5 Environment SDG 
+ 
+relevance 
+relevance 
+
+Materiality 
+The Aichi Steel Group has established medium- to long-term targets around three environmental issues—building a low-carbon society, building a resource-recycling society and coexistence with nature—and is working to achieve those targets. Through these efforts, we are achieving effective use of energy and resources and, through harmony between the global environment and manufacturing and by providing products and services with low environmental burden, contribute to the sustainable growth of society and our world. 
+
+
+Environment management 
+■ Environmental activity promotion system 
+The Behavior Guidelines on Environmental Issues (current Environmental Action Plan) was established in June 1993, and the Aichi Steel Environmental Charter was developed in June 1996, together with which we continuously and actively aim to achieve our goals. 
+In light of increasing global trends to prohibit, restrict, or manage certain chemical substances in products, in February 2016 we revised the Aichi Steel Environmental Charter and our management structure in order to strengthen our chemical substances management. 
+As the overall promotion organization, the Environmental Working Group is promoting a variety of activities for environmental conservation through its four subcommittees, the Global Warning Prevention Committee and the Aichi Steel Group Environmental Committee. It is also providing guidance toward achieving our aim of all consolidated subsidiaries with manufacturing sites acquiring ISO 14001 certification. 
+91 
+■ 2020 Environmental Action Plan 
+We formulated the Aichi 2020 Environmental Action Plan, a statement of policies and plans for environmental actions from fiscal 2016 to fiscal 2020. The plan adopts three core themes for the direction of our environmental action based on environmental management: building a low-carbon society, building a resource- 
+■ Educating internal environment auditors 
+With the aim of moving toward ISO 14001:2015 certification, 80 of the 216 internal environment auditors, who support the efficient operation of the environmental management system, have acquired 2015 certification. 
+■ Environmental audit results 
+  
+Percentage of consolidated subsidiaries with ISO 14001 certification 
+% 
+00 
+Major non-conformance incidents 
+Major non-conformance incidents 
+recycling society and coexistence with nature. By reinforcing management from a global perspective that extends to consolidated subsidiaries, we are contributing, as a sustainable company, to society and the global environment. 
+
+Building a low-carbon society 
+Evaluation 
+	1.	Encourage development of eco-products and technologies ○  
+	2.	Reduction of CO2 emissions through the use of renewable energy △*1  
+	3.	Thorough implementation of energy conservation practices in production activities ○  
+	4.	Seeking better transportation efficiency in logistics ○  
+*1 Due to the effects of the January 8 incident 
+Building a resource-recycling society 
+Evaluation 
+	5.	Reduction of by-products during production and further effective utilization of resources ○  
+	6.	Promotion of projects that benefit resource-recycling corporations ○  
+	7.	Reduction and effective use of packaging materials in logistics operations ○  
+	8.	Reduction of water use in production activities ○  
+  
+33 AICHI STEEL REPORT 
+Low-carbon society 
+Resource Coexistence recycling with nature 
+
+Management 
+Results of internal audits 
+Coexistence with nature 
+Evaluation 
+Results of audits by external auditors 
+9. Promotion of activities for preservation of nature and biodiversity ○ 
+
+Environmental management 
+Evaluation 
+	10.	Promotion of activities for zero abnormalities and complaints ○  
+	11.	Enhancement of consolidated environmental management ○  
+	12.	Reduction of emissions to contribute to improvement of urban air quality in each country and region ○  
+	13.	Promotion of environmental activities in coordination with business partners ○  
+	14.	Further reinforcement of global employee training and educational activities ○  
+	15.	Active disclosure of environmental information and enhanced communication activities ○  
+
+Initiatives building a low-carbon society 
+
+■ FY2016 targets and results Based on the Aichi 2020 Environmental Action Plan, 
+we pursued reductions in carbon dioxide to achieve the targets of the Japan Iron and Steel Federation’s Low-carbon Society Plan (Phase 1). We set our internal targets at even higher levels and took action, but we were unable to avoid the effects of the January 8 accident, and we did not achieve those targets. 
+■ Breakdown of energy used in FY2016 (CO2 emissions) 
+Oxygen 1.9% Heavy oil class A 1.1% 
+Coke 6.6% City gas 
+29.1% 
+Total CO2 emissions 636,000 t-CO2 
+Other 
+0.6% 
+Electricity 
+60.7% 
+   
+■ Factors behind changes since last fiscal year 636,000t-CO /year 
+(+34,000 tons year-over-year) 
+■ Measures to raise productivity and promote energy savings through 4S re-engineering* 
+Total CO2 emissions 
+ 
+We continue to undertake 4S Re-Engineering in order to raise productivity while promoting energy savings through all processes from steelmaking, which is an upstream production process, to rolling, refining, and forging. Bloom rolling re-engineering has been conducted since February 2015 and process streamlining was completed in February 2016 as a first step, resulting in higher productivity and yields and reducing heating furnace fuel consumption per unit of production. 
+Bloom rolling re-engineering 
+*Simple, Slim, Short and Straight process innovations 
+Heating furnace 7.3 fuel consumption per unit of production % decrease 
+2 
+Positive improvements 
+	1.	Electric furnace energy balance changed (increase in aluminum dross), etc. 4,300 t-CO2/year  
+	2.	Productivity increased by re-engineering the bloom rolling process (reduced furnace loss), etc.  
+3. Efficiency improvements in forging furnaces (IH furnaces) 
+4. Consolidated lines by converting stainless steel 
+furnaces for general use, etc. Total 11,100 t-CO2/year 
+3,700 t-CO2/year 
+1,500 t-CO2/year 
+1,600 t-CO2/year 
+Productivity 
+% increase 
+Negative factors 
+1. Effect of accident at No.2 Bar Furnace 
+(reduced efficiency of furnace) 
+2. Steel plant environmental measures 
+3,300 t-CO2/year 
+3. Increased emissions dye to increased production 
+40,000 t-CO2/year 
+Total 45,100 t-CO2/year 
+7.0 
+(CO2 equivalent: 5,900 t-CO2 reduction since fiscal 2015) 
+1,800 t-CO2/year 
+  
+Steelmaking (smelting & hardening) 
+Rolling (profile rolling) 
+Finishing (inspection) 
+Forging (striking) 
+Forging re-engineering 
+(1) Construction of 4,500 t forge press line for crank shafts 
+Completed in April 2015 
+(2) Construction of hot forging press line for CVTs 
+Completed in February 2016 
+
+Part 1 
+Part 2 
+        
+Scrap Electric Arc yard Furnace 
+Refining (LF/RH degasification) 
+(EAF) 
+Large-section continuous casting (3CC) 
+Product Blooming/ rolling 
+Product finishing 
+Secondary finishing (heat treatment & secondary processing) 
+large-shape rolling 
+Forging 
+   
+Part 4 
+Part 1 
+Part 2 
+Part 3 
+       
+(4) Steel-making re-engineering 
+Underway since May 2016 
+(1) Construction of large-section continuous casting (No. 3 CC) 
+Completed in June 2011 
+(2) Bloom rolling re-engineering 
+Underway since February 2015 
+(3) Refining re-engineering Underway since October 2015 
+
+Steel product re-engineering 
+AICHI STEEL REPORT 34 
+Priority Issue5 
+Initiatives to develop a recycling-based society 
+■ FY2016 targets and results 
+
+In fiscal 2016 we reduced production volumes and promoted recycling in compliance with the Guidelines on the Aichi Prefectural Ordinance on Appropriate Use of Recycled Resources. We have achieved a 96.8% byproduct recycling rate, but we seek to make even further improvements. It is difficult to recycle the remaining byproducts both technologically and in terms of cost, but we are developing additional recycling technologies and working to meet society’s expectations for recycling technology while contributing to a sustainable global environment 
+■ Contributions to end-of-life vehicle recycling 
+In accordance with the End-of-Life Vehicle Recycling Act, which came into effect in 2005, the Toyota group has been working towards total recycling. Aichi Steel is cooperating with Toyota Metal Co., Ltd. to improve recycling and develop recycling technology for glass parts, which have been the most difficult. 
+We introduced silica sand into steelmaking slag generated in electric furnaces as a slag settling agent, but we focused on the similarities between silica sand and the glass components and made it possible to achieve the same effects by mixing silica sand with waste glass, and it is now possible to recycle waste glass as an electric furnace byproduct. 
+As a result, the end-of-life vehicle recycling rate increased to 99.8%. 
+5,114 3,318 
+t/year t/year 
+Direct landfill Indirect landfill 
+ 
+Measures to promote coexistence with nature 
+▲Waste glass from cars was previously difficult to recycle due to its specialty components and color 
+* Slag settling agent: An electric furnace byproduct that is added to control the slag components, reduce the temperature as a cooling material, and curtail explosive boiling. 
+
+■ Basic policy 
+We understand the concept of COP 10 (tenth meeting of the Conference of the Parties to the Convention on Biological Diversity) and participate in activities to preserve biodiversity by promoting the structuring of an ecosystem network through public and private sector cooperation, and fostering next-generation individuals capable of working to preserve the earth's environment. We have been working on forestation and volunteer employee activities, and will continue with projects to protect the ecosystem. 
+■ Participation in All-Toyota Green Wave Project activities 
+Aichi Steel is participating in the All-Toyota Green Wave Project activities being implemented by the Toyota group and other affiliated companies as part of efforts to coexist with nature. This project includes a range of activities to “connect communities toward harmony with nature”. We are undertaking activities that contributing to increased restoration of ecosystems by connecting people with other people and activities and linking habitats. 
+■ Forestation to create a forest for beetles 
+Since 2012, we have been helping plant a deciduous broadleaf forest to create an environment in which beetles and other creatures can live their natural life cycles. We have been working with the Chita Peninsula Biodiversity Network Promotion Council and members of the Student Action Committee NPO to grow the trees. In fiscal 2016, we weeded and irrigated areas that were previously planted, and we also held a “Forest 2” event where employees and their families participated in tours of leading biodiversity companies, nature craft activities, collecting acorns, preparing seedlings and planting trees. 
+▶Student Action Committee involved in nature craft activity 
+
+35 AICHI STEEL REPORT 

@@ -1,0 +1,97 @@
+ What the Kyushu Financial Group Aims to Achieve
+Digital Transformation Initiatives Aimed at Digital Society
+The social environment is changing drastically due to the dramatic advance of digital technology. These changes are expected to accelerate further with shifting lifestyles driven by the COVID-19 pandemic, further declining birthrates and an aging population, and the entry into society of the digital-native Generation Z. In order to respond swiftly to changes in the environment, the Group has established “promoting DX toward a digital society” as a basic digital strategy. Under this strategy, we will take strong action toward digital transformation from the dual aspects of improving productivity through internal process reforms and of providing new experiences and services for our customers and communities, including reforming our cus- tomer touchpoints.
+Initiatives for the Regional Shift to Digital
+Local areas face issues like population decline, declining birthrates, and aging population. Along with the economic impact from the spread of COVID-19, the future outlook is uncertain.
+Amid these environmental changes, we are focusing our efforts on ICT consulting for our customers who do business in the region, including support for implementing telecommuting, and support for implementing RPA in Group collaboration with think-tanks. In ad- dition, we have introduced the Big Advance management support
+About the KFG Smartphone App
+We have begun development of a Group-wide finance app target- ing primarily digital native customers in the region, with functions such as improved convenience when opening new accounts and household budget management. Going forward, we will enhance non-financial functions rooted in the needs of the region, build up a
+App Features
+Opening ordinary deposit accounts Household budget planner Deposits by purpose Recommendations
+platform to strengthen non-face-to-face communication in re- sponding to funding procurement, personnel shortages, adapting to the shift to digital, and other diversifying challenges faced by our customers who are doing business.
+Furthermore, we are taking action to vitalize the region, such as launching digital regional promotion vouchers and a version of the hometown tax payment portal site for enterprises, for the purpose of assisting municipality efforts for local revitalization.
+digital platform that serves as an ecosystem for the region with the collaboration and integration of many business operators, and de- velop services that contribute to the resolution of challenges faced by the region and to its development.
+Building a Regional Digital Platform
+The Group is working to strengthen the func- tions of its non-face-to-face services, such as our traditionally popular ATMs, as well as ap- plying digital technologies for our sales branches, which are important touchpoints with our customers. We are also taking ac- tion to develop smartphone apps which are expected to become even more important, evolve the functions of our omnichannel contact center, and enhance the functional- ity of our electronic payments, which in- crease convenience for our customers.
+Our regional digital platform creates links via digital technologies between channels and between each channel and regional customers. It accumulates and utilizes data to enhance the level of our services.
+Implementing Digital Technology in Customer Touchpoints
+We are working toward the adoption of digital technologies in trans- actions at physical branches, including the use of branch tablets to cut out paper and physical stamps and seals from these transactions, reducing the customer’s burden in filling out documents and miti- gating our environmental burden.
+By having the customer use tablets to directly enter content re- quired for the various forms needed for deposit transactions and no- tifications, we reduce the hassle of form entry, stamping, and signing.
+This also leads to significant reduction in bank employee opera- tions related to these various procedures, leading to more efficient sales branch clerical operations. We will strive to strengthen our customer touchpoints
+Regional customers
+e
+l
+c
+y
+c
+e
+C
+u
+s
+f
+t
+o
+i
+m
+l
+e
+r
+r
+l
+e
+i
+f
+e
+c
+m
+y
+c
+o
+l
+t
+e
+s
+u
+C
+by evolving our sales branches from places focused on clerical pa- perwork to places where we can build stronger links with our customers.
+Digital Branch Transactions
+from their homes and workplaces, which will im- prove their convenience.
+Non-Face-to-Face Services
+*Smart Code is a scheme whereby JCB provides unified payment information processing center and affiliate merchant contract processes linking code payment operators and merchants. This leads to reduced burden for the operators and merchants and safe and secure payment for consumers.
+45 Kyushu Financial Group - Integrated Report 2021
+Kyushu Financial Group - Integrated Report 2021 46
+Reduced form burden (Paperless)
+Reduced paperwork strengthens customer touchpoints
+Enhanced ATM functions
+Remote consultation desk
+Branch channels
+©2010 Kumamoto Prefecture, Kumamon #K20448
+Electronic payment
+Contact center
+Non- face-to-face
+Regional shift to digital
+Regional digital platform
+Smartphone apps
+eKYC (electronic identity verification)
+Improved convenience in household budget management through tracking of account activity Supporting customers achieving their dreams through savings with defined goals Promoting behavioral changes through recommendations based on data such as income, expenditure, and usage status
+Initiatives for Non-Face-to-Face Services
+Self-service banking has come into even greater demand amid the COVID-19 pandemic.
+In our initiatives for non-face-to-face channels, we are strengthen- ing a variety of functions available to customers at our ever-popular ATMs, including reissuing passbooks, canceling time deposits, and restoring magnetic malfunctions of cash cards.
+In addition, we have established remote consultation desks cus- tomers can use for inheritance consultation services, which have seen increasing usage in recent years.
+Alongside this, we are also developing new non-face-to-face com- munication tools. Customers will be able to apply for various services
+Phone E-mail
+App Chat
+Contact center
+Phone E-mail
+App
+Evolution of Contact Center Functions
+As digital technologies advance and custom- er communication methods diversify, non- phone (voice) contacts are increasing. We will strive to evolve our contact center through the adoption of digital technologies, seeking to strengthen omnichannel touch- points with our customers, such as phone, e-mail, and chat.
+Illustration of contact center functions
+Social media, texts, banner ads, etc.
+Website
+Expanding Electronic Payment Service Functions
+We are expanding the number of shops accepting the Kumamon IC card, including Amu Plaza Kumamoto which opened in April of 2021. We are also holding ad-hoc campaigns to promote customer use of the card.
+In addition, from July of 2021, the QR code-based Paydon cashless payment service newly supports the Smart Code* QR/barcode pay- ment scheme operated by JCB Co., Ltd. This new support enables use of the Kumamon IC card at all merchants accepting Smart Code nationwide, in addition to those accepting Paydon, primarily located
+in Kagoshima Prefecture.
+Website
+Chat

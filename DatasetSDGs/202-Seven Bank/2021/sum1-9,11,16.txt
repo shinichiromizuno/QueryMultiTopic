@@ -1,0 +1,83 @@
+  Value Creation—Foundation for Sustainable Growth Offer a Safe, Secure Settlement Infrastructure
+Even as there is demand for financial services which address the use of smartphones, the diversification of payment methods, and other changes of the times, without comprehen- sive measures for dealing with matters such as concerns about security and the increas- ing sophistication and ingenuity of financial crimes, customers cannot go about daily life with peace of mind. Seven Bank is contributing to the resolution of social issues through the provision of a settlement infrastructure which is not only convenient but which can also be used safely and securely.
+Evolving ATMs
+Fourth-generation ATMs that Meet Customers’ New Needs
+Realizing ATMs that Operate Continuously
+Collaboration with Partner Companies
+   Our fourth-generation ATMs show a better version of
+daily life. We began installing them in September 2019
+and have replaced over 25,000 ATMs nationwide. With personal authentication using facial recognition and the capability of reading QR codes*, fourth-generation
+ATMs are opening a new world of possibilities for ATM
+*QR code is a registered trademark of DENSO WAVE INCORPORATED.
+use as a multifunction platform with capabilities be- yond those of conventional ATMs, whose primary function was the withdrawing and depositing of cash. We are also aiming for greater operating efficiency by using AI for forecasting demands for cash and predict- ing various types of parts breakdowns.
+Relations with an ATM manufacturer
+Seven Bank develops and manufactures its ATMs jointly with its manufacturing partner. In their develop- ment, we aim to always stand in our customers’ shoes, share new needs and ideas between both companies, and implement new designs only after repeated study and consideration. Our ATMs are assembled in Japan by our partner company, and Seven Bank officers and employees pay unannounced observation visits in order to absolutely ensure quality. In addition, we carry out preventative maintenance such as timely inspec- tions based on information from sensors within ATMs in order to prevent ATM outages. In the event mainte- nance becomes necessary due to an unforeseen problem, we send a maintenance worker from our partner company to quickly restore service.
+Collaboration with security companies and ATM Call Centers
+Seven Bank’s ATMs operate 24 hours a day, 365 days a year. Providing an environment that anyone can safely use requires collaboration with partner companies with highly specialized skills. Security companies respond to ATM outages and provide ATM security and secure transport. They also monitor cash demand in line with usage patterns to forecast the appropriate amount of cash to have inside an ATM and efficiently replenish cash as needed, keeping the frequency and duration of stoppages to a minimum. ATM Call Centers also monitor our ATMs 24 hours a day, 365 days a year, and remotely recover out-of-service ATMs. Through this collaboration with partner companies, Seven Bank’s ATMs are able to achieve a 99.98% operating rate.
+      37
+38
+Seven & i Group
+Seven Bank Group
+Partners
+Contractors
+Customers
+Together with providing ATM services available any- time, anywhere, to anyone, and with safety and securi- ty, we have provided our ATM network infrastructure and operations expertise and management know-how, contributing to the enhancement of customer conve- nience and the reduction of the operational and man- agement burden of the ATMs of our partner financial institutions.
+We also take into consideration the challenges and needs of our partner financial institutions and continually
+evolve our unique added value by, among other means, supporting cards issued overseas and various types of electronic money and offering new settlement services such as QR and bar-code settlement. In addition, we offer our expertise in preventing fraudulent accounts to our consolidated subsidiary Bank Business Factory Co., Ltd., thereby providing new support services to counter- measure money laundering and back-office support on commission, contributing to the resolution of social issues in the finance industry as a whole.
+Emergency Business Continuity Preparedness
+Offer safe and secure services
+   Collaboration with Partner Financial Institutions
+  The relays system that forms the backbone of our network, ATM Call Centers, and Contact Centers are set up in two locations in Tokyo and Osaka so that business can continue even in the event of a system issue or large-scale disaster. We have made prepara- tions so that should an issue occur at either one, the other can independently take over and continue business operations.
+Further, to be able to complete a transaction uninter- rupted even when a blackout occurs during a transac- tion, Seven Bank ATMs embed Uninterruptible Power Supply (UPS) batteries.
+Even after the ATM is suspended, the ATM user can still inquire using the interphone and security functions are maintained, enabling secure and safe ATM usage.
+                                              Value Creation—Foundation for Sustainable Growth Offer a Safe, Secure Settlement Infrastructure
+Seven Bank’s System Network
+Contributing to the Safety and Security of Society as a Whole
+ Personal computer or smartphone
+ Transaction data, etc. Security signals
+ATM status monitoring Data distribution Phone calls
+Cybersecurity Measures at ATMs
+We implement features in our ATMs to prevent other people from being able to see the touch pad for inputting PINs and monetary amounts when in use. In order to prevent acts of communications fraud, when a customer makes a money transfer with one of our ATMs, an alert is shown on the screen or audio assis- tance is given reminding the user of potential crimes. In
+Measures at Seven Bank Accounts
+We strengthen measures against fraudulent accounts. When account openings are requested, we carry out thorough legal checks to prevent accounts from being
+addition, we employ measures to detect irregular transactions and suspicious objects attached to ATMs, and to prevent the fraudulent capturing of card infor- mation (skimming). Moreover, to prevent financial crime from spreading, our ATMs are compatible with interna- tional-standard IC cards, and a system has been introduced to detect fraudulent ATM use.
+used for crime. In addition, we take a variety of mea- sures to address crimes targeting Internet transactions after accounts are opened.
+       ATM Seven Bank Tokyo
+  Operations center
+Financial Crime Risk Strategy Planning and Prevention Division
+Banking system Accounting system
+ Relay systemATM Call Center Contact Center
+ Seven Bank Osaka
+Maintenance center
+Backup center
+ Banking system
+ Accounting system
+ Relay systemATM Call Center Contact Center
+ Partner financial institutions’ systems
+ACSiON Information Security Measures
+   In response to issues faced by companies such as fraudulent transactions and the increasing sophistica- tion and ingenuity of cyber attacks, ACSiON, Ltd., a joint venture of Seven Bank and Information Services International-Dentsu, Ltd., provides a fraud detection platform and a personal authentication platform as cloud security services, not only to financial institutions but also corporations. On April 23, 2021, ACSiON, Ltd. acquired two international standard certifications: ISO 27001 (information security management system) and ISO 27017 (cloud security).
+ACSiON will protect the information that is a key to corporate or organizational management resource from any and all threats and contribute to the realization of a safe and strong society.
+    Integrated ATM network:
+       Zengin system
+BOJ-Net
+       Staff dispatched to ATM locations
+IS 736851 / ISO27001
+CLOUD 736852 / ISO27017
+        ATM Antibacterial and Antiviral Coating
+Since April 2021, Seven Bank has been applying the Dr. HardoLass* antibacterial and antiviral coating to touch screens, input pads, interphones, and other ATM areas for the safety and security of customers amid the ongoing COVID-19 pandemic.
+*Dr. HardoLass is a high purity glass coating developed by HardoLass Holdings Co., Ltd. Antimicrobial and antiviral, it has received the SIAA mark certification of safety.
+   Security operations offices
+Security operations center
+Report Police      Relay system
+Accounting system
+:
+:
+System to relay the data on ATM transactions with our business partners such as partner financial institutions and transmit/receive data that is necessary for the administration of ATM operations to external operational bases.
+System to provide account services of Seven Bank such as ordinary deposits and personal loan services.
+System network to connect ATMs of financial institutions with different business models such as city and regional banks.
+Abbreviation of “Zenkoku Ginko (nationwide banks) data transmission system.” This system exchanges data regarding transactions such as money transfers between domestic banks and conducts fund settlements. Almost all private financial institutions in Japan such as banks and Shinkin banks are part of this system.
+            Integrated ATM network :
+       Zengin system
+:
+       39
+40

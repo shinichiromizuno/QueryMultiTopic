@@ -1,0 +1,81 @@
+Growth Strategy
+Responding to Priority Issues
+Strengthening measures to counter climate change - Our response to the TCFD
+The Financial Stability Board’s Task Force on Climate-Related Financial Disclosures (TCFD) asks all companies to assess climate-related risks and opportunities using climate change scenarios, and to reflect and disclose them in their business strategies and risk management.
+The Kyocera Group endorses the TCFD recommendations. We have established a governance system, implemented risk management and set targets, carried out scenario analyses for cases of a 2°C and a 4°C temperature increase, and are discussing business strategies based on the results.
+The Kyocera Group has ranked climate change as one of our priority management issues. The CSR Committee, which is attended by our top management, deliberates such matters as the setting of long-term environmental goals and strategies aimed at achieving them.
+The Management System Underpinning Sustainable Operations  P13
+The Kyocera Group incorporates climate change risks into our company-wide risk management. As a method of assessing risks and opportunities, we categorize requirements from sources such as trends in the global community and our stakeholders’ expectations of us, consider what is important to our stakeholders and what is important to the Kyocera Group, and then rate the impact into three levels, with items having a big impact ranked as “Major.”
+■ A  ssessment of the Impact of Climate Change on the Environment and Energy Business Sector (Samples of “Major” and “Medium” items)
+With climate change becoming a high-profile issue, and renewable energy becoming increasingly important, the CSR Committee has deliberated and set long-term environmental targets. For these targets, we have divided the 12-year period between FY2019 and FY2030 into four 3-year periods. In our activities we label the first quarter, up until FY2021, as short-term, and the period up to FY2030 as long-term. We have also run scenario analyses for the environment and energy business sector using Five Forces analysis. We utilized scenarios etc. provided by the International Energy Agency, and analyzed two cases: a 2°C and a 4°C temperature increase.
+The Kyocera Group’s 2°C scenario analysis assumes the following circumstances.
+The government of each country has adopted a system to support measures such as renewable energy, and power companies supply electricity with a low carbon dioxide emission factor. Technological development is making progress in industries involved with energy technologies such as solar power generating systems, storage batteries and fuel cells, and as a result society and our customers are moving forward with decarbonization. However, we believe it necessary to resolve the economical and technological issues of renewable energy in order to achieve the 2°C scenario.
+   Corporate Governance
+Strategies
+ Risk Management
+National ●Adopt carbon taxes and governments recycling regulations
+●System to support the adoption of renewable energy
+    Item
+Main impact
+Assessment
+        Technological development
+System to support the adoption
+Response to the decarbonization of society
+The development of VPP*-related technologies (such as ones to predict and stabilize generated output), more efficient power generation and storage, and the development of storage battery mass production technologies, and alternative energies (such as hydrogen technologies) will have a big impact on the decarbonization of society and on sales.
+Major
+System to support the adoption of renewable energy
+of renewable energy
+Supply electricity with a low carbon dioxide emission factor
+System to support the adoption of renewable energy
+ Electrical power companies
+●System to boost the adoption rate of renewable energy
+ The decarbonization targets and energy policies of each country
+The decarbonization targets and energy policies of each country will have a big impact on the decarbonization of society and on sales.
+Manufacturing costs increase when carbon taxes are adopted.
+When recycling regulations have been introduced, the possibility that the business operator will bear the cost of the recycling fee will have an impact on sales.
+Supply electricity with a low carbon dioxide emission factor
+  Major
+   Transition risks Carbon tax (Policy risks)
+Medium
+  Medium
+●Progress in technological development Kyocera promotes environmental improvements Corporation in the adoption of renewable energy
+Customers and society at large
+ Recycling regulations
+Physical risks (Natural disaster risks)
+    Intensification of abnormal weather
+Operational stoppages, decreased production, equipment restoration etc. as a result of natural disasters generate costs. The cost of things such as insurance premiums and measures to deal with natural disasters increases.
+* VPP: A technology that can be used to balance and regulate electric power supply and demand via remote and integrated control of dispersed energy resources, such as those owned by factories and households, which the VPP has bundled together. The name “virtual power plant” comes from the fact that it functions as if it were a power plant.
+The Kyocera Group has set the following targets.
+Scope 1, 2* Greenhouse gas emissions
+Scope 1, 2, 3* Greenhouse gas emissions
+: 30% reduction by FY2030
+(in comparison with the FY2013 level)
+: 30% reduction by FY2030
+(in comparison with the FY2013 level)
+* Scope 1: Direct emissions from Kyocera factories, offices, etc.
+Expand sales
+Scope 2: Indirect emissions associated with consumption of heat and power
+Newcomers to the market ●New VPP businesses
+Medium
+Solar power generating system, storage battery, and fuel cell industries
+■VPP-related technologies
+■More efficient power generation and storage
+■Storage battery mass production technologies
+■Alternative energy development (such as hydrogen, etc.)
+●Society becomes increasingly decarbonized thanks to political support and progress in renewable energy technologies
+●Carbon tax payments increase
+   ●Physical risks become apparent
+  Indices and Targets
+●Kyocera renewable energy and energy-saving policies strengthened
+ Suppliers
+ Renewable energy adoption : 10-fold by FY2030
+(in comparison to the FY2013 level)
+The Kyocera Group’s Long-term Environmental Targets  P27
+purchased from external sources Scope 3: Indirect emissions other than those covered by Scope 1 or 2 (associated with areas such as the procurement, transport, use, and disposal of raw materials, and the commutes and
+ompetition ●New VPP high- efficiency energy
+business trips of employees)
+businesses
+●Carbon tax payments increase
+●Physical risks become apparent
+●Carbon tax payments increase ●Physicalrisksbecomeapparent C ●Recycling costs increase
+KYOCERA INTEGRATED REPORT 2020 15

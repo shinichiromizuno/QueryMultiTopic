@@ -1,0 +1,135 @@
+The Environment
+Reducing Environmental Impact
+GRI103-2, 3
+Closely Related SDGs
+Preventing Environmental Pollution
+GRI305-7
+鼓Water Contamination
+Most of the water discharged from our plants to
+public waterways is cooling water and not polluted as defined in the Water Pollution Control Act. At our cement plants all water resources are reused as circulation water to minimize the impact of water discharge into public waterways. Also, we are working to prevent the leakage of potential pollutants by installing bunds around our oil tanks and acid/alkali tanks. Moreover, we are installing sedimentation tanks, water-oil separation tanks,
+oil film detectors, pH meters and suspended solid sensors on water discharge routes that connect to public waterways.
+Example of Water Circulation Flow at a Cement Plant
+    鼓Air Pollution
+Air pollutants generated from cement production are primarily NOx, SOx and dust in combustion gases emitted from cement kilns. To ensure the proper management of these substances we remain committed to reducing air pollutant emissions through measures such as continuously monitoring emission concentrations, improving NOx reduction systems and installing bag filter equipment to capture dust emissions. With such measures we focus on controlling the emission of air pollutants with the goal of maintaining FY2011 emission levels.
+Emissions of NOx and dust in FY2020 were lower than in FY2011, whereas emissions of SOx were higher than in FY2011 (base year) because
+we accepted waste with high sulfur content. Nonetheless, the level of SOx emissions was very low compared to the limit set under the Air Pollution Control Act.
+Specific Emissions per Tonne of Clinker for Selected Pollutants
+(g/t-clinker) 1,221 1,197 1,187 1,227 150
+78 80 67 100Material and fuel yards, roads, buildings, etc., at sites
+  Rainwater
+Gutters
+Cooling tower
+On-site power generation
+Water-oil separation tank
+Sedimentation tank
+Riverway
+Ocean
+        Oil film detectors, turbidimeters, pH meters
+    Recycled water
+Water recovery cistern
+Cooling water
+   Ocean water
+ 10. 主要汚染物質の排出原単位
+■ NOx (left axis) ■ SOx (right axis) ■ Dust (right axis)
+(g/t-clinker) 1,500 1,300
+1,000
+62
+1,342
+GCCA
+        500 474342 39 30 27 3050
+63
+鼓Soil Contamination
+In FY2001 Taiheiyo Cement evaluated the risks
+associated with cement plants that may be sited
+on contaminated ground by appointing an expert consultant to undertake a soil history survey. We are continuing to conduct drilling surveys, starting with the higher-risk locations, to verify whether or not the soil is contaminated. Actions have been taken as necessary based on the findings.
+We are also working to eliminate the possibility of soil contamination by preventing the leakage of wastewater from scrapyards and fluid from oil tanks, acid/alkali tanks, pipes and so forth.
+ 0 2011 2016
+11. モニタリング比率 Monitoring Rate  GCCA
+2017
+2018
+2019
+2020 (FY) 0
+ (%) 96.0 95.0 99.9 99.9 100.0 100.0 100.0 100.0 100.0 100.0 100.0 100.0
+100.0
+             81.6 84.7 84.2
+2020 (FY) ■ Percentage of clinker volume manufactured in a kiln equipped with continuous NOx measurement ■ Percentage of clinker volume manufactured in a kiln equipped with continuous SOx measurement ■ Percentage of clinker volume manufactured in a kiln equipped with continuous dust measurement
+Guidelines: “GCCA Sustainability Guidelines for the monitoring and reporting of emissions from cement manufacturing Ver. 0.1“
+84.0
+    75.0 59.0 52.6 50.0
+25.0
+    0.0 2011 2016
+2017 2018 2019
+ 70 TAIHEIYO CEMENT REPORT 2020
+Cement kiln
+Water On-site power sprinklers generation
+Equipment cooling, etc.
+Water cistern
+Make-up water
+Ground River water water
+    Special Feature Business Activities
+Governance Collaborating with Society
+Reducing Waste
+GRI306-2
+Appropriate Management of Chemical Substances
+GRI306-2
+鼓Pollutant Release and Transfer Register (PRTR) The PRTR Law requires that we report on equipment
+installed at our Kumagaya plant for the washing
+of municipal waste incineration ash. This washing process uses water, and our total discharge of dioxins and ferric chloride into public waterways are as follows.
+Reported Levels of Dioxins and Ferric Chloride Emissions  Non-consolidated
+  鼓Initiatives at Plants and Quarries
+Our cement plants and quarries reduce the amount
+of waste handled by disposal contractors by reusing waste from operations as material for cement production. We also endeavor to reduce the volume of waste to landfill through recycling made possible using chromium-free kiln bricks.
+V12o.l um廃e棄物of最W終a処st分e量to Landfill (t)
+     100
+50 28 0 2016
+5 5 1 13
+2017 2018 2019 2020 (FY)
+0.0
+170
+0.0 0.0
+170 152
+         鼓Initiatives at Service Stations
+Service stations reduce the waste handled by waste
+disposal contractors by returning any residual cement that remains in silos after switching the cement products. Returned cement is recycled and used as raw material.
+In FY2020 the recycling rate was 77.9%, up 12.2% from the previous fiscal year.
+R1e3c. yc入liれng替えRa品tのe再of生R率esidualCement  Non-consolidated
+鼓Management of PCB Waste
+We properly store and dispose of high and low concentrations of PCB waste in accordance with
+the “Amendment to the Law concerning Special Measures for Promotion of Proper Treatment of PCB Wastes“ (revised in 2016).
+For high-concentration PCB waste with an early disposal deadline as stipulated by law, we signed a processing contract with the Japan Environmental Safety Corporation (JESCO) in 2006 and have prioritized processing.
+In FY2020 capacitors stored in the Saitama plant and our Chubu Hokuriku branch, as well as pollutants such as electrical ballasts stored in the Oita, Fujiwara, Kumagaya and former Chichibu plants, were processed.
+In FY2021 pollutants such as electrical ballasts stored in the Fujiwara plant and the former Kawara, Tosa and Osaka plants as well as the Chichibu quarry and a packaging site are scheduled for processing.
+Status of High-concentration PCB Waste Disposal  Non-consolidated (Number of machines)
+14500
+00000
+2,707 1,487 2,444 1,750 1,117
+2,708 1,491 2,449 1,750 1,117
+     (%) 95.6
+100.0 89.1
+77.9
+2020 (FY)
+   75.0 59.6 65.7 50.0
+25.0
+0.0 2016
+       2017 2018 2019
+Ferric chloride (kg)
+Emissions
+FY2018
+Reported Levels
+FY2019
+FY2020
+   Dioxins (mg-TEQ)
+     鼓Initiatives at Offices
+Our special purpose subsidiary, Taiheiyo Service Corporation, installed a paper recycling machine to recycle the company’s used copy paper, and in FY2020 we recycled approximately 410,000 sheets of A4 size paper.
+ Stored in FY2019 (as of March 31, 2019)
+Stored in FY2020 (as of March 31, 2020)
+      Waste
+ Capacitors
+ Transformers
+New Target for FY2020
+Processed in FY2020
+Planned Processing for FY2021
+   Electrical ballasts
+  Total
+  TAIHEIYO CEMENT REPORT 2020
+71

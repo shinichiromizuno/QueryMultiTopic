@@ -1,0 +1,25 @@
+IntroductionMain Operations and Core TechnologyCore Technologies in Electronics IC Package Substrate
+Focusing on MPUs (micro processor unit) for personal computers and the Data Center, and GPUs (graphic processor unit) for AI and vehicle-mounted applications, we provide state-of-the-art IC packaging substrates. IC packaging substrate is an important component that functions together with IC chips. IBIDEN has always enhanced added values along with IC chip evolution.
+   IC package substrates
+Printed Wiring Board for Smartphones
+IC Package Substrate for desktop PC IC Package Substrate for mobile PC
+Printed Wiring Board
+Focusing on high-end smartphones, we provide high-function and high- density printed circuit boards. A printed circuit board is an important component that supports the manufacturing of small and high-function products in line with the full-fledged dissemination of 5G. IBIDEN meets its customers’ needs using Modified Semi Additive Process (MSAP) which enables free circuit design and high-density wiring.
+ ElectronicsWe will contribute to the realization of global digital innovation by producing IC package substrates of high performance and reliability that support communication technologies such as data centers. Refer to page 27-28 for growth strategies of the Electronics Operation.
+Contributing SDGs FY2019 ratio of net sales
+44.7%  Data Center
+A large number of microprocessors are used at data centers that process huge quantities of data. The demand for IC packaging substrates used in data centers is on the rise as more and more services are handling big data. IBIDEN supports the superior reliability of data centers with IC packaging featuring high-functionality and high-reliability.
+ Car Electronics
+The number of electronic components and sensors installed on automobiles have dramatically increased against a backdrop of advancements in analysis using big data and high-speed communication networks. Semiconductors used on all systems that control automobiles, IC package substrates to which these are installed, as well as motherboards on which those packages are implemented, are used widely as components for automobiles that require strict reliability.Computer & Smartphone
+At the heart of computers, semiconductors are small chips with a size of only a few millimeters to a few dozen millimeters. IC package substrates are used to implement these semiconductors with techniques that allow the chips to function at 100% performance. Various electronic devices and peripheral equipment are incorporated in smartphones featuring a variety of functions.Thin printed wiring boards with many layers are used to bring out the capabilities of multiple electronic devices within limits on size and thickness.TOPICS
+Selected as one of the “Global Niche Top Companies Selection 100 (New GNT Companies) for FY2020” Certified by the Ministry of Economy, Trade and Industry
+GNT Companies are recognized for winning in niche areas even in a challenging economic environment and handling highly important parts and materials in their supply chains.
+This time, our cutting-edge IC package substrate was selected as one of the New GNT Companies Selection 100.
+ Introduction
+Value Creation
+ESG Management
+Financial and Corporate Data
+   IC Package Substrate
+   IC package substrate
+   7 IBIDEN Co., Ltd. Integrated Report 2020
+IBIDEN Co., Ltd. Integrated Report 2020 8

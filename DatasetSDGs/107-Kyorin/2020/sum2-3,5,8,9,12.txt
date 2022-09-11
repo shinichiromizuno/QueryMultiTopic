@@ -1,0 +1,159 @@
+Compliance/Risk Management
+The Kyorin Group abides by all laws, regulations, codes of conduct, and the spirit thereof, and acts with high ethical standards, as well as promoting activities to appropriately manage internal and external risk pertaining to the business with a view toward the ongoing enhancement of corporate value. Each Group company establishes a Compliance Committee and a Risk Management Committee, which adopt various measures to raise awareness, and promotes compliance and risk management in each Group company to prevent corruption.
+Compliance
+Basic policy
+An enterprise is required to promote the realization of a sustainable society through the creation of added value and employment that are useful to society and through autonomous and responsible actions based on fair and free competition. Following our corporate philosophy, the Kyorin Group conducts its activities in Japan and overseas based on a high standard of corporate ethics, in compliance with both the letter and the spirit of relevant laws, regulations, and international rules.
+Corporate Charter and Compliance Guidelines
+To ensure that the Kyorin Group’s activities are based on a high standard of corporate ethics, we established the KYORIN Holdings Corporate Charter and Compliance Guidelines (August 2006). Furthermore, we have also built and promoted a compliance system by establishing a Compliance Committee, which meets monthly, and other measures.
+Education and training
+Internal training is held to ensure an understanding and familiarity with Kyorin’s corporate philosophy and compliance.
+1. Focusing on departments responsible for compliance and each division’s compliance promotion managers, Companywide level-specific training (newly hired employees, newly appointed managers, etc.) and functional training are held to teach corporate ethics and compliance, and efforts are made to ensure that an understanding and consideration of compliance are reflected in the work performed by directors, corporate auditors and officers, and employees.
+2. June and November are designated “compliance enhancement months,” with the Corporate Charter and Compliance Guidelines read out at morning meetings and other activities held to ensure a thorough understanding and familiarity with compliance Groupwide.
+Internal whistleblowing system
+The Kyorin Group has established a “Corporate Ethics Hotline” to accept inquiries, consultations, and reports regarding corporate ethics and responses to laws and regulations, etc. The Group also accepts whistleblower reports of suspected injustice or non-compliance via internal e-mail, letter, telephone, and facsimile. We strictly maintain the confidentiality of whistleblowers, respect their privacy, and ensure that they are not disadvantaged. (Number of reports: nine in fiscal 2019)
+Risk management
+A management structure is in place to prevent the occurrence of risk events at Kyorin and its Group companies, and a Risk Management Committee has been established to address events that do occur. The Risk Management Committee oversees risk management initiatives across the entire Group, while also promoting activities to be implemented as necessary at respective divisions to build a structure to identify potential risks, reduce risks, and prevent risk events from occurring, and to minimize the damage from risk events that do occur unavoidably. The roles of the committee are as follows:
+1. Direct risk assessments to related divisions to identify and understand latent risks.
+2. Prepare various guidelines and operation manuals for related divisions, and implement training for employees and other preventive measures as necessary, to ensure
+that latent risks do not materialize.
+3. Prepare procedure manuals and carry out simulated drills at related divisions, and take out insurance and implement other measures as necessary, to minimize losses
+if a risk event does occur. Also, a risk management promotion officer has been appointed at each company to raise awareness relating to risk management.
+Initiatives related to transparency in relationships with medical institutions and other parties
+The mission of a pharmaceutical company is to play an important role in “patient-focused medical care” as a valuable entity that contributes to the health and well-being of people around the world by continuously developing and providing a stable supply of outstanding medicines. To fulfill this mission, partnerships between pharmaceutical companies, research laboratories, and medical institutions including universities and others are essential, and we are required to properly manage our relationships where there is a potential conflict of interest with pharmaceutical companies.
+Under these circumstances, the Kyorin Group established the Guidelines for Transparency of Relationships between Corporate Activities and Medical Institutions, etc., and the Guidelines on Transparency of Relationships between Corporate Activities and Patient Groups. In accordance with these guidelines, we publish information about funding to medical institutions, patient groups, and others on our website.
+Kyorin’s Reliability Assurance System Reliability assurance system
+Our corporate vision aims to be “a pharmaceutical manufacturer that is trusted by patients and medical professionals, and is recognized for its presence in society.” To achieve this, we continuously need to provide products and information that are trusted by broad sectors of society, and we consider this our highest priority. KYORIN Pharmaceutical takes a unified approach to all operations—from (research and) development to sales—and places a maximum emphasis on compliance with relevant laws and regulations, and on ensuring reliability. The Quality Assurance & Reliability Headquarters has primary responsibility in this area, and is independent from research and development, manufacturing, and sales divisions, and proactively works to provide products and information that patients and medical professionals can use safely.
+     Patients, Medical professionals
+ Reliable products and information Development Manufacturing Sales
+GMP GCP GMP GQP GVP GPSP
+GMP: Good Manufacturing Practice
+GCP: Good Clinical Practice
+GQP: Good Quality Practice
+GVP: Good Vigilance Practice GPSP:Good Post-Marketing Study Practice
+ Quality assurance
+ Quality assurance is carried out on investigational new drugs based on GMP at the development stage, through compliance with GMP and GQP after sales, and by confirming that products are manufactured using appropriate equipment and according to designated procedure manuals. After-sales inquiries regarding quality collected from patients and medical professionals are given the highest priority, and are addressed sincerely and quickly.
+Safety management
+Drugs can be effective for treating patients (benefits) but can have adverse reactions (risks), and side effects that were not foreseen at the development stage can become apparent after sales. This is why it is important to collect and analyze a wide range of information regarding benefits and risks after a product is launched, and to provide appropriate information swiftly to medical facilities while taking into account the balance between benefits and risks. At Kyorin, we strive to ensure safety and promote proper use by carrying out drug-monitoring activities based on GVP. Post-manufacturing surveillance is carried out adhering to GPSP to collect and evaluate information regarding a drug’s safety and effectiveness after the product is launched. The analyzed information is provided to medical professionals and released in professional publications.
+The Kyorin Group’s HOPE100 long-term vision includes the statement that it will “Promote diversified healthcare business expansion and by 2023 be recognized both within and outside as a company that supports sound and healthy lifestyles.” To achieve this, we consider it important to build a sophisticated system for ensuring the reliability of drugs handled by the Group and products sold by the healthcare business. By working to ensure the consistent reliability of Kyorin products and providing users with high-quality products that can be used “with safety and security,” we are gaining the trust of broad sectors of society.
+    36 2020 ANNUAL REPORT
+2020 ANNUAL REPORT 37
+  
+  CSR Activities through Business
+Following our corporate philosophy, the Kyorin Group endeavors to develop and supply useful and safe products and services to society with a view toward creating sustainable economic growth and solving social issues. Throughout this process (the value chain that stretches from research and development through the disclosure of product information), KYORIN Pharmaceutical Co., Ltd., the core subsidiary of the Kyorin Group, is committed to respecting human rights and abiding by all relevant laws and regulations including the Act on Pharmaceuticals and Medical Devices.
+Main initiatives (KYORIN Pharmaceutical Co., Ltd.)
+       Research
+Ethical considerations for human drug research Ethical considerations for the use of animals in trials Biotechnology and countermeasures against biohazards Use of genetic resources
+Handling of intellectual property
+Clinical development
+Respect for subjects’ human rights, security of personal information, and maintenance of trust during clinical trials
+Disclosure of information related to clinical trials and trial results
+Increased access to investigational new drugs Technological development and production
+Stable supply and quality management
+Quality assurance
+Stable supply
+Prevention of medical malpractice and improvement of drug discrimination
+Relations with local communities
+Provision of product information
+Promotion of the appropriate use of drugs Response to inquiries
+GLP
+GCP
+GMP GQP GDP
+GVP GPSP
+Reliability assurance
+Compliance with all relevant laws and regulations and maintenance of trust
+Quality assurance Safety management
+Ethical considerations for human drug research
+The company conducts research on humans and research that obtains or applies materials derived from humans with their full consent and in line with the Declaration of Helsinki,* and the relevant laws, regulations, and guidelines of each country. It also conducts ethical education and training for researchers into bioethics and genome research and clinical research, and endeavors to respect the human rights and protect the personal information of research participants. It has created a human tissue research ethics investigation committee, which includes outside experts, to inspect the ethicality and scientific validity of research plans impartially and fairly.
+*The Declaration of Helsinki is a set of ethical principles regarding human experimentation that governs doctors and other professionals involved in medical research.
+Ethical considerations for the use of animals in trials
+To conduct appropriate animal trials from a scientific perspective while taking into consideration the protection and welfare of animals, the company promotes strict adherence to the 3R principles—refinement (reduction of animal distress), replacement (substitution of animal experiments with alternatives), and reduction (decrease in the number of laboratory animals used)—and has established rules based on various policies to protect animals.
+Respect for subjects’ human rights, security of personal information, and maintenance of trust during clinical trials
+The company conducts clinical trials in line with the Declaration of Helsinki* and relevant laws and regulations governing clinical trials of pharma- ceuticals, including good clinical practice (GCP), while fully taking into consideration the human rights and personal information of trial subjects. Its clinical trial plans are approved after inspection for ethicality and scientific validity by internal and external committees. Moreover, it must give sufficient explanation of items such as the objectives of trials and the methods used, the expected merits and demerits, and compensation in case of damage to the health of subjects, and confirmation is needed that subjects understand the details and have given their consent to participate. In addition, checks are made to ensure that employees involved in trials have been properly educated and trained, that trial institutions respect GCP, and that trials are conducted appropriately.
+Disclosure of information related to clinical trials and trial results
+The company strives to use clinical trial databases to publicly disclose and improve the transparency of the clinical trial plans that it leads. Going forward, the company will promote the creation of appropriate data access environments for those involved in utilizing clinical trial data, including researchers, and promote the disclosure of information that is useful in scientific progress and innovation.
+Stable supply
+The pharmaceutical supply chain includes a wide variety of diverse items, including raw materials, intermediates, and pharmaceutical ingredients, and is supported by a large number of suppliers in Japan and overseas. To maintain a stable supply, it is essential to strengthen ties with individual suppliers and ensure close alliances and information sharing. The company has created a stable supply structure based on demand forecasts for each region of the world and the unified management of inventory information and supply plans, making it possible to globally manage every stage of the process from ingredients manufacturing to supply of finished products. Moreover, as one of its risk-hedging policies, it strives to identify multiple alternative suppliers to supplement existing suppliers and different types of transportation routes.
+Promotion of the appropriate use of drugs
+Mistakes in the use of drugs can damage a patient’s health, while side effects can also occur even when drugs are used correctly. The company’s medical representatives (MR) work to accurately and swiftly provide information such as relevant documentation on appropriate product usage to allow medical professionals to use drugs more effectively and safely. In addition, we collect, analyze, and review information on efficacy and safety gleaned from the use of our drugs, and transmit the results to medical professionals.
+Response to inquiries
+To promote the safe and effective use of drugs, the company believes it has a responsibility to respond to inquiries from patients and medical professionals by providing highly reliable drug information that is both fair and impartial. With this understanding, it has established the Drug Information Center to handle various questions. The center responded to around 4,000 inquiries in fiscal 2019.
+On-site supplier investigations
+When selecting a new supplier, we begin transactions only after confirming through an on-site investigation that the supplier has measures in place for legal and regulatory compliance, labor safety, and environmental protection. For existing suppliers, we make regular visits to preserve and improve product quality and maintain a stable supply. In addition, we conduct risk assessments of work environments (including ones to prevent employee exposure to chemical substances) and take measures to reduce waste and lessen the environmental burden from wastewater and exhaust emissions.
+                                                                           Procurement
+Initiatives to ensure sustainable procurement On-site supplier investigations
+  GLP: Good Laboratory Practice, pharmaceutical safety-related standards for non-clinical trials; GCP: Good Clinical Practice, standards for pharmaceutical clinical trials; GMP: Good Manufacturing Practice, standards for production management and product quality management of pharmaceuticals and other items; GQP: Good Quality Practice, standards for product quality management of pharmaceuticals and other items; GDP: Good Distribution Practice, standards for proper distribution of pharmaceuticals; GVP: Good Vigilance Practice, standards for post-production marketing safety management of pharmaceuticals and other items; GPSP: Good Post-Marketing Study Practice, standards for post-production marketing survey and study practices of pharmaceuticals
+38 2020 ANNUAL REPORT
+2020 ANNUAL REPORT 39
+   Procurement Provision of product Technological development Clinical development Research information and production
+
+Initiatives to Respect Human Rights, Implement Work-Style Reforms, and Develop Human Resources
+The Kyorin Group believes it is important for employees to respect the human rights of all people and to act with high ethical standards. To that end, we endeavor to create work environments that respect the diversity, character, and individuality of each and every employee, where they can work in health and safety. At the same time, we aim to be a company that offers strong career fulfillment and encourages all employees to enhance their ethical values and personal
+growth. Our corporate actions are rooted in this basic stance.
+Respect for human rights
+The Kyorin Group is managed with respect for the human rights of all people, and our Compliance Guidelines clearly state, “Along with understanding international norms regarding universally recognized human rights, we will respect the values and character of each individual, and will not engage in any form of discrimination in any situation, regarding each individual as being equal with all others, regardless of position or function.” The Company also respects the individuality of each employee, and has formulated guidelines to prevent harassment, to create a comfortable workplace environment where employees feel at ease. These guidelines cover sexual and power harassment, as well as harassment related to pregnancy, childbirth, and childcare and nursing care leave.
+Promoting organization: becoming “the leading company for career fulfillment”
+The Group positions valuing employees and empowering people/organizations as the most important challenge under the HOPE100 long-term vision for executing business strategy and realizing achievements. We therefore aim to be “the leading company for career fulfillment,” where employees take pride in their work, have trust in the Company and its organizations, and work in solidarity with their coworkers. We promote the creation and appropriate operation of the human resources management system (hiring, assigning, training, evaluation, transfers, compensation, social welfare, etc.) at each Group company under the basic concepts of our human resources management system.
+Basic concepts of the human resources management system
+Long-Term Reciprocal Partnership
+By continuously fulfilling the responsibilities expected of each other over the long term, the Company and its employees share a common understanding that they are partners for mutual benefit. As employees contribute to the Company’s development, the Company will contribute to rich and rewarding lives for employees.
+Mental health
+The Kyorin Group provides mental-health education to managers and employees. Our manager training focuses on prevention and early detection of mental illness, by encouraging managers to pay attention to their subordinates and promoting understanding of the specific symptoms of mental disorders. We also encourage employees to gain knowledge about maintaining mental health via our intranet and other means, and have created a system for employees and their families to feel free to ask for help. When a mental health issue arises, the employee’s department, industrial psychiatrists, public health nurses, and Human Resources Department work together to help the employee recover, return to work, and prevent relapse.
+Industrial safety and hygiene
+The Kyorin Group places the highest priority on the “safety” and “health” of our employees, and we are proactively pursuing activities related to industrial safety and hygiene. One of our EHS activities has been to formulate an industrial safety and hygiene system, and we have set a goal of having zero workplace accidents. As a result of the activities being implemented at workplaces across the Group, the frequency and extent of workplace accidents as measured by rate and severity are well below industry average levels.
+Support for employees’ childcare and nursing care
+KYORIN Pharmaceutical Co., Ltd. supports employees’ daily lives throughout their life cycle, including when they require childcare or nursing care, with the aim of providing an environment in which they are easily able to balance their lives between work and family. We strive to maintain an environment in which employees can feel fulfilled in their work, backed by a healthy home life.
+  Basic stance
+    n Legal standards
+n Kyorin’s own standards or additional provisionsPregnancy 6 weeks Childbirth 8 weeks 12 months old 18 months old End April 2 years old 3 years old Starts before birth after birth after 1st birthday elementary schoolWork
+Shortened work hours for childbirth and child-rearing – Up to 2 hours per day (in 30-minute units) until the child starts elementary school Exemption from after-hours and holiday work
+Exemption from late-night work Limit on after-hours work
+Nursing time – 30 minutes each, twice a day
+MRs may use company (marketing) vehicles to drop off and pick up child at nursery, day care, etc.
+     Leave, Time off
+  Maternity leave before birth – 6 weeks before due date
+Maternity leave after birth – Can be taken for 8 weeks after birth
+ Special vacation of 2 days for spouse
+ Childcare leave – can be taken until child is 18 months old or until the end of April after child’s 1st birthday
+Permission granted for up to 2nd birthday if unable to enter nursery, day care, etc.
+Leave for care of children (5 days per year for one child up to 6th grade, 10 days for 2 children, half-day units) Hourly based paid leave*
+Financial support, etc.
+ Childbirth and childcare support money
+Financial subsidies for the use of nurseries and preschools
+ Matriculation support money
+Other
+Job return system: Preferential rehiring of employees who have resigned for pregnancy, childbirth,
+child-rearing, nursing care, etc.*    Employees
+By carrying out their duties, contribute to achieving the Company’s (organization’s) goals and targets.
+• Carry out duties by performing operations proactively with a sense of initiative.
+• Strive to maintain and enhance their own humanity and ability in carrying out their duties.
+• Cooperate with coworkers for the success of the organization.
+Initiatives for Health Management
+Company
+Employees are considered assets (drivers of growth) of the Company, which values them and supports their growth.
+• Each employee is assigned duties that conform to abilities and work style.
+• Each employee’s contribution is comprehensively understood, and employees are
+evaluated and treated fairly and consistently.
+• The Company provides a comfortable and rewarding work environment that fosters
+a “desire to work” among employees.
+     The Kyorin Group has enacted the “Kyorin Group Health Declaration,” a statement recognizing that our employees are the foundation of our corporate philosophy and long-term vision, and that their physical and mental health is paramount.
+The Kyorin Group Health Declaration—Your Health is Kyorin’s Mission.—
+As a company that supports sound and healthy lifestyles, the Kyorin Group views the health of its employees as a vital management issue, and is committed as an organization to promoting the health management of each and every employee.
+1. To ensure that our employees and their families can live active lives, we pursue the maintenance of their sound physical and mental health by working hand in hand with a health insurance association.
+2. We proactively support our employees’ efforts to maintain and improve their health and to further their health awareness.
+3. We implement measures to maintain and improve our employees’ health and create safe and comfortable work environments as we aim to build business operations that allow us to fulfill our social mission of contributing to better health.
+The general view is that “Health Management®”* is a strategic practice that sees the health management of employees from a business perspective. The Kyorin Group also implements a variety of initiatives to invigorate its organization, including improving the activity and productivity of employees, with an eye toward raising earnings and corporate value from a medium- to long-term perspective. Specific examples include giving health guidance to employees based on regular health examinations and stress checks, controlling long working hours, offering health improvement activities (a combination of walking and social contribution efforts), expanding health management structures, and totally banning smoking in all work spaces.
+* “Health Management®” is a registered trademark of the nonprofit organization Kenkokeiei.
+* Hourly based paid leave and the job return system are also available for nursing care support     n Expanded nursing care leave and breaks (186 days vs. legally stipulated 93 days)
+Promoting the use of paid leave
+n Support system for remote nursing care
+n Nursing care seminars
+ KYORIN Pharmaceutical Co., Ltd. proactively encourages the taking of paid leave, going over and above our legal obligations for paid leave under the Related Acts to Promote Work Style Reform (which requires companies to allow employees entitled to at least 10 days of annual paid leave to take five days). We also promote the taking of three additional days of leave for employees to maintain a good work-life balance to maximize their capabilities.
+Job return system
+KYORIN Pharmaceutical Co., Ltd. has created a job return system that provides opportunities for employees who still have a strong desire to work and are seen as vital by their colleagues to come back to their jobs. This system covers employees who have left the Group due to various major life events such as marriage, the job transfer of a partner, pregnancy, childbirth, child-rearing, nursing care, volunteer activities, and overseas study.
+ 40 2020 ANNUAL REPORT
+2020 ANNUAL REPORT 41
+
+ Initiatives on disability hiring
+As part of its social responsibilities, KYORIN Pharmaceutical Co., Ltd. strives to provide suitable work environments for employees with disabilities to enable them to give full play to their abilities and live independent lives like able-bodied people. We also endeavor to create work spaces that are easy for employees with disabilities to operate in, such as using apps for employees with impaired hearing.
+Human resources development
+KYORIN Pharmaceutical Co., Ltd. supports the growth of its employees by creating structured and systematic educational programs that provide opportunities for both solo learning (autonomous improvement of one’s personality and abilities) and joint learning (mutual growth and support). The structure and mechanisms for solo learning include correspondence courses, referrals for business magazine subscriptions, support for language learning, individual overseas study, support for the acquisition of qualifications, and subsidized external seminars. In joint learning, we offer 10 different types of tiered programs ranging from new employee training to training for management. Functional training is provided by each department to give employees the knowledge and skills required in their roles.

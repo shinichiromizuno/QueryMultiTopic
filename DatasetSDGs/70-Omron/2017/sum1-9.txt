@@ -1,0 +1,79 @@
+Factory AutomationThe Factory Automation (FA) domain covers manufacturing of the automobiles and home appliances that enrich people’s lives over the world. The Industrial Automation Business (IAB) is the main segment that drives business in this domain.
+OMRON provides innovation in manufacturing by putting together a unique and extensive product line to provide breakthrough solutions beyond the capabilities of our competitors. Moving forward, our focus will be on four areas that promise particularly high levels of growth: automobiles, digital, food and beverages, and social infrastructure. We will accelerate our strategic concept of innovative-Automation to implement rapid growth.
+Social Issues
+Labor shortages and diversification in manufacturing
+The world of manufacturing is entering a period of transition in terms of technical innovation, serious labor shortages, and other challenges.
+The world is facing major societal issues: The advanced countries are already dealing with shortages of skilled workers due to advanced aging. In fact, the Japanese labor force is expected to shrink by more than 30 million workers over the next 40 years. At the same time, the emerging economies are dealing with soaring wage increases. Given these changes, initiatives are under way to disperse manufacturing locations, alter production methods, and increase the sophistication of manufacturing technologies.
+OMRON is deeply engaged in addressing these societal challenges by providing automation to introduce the new future of manufacturing.
+Value Provided
+    Labor force:
+40% decrease(2017⇒2060)
+Shortages of Skilled Workers
+Labor Force Trends (Japan) 2060
+  2017
+(Source) National Institute of Population and Social Security Research "Population Projections for Japan (January 2012)"
+Results based on medium-fertility and medium-mortality projection
+ Sharp Rise in Labor Costs
+      2008
+(Source) Publications of the Shanghai Municipal Resources and Social Security Bureau
+Minimum Wage Trends (Shanghai, China) 2017 Labor Cost Increase: 2.4 times(2008⇒2017)
+ 36 OMRON Corporation
+Contributing to economic development through social productivity improvements
+OMRON introduces innovation in manufacturing that contribute to the improvement of customer productivity. By extension, this leads to productivity improvements in society. To achieve these goals, OMRON is deeply committed to leading-edge technologies in AI, IoT, and robotics.
+We are currently developing an industry-first
+AI-equipped controller. This controller can learn on its own based on accumulated field data, predicting product defects and facility malfunctions. Sensors monitor the operational status of each piece of equipment on production lines continuously. The AI-equipped controller analyzes this information to prevent unexpected
+    
+  problems before they arise. We have already conducted a series of tests to validate this technology, both at our customers' factories and our own facilities. Our plans call for commercializing the technology and providing support services starting in 2018. We are also moving forward with the critical work of making
+our lineup of nearly 100,000 products IoT-capable. As the front runner in the factory automation
+industry, we will continue contributing to the enrichment of people’s lives around the world by providing the kind of unique value that is beyond the reach of our competitors.
+   Goals for Fiscal 2020
+Net sales for main business in domain: ¥480 Industrial Automation Business (IAB) billion
+Sustainability Goal:
+New innovative-Automation products across four focus industries ~“Control”technology for manufacturing innovation~
+    Relevant Sustainable Development Goal
+Industry, innovation and infrastructure
+■ Fiscal 2016 Sales by Product
+Output + Robot10%
+       Servo motors and drivers
+controllers
+Inverters
+Parallel robots
+  53% Logic
+Industrial Automation Business (IAB)
+37% Input
+Vision sensors
+    Programmable
+   Motion controllers
+Safety controllers
+Fiber sensors
+Safety light curtains
+Integrated Report 2017 37
+ Vision Overview Strategy Governance Financial Information
+
+ Automation Centers
+Automation Centers are technology development facilities evaluation and verification equipment and devices. Centers also contain training rooms for skills development. OMRON currently has eight of these facilities worldwide. Our Automation Centers are sources of leading-edge technologies for solving advanced manufacturing issues. We share information about the latest technologies, expertise, and standards among Automation
+■ Locations of Automation Centers
+Centers, allowing OMRON to provide the most advanced solutions to our customers. In practice, OMRON sales departments and engineers work closely to provide solutions to global customers.
+Spain
+South Korea
+(Japanese base in Kusatsu, Shiga Prefecture)
+USA
+China India
+Thailand
+Japan Indonesia
+Case Study: Manufacturing Innovation in China
+OMRON worked with China’s leading food packaging equipment manufacturer, introducing the latest in leading-edge technologies. We delivered industry-leading productivity advancements successfully under a very short deadline.
+Working with our customer, we identified 25 technical issues. The most daunting challenge was how to cut packaging film in a fixed position. In theory, the equipment was running correctly, but not as precise as the client expected. After considerable trial and error, we were able to quantify characteristic behavior in the equipment. Using this information, we modified the controller programming to meet the needs of the client. By working closely with people on-site, we resolved each and every issue. In only six months, we
+achieved“the impossible,”introducing a five-fold gain in productivity.
+We see more and more examples of this kind of success in China and throughout the world. In real ways, OMRON is driving business growth.
+38 OMRON Corporation
+
+Factory Automation
+  Hannover Messe
+Hannover Messe International (HMI) 2017 attracted 225,000 visitors in April this year. This is the global flagship event for Industry 4.0 and one of the largest fairs worldwide for industrial automation. Today, HMI is in the spotlight for attracting decision makers from the industrial automation world. Over 6,000 exhibitors provided insights into the benefits of Industry 4.0 and the role of humans in the integrated factory of the future. The OMRON booth featuring our AI and robotics technologies was very popular. Many event-goers had the opportunity to experience the manufacturing of the future that we aim to create.
+     Message from the Project Leader
+HMI 2017 provided a unique opportunity to showcase to the market and to media our capability to realize Industry 4.0 by means of innovative-Automation. We demonstrated an evolution in integrated control(integrated), showing a single controller used to execute simple control over complex operations. Under the heading intelligence developed through ICT(intelligent), we demonstrated how rapidly collected plant data is used for preventive maintenance to anticipate equipment breakdowns and malfunctions. We also proved our capabilities related to new harmonization between humans and machines(interactive). Here, we demonstrated fixed and mobile robotic solutions featuring OKAOTM Vision technology combined with industrial monitors. FORPHEUS , our robotic table tennis coaching robot, impressed visitors with a concrete example of our core proposition: Merging Sensing & Control technologies with the thinking power of AI.
+During the event international staff at the booth helped us to provide information to (potential) customers and journalists from several countries, underlining our capability to operate seamlessly across borders. I believe that through conversations with visitors–many of whom are potential customers–we were able to demonstrate the strength of the global OMRON support system. Our staff were proud to show manufacturers and machine makers how innovative- Automation is a reality today, capable of innovating the future of manufacturing through the most advanced automation solutions on the market.
+Matteo Recalcati
+Marketing Communication Manager OMRON Europe B.V.
+      Integrated Report 2017 39

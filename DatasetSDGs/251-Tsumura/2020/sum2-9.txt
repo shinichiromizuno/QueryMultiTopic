@@ -1,0 +1,83 @@
+The Kampo Value Chain
+    Research and Development
+Establishment of Scientific Evidence
+Since fiscal 2005, Tsumura has been concentrating its resources on the establishment of scientific evidence for its Kampo formulations in its research activities. This policy was deployed to recognize the fact that, if Kampo formulations are to become a trusted treatment option in Japan today, it will be necessary for these formulations to be understood through the framework of Western medicine. As a product of these efforts, theses on such scientific evidence published in domestic and overseas academic journals have been contributing to a noted change in the perception of medical practitioners with regard to Kampo formulations and Kampo medicine as a whole.
+Improve presence of Kampo formulations
+Since fiscal 2005, Tsumura has been working on the establishment of scientific evidence on the efficacy and safety of Kampo formulations, namely, the five “drug fostering” program formulations, which have been demonstrating special efficacy for certain diseases in fields where medical treatment needs are high and that are difficult to treat with Western drugs. In addition, we defined the five “growing” formulations in fiscal 2017. Since then, we have been advancing research with the goal of having these formulations listed in medical treatment guidelines.
+Going forward, we will continue to provide information, including supplying basic and clinical evidence, and differentiating Kampo medicine approaches, pertaining to the “drug fostering” program formulations, the “growing” formulations, and formulations related to the Company’s three important domains (seniors, cancer (supportive care) and women). In addition, we aim to collaborate with external research institutes to verify the efficacy of Kampo to treat COVID-19. We are cooperating in various basic and clinical research. Through these efforts, we plan to enhance the presence of Kampo formulations and to expand the Kampo.
+R&D Expenses / R&D Expenses Margin
+R&D Expenses
+5.2 5.2
+R&D Expenses Margin5.1
+4.9
+5.0
+6,270
+ 5,968 6,087 6,048
+2015 2016 2017
+5,926
+      Net sales of prescription Kampo formulations (quantity basis)
+Drug-fostering program formulations (1,000 units) “Growing” formulations (1,000 units)
+Other 119 formulations (1,000 units)
+2018 2019
+(fiscal year)
+ 47
+2016
+2017
+2018 2019
+(fiscal year)
+Related SDGs
+ 20,814
+10,580
+4,132
+6,102
+21,618 22,248
+  19,294
+9,797
+3,772
+5,725
+2015
+20,261
+10,320
+3,984
+5,957
+11,081
+4,324
+11,465
+4,485
+   6,213 6,298Our STRATEGY
+TSUMURA Integrated Report 2020
+Scientific Analysis of Kampo Medicine Using New Technologies
+A characteristic of Kampo medicines is that they comprise various naturally derived substances. Accordingly, scientific analysis of these medicines can be incredibly difficult. Tsumura has thus endeavored to establish scientific evidence on these medicines through various research projects carried out over the course of many years. Our clinical research and evidence development efforts pertaining to efficacy and safety will be continued going forward. In addition, we will commence research projects based on new perspectives, such as elucidating the mechanisms of component substances, verifying the health economics of Kampo medicines, and demonstrating their viability.
+In recent years, we have seen advancements in new technologies owned by the Department of Health Services Research in the Graduate School of Medicine of the University of Tokyo, the Systems Biology Institute, and the National Institute of Advanced Industrial Science and Technology. These advancements have led to progress in Kampo medicine research and analyses using IT technologies and new analytical methods. Furthermore, this fiscal year, we have set up a Kampo Data Science Laboratory within the Tsumura Kampo Research Institute and have embarked on the scientific elucidation of Kampo by using a mathematical approach.
+1
+System Biology
+2
+Metabolomics
+3
+Analysis of Intestinal Flora
+4
+Utilization of Big Data
+1
+Biomarkers*2 Responders, non-responders*3
+Responders, non-responders
+Health economics
+Major New Technologies
+System biology is a biological approach for elucidating the relationships among individual organisms and genes and their various roles through the use of artificial intelligence (AI), physiological approaches, and biotechnology to achieve an integrated understanding, as opposed to analyzing individual biological functions.
+A change in metabolites inside the body or density will occur due to environmental changes such as temperature and light, and external stimuli including diet and drug intake. This is a method of analyzing these metabolites using a mass spectrometer or other equipment, and a research domain applied to the diagnosis of illnesses.
+There are a wide variety of microorganisms living in the intestines. This
+is a domain in which by researching their type and drug-metabolizing functions, we can see the correlation with illness and the responsiveness to drugs.
+Utilization of big data entails using huge volumes of everyday medical data in epidemiological studies for the assessment of quality of medical care and analysis of health economics.
+Area of Analysis
+  Multi-component networks*
+       *1: Kampo medicines are considered to exhibit medicinal efficacy due to their having multiple components that act on different parts of the body. A multi-component network is an action mechanism to show the relationship of those components by analyzing them in a comprehensive manner.
+*2: Biomarkers are a biological factor that enables physicians to evaluate disease states, changes, and degrees of recovery or healing. *3: Responders and non-responders are, respectively, people for whom drugs are effective and people for whom drugs are not effective.
+Progress of Development of Daikenchuto in the United States
+We have organized a system to link the technologies and know-how developed through our Kampo and crude drug businesses as well as our latest basic and clinical research data in Japan accrued through our “drug fostering” program with product development in the United States. We are now working toward acquiring product approval and launching Daikenchuto as a prescription pharmaceutical in the United States.
+Phase IIa clinical studies and medical need assessments for irritable bowel syndrome (IBS), postoperative ileus (POI), and Crohn’s disease were completed prior to the end of
+fiscal 2018. In fiscal 2019, advisory teams were assembled in Japan and the United States to advance development focusing on POI. Despite the spread of laparoscopic surgery in the United States, POI is still an area with significant medical needs in this country, and Daikenchuto has been identified as a promising treatment option in this field.
+In fiscal 2020, we will hold meetings with the U.S. Food and Drug Administration (FDA) and arrange the master schedule for initiatives going forward. Tsumura aims to launch and quickly complete late Phase II clinical studies in fiscal 2021 and beyond.
+Schedule for Development of Daikenchuto in the United States in Fiscal 2020 and Beyond
+Fiscal 2020 Fiscal 2021       from fiscal 2024 onward
+      48
+Decide on Phase III clinical studies and development policy after completion of late Phase II clinical studies
+ 

@@ -1,0 +1,44 @@
+Create a lifestyle through
+new financial services
+ By addressing this material issue, we will contribute to achieving Sustainable Development Goals 8 and 9 by using Seven Bank’s real customer contact points to provide financial services that have value for everyone.
+     Number of households with both spouses working
+(10,000 households)
+1,300 1,200 1,100 1,000
+900 800 700 600
+Households where the husband is employed but the wife is not Households where both spouses work
+500 200020012002200320042005200620072008200920102011201220132014201520162017
+Source: Japan Cabinet Office’s Gender Equality Bureau website
+http://www.gender.go.jp/about_danjo/whitepaper/h30/zentai/html/zuhyo/zuhyo01-03-04.html
+Trend and forecast for market size of services in the sharing economy
+(Millions of yen)
+160,000 140,000 120,000 100,000
+80,000
+53,950
+60,000 40,000 20,000
+126,980 138,610 112,950
+0 2016
+2017 2018
+(Prospect) (Forecast) (Forecast) (Forecast) (Forecast)
+97,700 71,660 82,470
+Source: “Sharing Economy Service Market in Japan: Key Research Findings 2018,” Yano Research Institute Ltd., announced on September 12, 2018
+https://www.yanoresearch.com/en/press-release/show/press_id/1988
+2019 2020 2021 2022
+   Social changes and issues that
+Seven Bank is considering
+Social changes and technological advances are leading to a diversification in customers’ lifestyles and values, one of which is a desire for financial services to be “more close-by, convenient.” Seven Bank believes that this requires innovation and equality of opportunity in financial services that are not bound by conventional concepts.
+Seven Bank’s approach to changes
+and issues
+Seven Bank will incorporate elements like lifestyle diversification and the sharing economy to build new financial services that are not bound by conventional concepts to provide new value that corresponds to changes in people’s lives.
+“Uniquely convenience store” financial services
+Developing products including credit, investment and insurance with a view toward cooperation with the Seven & i Group and outside companies
+     New styles of ATM usage
+Promoting cooperation with new settlement business operators that are opening up new areas of settlement
+Offering “Smartphone ATM transaction service” for cash deposits and withdrawals without using a card
+Expanding top-up transactions for transportation-related electronic money
+Convenient, easy-to-use services that keep pace with social changes and technological advances
+The “real-time money transfer function” supports diversified work styles
+in terms of finances
+“ATM Receipt (cash receipt service)” allows customers to receive cash without having an account
+           Real-time money transfer function
+Various remittances by partner companies are made by Seven Bank immediately upon receiving instructions, in cooperation with an outside service operator (e.g., an API [Application Programming Interface] connection).
+With the diversification of work styles, companies that pay salaries or settle expenses immediately use this service to pay employees for the portion of work they do that day or to settle expenses the day they are incurred.

@@ -1,0 +1,108 @@
+Risk Management
+Integrated Risk Management During COVID-19
+Corresponding SDGs
+OMRON’s Risk Management Policy stipulates that “We will identify critical risks to the Group and enable Groupwide responses through the Executive Council” and “In a time of crisis, we will make reports in accordance with established procedures prescribed in the OMRON Rules for Integrated Risk Management and form response teams necessary to address crisis.” Based on this policy and rules, we have responded to the recent COVID-19 pandemic. On January 27, when COVID-19 began spreading in countries and regions outside China, OMRON declared the COVID-19 pandemic a Grade A Crisis that would hinder the achievement of the OMRON Group’s important goals. We launched the Pandemic Response Headquarters headed by Nitto, Director, Senior Managing Executive Officer, CFO and Senior General Manager, Global Strategy HQ, taking measures to ensure the safety of employees and business continuity.
+As COVID-19 then began sweeping the globe, President and CEO Yamada deemed it necessary to upgrade risk management to deal with a Grade S Crisis, which represents the highest risk, and appointed himself the director- general of the emergency headquarters. Since then, we have worked with all OMRON Group companies around the world to strengthen measures against COVID-19. Putting our top priority on ensuring the health and safety of employees, as well as preventing the spread of the disease in regions where the companies operate. We have arranged to deliver relief goods to employees working in regulated areas and are preparing IT infrastructure and other measures to expand telecommuting. Based on the assumption of living COVID-19, we will continue to ensure the safety and peace of mind of employees and prevent the spread of the disease in communities, and we will play our role in ensuring the supply to our customers and fulfilling social responsibilities.
+Integrated Risk Management for Supporting Global Business Activities
+OMRON initiated its integrated risk management when it began executing VG2020. Our risk management platform reflects the sentiment of top management that the faster pace of change in the operating environment and rising levels of uncertainty calls for rapid response to risk. We have become more attuned to risk, scenting and addressing risks at the earliest stages.
+To visualize diverse risks faced in the course of our global business operation, we have categorized the entire spectrum of risks that impact management performance and financial health and have charted their interrelationships.
+We aim to develop effective risk
+management whereby all employees
+and management teams can work
+together to solve issues arising from
+environmental changes that cannot be
+resolved at the working level. We work
+to improve our initiatives by following
+the plan-do-check-act (PDCA) cycle on a global scale.
+Another important aspect is to consider the accelerated environmental changes as opportunities and determine how to take risks. While adhering to the OMRON Management Philosophy and OMRON Group rules, we are addressing how to make efficient, effective, and prompt risk decisions at the working level.
+Business Risks External Risk
+Macro: Economic downturn
+Management, Business Strategy, Financial Risk
+Finance: Ratings downgradeEnvironmental Environmental laws conservation: and regulationsProcurement: Price changes
+Macro: Market trends
+Finance: Interest rate situationLegal: Anti-briberyLegal: Anti-trustQuality: Defects, recallsR&D: Patent disputesR&D:
+Brand infringement
+Legal: Information securitiesLegal: Security trade controlsQuality: Initial response failureProcurement: Supplier CSR issuesMacro: Exchange fluctuationFinance: Market volatilityGeopolitical RiskGeopolitical Change in
+risk:
+international relations
+Geopolitical Stricter laws and
+regulationsrisk:Geopolitical Trade restraints risk:
+Legal Risk
+Crisis Decline in social response: evaluation  Natural Contagious disaster disease
+ Natural Climate change disaster and disaster
+IT security: Data breach
+IT security: Major data collapse
+   Natural Unforeseen disaster disaster
+   19 OMRON Corporation Integrated Report 2020 Vision
+Natural Disaster Risk
+Graphic representation of the business risks as shown on https://www.omron.com/global/en/ir/management/risk/
+IT security: System failure
+Resource, Infrastructure Risk
+Procurement of Component components: shortages
+Production: Product supply disruption
+Human Industrial
+accident
+resource:
+Impact on management performance and financial health
+                                Integrated Risk Management Structure
+OMRON has established a PDCA cycle that is conducted throughout the year to analyze risks, respond to material risks, and engage in crisis management. To promote initiatives on a global scale with all employees, risk managers are appointed for each headquarters, division, regional headquarters, and group company across the world.
+Activity Cycle for Integrated Risk Management
+ Corporate Ethics & Risk Management Committee
+Determine risk response plan for the upcomin
+year
+Determine budgets for the upcoming year
+g
+Plan
+Do
+Execute Plan
+Share and report information related to material risks
+Conduct activities based on the plan Corporate ethics month
+  Board of Directors
+Annual activity review
+Executive Council
+Act
+Report the progress of activities for the current year
+Report the results of global risk analysis Determine material Group risks for the upcoming year
+Check
+Analyze Global Risk
+Headquarters, regional headquarters,
+divisions
+Corporate Ethics & Risk Management Committee
+Annual activity review
+Share analysis of risks
+Identify material Group risk candidates
+     Critical Risk Management
+One of the main initiatives of integrated risk management is to analyze risks on a global scale, identify material risks, and take measures to address them. OMRON classifies risks that may jeopardize the existence of the Group or result in substantial social liabilities as Grade S risks. The most critical risks in the management of the Group, and risks that would impede the achievement of important Group goals is classified as Grade A risks. The grade of risks is discussed by the Corporate Ethics and Risk Management Committee and then graded by the Executive Council.
+FY2019 Critical Risks
+Grade S risk: business continuity, global information/IT security, global statutory violations (such as
+bribery), and others
+Grade A risk: geopolitical risk, occupational safety and
+Disclose Results of Activities
+Frequency
+Extremely high High
+Moderate Low
+health, and others
+CBAS
+                       Vision OMRON Corporation Integrated Report 2020 20
+Impact
+  As a risk manager for the Americas, including the United States, Canada, Mexico, and Brazil, I am responsible for the management of risks, environment, safety and health, and facilities. My duties include assisting with developing business continuity plans (BCPs) in the event of a natural disaster or pandemic.
+When COVID-19 began to spread across the Americas, we took three initiatives to
+continue our business while placing top priority on ensuring the safety and health of
+OMRON employees.
+First, we mandated that, in principle, all salespeople and administrative workers in
+the Americas, accounting for the majority of employees in the region, work from
+home. As there are many hurricanes and other natural disasters in the Americas, we
+had already tested this prior to COVID-19. As a result, the initiative went smoothly.
+Second, we took initiatives for employees working at factories. At each factory, we
+quickly implemented a non-contact measuring system to take the temperature of
+employees coming to work, distributed protective gear, and took swift measures to
+avoid the “Three Cs (closed spaces, crowded places, and close-contact settings).”
+Lastly, we focused on communication. Legal affairs departments took a lead in
+collecting information on COVID-19 provided by federal and state governments as well as information received from employees regarding initiatives during the COVID-19 pandemic. We shared these information was shared with employees on a regular basis. To ease employees’ anxieties, we distributed face masks to those who could not obtain them themselves and also supplied a COVID-19 prevention kit containing rubber gloves, face masks, and goggles to employees who had to visit customers.
+We intend to draw on this experience to develop a resilient risk management plan for unexpected situations.
+OMRON MANAGEMENT CENTER OF AMERICA Americas Risk Manager
+Kevin Bulatek
+Grade S risk Grade A risk
+Critical risks in each business
+
+                                

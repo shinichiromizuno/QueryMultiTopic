@@ -1,0 +1,2905 @@
+      Management Planning Department
+ULVAC, Inc.
+2500 Hagisono, Chigasaki, Kanagawa Prefecture 253-8543, Japan TEL. +81-467-89-2033 FAX. +81-467-82-9114
+https://www.ulvac.co.jp/en/
+                                             Basic Corporate Philosophy/Management Policies/Sustainability Policy
+ULVAC’s Vacuum Technology
+   Basic Corporate Philosophy
+The ULVAC Group aims to contribute to the development of industries and science by comprehensively utilizing its vacuum and peripheral technologies through the mutual cooperation and collaboration of the Group companies.
+Management Policies
+Improve Customer Satisfaction Innovations in ProductionTechnology Development of Original Products Free and Open-minded Organization Enhancing Corporate Value
+Vacuum Technology,
+ULVAC’s Core Competence
+Stated simply, a vacuum is a space where the pressure
+is lower than the atmospheric pressure. A vacuum has interesting properties: for example, materials’ lower boiling points in a vacuum mean they are more likely to evaporate and gas molecules can travel in a straight line in a space. ULVAC has developed various application technologies that exploit the properties of a vacuum in its quest to realize the remarkable potential inherent in vacuum technology.
+For example, using vacuum technology, it is possible
+to create ultrathin films with micron- to nanometer-order thickness. Since such thin films cannot be produced by physically stretching materials, advanced vacuum deposition technology is required for depositing layers of atoms or molecules of materials in a vacuum.
+Led by IoT, 5G, and AI, a tremendous wave of technological innovation has brought about the advent of the smart society. Vacuum deposition is destined to fulfill a vital role
+in the fundamental technologies underpinning the smart society.
+ ULVAC’s Business Segments
+Vacuum Equipment Business
+Semiconductor and electronic device production equipment
+◦Semiconductor production equipment
+◦LED production equipment
+◦Electronic device production equipment
+FPD and PV production equipment
+◦Liquid crystal display (LCD) production equipment
+◦OLED production equipment ◦Roll coaters
+◦Solar cell production equipment
+Components
+◦Vacuum pumps
+◦Vacuum gauges
+◦Helium leak detectors ◦Process gas monitors ◦Thin-film measuring equipment ◦EB, RF and DC power generators ◦Vacuum valves
+◦Deposition controllers ◦Vacuum transfer robots
+Industrial equipment
+◦Vacuum heat treatment furnaces
+◦Vacuum melting furnaces
+◦Vacuum brazing furnaces
+◦Rare-earth magnet production equipment
+◦Vacuum freeze-drying equipment ◦High-vacuum distillation equipment ◦Automatic leak testers
+Vacuum Application Business
+Materials
+◦Sputtering target materials ◦High-melting-point materials and
+production of components ◦Nano-metal ink
+Others
+◦Surface analyzers ◦Controllers ◦Mask blanks
+ Sustainability Policy
+ULVAC strives to create economic, social, and environmental value by comprehensively utilizing its vacuum and peripheral technologies.
+     ULVAC Group
+Quality Policy
+ULVAC
+Basic Policy on Occupational Safety and Health Management System
+Basic Procurement Policy
+ULVAC Group
+Environmental Philosophy Environmental Policy
+ULVAC
+Basic Policy for Human Resources Development
+   1
+ULVAC VALUE REPORT 2020 2
+Major Vacuum Equipment
+Sputtering equipment, vacuum evaporation equipment, CVD equipment, etching equipment, ashing equipment, ion implantation equipment, annealing equipment, etc.
+
+                                            Table of Contents/Editorial Policy
+About ULVAC 5 ULVAC’s History
+7 ULVAC’s Businesses
+9 ULVAC’s Value Creation
+ULVAC’s Vision
+19 Commitment ofTop Management
+23 New Mid-term Management Plan
+Basis for Value Creation
+33 Corporate Governance
+42
+43
+44
+45
+Financial Data/ Corporate Information
+51 11-year Financial Data
+    11 13
+ULVAC Group Companies
+Process
+ULVAC’s Value Creation
+Priority Issues
+ULVAC’s Value Creation
+Value Offered by ULVAC’s Business
+Vacuum Equipment Business 1 Semiconductor Production Equipment
+15 ULVAC’s Value Creation
+Research & Development and Global Expansion
+31 Vacuum Equipment Business Industrial Equipment
+32 Vacuum Application Business Materials/Other
+5
+48
+49 Environment
+27
+28 Vacuum Equipment Business 2
+Management Structure
+39 Messages from External Directors 40 Risk Management
+Financial Overview
+55 Consolidated Financial Statements
+Electronic Device Production Equipment
+29 Vacuum Equipment Business 3 FPD and PV Production Equipment
+30 Vacuum Equipment Business 4 Components
+Compliance
+Quality Assurance and Product Safety Procurement
+Human Resources
+Occupational Safety and Health
+37
+53
+59 Company Data/Stock Information/
+    17
+Consolidated Financial
+and Non-financial Highlights
+     Editorial Policy
+We publish the ULVAC VALUE REPORT as a summary of our initiatives in the past year to achieve sustainable growth and enhancement of corporate value, our medium- to long-term vision, and our management approach.
+We consider this report to be an important communication tool to facilitate stakeholders’ understanding of our activities and deepen dialogue with them.
+■ Published:
+November 2020 (Previous issue published in November 2019)
+■ Guidelines Referenced:
+ISO26000: 2010 (Guidance on social responsibility) First Edition The International Integrated Reporting Framework, the International Integrated Reporting Council (IIRC)
+Report’s Scope and Period Scope: ULVAC Group
+ULVAC’s Communication Tools
+  In principle, this report covers the ULVAC Group; any portions that cover only ULVAC, Inc. are indicated as such.
+Period: Year ended June 30, 2020
+(July 1, 2019 to June 30, 2020, FY 2019)
+Some portions of the report include activities and initiatives from July 2020 onward.
+<Disclaimer>
+Figures shown in tables and graphs in this report may not add up to the indicated total because of rounding. Some figures have been revised from previous years’ data because the scope of reporting was expanded or calculating methods have been changed.
+Summarized
+Detailed
+Securities report
+Financial information
+We endeavor to achieve the optimum information disclosure by making various communication tools available to meet your needs.
+To help you deepen your understanding of the ULVAC Group, our communication tools range from statutory disclosure documentation centering on information on financial closing to this report that offers non-financial information, such as social and environmental initiatives indispensable for creating corporate value, in addition to information on business activities, management strategies, and financial information. Please also refer to our website for the latest information.
+ULVAC VALUE REPORT (Japanese and English version)
+  Business report
+Corporate governance report
+  Business results presentation materials (Japanese/English)
+Sustainability (Website)
+ 3
+ULVAC VALUE REPORT 2020 4
+Non-financial information
+
+                                                About ULVAC
+  ULVAC’s History
+When ULVAC was founded back in 1952, vacuum technology had not yet entered widespread use in Japan. As a trailblazer, we championed vacuum technology by introducing new technologies to the market and addressing the needs of customers in diverse industries. ULVAC will continue tackling technological innovation to speed progress toward the “smart society” to which we aspire.
+Challenging new industrial sectors
+Ever since its foundation, ULVAC has been refining its capability to flexibly manipulate vacuum technology. In step with the changing industrial structure, we have always boldly sought to develop new technologies while expanding application fields to include the production of automobiles, chemicals, pharmaceuticals, and food, metallurgy, as well as mass production of semiconductors and electronic devices, flat-panel displays, and organic light-emitting diode displays. Inspired by the promise of the emerging “smart society,” we are confident that our vacuum technology will be a key to the advance of the cluster
+of transformative technologies, including IoT, big data, artificial intelligence, and self-driving vehicles, that will underpin next- generation lifestyles.
+The story of ULVAC’s foundation
+At the time when Japan was engaged in post-war recovery,
+a group of talented young researchers and engineers gathered with the aim of “contributing to the revival of Japanese industry through vacuum technology.” In 1952 six angel investors, impressed by the passion of these visionary young people, invested in the establishment of Japan Vacuum Engineering Co., Ltd., the forerunner of present-day ULVAC.
+1952: Japan Vacuum Engineering Co., Ltd. was founded.
+Each invested ¥1 million (equivalent to ¥25 million today) of their own money
+Fascinating! Y’all must do it!
+          Japan Vacuum Engineering Co., Ltd.
+First president
+Sought investment
+  Great idea!Through vacuum technology let’s help create an affluent future for the up and coming generation.
+Yoshijiro Ishikawa
+President of Keifuku Electric Railroad
+I want to establish a
+vacuum technology company to help drive Japan’s recovery.
+President of Matsushita Electric Industrial
+Gen Hirose
+President of Nissay
+President of Asahi Beer
+Yoshio Osawa
+President of Osawa-Shokai
+Chairman of Chamber of Commerce & Industry of Japan President of Dainihon Sugar RefiningCompany Foreign Minister
+Six investors
+KohnosukeMatsushita TamesaburoYamamoto
+AiichiroFujiyama
+    We will provide wholehearted support to a company wishing to establish the vacuum technology business in Japan.
+Consult
+Second president
+Third president
+Chikara Hayashi
+Sagane Lab of the University of Tokyo
+  1952~ 1960~ 1962~ 1973~ 1975~
+1983~ 1992~ 2016~
+        Automobile
+Reflectors for automobiles
+Vacuum evaporation equipment
+Chemical/ pharmaceutical/food
+Pharmaceuticals
+High-vacuum distillation equipment for plasticizers
+Metal/steel
+Special steel
+100 kg-class vacuum induction melting furnace
+Liquid crystal display
+LCD calculator display
+Transparent conductive film deposition equipment
+Semiconductor
+Computer
+(Photo: Courtesy of IBM Archives)
+System 731
+Electronic storage media
+Discs
+n-line sputtering equipment
+FPD OLED
+        Flat-panel display
+LCD production equipment
+OLED
+LED production equipment
+             History 1952
+◦ Japan Vacuum Engineering
+Co., Ltd. was founded.
+◦ Opened the Omori Plant in Tokyo to start manufacturing equipment in Japan.
+◦ Opened the Yokohama Plant in Kanagawa Prefecture.
+1952
+1964
+1971
+◦ Established a subsidiary in Hamburg, then West Germany, as a base for cultivating the western European market.
+◦ Opened the Institute for Super Materials as ULVAC’s first research facility.
+1975
+◦ Opened the North American Office. Established a subsidiary in North America as a base for exports to the U.S.
+1977
+◦ Established KYUSYU ULVAC CORPORATION (present-
+day ULVAC KYUSHU CORPORATION) in Kagoshima Prefecture to expand sales activities in the Kyushu area.
+1982
+1990
+◦ Opened the Fuji Susono Plant in Shizuoka Prefecture, as a plant dedicated to semiconductor production equipment.
+◦ Established a vacuum pump production base in China.
+◦ Established a subsidiary in South Korea.
+1990
+I
+◦ Changed the company name to ULVAC, Inc.
+◦ Established a subsidiary in Singapore.
+◦ Established a base for full- scale production and field support in China.
+◦ Listed on the First Section of the Tokyo Stock Exchange.
+◦ New buildings of the Head Office/ Plant
+(Chigasaki, Kanagawa Prefecture) completed.
+2000
+2005
+◦ Established a large-scale production base for large LCD production equipment in South Korea.
+◦ Established a subsidiary in Thailand.
+◦ Established R&D bases in South Korea and Taiwan.
+◦ Established a subsidiary in Malaysia.
+◦ Established a production subsidiary for large LCD production equipment in Taiwan.
+2007
+◦ Established a base in India. 2005
+O
+2010
+*Names of companies, organizations and titles are those at the time mentioned.
+2018~
+Advanced semiconductor/ electronic device
+Advanced semiconductor
+Semiconductor production equipment
+◦ Established the Future Technology Research Laboratory in Tsukuba, Ibaraki Prefecture.
+◦ Began manufacturing production equipment for large displays in China.
+2018
+◦ Established the ULVAC-Osaka University Joint Research Laboratory for Future Technology at Osaka University.
+◦ Established the first overseas subsidiary in Hong Kong.
+◦ Head Office/Plant completed in Chigasaki, Kanagawa Prefecture.
+1969
+◦ Changed the company name in English to ULVAC CORPORATION to promote exports.
+1960
+◦ Established a subsidiary in Taiwan.
+◦ Established the Tsukuba Institute for Super Materials in Tsukuba Science City (present-day Tsukuba City), Ibaraki Prefecture.
+◦ Opened the Beijing Office in China.
+1987
+◦ Established ULVAC TOHOKU, Inc. in Aomori Prefecture
+to strengthen production of large-scale equipment.
+1980
+2001
+◦ Relocated the Chiba Institute for Super Materials to the Tomisato Industrial Park in Chiba Prefecture to enhance R&D.
+2011
+◦ Established the South Korea Institute for Super Materials to enhance R&D in South Korea.
+2010
+2015
+NRC
+Equipment Corporation U.S. vacuum equipment manufacturer
+Cooperation
+1941:Vacuum Club
+was established.
+* 1950: Renamed Vacuum Technology Association
+Jin Imachi
+Mazda Research Laboratory of Toshiba
+         1955
+1968
+2002
+2016
+1959
+2003
+1972
+1995
+1970
+2015
+1983
+2004
+2006
+ 5 ULVAC VALUE REPORT 2020 6
+ Customers’ products Corresponding ULVAC products
+
+   About ULVAC
+    ULVAC’s Businesses
+Across a wide range of industries, ULVAC is a source of numerous products and technologies that meet the needs of our customers and the market.
+At present, ULVAC operates businesses in six areas.
+Net sales by business segment (amount and %)
+Net sales by region (amount and %)
+Other Asia
+¥5.6
+ Europe,
+North America and elsewhere
+¥9.4 Taiwan 5 billion
+%
+billion
+South Korea
+    Vacuum Application Business
+Vacuum Equipment Business 83
+Ratio of sales overseas
+3
+¥ 30.6
+64
+¥15.0
+% ¥154.8 17
+billion %
+%
+ULVAC not only develops a range of FPD and PV production equipment but also offers solutions worldwide that leverage its development of advanced materials.
+34%
+185.4
+16
+24
+8
+  billion
+billion
+%
+Japan
+ ULVAC is a source of technology derived from vacuum-based production equipment for diverse industries.
+ULVAC is a source of electronic materials, such as sputtering targets, for diverse industries. In addition, in the high- performance materials sector, ULVAC is a source of integrated manufacturing and precision processing technologies for titanium, tantalum, zirconium, niobium, etc.
+ULVAC has been involved in
+this business sector since the emergence of vacuum technology
+in the 1950s. Leveraging the fundamental technology it has developed so far, ULVAC currently provides various solutions across wide-ranging industries, including the automobile, pharmaceutical, and food industries.
+7 9% %
+10%
+Net sales in FY 2019
+%
+¥21.1
+Net sales in FY 2019
+¥66.7
+%
+billion
+36
+billion
+¥67.5billion 36%
+United States
+  12
+billion
+¥185.4
+China
+%
+   ¥
+billion
+Employees by region (number and %)
+Southeast Asia
+160
+3
+   7
+ULVAC VALUE REPORT 2020 8
+Others
+Materials
+¥17.1
+¥13.5
+billion
+billion
+As a comprehensive vacuum
+product manufacturer, ULVAC is also dedicated to the development of components. ULVAC pursues cutting- edge vacuum technology while providing a wide range of product lines, extending from vacuum pumps and measurement and analysis equipment, to components, such as power generators for various types of deposition equipment and vacuum valves.
+%
+%
+%
+FPD and PV production equipment
+¥62.1
+billion
+Ratio of employees overseas
+142
+2
+persons
+%
+  %
+persons
+%
+49
+Taiwan
+% South Korea 9
+persons
+563
+  Industrial equipment
+¥18.4
+billion
+Semiconductor and electronic device production equipment
+¥45.1
+billion
+661
+Number of employees inFY2019
+persons (As of June 30, 2020)
+persons
+China
+1,572persons 25%
+10
+6,370 Japan
+Components
+¥29.1
+billion
+Higher integration and higher performance at lower cost are demanded for next-generation semiconductors
+and other high-performance devices. Based on its development of super- miniaturization technologies for such semiconductors and other electronic devices, ULVAC delivers a stream of new technologies and products to the world that underpin the progress of society.
+%
+3,272
+51
+persons
+ 
+                                                About ULVAC
+    ULVAC’s Value Creation <Process>
+As a comprehensive vacuum product manufacturer, ULVAC will contribute to the realization
+of a sustainable society.
+Value Creation
+  Value ULVAC Offers to Stakeholders
+Customers
+Contribution to customers’ business activities, technological innovation, and value creation; offering of cutting-edge production technology, enhancement of productivity and quality, and reduction of environmental impacts through equipment and services
+Shareholders and investors
+Enhancement of corporate value, greater returns
+Suppliers
+Achievement of growth together with ULVAC based on trust and collaboration, fair and free competitive environment
+Local communities
+Creation of employment opportunities, industrial development, reduction of environmental impacts
+Employees
+Workplaces offering job satisfaction
+Contribution to realization of a sustainable society*3
+Major contributions through products and services
+Value Offered by ULVAC’s Business P.13 Major contributions through processes
+Partnerships for the goals
+*3 Indicates relationships with the United Nations’ Sustainable Development Goals (SDGs).
+           ESG
+ULVAC’s major initiatives
+Relevant SDGs
+Reference pages
+ E
+(Environment)
+・Environmental management ・Environmentally friendly
+products
+・Contribution to reduction of power consumption of various devices
+  P.13 P.49
+S
+(Social)
+・Quality management
+・CSR procurement
+・Occupational safety and health
+  P.43 P.44 P.48
+・Social contribution activities
+      WEB ※3
+*2
+G
+(Governance)
+・Corporate governance ・Management structure ・Compliance
+・Risk management
+  P.33 P.37 P.40 P.42
+ ・Human resources development
+・Diversity & inclusion
+・Health management
+・Creating motivating workplaces
+   P.45
+       Intellectual Capital
+Number of patents owned*1
+Japan: 2,401
+Overseas: 2,509 R&D and capital
+expenditures
+¥13.5billion Capital
+Human Capital
+Number of employees*1 6,370persons
+Customer-oriented development, design, procurement, manufacturing, sales, and service capabilities
+Priority Domains P.11
+   Realization of the smart society Fundamental technology for realization of the smart society
+Energy management, next-generation energy
+Healthcare, life innovation
+Construction, social infrastructure, mobility
+   Manufacturing
+Principal production bases*1 Japan: 17
+Overseas: 10 Financial Capital
+Coating business
+Advanced
+materials Materials
+Customer support
+Services
+   Interest-bearing debt
+Equipment control
+Vacuum Application Business
+FPD PV
+  Social issues
+¥ 49.8billion Shareholders’ equity*1
+Control Analysis
+Surface analysis
+Vacuum Vacuum Equipment
+¥
+billion D/E ratio*1
+Business
+Equipment
+154.3 0.32
+  Social Capital
+Participation in consortia and collaboration with universities and other institutions
+Relationships of trust with customers and business partners worldwide
+Industrial equipment Components
+Semiconductors Electronics
+       Basis for Value Creation
+Quality Assurance
+Product Safety Procurement
+P.43 P.44
+Human Resources
+P.45
+Occupational Safety and Health
+Environment
+P.49
+Social Contribution2 Activities *
+WEB
+  9
+ULVAC VALUE REPORT 2020 10
+*1 As of June 30, 2020
+*2
+For details ●▶ 
+Website>>Sustainability>Social Contribution Activities
+Corporate Governance Management Structure
+Basic Corporate Philosophy
+P.48 P.33
+P.1
+n
+o
+i
+t
+a
+z
+i
+m
+i
+x
+a
+M
+o
+f
+S
+y
+n
+e
+r
+g
+y
+
+                                               About ULVAC
+    ULVAC’s Value Creation <Priority Issues>
+We are committed to realizing a society that is not only safe and secure but also affluent and convenient by offering value utilizing vacuum technology, which is indispensable for industrial and scientific development.
+We will continue helping to resolve social issues in cooperation with our customers through the provision of products and solutions to them.
+* Indicates relationships with the United Nations’ Sustainable Development Goals (SDGs).
+ Social issues
+ Market opportunities
+ULVAC’s business activities
+   Customers and their products
+ Contribution to resolution of principal social issues*
+Priority domains
+ULVAC’s six businesses
+Main value offered by the business
+Semiconductor production equipment
+Electronic device production equipment
+FPD and PV production equipment
+Components
+Industrial equipment
+Materials
+ Progress of the smart society, advances in 5G and IoT, and establishment of network infrastructure
+Aspiration for the progress of all industries and technological innovation
+Diversification of semiconductor and electronic device applications and needs
+Trend toward devices with smaller size, more speed, larger capacity and lower power consumption
+ Realization of the smart society
+Autonomous driving, agriculture, healthcare, virtual currency, etc.
+    See
+See
+ See
+Response to new semiconductor and electronic device fields and needs by applying vacuum deposition and other technologies and R&D of cutting-edge processes through collaborative creation with customers
+   FPD, semiconductor, electronic equipment, and device manufacturers
+Semiconductors: Memory, logic
+DRAM, PCRAM, 3D-NAND, CPU, etc.
+      Contribution to realization of an advanced, convenient, safe and secure, smart society
+     Fundamental technology for realization of the smart society IoT, cloud, AI, robots, big data, drones
+       See
+See
+  Functional devices: Sensing, communication (5G), display
+MEMS, SAW/FBAR devices, OLED, etc.
+     Environmental issues, such as global warming and climate change
+Global energy issues due to dependence on finite resources
+   Progress of renewable and low- carbon energy systems
+Improvement in energy conversion efficiency
+  Energy management, next-generation energy
+    See
+   Enhancement of performance of solar cells and power devices by vacuum deposition, ion implantation and other technologies, contribution to reduction of power consumption of various devices
+  Solar cell manufacturers, battery manufacturers, etc.
+Energy:
+Heat generation, power storage, conversion
+Solar cells, all-solid-state batteries, power devices, magnets for wind turbines
+      Contribution to creation of a sustainable society by power generation, energy storage and energy saving
+    Food safety and security, population explosion and sharp increase in demand for food in emerging countries, increase in food loss
+Longevity, needs and progress of health promotion and healthcare
+ Longer preservation of food and pharmaceuticals, volume reduction
+Healthcare, life innovation
+     Longer life and volume reduction of freeze-dried food, powder vaccines, drugs, etc. by vacuum freeze drying and other technologies
+Food manufacturers, pharmaceutical manufacturers, etc.
+Foodstuffs, pharmaceuticals: Freeze drying
+Freeze-dried foods, emergency provisions, supplements, powder vaccines, etc.
+   Contribution to human health, the future of medicine, and realization of a sustainable society with minimal food loss by means of safe and secure foods and pharmaceuticals
+      Aging of infrastructure in developed countries
+Development of industrial infrastructure in emerging countries
+Wider gap between rich and poor
+  Development of safe, secure and comfortable infrastructure
+ Construction,
+social infrastructure, mobility
+      Enhancement of performance of industrial materials and response to new materials by applying vacuum heat treatment and other technologies
+ Chemical and materials manufacturers, steelmakers, transportation equipment manufacturers, etc.
+Industrial materials: Heat treatment
+Glass building
+materials, industrial materials, materials for transportation equipment, etc.
+    Contribution to creation of a sustainable society that is safe and secure and comfortable
+                   11
+ULVAC VALUE REPORT 2020 12
+
+                                              About ULVAC
+  ULVAC’s Value Creation <Value Offered by ULVAC’s Business>
+Through implementation of the Basic Corporate Philosophy stating that the ULVAC Group aims to contribute to the development of industries and science by comprehensively utilizing its vacuum and peripheral technologies, ULVAC aims to be an enterprise indispensable for society.
+
+ULVAC supports the smart society
+The smart society, whose emergence is accelerated by IoT and 5G, is expected to become social infrastructure that can balance the resolution of the social issues addressed by the SDGs and economic development. ULVAC is helping bring about a smart society, whose attributes will include sustainable cities and communities, good health and well-being, and zero hunger, through technological innovation in semiconductors, electronic devices, displays, and other fields, thus contributing to realization of an advanced, convenient, safe and secure, smart society.
+
+Addressing soaring electricity demand and environmental and energy issues
+Environmental issues, such as climate change and global warming, and global energy issues due to dependence on finite resources are intensifying. ULVAC will contribute to the creation of a sustainable society by power generation, energy storage and energy saving through enhancement of the performance of solar cells, batteries, power devices, and other products. ULVAC will offer comprehensive support for digitization by helping address the issue of soaring electricity demand that entails the emergence of the smart society.
+
+Contributing also to the food and pharmaceutical fields through comprehensive utilization of vacuum technology
+While the population explosion and sharp increase in demand for food in emerging countries highlight the need to eliminate hunger and malnutrition, in developed countries, the disposal of food and food loss are increasing.There are also ever-greater needs for healthcare, including countermeasures for infectious diseases, greater access to healthcare, promotion of welfare, and development of vaccines and drugs. ULVAC contributes to human health, the future of medicine, elimination of hunger and malnutrition, and realization of a sustainable society with minimal food loss by enabling longer preservation of food and pharmaceuticals and safe transportation through longer life and volume reduction of food, powder vaccines, drugs, etc. using vacuum technology.
+
+ULVAC has been contributing to diverse industries through vacuum heat treatment technology ever since Japan’s postwar economic boom. ULVAC will also contribute to development of safe, secure and comfortable infrastructure in emerging countries by enhancing the performance of industrial materials.
+
+ULVAC’s Value Creation<Research & Development and Global Expansion> Research & Development
+Ongoing value creation from a medium- to long-term perspective
+ULVAC has long been a source of vacuum-technology-based products and materials indispensable for wide- ranging industries. Building on our strengths in vacuum technology, we will continue to promote innovative, pioneering R&D capable of addressing actual and potential needs and create high-added-value products and technologies, thus contributing to the progress of society.
+To continue to provide innovative technologies and products in the everchanging market, our R&D projects undergo selection and focus in which a clear distinction is made between “development of innovative technology for principal products of the mainstay business” and “development of fundamental technologies in preparation for the future” based on analysis of customer needs and market trends. Moreover, our development structure leverages business partnerships with various companies and research institutions.
+We are also striving to equip ourselves with the advanced technologies necessary to respond swiftly to the progress of 5G and IoT in line with the establishment of global network infrastructure and the smart society while flexibly addressing social issues, including environmental issues such as global warming and climate change, thus establishing a foundation for long-term sustainable growth.
+
+Initiatives of the ULVAC-Osaka University Joint Research Laboratory for Future Technology
+On November 1, 2018, ULVAC, Inc. and the Graduate School of Engineering at Osaka University established the ULVAC-Osaka University Joint Research Laboratory for Future Technology (hereafter referred to as the “Joint Research Lab”) in the Central Terrace Building of the University’s Suita Campus. Through Osaka University’s industry- academia collaboration framework, the Joint Research Lab is working to achieve practical applications of the seeds of basic research in
+the engineering field, contribute to academia and industry based on medicine-engineering collaboration in the medical field, and develop highly creative human resources by promoting industry-academia exchanges. ULVAC positions the Joint Research Lab as a center of excellence for basic research and aims to create new value, including creation of quantum dot phosphors employing ULVAC’s proprietary technologies, which will lead to next-generation displays including full- color illumination, as well as technology for their mass-production, and the establishment of fundamental technologies in medicine and next- generation ceramics as part of development of application for the ultra- fast freeze-drying technology.
+1) Development of next-generation displays (quantum dot, LED) 2) Creation of next-generation devices using photon spin
+3) Establishment of a cell preservation technique using ultrafast
+ freeze-drying technology,
+etc.
+
+Capital Expenditures and R&D Expenses (Actual and Forecast)
+¥50.0 billion in R&D investments (capital expenditures for R&D and R&D expenses) is planned centering on the growing semiconductor and electronic device fields for the three years covered by the new mid-term management plan.
+
+Global Network
+Networks offering solutions to support industrial development worldwide
+ULVAC has established optimal networks covering development, sales, manufacturing, and services not only for Japan but also for the United States, Europe and Asia.
+To spur development by capitalizing on the global development system, ULVAC is promoting joint development with leading companies and research institutions around the world.
+
+In regard to manufacturing, ULVAC has expanded a production system centering
+on Japan, China, South Korea, and Taiwan. Going forward, we will emphasize improvement of production efficiency by promoting optimal production. Whereas each base has established its own local supply chain, the ULVAC Group will strive to optimize procurement by developing a global supply chain.
+
+ULVAC’s customer support solutions pool the Group’s knowledge
+Our customer support network (66 bases in 13 countries) in Japan and around the world underpins our customers’ production operations in a manner that meets their needs throughout the life cycle.We offer comprehensive maintenance service covering components and make proposals for improvement and refurbishment covering customers’ processes. Furthermore, by using information on customer needs as feedback for the development of new equipment, we aim to offer even more sophisticated vacuum technologies and service. We will also expand remote customer support packages utilizing IoT equipment for the future.
+
+  TOPICS
+Mining of materials for products
+Effective utilization of resources throughout the life cycle and addressing environmental issues
+Initiatives for enhancement of equipment recyclability and production technology improvement
+Procurement of parts and consumables
+Modification of equipment and machines already in operation, reduction of power consumption, maintenance that also covers components
+Relevant SDGs
+Customers’ plants sales of refurbished used machines
+     ULVAC’s plants
+  ULVAC is contributing to reduction
+of power consumption, waste, and consumption of raw materials throughout the life cycle, including the customer support phase.
+Rejuvenation, precision cleaning, and resource recovery
+(extension of component life and the cleaning cycle, recovery of valuable materials, etc.)
+
+About ULVAC
+  Consolidated Financial and Non-financial Highlights
+Consolidated Financial Highlights
+Non-financial Highlights
+労働災害度数率
+ULVAC, Inc. (non-consolidated)
+1.66
+1.02
+0.37
+Net sales
+営業利益
+Operating profit
+Rate of lost-work-time injuries
+年次有給休暇取得率(%)
+Voluntary retirement rate
+(Billions of yen)
+250 200 150 100
+50 0
+249.3
+(Billions of yen)
+36 27 18
+9 0
+All industries
+Manufacturing
+industry (%)
+ULVAC, Inc. (non-consolidated)
+1.98
+231.8
+220.7
+35.4
+23.8
+16.0
+2.0 1.5
+1.06
+1.0
+0.5
+0.0
+1.63
+1.15
+0.00
+1.83
+1.20
+0.00
+1.80
+1.20
+0.00
+6.0 4.5 3.0 1.5
+0
+        192.4
+185.4
+29.5
+1.61
+         17.9
+2.54
+       1.71
+2.21 1.06
+       0.00
+    Net income
+自己資本比率
+Equity ratio
+Localization ratio of presidents of overseas subsidiaries
+(Billions of yen)
+40 30 20 10
+35.9
+(%)
+60 45 30 15
+49.5
+53.5
+54.6
+(%)
+100 75 50 25
+87.8
+82.4
+79.4
+(Persons)
+800 600 400 200
+2015 2016 2017 2018 2019 (FY)
+2015 2016 2017 2018 2019 (FY)
+2015 2016 2017 2018 2019 (FY) *Source for average data for all industries and manufacturing industry: “Survey on Industrial Accidents 2019” by
+the Ministry of Health, Labour and Welfare of Japan.
+ULVAC has been promoting various safety initiatives, including risk assessment, through the operation of the Occupational Safety and Health Management System (OSHMS), resulting in safe workplaces. With “safety first” as the Group’s principle, we will redouble our efforts to eliminate occupational accidents. For details
+2015 2016 2017 2018 2019 (FY)
+P.48
+We recognize that people are the source of sustainable value creation and our most important asset. Retention of talented human resources is a prerequisite for continuous technological innovation in a rapidly changing industry. We will continue efforts to retain human resources by pursuing various initiatives. For details P.45
+Number of people participating in vacuum demonstration classes
+       40.2
+78.8
+81.8
+605 602
+  24.5
+33.2
+    16.7
+18.7
+    10.8
+252
+    0000
+    2015 2016 2017 2018 2019 (FY)
+2015 2016 2017 2018 2019 (FY)
+2015 2016 2017 2018 2019 (FY)
+Convinced it is preferable to appoint people of the respective countries and regions to be in charge of management of overseas bases, we have been fostering and promoting local managers and next-generation executives and are promoting assignment of local employees to important positions overseas.
+2015 2016 2017 2018 2019 (FY)
+ROE (Return on equity)
+有利子負債
+CO2 emissions
+Waste emissions
+(%)
+30
+20
+10
+28.5
+29.2
+(Billions of yen)
+80 60 40 20
+(t-CO2) 100,000
+75,000 50,000 25,000
+■
+87,406
+Group companies overseas ■
+91,886
+■
+Total amount of waste recycled (t)
+●
+Final landfill disposal rate (%)
+(%)
+4.9 6.0
+Interest-bearing debt
+■
+Amount of valuable materials recycled (t)   ■ Amount of landfill (t)
+91,7212
+88,961
+( t )
+10,000 7,500 5,000 2,500
+For details P.45
+Group companies in Japan
+83,929
+ULVAC holds vacuum demonstration classes and plant tours for local schools and other public institutions and for people in local communities. As part of our collaboration with Chigasaki City on education in recent years, we are vigorously conducting activities designed to encourage as many young people as possible to take an informed interest in science, since the future leaders in the Shonan area will be drawn from their ranks, for example by holding classes for high school students on the world of work and offering junior high school students opportunities to gain experience in the workplace.
+For details ●▶  Website>>Sustainability>Social Contribution Activities
+       21.9
+62.7
+313
+   28,248
+33,796
+ 30,516
+437
+465
+    31,764
+33,318
+    49.8
+214
+8,479
+359 4.2
+385 4.5
+7,093 346
+4.5 6,007 3.0
+1,580 1.5
+    7,072
+ 12.5
+42.7
+35.7
+35.6
+7,197
+     59,948
+59,159
+58,568
+   55,165
+53,412
+   7.1
+2.9
+1,920
+3.6
+   2,313
+2,222
+2,236
+   00000
+    17
+2015
+2016
+2017
+2018
+2019
+(FY)
+2015
+2016
+2017
+2018
+2019
+(FY)
+2015 2016 2017 2018 2019 (FY)
+Recognizing that electricity accounts for a large proportion of energy consumption, we are promoting energy saving in production and product development and evaluation while introducing facilities with excellent energy-saving performance. For details P.49
+2015 2016 2017 2018 2019 (FY)
+We are taking steps to reduce landfill disposal of waste and increase the recycling rate while promoting resource-conscious manufacturing, including design to reduce processing
+losses and minimize waste materials.
+For details P.49 ULVAC VALUE REPORT 2020 18
+                                             ULVAC’s Vision
+19
+ULVAC VALUE REPORT 2020 20
+Commitment of Top Management
+ Achieve sustainable growth through investment in development for growth, structural change and contribute to technological innovation
+Setsuo Iwashita President and Chief Executive Officer
+Realize the smart society and achieve steady growth
+Contributing to the smart society by supporting technological innovation 
+By comprehensively utilizing the vacuum and peripheral technologies cultivated since its foundation, ULVAC has been supporting technological innovation in diverse industries and achieved growth while contributing
+to customers’ business expansion and society’s development.
+The business environment in which ULVAC operates has been undergoing a phase of unprecedented transformation in recent years. This transformation
+is taking place in the context of various social issues such as: healthcare systems, water and food, logistics, and transportation stressed by the concentration of population in urban areas, population aging coupled with a declining birthrate; and the growing frequency and severity of natural disasters owing to climate change. Nevertheless, there are high expectations that these issues can be resolved through the realization of a smart society where people’s life styles and industries will become increasingly electronics-oriented and digitized through technological innovation.
+The realization of the smart society is supported by key devices—such as semiconductor memories and logic devices, MEMS/sensors, power devices, etc.—and fundamental technologies enabling large capacity and low power consumption of semiconductor memories and logic devices as well as miniaturization and enhanced performance of MEMS/sensors and power devices. ULVAC will respond to these needs for key devices and fundamental technologies by leveraging its strengths in vacuum thin film processing technology and fundamental technologies for equipment, thus seizing ever-greater business opportunities in the smart society.
+Amid accelerating realization of the smart society
+The COVID-19 pandemic has accelerated realization
+of the smart society while having a big impact on life styles and economic activity. Not only have measures implemented in response to COVID-19 compelled us to adapt to new ways of life and of doing business, but they also have spurred initiatives—the shift to remote working, digital transformation (DX), remote medicine, online provision of education, entertainment, and services—whose progress was previously gradual owing to various constraints.
+Realization of the smart society is expected to accelerate with a view to solving various social issues. In these circumstances, in order to contribute to technological innovation, ULVAC needs to strengthen product development capabilities in the semiconductor and electronic device fields, which are growing markets,
+and also improve profitability by enhancing productivity so as to achieve sustainable growth.
+For the new mid-term management plan covering three years from FY 2020, we set a basic policy that has two principal elements: “investment in development
+for growth (selection and concentration)” and “profit- oriented management through structural change.” I refer to the details below.
+Steady progress of initiatives for business growth and value creation
+FY 2019 business results and the impact of the COVID-19 pandemic
+In FY 2019, the spread of COVID-19 imposed severe constraints on economic activity worldwide, resulting
+in rapid deterioration of economic conditions in the second half of FY 2019. Despite these circumstances, capital investment of foundries and logic manufacturers in cutting-edge processes remained firm and that of memory manufacturers, which was in an adjustment phase, showed signs of recovery. In the electronic device field, rising demand in line with progress toward the smart society, centering on IoT and AI, led to strong capital investment. Regarding capital investment in the flat panel display (FPD) sector, business opportunities on major investment projects related to liquid crystal display (LCD) for large-screen TVs had come to a cyclical downturn and investment related to organic light-emitting diode (OLED) displays for smartphones entered a temporary adjustment phase.
+Let me review ULVAC’s operations for FY 2019. For FPD and PV production equipment, orders received for LCD production equipment for large-screen TVs and OLED production equipment for smartphones decreased greatly and net sales of FPD and PV production equipment declined year on year. Orders received for and net sales of semiconductor and electronic device production equipment increased year on year because demand for sputtering equipment for logic devices and production equipment for communication devices and power devices was firm. Orders received for and net sales of components decreased year on year owing to weakening of automotive- and FPD-related investment. Orders received for and net sales of general industrial equipment decreased year on year, reflecting sluggish capital investment in China and Southeast Asia. Orders received for and net sales of materials also decreased year on year, reflecting customers’ lower equipment utilization. Owing to travel restrictions and constraints on business activities due to the COVID-19 pandemic, ULVAC’s business was affected to some extent as ULVAC operates globally. We established the COVID-19
+
+                                             ULVAC’s Vision
+Commitment ofTop Management
+Emergency Response Headquarters, which I head as President and CEO of ULVAC, Inc., in order to ensure a timely and appropriate response to COVID-19 and we strove to minimize the impact on business activities
+by implementing measures to prevent the spread of COVID-19 in accordance with the requirements of various countries.
+As a result, consolidated business results for FY 2019 fell short of the initial targets. Orders received decreased 28.4% year on year to ¥156.6 billion, net sales decreased 16.0% to ¥185.4 billion, operating profit decreased 33.0% to ¥16.0 billion, ordinary profit decreased 29.4% to ¥18.1 billion, and net income decreased 42.3% to ¥10.8 billion.
+Review of the previous mid-term management plan and achievements
+Progress on the previous mid-term management plan (covering the period from FY 2017 to 2019) began strongly, but the results for FY2019 fell short of performance targets, due to facters such as struggling sales of OLED production equipment for smartphones, a cyclical downturn in investment in LCD production equipment for large-screen TVs, reactionary decline in investment in semiconductor memory, and compounded by the impact of COVID-19.
+On the other hand, we made steady progress on
+the key strategies of “promoting business growth”
+and “enhancing the power of value creation.” For semiconductor and electronic devices production equipment, we achieved growth in electronic devices such as communication and power devices, and the entry into the logic field. For FPD and PV production equipment, we collaborated with leading companies
+to begin development of next-generation large OLEDs. We also launched manufacturing innovations as the first step in our drive to enhance productivity and achieve transformation to a profitable structure.
+Promote development directly leading to product competitiveness and improve profitability through manufacturing innovations
+New mid-term management plan aims at transformation to a profitable structure
+ULVAC formulated and launched the new mid-term management plan “Breakthrough 2022” (covering the priod from FY 2020 to 2022). Under this plan, we apprehend the trend of technological innovation for
+a smart society as a business opportunity, and will achieve sustainable growth under the basic policies: “Investment in development for growth (selection and concentration)” and “Profit-oriented management
+through structural change.” We will expand investment for the growth in semiconductor and electronic device fields, to strengthen the growing business. Regarding research and development, we will strengthen product development in response to technological innovation in growing markets. We will also promote manufacturing innovations on all processes from engineering and design to production system, aiming to improve profit margins.
+By pursuing initiatives to expand the semiconductor production equipment business, we aim to double
+our share in the logic market and meet customers’ expectations. In the memory market, we also aim to expand our share through entry into new processes while exploiting market recovery. China will be the principal market for electronic device production equipment such as equipment for power devices, MEMS/optical devices, and communication devices. Through our policy of strengthening development, sales and support systems in China where a big market is emerging, we intend to gain market share and grow sales.
+On the other hand, regarding FPD, we intend to promote a shift from LCD to large-substrate OLED. Although sales are expected to decrease compared with previous years, we aim to achieve transformation to a profitable structure by promoting manufacturing innovations.
+* For details of the mid-term management plan “Breakthrough 2022,” such as quantitative targets, please refer to P.23-26.
+Forecast for the first year of the new mid-term management plan
+The business environment at present continues to be pervaded by a sense of uncertainty regarding the future outlook, with the persistence of US-China trade friction and the possibility that the COVID-19 pandemic may continue for a substantial period of time. However, at the same time, we are witnessing increasingly vigorous investment related to semiconductors and electronic devices, in line with the progress of above-mentioned technological innovation for a smart society.
+Sales and profit are anticipated to decline substantially in FY2020, due to a much lower order backlog at the beginning of the fiscal year, but we expect the orders received to increase, primarily for semiconductor and electronic devices production equipment, and FPD and PV production equipment. The operating profit margin will improve due to the progress of manufacturing innovations.
+For FY 2020, on a consolidated basis, we forecast orders received of ¥180.0 billion (+15.0% year on year), net sales of ¥165.0 billion (-11.0%), operating profit
+of ¥15.0 billion (-6.0%), ordinary profit of ¥16.0 billion (-11.4%), and net income of ¥10.0 billion (-7.1%).
+Capital policy
+Regarding the capital policy, we take into account such factors as financial soundness, the capital structure,
+and distribution of profit to shareholders, while securing capacity for growth investment with a view to the future.
+ULVAC recognizes the sharing of profits with the shareholders as one of its most important policies. On the other hand, operating in an industry that undergoes significant changes in capital expenditure trends
+and technical innovations, ULVAC needs to secure sufficient funds for R&D investments in growth fields and establish a stable financial base, and thus intends to enhance its internal reserves. Therefore, the basic policy for distribution of profits to shareholders takes into account such factors as demand for funds, cash flows, performance, and the payout ratio for each fiscal year.
+To create social value while achieving sustainable growth
+Contributing to sustainability based on a long-term vision
+The foundation of ULVAC’s business activities is the Basic Corporate Philosophy stating our aspiration: “to contribute to the development of industries and science by comprehensively utilizing its vacuum and peripheral technologies.” ULVAC established the Sustainability Promotion Committee consisting of internal directors and general managers in FY 2019 in order to examine how ULVAC can contribute to sustainability through
+its operations over the long term, in view of likely developments concerning society and the global environment in the coming years, by rediscovering ULVAC’s origin and clarifying the current positioning. The committee formulated the Sustainability Policy: “ULVAC strives to create economic, social, and environmental value by comprehensively utilizing
+its vacuum and peripheral technologies.” This
+policy encompasses ULVAC’s aspirations to reduce environmental impacts and enhance health and happiness while pursuing appropriate profit through contributions to development of industries and science together with its stakeholders.
+The committee is currently examining key issues (materiality) to be resolved or ameliorated by ULVAC over the long term. By continuously contributing to society through the process of resolving such key issues, our value creation will be materialized.
+ULVAC’s approaches contributing to sustainability through business can be classified into two categories. One category encompasses the provision of products and technologies contributing to reduction of
+environmental impacts, energy saving, resource saving, and resolution of social issues. The other category concerns contributions to society and the environment in the course of business activities. These approaches include, for example, responsible procurement and initiatives to reduce environmental impacts, such as reduction of CO2 emissions and waste in production activities.
+ULVAC’s business is principally B2B, centering on the provision of production equipment and technologies to customers that are manufacturers of semiconductor and electronic devices or FPD. Our contribution to resolution of environmental and social issues is mostly indirect, mainly conducted in partnership with customers. We recognize that key issues that ULVAC needs to address going forward are how to promote our contribution
+to sustainability from a long-term perspective as an enterprise aiming at global growth and development, how to translate that contribution into corporate value, and how to communicate it to stakeholders.
+Commitment to our stakeholders
+ULVAC aims to achieve an early recovery of earnings and resume growth by thoroughly implementing
+the growth strategy based on the new mid-term management plan “Breakthrough 2022.”
+Viewing this era of transformation as a growth opportunity, we will help create a more affluent sustainable future through our contribution to the development of industries and science. We hope for the understanding of all of our shareholders that the company is taking on new challenges, and look forward to your continued and increased support.
+  21
+ULVAC VALUE REPORT 2020 22
+
+ ULVAC’s Vision
+New Mid-term Management Plan: Breakthrough 2022
+Under the previous mid-term management plan, ULVAC tackled promoting business growth and enhancing the power of value creation in readiness for change in the market environment.
+The basic policy of the new mid-term management plan is to promote selection and concentration of investment in development for growth, focused on the semiconductor and electronic equipment business, and pursue profit-oriented management through structural change. With this policy, ULVAC will emphasize strengthening the growing business, strengthening research and development, and enhancing manufacturing capabilities in order to improve profitability.
+Technological Innovation for the Smart Society Realization and Lower Power Consumption while Pursuing Growth by Seizing Opportunities Created by Change
+Review of the previous mid-term management plan
+Under the previous mid-term management
+plan, ULVAC aimed to achieve highly profitable corporate management by comprehensively utilizing vacuum technology, maximizing synergy, and cooperating with global business partners. We also emphasized human resources development
+for the next leap forward and a corporate culture that relishes challenges. With regard to promoting business growth, in the FPD business, we secured an overwhelming market share for sputtering equipment used in the manufacture of large LCDs forTVs. Leveraging ULVAC’s strengths, we also began development of next-generation OLED production equipment. In the semiconductor
+and electronic equipment business, we entered
+the logic field, which was something we had
+long aspired to do, and steadily expanded the equipment business for electronic devices, such as communication and power devices. At the Advanced Electronics Equipment Division, which is in charge of this equipment business for electronic devices, production efficiency has been an issue because a wide variety of equipment is offered to meet diverse customer needs. By promoting manufacturing
+innovation, we have achieved productivity improvement. Regarding global expansion, joint development with leading companies and advanced research institutions worldwide has increased.
+For enhancing the power of value creation, we emphasized enhancing marketing and original technology and product development, which led to achievements such as entry to the logic field and investment in PCRAM. Moreover, we promoted modularization of electronic device production equipment.
+Regarding strengthening of the management base, ULVAC promoted human resources development centering on the next generation
+of leaders while at the same time we promoted globalization of the management team by appointing three more directors who are not Japanese nationals. In order to revise and improve the management style of Group companies, motivated young managers with a challenging spirit were promoted to top management. We also began strengthening the information system infrastructure. Regarding financial soundness, the equity ratio improved from 40.2% to 54.6%.
+Realization of the smart society
+Memory
+Low power consumption
+  (Billions of yen)
+300
+■
+■
+■
+■
+■
+■
+ー
+■
+Others Materials
+General industrial equipment
+Components
+FPD
+and PV production equipment
+Semiconductor
+and electronic device production equipment
+Operating profit margin Operating profit
+Contributing to miniaturization, high performance, and low power consumption required for realization of the smart society
+Progress toward realization of the smart society
+is accelerating with the emergence of IoT, AR/VR, autonomous driving, biometrics, remote medicine, and smart agriculture.
+In particular, the COVID-19 pandemic has spurred digital transformation, including remote work, online education, and remote medicine, while the shift to a data-driven society is also accelerating.
+Realization of the smart society is highly dependent on numerous semiconductor and electronic devices. For various sensors as well
+as for the communication devices receiving and sending data obtained from them, and also for
+the batteries that drive them, higher performance, multifunctionality, miniaturization, and lower cost are required. Furthermore, to handle the exponentially increasing amounts of data, larger storage capacity and faster processing are required for servers and edge computing, and further miniaturization of logic CPUs and memory is underway to respond to these needs.
+Meanwhile, the progress of the smart society will result in a sharp increase in power consumption due to the use of numerous semiconductor and electronic devices. Thus, it is critically important to reduce the power consumption of various devices as well as of CPUs and memory.
+Technological innovation to underpin the emerging smart society through miniaturization and achieving
+high performance and low power consumption
+ULVAC’s advantages
+ULVAC’s advantages are largely attributable to
+its involvement across a wide range of fields and diverse technologies, including vacuum deposition equipment such as sputtering and evaporation, components such as vacuum pumps, and materials used as film deposition targets, as well as its strength in customer support.
+In East Asia, centering on Japan, China, South Korea, and Taiwan, where the world’s manufacturers of semiconductors, electronic devices, and panels
+are concentrated, ULVAC has a broad customer base; a network of relationships with advanced research institutions; a network of development, sales, and customer support bases; and a network of production bases and suppliers.
+In addition, vacuum thin film processing technology; underlying fundamental technologies for equipment, processes, materials, etc.; and collaboration with the world’s leading companies and advanced research institutions enable ULVAC to respond to technological innovation.
+By leveraging these advantages, ULVAC intends to lead technological innovation geared to realization of the smart society and low power consumption so as to contribute to society while growing the business.
+Leveraging ULVAC’s Advantages for Growth
+Integration of
+a wide range of fields and diverse technologies
+    Miniaturization
+Low power consumption
+Sputtering
+Logic ICs
+Sensors
+High performance
+Communicating Devices
+Batteries
+ Vacuum Thin Film Processing Technology
+Chemical Vapor Deposition
+Components
+  Etching
+Materials
+   Vacuum Evaporation
+Customer Support
+  250.0 231.8
+249.3
+  200
+12.7
+100
+29.5
+220.7
+10.8
+23.8
+2018 Result
+185.4
+[Equipment]
+Sputtering Evaporation CVD Etcher etc.
+Strong networks in East Asia
+Wide customer base
+Network of advanced research institutions
+Network of development, sales, and CS bases
+Network of manufacturing bases and suppliers
+Components Materials Customer Support
+Ability to respond to technological innovation
+Vacuum thin film processing technology
+Fundamental technology for equipment, processes, materials, etc.
+Collaboration with leading companies and advanced research institutions worldwide
+  14.0 14.2
+      8.6
+     0
+Result
+35.0
+2019 Initial plan
+35.4
+2017 Result
+16.0
+2019 Result
+(FY)
+ 2016
+    23
+ULVAC VALUE REPORT 2020 24
+In FY 2017, net sales and operating profit (margin) virtually reached the FY 2019 targets. Thus, we upwardly revised the FY 2019 targets to net sales of ¥265.0 billion and operating profit of ¥38.0 billion. However in FY 2018 and FY 2019, net sales and operating profit (margin) fell short of the targets owing to a sharp decline in FPD sales and a drop in investment in semiconductor memories following the previous brisk investment as well as the impact of COVID-19 in FY 2019.
+Solving Social Problems
+   
+                                             ULVAC’s Vision
+New Mid-term Management Plan: Breakthrough 2022
+The basic policy of the new mid-term management plan is twofold: “investment in development for growth (selection and concentration)” and “profit-oriented management through structural change.”To achieve the goals of the plan, ULVAC will strengthen research and development capabilities so as to develop products attuned to technological innovation in growing markets, such as those for semiconductors and electronic devices. We will promote horizontal deployment of manufacturing innovations that achieved good results in the advanced electronics equipment business across other businesses and Group companies, in order to enhance productivity throughout the processes from engineering and design to production and thus improve profitability. We will also implement initiatives to enhance the efficiency of Group management.
+3
+Enhancing Manufacturing Capabilities
+Enhancing Manufacturing Capabilities
+  • Improve profitability by enhancing productivity throughout the processes from engineering and design to production
+●Man-hours ・・・・・・・・・・・ 50%reduction ●Manufacturingleadtime・・・・ 50%reduction ●Procurement cost reduction
+35% or above
+27.3%
+2022 (FY) We will promote manufacturing inovations throughout the processes from engineering and design to production and
+procurement in order to improve profitability through enhancement of productivity, including a 50% reduction in man- hours and manufacturing lead time, as well as reduction of procurement costs. Regarding technical design reform, we will work to enhance the degree of completeness of technical drawings and strengthen value engineering at the design phase by clarifying the equipment concept and the design philosophy in advance and grasping the specifications required by customers early so as to achieve design that can shorten the production process and reduce the unit cost of parts and the manufacturing burden. As for production process reform, we will pursue specialization of individual production bases by eliminating duplication of production so as to enhance productivity. With respect to procurement reform, we aim to reduce procurement costs by developing a global supply chain through integration of production bases’ purchasing organizations. We will also promote strengthening of the information system infrastructure to realize business process standardization and sharing of production information in real time so as to enhance productivity.
+Enhancing Group Management Efficiency
+ Technical Design Reform
+Improving the completeness of technical drawings
+Enhancing design value engineering
+Specialization of production sites Improving manufacturing productivity Production Process Reform
+Procurement Reform
+Integration of purchasing systems Global supply chain redevelopment
+Business process standardization
+Improvement of productivity and business management
+Strengthening the Information System Infrastructure
+    Basic Policy
+ • Investment in development for growth (selection and concentration) • Profit-oriented management through structural change
+ Quantitative targets
+Targets for FY 2022
+Net sales ............... ¥210.0billion Gross profit margin ..... 35% or above
+Operating profit margin ..16% or above ROE ....................... 13% or above
+Operating CF ............. ¥29.0billion
+2019
+ (Billions of yen)
+■ Net sales
+■ Operating profit
+● Operating profit margin
+185.4
+190.0
+210.0
+    ●8.6% 16.0
+●9.1% 15.0
+165.0
+●12.4% 23.5
+●16.2% 34.0
+ 2019
+2020
+Semiconductor
+Electronic Device
+FPD
+Components Materials Customer Support
+2021
+2022 (FY)
+  1
+Strengthening
+the Growing Business
+In the semiconductor field, we have entered the logic market. Moreover, we intend to apply the logic miniaturization process to other processes and to secure its adoption by other companies. We also intend to enter the segment for equipment used in a new memory process. In the electronic device field, our aim is to expand orders received for modularization equipment by responding to an increase
+in investment in power semiconductors, communication devices, sensors, etc. and to grow in the China market. With regard to FPD, we will develop mass-production technology for large-substrate OLEDs. We will also promote further strengthening of components, materials, and customer support, which constitute our stable base.
+Strengthening Research and Development
+• New entry into the logic miniaturization process
+Growth through application to other processes
+and adoption by other companies
+• Resumption of memory investment and entry into new processes
+• Expansion of proposed equipment through modularization • Strengthening development, sales and support systems
+in China
+• Development for mass production of large-substrate OLEDs • Transformation to a profitable structure
+• Sales expansion in the semiconductor and electronics fields • Growth in parallel with equipment sales in China
+4
+• Expand investment for development in the semiconductor and electronic device fields • Enhance components, materials, and customer support
+    25.4
+30.9
+Logic (MHM), PCRAM High-density mounting ashing
+• Promote business unit-based management
+• Strengthen management of Group companies that have their own products
+Regarding Group management, we will promote business unit-based management to enhance management efficiency. We will also strive to spur growth of Group companies that have their own products.
+Gross Profit Margin
+     Strengthening the Management 5 Base
+Business and organizational transformation
+Goals
+Achievement of growth
+Measures, etc.
+        2
+We will strengthen product development in response
+to technological innovation in the semiconductor and electronic device fields, which will be pillars for growth from now on. Selection and concentration in growth
+fields will be promoted through integration of laboratories and sharing of technology and product roadmaps with customers. We will also strengthen the global development system, including promotion of joint development of cutting-edge technologies with leading companies worldwide.
+Strengthen product development in response to technological innovation in growing markets
+Semiconductor and Electronic Device: FPD
+In order to ensure R&D and manufacturing capabilities are strengthened, it is necessary to change conventional ways of doing work. As well as developing human resources with initiative who are predisposed to change, we will endeavor to create a framework and environment in which diverse human resources can play active roles. Moreover, we will promote strengthening of the information system infrastructure, which will support sharing of Group management information and faster management decision-making and enhancement of productivity. Regarding the financial base, we will strengthen cash flow management in order to enhance our ability to invest in development in growing fields and to further improve capital efficiency.
+  5.5 : 4.5
+6 : 4
+7 : 3
+Selection and concentration
+Shifting focus to product development
+      (Billions of yen)
+■ R&D investment
+Total of R&D investment and R&D expenses
+Etching for communication devices Optical film sputter
+G10.5 sputter for large TVs
+Magnetic levitation transport for large substrates
+ 25
+2011-2013 2014-2016
+2017-2019
+2020-2022
+(FY)
+ULVAC VALUE REPORT 2020 26
+Human resources development and activation
+• Cultivating human resources with initiative who are constantly challenging
+• Creating a framework and environment in which diverse human resources can play active roles
+• Nurturing of the next-generation leaders • Visualization of human capital
+• Diversity
+ • Strengthen product development in response to technological innovation in growing markets
+  Strengthening of the information system infrastructure
+• Sharing of Group management information and faster management decision-making
+• Improvement of productivity and business management
+[Total investment of ¥3.5 billion over 5 years]
+• Business process standardization
+• Global and optimal procurement (Efficient ordering)
+ 1. Shift investment into the development of semiconductors and electronics 2. Strengthen global development system
+Joint development of cutting-edge technologies with the world’s leading companies 3. Shift in emphasis from process development to product development
+4. Integration of laboratories
+5. Share technology and product roadmaps with customers
+  50.0
+Strengthening of the financial base
+• Enhancement of development investment capabilities
+• Improvement of capital efficiency
+• Further strengthening of the financial structure
+• Further improvement of capital efficiency by strengthening cash flow management
+• Aim to achieve ROE of 13% or higher and operating cash flow of ¥29.0 billion while maintaining financial stability (Estimated equity ratio: 60%)
+   44.6
+
+                                             ULVAC’s Vision
+ Vacuum Equipment Business
+Semiconductor Production Equipment
+Vacuum Equipment Business
+Electronic Device Production Equipment
+We aim to achieve growth of the semiconductor production equipment business outperforming the market growth rate by continuing to capitalize on investment trends and advanced technological trends in the semiconductor market.
+To accomplish this, we will endeavor to seize growth opportunities based on our business strategy emphasizing responsiveness to the needs and trust of customers.
+Tomoyasu Kondo
+Senior Executive Officer,
+General Manager of Semiconductor Equipment Division
+Orders received (Billions of yen)
+Electronic devices are indispensable in contemporary society. Emergence of the smart society and the spread of remote work are providing a tailwind for the electronic device market. Sensor and communication technologies will continue to develop and evolve. Moreover, the trends toward energy saving and electrification are spurring growth of the power device market.
+We aim to further expand business in the electronic device market.
+Tetsuya Shimada
+Managing Executive Officer,
+General Manager of Advanced Electronics Equipment Division
+Orders received (Billions of yen)
+  35 28 21 14
+7 0
+2016
+2017
+2018
+2019
+(Forecast)
+2020 (FY)
+30 24 18 12
+6 0
+2016
+2017
+2018 2019
+(Forecast)
+2020 (FY)
+                        Review of FY 2019
+We got off to a strong start with order-reciving in the first half of FY 2019, benefitting from the momentum of the electronic device market. However, in the second half, business opportunities stalled and installation of equipment was suspended owing to travel restrictions because
+of the COVID-19 pandemic. As a result, both orders received and sales fell short of the annual targets. In these circumstances, we continued our efforts to strengthen manufacturing capabilities and were able to promote transformation to a profitable structure. By the end of FY 2019, there were indications of a recovery in business opportunities. In FY 2020, despite the continuing impact of COVID-19, we will promote new business opportunities and facilitate installation of equipment by local subsidiaries to expand the business.
+Priority fields
+Medium- to long-term outlook of the market environment
+Since demand for electronic devices will increase with the advent of the smart society and owing to the spread of remote work, the market is expected to continue growing. Although Japanese companies still have a strong presence in the electronic device field, growth of the electronic device market is expected to center on China and elsewhere in Asia. Electronic devices related to the evolution of sensing technology, communication technology, and low-power- consumption equipment represent opportunities for the advanced electronics equipment business. Devices are evolving and we need to continue offering equipment that can keep pace with this evolution. While enhancing existing technology, careful monitoring of technological trends is indispensable since we also need to be capable of swift development in response to innovation.
+ Recognized Business Opportunities
+1. Investment in mass production of leading-edge 5-3nm logic devices
+ 2. New processes and change in materials for leading-edge DRAM and 3D-NAND products
+ 3. Expansion of wafer level package deposition process
+ 4. Mass production of new memory such as PCRAM
+   Conceivable Risks
+1. Intensifying of competition
+ 2. Change in the semiconductor business structure due to prolonged U.S.-China trade friction
+ 3. Delay in new product development and application to mass production
+ 4. Delay in expansion of the new memory market such as PCRAM
+ Recognized Business Opportunities
+1. Realization of the smart society
+ 2. Manufacturing and mass production of electronic devices in Asia
+ 3. Exponential evolution and improvement of electronic devices
+   Priority fields
+ Final products
+  Communication devices Optical devices Electronic devices (MEMS)
+Smartphones Smart devices
+3D sensors In-vehicle displays 5G-ready equipment
+   Devices for EV application Power devices Industrial robots
+ Medium- to long-term outlook of the market
+Energy-saving equipment
+ Smartphones Electronic packaging High-speed data servers
+IoT devices
+  Measures for Reducing Risks and Maximizing Opportunities
+1. Develop products by embracing customer requirements through steady marketing and develop differentiation technology
+ 2. Promote joint development with customers leading the market
+ 3. Strengthen support for development and mass production of leading-edge devices
+ 4. Strengthen support for development and mass-production launch by new customers
+ 5. Provide thorough support to customers that manufacture new types of memory such as PCRAM and maintain 100% market share
+  Conceivable Risks
+1. Constraints on the China business due to intensifying U.S.-China trade friction
+ 2. Sluggish consumption (automobiles etc.) due to the COVID-19 pandemic, which may not abate for some time
+ 3. Growth of Chinese competitors
+    Measures for Reducing Risks and Maximizing Opportunities
+1. Enhance production efficiency through equipment standardization
+ 2. Strengthen installation by local subsidiaries
+ 3. Strengthen and increase the speed of equipment development
+ 4. Disperse development functions overseas
+ 27
+ULVAC VALUE REPORT 2020 28
+Review of FY 2019
+In the wake of memory manufacturers’ vigorous investment that peaked in 2018, the business environment was challenging in 2019 and in the first half of 2020 because of a marked tendency to postpone investment, albeit briefly, due to oversupply and price declines. Investment is expected to resume moderately from the second half of 2020 onward and we expect the recovery trend to give us a tailwind.
+Meanwhile, in the logic/foundry market, a growing number of major customers are adopting our sputtering equipment for the process that requires extreme ultraviolet lithography (EUV) and joint development for new processes is becoming vigorous. Thus, further growth in this market is expected.
+Regarding the sputtering process of PCRAM nonvolatile memory, which has good prospects for future market growth, our equipment continues to be adopted not only by our existing customers but also for development and pilot lines by all other customers who are planning mass production, although investment in mass production has temporarily halted.
+To build on these accomplishments and progress, we are promoting initiatives to further reinforce the foundation for growth by strengthening sales & marketing, production, and customer support systems.
+Medium- to long-term outlook of the market environment
+In line with continuing to rise data traffic in the emerging smart society, semiconductor devices continue to evolve and grow through the expansion of equipment, servers, and edge computing for big data processing. Despite fluctuations from year to year, investment in the memory and logic device segments is on an upward trajectory over the medium to long term.
+As we have entered the logic market in addition to
+the memory market, we now have two pillars sustaining ULVAC’s growth. Based on a business growth strategy unique to ULVAC, we will pursue business development and product development different from other major competing equipment manufacturers to fulfill needs associated with leading-edge devices.
+
+                                             ULVAC’s Vision
+Vacuum Equipment Business
+FPD and PV Production Equipment
+Vacuum Equipment Business
+Components
+The vacuum components business is becoming increasingly borderless and competition with European and American manufacturers is inevitable. In order to prevail, we are developing a global marketing structure, enhancing efficiency of production systems, strengthening quality management systems, and establishing systems for developing products attuned to market needs.
+Ju Hoon Shin
+Executive Officer,
+General Manager of Components Division
+In the promising OLED and lithium-ion battery markets, we offer ever- more advanced products to customers by capitalizing on ULVAC’s unique strengths in large-substrate sputtering and substrate transport technologies, thus strengthening profitability.
+Yasuo Shimizu
+Executive Officer,
+General Manager of FPD• PV Division
+Orders received (Billions of yen) 120
+Orders received (Billions of yen) 40
+      96 72 48 24
+0
+2016
+2017
+2018
+2019
+(Forecast)
+2020 (FY)
+32 24 16
+8 0
+(Forecast)
+2020 (FY)
+                2016
+2017
+2018 2019
+ Review of FY 2019
+We engaged in continuous improvement activities for G10.5 sputtering equipment for large LCD TVs and maintained an overwhelming share of this market segment. However, business opportunities on major investment projects related to large LCD TVs had come to a cyclical downturn and investment related to OLED for smartphones entered a temporary adjustment phase. Moreover, extensive constraints on economic activity in line with the COVID-19 pandemic resulted in a great decrease in orders received compared with the previous fiscal year. Although the impact on net sales was limited because of a substantial order backlog at the beginning of the fiscal year, net sales were still far below the target and the level of the previous fiscal year. In order to adapt to such a drastic change in the market environment, we began initiatives in the second half to transform the business structure. There are signs that the situation is improving; for example, we received an order for a large investment project for sputtering equipment for small and medium-sized OLED.
+Medium- to long-term outlook of the market environment
+Remote work and non-face-to-face communication, such as online meetings, are spreading rapidly owing to the COVID-19 pandemic and a perception that it may not abate for some time.
+In response to these changes in the social environment, there are increasing needs for OLED displays because they can emulate face-to-face communication with superior color reproduction
+and responsiveness to achieve a more realistic and immersive experience. In line with this trend, developments targeting higher definition, use of larger substrates and mass-production systems are gaining momentum.
+The impact of the expansion of non-face-to-face communication is far-reaching and by no means limited to displays. Along with the progress of the smart society, an increase in opportunities to use electronic devices, such as wearable speakers and smartwatches, will expand demand for lithium-ion batteries that are safe and portable.
+We will respond to these expanding new needs, in addition to existing sputtering technologies, and achieving technological differentiation through collaboration with leading companies with the aim of enhancing profitability.
+ Recognized Business Opportunities
+1. Large equipment suitable for mass production of high-definition, large OLED
+ 2. Sputtering equipment for small and medium-sized OLED
+ 3. Evaporation roll coaters for production of electrode parts that enhance safety of lithium-ion batteries
+    Conceivable Risks
+1. Decline in investment because the COVID-19 pandemic may not abate for a considerable time and delay in orders received and sales due to restrictions on movement
+ 2. Constraints on the China business due to intensifying U.S.-China trade friction
+ 3. Delay in the shift and adaption to complex next-generation technology
+ 4. Declines in sales prices and profit due to price competition
+ Measures for Reducing Risks and Maximizing Opportunities
+1. Jointly develop advanced technology with leading companies
+ 2. Strengthen marketing (particularly in FPD and lithium-ion battery markets)
+ 3. Strengthen manufacturing capabilities and develop differentiated technology
+ 4. Strengthen the system enabling swift response to customers despite travel restrictions
+   Review of FY 2019
+During the first half of FY 2019, order-receiving was sluggish owing to slowing investment in FPD and automotive markets
+as well as a worldwide decline in demand caused by U.S.-China trade friction and other factors. As soon as signs of recovery became evident in the second half, COVID-19 emerged and a challenging business environment persisted throughout FY 2019.
+In these circumstances, investment by customers in certain markets, such as the OLED and semiconductor markets, supported our financial performance.
+By enhancing the efficiency of production and sales through integrated management of the Group, we promoted establishment of a system that will enable us to aim for further growth.
+Medium- to long-term outlook of the market environment
+In the OLED and optical device fields, we will develop
+business centering on cryopumps. In growth fields, such as semiconductors and electronic devices, we intend to expand the lineup by launching new products with the aim of increasing our market share and cultivating new customers. In particular, we will strengthen cooperation with equipment divisions to maximize the competitive advantage of ULVAC’s components business with a view to accelerating growth centering on the China market.
+By offering the optimum products for various fields, including analysis, medicine, and food, we are cultivating vacuum applications and promoting expansion of the cryocooler business so as to contribute to the enhancement of the comprehensive value of the ULVAC brand.
+ Recognized Business Opportunities
+1. Large-scale investment in view of big data and the smart society
+ 2. Expansion of market in emerging countries
+ 3. Increase of investment in social infrastructure improvement and in fields such as medicine, food, and air conditioning
+    Conceivable Risks
+1. Stronger competitors expanding business through M&A
+ 2. Intensifying price competition, market entry by low-cost manufacturers
+ 3. Prolonged sluggishness of the market environment
+  Measures for Reducing Risks and Maximizing Opportunities
+1. Expand business fields by strengthening alliances
+ 2. Enhance efficiency of production and sales to reduce cost
+ 3. Develop business focusing on growth fields
+   Components
+Components essential for vacuum equipment.
+ULVAC supplies vacuum pumps, vacuum gauges, vacuum valves, vacuum leak testers, gas analyzers, power generators for deposition processes, etc. to vacuum equipment manufacturers, machinery manufacturers, etc.
+Application example
+Applications for OLED production equipment
+Vacuum measurement
+Advanced research, medical, etc.
+4K cryocoolers for cooling superconductive magnets
+Liquid nitrogen generators
+           Cryopumps
+Dry pumps
+Vacuum valves
+Film deposition controllers
+Vacuum gauges
+Helium leak detectors
+Residual gas analyzers
+   29
+ULVAC VALUE REPORT 2020 30
+ 
+                                             ULVAC’s Vision
+ Vacuum Equipment Business
+Industrial Equipment
+Vacuum Application Business
+Materials
+The industrial equipment business offers vacuum technology solutions involving thermal application. Our products include equipment for freeze drying foods and pharmaceuticals combining vacuum and heating/cooling technology, equipment for high-purity refining using vacuum distillation, and heat-treatment furnaces for various industrial parts. From the current fiscal year, we will promote consolidation of products in cooperation with Group companies and enhancement of equipment quality while strengthening the earnings structure by commencing structural reform of the industrial equipment business.
+Orders received (Billions of yen) 35
+ULVAC offers high-quality, high-performance advanced materials related to vacuum technology to the worldwide market. In view of needs in the emerging smart society and for low power consumption, we develop thin-film materials (mainly sputtering targets) used in the deposition process for semiconductors, electronic devices and FPDs as well as corrosion-resistant, superconductive high- performance materials, manufacture them at our plants and supply them to customers.
+Orders received (Billions of yen) 20
+   28
+21
+14 8
+(Forecast)
+2020 (FY)
+         (Forecast)
+16 12
+      74
+  0 2016 2017 2018 2019
+2020 (FY)
+0
+2016
+2017
+2018 2019
+    Review of FY 2019
+Although the business environment was challenging owing to the impact of the COVID-19 pandemic, we managed to secure sales virtually the same level as the previous fiscal year. Among thin-film materials, those for cutting-edge semiconductors
+saw a steady increase in sales. Sales of IGZO target materials for FPD were virtually unchanged from the previous fiscal year as market expansion fell short of expectations. In China, the largest FPD market, sales of materials for cutting-edge displays such as LTPS and OLED grew but sales of materials for LCD (a-Si) were sluggish because of the rise of Chinese competitors. For high-performance materials, we executed capital investment with an eye to the future and made preparations to respond to the need for higher-performance materials and for increased production.
+Medium- to long-term outlook of the market environment
+One consequence of the trend toward realization of the smart society is that new high-performance materials are coming into their own in the semiconductor, electronic device, and the display
+Materials business
+The materials business centers on target materials used in sputtering, which is the mainstream method of vacuum deposition, and also includes development and manufacturing of functional materials.
+fields. They are destined to eventually supersede traditional materials. With a view to facilitating the emergence of the smart society, we are actively developing new materials required in this expanding application field in cooperation with ULVAC’s equipment divisions and research institutes and together with our customers.
+ Recognized Business Opportunities
+1. Increases of sputtering thin-film processes due to increases in semiconductors and electronic devices in the smart society
+ 2. Switching to new materials as performance of semiconductors and electronic devices improves
+ 3. Switching to new materials in line with the trend toward larger, higher-definition, and flexible display panels
+ 4. Expansion of the business for superconductive materials and accelerators that use high-performance materials
+   Recognized Business Opportunities
+1. Growing demand for magnets, automotive parts, and pharmaceutical formulation in China
+ 2. New market for services geared to population aging
+ 3. Country-wide countermeasures for infectious diseases
+   Conceivable Risks
+1. Decrease in the market share for FPD materials due to the rise of Chinese competitors
+ 2. Intensifying price competition for FPD materials due to price erosion of large-screen TVs
+ 3. Restrictions on export and supply chain interruption due to U.S.-China trade friction
+    Heat exchangers
+Radiators, EGR coolers, electronic parts cooling, etc.
+Vacuum brazing furnaces, vacuum leak testing
+       Conceivable Risks
+1. Rapid change in the pharmaceuticals industry due to large-scale M&A
+ 2. Decline of existing automotive manufacturers due to the progress of autonomous driving technology, the spread of car sharing, and electrification
+ 3. Rapid change in product value in line with the rapid change in the social environment
+   Measures for Reducing Risks and Maximizing Opportunities
+1. Promote joint development with leading manufacturers and influential private or public institutions
+ 2. Invest and manufacture in growing markets (regions and products)
+ 3. Promote alliances with partner companies
+ 4. Further promote recycling of materials
+           Resin fuel tanks
+Vacuum leak testing
+ 31
+ULVAC VALUE REPORT 2020 32
+Review of FY 2019
+Whereas we have a competitive advantage in the market
+for freeze-drying equipment due to the technology that we have cultivated, the market for heat-treatment equipment was affected by continuing fierce cost competition in China, the main market for such equipment. In the second half of
+FY 2019, we overhauled the industrial equipment business, starting from the manufacturing processes, including consolidation of large-scale production bases through organizational integration with the advanced electronics equipment business. Positioning vacuum brazing, freeze drying, and vacuum distillation equipment as the fundamental elements of the business, we strengthened business development in China in order to expand sales in the market for vacuum melting furnaces and heat-treatment equipment.
+Contributing to the full spectrum of industries
+The industrial equipment business is contributing to the full spectrum of industries.
+Rare-earth magnets for electric motors
+HVs, EVs, wind turbines, home appliances
+Vacuum sintering furnaces and melting furnaces
+Medium- to long-term outlook of the market environment
+In the rare-earth magnet field, we will address the needs for high-efficiency, high-output, compact motors indispensable for power assist suits in the aging society, drones whose use is expanding in the service field, and human friendly robots
+by offering vacuum heat treatment furnaces and vacuum melting furnaces in China, the main market. In the automotive components field, we will help meet the demand for heat exchangers for exhaust gas recirculation (EGR) coolers necessary for improving fuel efficiency by developing and offering vacuum brazing furnaces with minimal environmental impacts. In the pharmaceuticals field, new drug development is being promoted in the Japanese market, the market for generic drugs is expected to expand early, and sophisticated production technology is required for mass production of biopharmaceuticals. To meet demand in this field, we will introduce vacuum freeze-drying equipment and apply freeze time control and process monitoring, which are technologies that create added value. In the health food and electronic device fields, we will offer vacuum distillation equipment with high concentration technology for anti-aging products and high- performance resin materials, which are in demand overseas.
+Sputtering equipment for large-screen TV manufacturing
+Sputtering equipment for semiconductor manufacturing
+Sputtering target
+Acceleration cavity for high-performance accelerators (use of high-purity Nb materials)
+     Pharmaceuticals and food
+ Generic drug manufacturing Extraction of high-purity substances
+➡Vacuum freeze-drying equipment, vacuum distillation equipment
+ Sputtering target
+ Measures for Reducing Risks and Maximizing Opportunities
+1. Strengthen response to the pharmaceuticals industry overseas
+ 2. Cultivate opportunities for winning new orders created by accelerated electrification of automotive vehicles
+ 3. Respond to expansion in demand for products in the healthcare industry
+   Semiconductor mask blanks business
+We will respond effectively to increasing needs for miniaturization and higher definition in line with the expansion of the application field and the proliferation of types, reflecting the improved performance of smartphones, development of self-driving vehicles, and the ramp-up of demand related to IoT and artificial intelligence (AI).
+Surface analyzer business
+Whereas university and company laboratories were previously the principal users of surface analyzers, this equipment is increasingly used nowadays for routine purposes such as product inspection. Surface analyzers are being applied to more materials in more regions and markets throughout the world. ULVAC will continue offering surface analyzers with functions attuned to customer needs.
+
+                                                                 Basis for Value Creation
+ Corporate Governance
+Basic corporate governance policy and structure
+In accordance with its Basic Corporate Philosophy, “The ULVAC Group aims to contribute to the development of industries and science by comprehensively utilizing its vacuum and peripheral technologies through the mutual cooperation and collaboration of the Group companies,” ULVAC, Inc. works to ensure thorough corporate governance in order to increase corporate value over the medium to long term. From this perspective, we respect the interests not only of shareholders, but also of business partners, local communities, employees, and other stakeholders that are related to our business activities. We also value competitive and efficient operation, while ensuring strict compliance with laws and corporate ethics.
+ULVAC, Inc. has adopted a company with a board
+of corporate auditors as its management structure. Particularly important institutional structures include the Board of Directors, the Board of Executive Officers, the Board of Corporate Auditors, and the Committee for Appointment and Remuneration, etc.
+is a decision-making body for important management issues. The Board holds regular meetings once a month, as well as ad hoc meetings as necessary to ensure flexibility. The Board of Directors comprises eight members, of whom four are external directors. Three of the external directors are designated as independent external directors. By virtue of this structure, ULVAC, Inc. is not only able to make
+swift and efficient judgments concerning important management issues, but is also able to achieve fair, impartial, and highly transparent deliberation, as well as operational supervision.
+Next, with the introduction of an executive officer system, executive officers exercise executive functions, having been granted a certain amount of responsibility and authority over their designated
+areas, through delegation by the Board of Directors. ULVAC, Inc. also has a Board of Executive Officers that comprises a total of 16 internal directors and executive officers. The Board of Executive Officers holds regular meetings once a month, as well as ad hoc meetings
+as necessary. By virtue of this structure, we have achieved more flexible and swifter business operations that are appropriate for a rapidly changing business environment, based on a clear expression of the responsibilities and authority of each executive officer.
+In addition, ULVAC, Inc. has a Board of Corporate Auditors, which performs auditing and supervision
+of management decision-making and business operations. The Board of Corporate Auditors comprises four members, of whom two are external auditors. Both of the external auditors are designated as independent external auditors. We ensure full auditing and supervisory functions through close links between auditors and the Internal Auditing Office and the independent auditor, whose independence is ensured, as well as through attendance and comments by auditors at important meetings, such as meetings of the Board of Directors and the Board of Executive Officers, and through regular meetings between the Internal Auditing Office and the President, etc. By virtue of this structure, we have achieved rigorous,
+fair, impartial, and transparent auditing and supervisory functions, ensuring that each auditor obtains sufficient information.
+Furthermore, we have a Committee for Appointment and Remuneration, etc. for instances that require objective determination of important matters, such as the appointment and remuneration of directors and executive officers. The Committee for Appointment and Remuneration, etc. comprises seven members,
+of whom five are independent external directors or independent external auditors. Of the remaining two members, one is an external director. By having these kinds of advisory bodies for the Board of Directors, we are able to achieve fair, impartial, and highly transparent deliberations with regard to especially important management decisions, and increase the effectiveness of the Board of Directors.
+Members of the Board of Directors, the Board of Corporate Auditors, the Board of Executive Officers, the Committee for Appointment and Remuneration, etc. are indicated in the list below.
+Firstly, ULVAC, Inc. has a Board of Directors, which Corporate Governance Structure (As of September 30, 2020)
+General Meeting of Shareholders
+ Title
+Name
+Board of Directors
+Board of Corporate Auditors
+Board of Executive Officers (Note)
+Committee for Appointment and Remuneration, etc.
+ Appointment/Dismissal
+Board of Directors
+Recommendations
+Audit
+Appointment/Dismissal Collaboration
+Appointment/Dismissal
+Accounting audit
+President and Chief Executive Officer
+Director and Executive Vice President
+Setsuo Iwashita
+Mitsuru Motoyoshi
+Masasuke Matsudai
+Dr. Choong Ryul Paik
+Hiroyuki Nishi
+Norio Uchida
+Dr. Kozo Ishida
+Yoshimi Nakajima
+Makoto Ito
+Mitsuru Yahagi
+Senshu Asada
+Isao Utsunomiya
+         Audit
+Senior Managing
+Senior Managing
+External Director
+External Director
+External Director
+External Director
+Auditor
+Auditor
+External Auditor
+External Auditor
+Director
+Director
+           33
+ULVAC VALUE REPORT 2020 34
+Committee for Appointment and Remuneration, etc.
+President and CEO
+Board of Corporate Auditors
+Independent Auditor
+   Board of Executive Officers
+  Risk Management Committee
+Executive Officers
+Collaboration Collaboration
+Internal Auditing Office
+Audit
+ Compliance Committee
+  Divisions of the Company Group companies
+  Chairman
+Note: The Board of Executive Officers also comprises executive officers in addition to the above.
+Observer
+
+                                                                 Basis for Value Creation
+ Corporate Governance
+Directors’ remuneration
+In order to ensure management transparency,
+fairness, and appropriateness of remuneration, etc., ULVAC, Inc. has the Committee for Appointment and Remuneration, etc. consisting of external directors, external auditors, and the chairman of the Board
+of Directors. The Committee for Appointment and Remuneration, etc. analyzes and compares levels of remuneration of other companies, and then provides advice about remuneration, etc. suitable for ULVAC, Inc. Following the recommendations by the Committee for Appointment and Remuneration, etc., amounts
+of remuneration, etc. of directors are determined by
+a resolution of the Board of Directors within the total amount of directors’ remuneration approved by the resolution* of the general meeting of shareholders. External directors’ remuneration consists only of basic compensation, which is fixed compensation.
+A performance-linked compensation plan is adopted for part of internal directors’ remuneration, etc. Performance-linked compensation consists of annual performance-linked compensation based on business results for the corresponding fiscal year and stock- based compensation, etc. based on a performance- linked stock-based compensation plan called Board Benefit Trust (BBT), which corresponds to the degree of achievement of annual performance targets. Evaluation of individual directors, which will be reflected in the annual performance-linked compensation, is performed and the result is determined after reporting to the Committee for Appointment and Remuneration, etc.
+Under the BBT system, the Company’s shares are purchased through a trust using the money contributed by the Company and are allocated to the directors
+in accordance with the Rules for Granting Shares
+to Officers set out by the Company. In principle, directors are granted the Company’s shares and money equivalent to the fair value of the Company’s shares at the date of retirement through the trust.
+As annual performance-linked compensation is based on business results for each fiscal year, the Company does not have a policy as to its specific ratio to the basic compensation, which is fixed compensation.
+* The maximum amount of aggregate remuneration for directors was set at ¥500 million per annum (including a maximum of ¥60 million for external directors) by resolution at
+the 114th Ordinary General Meeting of Shareholders held on September 27, 2018. The maximum amount of aggregate remuneration for auditors was set at ¥100 million per annum by resolution at the 102nd Ordinary General Meeting of Shareholders held on September 28, 2006. Moreover, Board Benefit Trust (BBT) was introduced, separately from the above-mentioned maximum amount of aggregate remuneration for directors (excluding external directors), by resolution at the 112th Ordinary General Meeting of Shareholders held on September 29, 2016.
+Evaluation of effectiveness of the Board of Directors
+For the purpose of enhancing functions of the Board of Directors and thus enhancing corporate value, at ULVAC, Inc. an annual self-assessment survey of directors and auditors is conducted concerning the effectiveness of the Board of Directors.
+Anonymity is secured as directors and auditors provide their responses to the survey directly to an external institution. Based on the external institution’s report on the survey results, the Board of Directors of ULVAC, Inc. conducts analysis and evaluation.
+As a result of analysis and evaluation about the effectiveness of the Company’s Board of Directors
+for FY 2019, it is judged that effectiveness of the Company’s Board of Directors is secured. However, in view of proposals for further enhancement of the effectiveness of the Board of Directors that have been submitted by members of the Board of Directors, we will continue to strive to enhance the effectiveness of the Board of Directors.
+Policy on selection of external directors and auditors
+In order to enhance the effectiveness of the Board
+of Directors by realizing multifaceted discussion at meetings of the Board of Directors, balance among knowledge, experience, capabilities, etc., diversity, and appropriateness of the size are taken into consideration regarding the composition of the Board of Directors. Based on these perspectives, the Board of Directors carefully selects director candidates. Regarding attendance at the meetings of the Board of Directors, efforts are made to ensure an appropriate number from the viewpoint of ensuring swift decision-making.
+Initiatives to ensure effectiveness of audit
+Meetings of the Board of Corporate Auditors of the Company were held 15 times in FY 2019 at which important matters concerning audit, including agendas for meetings of the Board of Directors were reported and discussed. Based on discussions at meetings of the Board of Corporate Auditors and expertise of individual auditors, auditors provide recommendations to directors of the Company, as necessary, not just at meetings
+of the Board of Directors. ULVAC, Inc. secures opportunities for auditors to periodically exchange views with directors, staff of the Internal Auditing Office, and the Independent Auditor on wide-ranging matters such as compliance and the situation concerning design of internal control.
+Principal activities in FY 2019
+ Name of external director/auditor
+Reasons for selection as an external director/auditor
+Attendance and principal activities
+Akira Mihayashi
+To receive valuable opinions based on his extensive experience and broad perspective as a corporate manager of other companies
+Attended all 12 meetings of the Board of Directors held during the fiscal year and provided opinions for deliberation of the agenda as necessary, based on his extensive experience and advanced insight as a corporate manager of other companies
+Norio Uchida
+To receive valuable opinions based on his extensive experience and broad perspective as a corporate manager of other companies in Japan and overseas
+Attended all 12 meetings of the Board of Directors held during the fiscal year and provided opinions for deliberation of the agenda as necessary, based on his extensive experience and advanced insight in Japan and overseas as a corporate manager of other companies.
+Dr. Kozo Ishida
+To receive valuable opinions based on his extensive experience, technical expertise and broad perspective as a corporate manager of other companies
+Attended 11 meetings out of 12 meetings of the Board of Directors held during the fiscal year and provided opinions for deliberation of the agenda as necessary, based on his extensive experience and technical expertise as a corporate manager of other companies
+Yoshimi Nakajima
+To receive valuable opinions based on her extensive experience and broad perspective as a corporate manager of other companies both in Japan and overseas
+Attended all 12 meetings of the Board of Directors held during the fiscal year and provided opinions for deliberation of the agenda as necessary, based on her extensive experience and advanced insight as a corporate manager of other companies both in Japan and overseas.
+Senshu Asada
+To receive valuable opinions based on his experience and insight as an attorney
+Attended all 12 meetings of the Board of Directors and all 15 meetings of the Board of Corporate Auditors held during the fiscal year and provided opinions for deliberation of the agenda as necessary, mainly from a specialist perspective as an attorney.
+Isao Utsunomiya
+To receive valuable opinions based on his experience and insight as a certified public tax accountant
+Attended all 12 meetings of the Board of Directors and all 15 meetings of the Board of Corporate Auditors held during the fiscal year and provided opinions for deliberation of the agenda as necessary, mainly from a specialist perspective as a certified public tax accountant.
+ 35
+ULVAC VALUE REPORT 2020 36
+Policy on training of directors and auditors
+ULVAC, Inc. provides its directors and auditors with opportunities for training deemed necessary in order for them to fulfill their roles and responsibilities.
+Specifically, training for newly appointed external directors includes explanation of ULVAC’s organizational structure, businesses, and the management plan and visits to ULVAC plants. Moreover, visits to principal subsidiaries and plants in Japan and overseas are regularly organized.
+For newly appointed auditors, ULVAC, Inc. provides training opportunities on a par with those for newly appointed directors upon the request of auditors. After they take office as directors and auditors, ULVAC,
+Inc. provides them with financial support for training deemed necessary in order for them to fulfill their duties and encourages them to enhance their expertise. These training opportunities are reviewed on a continuous basis and updated as necessary.
+Policy on strategic shareholdings
+ULVAC, Inc. makes distinction between investment shares held for pure investment purposes and
+those held for purposes other than pure investment purposes. We classify shares held for the purpose of receiving gains from changes in the share value or from dividend income as shares held for pure investment purposes and shares held for other purposes (strategic shareholding) as shares held for purposes other than pure investment purposes.
+ULVAC, Inc. may acquire shares of a listed company with which it has transactions only when it is judged that maintaining and strengthening the business relationship with the entity by acquiring its shares contributes to ULVAC’s sustainable growth and enhancement of corporate value over the medium to long term.
+Regarding strategic shareholdings, an annual assessment is conducted on whether or not to hold each individual strategic shareholding, examining whether the purpose is appropriate in terms of the benefits and risks from each holding or the Company’s cost of capital, and the results of this assessment are reported at a meeting of the Board of Directors. If, as a result of the assessment, it is judged that the holding of certain shares has little significance, the Company considers reduction of the shareholding of such shares.
+
+                                                                 Basis for Value Creation
+ Management Structure
+Directors
+      March 1984 August 1992 September 1995 July 1998 March 2006 October 2006 September 2011 July 2012 September 2013 July 2015
+July 2016 September 2016
+July 2017 January 2019 July 2020
+April 1981
+July 2003 September 2006 July 2012
+July 2013
+June 2014
+July 2014
+July 2015
+July 2016 January 2019 July 2019
+September 2019
+June 2020
+July 2020 August 2020 September 2020
+Setsuo Iwashita
+President and Chief Executive Officer
+Joined the Company
+Manager of Beijing Business Office and Shanghai Business Office, Overseas Operation Division Director and Chief Executive Officer of ULVAC (NINGBO) CO., Ltd.
+General Manager of Chinese Region, Asia Division of the Company
+Director and Chief Executive Officer of ULVAC (CHINA) HOLDING CO., LTD.
+Chairman of ULVAC (Shanghai) Trading Co., Ltd.; Chairman of ULVAC (SUZHOU) CO., LTD. Director of the Company
+Director and Executive Officer
+Managing Executive Officer
+Senior Managing Executive Officer of the Company; Chairman of ULVAC (CHINA) HOLDING CO., LTD. Senior Managing Executive Officer and Senior Manager of Management Planning Department of the Company Director and Senior Managing Executive Officer, Senior Manager of Management Planning Department of the Company
+President and Chief Executive Officer of the Company
+President and Chief Executive Officer and General Manager of Human Resource Center of the Company President and Chief Executive Officer of the Company (current position)
+Masasuke Matsudai
+Senior Managing Director
+Joined the Company
+General Manager of FPD Division I
+Director and General Manager of FPD Division I
+Director and Executive Officer, Senior General Manager of Global Manufacturing Promotion Division Director and Executive Officer, Senior General Manager of Corporate Sales & Marketing Division External Director of SHOWA SHINKU CO., LTD. (current position)
+Director and Managing Executive Officer, Senior General Manager of Corporate Sales & Marketing Division of the Company Director and Senior Managing Executive Officer, Senior General Manager of Corporate Sales & Marketing Division President of ULVAC TECHNO, Ltd.; Senior Managing Executive Officer of the Company Senior Managing Executive Officer, Senior General Manager of Customer Support Headquarters Senior Managing Executive Officer, General Manager of New Business Development Center of the Company and Chairman of ULVAC TECHNO, Ltd.
+Director and Senior Managing Executive Officer; General Manager of New Business Development Center of the Company; Chairman of ULVAC TECHNO, Ltd.
+Chairman of Japan Vacuum Industry Association (current position)
+Senior Managing Director (in charge of New Business Development & CS business) of the Company (current position) President and Chief Executive Officer of ULVAC EQUIPMENT SALES, Inc. (current position) Chairman of ULVAC TECHNO, Ltd. (current position)
+April 1980
+July 2000 September 2005 July 2010
+July 2012
+July 2013
+July 2014
+July 2015 July 2017
+July 2018 January 2019
+July 2019
+January 2020 July 2020
+April 1991 September 1999 September 2000 September 2012 July 2015 September 2016 July 2018
+September 2018 July 2019
+July 2020
+Mitsuru Motoyoshi
+Director and Executive Vice President
+Joined the Company
+Senior Manager of Accounting Department
+Director and Senior Manager of Accounting Department
+Director and Senior Manager of Management Planning Department
+Director and Executive Officer, Senior Manager of Management Planning Department Chairman of ULVAC TAIWAN INC.
+Director and Managing Executive Officer, Senior Manager of Management Planning Department of the Company Director and Senior Managing Executive Officer, Senior Manager of Management Planning Department Director and Senior Managing Executive Officer, Senior General Manager of Business; Strategy Headquarters Chairman of ULVAC (Shanghai) Trading Co., Ltd.; Chairman of ULVAC (SUZHOU) CO., LTD.; Chairman of ULVAC SINGAPORE PTE LTD (current position); Chairman of ULVAC MALAYSIA SDN. BHD. (current position) Director and Executive Vice President of the Company
+Chairman and Chief Executive Officer of ULVAC (CHINA) HOLDING CO., LTD.; Chairman of ULVAC Automation Technology (Shanghai) Corporation
+Director and Executive Vice President, General Manager of Management Empowerment Center of Excellence of the Company, responsible for associate companies; Chairman of ULVAC Tianma Electric (Jingjiang) Co., Ltd. Chairman of ULVAC (CHINA) HOLDING CO., LTD. (current position)
+Director and Executive Vice President (in charge of Group companies) of the Company (current position)
+Dr. Choong Ryul Paik
+Senior Managing Director
+Joined the Company
+Joined ULVAC KOREA, Ltd. as Senior Director
+President of ULVAC KOREA, Ltd.
+Executive Officer of the Company
+Managing Executive Officer of the Company
+Chairman of ULVAC KOREA, Ltd. (current position)
+Managing Executive Officer, Senior General Manager of R&D Headquarters of the Company
+Director and Managing Executive Officer, Senior General Manager of R&D Headquarters
+Director and Managing Executive Officer, General Manager of Innovation Center of Excellence
+Senior Managing Director (in charge of Innovation) of the Company; President and Chief Executive Officer of ULVAC-PHI, Inc. (current position)
+Mitsuru Yahagi
+Auditor
+Joined the Company
+Manager of Product Development Section, Vacuum Pumps Department, Precision Machinery Division
+Manager of Section I, Product Development Department, Components Division Manager of Section II, Precision Machinery Technology Department, Components Division Senior Manager of Research Department II, Research and Development Division General Manager of Research and Development Division
+Adviser to Senior Manager of Management Planning Department
+Audit & Supervisory Board Member (current position)
+April 1983 March 2007
+March 2010
+July 2011
+March 2014
+March 2017
+March 2018 March 2018 March 2020 April 2020 September 2020
+March 1970 June 1982
+June 1988
+June 1991
+June 1996
+June 2002
+June 2005 March 2011 March 2014 March 2016 September 2016 March 2017 April 2018
+Hiroyuki Nishi
+Director
+External
+Joined Nippon Life Insurance Company
+General Manager of International Planning & Operations Dept. and General Manager of China Office
+Executive Officer, General Manager of Europe, Deputy Director-General and General Manager of London Representative Office
+Director and Executive Officer, General Manager of the Americas, General Manager of Europe, Deputy Director-General, and General Manager of New York Representative Office Director and Managing Executive Officer, General Manager of International Planning & Operations Dept., General Manager of the Americas, General Manager of Europe, and General Manager of Asia Director and Senior Managing Executive Officer, General Manager of the Americas, General Manager of Europe, and General Manager of Asia
+Director
+President and Chief Executive Officer of Nissay Asset Management Corporation Advisor of Nissay Credit Guarantee Co., Ltd.
+President and Chief Executive Officer (current position)
+External Director of the Company (current position)
+Dr. Kozo Ishida
+April 1973 June 1980 February 1989 October 1994
+July 1999 June 2003 July 2003
+June 2005
+June 2007
+June 2010
+June 2011
+June 2013
+June 2015 September 2015
+April 1980 February 1982 May 1997 June 2000 April 2002
+August 2011 February 2014 April 2014 June 2017
+June 2018 September 2018
+Norio Uchida
+Director
+External Independent
+Joined Tokyo Optical Co., Ltd. (currently TOPCON CORPORATION)
+General Manager of Topcon Singapore Pte. Ltd.
+President of Topcon Australia Pty Ltd.
+Senior Vice President of Topcon Laser Systems, Inc. (currently Topcon Positioning Systems, Inc.)
+President of Topcon Laser Systems Japan, Inc.
+Executive Officer of TOPCON CORPORATION
+Director and President of Topcon Sales Corporation (currently TOPCON SOKKIA POSITIONING JAPAN CO., LTD.)
+Director and Executive Officer of TOPCON CORPORATION
+Director and Managing Executive Officer
+Director and Senior Managing Executive Officer
+Representative Director, President & CEO
+Advisor to the Board
+External Director of Nabtesco Corporation (current position)
+External Director of the Company (current position)
+Yoshimi Nakajima
+Director
+External Independent
+Joined The Yasuda Trust and Banking Co., Ltd. (currently Mizuho Trust & Banking Co., Ltd.) Joined AVON PRODUCTS CO., LTD.
+Joined Citibank, N.A. as Vice President
+Joined Societe Generale Securities Services as Senior General Manager
+Joined American Express International, Inc. as Vice President in charge of Global Traveler’s Check & Prepaid Card Service, Japan Branch
+Country Manager in Singapore (President)
+Senior Vice President of Japan Branch
+President and Representative Director of American Express Japan Co., Ltd. External Director of Yamaha Corporation (current position); External Director of AEON Financial Service Co., Ltd. (current position)
+External Director of Japan Freight Railway Company (current position) External Director of the Company (current position)
+Isao Utsunomiya
+Auditor
+External Independent
+Registered as Certified Public Tax Accountant
+Opened Isao Utsunomiya Certified Public Tax Accountant Office
+Manager of Welfare Department of Kyobashi Branch, Tokyo Certified Public Tax Accountants’ Association Representative Partner of Tsukiji Accounting Tax Corporation (current position) Director of Tokyo Certified Public Tax Accountants’ Association
+Director and Deputy Manager of General Administration Department
+Manager of General Administration Department of Kyobashi Branch
+External Auditor of the Company (current position)
+Deputy General Manager of Kyobashi Branch, Tokyo Certified Public Tax Accountants’ Association (current position)
+    Auditors
+Joined HORIBA, Ltd.
+General Manager of Product Department I, Development and Sales Division Director
+Managing Director
+Senior Managing Director
+Vice President and Director
+Executive Vice President and Representative Director
+Director and Advisor of HORIBA STEC Co., Ltd.
+Vice Chairman and Representative Director of HORIBA, Ltd.
+Senior Advisor
+External Director of the Company (current position)
+External Director of Seiko Electric Co., Ltd. (current position)
+Fellow of HORIBA, Ltd. (current position)
+Senshu Asada
+Auditor
+External Independent
+Registered as an attorney. Joined the Daini Tokyo Bar Association Jointly established Koju Law Firm
+External Audit & Supervisory Board Member of HIMIKO Co., Ltd. External Auditor of the Company (current position)
+Auditor of Judo Federation of Tokyo (current position) Councilor of All Japan Judo Federation (current position) External Director of Ahkun Co., Ltd.
+Director
+External
+Independent
+      37
+ULVAC VALUE REPORT 2020 38
+April 1984 March 2008
+March 2012 April 2015
+September 2015
+Makoto Ito
+Auditor
+Joined Nippon Life Insurance Company
+General Manager of 1st Osaka Corporate Finance Dept. and Kyushu Area Corporate Finance Dept.
+General Manager of Metropolitan Area Corporate Finance Dept.
+Joined the Company. Counselor to Senior Manager of Management Planning Department
+Audit & Supervisory Board Member (current position)
+April 1983 July 1995
+July 1996
+July 1999
+July 2004
+June 2011
+July 2018 September 2018
+April 1977 October 1996 June 2001 September 2007 April 2012 March 2014 June 2017
+April 1997
+July 1999
+June 2011
+June 2012
+June 2013
+June 2015
+June 2017 September 2017 June 2019
+
+                                                                 Basis for Value Creation
+ Messages from External Directors
+Risk Management
+The ULVAC Group considers that responding appropriately to increasingly complex and diverse
+risk factors leads to the creation of governance structures that contribute to the fulfillment of legal requirements and the creation of internal control structures, and by extension, the medium- to long- term improvement of corporate value. We are expanding systems that can respond appropriately
+to risk factors through identification, classification, analysis, and evaluation, and we are working to increase corporate value by reflecting them in our management strategy.
+ Norio Uchida
+The business environment is changing at dizzying speed. In this challenging environment, ULVAC’s growth hinges on its ability to cultivate excellent human resources, achieve superiority in technology and manufacturing capabilities, and share information effectively. ULVAC is aiming to achieve profitable, sustained growth after a phase of structural reform and management base building. To accomplish this, ULVAC has to overcome the challenges confronting it.
+The Company’s financial situation is improving and ULVAC must actively make investments
+that will win the approval of external stakeholders while making thorough business selection and concentration the norm. I would particularly like to see a location strategy focusing on countries where technology and manufacturing are particularly advanced. In addition to maintaining a management stance focused on compliance and governance, the Board of Directors will proactively
+Risk Management System
+In regard to risk management initiatives, ULVAC, Inc. has established rules concerning its risk management system, classifying a broad range of risks from various perspectives, and designated the control offices primarily responsible for risk management according to the classification of risks. Furthermore, these risk control offices identify more specific risks and respond to them. We work to ensure that these offices efficiently gather important information in operating the risk management system. In addition, in order to share and evaluate information concerning the operation of the risk management system on a company-wide basis, we have a Risk Management
+Risk Management System
+ULVAC, Inc.
+Committee, which is chaired by the president,
+and mainly comprises representatives of the risk control offices with primary responsibility for risk management. The Risk Management Committee holds regular twice-yearly meetings as an umbrella organization for risk management, and it determines company-wide basic policies, monitors the state of management and administration, and considers any improvements that can be made, etc. Furthermore, initiatives at ULVAC, Inc. are implemented at ULVAC Group companies as appropriate for the scale and business type of the company in question.
+ULVAC Group companies
+involve itself in and supervise investment targeting the key priority of becoming a top global company, human resources development, strengthening of crisis management, and education to improve scenario capabilities for strategy execution.
+Global human resources, world-leading technologies and manufacturing capabilities, information sharing, and proper and speedy management decision-making will form the foundation for the ULVAC Group’s future growth. Whereas reform is top-down, growth is a full-participation, bottom-up process. I ask that all employees maintain crisis awareness at all times, improve their adaptability and sensitivity to change in the environment, and aim to be business professionals capable of holding their own in the world beyond ULVAC. Let’s all work in unison to create a new ULVAC corporate culture.
+   Kozo Ishida
+COVID-19 has thrust the world into economic and social turmoil, triggering unprecedented political challenges for humankind. ULVAC has grown by engaging globally in businesses that broadly support industrial and public infrastructure by adding new technologies, such as plasma technology, to vacuum technology. However, ULVAC is inevitably caught up in the turmoil caused by the COVID-19 pandemic.
+To escape from this turmoil, not only conventional thinking, but also wisdom and action, are strongly needed at this time. I believe it is important to view this enormous social transformation as a great opportunity. We should exploit the next openings for growth boldly and deliberately, with all employees joining forces as a single united team, and return to the fundamentals
+of manufacturing, with all divisions and Group companies accumulating improvements and
+    39
+ULVAC VALUE REPORT 2020 40
+innovating. Furthermore, the stakeholders expect ULVAC to demonstrate preparedness and the practices necessary to accomplish the objectives in the mid-term management plan with a sense of alacrity.
+To that end, I think it is important to build up the strength needed to confront an unprecedented crisis by actively undertaking redevelopment of ULVAC’s human resources and accumulated technologies so as to increase resilience to change in preparation for the future. I intend to tackle this together with the employees.
+Reporting and instructions for improvement
+Risk Management Committee
+Chief Risk Officer = President and CEO
+Risk control Risk control Risk control office office office
+Risk Management Committee
+          Yoshimi Nakajima
+Expanding its business as “A company needed by society” amid unprecedented change in
+the business environment is both a challenge and an great opportunity for ULVAC. Clearly, transformation is required to strengthen manufacturing capabilities while improving our profitability and continuously increase market share by anticipating market needs. Furthermore, progress is being made in cultivating a mindset conducive to boldly taking on challenges without dwelling on past successes. I have come to this realization in light of management’s strong commitment and the dynamic bottom-up ideas and autonomous awareness activities emanating principally from young employees.
+The challenge for ULVAC, which operates in the global market, is how timely and flexible the organization can be in changing itself in a rapidly changing enviroment. "Career path to secure
+and develop human resources that will drive global expansion" and "Strengthen and establish organizational culture for change" are necessary to solve the challenge.
+Based on my management experience at U.S. and European global companies as well as my experience of business in Asia, I have sought to continuously contribute by focusing primarily on human resources and corporate culture. I want to help realize effective and speedy reforms by continuing to make effective use of time spent in contact with employees in different regions and at different organizational levels, endeavoring from an external perspective to grasp the necessary actions and systems while offering advice with an eye to effective execution.
+Chief Risk Officer = President and CEO
+Risk control Risk control Risk control office office office
+● Risk control offices are designated according to risk classifications and they implement risk management through a PDCA cycle.
+● Each Group company decides whether it is necessary to establish a Risk Management Committee in consideration of the size of the company in question and other factors.
+
+                                                                 Basis for Value Creation
+ Risk Management (Continued)
+Management of risks
+Principal risks that may have a significant impact on ULVAC’s financial position, business results, and cash flows are identified as below. ULVAC examines measures to reduce these risks and utilize them as opportunities through discussion at a decision-making body such as the Board of Executive Officers.
+Compliance
+ULVAC views compliance as a vitally important issue. In addition to conducting awareness-raising activities so that each person in the ULVAC Group acts with a spirit of compliance, we are establishing and operating a range of institutions and regulations to ensure thorough compliance.
+Market fluctuation
+ULVAC has achieved growth by developing and introducing unique products in the field of vacuum equipment that are used, in particular, in FPD, semiconductor, and electronic device production processes. If a great reduction in customers’ capital investment occurs or customers’ financial conditions deteriorate owing to change in the market conditions, ULVAC’s business results and financial position may be adversely affected.
+Under the twofold basic policy, “investment
+in development for growth (selection and concentration)” and “profit-oriented management through structural change,” of the new mid-term management plan launched in FY 2020, even in the case of market fluctuation ULVAC aims to improve profitability by enhancing productivity and achieve sustainable growth by focusing on development in growth fields.
+Research and development
+By maintaining vigorous R&D investment, ULVAC has continued to introduce a stream of new products that incorporate cutting-edge technology. However, if development is significantly delayed for a compelling reason, resulting in delay in introduction of new products in the market, ULVAC’s business results and financial position may be adversely affected.
+ULVAC is accelerating development, which
+is necessary for growth, through selection and concentration of investment. At the same time, periodic monitoring is implemented for progress management in order to prevent significant delay in development.
+Political and economic situations in various countries and regions
+ULVAC operates an array of businesses globally. Various factors related to change in political and economic situations in various countries and regions may have an adverse impact on ULVAC’s business results and financial position.
+ULVAC pays particular attention to the risk that tariffs and various regulations may be imposed
+as a consequence of intensification of the U.S.- China trade conflict and will implement necessary
+countermeasures. Meanwhile, it is expected that domestic production of electronic devices and semiconductors will be encouraged in China. ULVAC considers this to be an opportunity for business expansion and is working to further expand business in China.
+COVID-19 countermeasures
+It is a concern that worldwide travel restrictions and deterioration of the economic environment due to the COVID-19 pandemic may persist. ULVAC has established the COVID-19 Emergency Response Headquarters headed by the President and CEO and is striving to minimize the impact on business activities by implementing measures to prevent spread of COVID-19.
+Corporate Code of Conduct
+ULVAC has established a Corporate Code of
+Conduct comprising 18 items, conducted education, and distributed booklets to inculcate a culture of compliance, in order to ensure that the execution of the duties of officers and employees is compliant with laws and regulations and internal rules, and that we fulfill our corporate social responsibility.
+Compliance Education
+ULVAC, Inc. is working to create a culture of compliance through awareness-raising activities. As part of this effort, we conduct periodic and ad hoc online training and face-to-face training on corporate ethics, export compliance, prevention of insider training, prevention of harassment, and other topics, and test the degree of comprehension.
+Whistleblowing System
+ULVAC, Inc. has adopted a whistleblowing system operated through the Internal Auditing Office,
+which is an independent body. The Internal Auditing Office also serves as the secretariat for the Compliance Committee, and it is structured to give full consideration to confidentiality throughout the process of investigating the content of reports.
+This system does not prevent the person making the report from selecting other institutions or organizations within the Company as the destination for the report, and in such case, the report shall also be handled appropriately.
+Individuals making reports are not treated unfavorably in any way. Reports can also be submitted anonymously.
+After a whistleblower report has been received, the initial response is for the Compliance Committee of ULVAC, Inc. to conduct an investigation in order to establish the facts. This investigation is particularly mindful of fairness, and is conducted judiciously and thoroughly. If necessary, assistance may be sought from external experts, such as lawyers, and thorough interviews that are as wide-ranging as necessary may be conducted and analyzed.
+The president chairs the Compliance Committee and the members of the Committee observe a strict duty of confidentiality in carrying out their duties.
+Handling of Violations
+In the event that, based on the results of an investigation by the Compliance Committee, it
+is deemed that a violation of laws or regulations
+has been committed, then the opinion of an
+external expert, such as a lawyer, may be sought
+as necessary, steps will be taken to ensure that
+the violation ceases with immediate effect and improvement measures will be implemented, and those involved in the violation will be dealt with after deliberation by the appropriate bodies. In addition, the root causes of the violation are also investigated in order to formulate effective measures for preventing recurrence.
+  Recognized business risks
+Impact of fluctuations in FPD, semiconductor and electronic device markets
+Impact of research and development
+Impact of the global competitive environment
+Impact concerning securing of human resources
+Impact concerning laws and regulations
+Impact concerning quality
+Impact concerning financing
+Impact concerning information security
+Impact due to currency fluctuations
+Impact concerning intellectual property
+Impact concerning safety
+Impact concerning environmental responses
+Impact of COVID-19
+Other risks
+(force majeure in various countries and regions)
+ 41
+ULVAC VALUE REPORT 2020 42
+
+                                                                 Basis for Value Creation
+ Quality Assurance and Product Safety
+The ULVAC Group is engaging in initiatives worldwide to meet customer expectations for high-level, safe ULVAC quality through total quality management (TQM).
+Procurement
+Suppliers are important partners of ULVAC for manufacturing. ULVAC is working with them to enhance efficiency of the entire supply chain (from design, procurement, manufacturing, and sales, through to customer support), always being conscious of the environment and society.
+ Quality Assurance System
+38 ULVAC Group companies are ISO9001: 2015 certified. The Global Quality Assurance Committee led by the president of ULVAC, Inc. spearheads
+a Group-wide effort to align quality policies and are addressing quality issues and deploying improvements globally.
+was found in the reliability evaluation process for development of a certain product. We will analyze the causes, implement measures to prevent recurrence, and share this throughout the Group to achieve total quality management.
+Quality Management Education
+In order to raise employees’ awareness concerning quality at ULVAC, educational materials on quality management for new employees and for employees engaged in engineering, design, and quality assurance are registered on the ULVAC Academy Portal*2 so that they can be accessed remotely. In FY 2019, educational materials offered by external instructors (Grade 3 level of JSA’s
+QC KENTEI (Quality Management and Quality Control Examination)) became newly available. Moreover, in order to develop human resources capable of advocating ULVAC’s quality philosophy, we are preparing to design and establish ULVAC’s unique quality qualifications and skill enhancement education.
+Product Safety Activities
+To deliver safe and secure ULVAC brand products to markets around the world, qualified safety assessors*3 play a leading role in product safety assessments and continuously engage in activities to verify the required safety and quality at the drawing release and product shipment phases. In line with expansion of production
+in Asia, in order to establish an independent verification system at overseas production bases, we are promoting not only periodic information exchange but also group- based education in each area and exchanges of personnel. Non-Japanese quality safety assessors at overseas sites have started to play active roles. ULVAC is promoting product safety activities throughout the Group, which will lead to greater customer satisfaction.
+Procurement Policy
+ULVAC, Inc. has established, observes, and promotes the Basic Procurement Policy. ULVAC is also promoting CSR procurement in cooperation with its business partners in accordance with the “Requests to our business partners”, which is based on the RBA*1 Code of Conduct. In July 2019, we conducted a questionnaire survey targeting
+our major business partners in terms of the amount of transactions. As a result, no serious problems, such as child labor, forced labor, inhumane treatment, fraud or bribery, were detected at any of the business partners. In FY 2020, in view of the RBA Code of Conduct and
+the questionnaire survey results, we will upgrade the management system by reviewing the items concerning “assessment materials” for registration of new business partners and renewals in an effort to enhance CSR procurement.
+Moreover, in order to maintain sound, good relationships with business partners, ULVAC established the Purchasing Code of Conduct, a set of principles emphasizing compliance for employees engaged in procurement, in July 2019. In-house education is provided every year for employees engaged in ULVAC, Inc.’s procurement and that of Group companies in Japan involved in production of ULVAC products.
+Policy on Conflict Minerals
+Conflict minerals are minerals that are sourced from conflict-affected and high-risk areas (CAHRAs) and whose extraction and sale directly or indirectly serve as sources of funding for armed groups or are root causes of serious human rights abuses and poor working conditions. The policy of ULVAC, Inc. is not to purchase or use 3TGs*2 and cobalt raw materials derived from conflict minerals.
+ULVAC manufactures and sells sputtering targets
+and various tantalum wrought products in the materials business. We conduct due diligence in accordance
+with the guidance of OECD and RMI*3 through conflict minerals surveys covering raw materials suppliers in order to ensure transparency of transactions. In FY 2019, no procured items that use 3TGs or cobalt derived from conflict minerals were detected.
+Revision to the Green Procurement Standards
+ULVAC revised the Green Procurement Standards in August 2020 and began use of the chemSHERPA*4 declarable substance list provided by the Joint Article Management Promotion (JAMP) consortium. In
+order to ensure the effectiveness of this practice, suppliers are requested to 1) implement ongoing environmental improvement through the introduction of an environmental management system and other means and 2) build a system for controlling chemical substances contained in products.
+Integrated procurement system
+ULVAC is improving procedures, systems and structures for procurement to realize global procurement at the parts level. Although we had been sourcing many key parts in Japan, we conducted benchmarking of suppliers worldwide and identified specific issues in logistics
+and trade. As it is necessary to ensure confidentiality, completeness, and availability of purchasing data on
+a system supporting global procurement, we have launched an integrated system for parts registration and for registration and evaluation of suppliers and begun standardization of management procedures.
+  Companies in Japan
+Group-wide implementation of the quality policy
+Companies Companies Companies Companies in South Korea in Taiwan in China in Southeast Asia
+Companies in Europe and NorthAmerica
+ Individual companies’ quality policies and target deployment activities in accordance with the Group’s policy
+Sharing of case studies and horizontal deployment of achievements and effective approaches
+Quality management is promoted by way of thorough analysis of defects that occurred at a process within the process, implementation of recurrence prevention measures, feedback of findings, implementation of preventive measures, and process standardization activities.
+Promoting green procurement
+Promoting global procurement
+Promoting CSR procurement
+Basic Procurement Policy
+Sound, good relationships with business partners and affiliates
+Compliance with laws and regulations
+Maintaining and promoting fair and free competition
+   ULVAC’s Total Quality Management
+  Process development
+Product development
+Purchasing Code of Conduct
+(%) 2.3 2.5
+2.0 1.5 1.0 0.5
+1.6
+*1 Front Loading
+Concept design Mass-production design
+Feedback
+Value Chain
+ Total Quality Management (TQM) System
+Year-on-year comparison of costs related to nonconformity after delivery (non-consolidated)
+60 40 20
+0
+*1
+*2 *3
+Quality Assurance
+Number of qualified safety assessors at ULVAC
+(Persons)
+Communication with Business Partners
+ULVAC, Inc. has been holding operations briefing meetings once a year as a forum for ULVAC management to directly explain to business partners the business environment and prospects and supplier meetings three times a year for the person in charge
+to communicate production plans in a timely manner. In view of the COVID-19 pandemic, we have cancelled these meetings and launched a membership-based website in September 2020. In addition to the provision of information at the meetings, we intend to enrich
+the content of this website to promote sharing of information and collaboration with our business partners.
+         1.0 0.9 2015 2016
+0.9 2018
+1.0
+*1
+*2 *3
+*4
+ResponsibleBusinessAlliance.CSRpromotiongroupfocusedontheelectronicsindustry inglobal supply chains
+Tantalum, tin, tungsten, and gold
+Responsible Minerals Initiative. An organization that inspects smelters and refiners handling 3TGs to certify that they are not using conflict minerals
+Scheme for enabling sharing of information on chemical substances contained in products throughout the supply chain
+ 0.6
+(FY)
+“Front Loading” ordinarily refers to arranging or planning so that a large portion of work occurs in the initial phase. At ULVAC, it is an activity to create quality by identifying issues as soon as possible.
+ULVAC’s e-learning system. See P.46 for details.
+Safety Assessor (SA) Qualification is a qualification scheme based on third-party certification of machine safety knowledge and competence under international safety standards.
+   43
+ULVAC VALUE REPORT 2020 44
+ULVAC Group Quality Policy
+Improve quality & reduce costs and L/T (lead time) to half
+Maximize profits and customer satisfaction
+ 0 2013
+The ratio of costs related to nonconformity after delivery
+to net sales deteriorated in FY 2019 because a defect
+2014
+2017
+2019
+(FY)
+Global Quality Assurance Committee (Central secretariat: ULVAC, Inc.)
+2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+   Customers
+Services
+Installation Logistics
+Tests
+Assembly
+Parts manufacturing
+Purchasing
+Detailed design
+Sales
+
+                                                                 Basis for Value Creation
+ Human Resources
+To achieve sustained growth, vitalized organizations must serve as a foundation enabling diverse human resources to fully demonstrate their potential. ULVAC will strengthen its management base by actively engaging in organization and human resources development and focusing on cultivating the leaders of tomorrow.
+Through UL-GAIA, our aim is to ensure all employees are aware of the importance of putting the Basic Corporate Philosophy and the Management Policies into practice in their work and linking their work to outcomes that contribute to achieving ULVAC’s vision.
+Developing the Next Generation of Leaders
+In FY 2019, ULVAC conducted the ULVAC Executive Program (UEP) with the aim of cultivating leaders who will persistently and aggressively grapple with global change. A total of 15 participants selected from among candidates at ULVAC, Inc. and domestic and overseas Group companies participated in the program over a period of six months. By combining UEP with the ULVAC Leadership Program (ULP), an education program for young leaders, we will focus on developing the next generation of leaders.
+Groupwide Education andTraining
+ULVAC has long provided level-specific education, starting with an introductory program for new employees and a program for employees in their third year. We are now in the process of rebuilding the education system, including these programs. First, to increase the basic professional competence of young employees, we are establishing a manufacturing education center and administration education center to ensure that young employees acquire basic knowledge. Furthermore, to provide training to employees
+from Group companies in Japan and overseas, we will establish a course on the history, culture, and management strategy of ULVAC as well as other subjects and implement global personnel exchanges.
+Human Resources Rotation
+We are vigorously promoting human resources rotation in the Group, especially between ULVAC Head Office and overseas Group companies, as
+a measure to promote the diversity and inclusion mentioned above. Moreover, by vigorously promoting assignment of ULVAC employees to companies outside the Group on loan and vice versa, we are striving to vitalize human resources and establish human networks while also expecting to achieve innovation through technical exchange.
+Human resources rotation between ULVAC Head Office and Group companies
+ULVAC Academy Portal
+We are promoting e-learning throughout ULVAC based on the concept of providing an environment that enables learning anytime anywhere. Since its launch in 2016, the contents posted on ULVAC Academy Portal have grown to include some 1,200 items.
+ULVAC Academy Portal now supports Japanese, English, Chinese, and Korean. Some 6,000 ULVAC employees have registered and are using the portal.
+Principal contents
+◦Message from the President
+◦Video clips of seminars held in ULVAC
+◦Engineering education on technology, design, manufacturing, etc. ◦Mandatory education for onsite employees, such as basic
+product safety education
+◦Education on trading and security trade control, etc.
+Creating an Excellent Working Environment
+ULVAC, Inc. is creating a working environment in which employees can demonstrate their strengths and originality while enhancing their productivity, and furthermore we are developing conditions and programs that minimize the impact of life events, so that diverse human resources can flourish and perform well.
+Improvement of systems for flexible workstyles
+ULVAC, Inc. offers a staggered working hour system and a flextime system. We also introduced an hourly annual paid leave system in 2020. The number of days of paid leave taken is increasing: the average number of days taken increased from 10.9 days in FY 2018 to 12.4 days in FY 2019.
+Systems for supporting childcare
+To assist employees in their efforts to achieve a balance between work and childcare, ULVAC, Inc. has introduced leave, holidays, and short-working hours systems that go beyond the statutory requirements. Childcare leave can be taken until the first April 30 after a child reaches two years of age. The short-working-hours system for childcare is available for employees who have a child up to the third grade in elementary school.
+All employees who took childcare leave have returned to work. Male employees also take childcare leave.
+Retention of human resources and transfer of technological expertise
+Mindful that technological innovation is triggered by the integration of accumulated technology, new knowledge, and creativity, ULVAC emphasizes human resources development, the retention of employees, and the transfer of technological expertise. For example, we conduct a questionnaire survey of new employees six months after they join ULVAC, Inc. and their superiors, and any gaps in perception are promptly addressed.
+The system for rehiring senior employees after mandatory retirement has taken root, and furthermore, we have set up a special employee system for post-retirement senior employees (after retirement at the age of 65) to create an opportunity for experienced employees to display their abilities and transfer their technological expertise to the next generation.
+Basic Policy
+In recent years, a shift toward the smart society
+has begun worldwide. With the advent of a wave
+of technological innovation, global competition is intensifying. Amid such tremendous changes, ULVAC, whose overseas sales account for over 60% of total sales, cannot operate business sustainably unless it provides an environment where people with diverse personalities and strengths can maintain physical and mental health, bring their differing capabilities into full play, and enhance one another’s capabilities through friendly competition.
+At ULVAC, people with different backgrounds, in
+terms of nationality, ethnicity, philosophy, culture, language, gender, age, and specialty, are flourishing. We respect such diversity and promote inclusion, and innovate to resolve customers’ and society’s issues. By doing so, we aim to continue to deliver new value that also leads to the personal growth of each employee.
+Based on this policy, we are reinforcing the development of global human resources capable of thriving in a changing external environment in order to successfully compete in a business environment characterized by dramatic change.
+  ULVAC Basic Policy for Human Resources Development
+We are conscious that the most important resources for corporate vitality and competitiveness are the personnel and the organizations in which they work. We are conducting the following human resources development, based on our corporate philosophy and basic management policy.
+ 1. Human resources who respect other individuals, trust each other and fulfill their responsibilities
+2. Human resources who can see the true nature of each issue and create revolutionary technologies and projects with passion and tenacity
+ 3. Human resources who are full of aspirations to improve themselves and take voluntary actions to achieve goals
+4. Human resources who have a global perspective and aim to take leadership in exploring the world
+  UL-GAIA 2019
+ULVAC has held the Global Manufacturing Technology Competition and Global Business Improvement Competition for the purpose of enabling individuals to pursue productivity improvement and share the outcomes of their efforts. The aim of the Global Manufacturing Technology Competition is value creation through the improvement and innovation
+of the value chain process, and it is positioned as a forum where the participants present the outcomes (benefits) of their initiatives and processes for resolving issues. The aim of the Global Business Improvement Competition is to create mechanisms and measures to inculcate ULVAC’s management policies in day-to-day work, maximize groupwide synergy, and strengthen cross-organizational functions to support resolution of issues relevant to two or more Group companies, and it is positioned as a forum where the participants make presentations on topics such as cost-reduction impacts, process improvements to tackle issues, and enhancement of operational efficiency and productivity.
+Administration
+Further improvement
+Competitions
+Training Daily business Engineering
+Skills
+ In FY 2019, we combined the two competitions into UL-GAIA 2019. Under the slogan Breakthrough: Passion and Challenge, 16 teams that won contests in their countries or regions gathered together and made highly original presentations. The name UL- GAIA, which is short for ULVAC Global Awards of Improved Achievement, was chosen to liken the ULVAC Group to Gaia (the Earth) and create an award for the pursuit of integration and productivity improvement on a global scale.
+Number of
+employees transferred (Persons)
+19
+37
+Number of expatriates in Japan
+(overseas Group companies → ULVAC Head Office)
+Number of expatriates overseas
+(ULVAC Head Office → overseas Group companies)
+          45
+2015 2016
+2017 2018
+2019 (FY)
+ULVAC VALUE REPORT 2020 46
+Productivity improvement
+ UL-GAIA 2019
+(Production Technology/ Manufacturing Technology/ Business Improvement)
+ 46
+35
+60
+37
+58
+51
+46
+41
+
+                                                                   Basis for Value Creation
+Human Resources (Continued)
+Human Resources Data (non-consolidated)
+For details ●▶ 
+Website>>Sustainability>Human Resources
+Occupational Safety and Health
+The ULVAC Group has made “Safety First” the fundamental principle of business management. By operating our Occupational Safety and Health Management System (OSHMS) focused on risk assessment, we endeavor to ensure safety of the products and services used by our customers and create dynamic workplaces where Group employees can work in good physical and mental health.
+ ● Employee gender ratio Male    Female
+89 female employees
+7.0%
+Promotion
+of Health Management
+Priority Activity 1
+● Management gender ratio Male    Female
+● Annual paid leave utilization rate (%) (%)
+● Number of employees who took childcare leave and the number of returnees
+ 12 female employees
+3.0%
+1,130 male employees
+93.0%
+354 male employees
+97.0%
+100
+50 67.6 0
+2015
+66.8
+2019 (FY)
+Number of (CY) employees who started to take childcare leave
+Number of returnees after taking childcare leave
+2 0 5 6 2
+Approach to Occupational Safety and Health
+In the execution of development, manufacturing, transport, installation, maintenance and other business processes, everyone in the ULVAC
+Group, from senior management to line workers,
+is encouraged to seize the initiative in continuously undertaking improvements placing the highest priority on safety, striving to maintain and improve the safety of everyone involved and ensure a healthy working environment.
+ULVAC Basic Policy on Occupational Safety and Health Management System (OSHMS)
+1. Compliance to the code/regulations, and
+implementation of risk assessment
+Comply with Codes of Occupational Safety & Health Management and Rules according to ULVAC’s OSHMS, and conduct Risk Assessment in order to perform Occupational Safety & Health Management activities with the help of all the employees.
+2. Assure safety of ULVAC’s products
+Comply with ULVAC’s standard for safety design and perform risk assessment of our products, in order to deliver our safe products and services to our customers.
+3. Planned education about Occupational Safety &
+Health & Product Safety
+For all the employees and contractor’s employees, perform Occupational Safety & Health training based on ULVAC Safety Management system, while offering scheduled Product Safety training for our users.
+4. Promotion of mental health care
+Promote mental health care to achieve a healthy, vigorous workplace environment.
+5. Global expansion of ULVAC group
+Through the Safety & Health promotion activities by the Global Safety Management Committee, we will try to create an appropriate work environment for the whole ULVAC group, and contribute to prosperity of our businesses.
+Maintaining Zero Accident Record
+To ensure the safety and good health of its customers and employees, the ULVAC Group regularly holds meetings of the Global Safety Management Committee, and all Group companies promote safety and health activities in an integrated manner. Each Group company operates the OSHMS, and everyone is engaged in safety and health activities, such as
+       59.0 58.8
+58.2
+2018
+2016 2017 2018 2019 2020
+Return rate: 100%
+5 0 4 5 7
+management reviews conducted by the president and other executives and risk assessments performed by each employee. For example, hazards associated with chemical substances have been attracting attention, as indicated by frequent revisions of laws in recent years. We identify risks at phases from transport and storage to disposal at the work planning stage and are strengthening measures to ensure safety.
+As a result, the Chigasaki Plant was certified by the Ministry of Health, Labour and Welfare for achieving
+a Type-V zero accident record* (total of 15.7 million hours) in FY 2019 and the Fuji Susono Plant for a Type-I zero accident record (total of 3.1 million hours) in FY 2018. These plants are maintaining their zero accident records. With “Safety First” as their motto, all Group companies will continue their efforts to extend the zero accident record.
+* The number of accident-free hours for recognition of a zero accident record is determined according to the starting date of the record, the industry type and the number of workers. A certificate of a zero accident record will be issued by the Ministry of Health, Labour and Welfare when a business site maintains no fatal accidents or accidents with lost working hours for the specified number of hours. Zero accident record certificates ranges from Type I to Type V, with Type V being the highest level.
+ 2016
+2017
+(年度)
+ Making further progress in creating a working environment that enables employees in excellent physical and mental health and good spirits to demonstrate their abilities to the fullest is important for the ULVAC Group’s future development. At ULVAC, Inc., the president, the Chief Health Promotion Officer, the senior manager of the General Administration Department, occupational health physicians, and occupational health nurses act in unison to promote health management activities. In addition to legally prescribed health checks, stress checks, and face-to-face guidance for employees who work long hours by an occupational health physician, the Company pursues initiatives for general health improvement, such as wellness improvement and reduction of health risks.
+   Wellness Improvement
+Governor’s Award in the Kanagawa Prefecture My ME-BYO Record inter-company walking program.*3
+ULVAC Inc. has set a wellness improvement target of “An increase of 20% in the number of people who work energetically by FY 2020 compared to FY 2014.”
+In addition to organization vitalization training conducted since FY 2014, since FY 2019 we have held a Case
+Study Review Meeting, which encourages organizational development through the cultivation of complex problem- solving skills and interpersonal skills, including by simulating the experience of outside parties through failure case studies and problem case studies. We also provide wellness support by distributing to employees information on subjects such as how best to physically and mentally cope with stress caused by change in the working environment and on the promotion of good habits.
+As a result of these activities, according to the findings of ULVAC’s organizational health survey, the percentage
+of employees who work energetically*1 has increased compared to FY 2014 (Fig.1). We will continue to implement health measures aligned with our organizational policies to enhance organizational health.
+Priority Activity 2 Health Risk Reduction
+ULVAC, Inc. has set a health risk reduction target of “Health age*2 3.0 years lower than actual age by FY 2020.”
+We provide lifestyle improvement support to all employees, such as an online education program that includes education about long working hours, sleep education, women’s health education, and pre-health check education, and a walking program that utilizes the PepUp healthcare platform.
+Thanks in part to the effects of these measures, the health age of employees has gradually improved. In FY 2019, ULVAC, Inc. received the Kanagawa Prefecture
+Fig.1 Percentage of Employees Who Work Energetically
+Fig.2 Health Age 0
+160
+80
+0
+100
+2014
+149
+2019
+ULVAC’s Safety Management System
+      0.8 -0.8 -1.6
+-1.2
+2019 (FY)
+Global Safety Management Committee
+Companies in Japan
+Companies in South Korea
+Companies in Taiwan
+Companies in China
+Companies in Southeast Asia
+Companies in Europe and North America
+          (FY)
+(年度) 2016
+President and CEO ULVAC, Inc.
+ *1 The average score for all items of the percentage of people answering “5. I strongly agree” for five items concerning vitality toward work (five-point scale) in a survey at the time of application for a health check, with the value for FY 2015 as 100.
+*2 An index developed by JMDC Inc. based on the medical checkup data and medical expenses of 1.6 million people. ULVAC, Inc. began measurement in FY 2016.
+*3 Kanagawa Prefecture website: https://www.pref.kanagawa.jp/docs/mv4/prs/r2372098.html (Japanese only)
+As a result of implementing these measures, ULVAC, Inc. has been certified by the Ministry of Economy,
+Trade and Industry as a Certified Health and Productivity Management Organization (White 500), and ULVAC TECHNO, Ltd., ULVAC EQUIPMENT SALES, Inc., ULVAC Human Relations, Ltd., and ULVAC-PHI, Inc. have been certified as Certified Health and Productivity Management Organizations. ULVAC will continue pursuing various initiatives at domestic Group companies to maintain and promote the health of employees.
+Frequency ratio of occupational accidents at ULVAC
+  1.50 1.00 0.50
+0
+1.00 1.32
+2015 2016
+1.39 1.46
+2017 2018
+Group as a whole   Japan China
+South Korea
+1.29
+Taiwan
+         47
+ULVAC VALUE REPORT 2020 48
+* This graph shows the rate of occupational accidents for each fiscal year, with the value for FY 2015 (as of June 2016) as 1.00. Although the number of accidents had been rising in recent years, this trend reversed in FY 2019 as various safety activities bore fruit.
+2019 (FY)
+
+                                                                 Basis for Value Creation
+ Environment
+Based on its environmental policy, the ULVAC Group provides products that allow customers to embrace the feeling that they have made environmental contributions.Through management and reduction of energy consumption and other efforts, we are working to minimize environmental impacts. As we have a global production system, we are working to gain integrated ISO 14001 certification so as to strengthen governance, ensuring information sharing among Group companies and swift implementation of instructions issued by top management.The ULVAC Group will continue its efforts to reduce environmental impacts through its products and manufacturing processes.
+Major initiatives
+GHD series of oil rotary vacuum pumps equipped with magnet coupling: ULVAC KIKO, Inc.
+  Environmental Activities in FY 2019
+Total waste emissions decreased 17% compared with the previous fiscal year.
+This decrease is considered to be attributable to a decrease in the use of acid and alkali in Japan due to the change of chemical agents and an approximately 50% decrease in waste discharged by Group companies in South Korea and China.
+We are also implementing group-wide initiatives, including visualization of wattage, concentration of locations where electricity-intensive activities are conducted, and 100% conversion to LED lighting for factories and offices, in order to reduce energy (electricity) consumption.
+The ULVAC Group will continue to promote environmental management activities in order to reduce environmental impacts derived from its business activities.
+Conventional oil rotary vacuum pumps have an oil seal at the rotor shaft to prevent leakage of oil to the atmospheric side. However, oil leakage tends to occur owing to wear and tear due to long-term operation. Also, when the pump is stopped while the vacuum status is maintained in the vacuum chamber of the equipment to which the pump is connected, backflow of oil from the pump to the vacuum chamber through the air intake pipe occurs because of atmospheric pressure. In order to prevent
+oil backflow when pump operation is stopped, conventional
+oil rotary vacuum pumps have a valve. As a solution to these problems, ULVAC KIKO, Inc. offers the GHD series of oil rotary vacuum pumps.They are equipped with a non-contact-type magnet coupling that transmits power using magnetic force
+and eliminates the need for a shaft seal at the atmospheric side, instead of contact-type coupling used for power transmission from the motor to the pump.They are also equipped with a differential pressure sealing-type check valve directly below
+the intake pipe. Design for environment is adopted for the GHD series, applying the concept of quiet operation, space saving, and no oil leakage. Compared with conventional contact-type models, the GHD series reduces power consumption by up to 20 W.
+Management of chemical substances
+GHD-031 oil rotary vacuum pump
+  Material balance (Source: Aggregate data for FY 2019)
+CO2 emissions
+Water consumption
+Chemical substances are highly versatile and functional and are widely applied in everyday life. On the other hand, some substances are harmful to the human body and the environment. ULVAC uses a wide variety of chemical substances in the parts and materials composing products (metals, resins, coatings, etc.), manufacturing processes (organic solvents, lubricants, and other substances used in cleaning, etc.), and technology development (chemicals, gases, etc.). We appropriately manage these substances and strive to prevent accidents and environmental pollution.
+  INPUT
+OUTPUT
+(t-CO2)
+100,000 80,000 60,000 40,000 20,000
+Group companies overseas
+Group companies in Japan
+(Thousand m3)
+Group companies overseas
+Group companies in Japan
+ (t)
+10,000 7,500 5,000 2,500
+0
+Amount of valuable materials recycled (t)
+313
+8,479
+2016
+Amount of landfill (t)
+359
+2017
+Final landfill disposal rate (%)
+(%)
+6.0
+00
+2015 2016 2017
+Total amount of waste recycled (t)
+385
+4.5 7,093
+2018
+2018
+2019 (FY)
+1,800
+1,200
+600
+Plastic reduction initiatives
+ULVAC is working to reduce use of plastics, considering that it is important to emphasize environmental protection in every aspect of business activities.
+In Japan, the amount of packaging materials purchased was reduced by 15% year on year at ULVAC Head Office/Plant and at ULVAC-PHI, Inc. and by 24% year on year at ULVACTECHNO, Ltd. by promoting reuse in house of packaging materials for pumps.
+ULVAC TAIWAN INC. achieved a 7% year-on-year reduction in plastic consumption by ceasing the use of disposable cushioning materials and by switching to reusable cushioning materials with antistatic functions.
+ Electricity consumption
+172,442 thousand kWh
+ Gas consumption
+LPG : 214 t
+LNG: 680t
+City gas : 1,201thousand m3
+Fuel consumption
+ Heavy oil: 33 kL Kerosene oil: 26 kL Diesel oil: 166 kL
+ Water consumption
+1,419 thousand m3
+Packaging materials
+ 990 t
+ CO2 emissions
+83,929 t-CO2 (Emissions due to
+consumption of electricity, gas, and fuels)
+ Total waste emissions
+7,062 t
+Total amount of waste
+recycled:
+6,007 t
+Amount of landfill 345.5 t
+Final landfill disposal rate
+ 4.9 %
+               2015 2016 2017 2018
+Waste emissions
+2019 (FY)
+  214
+2015
+4.9
+346 4.5
+Reusable cushioning materials with antistatic functions introduced by ULVAC TAIWAN INC.
+     49
+ULVAC VALUE REPORT 2020 50
+Environmental Philosophy
+The ULVAC Group is tackling protection of the global environment, one of the major issues confronting people worldwide. We will consider environmental conservation in all aspects of our business activities and will contribute to realization of a better living environment and a more affluent society.
+Environmental Policy
+Develop energy-saving products, reduce the use of natural resources and protect the environment.
+ULVAC Group products/Final products ULVAC Group manufacturing process
+7,072
+2.9 1,920
+2,313
+4.2 7,197
+ 3.6
+2,222
+2,236
+6,007
+1,580
+2019 (FY)
+3.0 1.5 0
+ULVAC CRYOGENICS KOREA INCORPORATED is endeavoring to eliminate the use of vinyl packaging for raw materials. It provided dedicated trolleys to the suppliers for delivery of raw materials. As a result, vinyl consumption in the first half of FY 2019 was reduced by 30% compared with the same period of the previous year.
+ULVAC will continue initiatives to reduce plastic consumption and promote recycling.
+    * The above data are based on the data from 37 Group companies in Japan and overseas.
+* The volume of packaging materials is based on the data from 18 Group companies in Japan and overseas.
+
+ Financial Data/Corporate Information
+11-year Financial Data
+Financial Data
+Key financial results
+Net sales*1
+Operating profit (loss)
+Ordinary profit (loss)
+Net income (loss)*2
+Net assets
+Total assets
+Cash flows from operating activities
+Cash flows from investing activities
+Cash flows from financing activities
+Cash and cash equivalents at end of period
+Key performance indicators
+Net assets per share
+Net income per share
+Equity ratio
+ROE (return on equity)*3
+Ratio of ordinary profit to total assets*4 Price-earnings ratio*5
+Other indicators
+FY2019 2020.6
+ FY2009 2010.6
+FY2010 2011.6
+FY2011 2012.6
+FY2012 2013.6
+(Unit)
+ FY2013 2014.6
+FY2014 2015.6
+FY2015 2016.6
+FY2016 2017.6
+FY2017 2018.6
+FY2018 2019.6
+( 年度 )
+   221,804 4,809 4,942 2,138 102,504 313,784 44,312 (10,876) (23,418) 29,721
+1,992.06 46.60 31.3 2.3 1.6 37.34
+11.1 8.0 100.2 Dividends Yen 21.0 Dividend payout ratio % 45.1 Number of employees Persons 7,169
+232,040 1,850 1,441 (8,706) 92,023 313,616 17,730 (14,833) 2,159 35,722
+1,787.51 (176.43) 28.1 — 0.5 —
+17.8 8.3 105.1 — — 7,878
+196,804 (6,384) (6,497)
+(49,984) 41,187 249,651 (8,492) (11,328) 12,616 28,180
+751.00 (1,012.94) 14.8 — — —
+12.7 7.1 120.2 — — 6,981
+163,351 6,115 6,264 (3,807) 59,436 243,289 22,357 (4,506) (3,619) 44,204
+806.38 (87.79) 22.7 — 2.5 —
+6.8
+5.0 106.1 — — 6,579
+173,878 11,996 13,384 11,538 72,238
+230,791 32,213 (3,023)
+(16,881) 57,012
+1,040.23 223.18 29.2 18.8 5.6 9.66
+6.2
+5.2 89.6 — — 5,971
+179,174 11,132 12,475
+8,874 84,928 242,348 21,992 (4,055) (14,895) 61,670
+1,398.66 172.73 32.8 12.1 5.3 10.91
+6.7
+5.6 82.6 10.0 5.8 5,904
+192,437 17,864 18,373 16,698 78,032 219,561 23,708 (5,593) (32,448) 44,862
+1,477.29 338.37 33.2 21.9 8.0 9.21
+7.0 6.3 62.7 30.0 8.9 5,886
+231,831 29,468 29,716 24,469
+104,917 245,306 37,818 (13,713) (22,580) 47,555
+2,002.90 496.35 40.2 28.5 12.8 10.88
+8.3
+6.9 42.7 50.0 10.1 6,072
+249,271 35,351 36,907 35,904
+154,069 297,418 19,086 (1,564) (10,734) 54,348
+2,994.12 728.68 49.5 29.2 13.6 5.82
+12.9 8.3 35.7 95.0 13.0 6,439
+220,721 23,828 25,575 18,665
+157,588 282,302 18,282 (9,448) (5,844) 55,859
+3,062.39 378.78 53.5 12.5 8.8 9.02
+12.9 9.2 35.6 105.0 27.7 6,424
+185,402 15,958 18,052 10,769
+161,093 282,350 18,738 (4,143) 7,455 77,948
+3,132.22 218.54 54.6 7.1 6.4 14.23
+10.3 8.4 49.8 80.0 36.6 6,370
+Millions of yen Millions of yen Millions of yen Millions of yen Millions of yen Millions of yen Millions of yen Millions of yen Millions of yen Millions of yen
+Yen Yen % % % Times
+      Capital expenditure R&D expenses Interest-bearing debt
+Billions of yen Billions of yen Billions of yen
+   51
+ULVAC VALUE REPORT 2020 52
+Notes:
+1. Net sales do not include consumption taxes.
+2. The Company applies the “Revised Accounting Standard for Business Combinations” (ASBJ Statement No. 21, September 13, 2013) and “net income attributable to owners of parent” is presented instead of “net
+income.”
+3. ROE (return on equity) figures for FY2010 to FY2012 are not presented because the Company recorded a net loss for these periods. 4. The ratio of ordinary profit to total assets for FY2011 is not presented because the Company recorded an ordinary loss for FY2011. 5. Price-earnings ratios for FY2010 to FY2012 are not presented because the Company recorded a net loss for these periods.
+
+                                             Financial Data/Corporate Information
+Financial Overview
+Forward-looking statements contained in this document are based on the current assumptions and beliefs of the ULVAC Group in light of the information available to it as of September 29, 2020.
+  Business Results
+For the fiscal year ended June 30, 2020 (FY 2019), net sales amounted to ¥185,402 million, a decrease of 16.0% year on year. Net sales of FPD and PV production equipment were below the level of the previous fiscal year in line with decreases in orders received for both LCD production equipment for large-screen TVs and OLED production equipment for smartphones. Orders received decreased because investment in LCDs for large-screen TVs had come
+to a cyclical downturn and investment in OLEDs for smartphones entered a temporary adjustment phase. Net sales of semiconductor and electronic device production equipment increased from the previous fiscal year because demand for electronic device production equipment remained firm, a recovery trend of memory-related investment became apparent, and ULVAC’s entry in the field for logic devices was also a contributory factor.
+Operating profit margin was 8.6%, down 2.2 percentage points from the previous fiscal year. This decrease was mainly because lower net sales could not be fully offset by reducing fixed costs.
+R&D expenses totaled ¥8,353 million, a decrease of ¥856 million from the previous fiscal year. The ratio of R&D expenses to net sales was 4.5%, an increase of 0.3 percentage points from the previous fiscal year due to a decrease in net sales. Although the amount of R&D expenses decreased from the previous fiscal year owing to restrictions on movement and so on
+because of the COVID-19 pandemic, the ULVAC Group is continuing to emphasize investment with a view to future growth.
+Regarding indicators for evaluating the degree
+of achievement of the management policies, management strategies, and management objectives during the period until FY 2019 covered by the mid- term management plan, the ULVAC Group used net sales, operating profit, and operating profit margin as key performance indicators. As described on Page
+23, the ULVAC Group formulated a new mid-term managementplan,“Breakthrough2022,”whichcovers three years from FY 2020. The basic policy of this mid- term management plan is twofold: “investment in development for growth (selection and concentration)” and “profit-oriented management through structural change.” Under this policy, the ULVAC Group will use net sales, gross profit margin, operating profit margin, return on equity (ROE), and operating cash flow as new key performance indicators.
+Quantitative targets for the third year (FY 2022)
+of the mid-term management plan are net sales of ¥210.0 billion, gross profit margin of 35% or higher, operating profit margin of 16% or higher, ROE of 13% or higher, and operating cash flow of ¥29.0 billion. The Group aims to achieve further growth from a medium- to long-term perspective by implementing specific initiatives to attain the targets of the new mid-term management plan.
+Financial Position
+Total assets at the end of FY 2019 amounted to ¥282,350 million, having increased ¥48 million compared with the figure at the previous FY year- end. The main factors were a ¥22,137 million increase in cash on hand and in banks, whereas notes and accounts receivable, trade, inventories, and deferred tax assets decreased ¥10,534 million, ¥4,669 million, and ¥4,072 million, respectively. Total liabilities amounted to ¥121,256 million, having decreased ¥3,458 million compared with the figure at the previous fiscal year-end. The main factors were a ¥9,309 million decrease in notes and
+Cash Flows
+accounts payable, trade, a ¥4,280 million decrease in advances received, a ¥3,649 million decrease
+in short-term loans payable, and a ¥1,462 million decrease in income taxes payable, whereas long- term loans payable increased ¥17,909 million.
+Net assets amounted to ¥161,093 million, having increased ¥3,505 million compared with the figure
+at the previous fiscal year-end. The main factor was a ¥5,587 million increase in retained earnings, whereas accumulated other comprehensive income decreased ¥2,143 million. As a result, the equity ratio at the end of FY 2019 was 54.6%.
+ Cash and cash equivalents at the end of FY 2019 amounted to ¥77,948 million, having increased ¥22,089 million compared with the figure at the previous fiscal year-end. The status of cash flows from operating, investing and financing activities and major contributing factors were as follows.
+   Management’s recognition, analysis and discussion of operating results by business segment are as follows.
+Cash Flows from Operating Activities
+Net cash provided by operating activities amounted to ¥18,738 million compared with net cash provided by operating activities amounting to ¥18,282 million for the previous fiscal year. The main factors contributing to cash inflows were income before income taxes, depreciation, a decrease in notes and accounts receivable-trade, and a decrease in inventories. The main factors contributing to cash outflows included a decrease in notes and accounts payable-trade and a decrease in advances received.
+Financial Resources and Liquidity
+The ULVAC Group’s funding needs are principally for R&D investment and capital investment, which will underpin a new growth strategy, and for working capital for business operations. The Group intends to expand investment for development in the semiconductor and electronic device fields to strengthen growing businesses. Such demand for funds is satisfied by cash flows from operating activities and borrowings from financial institutions. In fund procurement, the Group endeavors to level the annual amount of repayment in order to reduce refinancing and the repayment burden.
+Cash Flows from Investing Activities
+Net cash used in investing activities amounted to ¥4,143 million compared with net cash used in investing activities amounting to ¥9,448 million for the previous fiscal year. The main factors included purchase of property, plant and equipment and intangible assets and proceeds from sales of investment securities.
+Cash Flows from Financing Activities
+Net cash provided by financing activities amounted to ¥7,455 million compared with net cash used in financing activities amounting to ¥5,844 million for the previous fiscal year. The main factors included an increase in long-term loans payable, cash dividends paid, and a decrease in short-term loans payable.
+While the outlook is unclear owing to the COVID-19 pandemic etc., in order to ensure preparedness for contingencies, the Group has secured sufficient liquidity in hand through increased borrowings and
+by other means. The Group has also put in place a system that enables it to secure additional funds
+by concluding commitment-line contracts. Thus,
+the Group is capable of stable operation for the
+time being. The Group will maintain the system that ensures timely access to necessary funds so as to be capable of responding to rapid change in the business environment.
+Vacuum Equipment Business
+Segment net sales decreased 17.5% year on year to ¥154,773 million. Net sales of FPD and PV production equipment were below the level of the previous fiscal year because investment in LCDs for large-screen TVs had come to a cyclical downturn and investment in OLEDs for smartphones decreased. Despite the impact of the COVID-19 pandemic, net sales of semiconductor and electronic device production equipment were above the level of the previous
+fiscal year because of firm demand for electronic device production equipment and the contribution
+of sputtering equipment for logic devices. Regarding components, sales of cryopumps, vacuum pumps, and measuring equipment decreased following robust sales in the previous fiscal year. Segment profit margin deteriorated from 11.1% for the previous fiscal year to 8.8% for the fiscal year under review. This deterioration was mainly attributable to the fact that
+the decrease in net sales of FPD and PV production equipment was significant and could not be fully offset by the growth in net sales of high-margin semiconductor and electronic device production equipment and by the reduction of fixed costs.
+Vacuum Application Business
+Segment net sales decreased 7.3% year on year to ¥30,629 million. Lower net sales reflected a decrease in orders received for sputtering target materials
+for LCDs in line with the decrease in the facility utilization rate of customers’ plants whereas mask blank-related demand remained firm. Segment profit margin deteriorated from 9.0% for the previous fiscal year to 5.4% for the fiscal year under review. This deterioration was mainly attributable to the fact that the decrease in net sales could not be fully offset by the reduction of fixed costs.
+ 53
+ULVAC VALUE REPORT 2020 54
+
+                                             Financial Data/Corporate Information
+Consolidated Financial Statements
+Consolidated Balance Sheets
+Assets
+Current assets
+Cash on hand and in banks
+Notes and accounts receivable, trade
+Merchandise and finished goods
+Work in process
+Raw materials and supplies
+Other 6,840
+(Millions of yen)
+80,694 66,702 3,883 21,004 10,217 6,903 (419)
+81,850 (52,735)
+29,115
+76,740 (57,428)
+19,312
+13,933 (12,295)
+1,638
+8,344
+3,851 (1,284)
+2,567
+4,213
+53 973 2,251
+11,869 6,108 9,343
+(2,422)
+Liabilities
+Current liabilities
+(Millions of yen)
+31,439 11,266 666 1,340 11,569 2,686 372 1,672 1,323 9,952
+38,577 1,999 27 7,363 — 156 402 447
+20,873 3,912 126,571 (349)
+5,301
+(572) (1,482)
+6,840
+ FY2018
+(As of June 30, 2019)
+FY2019
+(As of June 30, 2020)
+ FY2018
+(As of June 30, 2019)
+FY2019
+(As of June 30, 2020)
+  Allowance for doubtful accounts
+Non-current assets
+Property, plant and equipment
+Buildings and structures Accumulated depreciation Buildings and structures, net
+Machinery, equipment and vehicles Accumulated depreciation
+Machinery, equipment and vehicles, net
+Tools, furniture and fixtures Accumulated depreciation Tools, furniture and fixtures, net
+(444)
+80,546 (50,595)
+29,951
+71,500 (54,042)
+17,459
+14,338 (12,358)
+1,981
+Advances received
+Accrued employees’ bonuses Accrued directors’ bonuses Accrued warranty costs
+Provision for loss on order received
+58,557 77,236 3,937 24,033 11,803
+40,748 14,915 306 2,802 15,849 3,625 485 1,632 1,099 Other 13,041
+Long-term liabilities
+Long-term loans payable
+Lease obligations
+Deferred tax liabilities
+Net defined benefit liability
+Accrued directors’ retirement benefits Provision for board benefit trust
+Notes and accounts payable, trade Short-term loans payable
+Lease obligations
+Income taxes payable
+Total current assets
+  181,962
+  188,985
+   Total current liabilities
+  94,501
+  72,285
+     20,668 551 16 7,846 75 145 399 Other 512
+   Asset retirement obligations
+  Land 8,357
+Total long-term liabilities
+  30,213
+  48,972
+ Leased assets
+Accumulated depreciation Leased assets, net
+Construction in progress
+Intangible assets
+1,813 (1,099)
+715
+7,226
+Net Assets
+Shareholders’ equity
+Capital stock Capital surplus Retained earnings Treasury shares
+Accumulated other comprehensive income
+Valuation difference on available-for-sale securities Foreign currency translation adjustment Remeasurements of defined benefit plans
+Non-controlling interests
+ Total liabilities
+  124,714
+  121,256
+   Total property, plant and equipment
+  65,687
+  65,189
+   Leased assets
+Software 1,030 Other 2,361
+20,873 3,912 120,985 (247)
+6,652 266 (1,528)
+6,676
+Total shareholders’ equity
+  145,522
+  151,007
+ Total intangible assets
+  3,446
+  3,278
+ Investments and other assets
+Investment securities
+Deferred tax assets
+Other
+Allowance for doubtful accounts
+55
+13,797 10,180 11,690 (4,462)
+  Total accumulated other comprehensive income
+  5,390
+  3,246
+ Total investments and other assets
+ 31,207
+  24,898
+ Total non-current assets
+ 100,340
+ 93,365
+   Total net assets
+  157,588
+  161,093
+  Total liabilities and net assets
+  282,302
+  282,350
+  Total assets
+  282,302
+  282,350
+ 55
+ULVAC VALUE REPORT 2020 56
+
+ Financial Data/Corporate Information
+Consolidated Financial Statements
+Consolidated Statements of Income Net sales
+Cost of sales
+Selling, general and administrative expenses
+Selling expenses
+General and administrative expenses
+Non-operating income
+Interest income
+Dividend income
+Compensation income
+Share of profit of entities accounted for using equity method
+Other 1,579
+(Millions of yen)
+185,402
+134,805
+13,091 21,547
+      171
+      634
+      779
+      494
+1,433
+437 980
+3,261 — 47
+64 175 —
+Consolidated Statements of Cash Flows Cash flows from operating activities
+Income before income taxes 27,148 Depreciation 6,938
+(Millions of yen)
+21,122 7,849 175 (2,053) (1,031) (411) (75) 10 34 224 (806) 437 (150) (3,261) (47) (494) — 9,941 2,718 (7,985) (4,186) (370) 3,430
+1,111 (450) (6,994)
+(3,728) 3,707 (8,828) 1,175 3,371 150 10
+(3,785) 26,689 (8,607)
+(787) (5,175) (120) (760)
+ FY2018
+(July 1, 2018–June 30, 2019)
+FY2019
+(July 1, 2019–June 30, 2020)
+ FY2018
+(July 1, 2018–June 30, 2019)
+FY2019
+(July 1, 2019–June 30, 2020)
+220,721
+155,845
+18,217 22,830
+331 2,048 505 (100) (197) 11 (82) 27 (870) 293 (74) (1,710) (75) (346) (303) 7,508 (3,185) (13,913) (328) 677
+  Gross profit
+  64,876
+  50,596
+   Total selling, general and administrative expenses
+ 41,047
+  34,638
+ Operating profit
+ 23,828
+ 15,958
+  183 687 21 346
+Impairment loss
+Increase (decrease) in allowance for doubtful accounts
+Increase (decrease) in accrued employees’ bonuses
+Increase (decrease) in net defined benefit liability
+Increase (decrease) in accrued directors’ retirement benefits
+Increase (decrease) in provision for board benefit trust
+Increase (decrease) in accrued warranty costs
+Increase (decrease) in provision for loss on orders received
+Interest and dividend income
+Interest expenses
+Subsidy income
+Loss (gain) on sales of investment securities
+Loss (gain) on sales of non-current assets
+Share of (profit) loss of entities accounted for using equity method
+Loss (gain) on change in equity
+Decrease (increase) in notes and accounts receivable - trade
+Decrease (increase) in inventories
+Increase (decrease) in notes and accounts payable - trade
+Increase (decrease) in advances received
+Increase (decrease) in accrued consumption taxes
+Other 1,457
+Total non-operating income
+  2,816
+  3,511
+ Non-operating expenses
+Interest expenses Other
+Extraordinary income
+Gain on sales of investment securities Gain on change in equity
+Gain on sales of non-current assets
+Extraordinary losses
+Loss on retirement of non-current assets
+Impairment loss
+Other 27
+ 293 776
+1,710 303 75
+Total non-operating expenses
+ 1,069
+  1,418
+ Ordinary profit
+ 25,575
+ 18,052
+  Total extraordinary income
+  2,088
+  3,308
+ Subtotal
+ 25,761
+  25,071
+   156 331
+1,222 (270) (8,432)
+Interest and dividend income received Interest expenses paid
+Income taxes paid
+Cash flows from investing activities
+Payments into time deposits
+Proceeds from withdrawal of time deposits
+Purchase of property, plant and equipment and intangible assets
+Proceeds from sales of property, plant and equipment and intangible assets
+Proceeds from sales of investment securities
+Proceeds from subsidy income
+Other (348)
+Total extraordinary losses
+ 515
+ 239
+Income before income taxes
+ 27,148
+ 21,122
+Current income taxes
+ 6,709
+ 4,790
+Deferred income taxes
+451
+ 4,596
+ Total income taxes
+7,160
+9,386
+Net income
+ 19,988
+ 11,736
+Net income attributable to non-controlling interests
+ 1,323
+ 967
+Net income attributable to owners of parent
+  18,665
+  10,769
+ Net cash provided by (used in) operating activities
+  18,282
+  18,738
+  (5,589) 5,602 (11,338) 231 1,779 216
+Net cash provided by (used in) investing activities
+  (9,448)
+  (4,143)
+    Net income
+Other comprehensive income
+Valuation difference on available-for-sale securities
+Foreign currency translation adjustment
+Remeasurements of defined benefit plans, net of tax
+Share of other comprehensive income of entities accounted for using equity method Total other comprehensive income
+Comprehensive income
+Comprehensive income attributable to: Owners of parent
+Non-controlling interests
+19,988
+(8,298) (2,773) 226 190
+(10,655)
+9,334
+8,280 1,054
+(Millions of yen)
+11,736
+(1,347) (759) 48 (142)
+(2,200)
+9,536
+8,626 910
+Cash flows from financing activities
+Net increase (decrease) in short-term loans payable Proceeds from long-term loans payable Repayments of long-term loans payable Repayments of lease obligations
+Cash dividends paid
+Purchase of treasury shares
+Dividends paid to non-controlling interests
+(7,288) 15,100 (7,929)
+(358) (4,683) (0) (687)
+FY2018
+(July 1, 2018–June 30, 2019)
+FY2019
+(July 1, 2019–June 30, 2020)
+  Net cash provided by (used in) financing activities
+ (5,844)
+ 7,455
+Effect of exchange rate change on cash and cash equivalents
+ (908)
+ 39
+Net increase (decrease) in cash and cash equivalents
+ 2,082
+  22,089
+ Cash and cash equivalents at beginning of period
+54,348
+55,859
+Decrease in cash and cash equivalents resulting from exclusion of subsidiaries from consolidation
+ (571)
+  —
+ Cash and cash equivalents at end of period
+ 55,859
+ 77,948
+     57
+ULVAC VALUE REPORT 2020 58
+Consolidated Statements of Comprehensive Income
+
+                                            Financial Data/Corporate Information
+Company Data/Stock InformationStock Information As of June 30, 2020Total number of shares authorized100,000,000Total number of shares issued
+ 49,355,938
+ Total number of shareholders
+ 16,410
+ Company Profile
+As of June 30, 2020
+Directors, Auditors and Executive Officers As of September 29, 2020
+Number of Shares Held by ShareholderType
+   Name Trademark Head office
+Established
+Capital
+Number of employees
+ULVAC, Inc. ULVAC
+President and Chief Executive Officer
+Director and Executive Vice President
+Senior Managing Director
+Senior Managing Director
+External Director
+External Director
+External Director
+External Director
+As of September 30, 2020
+Setsuo Iwashita
+Mitsuru Motoyoshi
+Masasuke Matsudai
+Dr. Choong Ryul Paik
+Hiroyuki Nishi
+Norio Uchida
+Dr. Kozo Ishida
+Yoshimi Nakajima
+Managing Executive Officer
+Senior Executive Officer
+Senior Executive Officer
+Senior Executive Officer
+Senior Executive Officer
+Executive Officer
+Executive Officer
+Executive Officer
+Executive Officer
+Executive Officer
+Executive Officer
+Executive Officer
+Auditor
+Auditor
+External Auditor
+External Auditor
+Tetsuya Shimada
+Shigemitsu Sato
+Dr. Kazuya Saito
+Tomoyasu Kondo
+Sadao Aoki
+Yu JerTsai
+Zheng Ming Zeng
+Dr. Koukou Suu
+Shinji Takahashi
+Yasuo Shimizu
+Kenji Yamaguchi
+Dr. Ju Hoon Shin
+Makoto Ito
+Mitsuru Yahagi
+Senshu Asada
+Isao Utsunomiya
+Securities Companies 1,680,408 shares 3.40%
+         2500 Hagisono, Chigasaki, Kanagawa Prefecture, Japan
+August 23, 1952 ¥20,873,042,500
+Non-consolidated 1,333 Consolidated 6,370
+Major Shareholders
+Nippon Life Insurance Company
+TAIYO FUND,L.P.
+JapanTrustee Services Bank, Ltd. (Trust account)
+The MasterTrust Bank of Japan, Ltd. (Trust account)
+TAIYO HANEI FUND,L.P.
+3D OPPORTUNITY MASTER FUND
+Mizuho Bank, Ltd.
+Sumitomo Mitsui Banking Corporation
+STATE STREET BANK ANDTRUST COMPANY 505103
+NORTHERNTRUST CO.(AVFC) RE HSD00
+Note: Treasury stock (3,548 shares) is excluded from the calculation of shareholding ratios.
+Domestic Companies 2,048,563 shares 4.15%
+Individuals
+and Other 8,030,232 shares 16.27%
+Total 49,355,938 shares
+Foreign Investors 29,569 shares 0.06%
+Treasury stock 3,548 shares 0.01%
+Financial Institutions 16,208,020 shares 32.84%
+       Number of shares (Thousands)
+    3,242
+ 2,831
+   2,452
+ 2,419
+   1,616
+1,427
+  1,278
+ 1,243
+  1,173
+  ULVAC Group Companies
+Bases of ULVAC, Inc.
+Foreign Companies 21,355,598 shares 43.27%
+North America
+• ULVAC Technologies, Inc.
+• Physical Electronics USA, Inc.
+1,093
+Shareholding ratio (%)
+6.57
+5.74
+4.97
+4.90
+3.28
+2.89
+2.59
+2.52
+2.38
+2.21
+   Bases of ULVAC Group companies in Japan/overseas
+R&D base
+Sales and service bases
+          59
+ULVAC VALUE REPORT 2020 60

@@ -1,0 +1,78 @@
+For the Earth Contributing to the Realization of a Low-Carbon Society
+Toward a Next Stage for Further Reductions in CO2 Emissions throughout Product Lifecycle. Supporting Customers’ Low-Carbon Activities through Energy- Efficient Technologies and Carbon Offsets
+Issues and Approaches
+Adopted at the Conference of Parties 21 (COP21) held in December 2015, the Paris Agreement, which promises to reduce the amount of greenhouse gas emissions, went into effect in November 2016. At the Marrakech Climate Change Conference (COP22), each participating country decided to finalize important rules for carrying out the Paris Agreement by 2018.
+Amid these kinds of global trends, detailed policies are being formulated so that each country is able to reach their established targets. These policies will include the establishment of specific targets for the industrial sector as well as the strengthening of regulations on energy efficiency.
+To realize a low-carbon society and to pursue become completely carbon free, it is important for corporations to improve the efficiency of their activities throughout the entire product lifecycle.
+In addition to initiatives at its production sites,
+Canon is working to improve CO2 efficiency throughout the entire product lifecycle, from use of raw materials, operational site activities, and distribution to product use, disposal, and recycling. In the lifecycle, as CO2 emissions during product use has relatively a large portion and customers are demanding greater energy efficiency, we are working hard to make our products more energy efficient during product use. Additionally, we are utilizing a carbon-offset program in Japan to assist our customers in their low-carbon activities.
+Related SDGs
+  19 Canon Sustainability Report 2017
+ 
+      Message from Management
+Relationship with SDGs
+Climate Change Risks
+Additional risks in the event temperatures rise by 2°C
+Canon Group Business Operations
+CSR Reporting
+CSR Management Growth Strategy and Sustainability
+Activity Highlights
+Third-Party Opinion / Assurance
+     Management Structure
+GRI Guideline Implementation
+Relationship between Climate Change and CO2 Emission Amounts
+ 5 4 3 2 1Baseline53 480-530
+0-580
+720-1,000580-720430-480
+     Additional risk level due to climate change
+Extremely high High Moderate
+Not detect
+Expanding Carbon Offsets to the imagePRESS Series
+With regard to energy savings for office equipment, we have used energy-saving technologies. These include on- demand and IH fixing technologies, which reduce standby power consumption. As a result, we have achieved cumulative energy savings of 31,359 GWh between 2008 and 2016 (equivalent to a reduction of 15,417,000 tons of CO2).
+Along with promoting the development of such energy- saving technologies, we are making use of a carbon-offset program promoted by the Ministry of Economy, Trade and Industry in Japan to support our customers in reducing CO2 emissions during product use.
+In addition to the Refreshed series of remanufactured multifunction devices (MFDs) and the imageRUNNER ADVANCE series of office MFDs, we expanded the range of products eligible for carbon offset in 2016 to include the imagePRESS series of production printers.
+In the case of the imagePRESS C65, capable of printing high-resolution pamphlets, we have offset 4,800 kg of lifecycle CO2 emissions per product in response to the request of customers.
+By transferring the amount of offset CO2 to our customers, we have eliminated CO2 emissions per product during product use (2,700 kg/CO2) as 0. This transfer also allows customers to report these reductions to authorized ministries in accordance with the Act on Promotion of Global Warming Countermeasures.
+Furthermore, customers are now able to offset CO2 emissions of printed items created with imagePRESS.
+Energy-Saving Effects of Office Products
+Cumulative amount of energy conserved
+Cumulative CO2 emissions reduction effect of sold products
+0
+1,000 2,000 3,000
+Cumulative CO2 emission amounts resulting from human activities since 1870
+Observed value in the 2000s
+High potential for keeping increases under 2°C in the 21st century, GHG concentration converted to CO2 430–480 ppm
+4,000 5,000 6,000 7,000 8,000 (GtCO2)
+   Source: “Annual Report on the Environment 2016,” Ministry of the Environment, Japan (Created by the Ministry of the Environment, Japan from the IPCC ’5th Assessment Report Summary for Policy Makers’)
+(GWh)
+40,000 35,000 30,000 25,000 20,000 15,000 10,000
+5,000 0
+Lifecycle CO2 Emissions of imagePRESS C65
+(1,000 t-CO2)
+   Disposal recycle
+170 kgCO2
+Use
+2,700 kgCO2
+Lifecycle CO2 Emissions per Product
+4,800 kgCO2
+840 1,756
+1,530
+2,950
+6,315 9,709
+8,224
+16,816 13,043
+12,811
+10,405 21,194
+15,417 31,359
+26,104
+16,000 14,000 12,000 10,000 8,000 6,000 4,000 2,000 0
+Raw materials
+1,800 kgCO2
+Production
+130 kgCO2
+Logistics
+51 kgCO2
+    4,660 6,259
+  3,254
+2008 2009 2010 2011 2012 2013 2014 2015 2016 (Year)
+     Canon Sustainability Report 2017 20

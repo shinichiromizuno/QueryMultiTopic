@@ -1,0 +1,160 @@
+ Opinion / Assurance
+GRI103-2
+        GRI102-15
+   Canon is now moving ahead with major strategic changes aimed at sustainable growth, positioning network cameras, healthcare, industrial equipment, and commercial printing as four new pillars of business in addition to such existing businesses as cameras, office multifunction devices, and printers. Utilizing the advanced technological expertise we have cultivated so far, we will deepen collaboration with Group companies newly acquired by M&A, namely Canon
+Overview of Material Issues and Activities in 2017
+Creating a Safe and Secure Society
+Tokki, Canon ANELVA, Canon Machinery, Océ, Axis, Milestone Systems and Canon Medical Systems, and create new value. In addition, we will promote joint development and open innovation with leading research institutions, such as universities, and other companies in Japan and overseas, and provide products and services suited to various needs.
+GRI103-3
+    Development of network cameras (Axis)
+Creating New Value and Solving Social Issues Through Business Activities
+In collaboration with Axis and Milestone Systems, we will respond to diverse needs for “security and safety” with network visual solutions, including image analysis technology. In 2017, we expanded our product lineup of network cameras and launched AXIS Q1659, the first joint development product by Canon and Axis.
+Expanding Our Medical Business
+In 2017, Canon Medical Systems released a high-resolution Aquilion Precision CT scanner capable of resolving features 0.15mm in size, contributing to greater clinical value through earlier and more accurate cancer diagnoses. In the future, we plan to concentrate on the fields of “imaging diagnosis”, “healthcare IT”, and “in vitro diagnosis”, and develop business activities offering support to medical institutions and patients.
+Supporting Industrial Innovation
+In 2017, Canon delivered the semiconductor lithography equipment that utilizes proprietary nanoimprint lithography (NIL) technology, to Toshiba Memory Corporation, a leading provider of semiconductor memory solutions. The provision of this equipment for verification represents significant progress toward mass production of a semiconductor device that employs NIL technology. In addition, we have worked to increase the production of Canon Tokki’s organic EL display manufacturing equipment by putting the entire strength of the Canon Group into it.
+Related SDGs
+Through its new businesses, Canon aims to contribute especially to the achievement of:
+SDG 3 “Ensure healthy lives and promote well-being for all at all ages”
+SDG 9 “Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation”
+SDG 11 “Make cities and human settlements inclusive, safe, resilient and sustainable”
+SDG 17 “Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development”
+  Management Approach
+Canon contributes to a better future, a sustainable society through innovation
+ Why it Matters
+To realize a sustainable future, society has many challenges yet to overcome. Many of these issues, such as the aging population in developed countries, the improvement of standards of living in emerging countries, and the security problem accompanying the advancement of IT, cannot be solved without the cooperative sharing of expertise in the global society. Meanwhile, understanding the connection between the expansion of business activities that contribute to solving such social problems and business opportunities is spreading to corporations. For Canon as well, keeping close to social issues in each region of our global operations and contributing to solutions through business will fulfill our social responsibilities and increase the sustainability of Canon and society.
+With a corporate philosophy of kyosei, Canon is committed to creating new value through diversified products and services based on advanced technologies and platforms while creating good relationships with customers, business partners, communities and the global environment. We have developed new businesses that are already helping to address social issues with many innovative products,
+GRI102-7
+GRI102-11
+GRI103-1
+   including network cameras that support safe and efficient social infrastructure, medical diagnostic equipment that supports advanced medical treatment, and industrial equipment that supports activities of daily living and IT with advanced technologies.
+   Canon Group Sales in 2017
+     Europe
+9,101million dollars
+Asia and Oceania
+9,374million dollars
+Net Sales
+36,106 million dollars
+Americas
+9,801million dollars
+Japan
+7,830million dollars
+   25 Canon Sustainability Report 2018
+Canon Sustainability Report 2018 26
+* U.S. dollar amounts are translated from yen at the rate of JPY 113=U.S.$1, the approximate exchange rate on the Tokyo Foreign Exchange Market
+as of December 29, 2017, solely for the convenience of the reader.
+Creating a Safe and Secure Society
+Canon contributes to the creation of a safe and secure society through network visual solutions that integrate cameras and video technology with advanced IT.
+Urbanization is advancing rapidly around the world. Forecasters predict as many as about 70% of the global population will live in cities by 2050, up from 50% today. Rising urban populations create traffic congestion, which is thought to cause huge economic and environmental losses. In addition, the threats to the safety and security of homes and businesses continue to diversify due to the increasing incidence of urban crime, terrorism and cyberattacks associated with advances in IT. To mitigate growing risks while protecting freedom of movement for people and goods, new urban infrastructure is needed to promote safety and security in cities. We must rethink the creation and management of urban spaces to ensure the everyday safety of residents.
+In Japan, cities are undergoing extensive redevelopment to prepare sporting venues and surrounding precincts for large-scale sporting events such as Rugby World Cup 2019TM, Japan and the Olympic and Paralympic Games Tokyo 2020. At the same time, the numbers of people visiting Japan from overseas are expected to rise as the country is highlighted internationally. Maintaining law and order while ensuring people’s safety and security and protecting infrastructure are essential to ensure these events are a success.
+Network cameras help to maintain law and order and protect infrastructure, both by anticipating safety or security threats and supporting appropriate responses, and by helping to address issues based on accurate recordings. Having positioned network cameras as a new business under Phase V of its Excellent Global Corporation Plan, Canon is working to upgrade the product lineup and to reinforce in-house solutions development capabilities. This involves the integration of core camera technologies developed over years, including optical, sensor and imaging engine technologies as well as image-processing software, with the network control and cloud services that have been cultivated in MFP development.
+Using expertise from Group members such as Axis, a major player in the network camera industry from Sweden, and top global video management software supplier Milestone Systems, Canon offers integrated,
+state-of-the-art systems based on advanced network image processing (Axis) and video management technology (Milestone). Going forward, Canon aims to progress the development of network video solutions to extract the necessary data from video content for use in a variety of fields, including health, nursing care, education, transport, and urban infrastructure.
+Amid growing adoption of various big data applications in the IoT era, the evolution of image-processing technology is creating uses for network cameras not only in crime prevention, but also from use of video data in new sectors such as manufacturing and marketing. Canon is developing innovative camera-based network video solutions for crime prevention, surveillance, and other applications.
+Software responding to safety and
+security needs
+Canon is looking to add value to network camera imaging by responding to network camera market demand for recording and analysis solutions for video content. Work is progressing on the commercialization of video content analysis software for use in the security, customer service, marketing and other sectors.
+Concerns are also being raised about how to protect the privacy of individuals in the context of continuously recording network cameras. Canon has developed “Moving Object Mask” software that can render a person as a moving silhouette to stop their identification in a video feed (→P16). We have also developed “People Counter” software to provide instant readouts of the number of people in a frame (approximately 1,500), with potential marketing applications. This could also be used to help security, from assessing overcrowding or people flow in various types of venues to the deployment of security personnel or giving evacuation instructions. Moreover, we have developed “Profile Analyzer” software for estimating the age and gender profile of a group of people from video data. We are continuing to develop the technology to gauge crowds at concerts or large-scale sporting events, or to search and track specific people in a crowd quickly using live video feeds from multiple cameras.
+27 Canon Sustainability Report 2018
+         Message from Management
+Canon Operations and Sustainability
+CSR Management
+Activity Highlights Management Third-Party Structure Opinion / Assurance
+Creating New Value and Solving Social Issues Through Business Activities
+Solutions for a wide range of needs
+Including Group member company Axis’ product lineup, Canon can offer a range of products to cater to varied customer needs. We supply box-type monitoring cameras for a strong, conspicuous deterrent; module cameras to embed in the landscape or for portability; thermal imaging cameras for objects, vehicles or people; cameras for installation inside trains or vehicles; and cameras that can endure harsh conditions in terms of vibration, impact, shaking or temperature variation. We have products to suit a varied range of user requirements.
+The first product jointly developed by Axis with Canon, the AXIS Q1659 combines Canon’s superlative optical and imaging technologies with the advanced network image-processing technology of Axis to deliver high-resolution video surveillance capabilities. The camera is compatible with eight different interchangeable lenses for Canon’s EOS-series digital SLR cameras, enabling a wide range of potential uses. It is ideal for remote surveillance in settings from cities and airports to stadiums.
+By combining these various products and software, Canon is catering to varied safety and security needs, including surveillance in shops, restaurants and other commercial facilities; factories and hospitals; stations, airports and parts of the transport network; and public spaces.
+Network cameras can be used to protect public spaces
+CSR Reporting
+         Readout from People Counter v1.0 software
+High-resolution network camera for Full HD color video even in low light
+Canon’s ME20F-SHN network camera has an in-house-developed Full Frame 35mm CMOS sensor to enable professional Full HD color video recording even in almost total darkness or low light settings where little would be visible to the naked eye. The product has a wide range of potential uses in night-time monitoring, surveillance or disaster and crime prevention, including monitoring rivers or other border crossings and photographing animals in the wild.
+ME20F-SHN video recording (left) versus image using naked eye (right)
+  Canon Sustainability Report 2018 28
+
+Expanding Our Medical Business
+Canon is contributing to better medical care by developing new diagnostic technology and utilizing healthcare IT.
+With the global population continuing to simultaneously grow and age, the number of people aged at least 65 is expected to double to more than 1.4 billion by 2050.
+In Japan, around 40% of the population is predicted to be at least 65 by 2050. With people expecting to live healthily without any restrictions on daily activities even later in life, demand is rising for a wide range of healthcare services, from promotion of better health and prevention of disease to advanced personalized medicine. The global healthcare market is forecast to exceed ¥500 trillion by 2030.
+The gap between average and healthy life expectancy is between five and ten years. Reducing this gap will be a major issue as society ages more rapidly in the future. Prevention, early detection and the treatment of disease are the keys to living healthily into old age. Preventing and detecting disease early can help curtail healthcare cost inflation in an aged society, which is an essential element in targeting greater sustainability.
+Diagnostic accuracy is also a prerequisite for supplying high-quality medical services. To this end, there is a great need to make effective use of vast volumes of medical data and cumulative information on patients. Simplifying the challenges faced by health professionals will become a major issue in realizing a sustainable society.
+Canon founder Takeshi Mitarai, who was also a doctor, was strongly committed to “contributing to society via medicine.” In 1940, not long after the company was established, Canon developed the first radiographic camera made in Japan to help detect pulmonary tuberculosis. Ever since, Canon has contributed to the early detection and treatment of disease by supplying ophthalmological instruments and diagnostic equipment using digital radiography and other technologies. During Phase V of its Excellent Global Corporation Plan, Canon is reinforcing medical operations as one of its new core businesses.
+In December 2016, the Canon Group accepted Canon Medical Systems (formerly Toshiba Medical Systems), the top supplier of CT scanners in Japan and ranked third in the world by market share in the field. Based on the company’s philosophy “Made for Life” that expresses the firm’s
+mission to contribute to medicine to protect human life, Canon Medical has built up technical expertise in diagnostic equipment such as CT, MRI and ultrasound systems,
+which reduce the burden on the patients. We aim to supply solutions for patients and health professionals by combining artificial intelligence (AI) with our proprietary image-processing technology to support better medical diagnoses and improve patient outcomes.
+Canon’s Boston US-based Healthcare Optics Research Laboratory conducts research targeting technical advances in medical robotics, miniature endoscopic imaging and other fields in partnership with Massachusetts General Hospital, an institution linked to Harvard Medical School, and Brigham and Women’s Hospital.
+Going forward, partnering with leading medical institutions in Japan and abroad, we plan to concentrate our resources on diagnostic imaging systems. We will also focus on the fields of healthcare IT – supplying advanced visualization tools, diagnostic support systems and network solutions, based on the latest ICT – and in vitro diagnostic systems for the rapid and precise analysis of blood and other patient samples.
+Global average healthy life expectancy
+83.7 74.9 8.8 82.8 72.4 10.4 82.7 72.8 9.9 82.4 72.6 9.8 81.8 72.0 9.8 81.3 71.4 9.9 81.0 71.3 9.7 79.3 69.1 10.2 79.1 69.2 9.9 76.1 68.5 7.6
+Average healthy life expectancy data from “World Health Statistics 2016” published by the WHO
+ 29 Canon Sustainability Report 2018
+Country
+Japan
+Average life expectancy (yrs)
+Healthy life expectancy (yrs)
+Period of poor health (yrs)
+ Spain
+ Italy
+ France
+ Norway
+ U.K.
+ Germany
+ U.S.
+ Cuba
+ China
+          Message from Canon Operations CSR Management Activity Highlights Management Third-Party
+Management and Sustainability
+Patient-friendly and cutting-edge diagnostic imaging systems
+Canon Medical’s CT scanners have been recognized for their advanced diagnostic capabilities, high analytical efficiency, reduced burden to the patient, and lower lifetime operating costs. In 2007, the Aquilion ONE became the world’s first CT scanner to reproduce the movement of organs or blood flow using sequenced images. The latest models in the same series ensure that procedures are more patient-friendly due to less radiation exposure from quicker imaging and reduced usage of contrast agents. This should enhance substantially the utility of CT scanners with geriatric and pediatric patients and in intensive care situations. In 2017, the Aquilion ONE was awarded the Minister for Health, Labour and Welfare Prize as part of the government-instituted Grand Prize for Japanese Medical R&D. In the same year, we introduced the Aquilion Precision, an ultra-high resolution CT scanner that enables clear visualization of microstructures in the body (→P18).
+In MRI scanners, responding to patient feedback about noise and compartment tightness, we have developed proprietary “Pianissimo” noise-reduction technology and redesigned the scanner so patients do not feel so enclosed. In other sectors, we are contributing to the early detection of disease with patient-oriented diagnostic equipment, including high-resolution ultrasound systems and a mammography system developed by an all-female team to minimize patient discomfort during the machine’s operation.
+CT scanner enabling reduced radiation exposure
+Structure Opinion / Assurance
+CSR Reporting
+        Creating New Value and Solving Social Issues Through Business Activities
+Healthcare IT solutions for high quality and efficiency in medical consultations
+We continue to develop our healthcare IT solutions business to integrate, analyze and process diagnostic scans with various frontline medical data. We aim to boost the utility of such data with systems that support diagnostic analysis, using AI to process the collated medical data and an integrated platform to store, distribute and share patient- related information. In January 2018, we introduced the Abierto series of medical data management solutions for the collection, collation, analysis and visualization of medical information. While delivering three types of customer value in terms of enhanced clinical value, better operating efficiency and higher enterprise value, we hope to contribute to improved medical care by forging stronger links with hospitals and local-community health professionals.
+In vitro diagnostic systems for rapid, patient-friendly diagnoses
+Applying our know-how in sensitive detection technology, Canon Medical is developing in vitro diagnostic systems that detect the tiny quantities of virus present in the early stages of an infection. Detecting viruses such as influenza accurately at an early stage is extremely useful to medical practitioners. We are working on a test kit that would only need the patient to sneeze into a paper tissue. Faster detection makes it possible to treat infections earlier, reducing the incidence of serious cases and limiting the spread of disease.
+Canon Medical’s wide range of in vitro diagnostic systems for testing blood and other samples provide a range of clinical tests. With tropical viruses such as Ebola and Zika posing a growing global threat, we are also developing new DNA testing kits to help early detection of infections. Looking ahead, we will continue to work to make diagnostic tests less invasive for patients and more efficient by developing quicker tests requiring smaller samples.
+ Canon Sustainability Report 2018 30
+
+Supporting Industrial Innovation
+Canon is promoting sustainable economic growth by applying proprietary optical and image-processing technologies to manufacturing.
+Supporting constant innovation to adapt to changing conditions is essential to the realization of a sustainable society. Amid growing adoption of IoT, big data, AI and robot technologies as part of the so-called Fourth Industrial Revolution, there exist widespread possibilities for personalized, made-to-order or customized products and services. Committed to the expansion of B-to-B operations as part of Phase V of its Excellent Global Corporation Plan, Canon aims to create new value by using proprietary optical and image-processing technologies developed over many years in the industrial machinery field.
+In semiconductor manufacturing, building on conventional lithographic approaches as device manufacturing moves into the IoT era, Canon is aiming to establish nanoimprint technology to realize chip manufacturing at higher resolution and lower cost. In other sectors, OLED production equipment (Canon Tokki) and sputtering equipment (Canon ANELVA) are essential elements in supporting affluent consumer lifestyles. In addition, leveraging the latest sensing and 3D image recognition technologies, we are developing a state-of-the-art “3D Machine Vision System”, which acts as an eye for the robot, to help increase industrial manufacturing productivity.
+Economic growth rates for advanced economies and emerging markets
+31 Canon Sustainability Report 2018
+Advanced economies
+Emerging markets
+(%)
+6.0
+5.0 4.7 4.0
+3.0
+2.0 2.1 1.0
+Proj. 4.8 4.9
+5.1
+ 4.3 4.4
+2.3
+1.7
+0
+Source: IMF “World Economic Outlook, April 2018”
+Technology supporting affluent lifestyles
+2014
+2015 2016
+2017 2018 2019
+(Year)
+As the brains of electronic equipment, semiconductor devices are essential parts in the IoT era when everything is linked to the Internet. This trend is driving the growth in demand for flash memory used in mobile handsets and the development of a range of automotive applications for semiconductors. We supply lithographic equipment for semiconductor manufacturing. The functionality and memory capacity of semiconductors continue to increase as chip manufacturers adopt more complex circuit patterns and large-scale integration. Our aim is to use nanoimprint lithography, a ground-breaking technology that stamps circuitry onto wafers at high resolution, to support ongoing process migration and reduce manufacturing costs, thus contributing to gains in the performance of electronic devices as well as IT advances. In 2017, we installed semiconductor lithography equipment using nanoimprint technology at leading chip manufacturer Toshiba Memory Corporation.
+2.3 2.5 2.2
+         Message from Canon Operations CSR Management Management and Sustainability
+Activity Highlights Management Third-Party Structure Opinion / Assurance
+Creating New Value and Solving Social Issues Through Business Activities
+Technology supporting innovation in manufacturing
+Various types of robots are used today in manufacturing processes. This shift has created a new bottleneck since the piled parts traditionally delivered on bins must be arranged to facilitate their use by production line robots. This can offset the benefits from automation in terms of shortening production processes. Canon is developing the 3D Machine Vision System for picking out parts from a pile with high accuracy and speed. The system acts as an eye for the robot based on 3D image recognition technology. Since the system is compatible with existing robots, it can help automate the processes for feeding parts. We are developing it to cope with small, medium or large parts so it can boost productivity across a range of manufacturers in industrial sectors such as autos, electrical machinery, metals, plastics and chemicals. In the future, 3D machine vision technology is also expected to apply the automation of assembly processes.
+We have also introduced software for use with industrial cameras or Canon-made network cameras. This software can help raise operational efficiency in production facilities by monitoring for emergencies or faults and supporting a quick recovery if such events occur. Other software uses image-processing technology for reading barcodes or inspecting materials.
+The 3D Machine Vision System can pick out parts from a pile
+CSR Reporting
+        Elsewhere, Canon ANELVA makes sputters and other film-formation apparatus for use in semiconductor production, based on high-vacuum thin-film process technology. The firm is also the world’s sole supplier of sputtering equipment for hard disk drive (HDD) head production. Moreover, equipment supplied by Canon ANELVA is helping to boost performance while dramatically reducing the cost of production for communications devices used in high-speed 4G and 5G networks.
+With demand for OLED displays on the rise, the OLED production equipment developed and manufactured by Canon Tokki has become a critical component in production processes. Thinner than LCDs and capable of delivering brighter colors, OLED displays can also be molded into curved forms. Roll-up OLED displays may also be a reality in the future. Based on overwhelming technical superiority compared with rivals, Canon is creating original value in response to the growing demand for OLED displays for use in smartphones, TVs and other products.
+Semiconductor lithography equipment using nanoimprint technology installed at Toshiba Memory
+  Canon Sustainability Report 2018 32

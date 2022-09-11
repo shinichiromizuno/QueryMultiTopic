@@ -1,0 +1,21 @@
+Topics 
+ 
+Contributing to safer, more comfortable, and affordable air transportation through proprietary advanced technology
+- Developing new materials and technologies for aero engines -
+
+Air passenger demand should remain strong worldwide in the years ahead. In the next two decades, it is estimated that roughly double the current number of aircraft will be needed. We must cultivate high-value-added manufacturing to capitalize on such market growth. We contribute to safer, more comfortable, and more affordable air transportation, and are thus working on a range of proprietary production technologies.
+Carbon fiber reinforced plastics (CFRP)
+We developed techniques to employ light and strong CFRP on large fan parts that create thrust on aero engines. Such parts have been used on the advanced PW1100G-JM engine. The results are considerable weight savings, improved fuel economy, and lower noise.
+Ceramic matrix composites (CMC)
+As well as lightening engine fans, which is pivotal to improving fuel economy, we are working on CMC, a
+light and extremely heat-resistant material, for turbine parts. With engine manufacturers worldwide making new breakthroughs, we are accelerating development with materials producers and domestic research organizations to swiftly cultivate practical uses for CMC.
+
+Additive manufacturing (3D printer) technology
+We are developing additive manufacturing, or 3D printing, technologies, which have captured considerable attention worldwide in recent years.
+The advantages of 3D printers include flexible designs, low manufacturing cost for small runs, short production lead times. These printers could revolutionize parts designs and development lead times. We have already demonstrated the benefits of 3D printing for shaping large components of rocket turbo pumps, and are pushing ahead with 3D technology development to drive aerospace manufacturing innovations.
+
+  CFRP Structural guide vane CMC turbine parts
+          CFRP fan case
+     Cross-section of civil aero engine
+
+We will help achieve SDG goals by providing products and services.

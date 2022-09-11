@@ -1,0 +1,431 @@
+Contributing to a Circular Economy
+Canon pursues reductions in resource consumption and product-to-product recycling with the aim of contributing to the development of a circular economy.
+Canon’s Initiatives and Their Relation to SDGs Targets
+Target 12.2: Achieve sustainable management and efficient use of natural resources
+Target 12.4: Achieve environmentally sound management of chemicals and all waste throughout the product lifecycle, in accordance with agreed
+international frameworks, and significantly reduce their release into air, water, and soil
+Target 12.5: Substantially reduce waste generation through prevention, reduction, recycling, and reuse
+Target 6.3: Improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, and   Contributing to a Circular Economy
+Designing more compact products Remanufacturing products
+Recycling consumables
+Reducing waste through preventing, recycling and reuse Using sustainable water resources
+Target 12.2
+Target 12.5
+   Target 12.2
+Target 12.5
+   Target 12.2
+Target 12.5
+   Target 12.4
+Target 12.5
+   Target 6.3
+Target 6.4
+substantially increasing recycling and safe reuse globally Target 6.4: Substantially increase water-use efficiency
+Canon’s Approach to Achieving a Circular Economy
+Canon endeavors to make products smaller and lighter for more efficient use of limited resources, and to reuse and recycle materials as much as possible to reduce the amount of waste. We are also working hard to reduce the amount of water used and waste generated at operational sites involved in manufacturing.
+In particular, Canon pursues product-to-product recycling—in other words, recycling used products into new ones. As part of this pursuit, we have emphasized such initiatives as closed-loop recycling of toner cartridges and the remanufacturing of multifunction devices—collecting them post-use and making them into essentially new products.
+Resources that cannot be recycled from product to product are used effectively in other ways: for example, in material recycling, in which materials are repurposed in a range of ways; or, in thermal recycling, in which materials are combusted for heat.
+Canon has five sites conducting recycling, in
+Japan, Europe (two sites), the United States, and
+China. We are continuing initiatives aimed at
+circulating resources within the same regions where
+they are consumed. 20,000
+In the last five years, we have taken 19,350
+tons of plastic from used products for reuse as raw
+materials, and another 14,853 tons of products and
+parts were reused directly. 0
+Flow of Canon’s Circular Economy
+Closed-loop recycling
+Open material recycling energy recovery
+Product-to-Product Recycling Amounts (2012-2016 Cumulative Total)
+Amount of reused products and components (cumulative total) Amount of product-to-product plastic (cumulative total)
+            55 Canon Sustainability Report 2017
+Products made from reused parts and recycled plastic parts
+40,000 30,000
+34,203 27,292
+(t)
+Collection of used parts
+  Reused parts
+Recycling site
+ Plastic parts made from recycled material
+   20,241 11,188
+9,053
+2014
+19,350 15,348
+ 10,000
+12,324
+5,837 7,277
+3,384 5,047 2,453
+2012 2013
+ 11,944 14,853 2015 2016 (Year)
+ 
+     Message from Management
+Relationship with SDGs
+Canon Group Business Operations
+CSR Reporting (Environment)
+Growth Strategy and Sustainability
+GRI Guideline Implementation
+Recycling-Conscious Design
+Activity Highlights
+Third-Party Opinion / Assurance
+CSR Management Management Structure
+     Product Development Initiatives Aimed at Efficient Use of Resources
+Making Products Smaller and Lighter
+The most important means of achieving more efficient use of resources is simply to use less of those resources, so Canon strives to make its products smaller and lighter.
+For example, the new TS8000 series inkjet printer PIXMA is about 44% smaller and 29% lighter than
+the older MG6200 series models. We also reduced
+the size of packaging by about 31%, which will make
+shipping more efficient and lead to a reduction in
+CO2 emissions.
+Reference: Eco-Conscious Technology for Inkjet Printers
+http://www.canon.com/environment/ij-contents/
+Making Products Smaller and Lighter
+2011 MG6200 series
+The trend toward recycling and reusing resources
+is growing in response to concerns over the depletion of natural resources. Canon gives careful consideration to this in each stage of the production process, from design and development to post-use collection and recycling, through the use of Lifecycle Assessments (LCA) and the Product Assessment System.
+Specifically, to assist these efforts in the design stage we formulated the Environmentally Conscious Design Guidance, which covers an array of considerations, including product-related environmental laws and regulations, Green Public Procurement standards, and environmental label standards in the countries where we sell our products.
+The Environmentally Conscious Design Guidance contains design guidelines relating to such matters as information disclosure, reduced use of materials, ease of disassembly, and ease of sorting materials following disassembly.
+2016 TS8000 series
+  Body
+Approx. 44% reduction
+in volume
+470mm Approx. 29% reduction 372mm Approx. 9.2kg in weight Approx. 6.5kg
+      Packaging
+Approx. 31% reduction
+in size
+    563mm
+446mm
+Canon Sustainability Report 2017 56
+367mm
+324mm
+478mm
+458mm
+173mm
+139mm
+234mm
+212mm
+
+Remanufacturing of Multifunction Devices
+Canon remanufactures used multifunction devices. In remanufacturing, we collect used devices and break them down into parts, which are washed
+and cleaned using optimal techniques to meet rigid standards. Following strict recycling standards, we replace any parts that show wear or deterioration. The product passes along the production line and through inspection processes on par with those for devices made only with new parts. When a remanufactured device is shipped, it is guaranteed to offer the same level of quality and reliability as a new product.
+In Japan, we sell remanufactured devices from the imageRUNNER ADVANCE series as the Refreshed series. The imageRUNNER ADVANCE 6065-R, a remanufactured monochrome multifunction device, contains reused parts accounting for 80.9% of its gross weight.
+Toner Cartridge Closed-Loop Recycling
+In 1990, Canon launched its Toner Cartridge Recycling Program, the first such program in the industry. The program is still operating today.
+Returned used toner cartridges are brought to Canon recycling sites, where they are sorted by model on the recycling line.
+Reusable parts are removed prior to crushing. Washing and maintenance are performed as needed, and the parts are reused in new products. Parts
+Remanufacturing Flowchart
+that cannot be reused are crushed and separated by material using physical characteristics such as electrostatic properties and specific gravity.
+The primary material of toner cartridges is the high-impact polystyrene (HIPS) used primarily for the housing. HIPS can be used repeatedly to make new toner cartridges a unique feature of Canon’s closed- loop recycling process.
+We conduct used toner cartridge collection in 21 countries and regions (with a cumulative collection volume of about 379,000 tons as of the end of 2016) for recycling at four recycling sites*1 located in Japan, the United States, France, and China (recycling process in each region where the cartridges are collected).
+In particular, Canon Ecology Industry (Japan) has introduced the automated recycling system CARS-T*2 since 2015. This cutting-edge recycling system handles all of the processes involved in recycling
+and helps make the site a clean, comfortable work environment for recycling.
+Thanks to our recycling initiatives, as of 2016 we have achieved a cumulative reduction in the use of new resources of approximately 260,000 tons.
+*1 Toner cartridge recycling sites Japan: Canon Ecology Industry The United States: Canon Virginia France: Canon Bretagne
+China: Canon Dalian Business Machines
+*2 CARS-T: Canon Automated Recycling System for Toner Cartridge
+Reference: Toner Cartridge Recycling Program special microsite
+http://www.canon.com/environment/cartridge-sp/index.html
+        Body disassembly
+Unit disassembly
+Body frame cleaning
+Body assembly process
+       Unit reuse
+exchanged
+Parts to be
+Shipping and sales
+57 Canon Sustainability Report 2017
+Inspection
+Collection
+Reprocessing
+Parts and unit cleaning
+
+     Message from Management
+Relationship with SDGs
+Canon Group Business Operations
+CSR Reporting (Environment)
+CSR Management Management Structure
+Growth Strategy and Sustainability
+GRI Guideline Implementation
+Activity Highlights
+Third-Party Opinion / Assurance
+     Used Toner Cartridge Collection Volume (Cumulative)
+Used Ink Cartridge Collection Volume (Cumulative)
+(10,000t) 40
+35 30 25 20 15 10
+5
+0
+1990 1995 2000
+Cumulative 379,000 tons
+(t) 2,000
+1,500
+1,000
+500
+0
+Cumulative 1,946 tons
+           Collection and Recycling of Ink Cartridges
+Worldwide Collection
+Canon has been collecting and recycling used ink cartridges since 1996. As of the end of March 2017, Canon’s recycling program was operational in 36 countries and regions worldwide, and the total volume of cartridges that had been collected up to the end of 2016 reached 1,946 tons.
+In Japan, the Ink Cartridge Satogaeri (Homecoming) Project—a joint program implemented by printer manufacturers—collects cartridges via boxes placed in post offices, libraries, and other local government facilities, and schools collect cartridges through activities related to the Bellmark Campaign.
+Outside Japan, we place cartridge collection boxes in large retail stores, affiliate sales stores, shopping malls, companies, schools, libraries, train stations, Canon service stores, Canon showrooms, and other locations, depending on the circumstances in each country or region.
+For details on the Ink Cartridge Satogaeri Project and the Bellmark Campaign, please visit the following webpages.
+Reference: Ink Cartridge Satogaeri Project (Japanese website only)
+http://cweb.canon.jp/ecology/satogaeri/index.html
+Reference: Collection activities related to the Bellmark Campaign (Japanese website only)
+http://cweb.canon.jp/ecology/bellmark/index.html
+At Canon Ecology Industry Inc., cutting-edge recycling equipment, known as CARS-I*3, sorts cartridges by model, disassembles them, pulverizes the ink-cartridge, and washes the resulting material, on a single integrated, automated line. The recovered materials are reused in new ink-cartridge parts (closed recycling), repurposed to make pallets, construction materials, and stationery goods, or used as a combustible heat source.
+*3 CARS-I: Canon Automated Recycling System for Ink Cartridge
+CARS-I automated line for ink cartridge recycling
+2005 2010 2016 (Year)
+Note: Data scope is worldwide. Figures include cartridges for large-format inkjet printers and compact photo printers.
+Advancing Recycling Techniques
+1996 2000
+2005 2010 2016
+(Year)
+  Canon Sustainability Report 2017 58
+
+Initiatives to Reduce Waste at Operational Sites
+Reducing Waste
+Canon is working hard to reduce the amount of waste it generates. Efforts include increasing recycling through sorting and collection, and reducing the amount of waste itself.
+In particular, we have sought to determine which factors most significantly affect waste generation for each division and each production process. Based on this, we have a number of ongoing initiatives to curb waste generation, including reducing the amount of scrap materials resulting from manufacturing and using returnable packaging.
+As a result of such initiatives at our various sites, total waste generation in 2016 amounted to 98,417 tons, down 1.2% compared to 2015.
+we contract with companies that reprocess waste into raw materials.
+In 2016, contracted companies processed 92,323 tons
+of waste from Canon back into raw materials.
+* Except for some general waste generated by business activities that is disposed of under government oversight
+Aiming for Sustainable Water Resources
+Water Risk in Regions Where Canon Production Sites are Located
+Canon assesses locations to confirm available water intake volume before establishing offices and facilities.
+According to the World Resources Institute’s* water risk map “AQUEDUCT,” none of Canon’s production sites are located in a region considered to be extremely high risk.
+* World Resources Institute: WRI is an independent institute based in the United States that conducts policy research and provides technical assistance concerning environmental and development issues around the world.
+Reducing Water Usage
+Canon keeps water data by intake source (public water system, industrial water system, or groundwater) and manages water resources carefully so as not to exceed intake limits for the various regions in which it operates. We also manage targets for the volume of water used in production and constantly strive to reduce water usage by improving production processes and eliminating wastage.
+In 2016, water usage throughout the Canon Group was 9,410 m3, a year-on-year decrease of 3.4% from 2015.
+Total Waste Generated
+Total waste generated (Japan, exc. assets)
+Total waste generated (outside Japan, exc. assets)
+Waste per unit of consolidated sales
+(t) 180,000
+150,000 120,000 90,000 60,000 30,000
+(t/¥100 million) 2.89 3.0
+   2.19
+76,080
+38,404 40,789
+2.5 2.0 1.5 1.0 0.5
+2.01
+2.64
+2.62
+ 98,303 99,638 98,417
+    74,911
+49,264
+48,830
+47,800
+50,617
+Use of Water Resources
+Volume of water resources used: Japan Volume of water resources used: Overseas
+     49,039
+50,808
+37,676 34,122 00
+Per unit of consolidated net sales (1,000m3)
+0.26
+9,756 4,464
+(1,000m3/¥100 million) 0.30
+18,000
+* Sales outlets of marketing companies (worldwide) included in 15,000 0.24
+0.28
+9,410 4,201
+  2012 2013 2014 2015 2016 (Year) data count have been expanded starting in 2014.
+0.26
+0.26
+9,737 4,434
+  Initiatives Related to In-House Waste Recycling
+and Outside Resource Recovery
+Canon actively works to reduce the amount of waste 9,000 9,131 8,987 originating from its operations and to reuse or recycle 3,545 3,462 waste where possible, appropriately disposing of any waste 6,000
+that can be neither reused nor recycled in accordance with
+the law.
+0.25 0.20 0.15 0.10 0.05
+12,000
+3,000
+        Our various operational sites employ a range of in-house recycling initiatives, including reprocessing waste plastic from injection molding or recycling it for other equipment.
+Even in the case of waste that must be sent outside the Company, we make sure it does not enter landfills*. Rather,
+5,209 00
+2012 2013 2014 2015 2016 (Year)
+*Note: Sales outlets of marketing companies (worldwide) included in data count have been expanded starting in 2014.
+ 5,586
+5,525
+5,292
+5,303
+ 59 Canon Sustainability Report 2017
+
+     Message from Management
+Relationship with SDGs
+Canon Group Business Operations
+CSR Reporting (Environment)
+CSR Management Management Structure
+Growth Strategy and Sustainability
+GRI Guideline Implementation
+Activity Highlights
+Third-Party Opinion / Assurance
+     Water Recycling at Production Sites
+Canon promotes the recycling of water resources. The Kitsuki Plant of Oita Canon Materials Inc.
+is located on Beppu Bay, home to precious natural resources. In consideration of the impact on the
+ecosystem, the plant employs a closed wastewater system that discharges nothing but rainwater.
+ Canon Canada’s Rainwater Reuse System
+A rainwater reuse system was installed at Canon Canada’s new headquarters completed in 2016. Rainwater is collected from the roof of the building and stored underground in a
+Canon Canada’s new headquarters building
+45,000m3-capacity tank. The collected water is used for toilets and on-site irrigation. The system is expected to reduce annual water use by about 2,300 m3.
+  Preparing to install a rainwater recycling system
+Canon Sustainability Report 2017 60
+
+Eliminating Hazardous Substances and Preventing Pollution
+Canon thoroughly manages chemical substances in products and those used in manufacturing processes to prevent environmental pollution and adverse effects on people’s health.
+Canon’s Initiatives and Their Relation to SDG Targets
+Target 12.4: Achieve the environmentally sound management of chemicals and all waste throughout the product lifecycle. Significantly reduce their release into the air, water, and soil.
+Target 6.3: Improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, and increasing recycling and safe reuse.
+ Manage chemicals contained in products, meet international standards
+Manage chemical substances in work processes Reduce discharges into the air, water and soil Green supply chain
+Target 12.4 Target 12.4
+Target 12.4
+  Eliminate hazardous substances, prevent pollution
+    Target 12.4
+ Target 6.3
+  Canon’s Approach to Managing Chemical Substances
+Canon strictly manages chemical substances in products as well as those used in manufacturing processes. Our basic approach to management involves confirming products do not contain chemical substances that exceed the limited values and production sites do not emit chemical substances that exceed the limited values.
+Management of Chemical Substances in Products
+Canon has built a Groupwide environmental assurance system for managing chemical substances in products. Our product development is based on some of the world’s most stringent in-house standards that take into consideration laws and major environmental-labeling requirements around the world. Specifically, our management system classifies chemical substances into three types: “prohibited substances,” which cannot be used in products; “use-restricted substances”, for which we are working to find alternatives by specific deadlines; and, “controlled substances,” the amount of which should be monitored.
+Understanding the Latest Information on Chemical Substances in Products and Taking Preemptive Action
+Research and studies are being carried out around the world on the impact risk of chemical substances on the environment and people’s health. Europe, in particular, has taken the lead in expanding its regulations.
+Canon strives to grasp new regulatory trends at an early stage and take action, ensuring that it provides products that are safe for the environment and people in every country and region where Canon products are used.
+Proactive Contribution to International Standards for Transmitting Information on Chemical Substances
+To manage chemical substances appropriately, it is important to share information on the chemical substances contained in raw materials, parts, and products accurately and efficiently along the supply chain from upstream to downstream, and to ensure compliance with all regulations.
+In the past, companies each employed their own survey formats to convey information about chemical substances
+in products, which meant responding to questions multiple times in different formats even with regard to the same parts or chemicals. This situation incurred substantial burden on and costs to the entire supply chain. Furthermore, using such a variety of survey formats presented concerns about data becoming less reliable as it was communicated across the supply chain.
+In such a situation, the Ministry of Economy, Trade and Industry (Japan) sponsored chemSHERPA (chemical information SHaring and Exchange under Reporting PArtnership in
+supply chain) as a common platform for sharing information, facilitating the smooth transmission of information between companies to confirm compliance with regulations on chemical substances in products. Canon has been proactively involved as a member company considering the scheme.
+The chemSHERPA makes use of the data scheme under the IEC62474* international standard. In 2016 Canon went ahead with preparations, such as putting internal systems and operating rules in place, and launched the system in January 2017.
+* IEC62474 : Material Declaration for Products of and for the Electrotechnical Industry. International standards issued by the IEC (International Electrotechnical Commission) in March 2012 aiming to streamline the material declarations on chemical substances and compositions contained in the product of the electrotechnical industry in the global supply chain.
+61 Canon Sustainability Report 2017
+
+     Message from Management
+Relationship with SDGs
+Canon Group Business Operations
+CSR Reporting (Environment)
+CSR Management Management Structure
+Growth Strategy and Sustainability
+GRI Guideline Implementation
+Activity Highlights
+Third-Party Opinion / Assurance
+     Managing Chemical Substances Used in Manufacturing Processes
+The chemical substances handled during manufacturing at Canon include “controlled chemical substances” regulated in terms of adverse effect on the environment, human health and safety, etc. Canon separates these substances into three categories: A) Prohibited substances; B) Emission reduction substances; and C) Regulated substances. In turn, effective measures are in place for each category.
+Prohibited substances are defined as those prohibited under the Chemical Weapons Convention, the Stockholm Convention, the Montreal Protocol and the Convention concerning Safety in the Use of Asbestos, as well as specified greenhouse gases (PFC/ HFC/SF6), other soil and groundwater pollutants, and substances that significantly impact people’s health.
+Greenhouse gases other than PFC/HFC/SF6, greenhouse gases identified by the IPCC as having global warming potential (GWP), volatile organic compounds (VOCs) and other substances specified by Canon are designated as emission reduction substances.
+Regulated substances are chemical substances with defined compliance requirements, including compliance with reference values and the ascertainment of usage and storage quantities.
+Reducing Use and Emissions of Controlled Chemical Substances
+Canon engages in various initiatives at its operational sites to reduce emissions of controlled chemical substances.
+Canon Zhuhai, which uses hydrofluoroether in the cleaning of parts, collects the waste liquid and has installed equipment enabling them to reuse this substance.
+Oita Canon Materials has installed combustion removal equipment in the exhaust path of volatile organic compounds (VOCs) generated in the spray coating of parts, thereby reducing their emission into the atmosphere.
+As a result of these initiatives, in 2016 we successfully reduced our emissions of controlled chemical substances to 572 tons, a 5.5% reduction compared to 2015.
+Emissions of Controlled Chemical Substances and Amount of Chemical Substances Designated by the PRTR System*
+Controlled chemical substances (Japan)
+Controlled chemical substances (outside Japan)
+PRTR substances (Japan)
+PRTR substances (outside Japan)
+Chemical substance emission volume per unit of consolidated sales
+(t) 1,250
+1,000 0.0203
+750
+500
+250
+210
+0.0183 0.0173
+0.0159
+682
+(t/¥100 million) 0.025
+0.020
+0.015
+0.010
+0.005
+   706
+643
+0.0168
+605
+    572 440
+132
+4231 2012 2013 2014 2015 2016 (Year)
+   496
+494
+479
+452
+ 0
+7247
+25 22 16 12 110
+188 6038
+164 5236
+153 5745
+ Note: PRTR System: Pollutant Release and Transfer Register System A notification system for the transfer and release of chemical substances.
+Controlled chemical substances exclude regulated substances.
+Océ Group data has been included only for controlled chemical substance volume starting in 2013.
+Océ Group data has been added to emissions of controlled substances and emissions of PRTR substances in 2014.
+Canon Sustainability Report 2017 62
+
+Reducing Emissions into the Atmosphere and Waterways and Preventing Pollution
+Canon alleviates the environmental impact of its operational sites by reducing emissions of NOx*1 and SOx*2, which are major causes of air pollution and acid rain; reducing discharges of phosphates and nitrogen compounds, which cause the eutrophication of water environments; and, reducing BOD*3 and SS*4 indexes, which have an environmental impact on water environments.
+To prevent air pollution, when installing or updating equipment that uses fuel, we opt for fuels that do not generate air pollutants (such as sulfur oxide, nitrogen oxide and soot), and have banned the use of heavy oil.
+Furthermore, we have designated ozone- depleting substances and persistent organic pollutants cited in the Stockholm Convention on Persistent Organic Pollutants as banned substances.
+With regard to wastewater, each operational site sets its own levels based on those stipulated in local laws and regulations. We have 80% as an internal
+management value for these items, and we regularly check the status of compliance with management standards.
+As a result of these initiatives, Canon’s emissions or discharges from its operational sites in 2016 again did not exceed established standards.
+*1 Nitrogen oxides (NOx)
+A major cause of air pollution, acid rain and photochemical smog, NOx is generated when the nitrogen in fuels is oxidized or when nitrogen in the atmosphere is oxidized during high-temperature combustion.
+*2 Sulfur oxides (SOx)
+A major cause of air pollution and acid rain, SOx is generated when fossil fuels, such as oil and coal, are burned.
+*3 Biochemical oxygen demand (BOD)
+BOD is the amount of oxygen consumed when microorganisms degrade organic matter in water.
+*4 Suspended solids (SS)
+A collective term used for substances of less than 2mm in diameter that float in the air and do not dissolve.
+ Canon Virginia Group Named an Exemplary Environmental Enterprise (E3) for 10 Consecutive Years
+In 2016, Canon Virginia (CVI) and its group company Canon Environmental Technologies, Inc. (CETI) received their 10th consecutive annual Exemplary Environmental Enterprise (E3) designation. Bestowed by the Virginia Department of Environmental Quality (VDEQ), the E3 designation recognizes exemplary environmental management systems and pollution prevention activities.
+VDEQ established the Virginia Environmental Excellence Program (VEEP) in 2005 with the dual aims of fostering environmental preservation and economic development in the state of Virginia, as well as promoting the health of residents.
+The program encourages environmental management at factories established within the state. CVI and CETI comply with environmental
+requirements and engage in ongoing efforts to improve environmental performance (particularly in energy, gas and recycling). The companies were praised for these efforts as well as other initiatives, including the reduction in chlorinated solvents through a switch to non-chlorinated solvents, and toner cartridge recycling.
+CVI and CETI employees, pleased at having been named for 10 consecutive years
+ 63 Canon Sustainability Report 2017
+
+     Message from Management
+Relationship with SDGs
+Canon Group Business Operations
+CSR Reporting (Environment)
+Growth Strategy and Sustainability
+GRI Guideline Implementation
+PCB Waste Management
+Activity Highlights
+Third-Party Opinion / Assurance
+CSR Management Management Structure
+     Soil and Groundwater Remediation Status
+Canon places high priority on soil and groundwater protection. In line with this, we established the Canon Group’s Basic Policy on Soil and Groundwater Pollution and implement comprehensive measures based on it. In the unlikely event that soil or groundwater pollution is found at one of our operational sites, cleanup and remedial actions are carried out in close accordance with all relevant laws.
+Also, our standard when acquiring new land is to conduct a preliminary soil examination and carry out any other necessary procedures, such as soil remediation, before making the purchase. We also monitor the chemical substances used at each site, remaining fully aware of the national and regional standards where each site is located in order to implement countermeasures according to the situation at each location.
+Going forward, we will continue with the above initiatives and carry out monitoring and reporting of operational sites with completed remediation in a timely manner.
+Status of Soil and Groundwater Cleanup Activities*
+In accordance with relevant laws, Canon strictly manages polychlorinated biphenyl (PCB), which damages living organisms and the environment.
+As of December 2016, 17 operational sites were storing PCB waste. In terms of highly concentrated PCB waste, there are 57 capacitors and transformers and 1,834 fluorescent ballasts in storage. This PCB waste is placed in interim storage and is processed sequentially by the Japan Environmental Safety Corporation.Operational SiteSubstancesMeasuresShimomaruko
+Meguro
+Utsunomiya parking lot 1
+Kanuma
+Toride
+Bando
+Nagahama Canon
+Trichloroethylene, etc.
+Tetrachloroethylene, etc.
+Fluorine and its compounds, etc.
+Tetrachloroethylene, etc.
+Trichloroethylene, etc.
+Hexavalent chromium and its compounds
+1,1-dichloroethylene, etc.
+Hexavalent chromium and its compounds
+Water quality measurement
+Water quality measurement
+Pumping, water quality measurement
+In-situ cleanup, water quality measurement
+Pumping, excavation and elimination, water quality measurement
+Pumping, covering, water quality measurement
+Covering (soil pollution from soil improvement agents), water quality measurement
+       * Reports are made to the authorities concerning sites where cleanups are in progress.
+Canon Sustainability Report 2017 64

@@ -1,0 +1,92 @@
+Healthcare
+The Healthcare domain is in the market for home-use and hospital-use medical devices essential for leading healthy and active lives. The Healthcare Business (HCB) is the main business in this domain.
+We have been building a worldwide culture for measuring blood pressure at home by promoting home- use digital blood pressure monitors.
+OMRON has encouraged the use of nebulizers to treat asthma patients, and our low-frequency therapy equipment help people ease their neck and back pain. These three main product categories will continue to drive growth in our Healthcare Business in the future.
+Social Issues
+Increasing frequency of brain and cardiovascular diseases caused by hypertension Worldwide increase in respiratory disease
+ Healthcare costs are rising sharply around the world due to aging populations among developed countries and the increasing lifestyle diseases among emerging economies.
+Nearly 1 billion people around the world have hypertension*1. Each year, the number of patients with brain and cardiovascular diseases due to hypertension increases. While a patient suffering from serious medical events such as stroke or heart attack may be saved, their quality of life may be impacted adversely, becoming bedridden or having impaired speech. These outcomes affect not just the patient; they can be significant burdens to their families who must care for them. In emerging economies, air pollution and disruptions in traditional lifestyles have become serious challenges. These countries are seeing increases in the numbers of asthma sufferers. Today, nearly 400 million people have some type of
+Value Provided
+respiratory disease worldwide*2.
+Through innovative products and services,
+OMRON helps preserve the quality of life for patients and families impacted by these diseases, while we work to extend healthy life expectancies.
+Contributing to healthy and active lives for individuals worldwide
+OMRON contributes to the healthy lives of people worldwide by predicting risk and preventing disease. More specifically, we are working as quickly as possible to reduce the incidence of brain and cardiovascular diseases
+and asthma to Zero Events (complete elimination).
+The aim of Zero Events is to improve the diagnosis, treatment, and support of disease prevention through the collection and analysis of
+40 OMRON Corporation
+Cardiovascular Diseases
+Worldwide costs for ¥120 treating cardiovascular
+diseases
+trillion*3
+ Respiratory Diseases
+Costs for treating respiratory diseases in Japan/US/EU
+*1 Source: World Health Organization
+*2 Source: International Respiratory Society
+*3 Estimates based on World Bank and OECD data
+*4 Estimates based on Ministry of Health and Labor public data, European
+Respiratory Society data, and Creative Biotech Inc.
+ ¥19trillion*4
+    
+  blood pressure and other vital data.
+While we promote the use of nebulizers to
+eliminate severe asthma, we are also working on new technologies to anticipate asthma
+attacks for early detection and treatment. We will keep striving toward a future of
+sustainable good health for the people of the world.
+   Goals for Fiscal 2020
+Net sales for main business in domain:
+7.65
+   
+Healthcare Business (HCB)
+¥150
+billion
+   Sustainability Goals:
+Blood pressure 2 5million monitor sales units / year
+Relevant Sustainable Development Goal
+Good Health and Well-being
+■ Fiscal 2016 Sales by Product 3%
+Nebulizer + Asthma wheeze monitor sales
+million units / year
+      17 Patient monitors
+Other (activity monitors, etc.)
+  %
+ 4%
+Body composition monitors
+6% Low-frequency therapy equipment
+7% Thermometers
+Healthcare Business (HCB)
+51% Blood pressure monitors
+12%Nebulizers
+      Integrated Report 2017 41
+ Vision Overview Strategy Governance Financial Information
+
+ Toward Zero Victims of Brain and Cardiovascular Diseases
+OMRON is developing wearable blood pressure monitors that can be worn at all times like a wristwatch. By increasing the frequency to monitor blood pressure, users can assess the nature and degree of blood pressure fluctuation in ways not possible when readings are taken only in the morning and evening. Users can track
+Wearable blood pressure monitor
+Blood Pressure Activity
+Sleep
+†Artist’s conception Patient
+vital data (including activity and sleep tracking) in addition to blood pressure readings taken in the home and at work. The goal here is to provide services to physicians to support the diagnosis, prevention, and treatment of disease by analyzing this data using AI technologies.
+Diagnosis and treatment support services
+       Personalized diagnosis and treatment
+  Physician
+    Visualization of body condition and activities
+Data accumulation and analysis
+ In March 2017, OMRON announced a capital and business partnership with AliveCor Inc. of the U.S. to provide services supporting the diagnosis and treatment of atrial fibrillation*1. AliveCor has service platforms supporting the diagnosis and treatment of atrial fibrillation using mobile, wearable, and remote electrocardiograph (ECG) monitoring devices. This technology is expected to provide more precision in assessing risks of brain and cardiovascular diseases by integrating and analyzing blood pressure and related ECG data. We will work together with AliveCor to develop devices and service platforms that combine our respective strengths.
+Data analysis using AI
+Personalization
+*1 Atrial fibrillation (AF): Condition in which extraneous electrical signals other than those needed to stimulate the normal contraction of the heart are transmitted, disturbing the normal functioning of the atrium of the heart.
+ 42 OMRON Corporation
+
+Healthcare
+ Achieving Zero Incidents of Severe Asthma
+The number of people suffering from asthma around the world continues to rise. At the same time, many people are unaware of nebulizer therapy, especially among the emerging economies. OMRON is working with medical institutions and drug companies to increase the
+number of hospitals equipped with nebulizer treatment rooms and pharmacies that carry these devices. We are contributing to early treatment and the prevention of severe asthma by making more patients aware of treating asthma correctly through treatment devices.
+     Asthma Wheeze Monitors
+Research suggests that 80% of asthma patients suffer their first attack before the age of five. However, families are not readily equipped to assess their child’s symptoms. Delays prevent the child from receiving proper treatment in the early stages, resulting in a more severe case of asthma. Severe asthma can be prevented by providing patients with medication before they suffer a major attack.
+OMRON is now developing monitors that can measure, record, and manage the type of wheezing that signals an impending asthmatic attack. Through collaborative research with medical institutions, we are building algorithms into our devices that can tell the difference between different types of wheezing. These monitors will allow families to prevent asthmatic attacks at home. At the same time, asthma patients will have better access to appropriate treatment as doctors will be able to diagnose
+symptoms more accurately.
+Through greater use of nebulizers and asthma
+wheeze monitors, OMRON aspires to prevent severe juvenile asthma, reaching the ultimate goal of eliminating severe asthma altogether.
+   Asthma Wheeze Monitor (Prototype)
+Integrated Report 2017 43

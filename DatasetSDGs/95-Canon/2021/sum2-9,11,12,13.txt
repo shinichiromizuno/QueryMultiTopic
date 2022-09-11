@@ -1,0 +1,32 @@
+Business Strategy
+Imaging Group
+Combining optical technologies developed over many years with image processing, video analytics and network technologies, we aim to further reinforce the competitiveness of our existing operations while also establishing new businesses in areas such as smart cities and smart mobility and helping to build social infrastructure.
+ Competitive Advantages of the Imaging Group
+• Unique brand power inherited as longstanding industry pioneer and supplier of cameras used by professionals
+• Technical expertise borne of decades as a leading optical equipment manufacturer
+• Ability to supply integrated products due to ownership of technologies relating to cameras, image-processing software and video analytics
+ Basic Rationale on Value Creation
+Camera market contraction has continued due to rising smartphone penetration and the impact of the COVID-19 pandemic. However, there is sustained demand for high-performance models delivering professional-level richness of image and for mirrorless cameras. At Canon, we seek to capture this demand by leveraging technical expertise cultivated over many years to create products offering high performance and image quality. As part of contributing to the continued development of photographic and imaging culture, we also emphasize the social value inherent in the joy that Canon products give to people. Besides the development of new concept products to widen the appeal of photography, we are also focused on ways of fully capturing and recreating 3D spaces based on innovative technologies such as free- viewpoint video.
+In contrast, the market for network cameras is growing with widespread increases in security- consciousness and the evolution of the “smart city” concept globally. Against this backdrop, our network cameras are contributing in areas such as crime prevention, traffic safety and urban infrastructure planning. Network cameras are also adding value in novel settings through its video analysis technology,
+such as enabling defective parts recognition or enhancing process automation in factories and production facilities, or helping to increase sales in retail outlets based on detecting flows of people and merchandise. We are also developing software to anonymize people within video data feeds for privacy-protected monitoring applications. Our activities in the field of network cameras are based on the open strategy adopted by the Canon Group companies Axis Communications (“Axis”) and Milestone Systems (“Milestone”), which grants business partners flexibility in systems construction. Along with better security and safety, this approach translates to improvements in productivity, customer satisfaction and product quality.
+The Canon Group’s provision of high-quality cameras, network cameras and related products contributes to the achievement of several SDGs, notably SDG 9 (Industry, Innovation and Infrastructure) and SDG 11 (Sustainable Cities and Communities).
+Related SDGs
+        17 Canon Sustainability Report 2021
+ Phase V Review
+In a significant achievement, we maintained our No. 1 share of the shrinking digital camera market. Amid a shift to mirrorless cameras, we reallocated resources to boost the development of new businesses and products, including new concept cameras. While the COVID-19 outbreak temporarily depressed demand in 2020, the market has since begun to recover. Moreover, the surge in online communications due to the pandemic is expected to stimulate demand for better and more precise imaging, an area of strength for Canon.
+Business Strategy in Phase VI
+Business opportunities
+• Adoption of network cameras in varied settings such as factories, shops, healthcare and schools
+• Growth in demand with progressive adoption of smart cities, IoT and AI
+• Emergence of new imaging technologies such as virtual reality (VR), augmented reality (AR), mixed reality (MR) and free-viewpoint video
+• Growth of markets for network camera systems and video analytics software
+Our policy goal is to enter the vehicle-mounted camera market by leveraging Canon’s optical, image processing, video analytics and network technologies to establish the Smart Mobility business. We have started working with partner companies to develop and commercialize products in areas such as automotive LiDAR (light detection and ranging) sensors and next-generation AGVs (automated guided vehicles) or AMRs (autonomous mobile robots).
+In network cameras, in collaboration with Axis, Milestone, BriefCam and Arcules, we are working with Canon Group sales companies to build a platform for incorporating advances in IoT, AI and other technologies to create novel solutions that address diverse customer needs. Elsewhere, we are responding to the demand created by new situations such as the increase in remote work amid the COVID-19 pandemic that demands higher-quality video links; more automation in factories; and new demand in a range of healthcare settings. In addition, we are developing solutions using AI-based video analytics technology for real-time people counting and facial recognition within crowds and related applications.
+In the network camera business, following the addition of Axis and Milestone to the Group in Phase IV, we strengthened our position further through the acquisition of BriefCam in 2018. In 2017, the cloud business planning and development operations of Milestone were also spun off into the new Arcules venture as part of establishing an integrated value chain for our network visual solutions technology. This was one of the major achievements in Phase V.
+Risks
+• Contraction of camera market due to higher smartphone penetration rates
+• Loss of sales opportunities and supply chain disruption caused by COVID-19 pandemic
+• Brand recognition among younger demographics
+In the camera business, we are continuing to focus on development of new high-value-added products targeting segments with higher growth potential such as mirrorless cameras. Moving with the times to create new value, we are also putting more resources into the development of new concept cameras that emphasize the fun of capturing still images and video as a way of appealing to younger demographics.
+In addition, we are maintaining our global service and support network to give Canon customers greater peace of mind when using one of our products.
+         Canon Sustainability Report 2021 18

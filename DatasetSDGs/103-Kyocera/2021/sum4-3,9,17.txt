@@ -1,0 +1,82 @@
+Medical & Healthcare
+Reinforcing New Product Development
+●Expanding Our Medical Business Outside of Japan In January 2019 we established KYOCERA Medical Technolo- gies, Inc. in the U.S. as part of an effort to expand our medical business outside Japan. Our goals include broadening our product development and sales networks using our propri- etary 3D processing technologies. We will also leverage syn- ergies with our proprietary material technologies to create new opportunities to serve U.S. orthopedic patients.
+    via Open Innovation
+Orthopedic joint replacement systems are the cornerstone of Kyocera's medical products business, and demand is expect- ed to surge as Japan evolves into to a “super aging” society. We aim to leverage our strength as the manufacturer with the most extensive clinical track record in Japan's joint re- placement market1 to grow this business globally.
+We are also utilizing the latest expertise in treating joint dis- eases to expand into regenerative medical therapies. This promising field offers great potential to address societal needs ranging from burgeoning medical and nursing care costs to labor shortages, which are likely to grow as popula- tions age.
+In addition, we are working with other leading organizations to develop digital healthcare technologies and systems sup- ported by our extensive lines of electronic components and sensors.We will enhance these solutions and early diagnosis technologies to help create a society in which everyone can live a healthy, active life. Our information and communica- tions technologies (ICT) can play an essential role in networks connecting people with their caregiver institutions to help extend healthy life expectancy.
+1 Medium-term Forecast for the Medical Bionics (Artificial Organs) Market and In-depth Analysis of Market Participants, 2020 Edition (Yano Research Institute)
+Growing Market
+Japan's healthcare and nursing care costs increase yearly, and are forecast to reach approx. 93 trillion yen by 2040. We will ad- dress diverse medical care issues by aggressively developing new technologies that can help reduce the cost of care.
+■ Forecast for medical/nursing care costs
+U.S.: KYOCERA Medical Technologies, Inc.
+●Entering the Field of Regenerative Medicine Condensia® system
+STEP We have introduced our Condensia® system and en- 1
+tered a technical collaboration with Australia-based
+Regeneus Ltd.
+Kyocera Corporation commenced sales of our Condensia®2
+system, a platelet-rich plasma (PRP) preparation kit in April
+2020. PRP is a regenerative medical therapy that uses inject-
+ed concentrations of a patient's own platelets to accelerate
+the healing of diseased or injured tissues. In August 2020, we STEP entered a technical collaboration with Australia-based Re- 4 geneus Ltd. that involves cell preparation using stem cell
+Blood is taken in the same manner as a blood donation or blood test.
+STEP 2
+STEP 3
+The blood is passed through a centrifuge to separate red blood cells from plasma.
+Once separated,
+only the PRP is extracted.
+ technology. We plan to leverage these regenerative medical
+technologies with our longstanding expertise in orthopedic
+joint replacement to expand the scope of our medical busi-
+ness. Vast potential exists to improve the quality of life for
+patients suffering from gonarthrosis through joint replace- Cell preparation for gonarthrosis ment surgery and/or new outpatient therapies.
+2 �Condensia� is a registered trademark of KYOCERA Corporation.
+●Supporting Digital Healthcare with SaMD
+We are continuing to develop Software as a Medical Device
+(SaMD) solutions using proprietary sensing and AI technolo-
+Donor
+The PRP is injected.
+Cells
+Patient
+Cultured for therapy
+Whole blood
+    gies. According to data released from Japan's Cabinet Office,
+Societal Issues in Healthcare
+orthopedic diseases —a core focus for Kyocera —accounted
+Body temperature
+Positional information
+Heart rate Weight
+ for 17% of all medical expenses incurred by patients 65 and
+older, representing 24% of all diseases requiring some form Analysis
+Respiratory rate
+ of aid or care. This field is hampered by late diagnoses which limit intervention, making successful rehabilitation more diffi- cult.3 We hope to improve quality of life through SaMD-based early diagnosis, allowing behavioral changes and treatments to occur sooner. We also hope to reduce the burden on med- ical staff by utilizing digital technologies to provide more effi- cient diagnostic solutions.
+3 2019 AMED Investigation Committee Report on Focused Medical Device Development
+Information from the healthcare field Environmental information
+Medical information
+...!
+Comfortable lifestyle
+●Reduced workload
+AI
+Blood Blood pressure sugar level
+  Trillion yen 100
+80 60 40 20
+0
+Health promotion
+Optimized treatments
+Reduced workload
+●Reduced social  costs
+■Medical care ■Nursing care
+Artificial intelligence
+OUTPUT
+Real-time physiological data
+      Source: “Future Projection of Social Security Focused on 2040,” Japanese Cab- inet Secretariat and Cabinet, Ministry of Finance, Ministry of Health, Labour and Welfare (May 2018)
+Burgeoning medical
+1 andnursingcare 2 Laborshortages
+expenses
+●Longer healthy life  expectancy
+●Longer healthy life
+ expectancy ●Reduced medical expenses
+ 2018 2025
+2040 Year
+Source: Referenced from the explanatory materials on Society 5.0, “A New Society Brought About by Scientific and Technological Innovation,” prepared by Japan's Cabinet Office
+KYOCERA INTEGRATED REPORT 2021 20

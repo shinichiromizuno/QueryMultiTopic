@@ -1,0 +1,35 @@
+CEO Message
+Who We Are Special Report Our Way Our Platform Appendix Data Section
+       05
+Japan’s society is aging at a pace unseen anywhere else in the world. Along with the continuous growth in the proportion of the total population over the age of 65, extending the healthy life expectancy associated with the increasing number of those over the age of 75 is also becoming an issue. The number of elderly persons with dementia has been growing steadily, and it is estimated that by 2025 nearly 7 million elderly persons, or roughly one in five, will have dementia. To realize a sustainable society within this environment, hopes are being placed on services that detect early signs of cognitive decline and provide measures to prevent functional decline at the stage before elderly persons develop dementia.
+ Special Feature
+Creating Shared Value
+ Implementing initiatives to detect dementia early on through open innovation
+A fter being seconded to a medical organization in my sixth year at the company, I became involved in development, surveys and
+research into services related to healthcare and the elderly. Although I had already recognized healthcare and aging as social issues since that time, I now feel that considering these in combination with business environment change such as digitalization will be critical for the future.
+As Japan’s society ages, an increasing number of people are displaying mild cognitive impairment (MCI), an early stage of dementia. Despite active research into pharmaceuticals designed to treat and prevent dementia, however, a specific medicine has yet to emerge. Therefore, it is felt that one effective measure for preventing symptoms from worsening is to appropriately address the situation early on at the MCI stage. Thus, technologies are being developed to detect MCI early on and to prevent aggravation. Against this backdrop, supporting the practical use of those treatments that rely on voice, sight, smell and other senses, and that can be easily used by anyone, will connect to “identify and inform on risks” as part of the Group’s value creation story. This is what I see as the role of the insurance industry.
+Since fiscal 2018, the MS&AD Insurance Group has collaborated with the University of Tokyo Center of Innovation (COI), a hub for a “Self-Managing Healthy Society,” to advance initiatives for realizing a “Sustainable, Healthy Longevity Society.” In
+September 2019, we initiated joint research with the University of Tokyo on developing services that provide dementia prevention measures and have already begun to detect signs of MCI using voice based on the technology developed by the University of Tokyo COI.
+With the goal of developing an algorithm to identify cognitive levels based on voice, this joint research leverages the Group and our network of Group companies in working to collect and analyze the voice data, etc., of elderly persons that are essential for this research. In the future, we aim to commercialize the technology born through this project and put it to practical use in society.
+Currently, I am taking the opportunity to gain a new perspective on aging societies from the stance of business, for example, by participating in the Society for Applied Gerontology-Japan. There is now a shift from extending healthy longevity and care to prevention, as well as innovations in the use of healthcare data, for example. But I intend to capture these changes as business opportunities and to become involved in industry, government and academia open innovation while at the same time providing products and services that support society.
+    Elderly Data Collection Facility (Fureai Do-Life Services)
+Mitsui Sumitomo Aioi Life Insurance Product Development Group, Product Department
+Manager
+Masamoto Yamaguchi
+After joining Mitsui Sumitomo Insurance (current name) in 1988, he worked for InterRisk Research & Consulting and the Underwriting Department at Mitsui Sumitomo Insurance. He has held his current position since April 2016.
+           Social issues
+A growing number of elderly persons with dementia as society ages
+Solutions
+Provide support to detect early signs of cognitive decline and prevent functional decline
+●
+● ●
+● ●
+Impact on society
+A greater number of elderly persons enjoying independent lifestyles
+Revitalization of regional society
+Lower future medical expenses and nursing care expenses
+Economic impact on the Group
+Development of new insurance and services based on an industry, government and academia network
+Strengthened customer base because of regional revitalization
+             Related SDGs  3 :Good health and well-being
+INTEGRATED REPORT 2020 071

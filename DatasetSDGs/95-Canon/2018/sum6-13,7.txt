@@ -1,0 +1,198 @@
+Contributing to a Low-Carbon Society
+As the world grapples with the challenges of climate change, Canon is contributing to a low- carbon society by working to reduce CO2 emissions and improve energy efficiency throughout the product lifecycle.
+Canon’s Initiatives and Their Relation to Sustainable Development Goal (SDGs) Targets
+Target 7.2: Increase substantially the share of renewable energy in the global energy mix Target 7.3: Double the global rate of improvement in energy efficiency
+Target 13.2: Integrate climate change measures into national policies, strategies, and planning
+    Climate Change, Energy
+Initiatives for Realizing a Low-Carbon Society
+Canon tracks CO2 emissions throughout the product lifecycle (materials and parts manufactured by supplier, activities at operational sites, distribution, and customer use) and works to reduce emissions at each stage.
+In the materials and parts manufactured by supplier and customer use stages, we strive to reduce CO2 emissions through effective product development (making products smaller and lighter, using recycled materials, and developing energy-efficient designs). We also work to reduce CO2 emissions in activities at our operational sites and during the distribution stage (using modal shifts and improving efficiency in cargo loading and transport).
+CO2 Reduction in Product Development
+Energy-Saving Designs for Office Equipment
+For its office multifunction devices (MFD) and laser printers, Canon uses energy-saving technologies, including on-demand fixing and induction heating (IH) fixing to reduce the amount of electricity needed during operation. Furthermore, we continue to make technological advances aimed at expanding our lineup of energy-saving products. For example, we have begun employing low-melt-point toner in new products, enabling fixing at lower temperatures than traditional toner. In the imageRUNNER ADVANCE C5500 II Series of office multifunction devices (MFD), we reduced standby power consumption with a newly developed main controller and operating power consumption with a newly developed toner with optimized melt properties. With the imageRUNNER ADVANCE C5550F II, we achieved a reduction in CO2 emissions during use of approximately 47% and
+a reduction in lifecycle CO2 emissions of approximately 23% compared to the imageRUNNER ADVANCE C5250F, based on such measures as lowering the typical energy consumption (TEC)* value.
+● Designing energy-efficient products
+● Improving energy efficiency at operational sites ● Contributing to the spread of renewable energy ● Reducing CO2 from logistics
+Target 13.2
+Target 7.3
+   Target 13.2
+Target 7.3
+   Target 13.2
+Target 7.2
+   Target 13.2
+Target 7.3
+  imageRUNNER ADVANCE C5500 II Series
+Reduction of CO2 Emissions in Product Use Stage
+(%)
+100 80 60 40 20 0
+47% reduction
+         49 Canon Sustainability Report 2018
+imageRUNNER ADVANCE C5250F
+imageRUNNER ADVANCE C5550F II        Message from Canon Operations CSR Management Management and Sustainability
+Thanks to energy-saving technologies used in office equipment, between 2008 and 2017 Canon products achieved cumulative energy savings of 36,907GWh (equivalent to a reduction of 17,976,000 tons of CO2).
+* TEC value: An environmental indicator for the typical amount of electricity consumed by a product while in normal operation during a one-week period.
+Management Third-Party Structure Opinion / Assurance
+(GWh)
+60,000 50,000 40,000 30,000 20,000 10,000
+0
+2008
+(1,000 t-CO2)
+17,976 18,000 15,000
+Activity Highlights
+      Reference: Energy-saving technologies in Canon products https://global.canon/en/v-square/index03.html
+Energy-Saving Effects of Office Products
+■Cumulative amount of energy saved
+Cumulative CO2 emissions reduction effect of sold products
+Energy-Saving Designs for Medical Equipment
+Canon is now expanding energy-saving product design to its medical equipment. The Aquilion ONE/GENESIS Edition CT system reduces power consumption during usage by 49.6% compared to the previous model. This product was awarded a Gold Prize at the Green Apple Awards for Environmental Best Practice 2017 sponsored by The Green Organisation, a UK-based non-profit organization. These awards, which recognize excellence in environmental activities by companies, organizations and individuals, attracted more than 500 entries from around the world.
+CO2 Reduction Through Initiatives
+at Operational Sites
+Canon strives to improve energy efficiency at operational sites in order to restrict the volume of CO2 emissions during operation.
+Initiatives to Improve Energy Efficiency
+at Operational Sites
+Canon created the Energy Cost Reduction Working Group to address the important issue of annually rising energy costs. Since 2014, the group has been working mainly with production divisions on initiatives to cut energy costs.
+Applying the 5Gs* to return to basics in assessing issues at production sites, Canon focused on reforming the workplace mindset and finding points for improvement. An audit of roughly 6,000 pieces of production and development equipment confirmed operating requirements and identified opportunities for cutting energy consumption through such adjustments as lowering air pressure or changing settings for production cooling water or air-conditioning.
+Environment
+       2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+36,907
+2017
+12,000 9,000 6,000 3,000
+0
+( Y(e年ar))
+* Target products: Electrophotographic multifunction devices and laser printers for offices (excluding production printers).
+* Energy-saving effect using the average energy (electricity) consumed by products sold in 2007 as a baseline.
+* Cumulative yearly effect assumes that products sold in each year are used for 5 years.
+* CO2 emissions factors are calculated by using the weighted average of sales per region based on emission factors published by the Federation of Electric Power Companies (in Japan) and the International Energy Agency (outside Japan).
+CSR Reporting
+   Canon U.S.A. received 2018 ENERGY STAR® Partner of the Year awards
+Canon U.S.A. was selected as Partner of the Year – Product Brand Owner for the third year running at the 2018 ENERGY STAR® Awards sponsored by the US Environmental Protection Agency. In addition, Canon U.S.A. received the top honor, the Partner of the Year – Sustained Excellence Award, in recognition of its track record of leadership in this area. The ENERGY STAR® awards acknowledged Canon’s contribution through its products to raising energy-saving awareness among its customers and business partners while also helping to promote energy-saving activities.
+Canon Sustainability Report 2018 50
+In 2015, Canon formed the Energy Efficiency Diagnosis Team to coordinate improvements in the operational efficiency of equipment based on regular checks of equipment status and operating settings. Training sessions were also organized for production personnel aimed at making further improvements with limited investment.
+These activities have been extended to Canon Group companies worldwide, including development divisions and all production sites outside Japan. More than 3,000 measures to improve energy efficiency were implemented in the three-year period of 2014–16, generating overall energy savings of approximately 40,000kl (crude oil equivalent), or roughly 3% of total annual energy consumption.
+In recognition of these activities, Canon was honored in the Energy Conservation Grand Prize 2017 sponsored by the Energy Conservation Center, Japan. Canon received the Director-General of the Agency for Natural Resources and Energy Prize (Chief Green Officer/Company Division) for its theme of “a company-wide deployment of aggressive energy-conservation measures based on the 5Gs.”
+* The 5Gs is an operational improvement methodology for problem-solving.
+It adds theory “genri” and principle “gensoku,” which are the foundation of decision making, to the well-known 3Gs — visit the actual site “genba” in person and recognize the actual facts “genjitsu” through the actual parts or things “genbutsu.” The 5Gs takes its name from the five Japanese terms, all of which start with the letter g.
+Onsite inspection by Energy Efficiency Diagnosis Team
+Energy Conservation Grand Prize ceremony
+To increase the operating efficiency of its air compressors, which account for 24% of power consumption, Canon Precision set a target of 0.48MPa (below the design value) for some of its production equipment. Checks were done on equipment in over 1,600 locations over four months. The target was achieved by installing booster valves if higher pressure was required for production. The program delivered a 1.6% gain in air compressor operating efficiency.
+Canon Suzhou has designated “core holiday” dates on which production shuts down entirely so that compressors and air-conditioning can be turned off. Other energy-saving measures include changing the settings on cooling water pumps and installing inverters. CO2 emissions were reduced by 17% year on year.
+Canon’s sales offices have also been promoting measures to cut CO2 emissions. For its longstanding efforts in this area, Canon Australia was accredited as a Gold Partner by the New South Wales state government in its Sustainability Advantage Program.
+Canon Deutschland installed a high-efficiency lighting system inside its head office and promotes initiatives aimed at energy conservation by employees. The firm was recognized for its success in creating a sustainable office environment in the Office & Environment Awards sponsored by B.A.U.M. e.V. (German Environmental Management Association).
+In 2017, while the addition of Canon Medical Systems to the Canon Group increased GHG emissions, the level of emissions from existing operations was lower in year-on-year terms due to concerted energy-saving measures across operational sites.
+As a result, total emissions in 2017 of 1,162 kt-CO2 were only slightly higher than in 2016, and our emissions per unit of sales improved to 28.48 t-CO2/¥100 million.
+  51 Canon Sustainability Report 2018
+         Message from Canon Operations CSR Management Management and Sustainability
+Greenhouse Gas Emissions at Production Sites and Sales Offices
+■Greenhouse gas (Japan) ■Greenhouse gas (outside Japan) GHG emissions per unit of consolidated sales
+Activity Highlights
+Management Third-Party Structure Opinion / Assurance
+CSR Reporting
+        (1,000 t-CO2)
+2,000
+(t-CO2 /¥100 million)
+Canon Group companies in Europe sourced about 28.5% of total energy needs from renewable sources.
+Total renewable energy consumption by Canon Group companies worldwide in 2017 was 88,984 MWh, an increase of about 7% compared with 2016.
+40 1,500 30.58 28.48 30
+Share of Renewable Energy Consumption by Region in 2017 Asia and Oceania
+(except Japan Japan) 0.2%
+Share of Renewable Energy Consumption in Europe
+Environment
+ 33.40
+1,246 1,236
+33.40
+1,136 438
+698
+33.17
+ 1,000 419 437 500
+1,162 435
+727
+1,162 425
+737
+20
+10
+0.1%
+Americas 10.0%
+Europe 89.7%
+        827
+799
+28.5%
+00 2013 2014 2015 2016 2017 ( Y(e年ar))
+* Canon’s calculation of total greenhouse gas emissions
+Calculation of energy-derived greenhouse gas CO2, and non-energy derived greenhouse gases PFCs, HFCs, SF6, N2O, methane, and NF3. Through 2014, conversion to CO2 is made using annual coefficients for each region. Coefficients supplied by Japan’s Ministry of the Environment and the Federation of Electric Power Companies of Japan are used for site activities in Japan, and coefficients supplied by the International Energy Agency (IEA) are used for site activities in regions outside Japan. From 2015, CO2 conversion coefficients from the Electric Power Council for a Low Carbon Society are used, and where coefficients are not provided by electric power companies, publicly provided coefficients by region are used.
+As there is a delay between compilation and disclosure of data, CO2 conversion coefficients are adjusted retroactively.
+* Sales offices (worldwide) of marketing companies included in data count have been expanded starting in 2013. Figures for 2017 also include Canon Medical Systems.
+Contributing to Increased Use of Renewable Energy
+Use of Renewable Energy Suited to Regional Characteristics
+To increase the use of renewable energy, which is an SDG target, preparation of infrastructure suited to regional characteristics is under way.
+Canon aims through the end of 2020 to derive from renewable sources at least 300MWh of the energy it uses at sites in Japan, and at least 85,000MWh of the energy it uses at sites outside Japan. We are currently working to expand the use of renewable energy, especially in Europe, while keeping regional renewable energy uptake status and economic feasibility under consideration.
+Axis Communications AB (Sweden) and Océ Printing Systems GmbH (Germany) buy power from hydroelectric sources, and Océ -Technologies B.V. (Netherlands) purchases wind power. The three main Axis sites and three Océ group companies buy nearly all their energy from renewable sources. Océ -Technologies also employs a geothermal HVAC system that uses the temperature differential with groundwater to power heating and cooling systems. In 2017,
+Renewable Energy Consumption
+ (MWh)
+90,000
+85,000
+80,000
+75,000
+0
+88,984
+   80,227
+2014
+2015 2016 2017
+( Y(e年ar))
+83,598 83,372
+       CO2 Reduction in Logistics
+In order to reduce CO2 emissions from product distribution, Canon has undertaken several initiatives: modal shifts that utilize transport modes with a lower environmental impact, improving loading efficiency by downsizing of products and packaging, diversion or direct-shipment from production sites, and shortening routes by consolidating distribution centers.
+In addition to these initiatives, to further improve transport efficiency, instead of the traditional one-way transport of containers with cargo, we have been actively pursuing Container Round Use (CRU), which includes not just containers within the Canon Group, but also containers imported by other companies for us to export. We are working with carriers and container transporters to expand the initiative in regions. We are also expanding the initiative to our overseas sites, and have introduced it in China, Vietnam, Thailand, the Philippines, and Malaysia.
+Canon Sustainability Report 2018 52
+
+For example, Canon Vietnam increased the amount of cargo shipped using CRU from 4,000FEU* in 2016 to 9,000FEU in 2017, so that the CRU ratio over all ocean freight increased from average 20% to more than 40%.
+* FEU: Forty-Foot Equivalent Unit
+Overview of Container Round Use
+Canon Vietnam is developing CRU by using not only containers of Canon’s import for Canon own export, but also of other companies’, in co-operation with those in the north area of the country.
+In 2017, CO2 emissions from logistics operations amounted to 291 kilotons, a decrease of 1 kilotons compared to 2016.
+Helping Customers Reduce Their Environmental Impact
+Using the Carbon Offset Program (Initiatives
+in Japan)
+Canon promotes initiatives that help customers reduce their CO2 emissions.
+To enable customers to select products with the lowest CO2 emissions, we strive to disclose relevant information and are also in the process of obtaining carbon footprint (CFP) certification under the Japan Environmental Management Association for Industry’s CFP communication program.
+Additionally, by utilizing the Carbon Offset Program making use of CFP* promoted by the Ministry of Economy, Trade and Industry, we have been able to realize products with practically zero lifecycle CO2 emissions. With some of these products, such as the imageRUNNER ADVANCE series and the imagePRESS production printers, customers can report to the authorities, based on the Act on Promotion of Global Warming Countermeasures, that they do not produce the CO2 emissions that would ordinarily be expected from use of the products.
+Carbon offsets linked to customer demand from when we began using this system in 2014 until 2017 totaled approximately 24,572 t-CO2.
+Carbon Offsets Linked to Customer Demand (Cumulative)
+     53 Canon Sustainability Report 2018
+Before
+Cargo
+Empty
+Export
+Empty
+Cargo
+Import
+ After
+Cargo
+Export
+  Import
+Cargo
+ (t-CO2) 30,000
+20,000
+10,000
+5,760 0
+( Y(e年ar)) * Carbon offset program enables one’s GHG emissions that are difficult to reduce
+to be offset wholly or partially by cuts in emissions or amounts absorbed by other parties.
+Reference: Products qualifying for Carbon Footprint (CFP) Declaration (Japanese website only)
+https://canon.jp/ecology/products/cfp/index.html
+Reference: Canon’s carbon offset initiatives (Japanese website only) https://cweb.canon.jp/ecology/carbon-offset/index.html
+Reference: Products certified under Carbon Offset Program making use of carbon footprints (Japanese website only) https://cweb.canon.jp/ecology/products/cfp-certified/index.html
+ 24,572 21,117
+   14,604
+  CO2 Emission in Logistics
+(1,000 t-CO2) 400
+300 310 200
+100
+borne by the supplier
+2014
+2015 2016 2017

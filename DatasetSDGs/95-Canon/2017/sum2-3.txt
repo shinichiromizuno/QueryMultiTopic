@@ -1,0 +1,73 @@
+For Society Promoting Healthcare
+Becoming a Global Company for Medical Equipment that
+Supports the Lives and Lifestyles of People Worldwide
+Issues and Approaches
+The global population is roughly 7.3 billion at present. It is expected to reach approximately 9.7 billion by 2050. There is a widely held concern that the rise in the number of illnesses accompanying such population growth will put pressure on national healthcare budgets. Cutting the difference between healthy life expectancy and average life expectancy of five to ten years is also a topic of serious interest in aging societies. The answers to overcoming these challenges are disease prevention and early detection and treatment. Medical equipment is instrumental in detecting disease, monitoring disease status and tracking progression.
+It also provides information useful in diagnosis and treatment selection. We have high expectations for technologies that will advance disease visualization through advanced medical imaging to assist physicians in examinations, as well as noninvasive and minimally invasive techniques that relieve patient burden. Moreover, there is a need to establish infrastructure for medical networking, which will allow advanced medical care to be delivered remotely.
+Canon contributes to the early detection and treatment of disease by offering equipment that utilizes diagnostic imaging technology, such as ophthalmic equipment and digital radiography. We also contribute to improving advanced medical care through the development of photoacoustic tomography and ultraminiature endoscopes. Moreover, we are
+15 Canon Sustainability Report 2017
+expanding our businesses in the field of biomedicine in the United States. In 2016, we welcomed Toshiba Medical Systems Corporation, a pioneer in the field of diagnostic imaging, into the Canon Group. We aim to create new value by combining our respective technological capabilities, production technology expertise and product development strengths. The healthcare business is one of the key targets of our medium- to long-term management plan.
+Related SDGs
+Average Life Expectancy and Healthy Life Expectancy Worldwide
+       Country
+Japan
+Average life expectancy (Age)
+Healthy life expectancy (Age)
+Unhealthy Period (Year)
+Per capita nominal GDP
+(U.S. dollars / Rank)
+      83.7 74.9 8.8
+82.8 72.4 10.4
+82.7 72.8 9.9
+82.4 72.6 9.8
+81.8 72.0 9.8
+81.3 71.4 9.9
+81.0 71.3 9.7
+79.3 69.1 10.2
+79.1 69.2 9.9
+76.1 68.5 7.6
+38,917/22
+26,609/30
+30,507/27
+38,128/24
+70,392/ 3
+40,096/21
+41,902/19
+57,436/ 8
+7,657/96
+8,113/74
+  Spain
+  Italy
+  France
+  Norway
+  United Kingdom
+  Germany
+  United States
+  Cuba
+  China
+  Source for data on average life expectancy and healthy life expectancy: “World Health Statistics 2016,” World Health Organization (WHO)
+Source for GDP statistics: Globalnote, a website specializing in international and country-specific statistics (Japanese website only) http://www.globalnote.jp/post-1339.html
+ 
+      Message from Management
+Relationship with SDGs
+Canon Group Business Operations
+CSR Reporting
+CSR Management Management Structure
+Growth Strategy and Sustainability
+GRI Guideline Implementation
+Activity Highlights
+Third-Party Opinion / Assurance
+     Developing Medical Equipment from Our Early Days
+Soon after its establishment, Canon became involved in medical equipment, including the development of Japan’s first indirect X-ray camera in 1940. Utilizing our long- cultivated imaging technologies, we have struck an optimal balance between high-quality imaging and compact sizing, compiling a product lineup that includes fundus cameras that reduce patient burden during photography as well as optical coherence tomography devices that can perform 3-D analysis of retinal disease, which is linked to vision loss. In recent years, we have expanded our digital radiography product lineup to meet the on-site needs
+of medical institutions. Our range of products includes lightweight and portable wireless models and models capable of fluoroscopic imaging, for use in such fields as disaster medicine, telemedicine and home care.
+Product Development in the United States
+Located in the United States, Canon BioMedical has commercialized solutions that support genetic researchers. The Canon BioMedical research products enable life
+scientists to detect variations in our DNA. The genetic variations that scientists can detect may impact human disease and therapeutic response. Canon BioMedical will continue developing new products to advance life science and molecular diagnostics. Furthermore, Canon is collaborating
+at its research laboratory in Boston with Harvard-affiliated medical institutions such as Massachusetts General Hospital and Brigham and Women’s Hospital to develop cutting-edge endoscopes and other devices. With the ability to perform real-time inspections of areas of the internal anatomy that doctors could not previously examine, including the inside of joints and paranasal cavities, these devices are expected to be utilized in early treatment as well as in new diagnosis.
+Canon Technology Selected for Inclusion in Japanese National Program
+As signs of various diseases and medical conditions manifest in changes that occur within blood vessels, it is becoming extremely important to be able to visualize the blood vessel interior. Accordingly, Canon is promoting the development of groundbreaking photoacoustic tomography technology that can produce 3-D images of blood vessels without using radiation and in a non-invasive manner. By enabling high- resolution imaging of the vascular network, this technology is expected to be instrumental in testing for cancer, diabetes, and rheumatism. Such technologies have been selected
+for inclusion in the Impulsing Paradigm Change through Disruptive Technologies Program (ImPACT) promoted by Japan’s Cabinet Office. Clinical research for photoacoustic tomography technology is currently being carried out in collaboration with Keio University and Kyoto University.
+Diagnosis with optical coherence tomography
+Canon BioMedical pursuing the development of genetic testing instruments
+Clinical research for photoacoustic tomography underway at Kyoto University
+   Canon Sustainability Report 2017 16

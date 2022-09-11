@@ -1,0 +1,25 @@
+Value Creation Strategy
+     Microdevices
+Supporting the Four Areas of Innovation
+    Vision
+Epson will provide traction for the development of smart communications, power, transportation and manufacturing solutions with advanced Epson quartz timing and sensing solutions and low-power semiconductor solutions.
+  Nobuyuki Shimotome
+Executive Officer
+Chief Operating Officer, Microdevices Operations Division
+Value Creation
+Provide traction for smart societies by contributing to 5G networks, self-driving cars, and other next-generation infrastruc- ture with extraordinarily accurate timing devices.
+Use Epson’s low-power and control technologies to provide low-power solutions that reduce finished product power consumption.
+Help to make products smaller by reducing device size.
+      Quartz is an extremely frequency-stable material. Epson exploits this feature to expand a lineup of crystal devices that are used in consumer products such as smartphones, as well as in infrastructure and automotive applications that require exceptional accuracy and reliability. Epson also serves a wide range of industries by providing timing devices, such as crystal units, oscillators, and real-time clock modules, and sensing devices, such as gyro-sensors and inertial measurement units (IMUs).
+We also develop and provide low-power LCD controllers, microcontrollers, application-specific integrated circuits (ASICs), LCD drivers, and other differentiated Epson semi- conductor products for use in industrial products and automotive equipment.    Phase 1 Review
+Quartz business performance was hurt by a decline in mobile market demand. However, we recorded growth in sales of gyro-sensors and real-time clock modules for the automotive sector and in high-frequency oscillators for communications and networks. We also advanced the development of smaller devices for the mobile market.
+The semiconductor business’results were in line with the Phase 1 plan thanks to an enhanced lineup of ICs for Epson products and a stable, balanced business portfolio.
+Phase 1 Achievements
+Quartz Business
+Expanded and upgraded our lineup of gyro-sensors and timing devices for the automotive sector
+Strengthened development of key components for crystal products used in communications and networks
+Advanced key component development for small products
+Semiconductor Business
+Expanded and upgraded ICs for Epson finished products Advanced the development of high voltage and power devices
+Achieved a well-balanced and stable business portfolio with internal sales, external sales, and a foundry business
+     39 Epson Group Integrated Report 2019

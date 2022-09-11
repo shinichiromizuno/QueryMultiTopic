@@ -1,0 +1,91 @@
+For Our Sustainable Growth
+Innovation for Development in Marine Technology
+The MOL Group is promoting technological development using ICT to achieve the following objectives: “Provision of ‘stress-free services,’ which it will offer from the customer’s perspective” (one of the three core strategies set to realize the MOL Group’s management vision), the further enhancement of tools to support safe operation, and the deeper reductions in environmental impact.
+MITSUI O.S.K. LINES
+MOL REPORT 2020
+Topic 2
+Progress in Autonomous Vessel Operation Projects The MOL Group is promoting initiatives aimed at making autonomous vessel operation a reality. Our goals are to increase safety in operation and reduce workloads for crew members. Rather than unmanned operation, currently we are working on systems that will support crew members by
+Our Initiatives to Realize Autonomous Vessel Operation
+enabling autonomous vessel operation under certain condi- tions. We are conducting joint development and demonstration on three areas corresponding to navigational steps (recogni- tion, decision, and operation) which are respectively named FOCUS EYE, FOCUS BRAIN, and FOCUS GEAR.
+ Recognition
+  Augmented reality (AR) navigation system*2
+Vessel image recognition and recording system*3
+Bird’s-eye-view monitoring system*4
+Complete
+Underway
+Underway
+ Decision
+  Collision avoidance algorithm
+UnderwayOperation
+  Automatic avoidance system
+Automated berthing and unberthing system
+Underway
+Underway
+ Future Targets (2025 onward)• Automatic detection of other ships and obstacles
+• Automatic adjustment of route plans
+• Automatic avoidance
+• Automatic berthing and unberthing
+• Remote monitoring
+*2 AR is used to show superimposed visual information on a display, such as information about other vessels obtained by radar and visual information from the bridge.
+*3 AI (deep learning) technology is employed to recognize other vessels to a high degree of precision using a graphic recognition engine and ultrahigh-resolution cameras. The
+data is recorded automatically, and accuracy can be enhanced further by verification.
+*4 Multiple fish-eye cameras are installed on a vessel’s mast, and the images they record are automatically combined to create an image as if looking down on the ship, which
+allows ascertainment of surrounding conditions at a glance.
+ FOCUS EYE
+We have developed an AR navigation system and installed it on 19 of our ships, mainly car carriers and VLCCs. We have also installed a vessel image recognition and recording system on the cruise ship NIPPON MARU and a bird’s- eye-view monitoring system on the tugboat ASAKA MARU. Demonstration test is underway on both vessels.
+FOCUS BRAIN
+In December 2019, we launched a joint study on collision avoidance algorithms and autonomous avoidance with MOL Marine Co., Ltd.; the National Maritime Research Institute of National Institute of Maritime, Port and Aviation Technology; and Tokyo University of Marine Science and Technology. The joint study used a system to automatically calculate other vessels’ obstruction zones along a ship’s course heading. The aim is to establish
+a collision avoidance algorithm that will provide visualization of collision risks.
+FOCUS GEAR
+Between December 2018 and February 2019, we conducted demonstrations of the automatic berthing and unberthing system, using the SHIOJI MARU, the training ship of the Tokyo University of Marine Science and Technology, and assessed the safety of the system through simulations. In addition, in February 2020 we began conducting tests using a coastal ferry, thus stepping up our efforts to make the system practical.
+      Basic Policy on Technological Innovation
+The potential for technological development in the marine industry has expanded due to the rapid development of ICT, such as IoT and big data, in addition to progress on vessels’ tangible elements. We aim to anticipate the needs of customers and society by maximizing the potentials of marine transport-related technological development. These efforts are centered on the ISHIN NEXT—MOL SMART SHIP PROJECT, which commenced in 2016.
+In fiscal 2020, we established the new position of chief digital officer to align our organizational structures and propel innovation. This officer’s role is to formulate digital marketing strategies and oversee implementation of measures. We will accelerate our innovation by continuing to step up alliances with various institutions outside our field of business.
+Our Goals
+  Proactively promote ICT utilization in addition to technologies in conventional fieldsAutonomous SailingWind Challenger ProjectLNG-Fueled Vessels
+Vessels Using Other Alternative FuelsFOCUS Project   Advanced technologies to support safer vessel operation —With a view to realizing autonomous sailing
+New technologies in various fields
+Safety and the Environment
+ICT, e.g., big data utilization
+1
+2 3
+4
+5
+Eliminate human error and achieve safer operation by leveraging automated technologies
+Develop eco-ships powered by natural energy
+Develop vessels powered by lower CO2 emission alternative fuels
+Expand the installation of operational
+data collection equipment in vessels and develop next-generation ship management support systems
+Provide technological solutions for logistics service challenges Technologies that reduce negative environmental impact —For global environmental protection
+ Actively develop technologies to meet the needs of customers and society while inheriting the technological expertise MOL has cultivated thus far Topic1
+Release of a New FOCUS Project Application: “Fleet Performance” The FOCUS Project involves collecting data at one-minute inter- vals from around 10,000 sensors placed on individual ships so that we can visualize the condition of various elements of marine transport (such as hull, engine, cargo, surrounding ships, and ocean weather) and using such data for sophisticated monitoring of vessel operation and analysis of vessels’ propulsion capability. In so doing, the project aims to further enhance
+safe operation, improve operational efficiency, and help reduce environmental impact. The MOL Group is pursuing this project together with three other companies—Mitsui E&S Shipbuilding Co., Ltd.; Weathernews Inc.; and NAPA Ltd.—going beyond the scope of its own industry. As of April 2020, we had installed data collection equipment on 101 ships.
+February 2020 marked the release of Part II of this project: Fleet Performance. This application makes it possible to ascertain information about vessel performance that had previously been problematic, such as true ship performance (speed, fuel consumption, etc.) after excluding the effects of waves and wind. We expect such data to prove useful in compar- ing same-type vessels and verifying the results of energy-saving devices. The application also allows the condition of the hull and various equipment, as well as the extent of propeller fouling, to be examined in real time.
+As a result, aberrations can be detected early, and appropri- ate cleaning occasions can be set.
+Going forward, we aim to expand applications that use accumulated operational data in various ways to provide transport services with greater safety and reduced environ- mental impact.  Voyage data recorder (VDR)
+Data Logger, IAS (engine and cargo data recording device)
+Other sensors
+Data collection equipment Fleet Transfer
+Ship’s journal ABLOG*1
+Onboard photos and video
+On Board
+   May 2019 Release Part I
+Sharing operating vessels’ information at any location at sea and on land to enhance safe operation
+February 2020 Release Part II
+Fleet Performance
+August 2020 Release Part III
+  Integrated data platform
+Fleet Viewer
+   Fleet Tour
+Virtual Ship Visit Application
+ On Shore
+Personal computers
+Smartphones Tablets
+     Sea weather information
+*1 ABLOG: The summarized version of a ship’s journal, providing a register of ports of call, time of arrival at and departure from ports, voyage duration, vessel location, speed, remaining fuel and lubricants, berthing periods, engine operating data, and other voyage-related information. Submitted by each vessel for each voyage.
+Topic 3
+Launching “Lighthouse,” a Service to Make Information on Marine Transport Visible In January 2020, the MOL Group launched “Lighthouse,” a new information platform for dry bulker customers. In the past, we provided information related to marine transport— ship schedules, weather, and ocean conditions, as well as cargoes and contracts data—separately. This was not always convenient for our customers. We developed Lighthouse after customer feedback uncovered their need to manage informa- tion centrally. During the development process, we fielded numerous customer opinions and requests to allow custom- ization for individual users and for data to be obtained in real time. With this platform, MOL aims to help its customers enhance their supply chain management through more effi- cient ship allocation and more effective management of inventory, including that on ships.
+At present, the service is limited to dry bulker customers, but it is already being used by clients from a variety of sectors, such as steel manufacturers and paper producers. We plan to continuously update the system from the user
+perspective, improving the service to provide more conve- nience to our clients.Making it Possible to Manage All Navigation-Related Information on a Single Platform
+ 50
+51

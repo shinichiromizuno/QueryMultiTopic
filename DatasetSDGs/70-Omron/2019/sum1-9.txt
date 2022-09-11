@@ -1,0 +1,173 @@
+Business
+ Industrial Automation Business (IAB)
+Vision
+Domain
+Corresponding SDGs
+ Bring Innovation to Manufacturing by Automation, to Enrich Lives of People All Over the World.
+The Industrial Automation Business leverages OMRON technologies to create innovations in manufacturing. These innovations contribute to productivity advancements in the world’s manufacturing industry. The pace of automation on production floors is increasing. Today, the automation of production floor are growing rapidly. Setting our unique innovative-Automation concept, our aim is to enrich the lives of people around the world by generating/making manufacturing innovations through our technologies and solutions based on the widest range of control devices in the industrial market.
+Executive Vice President Company President, Industrial Automation Company
+Yutaka Miyanaga
+Common Issues on Production Floors
+Production floors are entering a period of major transition. This includes changes of nee needs in manufactured items and methods, manufacturing locations, and manufacturing personnel. Changing needs in manufactured items and methods reflect urgent requirements to produce more advanced, more compact, high quality products associated with CASE*1, 5G, and other industry changes. Changing needs in manufacturing locations have been affected by trade friction between the United States and China. This trade frictions lead to accelerated local production and consumption, requiring standard product quality from production sites distributed around the world and faster ramp- up of production facilities. Changing needs in manufacturing personnel reflect rising personnel costs and an aging society. Every manufacturer struggles with a serious shortage of personnel on production floor and skilled technicians, in particular. These needs rapidly increase as time passes.
+Meanwhile, the pace of advancement is accelerating for AI, IoT, robotics, and other technological innovations and changes in seeds. These rapid technological changes will prove to be a tailwind in resolving the changing needs of production floors.
+*1 CASE: Connected (connected vehicles), Autonomous (autonomous vehicles), Shared (shared vehicles), Electric (electric vehicles)
+The Genesis of innovative-Automation
+To use innovation in solving production floor issues, in 2016, we came up with the IAB value creation concept. This conistss the [three “’’i”] of the innovations driving automation on the production floor. These concepts are integrated (evolution in control), intelligent (intelligence developed through ICT), and interactive (new harmonization between humans and machines). This is the intersection of changes in needs, changes in seeds, and OMRON’s unique approach. Evolution in control refers to achieving ultra-high-speed and ultra-high-precision machine control. This is a combination between the IAB lineup of the widest range of control devices in the industry and software. Intelligence
+Factory Automation
+  43
+ Vision Strategy
+ Business
+ Governance Financial Info Corporate Info
+developed through ICT refers to the incorporation of AI and IoT into all manufacturing control devices, driving machines themselves to learn and evolve. The ultimate goal is to create production lines that experience zero stoppages and create high-quality products with zero defects. A new harmonization between humans and machines means machines that autonomously move, working together with humans. The machine and the human each leverage their own strengths in cooperation, leading to a new reality for production floors.
+  Intelligence Developed Through ICT Machines That Learn and Evolve
+     ntelligent
+Craftsmanship
+High-Speed, High-Precision Fabrication, Innovative Machine Control
+ntegrated
+ Zero Equipment Failures
+Predictive Maintenance
+Sensory Inspection
+Replication of Human Senses
+Intelligent Cell-Line
+Collecting, Storing, and Analyzing Data
+Mechanized Cell-Line
+Harmonization of Humans and Machines
+ innovative-Automation
+   Integration of Workplace and Office Integration of Equipment and Management Technologies
+Mobile Robot
+Conveyor-Less Production
+     nteractive
+ Practical Implementation of innovative-Automation at the AISIN? AW Smart Factory
+The Aisin AW Okazaki factory is the world’s leading automotive parts manufacturer. This is an innovative- Automation Smart factory developed in cooperation with OMRON. Here, production floor innovations have become a reality. These innovations include ceiling- suspended electronic control unit (ECU) assembly robots and mobile robots that transport advanced board inspection equipment and parts autonomously.
+Before
+After
+    Fully automated robots suspended from the ceiling install parts in devices and move parts between processes, tasks which formerly required 10 workers.
+For more about this topic. OR Read more for a detailed article on AISIN AW smart factory.
+44
+
+ Business
+ Industrial Automation Business (IAB)
+ Evolution of innovative-Automation integrated (Evolution in Control)
+Increased Production of Many Innovative Control Applications Since the Birth of
+innovative-Automation
+OMRON is the industry leader, offering 200,000 control devices across a wide range of applications. This advanced combination of overwhelming product lineup and software has achieved new levels of smooth, high-precision, and high-speed control. Specific advancements include vibration control technologies that use software to control sway, slip, and spillage that occur when transporting products, as well as high-speed synchronization control to precisely align different parts moving at high speed. We make investments in innovative control applications to respond to the ever-increasing range of problems encountered on production floors.
+ Solving Social Issues in the Automobile Industry Through innovative-Automation
+Ongoing advancements in self-driving require highly precise and efficient inspection of entire control boards, which serve as the brains of these vehicles. The inspection of electronic control boards, on which sophisticated electronic components are mounted, is the most important production process in ensuring safe, automated driving. The electronic control board is used in areas such as braking and engine control which impact human lives directly. Errors cannot be tolerated. OMRON’s Automated X-Ray Inspection System has solved this issue. This imaging inspection equipment uses X-Ray technology to visually inspect items mounted on the board. A unique characteristic of our technology is speed and accuracy. This enables continuous, nonstop capture of 3D images with a dramatic 2.3-times increase in speed compared to traditional methods.
+[Employee Comments]
+Automated X-Ray Inspection System
+Stereoscopic inspection image of electronic control board taken with automated X-Ray inspection system
+       45
+In 2007, we saw signs of a major transition in adopting tiny components used in consumer products for use in cars. OMRON has developed automatic inspection equipment incorporating 3D-CT technology *2 by using innovative-Automation control technology to provide a detection speed capable of handling mass production,. We will continue to provide high-quality inspection equipment, pursuing our mission to create vehicle safety and security.
+Planning: Inspection System Business Department, Product Manager, Yujin Fujita
+Our history of Automated X-Ray Inspection System development stems from repeated co-creation with customers, focused on creating something that will benefit customers. This philosophy gave birth to revolutionary Automated X-Ray Inspection System developed through design innovations that increase speed without compromising performance. The result is dramatic improvements to quality and maintainability.
+Development: Inspection System Business Department, Development Department, Makoto Shichiro
+We want to contribute to the safety and security of the world by promptly and reliably delivering world-leading Automated X-Ray Inspection System featuring optimal quality, cost, and delivery time. Reflecting this stance, we integrated production, development, and planning from the initial product planning stage. At the same time, we achieved a manufacturing system that can also respond to rapid increases in incoming orders. We are proud to be responsible for important inspection processes. We will push forward to solve more social issues and create value for our customers.
+Production Manager: Ayabe Factory, Shusuke Fujiwara
+*2 3D-CT technology: A technology that uses X-Rays to obtain continuous cross-sectional images of the interior of structures that are invisible to the human eye. 3D-CT technology processes these images via computer to generate 3D images. 3D-CT technology uses technology similar to that used in medical facility CT scanners.
+
+ Vision Strategy
+ Business
+ Governance Financial Info Corporate Info
+intelligent (Intelligence developed through ICT)
+OMRON’s Main Battleground is in Real-world Automation
+OMRON’s main area of focus is in manufacturing innovations that make use of practical automation.
+Connecting OMRON’s more than 200,000 different types of control devices to a network enables real-time collection of production line and device status. In April 2017, we introduced an industry first—a machine automation controller incorporating AI. In October 2018, we released the AI Predictive Maintenance Library for AI controllers. This technology creates learning devices that collect, analyze, and control vast amounts of workplace via an AI controller, resulting in zero-stop production lines that produce zero defects. We are working on further technical development using open innovation through a tie-up with AI venture company AISing Ltd. Launched in November 2018T this project is developing the world’s fastest embedded AI.
+interactive (New harmonization between humans and machines)
+Humans and Machines Complementing Each Other’s Strengths and Working in Harmony
+OMRON aims to create new relationships between humans and machines on the production floor. In these relationships, humans and machines complement each other’s strengths and work in harmony. Humans and machines, working together on the production floor as machines understand and complement human action and intention. This is the future of manufacturing. To this end, we acquired industrial robot company Adept Technology , in 2015. Today, we sell mobile robots worldwide, providing flexible, automated transport. In May 2018, we partnered with Techman Robot Inc., a Taiwanese collaborative robot manufacturer, aiming to advance cooperation between humans and robots on production floors. By adding an arm-equipped collaborative robot to our product lineup, we have accelerated toward the future of production floors in which humans and machines work in harmony.
+ Fiscal 2018 Initiatives to Enhance the Three “i”s Taiwanese Collaborative Robot Manufacturer
+Partnership with Techman Robot Inc. (May 2018)
+Techman Robot Inc. is the world’s leading company in arm-equipped collaborative robots used together with humans on production floors. Technman Robot signed a strategic partnership with OMRON in the field of collaborative robots, which is experiencing rapid growth. Together, we work on the development of next-generation collaborative robots to bring innovation to production floors, where humans and machines work in harmony.
+Embedded AI Development Venture Partnership with AISing Ltd. (November 2018)
+AISing Ltd. is the world’s leading AI venture company. AISing owns AI algorithms that enable high predictive accuracy and high-speed processing, using with even limited learning data. Through this partnership, we have developed AI engines for control devices. The goal of this project is to provide future production floors with smart production lines to prevent manufacturing product defects. This requires instantaneous collection of sensing data and feedback to machine controllers.
+*Read more for a detailed article on OMRON’s partnership with AISing Ltd.
+Collaborative arm robots
+Announcement of partnership with AISing
+(L) Fukui, General Manager of Technology Development Division (R) CEO Dezawa, Representative Director of AISing Ltd.
+  46
+
+ Business
+ Industrial Automation Business (IAB)
+ Further Evolution of the i-BELT Subscription Service
+In 2017, OMRON launched i-BELT, a business model that offers innovative-Automation to customers. This is a subscription service in which OMRON engineers work together with customers at their production floors using data to provide service and maintenance, as well as to improve production lines. Working closely with customers on their production floors allows us to collect and analyze a range of data. This, in turn, allows us to identify issues and propose new solutions. Furthermore, the expertise in controls gathered from production floors leads to new businesses. By building closer, ongoing relationships with customers through i-BELT, we reproduce the craftsmanship required for tasks that include predictive maintenance for device abnormalities and the adjustment of cutting speed in fabrication equipment. These activities were once the sole domain of highly skilled workers.
+Further Expansion of Automation Centers
+Diagnostic Services at Customer Manufacturing Facilities
+  We will bring more innovations to production floors as we expand innovative-Automation and leverage i-BELT to continue building relationships with customers. What makes this possible is our Automation Centers (ATC), situated around the world, and our service engineers who work in close cooperation with our customers. The ATC is home to sales engineers who consider the equipment actually used by customers on their production floors. The goal here is to verify and test solutions that solve customer manufacturing issues. As of fiscal 2018, OMRON operated 35 ATC facilities, up from 17 in fiscal 2017. Additionally, sales engineers experienced in manufacturing increased 20 percent compared to fiscal 2016. Today, over 1,000 sales engineers are co-creating with customers to solve problems on production floors worldwide.
+      UK (Milton, Keynes)
+Germany (Stuttgart)
+Global Beijing 35
+Shanghai
+Shenzhen locations Thailand
+(Bangkok) Singapore
+Indonesia (Jakarta)
+Canada (Toronto, Montreal)
+     Spain (Barcelona, Madrid)
+Italy (Milan)
+Turkey (Istanbul)
+Chicago
+San Jose Nashville
+Mexico (Mexico)
+New Hampshire Detroit
+Cincinnati
+Brazil (Sao Paulo)
+India (Mumbai)
+      47
+Sales Engineers Co-Create With Customers to Solve Production Floor Issues
+Sweden (Malmo)
+Russia (Moscow)
+Poland (Dich)
+
+ Vision Strategy
+ Business
+ Governance Financial Info Corporate Info
+ A New Harmonization Between Humans and Machines, Driving innovative-Automation into the Future
+Company founder Kazuma Tateishi proclaimed, “To the machine, the work of the machine; to humankind, the thrill of unfettered creativity.” “To the machine the work of the machine; to man the thrill of further creation,” OMRON strives to create a new relationship of harmony between humans and machines. In this world, machines do not take work away from humans. Instead, humans and machines work cooperatively.
+At present, we are developing a Mobile Manipulator (MoMa) that works together with humans when and where required. We plan to introduce this new technology in fiscal 2019. MoMa is an arm-equipped mobile work robot that moves about freely. On-board detection technology helps MoMA avoid bumping into people and obstacles. This robot recognizes objects as images, allowing automation not only in transportation, but also in item stacking and assembly tasks. We are quickly heading toward a dream world in which numerous robots work in harmony with human employees as co-workers on production floors.
+OMRON leverages innovative-Automation to create production floors around the world that enrich the lives of workers and consumers. The challenges to innovate on ever-changing production floors are never-ending. innovative- Automation will continue to evolve into the future.
+The Mobile Manipulator Stacking Products
+Relay
+Socket
+The Mobile Manipulator Inserts Relays into Sockets for Assembly
+     Mobile Manipulator
+48
+
+ 49
+Business
+Electronic and Mechanical Components Business (EMC)
+Vision
+Supporting OMRON Development Device and Modules
+Corresponding SDGs
+Provide Leading-Edge Electronic and Mechanical Components GloballyThrough Advanced Manufacturing Capabilities
+Our Electronic and Mechanical Components Business leverages extensive success in core products (relays, switches, connectors, etc.) to offer a wide product lineup of devices and modules that meet diverse customer needs. Digital products have become an intimate part of our everyday lives, making society more convenient.These products include smartphones, home appliances (air-conditioners, refrigerators, and microwave ovens), and industrial equipment (from vehicles and machine tools to automotive fields). We provide advanced electronic and mechanical components which use cutting-edge technologies and manufacturing capabilities honed over many years.This support the society by connecting people and machines across a wide range of fields.
+Managing Executive Officer Company President, Electronic and Mechanical Components Company
+Shizuto Yukumoto
+The Electronic and Mechanical Components Business, GrowingTogetherWith OMRON
+The relay technologies became the basis to establish the Tateishi Electronics Company by our founder Kazuma Tateishi The relay technologies refined by our founder Kazuma Tateishi Inoue Electric Manufacturing Company became the basis upon which the Tateishi Electronics Company was later established. A relay is a part that receives an external electrical signal to turn an electrical circuit on and off. Relays are also used for switching. Relays that are incorporated in electronic devices receive an electrical signal, turning a switch on or off to transmit the signal to another device. For example, pressing a button on a remote sends a signal to a relay within the television, which turns the main power switch on. Relay has many types depends on the amount of electric current,and circuits, and application. This technology eventually led OMRON to the development of the world’s first contactless switch, the driver behind our rapid advancements in this age of machine automation.
+In these days, our relay technologies are used in high-capacity DC relays for hybrid and electric vehicles and supporting the high demand. In the same way, the range of technologies underpinning the Electronic and Mechanical Components Business have developed in step with changes in society and are used for many familiar products in our daily life. For example, the face detection technology, (the OKAO Vision) is used in digital cameras and other devices to detect human faces automatically. Ultra-compact, advanced MEMS microphone chips are used in compact microphones for mobile devices.
+Sensor technologies were initially utilized in automated production floors, and now those have been adapted to detect human movements. These detectors provide notice of guest arrivals and are used as environmental sensors in agricultural applications. In fact, sensors are useful in various scenes as part of the social infrastructure.
+Electric appliance and communication equipment
+Factory automation
+HEMS
+(Home Energy Management System)
+Mobility
+Building automation
+Amusement
+Healthcare
+Environment and energy
+Electronic Components That Support Society
+
+Vision StrategyBusinessGovernance Financial Info Corporate InfoThe Electronic and Mechanical Components Business in the Coming Smart Society
+Our strength lies in our ability to develop products and in our reliable production capabilities. This has been developed since our very founding and to meet the changing needs of customer requirements for advanced, compact, and quickly delivered electronic and mechanical components.
+As we look ahead to the society of the future and a rising number of smarter products, OMRON will use our strengths to provide a broad range of electronic components that meet customer needs.
+An example of this is mouse and mechanical keyboard switches used in the rapidly growing esports market, which has competitive population over 100 million people. In esports, players are required to perform the quick and delicate movements. Accordingly, these players are very particular about the touch and click feeling of mouse and mechanical keyboard switches. OMRON measurestouch and click feeling of switches that players feel comfortable. Then we visualize and quantify that data to create switches customized to individual needs. This is possible precisely because OMRON has been working closely with customers for long years i which led to perfecting our technologies. Since our establishment, our electronic and mechanical components technologies have been developing throughout history These technologies remain as a foundation supporting a variety of OMRON businesses in these days
+Young People Immersed in esports
+Well-Regarded esports Mouse and Keyboard Switches
+   Robust Restructuring for the New Step of Growth
+The smarter home appliances and factory automation will accelerate even more. This trend is supported by advanced and high quality electronic and mechanical components. To provide a stable supply of components, OMRON is engaged in structural reform of our production, focusing on optimizing production centers and increasing production capacity. We will continue to provide advanced electronic and mechanical components across the globe to support world-wide development in society.
+Restructuring Production: Relocation and Major Expansion of Our Shenzhen Factory
+ Electronic components are essential in creating innovation in new markets such as smart communities. To meet the various needs of our customers and provide large quantities of high-quality electronic components at low cost, we have carried out major reforms to the structure of our production system.
+Details of this plan include relocating and expanding 36 production lines for products such as relays, switches, and connectors. At full capacity, these lines can produce products worth an additional ¥10 billion in sales.
+This lage relocation and expansion project required the use of 370 trucks. Reconfiguring our quality systems and facilities, as well as major changes in how we source and train industrial engineer , has resulted in our quality control receiving high praise from customers, leading to increased orders. Furthermore, our improved delivery times have contributed to increased value for customers.
+OMRON ELECTRONIC COMPONENTS (SHENZHEN) LTD.
+Dong-Hua Yuan
+ 50

@@ -1,0 +1,166 @@
+Environment      The SANYO DENKI Group promotes corporate activities aimed at preserving the global environment and human prosperity.
+Environmental Policy
+Basic Philosophy
+The SANYO DENKI Group helps preserve the global environment and enhance humanity's prosperity through its corporate activities for society and the environment.
+Basic Policy
+SANYO DENKI CO., LTD., comprising Kangawa Works, Shioda Works, Fujiyama Works, Technology Center, and Head Office, develops, designs, manufactures, and sells cooling fans, UPSs, power conditioners for photovoltaic generation systems (PV inverters), engine generators, servo systems, stepping systems, controllers, encoders, and driving devices. Under the principles listed below, each member of SANYO DENKI will take part in eco-friendly activities to help preserve our abundant global environment.
+1. To enhance our environmental performance, we will continuously improve the environmental management system and work hard to prevent pollution and reduce the environmental impact of our activities.
+2. We will assess the environmental impact of our corporate activities, set reduction targets, and achieve the targets.
+We identify the following items as high-priority for environmental management.
+(1) Develop, design, manufacture, and sell environment-friendly products
+(2) Reduce or eliminate the use of hazardous chemical substances
+(3) Reduce the environmental impact (energy consumption, amount of paper copies, waste, etc.) of business
+activities
+(4) Contribute to the local community
+(5) Protect biodiversity and ecosystem
+3. We observe environmental laws, restrictions, and other rules relevant to our company and work hard to preserve the environment.
+4. We document, carry out, and maintain our environmental principles, make them known to all our employees, and ask that our employees cooperate in the pursuit of these principles and reflect them in our environmental management processes.
+5. We will review the environmental management system periodically.
+6. We will openly publicize our environmental principles to parties inside and outside the company.
+Biodiversity Initiatives
+The protection of biodiversity is an important issue on a par with the prevention of global warming. The SANYO DENKI Group engages in energy saving activities and initiatives utilizing our own resources including our own technologies and products.
+Material Procurement
+Based on our corporate policy, we strictly observe the regulations and procure materials while taking the environment into account, and make social contributions (CSR) through fair and equitable business.
+Basic Material Procurement Policy
+1. (1)
+(2) (3)
+2. (1)
+(2)
+3. (1)
+(2) (3) (4)
+Compliance with domestic and international laws and social norms
+Observe laws and regulations
+Respect human rights, eliminate all forms of discrimination, and prohibit child and forced labor Maintain appropriate labor environment
+Environmental consideration
+Promote the procurement of parts and materials that are less harmful to the environment Comprehensively manage hazardous chemical substances
+Promotion of fair and equitable trade
+Open the door to a wide range of suppliers and select suppliers fairly and impartially Conduct business in good faith on an equal footing based on relevant laws, regulations, and contracts
+Strive to provide the necessary information and thoroughly manage and protect acquired information
+Eliminate acts that violate corporate ethics
+    Eliminating Conflict Minerals
+Procurement Policy
+The Electronic Industry Citizenship Coalition (EICC), whose members include major electronics companies and their suppliers around the world, encourages companies to monitor their supply chains to eliminate the use of mineral resources produced in the Democratic Republic of the Congo that are considered to be conflict minerals (conflict minerals or resources in conflict metal disputed areas). To address this issue, the SANYO DENKI Group has formulated the procurement policy stated below.
+1.
+2. 3.
+4.
+5.
+The SANYO DENKI Group recognizes its responsibilities as a member of the global community and acts in accordance with social norms and relevant laws and regulations of the countries where it operates.
+Under this policy, conflict minerals include tin, gold, tantalum, tungsten, and cobalt.
+We will occasionally check whether or not suppliers of parts and materials, which are likely to include any of these minerals, use minerals produced in the Congo as well as the country of origin of the minerals they use.
+We will immediately stop purchasing parts or materials should they be found to contain any minerals produced in the Democratic Republic of the Congo or neighboring conflict zones. Suppliers are asked to promptly contact our purchasing department should they discover that any of their products contain or may contain a conflict mineral, and follow the instructions provided. Regardless of the policy stated above, it may be difficult to identify the country of origin, refinery, and upstream suppliers of a material since conflict minerals constitute rare metals or precious metals and are traded in various forms and through different channels. We will conduct follow-up investigations at appropriate intervals to ensure that the investigation is thorough.
+    27
+28Our Goals and Strategy Our Businesses Foundations of Value Creation Financial Data
+    Environmental Action Committee
+System
+The Environmental Action Committee, which was established in April 2000, has been in operation for 20 years as of this year. Since fiscal 2004, energy conservation and waste reduction efforts at each site have been conducted as part of maintenance activities. In addition to reducing environmental impact, the Environmental Action Committee is working on reducing quantities of hazardous chemical substances, and developing eco-design products as a key theme focused on environmental management.
+Main Responsibilities of the Environmental Action Committee
+1. Planning, communication, and guidance on policies concerning environmental preservation activities.
+2. Preparation and maintenance of company regulations concerning environmental preservation activities (including the environmental manuals of the company).
+3. Promotion of environmental preservation activities at the head office, factories, branch offices, and other locations through environmental management managers.
+4. External contact for the company􏰀s environmental preservation activities.
+5. Surveys on social conditions concerning environmental
+preservation activities.
+Introduction of Activities
+What are the Eco Products?
+Efforts for Eco-Design
+Regarding product design, we are carrying out product development with the aim of incorporating the latest energy-saving technologies into our new products. Newly developed products are compared with commercially available and existing products and are certified as Eco Products (eco-design products) if they satisfy the specified evaluation standards. In fiscal 2019, we developed 27 eco-products. Going forward, we will continue to promote the reduction of CO2 emission when in use and product development considering LCA.
+In addition, we conduct an internal eco-products training on an annual basis.
+Implementation of Life Cycle
+Assessment (LCA)
+This LCA is one of the techniques used to provide a general quantitative measure of levels of environmental impact, including global warming, that products have through their life cycles. We evaluate the environmental compatibility of a product using LCA. The LCA implementation rate for our Eco Products is over 90%.
+Eco products are indicated by the "LEAF symbol" in our catalogs
+Initiatives and Environmental Management Managers at Each Site Hiroyuki Nishimura, General Environmental Management Manager
+SANYO DENKI established an environmental management system and acquired ISO 14001 certification in 1999.
+A general environmental management manager has been appointed under the supervision of top environmental management to promote environmental initiatives at each site. In addition to saving energy and implementing waste reduction activities at each site, we also aim to reduce the environmental load of customers when they use our products by developing energy-saving and high-efficiency products, as well as by supplying units that reduce the power receiving capacity via a maximum power peak cut function, and power supply equipment that regenerates braking power into regenerative power, among other activities that help reduce environmental impact. We also widely disclose our environmental information inside and outside the company, and commit to communicating with local communities and other parties involved. The Environmental Action Committee organizes environmental management managers at each site as well as specialized subcommittees to deliberate and set goals aimed at helping continuously improve the environment, and actively promote environmental preservation activities.
+Akira Hashiguchi, Head Office
+At the Head Office, Sales, Administrative, and Business Divisions perform their business operations.To reduce our environmental impact, our priority goals are to improve the sales ratio of eco-products, save energy, thoroughly separate and reduce waste, reduce the amount of copy paper used, and run volunteer activities to clean up local neighborhoods. We will continue to promote environmental activities in all divisions.
+􏰃 Understanding and improving the sales ratio of eco-products by each business division
+􏰃 Reduction of power consumption
+􏰃 Thorough separation and reduction of waste
+􏰃 Improvement of waste recycling rate
+􏰃 Reduction of copy paper usage by digitizing format sheets and making meeting materials paperless
+􏰃 Volunteer cleaning activities around the Head Office
+Hiroyuki Nishimura, Technology Center
+AtTechnology Center, which designs and develops products, we are specifically promoting eco-design and designing products that do not contain harmful chemical substances. In the creation of eco-design products "Eco-Products", 27 product models were newly certified as eco-design products in fiscal 2019. As part of the product design that does not contain harmful chemical substances, we are implementing measures such as four additional substances under the RoHS Directive and SVHC (substances of very high concern) in REACH. We also reduced use of electricity, LPG, and copy paper, as well as waste, and cleaned up the area around Ueda Research Park. We will continue to strive to reduce the environmental load of customers when they use our products by helping them conserve energy as a result of eco-design, reduce environmental impact via increased efficiency, and reuse electricity via the power regeneration function.
+Kazuhiko Takizawa, Kangawa Works/Shioda Works
+At Kangawa Works, we are working to reduce energy consumption by implementing automation and work improvements, saving energy by turning off unnecessary lights, reducing waste and copy paper usage, and promoting zero emissions.
+􏰃 In the motor assembly and inspection processes, a production and inspection guidance system has been developed to prevent
+work errors and outflow of defective products, thereby reducing unproductive labor hours. In addition, check sheets (paper)
+have been eliminated to reduce the amount of copy paper used.
+􏰃 Saving energy and reducing labor-hours by introducing automation equipment utilizing a servo system
+􏰃 Waste reduction (reduction of waste plastic and cardboard) and zero-emission initiatives
+􏰃 Continued large-scale volunteer cleaning in cooperation with residents' association events in the surrounding area
+􏰃 Using data from the central monitoring BEMS system that can collectively monitor energy consumption to further reduce
+environmental load.
+At Shioda Works, we are promoting energy savings, waste reduction, and elimination of harmful substances in the production process.
+􏰃 Reduction of power consumption (timer operation, planned operation of air conditioners by checking room temperatures, and saving power by improving production efficiency)
+􏰃 Reduction of A-type heavy oil usage (planned operation of a boiler via timer operation) 􏰃 Reduction of copy paper usage (promotion of formless operations, etc.)
+􏰃 Thorough separation of waste
+􏰃 Use of RoHS directive compliant parts and materials
+􏰃 Volunteer cleaning activities around local neighborhoods
+􏰃 Reduction of incineration waste (continuous monitoring and detailed analysis of waste)
+Shunsuke Niimi, Fujiyama Works
+At Fujiyama Works, the Cooling Systems Division, Power Systems Division, and Servo Systems Division perform production activities in the F1, F2, and F3 buildings. Each division improves its own business activities to reduce environmental load and promote automation, energy savings, waste reduction, and zero emissions. We will continue to work toward our goals this year.
+􏰃 Reduction of the amount of LPG and A-type heavy oil used for electricity, heating and cooling 􏰃 Reduction of lead usage by introducing lead-free solder
+􏰃 Waste reduction (reduction of waste plastic and cardboard) and zero-emission initiatives
+􏰃 Use of RoHS directive compliant parts and materials
+􏰃 Volunteer cleaning activities around local neighborhoods
+Environment
+            SANMOTION K DC servo motors 54 mm sq. and 76 mm sq. sizes
+CO2 emissions
+39
+Products used in LCA comparison New product: KA511XXX Older product: T511-012
+Natural environment
+Life cycle
+CO2 energy
+Manufacture of materials
+Final disposal
+Selected
+CO2 energy
+Effects on the natural environment (global warming) are assessed at each stage of the life cycle, based on the energy consumption and the amount of CO2 emissions.
+Processing of parts
+Recycling (material, chemical, thermal)
+Crushed
+Processing of products
+Reuse
+Disassembled
+Transportation and distribution
+User
+Collected and transported
+CO2 energy
+CO2 energy
+%
+      Diagram of life cycle assessment (LCA)
+   29
+30
+Chair of Environmental Action Committee Director Senior Executive Operating Officer
+Chihiro Nakayama
+    Our Goals and Strategy Our Businesses Foundations of Value Creation Financial Data
+
+ 31
+32
+Environment
+Corporate Growth is Social Growth.
+Corporate Activities Contribute to the Environment
+Our power conditioner was verified in the "Demonstration test on frequency control technology using storage battery".
+From December 2, 2019 to January 31, 2020, we jointly conducted a demonstration test with 10 companies including electricity companies. We are participating in the demonstration test at our Fujiyama Works using our SANUPS P73L grid-connected isolated charging type power conditioner as a verification system that can use the electricity generated by the storage batteries and solar cells at the same time.
+Solar Panels
+Solar panels are installed at Kangawa Works, Fujiyama Works, Technology Center, and Logistic Center. The generated electricity is utilized at each factory. The power generation uses our PV inverters.
+Beach cleanup activity
+Vehicle
+Introduction of Low Emission Vehicles
+Diesel vehicles compliant with the exhaust gas regulations are used for transporting materials between production sites. In addition, electric vehicles have been introduced as company vehicles. Quick chargers for electric vehicles that incorporate our cooling fans are installed at Kangawa Works, Fujiyama Works, and Technology Center.
+Outside
+Cleanup Activities
+At the Head Office and Ueda Works (factories and technology center), cleanup activities are conducted around the factories more than once a month. In addition, the Kangawa Works is engaged in large-scale community cleanup activities around the factory conducted in conjunction with the local municipality.
+Factory
+Tree planting efforts
+Wood Crusher
+Waste wood produced at the factory is chipped and used for weed prevention measures.
+LED Lighting
+LED lighting with high energy savings is used for factory lighting.
+Environmental Activities in the Philippines
+To protect the beautiful nature around Subic, where the factory in the Philippines is located, we regularly plant trees and pick up trash.
+This year, we carried out activities to collect tree seeds and plant them within the factory as part of new initiatives.
+Tree planting activities in the factory premises
+Our Goals and Strategy Our Businesses Foundations of Value Creation Financial Data

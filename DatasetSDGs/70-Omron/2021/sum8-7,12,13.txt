@@ -1,0 +1,68 @@
+Environment
+OMRON believes that creating an environmentally sustainable society corresponds to the OMRON Principle of "contributing to a better society," and is proactively working to address global issues such as climate change and resource recycling. Under the VG2.0, OMRON has been strengthening environmental initiatives in accordance with its corporate environmental vision and policy. In our next long-term vision for 2030, which is currently under consideration, we will further enhance our environmental initiatives by positioning our response to the challenges of climate change and resource recycling as one of the most important issues for OMRON to address.
+Environmental Vision: Green OMRON 2020
+In the Environmental Vision Green OMRON 2020, we have set six environmental targets to be achieved by fiscal 2021 (recognizing fiscal 2021 as a period for business reform due to the impact of the COVID-19 pandemic, we changed the target year of Green OMRON to fiscal 2021). We are on track and expect to achieve all of the targets set in our environmental vision: reduction of greenhouse gas (GHG) emissions, proper management and reduction of hazardous substances, reduction of waste, prevention of air and water pollution, effective use of water resources, and promotion of environmental management. In particular, we have designated reducing GHG emissions and properly managing and reducing hazardous substances as company-wide sustainability issues (materialities), and have been making focused efforts on these issues in line with goals set in fiscal 2017.
+To reduce GHG emissions, OMRON set the OMRON Carbon Zero target in July 2018, which aims to reduce GHG emissions to zero by 2050. Since then, we have been working to reduce GHG emissions by intensively conserving energy and promoting the use of renewable energy. In the next long-term vision, we will further strengthen and accelerate our efforts.
+OMRON Corporation Integrated Report 2021 EnvironmentCorresponding SDGsEnvironmental Vision: Green OMRON 2020OMRON Group Environmental Policy
+In line with the OMRON Principles, we will contribute to realizing sustainable societies globally by providing eco-friendly products and services that can contribute to the global environment and by making the most effective use of management resources.
+1. Provide eco-friendly products and services 3. Use resources efficiently
+that can contribute to the global environment 2. Prevent global warming
+4. Co-existence with nature
+5. Implement environmental managementOMRON Group’s Environmental Objectives
+1. Reduction of greenhouse gas emissions 4. Prevention of air, water, and soil contamination 2. Appropriate management and reduction 5. Effective usage of water resources
+of hazardous substances 3. Reduction of waste
+6. Facilitating environmental managementDisclosure of Climate Change-Related Information based on TCFD*
+OMRON recognizes that climate change will impact our future sustainable growth. We are engaged in the following framework, using the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD), for which we declared our support in February 2019.
+*Task force on climate-related financial disclosures established by the Financial Stability Board (FSB).
+Governance
+OMRON has designated responding to climate change as one of the key sustainability issues under VG2.0. We are carrying out specific initiatives in accordance with annual targets and plans approved by the Sustainability Committee and the Executive Council. These initiatives are monitored and supervised by the Board of Directors, based on reports on their content and progress. Part of the medium-to-long-term, performance-linked compensation for internal directors and executive officers incorporates evaluations based on sustainability indicators (including response to climate change) evaluated by third parties. In fiscal 2021, we added progress toward our GHG emissions reduction target to these indicators.
+72
+Environment OMRON Corporation Integrated Report 2021 Strategy
+Under the VG2.0 medium-term management plan and the next long-term vision up to 2030, OMRON has identified energy solutions that contribute to the realization of carbon neutrality as one of our business opportunities for the creation of social value. Against this backdrop, in fiscal 2020, we conducted scenario analysis for our energy solutions business, which operates within the business domain of Social Solutions and provides products and services that directly contribute to the realization of carbon neutrality. Based on a scenario in which decarbonization and the creation of a circular economy will accelerate, we identified key risks and opportunities and possible countermeasures. With climate change and resource recycling as a starting point, we are now making efforts to create new solutions to recover and reuse products. One example of these efforts is the Power Continue, a fixed-rate rental service for PV inverters, launched in fiscal 2021 in collaboration with Tokyo Century Corporation. In fiscal 2021, we will also carry out scenario analysis based on multiple climate change scenarios for our Industrial Automation Business, Electronic and Mechanical Components Business, and Healthcare Business. In response to the key issues in our next long-term vision, we will examine ways to maximize business value while taking climate change into account, and utilize the results of this examination to consider business strategies for the next medium-term plan. Going forward, OMRON will continue to take a firm stand against highly uncertain climate change risks through scenario analysis, and continue to practice resilient management.
+*Please see OMRON Integrated Report 2020 for the results of the scenario analysis of our Energy Solutions Business.
+Risk Management
+Under its integrated management structure, OMRON manages risks that have a significant impact on management and finances as key management risks. Climate change risks are also identified as key risks for the Group, and risk management and countermeasures are implemented. We collect and analyze a wide range of information on risk factors such as regulations relating to climate change and their impact on business, by conducting audits of environmental legal compliance assessment globally, assessing vulnerability of each site to natural disasters (flooding, torrential rain, water shortages, etc.) which are expected to increase in scale and frequency as a result of climate change, and making preparations for business continuity.
+Indicators and Targets
+OMRON has designated GHG emissions as an indicator for climate change, and has set the OMRON Carbon Zero target, which aims to reduce GHG emissions to zero by fiscal 2050. Using the Scope 1 and 2 GHG emissions quantities of fiscal 2016 as a baseline, we backcast from fiscal 2050 to set reduction targets for fiscal 2030 and fiscal 2020*1 and are promoting various reduction efforts to achieve these goals. Specifically, in fiscal 2018, we began procuring electricity from renewable energy sources in Japan. In fiscal 2019, we started Analysis of Energy Conservation Potential*2 for our operating sites in Asia-Pacific, which is the second largest energy-consuming region after Japan and China. At our Indonesia Plant, we identified scope for energy conservation equivalent to 23% of its annual energy consumption and are implementing measures under the medium-term energy conservation plan.
+In fiscal 2020, in addition to promoting energy conservation measures at each site and installing new solar power systems, we conducted analysis of energy conservation potential remotely at our Malaysia Plant, where energy consumption was high. As a result of these efforts, we reduced GHG emissions to 124 thousand ton-CO2 on a company-wide basis in fiscal 2020, a 50% reduction compared to fiscal 2016. OMRON will continue its efforts to reduce greenhouse gas emissions, aiming to reduce the emissions to zero by 2050.
+Currently, we are considering setting new targets, including for Scope 3, for the next long-term vision.
+*1 Greenhouse gas emissions calculated from sales forecasts, including the Automotive Electronic Components Business (AEC) that was sold off in October 2019. In considering targets to align with the SBT criteria in fiscal 2017, we set 2016, the year of the latest values, as the reference year. (SBT: Science Based Targets. Science-based, medium- to long-term targets for reducing greenhouse gases.)
+*2 OMRON's unique approach to identifying energy loss risks and opportunities for improving energy efficiency at production locations, formulating specific measures with estimates of impacts and costs.
+ GHG Emissions in Fiscal 2020
+   GHG emissions (thousand ton-CO2)
+20
+Withdrawal from Backlights Business
+−50%
+from FY2016
+FY2020 (Results)
+250
+35
+  Divesture of AEC Business
+ 22
+ Use of renewable energy
+Energy conservation efforts
+Other
+27
+ 22
+ 124
+ 73
+FY2016 (Baseline)
+
+OMRON Corporation Integrated Report 2021 Environment Specific Initiatives to Achieve OMRON Carbon Zero
+Most of the GHG emitted from OMRON’s business operations comprise CO2 derived from electricity usage. Our activities to achieve "OMRON Carbon Zero" are therefore centered around two pillars: implementing wide-scale energy conservation and promoting the switch to renewable electricity.
+Promoting Renewable Energy Tailored to Each Site
+To increase the use of renewable energy, OMRON has installed solar power systems at its operating sites and promoted the procurement of carbon-free electricity. In preparation for the installation of solar power systems at the Company’s sites, we toured the premises of each site to conduct feasibility studies, including into sufficient roof sturdiness and space to install solar panels. By fiscal 2020, we had installed solar power systems at six sites in Japan: Yasu and Kusatsu (Shiga Prefecture), Katsuragawa (Kyoto Prefecture), Matsusaka (Mie Prefecture), Okayama Prefecture, and Oita Prefecture.
+As for the procurement of CO2-free electricity, we began purchase of electricity derived from renewable sources in 2018 for sites in the Kansai region and in 2019 for those in the Kanto region, covering a total of 10 sites in the Kansai and Kanto areas. These efforts have been implemented overseas as well, and we began procuring electricity derived from wind power at our site in the Netherlands in 2017. In China, our local sites are taking measures to generate "return on investment" optimized for their individual situations, such as procuring electricity derived from solar power systems installed by local power companies on our own premises.
+Thorough Implementation of Energy Conservation Starts with Thorough Analysis
+In the summer of 2018, OMRON conducted Analysis of Energy Conservation Potential in cooperation with OMRON FIELD ENGINEERING Co., Ltd. (OFE), a Group company engaged in energy operations and facility improvement. The Analysis was carried out at 13 sites—mainly Japanese production locations with high levels of energy consumption—as a preliminary step toward thorough energy conservation. Through this analysis, we identified energy loss risks and opportunities for energy efficiency, formulated specific measures, and estimated the effects and costs of these measures, thereby exploring the potential for energy conservation at each site.
+As a result, it became clear that the investigated sites had already taken standard energy-saving measures, and that site-specific measures needed to be taken to further reduce energy consumption. In response to this situation, OFE utilized the energy rationalization expertise it has cultivated over the past 10 years to analyze the sites’ differing energy use patterns from various angles and create maximally effective solutions. For example, at production locations that generate large amounts of heat during the manufacturing process, such as semiconductor manufacturing, we implemented 52 different energy-saving measures tailored to the business environment, including the reuse and efficient utilization of heat that had previously been discarded.Employee Comments
+Responding to Climate Change and Contributing to the Realization of a Sustainable Society
+Our current business activities presuppose a sound global environment. As a company, we must implement measures to protect the environment in a comprehensive and systematic manner, with consideration for our business circumstances. In particular, we recognize that addressing climate change is critical. As part of our response, we have set a target of reducing GHG emissions. We are well ahead of our target at this point, yet we will continue to further our efforts and hope to contribute to the realization of a sustainable society.
+Global Human Resources and Administration HQ
+Kiyoaki Harada
+ Employee Comments
+Precise Understanding of On-site Interviews is Key
+When conducting energy diagnostics of a production site, precisely understanding the operation of the facility through on-site interviews is vital. It was very difficult to move forward while eliminating the various risks produced by the new measures, such as operational reviews and the resulting impacts on production quality.
+ Energy Management HQ OMRON Field Engineering Co., Ltd.
+Masaru Kajiwara
+74

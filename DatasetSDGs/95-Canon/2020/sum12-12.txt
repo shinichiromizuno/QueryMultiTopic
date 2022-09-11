@@ -1,0 +1,209 @@
+Product Responsibility
+Management Approach
+At Canon, we do our utmost to ensure product safety and improve usability while at the same time working to add greater value to our products and build customer trust.
+ Canon’s Approach
+Increasing recognition of the UN Sustainable Development Goals (SDGs) is bringing greater awareness of safety. Expectations are also growing for technological innovation that will increase the performance of safety-conscious products.
+Amid this situation, quality issues that affect customer safety can have a significant impact on management, such as worsening financial results by damaging the brand and eroding customer trust.
+Conversely, supplying products of high quality and high added value that are easy to use and meet customer needs while also developing innovative technologies to meet the needs of the times can lead to immense growth.
+Canon’s basic mission when it comes to quality is to ensure that customers have “no complaints, no trouble,” and we work hard to ensure “Canon Quality” throughout the entire Group. In line with this creed, we created a quality management system that follows the requirements of international standards, and we strive to improve quality across the entire product lifecycle, from planning and development to
+Relationship with SDGs
+Canon’s various activities relating to product responsibility contribute to the achievement of SDG 12: “Ensure sustainable consumption and production patterns.”
+GRI102-11 GRI102-15 GRI103-1 GRI103-2
+production and after-sales service. In the area of safety in particular, along with establishing in-house product safety technical standards that are stricter than regulatory requirements in each country, we created a system for gathering comments and requests from Canon users worldwide, which we share with relevant divisions, as means to improve our products and ensure safety. As part of the goal of Canon’s medium- to long-term business plan to “reinforce/expand new businesses while creating future businesses,” we also aim to leverage our superior technical expertise to develop and produce new products that give consideration to safety and the environment.
+Additionally, we are working to promote the development of Canon products with an emphasis on usability by ensuring customers worldwide can use them easily and with confidence. These initiatives include designing product manuals to make them easier to understand and adopting Universal Design principles in product development.
+       75 Canon Sustainability Report 2020
+ Message from the CEO
+ Overview of Canon
+ Activities Based on Management Strategy
+ Management Foundation
+ Data Summary
+ Major Awards, Citations, etc.
+ Third-Party Opinion / Assurance
+ Quality Management
+We strive to improve quality across the entire product lifecycle in order to provide customers with satisfying products.
+Approach to Quality
+Canon’s basic mission when it comes to quality is to ensure that customers have “no claims, no trouble.” To achieve this, we promote our motto of “Canon Quality” both inside and outside the company, as part of our dedication to realizing customer safety, peace of mind, and satisfaction.
+To realize this basic mission, we work to implement quality checks across the entire Group at every stage, from product planning to design and development, production, sales, and after-sales service. We also ensure that continual improvements in quality are achieved through Group-wide activities, sharing quality information and customer feedback obtained from the market with divisions in charge of product planning, design, and development.
+Quality Assurance System
+In order to fully realize “Canon Quality,” Canon has established a quality management system* that combines the requirements of ISO 9001, an international quality management standard, with work mechanisms unique to Canon.
+Using our in-house quality management system as a base, the various Headquarters divisions at Canon Inc. work in cooperation with the Global Quality Management Center and Group companies worldwide to implement optimal QA systems for the characteristics of each business in compliance with the legal and regulatory standards of each country and region.
+Supplementing the vertically integrated activities of each business division to solve division-specific quality issues, in 2017 Canon Inc. established a committee to focus on improving quality at the product development stage. Chaired by the president and including members from top management of each business division, this body has conducted activities across the company. By developing the best activities of each business division across the company, we are increasing quality at each stage of development, which has led to significant reductions in waste and costs arising in development.
+* The in-house regulations governing Canon’s quality management system are recognized by the International Register of Certificated Auditors (IRCA) as an alternative standard to ISO 9001.
+Training and Educational Activities
+Making a Total Commitment to Canon Quality
+In order to maintain outstanding quality, each employee belonging to product-related divisions must always be mindful of quality in every aspect of their work.
+At Canon, we strive to educate and foster greater awareness of quality among all employees by continually sharing our basic philosophy and motto on quality and by conducting Group-wide quality education and surveys on quality awareness. Canon Inc. has designated November as Quality Month, and each year in November holds the Quality Fair and Quality Awards to recognize exceptional activities that have improved quality, and share them throughout the Group.
+Continuing and Expanding Quality Education
+Canon provides the Canon Quality Course for employees through a Group-based tiered training curriculum, highlighting the importance of quality on an ongoing basis. We customized a training program for each division, taking into account specific situations and issues needing to be addressed, and also actively conduct on-site training. Furthermore, since it is important that employees have a clear understanding of the Canon way of thinking at all companies within the Group, including overseas offices, we created multilingual versions of the Canon Quality Introductory Guide, which contains our philosophy on quality. We also developed an online version of the Canon Quality Guidebook, which is used to foster understanding of our quality activities.
+We focus particular attention on product safety training. In addition to training that broadly covers product safety, such as product safety regulations, product liability laws, and substantial safety technology, we also conduct a condensed product safety-training course for new employees covering topics from these courses. In 2019, these training courses were held a total of 10 times. In addition, we offer year-round e-learning courses, enabling Group employees to access four types of training on product safety regulations and chemical safety regulations at any time.
+Canon Inc. conducts e-learning activities to promote thorough understanding of the Voluntary Action Plan for Product Safety on an ongoing basis. In addition, we continually provide safety information, such as safety cautions when making repairs or exchanging parts, to Group companies involved with product sales, repair, and service.
+Canon Sustainability Report 2020 76
+
+ Ensuring Product Safety
+We have set strict standards for managing quality that go beyond legal and regulatory requirements to ensure customers can use our products with complete peace of mind.
+Voluntary Action Plan Based on the Basic Policy on Product Safety
+Canon believes one of its most important missions as a manufacturer is to provide safe products that offer peace of mind and satisfaction. With this in mind, we formulated a Basic Policy on Product Safety that Group companies in Japan strictly adhere to.
+Based on this policy, Canon Inc. and Group companies in Japan formulate and follow individual Voluntary Action Plans for Product Safety suited to their business format, working to ensure product safety while remaining customer-focused.
+Moreover, we comply fully with government laws and notices, and have developed a system for immediate reporting, for example, in the unlikely event of an accident involving one of our products.
+2019 Activities Scorecard for Canon Inc.
+• Management review by the president based on the Voluntary Action Plan for Product Safety (conducted annually since 2008)
+• Revised three in-house standards documents, including standards for product and chemical safety and warning labels
+• Continued efforts to raise awareness among customers about smoke emission from counterfeit batteries and the safe handling of electric cords and plugs, etc.
+• Continued implementation of product safety training and emphasis on the importance of product safety during basic training on quality
+• Continued implementation of updated e-learning course for all employees to promote understanding of the Voluntary Action Plan for Product Safety
+Establishment of In-house Product Safety Technical Standards
+Canon regards the provision of safe products as one of the most fundamental and important missions of a manufacturer. We therefore require that all Canon products comply with our own safety standards (for substantial safety*), which take into account customer perspectives on product use, together with legally stipulated product safety standards.
+For example, we employ plastics that are more flame resistant than the law requires, and we implement double-protection schemes for important safety-related components. We regularly revise these standards in light of technological advances as well as changes in how customers use our products, and changes in requests regarding safety and quality.
+Based on these technical standards, we strictly enforce quality management in terms of safety at the design, evaluation, and production stages. We withhold from the market any products not meeting these exacting standards and ensure that all of our products are safe for use.
+* Substantial safety: This means safety not only in terms of what is required by laws and statutes, but any safety issue that can reasonably be expected to arise during customer use.
+Main Approaches to Safety Technology
+• Conduct safety assessments that address human factors (physical function, abilities, thinking and behavior), taking into account the variety of possible operations a user may perform
+• Engage in joint development with manufacturers of essential safety-related components, such as non- combustible parts and non-fail protective components
+• Conduct safety-confirmation testing based on abnormal voltage waveforms in commercial power supplies confirmed in regions around the world where Canon products are sold
+• Hypothesize abnormalities, such as failure, and conduct stricter safety-evaluation testing than is required by the laws of each country or region
+77 Canon Sustainability Report 2020
+
+ Message from the CEO
+ Overview of Canon
+ Activities Based on Management Strategy
+ Management Foundation
+ Data Summary
+ Major Awards, Citations, etc.
+ Third-Party Opinion / Assurance
+Quality Assessment During Development
+Creation of Assessment Environment for the Delivery of Safe Products
+Canon Inc. has set up testing facilities compliant with public standards and relevant laws to accurately and thoroughly assess the safety of products in terms of electromagnetic interference (EMI), noise, flame resistance ratings, volatile organic compounds (VOCs), genotoxicity, and electrical safety.
+Canon has also obtained certification in public standards such as ISO*1/IEC*2, enabling certified testing to be carried out in-house according to highly precise measurements. Specifically, Canon is equipped with the industry’s leading testing technology, including semi-anechoic chambers for EMI testing that are among the largest and best in Japan, shielded rooms, and semi-anechoic chambers for acoustic noise testing. In addition to EMC testing*3, Canon is able to conduct in-house testing necessary for applying for Blue Angel*4 and other certifications.
+*1 ISO: International Organization for Standardization, a non- governmental organization that formulates international industrial and commercial standards.
+*2 IEC: International Electrotechnical Commission, an international standardization group that formulates standards on electrical and digital technologies.
+*3 EMC (Electromagnetic Compatibility) testing: Consists of testing for electromagnetic interference caused by a product or its power source that may affect the operation of other equipment, and testing for electromagnetic susceptibility of the product itself that may result in malfunction.
+*4 Blue Angel: Launched in Germany as the world’s first environmental labeling (ecolabeling) system.
+Safety Assessment Initiatives
+Safety Assessments of Chemical Substances Released from Products
+Canon assesses the chemical emissions from its printers, multifunctional devices (MFDs), projectors, and other products. Our assessments include measurements of data necessary for acquisition of Germany’s Blue Angel environmental label.
+We also measure volatile organic compounds (VOCs) for which exposure limits have been set both within Japan and internationally. We verify that emission levels meet our in-house standards, which match or even exceed those set worldwide.
+The in-house laboratory conducting these assessments has received accreditation from Germany’s Federal Institute for Materials Research and Testing (BAM) and is therefore capable of conducting the assessments required for applications for Blue
+Angel certification. It has also received ISO/IEC 17025 and 28360 accreditation to conduct measurements in a fair and neutral manner.
+Since 2017, large equipment that had been excluded from the UFP-related standards for receiving the Blue Angel mark must meet those standards. Canon will continue to respond in a timely manner to other regulatory developments, such as the introduction of the stricter ECMA-328* standard.
+* ECMA-328: Ecma International is the organization that sets standards for the information and communications systems sector globally. -328 is a category that governs chemical emission rates from electronic equipment.
+Safety Assessments of Ink, Toner, and Other Consumables
+Canon assesses the safety of its ink, toner, and other consumables, enabling customers to use its printers and MFDs with confidence.
+For example, with regard to the materials for ink and toner, we carry out assessments related to genotoxicity, thought to be closely linked to carcinogenicity, using bacterial reverse mutation tests and in vitro mammalian cell micronucleus tests. Regarding the latter, starting in August 2014, Canon has been able to conduct in-house assessments of the water-insoluble materials used in many Canon products.
+Canon’s testing laboratories are highly reliable and have been certified by Japan’s Ministry of Health, Labour and Welfare as in compliance with Good Laboratory Practice (GLP)* standards in the Act on the Evaluation of Chemical Substances and Regulation of Their Manufacture, etc. (Chemical Substances Control Law). Canon’s laboratories also comply with GLP standards set by the Organization for Economic Cooperation and Development (OECD). Furthermore, Canon became the first in Japan to have its in vitro mammalian cell micronucleus test certified as in compliance with the GLP standards in the Chemical Substances Control Law.
+* Good Laboratory Practice (GLP): The standard for the management, testing and reporting of facilities and organizations that operate as testing agencies conducting chemical substance safety assessments. Testing according to GLP standards ensures reproducibility and data reliability. GLP standards set by the OECD were enacted in 1981, and since then, member countries have developed domestic laws and regulations based on these standards. Facilities certified as compliant under Japan’s GLP standards in the Chemical Substances Control Law must have their certification renewed every three years, which involves receiving a new conformity screening prior to the expiration of the certification’s validity period.
+Canon Sustainability Report 2020 78
+
+Assessing the Safety of Chemicals and Medical Equipment Through Animal Testing
+In some cases, animal testing is an effective means of verifying the impact a chemical may have on human health or the environment. Certain laws and regulations in Japan and other countries require the submission of animal test data as part of statutory safety assessments of chemicals and medical devices.
+In light of this, Canon conducts animal testing through a third-party specialist institution, but only in cases where it cannot obtain existing data externally with regard to the chemicals used in its toners and inks, and no alternative is available. This approach is stipulated in our in-house rules on the safety of chemical products and in the Three Rs* for animal testing. Furthermore, for certain components and materials used in medical equipment, we commission external specialist organizations to conduct animal testing if necessary to comply with standards.
+Canon will continue to gather information and conduct analysis on novel approaches and evaluation methods that do not require animal testing so that alternative forms of evaluation can be conducted.
+* The Three Rs: An internationally accepted set of guiding principles for the use of animals in testing proposed in 1959.
+Reduction: Reduce the number of animals used in testing.
+Refinement: Minimize the suffering of animals.
+Replacement: Use alternative methods to animal testing.
+Qualification System for Electric Parts to Ensure Safety and Reliability
+Canon considers it essential to maintain and improve the quality and reliability of every component, including semiconductors such as LSIs and various electric parts, to ensure products are safe and reliable. We have developed our own in-house quality certification system for electric parts. When selecting parts under this system, we evaluate reliability and structural soundness in accordance with standards for each type of part, ultimately using only electric parts that meet these standards of quality. In the past few years there have been significant changes in the market environment, including mergers and dissolutions of electric component manufacturers and transfers of plant management. We maintain a reliable level of quality by thoroughly implementing quality certification systems with reinforced change management systems.
+Moreover, to make structural evaluations at the selection stage and scan for defects, we utilize high- precision nondestructive evaluation technologies, such as X-ray CT scans and thermal analysis, as well as detailed processing, observation, and measurement.
+Software Security and Response to Vulnerabilities
+More and more of Canon’s products, including multifunctional devices and cameras, are being connected to other products via networks, greatly enhancing convenience. At the same time, cybersecurity risks, such as leaks of personal or confidential information from a network-connected device, have increased.
+In response to such risks, Canon installs security functions for network-compatible products during software development and conducts various types of vulnerability testing. We have also worked to raise awareness about security, vulnerabilities, and risks, and to standardize company-wide approaches to testing methods.
+Canon Inc. implements a Secure Development Process designed to allow accurate risk assessments about security risks in product development. We have also introduced the Vulnerability Assessment Check- Sheet as a quality confirmation requirement prior to starting production, and we are developing vulnerability verification processes based on the check-sheet.
+Moreover, recognizing the importance of minimizing the impact on customers when a vulnerability is found after products have been shipped, we strive to grasp and publish necessary information about any such issues in a timely manner. Accordingly, we have established a system to investigate market trends on vulnerability, including the products of other companies, and to quickly share information internally to prevent similar problems from occurring in our own products.
+After-Sales Support
+Online Support Services
+In order to facilitate the resolution of issues, Canon provides customer-support services globally through its websites.
+On these websites, customers can access support information, including FAQs, product specifications, and user manuals, and can download the latest software and drivers. Support information and software based on common content for worldwide use, as well as local content that has been added by marketing subsidiaries, are made available on our company websites in their respective languages.
+79 Canon Sustainability Report 2020
+
+ Message from the CEO
+ Overview of Canon
+ Activities Based on Management Strategy
+ Management Foundation
+ Data Summary
+ Major Awards, Citations, etc.
+ Third-Party Opinion / Assurance
+Customer usage is continuously monitored and survey Call Information Collection and Analysis System information analyzed, with feedback going to the divisions that created the relevant content. We continuously update the content based on frequently searched keywords, making it easier for customers to find what they are looking for.
+In connection with the spread of mobile devices such as smartphones in recent years, Canon is making efforts to optimize display screens, making online support services easier to use.
+Enhancing After-Sales Service Worldwide
+After-sales service is critical for customers to enjoy long-term use of Canon products. We are therefore expanding our after-sales service network on a global scale in order to offer the same level of prompt, reliable support in every market worldwide.
+Utilizing Feedback from Market Data Analysis in Product Improvements
+In order to achieve the highest level of customer satisfaction, Canon incorporates user feedback in addition to conducting product evaluations from the customer’s perspective at the development stage.
+One way we do this is through the Call Information Collection and Analysis System, updated in 2015. This is a system to collect customer feedback and requests received by call centers at our marketing subsidiaries worldwide. The development and production divisions and marketing subsidiaries can view this information at any time, helping them improve quality, revise user manuals, and develop better products. The results of call analyses are fed back to development teams who then use that information to improve customer convenience by, for example, improving displays on product control panels or simplifying methods for connecting to wireless LANs.
+The system currently covers 47 countries and regions in Japan, the Americas, Europe, Asia, and Oceania.
+Call Information Collection and Analysis System
+  Regional Marketing Subsidiary Call Centers
+ Information collection
+Sharing and utilization of information
+Inquiry
+Response
+Customer
+Database
+  Global Quality Management Center
+ Global database
+Tabulate / categorize / search
+ Responding to Product Safety and Quality Issues
+Although Canon strives to prevent product safety and quality issues, in the event that one does arise, it has in place a framework that ensures a prompt and appropriate response, including causal investigation, free repair, and information disclosure.
+We keep our customers informed about product safety as well as quality issues and remedial procedures by placing product advisory statements in various newspapers and on our website.
+In 2019, no product advisory statements or quality notices were placed on our website.
+Products Operations Quality Assurance Divisions / Development Divisions / Production Divisions
+● Improve usability
+● Improve manuals
+● Incorporate into future
+products
+Canon Sustainability Report 2020 80
+
+Process for Responding to Quality Issues
+When quality issues arise, the marketing subsidiaries in each country, which serve as contact points for customers, file reports with the quality assurance division of the respective Canon Inc. products operations. The quality assurance division then investigates the cause of the issue and looks into countermeasures. Moreover, in the event of a major issue, related products operations, the Global Quality
+Flowchart of Countermeasures to Quality Issues
+Management Center, legal division, and public relations division are consulted concerning response measures, and the matter is reported to the chairman/president.
+When notification is made to customers via a company notice or Canon websites, we provide instructions to each marketing subsidiary in regions where the relevant product is sold, and, as a general rule, simultaneously release the information worldwide.
+When issue arises
+When major issue arises
+Canon
+Information disclosure
+  Customer
+Inquiry
+Report countermeasures
+Share information, clarify cause
+Approval
+Confirmation of response measures
+When major issue arises, hold conference to determine countermeasures
+● Legal division ● Public relations
+division, etc.
+Canon Inc.
+  Response
+Information disclosure
+Chairman/President
+ Marketing subsidiaries in each country
+Senior General Manager Global Quality Management Center
+ Quality assurance divisions of products operations
+ Chief Executives
+Information disclosure
+    Report
+Instructions for response
+   81 Canon Sustainability Report 2020
+
+Message from the CEOOverview of CanonActivities Based on Management StrategyManagement FoundationData SummaryMajor Awards, Citations, etc.Third-Party Opinion / Assurance
+ Improving Product Usability
+We strive to develop products that different customers can use easily and with confidence.
+Providing Information on the Appropriate Use of Products
+Pursuing Usability for Canon Products
+With the aim of making products easy to operate, Canon conducts user tests through an in-house employee-based product tester system in the product development stage. We also ask in-house specialists to give us their assessment.
+We objectively test human factors, including physical characteristics, perception, judgment, and operational skills, to develop products that customers can use comfortably and with ease. In a dedicated test room, we have installed equipment that allows clear, detailed observation and recording of the behavior and actions of testers as they operate devices.
+Promoting Universal Design
+Canon strives to create people-friendly products by pursuing functionality, operability, and convenience from the customer’s perspective in actual usage situations. As part of this effort, we have adopted a universal design approach through which we endeavor to create products from a customer perspective from the design stage onward, facilitating use by all customers, regardless of age, gender, nationality, or physical ability. At Canon, we approach product design and development from the perspective of making the customer “look like a natural.”
+For example, we evaluate and test usability, accessibility, and comfort from various perspectives, regarding aspects such as text sizes that are easy to read and color designs that are easy to recognize for people with various visual sensitivities. Information obtained from these activities is valuable in the development of more user-friendly products.
+Moreover, aiming to encourage efforts in universal design, we prepared a booklet that addresses the physical characteristics of users and various issues that arise during product use, and distributed it to all development divisions. We also created pamphlets and set up a website to inform customers about the UDP initiatives underway at Canon. Through such means, we are sharing information on universal design both inside and outside the company.
+Reference: Canon’s Universal Design https://global.canon/en/design/ud/
+Product Accessibility
+Canon is working to increase the accessibility of its products in order to make them easy to use for the elderly and persons with disabilities.
+Section 508 of the United States Rehabilitation Act requires that agencies of the federal government only purchase products that meet stipulated accessibility standards. The results of Section 508 accessibility evaluations of Canon products have been collected into a VPAT* and made available on the Canon U.S.A. website.
+Meanwhile, in Europe, the European Accessibility Act, an EU Directive, was promulgated in 2019. Moreover, European Standard EN 301 549, which is consistent with Section 508 standards, is beginning to be adopted for government procurement not only in Europe, but globally.
+Canon is committed to regularly gathering the latest information, and to developing products that are compliant with the accessibility requirements of each country and region.
+* VPAT: Voluntary Product Accessibility Template, a document that evaluates how accessible a particular product is according to Section 508 standards.Principles of Universal Design
+• Ensuring Inherent Usability
+After obtaining a thorough understanding of the customer’s usage circumstances, we give every consideration to the inherent usability of the design in keeping with the product’s purpose and usage environment.
+• Creating Products and Services People Enjoy Using We continually pursue innovative idea creation that goes beyond simple problem-solving in order to create products and services that customers want to use.
+• Applying Cutting-Edge Technologies
+We apply Canon’s leading technologies to products to improve customer convenience and to create richer, more comfortable lives.
+Canon Sustainability Report 2020 82

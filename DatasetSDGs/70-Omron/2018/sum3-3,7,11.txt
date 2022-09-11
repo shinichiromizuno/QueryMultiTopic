@@ -1,0 +1,56 @@
+MobilityOur goal in the mobility domain is to create a stress-free, safe, comfortable urban traffic system.
+The main OMRON businesses tied to mobility are our Automotive Electronic Components Business (AEC) and our Social Systems, Solutions and Service Business (SSB). Under these two segments, we pursue safety, convenience, and free traffic flow through automobile components, traffic and road management systems, and railway station management systems. OMRON will continue building a mobility society in which people around the world can live in a safe, secure, comfortable, and clean environment.Eliminating Driver Error
+Nearly 80 percent of Japan’s traffic accidents occur
+due to inattention ahead of the vehicle and other
+similar driver error. Elderly drivers, increasing in Other
+number over the past several years, have been a 18.2% major factor in such accidents.
+Causes of Traffic Accidents (Japan)
+ Inattentive driving
+ The world’s leading auto manufacturers and many Failure to 12.2% 2017 other companies are developing driving safety support check
+technologies to address this serious social issue. At safety
+OMRON, we are combining our expertise in
+automotive electronics technologies and road and traffic control to develop technologies used both inside and outside the vehicle. These technologies will support safer driving and lead ultimately to a more secure, safer mobility society.
+Failure to yield
+45.2% 24.4%
+ (Source) 2017 Traffic Accidents Situation , Traffic Bureau, National Police Agency
+Freeway Traffic Accidents by Cause (First Party)Fiscal 2020 Targets and Fiscal 2017 Progress
+Fiscal 2017 Progress
+Net Sales in Domain
+ Automotive Electronic Components Business (AEC)¥131.2 billionAutomotive Electronic Components Business (AEC)
+¥63.7
+ProgressToward Sustainability Goals
+• Introduced DriveKarte (ACE, SSB), world’s first driver management service for safe driving using on-board driver monitoring sensors
+• Developed high-precision 3D-LIDAR (AEC); self-driving technology
+• Ratio of high fuel efficiency products in eco-friendly vehicles: 36% (AEC)
+ Social Systems, Solutions and Service Business (SSB)
+billion
+  Social Systems, Solutions and Service Business (SSB)
+billion Applicable SDGs
+Sustainable Cities and Communities
+Affordable and Clean Energy
+Good Health and Well- Being
+ 52
+Fiscal 2020 Targets
+Sales Targets
+¥150 billion
+¥80
+Sustainability Goals
+• Creation of driving safety support systems/ technologies (SSB)
+• Creation of 360-degree around-the-vehicle recognition technology for advanced driver assistance/automated driving (AEC)
+• Number of vehicles equipped with eco- friendly products: 12 million/year
+(ratio of high fuel efficiency products; 50%)*
+* Target updated
+ Fiscal 2017 Highlights
+New Products for Driver Safety
+3D-LIDAR and DriveKarte are two leading examples of driver support technology under development at OMRON.
+3D-LIDAR is a jump forward in the advancement of self-driving vehicles on public roads. The cameras and millimeter-wave radar used in most forward-detection sensors today have major weaknesses, including performance in bad weather and the detection of certain types of obstacles. 3D-LIDAR, on the other hand, can be used in parallel to detect curbs, drop- offs, and other obstacles as small as 10 centimeters and as far away as 30 meters.
+The DriveKarte is a management service that uses data collected from on-board driver monitoring sensors. We have started sales of DriveKarte to customers in the logistics and other industries struggling with chronic labor shortages. The system detects dangerous driving conditions (sleep, distracted driving, etc.) based on the driver’s eyelids, line of sight, and other attributes. When a dangerous condition is detected, the system warns the driver and sends an email to an operations manager. We are developing a score that will be useful in detecting dangerous driving conditions and providing guidance for safe driving.
+Looking to the Near Future
+Advanced Driver Information Sensing
+We have launched a new initiative in safe driving technology: Driver biological information diagnosis. We are integrating our industry-leading biological information sensing technologies (blood pressure, pulse wave) into safe driving systems to manage the physical condition of a driver. We expect this technology will be used in applications to prevent accidents of the type caused by the incapacity of an elderly person behind the wheel.
+*Trademark registration pending
+ 3D-LIDAR
+     in and out camera
+  GPS antenna
+Accessory socket
+DriveKarte* 53

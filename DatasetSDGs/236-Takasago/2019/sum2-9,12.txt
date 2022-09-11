@@ -1,0 +1,125 @@
+For the creation of product quality in the future
+  Kinya Yoshida
+Manager, Quality Environment & Safety Control Division Business Management Headquarters,
+Takasago Thermal Engineering Co., Ltd.
+The essence of "the creation of the best product quality," which is mentioned in our management principles, is to provide systems with high added value for customers and thereby enhance customer satisfaction. Our group has a chance to demonstrate our abilities when we respond to customer demand as much as possible and identify and meet the needs that have not been recognized even by customers.
+Our commitment to the creation of product quality is about to enter a new stage. The period when the construction industry is exempt from the Act on the Arrangement of Related Acts to Promote Work Style Reform will end in 2024. While restrictions on working hours will be tightened, we cannot compromise our efforts to pursue quality. Accordingly, we have to take measures that have not been implemented before. While we are currently promoting activities for the improvement of productivity and the effective use of information-communication and IoT technologies, I consider that those efforts will be key factors that support the creation of product quality in the future.
+ 72
+88 79
+105 97
+ 9
+878
+9
+  Provision of the Quality with which We Can Gain Customers’Satisfaction and Their Trust
+To ensure that our construction sites can constantly achieve the aggressive target of "the creation of the best product quality," we are committed to initiatives on various aspects including process, support system, platform and human resources.
+The basic approach of Takasago Thermal Engineering to quality is based on our Management Policy, which aims at "Contribution to society through personal harmony and creativity," and our Management Principles, which set "To serve society through the development of business activities that focus on the creation of the best product quality" as the first principle.
+Moreover, the first basic policy in our Quality and Environmental Basic Rules stipulates that we shall endeavor to grasp customer needs and provide the optimal quality that contributes to the corporate activities of customers, which indicates an idea that the best product quality is achieved by providing an optimal system for customers. As the title of the rules shows, we handle the creation of quality and environmental conservation in an integrated manner. We also regard safety as part of quality.
+Meanwhile, our Quality Basic Bylaws clarify how to guarantee quality. As part of it, they also set two types of standards, which are the standard that must be surely followed and "Takasago standards," which we recommend to customers.
+Based on our quality management system (which has received ISO 9001:2015 certification), we work for construction work and construction management that meet requests on delivery period while ensuring quality, as well as the support of the operation, to satisfy customers.
+Our Quality Basic Bylaws stipulate that our quality assurance activities mainly aim to ensure the management of the quality assurance work standards at each important point through the concerted efforts of the organization and that the activities place a particular emphasis on the management at the important points in the upstream stages.
+In a project, we hold a kick-off meeting involving interested persons first prior to the construction work. We check and examine the key issues for the construction work to share them and pursue the improvement of work efficiency and quality assurance.
+In-process inspections are conducted in the course of the construction work. Inspection items are wide ranging including pressure and airtightness tests of pipes, factory inspections of equipment and devices (check of the appearance and performance) and on-site installation tests. As an inspection is conducted for each process, it is common to conduct some sort of inspection once a week or so and it may be conducted for two consecutive days in some cases. After the completion of the construction work, it takes at least a month for commissioning and adjustment. Three months or more may be needed when the demand level is high as in the case of a semiconductor plant.
+The procedures to achieve the quality defined in each project are incorporated into the on-site workflows by
+making use of the internal system. Based on our creed that quality can be achieved only with the accumulation of on-site efforts, we control quality at important points in a meticulous manner while also considering the speed. We have established the Safety/Quality Management Group as a cross-sectoral organization that supports those activities. Internal human resources who have knowledge and skills and are also familiar with quality control are deployed as members of the group in each of the branches. They are effectively working as advisers and consultants for on-site staff and as specialized staff members who also patrol the sites.
+An IT platform developed by Takasago Thermal Engineering is also used to create the best product quality. We receive facility operation data from customers to make proposals based on the results of the analysis of the data and visualize problems. These activities help us share recognition with customers. If any problem is found, we can feed it back to our quality assurance activities promptly.
+Our Quality Basic Bylaws stipulate that we shall give education and training on proprietary technologies and management technologies to employees to maintain and raise the level of quality assurance.
+We established the Takasago Academy in fiscal 2014 to develop a technical staff training and education system and improve the skills of our employees as well as the
+employees of our group companies. In particular, we focus on position-based training and education of technical staff to improve their capabilities and also encourage them to obtain qualifications that can lead to their skill improvement. We also renewed the new employee training program in fiscal 2017 to launch practical training at the Fuji Education and Training Center, which is operated by the National Association of Construction Industry Education and Training in Fujinomiya City, Shizuoka Prefecture. In the program, trainees directly experience piping and other work conducted on actual construction sites to deepen their knowledge on safety and quality that construction managers should have. We also organize company-wide technical presentation fairs and technical seminars every year and publish periodical technical newsletters.
+In the meantime, we support the growth of partner companies and give instructions to them in the Takasago Technical School. We have prepared training and education materials to reduce burdens on on-site staff and improve the quality of construction work. A program to certify skilled workers of partner companies who are superior in technical skills and leadership as top-notch technicians ("Takasago Meisters") was set up in fiscal 2007. In addition, we established a new program to certify the Takasago Meisters who have especially high skills and awareness to contribute to the transfer of techniques and call them "Takasago Senior Meister: Koki (Brilliance)" in fiscal 2017. Through these initiatives, we will help improve technical abilities in the whole industry.
+● Number of those who are recognized as Takasago Meisters
+ FY2018 Excellent Company Award commendation / Takasago Meister certification ceremony
+Number of recognized technicians by FY
+(Number of technicians) 20
+(Number of technicians) 120
+15 10 5 0
+2014
+2015
+2016
+2017
+         100
+         80
+         60
+         40
+         20
+         0
+2018 (FY)
+Cumulative number of recognized technicians
+  39 TAKASAGO CORPORATE REPORT 2019
+TAKASAGO CORPORATE REPORT 2019 40
+35th Technical Presentation Fair
+Safety patrol
+Value Creation Development of Foundations Supporting
+and Performance the Medium-term the Business Basic Information
+Business Plan
+Foundations Supporting the Business  Development of human resources who offer FM solutions
+Visualization of energy use for the optimization of production facilities and building facilitiesPlanar distribution of temperature
+Cross-sectional distribution of temperature
+  Distributed heat Electric source equipment room
+IoT sensorProduction volume  Plant electricity curveSupport for the solution of challenges by using advanced technologies (IoT, AI and cloud)
+   Examples of support
+for the solution of challenges
+● Reduction of costs in facilities with Eco-Tuning*
+● IoT-based optimal operation of energy in the whole factory
+● Cloud-based consultation for energy saving in the main office of a company with multiple facilities
+● AI-based optimal operation of large-scale heat sources
+Support for planning staff in the development of facility strategies
+ Eco-Tuning
+IoT
+1 Use of advanced technologies
+Effective use of IoT, ICT and cloud (= management strategies of companies)
+AI
+Cloud
+2 Development of facility strategies
+FM Solutions
+● Energy ● Maintenance
+    * Eco-Tuning aims to improve and optimize the operation of facilities, equipment and systems, while maintaining the amenity and productivity of buildings, in order to reduce greenhouse gases from buildings for the realization of a low-carbon society. Eco-Tuning is a registered trademark of the Ministry of the Environment of Japan.
+   Process cycle time
+ABC
+Free time
+A
+Grasp of energy use per production volume
+Ideal stateThe per-unit energy use was large because
+ many units were standby Per unit energy u A
+A
+BC
+BC
+B  FM Solution Activities
+In recent years, there has been a growing movement to make effective use of facilities for the purpose of responding to changes in work styles due to work style reform and other reasons as well as globalization and environmental issues (energy saving and reduction of CO2 emissions). Facility management using IoT and ICT is also becoming widespread. Takasago Thermal Engineering provides "FM solutions," which support the facility management of customers (execution of facility strategies related to management strategies), to help customers solve their management issues and also enhance the added value of facilities.
+FM solutions aim at offering value throughout the lifecycle of buildings and facilities and involve the establishment and maintenance of a close relationship with customers, as well as the identification of unspoken demand in some cases, to make new proposals. Such a pattern of actions is totally different from the conventional facility construction business. Accordingly,
+the human resources who engage in FM solutions are required to have a new awareness in addition to expertise in the related fields such as building equipment, facility management and data analysis.
+We introduced the FM domain into our education program this fiscal year to develop human resources who offer FM solutions.
+● Example of solutions
+Challenges for a customer: Wants to visualize energy use of not just the air conditioning system but the factory as a whole including production facilities. Wants to establish a low-cost system that can also adapt to flexible production conditions to optimize energy use.
+Solution: Use IoT sensors* that are wireless to eliminate wiring and can be easily installed and relocated. Grasp energy use per production volume and combine it with the energy consumed for building facilities to establish an energy management system that has a direct impact on business management.
+   Building facilities (air conditioning)
+Visualization of temperature and humidity in the production and office environment and CO2 emissions with contour figures
+Production facilities (manufacturing equipment)
+Use of IoT sensors to visualize energy use in production systems, energy use per production volume, categories of warning and other data based on the latest IoT technologies
+   FM Human Resource Development Project
+  0:00 2:00 4:00 6:00 8:00 10:00 12:00 14:00 16:00 18:00 20:00 22:00
+ Process1 Process2 Process3 Process4
+10/1
+10/2
+10/3
+10/4 10/5
+Lead time of Product B
+kWh/unit
+20 10
+0% 20% 40%
+se
+100% 120%  IoT sensor
+Wireless receiver
+Senior management
+Production technology
+Manufacturing
+Facility management
+Building facilities 48%
+Production facilities 52%
+Lead time of Product A
+60% 80%
+Production volume(%)
+ Management of per-unit energy use for production and air conditioning
+         Energy management
+The ratio of energy use in the factory
+ 41 TAKASAGO CORPORATE REPORT 2019
+TAKASAGO CORPORATE REPORT 2019 42

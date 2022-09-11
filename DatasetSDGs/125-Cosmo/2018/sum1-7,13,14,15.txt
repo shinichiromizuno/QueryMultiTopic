@@ -1,0 +1,181 @@
+CSR Activities
+Environmental Impact of Business Activities in FY2017
+    INPUT
+Business Activities
+OUTPUTEnergy
+Fuel
+Energy
+Fuel
+19,439 TJ 9,538 TJ
+Emissions
+CO2
+Emissions
+CO2
+1,084 kt-CO2 652 kt-CO2
+4,115 kt-CO2 3,691 ton
+2,146 ton
+406,803 kt 110 ton
+1,056 ton
+        Petroleum Business
+Energy
+Purchased power
+Fuel
+Water
+Seawater
+Industrial water Underground water Tap water
+Petroleum Business
+  Reduction of Greenhouse Gas Emissions
+Long-Term Environmental Vision 2030
+4,767 TJ (493,213 MWh)
+55,398 TJ
+(crude oil equivalent
+1,429 thousand kl)
+399,287 kt 39,118 kt 209 kt 155 kt
+Emissions
+CO2
+SOx
+NOx
+Water discharge
+Water discharge
+Chemical oxygen demand (COD)
+Industrial waste
+Final disposal
+      As a part of the new medium-term CSR management plan, we developed the “Long-Term Environmental Vision 2030,” consistent with the orientation of the global community and the Japanese Government toward realizing a sustainable society. In an effort to contribute to reducing CO emissions,
+(10,000 ton-CO2)
+ a
+Transportation division (crude oil, products) Manufacturing division (including energy conservation and efficiency enhancement) Other (service stations, research centers, etc.)
+Bio fuels (with ETBE1)
+Expansion of renewable energy business (wind power generation2, etc.)
+2013 2016
+90 100 676 645
+2017
+      2
+we are targeting a 2 million ton (26%) reduction in emissions
+94 667 4 3 3 -7 -14 -15
+Petrochemical Business
+Petrochemical Business
+ by FY2030, compared to the level in FY2013. Along this line, we are targeting a 16% reduction in FY2022, the final year of the plan, again compared to the level in FY2013.
+Energy Conservation at Refineries
+In FY2017, in order to attain optimal supply and demand balance in domestic petroleum products, the Chiba Refinery reduced the processing capacity of the Crude Distillation Unit (CDU). The resultant decrease in crude oil refining volume led to a slight increase in CO2 emissions per unit of crude oil equivalent throughput.
+Refineries represent the largest portion in CO2 emission of the Cosmo Energy Group. We will therefore strive for energy conservation from both a hard aspect (introduction of high-efficiency equipment) and a soft aspect (energy- efficient operation of facilities).
+Reduction of Environmental Pollutants
+Use of Water and Water Discharge Measures
+(Water Pollution Prevention)
+The Cosmo Energy Group’s refineries and plants use a vast
+amount of water (over 90% is seawater) mainly for cooling but
+also for cleaning and boiler feed water. In FY2017, 489,237kt of
+water was used, of which 60,762kt was industrial water. We
+are striving to use water efficiently, including the reuse and
+recycle of water.
+Concerning water discharge, we discharge the seawater used for
+cooling into the sea, and properly treat the water used for
+cleaning and other operating processes at stricter levels than
+required by the legal standard levels for minimizing environmental
+impact when discharged. In FY2017, the total amount of Chemical FY2017
+-16 -22
+-22
+Energy
+Purchased power
+Fuel
+Water
+1,350 TJ (139,070 MWh)
+44,559 TJ (crude oil equivalent
+1,150 thousand kl)
+Emissions
+CO2
+2,554 kt-CO2 745 ton
+       1:
+2:
+Ethyl tert-butyl ether (ETBE)-mixed gasoline: The amounts of reduction in CO
+by gasoline combustion at a target share of 11% multiplied by the adoption target of bioethanol of the Act on Sophisticated Methods of Energy Supply Structures. The estimates for FY2022 are calculated based on the FY2017 targets – 500,000 KL (crude oil equivalent) multiplied by 11% share.
+Wind power generation: Calculated by using the total power generation volume multiplied by the actual CO2 emission coefficient, adjusted CO2 emission coefficient, and other alternative measures. The targets
+for FY2022 use the alternative measure (0.587kg-CO /kWh) of FY2016. 2
+CO2 emissions (LH)
+CO2 emissions per unit of crude oil equivalent throughput (RH)
+SOx
+NOx 934ton
+2
+emissions are calculated
+  28,767 kt 21,644 kt 47 kt Tapwater 9kt
+Water discharge
+Water discharge
+Chemical oxygen demand (COD)
+Industrial waste
+Final disposal
+Emissions
+CO2 (storage) CO2 (transport)
+Emissions
+33,434 kt 78 ton
+293 ton
+21 kt-CO2 172 kt-CO2
+22 kt-CO2
+45,597 kt-CO2 121,407 ton
+527 kt-CO2 199 kt-CO2
+9 kt-CO2
+Seawater
+Industrial water Underground water
+   6,000(kt-CO2) (kg-CO2/kl)30
+ 25.19
+4,207
+23.21
+4,046
+24.25
+3,987
+23.13
+4,023
+23.54 4,044
+20
+   4,000 2,000
+* As the Sakaide Refinery was turned into a distribution terminal in FY2014, the data has been collected from three refineries since FY2014, compared to from four refineries up to FY2013.
+* In addition to the figures shown in the graph, N2O released from the catalyst regeneration tower
+    10 00
+FY2013 FY2014 FY2015 FY2016 FY2017
+Energy
+Purchased power (storage)
+Fuel (storage) Fuel (transport)
+Energy
+445 TJ Fuel 0.4TJ
+Energy
+ 119 TJ
+214 TJ 2,492 TJ
+    amounted to 19 kt of CO2 equivalent in FY2017.
+Purchased power
+CO
+2
+      Tap water
+164kt
+600(ton)
+“Total Pollutant Load
+Emissions
+CO2 (product use) SOx (product use) CO2 (electricity sold) CO2 (steam sold)
+Emissions
+CO2
+ Oxygen Demand (COD, an indicator used to quantify the amount of oxidizable pollutants found in water discharge) was at a low level, equivalent to about 25% of the “Total Pollutant Load Control amount” (annual value for reference).
+45 COSMO ENERGY HOLDINGS
+1: The amount of water used is an aggregate amount for 3 refineries of Cosmo Oil, Yokkaichi Kasumi Power Station, 2 plants of Cosmo Oil Lubricants, 1 plant of Cosmo Matsuyama Oil, and 2 plants of Maruzen Petrochemical.
+2: The COD load of effluent used is an aggregate amount of 3 refineries of Cosmo Oil and a plant of Cosmo Matsuyama Oil.
+3: Total Pollutant Load Control amount (annual value for reference): The prescribed daily load is multiplied by 365 to get an annual amount. In the case that the amount temporarily exceeds the legal limit, we report to the relevant authority and promptly take measures to make the amount fall below the legal limit.
+Underground water
+256kt 400
+Control3”:454 tons
+FY2017
+  Industrial water 60,762 kt
+Seawater
+428,054 kt
+102 TJ Fuel 50TJ
+1. “Crude oil production” and “Crude oil transport” are estimated based on LCI for Petroleum Products by Fuel and Environmental Impact Assessment for Petroleum Products, published in March 2000 by the Japan Petroleum Energy Center.
+2. For “Manufacturing” and subsequent stages, energy consumption is calculated in accordance with the Act on the Rational Use of Energy.
+3. CO2 emissions for “Manufacturing,” “Product transport and storage (oil depots),” and “Sales (service stations)” (based on data from Cosmo Oil Sales Corp.), “R&D centers, offices, and other facilities” are calculated in accordance with a manual for GHG emissions accounting, reporting, and disclosure systems published by Japan’s Ministry of the Environment and Ministry of Economy, Trade and Industry.
+4. Figures given for “Manufacturing” include data from Cosmo Oil’s three refineries, Yokkaichi Kasumi Power Station, and Cosmo Oil Lubricants in the Petroleum Business and Cosmo Matsuyama Oil and Maruzen Petrochemical in the Petrochemical Business. However, figures for SOx and NOx exclude data from Cosmo Oil Lubricants.
+200
+0
+5.
+6.
+7.
+“Electricity sold” refers to electricity supplied externally by Cosmo Oil’s Chiba Refinery, Yokkaichi Kasumi Power Station, and Maruzen Petrochemical’s Chiba Plant. CO2 emissions from “Manufacturing” were calculated by deducting the portion of CO2 emissions attributed to electricity sold. CO2 emissions from utility (power) were included in the CO2 emissions from “Manufacturing.” “Steamsold”referstosteamsoldbytheChibaRefinery,CosmoMatsuyama Oil, and Maruzen Petrochemical’s Chiba Plant. CO2 emissions for “Manufacturing” were calculated after deducting the portion of CO2 emissions that results from the generated steam sold.
+CO2 emissions from “Product transport” include data from the specified consigners in accordance with the Act on the Rational Use of Energy.
+8. CO2 emissions for “Consumption (product use)” are calculated by multiplying shipped volume of fuel products (such as gasoline and heavy fuel oil) by CO2 emission coefficient. CO2 emissions attributable to generated “Electricity sold” and “Steam sold” are calculated separately.
+9. SOx emissions for “Consumption (product use)” are for reference, and were estimatedfromthesulfurcontentofproductswithoutaccountingforsulfur reduction during use. Accordingly, actual SOx emissions are lower than the estimate.
+10. Data for “R&D Centers” includes the R&D Center of Cosmo Oil, the R&D Laboratory of Cosmo Oil Lubricants, and Research Center of Maruzen Petrochemical.
+11. Figures given for “Offices and other facilities” are the amount of electricity use of Cosmo Energy Holdings, Cosmo Energy Exploration & Production, Cosmo Oil, Cosmo Oil Marketing, Group companies that share the eco-office activities, and Maruzen Petrochemical.
+COSMO REPORT 2018 46

@@ -1,0 +1,135 @@
+Business
+ Healthcare Business (HCB)
+Vision
+Domain
+Corresponding SDGs
+ 55
+All for Healthcare,To Help Realize Healthy and Comfortable Lives for People Around the World
+Healthcare Business provides medical equipment and services that contribute to the healthy and confortable lige of everyone around the world. Over 40 years in the blood pressure monitor business, we have earned trust in our highly accurate devices used in clinical practice and certifications that guarantee levels of quality and safety worldwide.These are the greatest strengths of our business.
+We intend to move forward actively in developing innovative devices and promoting digital health across three main areas of focus: cardiovascular, respiratory and pain management business. By providing personalized medical devices and services tailored to individuals, we will confront the challenges in preventing theprogression of diseases and in increasing healthy life expectancies.
+Managing Executive Officer OMRON HEALTHCARE Co., Ltd.
+  Patients with brain/ cardiovascular events*1
+17.5 million
+Medical costs related to cardiovasular diseases*4
+¥120 trillion
+Global patients suffering from respiratory diseases*2
+440 million
+Medical costs related to respiratory diseases in Japan and the U.S.*5
+¥19 trillion
+Patients suffering from chronic pain in Japan and the U.S.*3
+73 million
+Market for analgesics in Japan and the U.S.*6
+¥2.4 trillion
+President and CEO
+Isao Ogino
+ Social Issues Confronting the Healthcare Market
+The growing middle class population in emerging economies are a cause of rising lifestyle diseases in these countries. Developed countries are experiencing a growing gap between average life expectancies and healthy life expectancies, stemming from the super-aging societies. And the increase of medical costs has been a major social issue globally. Our three focus domains, which target numerous patients and pre-symptomatic individuals, are particularly positioned to meet these demands.
+The first of these domains is cardiovascular. This includes strokes and cardiac infarctions, which are caused by blood pressure attributable to changes in dietary and other lifestyle habits. 17.5 million people have been suffering from these diseases, and it costs approximately ¥120 trillion to treat medically. The second domain is respiratory diseases, which are increasing worldwide due to air pollution and other factors. Respiratory disease is believed to affect 440 million people worldwide.
+The third domain is pain management. This includes lower-back and joint pain, which can interfere with daily life. Approximately 73 million people in Japan and the United States suffer from chronic pain. Many rely on medications to alleviate their conditions.
+ Cardiovascular diseases
+Respiratory diseases
+Pain management
+*1 WHO report
+*2 International Respiratory Societies report
+*3 Pain in Japan (Japan), National Health Interview (U.S.)
+*4 Estimate based on World Bank and OECD data
+*5 Estimate based on data published by the Ministry of Health and Welfare, the European Respiratory Society, and a survey conducted by Creative Biotech Inc *6 Global Analgesic Market Survey 2013
+Healthcare
+ Vision Strategy
+ Business
+ Governance Financial Info Corporate Info
+ Achieving Zero Events on Cerebrovascular and Cardiovasucular
+Going for Zero refers to preventing the onset of serious of disorders (events) such as strokes and myocardial infarctions that are caused by high blood pressure. New sensing devices measure vital data both during daytime activities and at night. This has been difficult to achieve in the past. By analyzing this newly accumulated data, we can provide more effective high blood pressure diagnosis and treatment services, all with the aim of achieving Going for Zero.
+  Unveiling innovative devices
+The HeartGuideTM is the world’s first wearable blood pressure monitor in a unique compact wristwatch configuration. The HeartGuideTM, which has received medical device certification, has been released for sale in the United States. Wearable blood pressure monitors track fluctuations in blood pressure throughout the day with medical-grade accuracy, a task difficult to achieve in the past.
+Wearable blood pressure monitor released in December 2018 HeartGuideTM
+ Achieving Zero Events requires the stress-free measurement of blood pressure during everyday living. OMRON blood pressure monitors have always been high-quality devices trusted by physicians. However, the bulky design remained an impediment to everyday carry. The advent of our compact wearable HeartGuideTM lets users participate easily in their own health care by tracking their own health status at any time.
+Reducing the size of the device while still meeting standards for medical devices
+was no mean feat. The product required significant efforts in development. Given
+the importance of HeartGuideTM success in achieving Zero Events, OMRON staff
+worldwide united behind the product to ensure its status as a global top brand.
+HeartGuideTM was first unveiled in North America at the January 2019 CES
+event, the world’s largest consumer electronics show. Our device was featured
+in articles and reports by many media outlets. Sensing the excitement behind
+HeartGuideTM, our staff around the world will use these expectations as a source
+of pride and confidence to accelerate ongoing development.
+ Promoting Going for Zero through the integration of devices, evidence, and services
+OMRON blood pressure monitors are used in many major clinical studies. The medical evidence obtained in these studies enables the creation of diagnostics and medical support services in connection with hypotensive evidence stemming from behavioral modification support programs and medication optimization support programs. We intend to provide these services, including telemedicine and corporate wellness services, tailored to cultures, lifestyles, and medicine and insurance systems for each country to achieve Going for Zero.
+Providing Innovative Devices
+Jeff Ray
+Diagnostics and Medical Support Services
+Behavioral Doctor modification
+support
+Personalized
+medical care
+Omron Healthcare, Inc. (USA) Executive Director Product Strategy and Technology
+       Blood Pressure Activity Sleep ECG
+Patients
+ Data Collection and Analysis
+ Personalized medical care to achieve Going for Zero
+56
+
+ Business
+ Healthcare Business (HCB)
+ Aiming Asthma Attack Zero
+Families who have a child with asthma are all too familiar with the daily worry of asthma attacks and when to administer asthma medicine. The OMRON respiratory business strives for ease of use and easy care for nebulizers, which are used by patients to inhale asthma medication. We are developing new sensors and services that detect and analyze the sound of wheeze which typically accompanies with an asthma attack. We intend to use this technology in devices for early detection of the symptoms of asthma attack. Through these initiatives, we contribute to the prevention and mitigation of asthma attacks, which can be serious in small children.
+Unveiling Devices to Reduce Knee and Lower-back Pain, Extending Healthy Life Expectancies
+Japan is experiencing a widening gap between average life and healthy life expectancies. This gap, quickly becoming a social issue, is approximately nine years for men, and 12 years for women. The main barriers to healthy living (cause of nursing care) are motility disorders such as joint and back pain.
+The pain management business has unveiled a number of new devices in this field. These new products include Knee TENS that applies electrical stimulation below the knee to alleviate knee pain. This device is used for walking support by people who started feeling knee pain. We also offer Wireless TENS to aid recovery from the so-called national disease of back pain. Athletes also use this product for muscle pain relief. By relieving the pain and physical fatigue that hinder people in their daily lives, we can maintain and improve quality of life, and bring about a society in which people enjoy active, healthy lives, regardless of age.
+  Gap Between Average and Healthy Life Expectancies
+Main Causes Requiring Nursing Care
+Knee Pain of senior generation
+Lower-back Pain, Widespread in Japan
+Fatigue Recovery for Athletes
+Average Life Expectancy
+80.21
+Period of Restricted Lifestyles Stemming From Health Issues
+Damage to musculoskeletal system
+        Healthy Life Expectancy
+ Male
+Other
+Female
+Age-related weakening
+Cerebral and cardiovascular diseases
+71.19
+Average Life Expectancy 86.61
+9.02 years
+25.2%
+22.3%
+  Healthy Life Expectancy
+74.21
+12.40 years
+   HV-F710 Knee TENS
+Released in December 2018
+HV-F602T Wireless TENS
+Released in November 2018
+HV-F601T Wireless TENS
+Released in November 2018
+Source: Average life expectancy, Ministry of Health, Labour and Welfare 2013 Abridged Life Table
+Life expectancies extracted from Ministry of Health, Labour and Welfare 2013 Abridged Life Table, 2013 Demographics Statistics, 2013 National Livelihood Survey; and Ministry of Internal Affairs and Communications 2013 Estimated Population
+Dementia
+60 65 70 75 80 85 90 (Year)
+13.3%
+21.2% 18.0%
+  57
+Pain Management Product Department
+Yoshito Asai
+To prevent and relieve knee pain, the muscles that support the knee must remain strong. Walking is a very important preventive measure. However, the act of walking for people suffering from knee pain can be a challenge, both physically and mentally. Unable to put up with this pain, people often stop walking, which leads to a negative cycle of decreased muscle strength and even further aggravation in muscle pain. Knee TENS supports the knee during walking, while providing electrical stimulation to relieve knee pain.
+This device makes walking easier, helping strengthen the muscles and creating a positive cycle which prevents and mitigates knee pain.
+We want to improve the quality of life for as many people who suffer from knee pain as possible, stopping the negative circle of locomotive syndrome, the resulting difficulty in walking, and the need for nursing care.
+
+Vision StrategyBusinessGovernance Financial Info Corporate InfoFurther Advances in Our Matsusaka Factory, Global Base of OMRON Manufacturing
+        Europe Production Center Italy
+China Production Center Dalian
+Asia-Pacific Production Center Vietnam
+     Japan Production Center Matsusaka Factory
+  In March 2020, our Matsusaka Factory will be as OMRON’s global base for manufacturing capabilities. The factory will play a bigger role as our mother factory supporting global production, serving as a production center for cutting-edge manufacturing technologies to be deployed worldwide, focusing on low-cost, flexible automation. Advanced automation will result in a three-fold production gain, as well as optimized production that can respond flexibly to diversifying products and customer demands. Further, we intend to deploy leading-edge production lines built in Japan to production centers worldwide.
+OMRON is developing high-quality automation, precision processing technologies, and improved quality control in pursuit of the providing high-quality products faster and in a more stable manner.
+The OMRON Healthcare Business has developed innovative devices, accumulated and analyzed data in collaboration with medical professionals, provided highly reliable services stemming from these collaborations, and produced advanced manufacturing technologies and modularization. These activities have created business models to promote healthcare. We will continue to focus our effort on cardiovascular, respiratory, and pain management fields, accelerating our pace as we go. Leveraging overwhelming global market share, we will combine and analyze information on vital signs, treatment, and lifestyles to create diagnosis and treatment support services tailored to the individual.
+Lifestyle Information
+Optimized Healthcare and Improved Medication Regimens
+Central-South America Production Center BrazilTowards the Future of Personalized Medical Care
+  Through Personalized Medical Care
+  Vital Sign Data
+Medical information
+58

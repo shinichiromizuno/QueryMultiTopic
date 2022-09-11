@@ -1,0 +1,60 @@
+ Management Base to Support Value CreationCompliance
+Japan Post Insurance assures the soundness and appropriateness of its business operations and maintains a framework that meets the trust of society by ensuring all its executives and employees comply with laws and regulations (laws, regulations, rules and internal rules, social norms and corporate ethics) in every aspect of its corporate activities.
+Compliance Policies
+We have established our compliance framework by formulating compliance rules that set out the basics for the promotion of compliance within the Company. These rules incorporate the “Fundamental Policy for Establishment of Internal Control Systems” developed by the Company’s Board of Directors.
+To provide a guide to the laws and regulations and other rules concerning our corporate activities, we have prepared a Compliance Manual, as well as a
+Compliance Promotion System
+To realize our goal of becoming the “No. 1 Japanese insurance company selected by customers,” Company-wide efforts are undertaken to achieve thorough implementation of compliance.
+Compliance Handbook, which describes the essentials of the Compliance Manual. We also ensure that all executives and employees are aware of the content by making these available for reference. Furthermore, we work to undertake thorough implementation of compliance through our “Compliance Program,” a plan developed annually to lay out specific details for promoting compliance. Audit CommitteePresident, CEO, Representative Executive Officer
+Chief Compliance Officer (CCO)
+Board of DirectorsCompliance Control Department
+Compliance Officer (Senior General Manager, Compliance Control Department)
+Compliance Manager
+Executive Committee  Compliance Committee
+ Compliance System Strengthening Advisory Board
+(Consisting of external experts)
+    Departments of
+the Head Office (including Services Centers, etc.) Senior General Manager, etc.
+   Regional Headquarters (13 offices) Senior General Manager
+Regional Compliance Divisions (13 locations) Compliance Officer
+(Senior Manager, Regional Compliance Division)
+Branches (82 offices) General Manager      To promote compliance within the Company, we have established the Compliance Committee, headed by the Chief Compliance Officer (CCO). The Compliance Committee deliberates on management policies concerning compliance, specific compliance operations and response to various compliance issues. The committee also works to achieve thorough compliance and prevent compliance violations by monitoring and analyzing the Company’s compliance promotion efforts.
+To discuss matters related to enhancement and reinforcement of the compliance framework of Japan Post Co., which serves as our insurance solicitor, we have set up a liaison meeting, members of which include the CCO. We also provide guidance to post offices and manage their compliance activities on the basis of discussion at the meeting.
+66 JAPAN POST INSURANCE
+Japan Post Co., Ltd. Head Office
+  Regional Offices
+ Post Offices
+Internal Audit Department
+Chief Internal Audit Officer
+Internal Auditing
+ Implementing Compliance Education
+Through our Compliance Program, we conduct training courses that include Compliance Administrators and Compliance Managers at our head office, branches and other locations. The program covers explanations and instructions regarding the role of Compliance Managers, as well
+Whistleblowing System
+We have put in place an appropriate whistleblowing system by establishing reporting rules that Group employees should follow in the event of a violation of laws and regulations or internal regulations, in addition to setting up internal and external whistleblowing contact points, in order to prevent the occurrence or spread of compliance violations, or to resolve them at an early stage.
+as important points to note and other details regarding compliance in our business activities. In order to provide and instill the knowledge of compliance, we also hold e-learning training courses for all executives and employees.
+In addition to existing internal whistleblowing contact points, the Japan Post Group newly established an external whistleblowing contact point exclusively for financial product sales issues. We will ensure that all employees are aware of the use of this whistleblowing contact point to identify issues including problems related to improper solicitation.
+  Countermeasures against Money Laundering and Financing of Terrorism
+ Japan Post Insurance is promoting efforts to appropriately reduce the risk of money laundering and financing of terrorism (“money laundering, etc.”) based on the “Policy on Anti-Money Laundering and Combating the Financing of Terrorism” formulated in accordance with the Financial Services Agency’s “Guidelines for Anti-Money Laundering and Combating the Financing of Terrorism.”
+We identify and evaluate risks based on the profile of business, conditions at agencies, and laws and regulations, from the perspective of preventing the misuse of products and services provided by the
+Company for money laundering, etc. We take appropriate countermeasures against the relevant risks in order to effectively reduce such risk.
+In addition, management plays a leading role in promoting countermeasures against money laundering, etc., while clarifying the roles and responsibilities of executives and employees engaged in countermeasures against money laundering, etc., by putting the Chief Compliance Officer as the person in charge of countermeasures against money laundering, etc.
+Initiatives for Protecting Personal Information
+ Japan Post Insurance recognizes the importance of information security management called for by society and promotes measures to protect personal information appropriately pursuant to relevant laws and regulations.
+For an internal management structure to ensure safe management of personal data, we have established and announced the fundamental policy
+Japan Post Insurance Privacy Policy
+https://www.jp-life.japanpost.jp/english/aboutus/company/en_abt_cmp_security.html
+Purpose of Use of Personal Information Succeeded from Japan Post
+https://www.jp-life.japanpost.jp/policy/privacy/pcy_prv_object.html (in Japanese)
+for protecting personal information (Japan Post Insurance Privacy Policy), and have also designated the Chief Information Security Officer (CISO), who is in charge of the Company-wide control of information security, and other responsible personnel. In this way, we are protecting and handling personal information in an appropriate manner.
+Annual Report 2021 67
+      Message from the CEO About Japan Post Insurance Business Strategy for Value Creation Management Base to Support Value Creation Corporate Information Financial Statements
+
+  Management Base to Support Value Creation
+Response to Cybersecurity
+Recognizing the risk of cyberattacks as a material risk, we have designated the Chief Compliance Officer as our CISO1, and implement multi-layered risk management that combines defense and detection mechanisms under the leadership of our CISO.
+In terms of systems, we have established the CSIRT2, an organization that conducts activities in preparation for cyberattacks in ordinary times and emergencies. The CSIRT gathers information in collaboration with external specialized organizations, and works on the development of emergency response procedures for IT systems that need to respond to the threat of cyberattacks. In addition to
+regular cyber drills, we conduct internal training and drills for executives and employees to continuously improve our response capabilities in the event of a cyberattack.
+To carry out these activities, we have established the Information Security Committee within the Company. Management is taking the lead in promoting such measures, while working in cooperation with other companies in the Japan Post Group.
+Notes: 1. Chief Information Security Officer
+2. Computer Security Incident Response
+Team

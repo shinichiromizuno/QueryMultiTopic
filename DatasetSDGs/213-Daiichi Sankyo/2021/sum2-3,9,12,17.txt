@@ -1,0 +1,49 @@
+Materiality on Business
+ Creating Innovative PharmaceuticalsProviding a Stable Supply of Top-Quality Pharmaceutical ProductsProviding the Highest Quality Medical InformationImproving Access to Healthcare
+ Providing a Stable Supply of Top-Quality Pharmaceutical Products
+Materiality on Business
+Materiality on Business Foundations
+ Promoting Compliance ManagementCorporate Governance Aimed at Fulfilling Our MissionPromoting the Success and Development of a Diverse Range of People Who Create Our Competitive AdvantagesPromoting Environmental Management
+Pharmaceutical companies have a mission to supply top-quality pharmaceuticals reliably and consistently. To fulfill this role, we have integrated the “function to consistently procure raw materials that users find reliable and systematically manufacture products” and the “logistics function to distribute products rapidly and reliably after receiving orders”. This integration facilitates the centralizing management of information, enabling a flexible and efficient manufacturing and supply system (supply chain management).
+We also have established a system to guarantee the quality of our products in adherence with GMP (Good Manufacturing Practice) in Japan as well as GMP in other countries, including European countries and the United States, to ensure product quality by a scientifically backed method of managing all processes, from receiving raw materials to manufacturing and shipping products, and to fulfill our role for the market.
+        Reason for selection
+As the impact of natural disasters and political risks on the global supply chain is expanding, procurement risks at our business partners need to be considered. Establishing a robust supply chain structure and providing a stable supply of top- quality pharmaceutical products is one of the most important challenges for us. In the mid-term, in order to respond to the increase of new modality products, particularly ADCs, we realize the establishment of a global production and supply system by implementing appropriate capital investments.
+Contribution to SDGs
+      Long-term target
+Establish a robust global supply chain system to provide a stable supply of top- quality pharmaceuticals.
+      Challenges for realizing materiality (toward FY2025 targets)
+Establishment of a global production and supply system through appropriate capital investment corresponding to the increase of new modality products including ADCs.
+     KPIs
+Construction of ADC production system and stable supply of top-quality pharmaceuticals to patients (including capital expenditure)
+      FY2025 targets
+In-house capital investment and CMO investment: Maximum 300 billion yen (Total capital investment from FY2021 to FY2025: Approximately 500 billion yen)
+       FY2020 results
+   Social value creation
+   Economic value creation
+Continuously making capital investment to increase/streamline production facilities and strengthen/improve the efficiency of research and development. The total capital expenditure in FY2020 was 40.1 billion yen.
+Updated our business continuity plan (BCP) in line with functions and regional characteristics
+ Contribute to the enrichment of quality of life around the world
+ Increase revenue and profit, reduce/prevent the risk of declining corporate value
+    Promote Reliable and Stable Supply Amid the Spread of COVID-19
+We have set up an emergency headquarters headed by the CEO and made efforts to strike a balance between preventive measures against infection and business continuity in light of the status of the spread of COVID-19 in Japan and other countries and the views of the government and the Novel Coronavirus Expert Meeting.
+We cannot cease manufacturing if we are to continue to provide a stable supply of pharmaceutical products, which is our responsibility as a healthcare company. We established a
+task force in our supply chain and made efforts to achieve stable supply by continuing the operation of plants under thorough infection prevention measures and securing raw materials for drug substances and intermediates.
+Preventive measures against COVID-19 have been put in place in each plant, and each and every employee engages in daily manufacturing activities by paying a high level of attention to their own health and actions.
+21 Daiichi Sankyo Group Value Report 2021
+                                 Response of the Supply Chain Division toward an Increase in Demand for 3ADCs
+To maximize the supply of the 3ADCs, which is the key for us to continue to transform into the oncology area, we carried forward capital investment in our in-house plants.
+An ADC consists of (1) an antibody, (2) a drug linker which connects the antibody and the drug, and (3) drug (payload), and its manufacturing process consists of the following four processes: (1) cell culturing process (biotechnology) to manufacture antibodies, (2) synthetic process to link the drug to
+Tatebayashi Plant Onahama Plant
+the linker, (3) conjugation process to link the antibody to the drug linker, and (4) formulation process to freeze-dry the conjugate to make it into a product.
+To ensure future stable supply, we not only strengthen our own manufacturing capacity but also take measures such as acquiring production lines of CMOs (Contract Manufacturing Organizations).
+Hiratsuka Plant
+Value Creation Story
+   Establish a Global CMO Management System for a Stable Supply of ADCs
+We have established and strengthened the foundation of quality assurance and stable supply of ADCs by shifting the CMO management system from a conventional Japan-centered one to a global one, which is based on cooperation with group companies outside of Japan, in order to effectively manage numerous change strategies, such as increase of CMOs and manufacturing scale-up, toward an expansion of demand for ADCs.
+We will also contribute to the stable supply globally by collaborating with concerned parties for efficient, effective, and comprehensive response to regulatory requirements in each country for change control management. Furthermore, we are promoting to introduce an IT system (eQMS) to establish a more robust global quality assurance system.
+Investment Plan to Strengthen Our ADC Manufacturing System
+In consideration of the market launch plan for 3ADCs and the progression of development of DXd-ADC following 3ADCs, we will make a capital investment of up to 300 billion yen to expand supply capacity for ADCs by FY2025. In this plan, we will
+strengthen the global manufacturing and supply system with resilience that enables stable supply even in case of an emergency such as natural disaster or pandemic.
+FY2023 FY2024 FY2025
+ FY2021 FY2022AntibodyAPIFormulation* indicates the timing of investment.
+Daiichi Sankyo Group Value Report 2021 22

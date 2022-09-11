@@ -1,0 +1,1630 @@
+   Effective use of marine resources to create a low-carbon society Kyokuyo Group supports Fun to Share.
+Kyokuyo Co., Ltd.
+3-3-5, Akasaka, Minato-ku, Tokyo, 107-0052, Japan Website https://www.kyokuyo.co.jp/en
+Kyokuyo Group Integrated Report
+2021
+           Kyokuyo Group Integrated Report 2021
+s
+y
+a
+w
+l
+a
+,
+y
+b
+r
+d
+a
+e
+l
+i
+c
+e
+i
+o
+u
+n
+s
+.
+s
+K
+y
+Y
+a
+O
+w
+K
+l
+U
+A
+Y
+O
+      Corporate Philosophy
+Aiming to grow together with society, contributing to a healthy and heart-enriched lifestyle and food culture based on management of human respect.
+Kyokuyo Group Corporate Action Charter
+Everyone at the Kyokuyo Group,
+from top management to each and every employee, acts in accordance with our Corporate Action Charter, based on our Corporate Philosophy.
+❶ As a comprehensive food manufacturing group that contributes to society, we provide products and services with safety and security in order to earn the trust of our consumers and customers.
+❷ We comply with the law, engage in fair, transparent, and free competition, and maintain healthy and normal relationships with government and administration.
+❸ In addition to our consumers, customers, and shareholders, we widely communicate with society and actively disclose corporate information in a fair manner.
+❹ We recognize that tackling environmental problems is essential for the survival of our company and its business, and voluntarily and actively act to do so.
+❺ We strive to maintain an environment where it is easy to work.
+❻ We act as a member of the international community, and strive to contribute to the development of related regions.
+CONTENTS
+Message from the President ...................................................3
+■Value Creation Story
+History of the Kyokuyo Group .......................................................................7 Kyokuyo Group’s Value Creation Process .................................................9 Kyokuyo Group’s Business Development.............................................11 Overview by Business.......................................................................................13 Recognition of the Business Environment ..........................................15 New Medium-Term Business Plan.............................................................17
+■ Business Strategy
+◦Marine Products Purchasing Business .............................................. 21 ◦Food Business .................................................................................................. 23 ◦Tuna Business...................................................................................................25 ◦Logistics Business .......................................................................................... 27
+■ Foundation of Value Creation Kyokuyo Group’s Approach to Sustainability ..................................... 28 Kyokuyo Group’s Promotion of ESG Management.........................30
+Scope
+In principle, the report covers Kyokuyo’s business sites and Group Companies in Japan.
+Please refer to page 1 of the web version “Kyokuyo Group ESG Databook 2021” for the scope of environmental data compilation.
+Period
+Fiscal 2020 (from April 1, 2020 to March 31, 2021)
+* Some information from before and after the targeted period is included.
+Publication Date
+October 2021 (Next: October 2022)
+Reference Guidelines
+◦International Integrated Reporting Framework, International Integrated Reporting Council (IIRC)
+◦Guidance for Collaborative Value Creation, Ministry of Economy, Trade and Industry
+◦Sustainability Reporting Standards, GRI (Please refer to our website for the GRI Standard Comparison Table.)
+Conserving Biodiversity..............................................................................31 Achieving a Carbon-Neutral Society..................................................33 Achieving a Circular Society....................................................................34
+CLOSE UP
+Kyokuyo Group’s Efforts to Reduce Plastic Usage......................35 Society
+Contributing to a Healthy and Heart-Enriched Lifestyle and Food Culture......................................................................................................36
+Supplying Safe and Reliable Products...............................................38 Supply Chain Management.....................................................................39
+Creating a Comfortable Working Environment and Human Resource Development ............................................................................. 40
+Contributing to the Community .......................................................... 41 Governance
+Corporate Governance ............................................................................... 42 Board of Directors and Auditors ..........................................................45 Risk Management .......................................................................................... 46 Compliance........................................................................................................ 47
+■Corporate Information
+Financial Data Highlights .......................................................................... 48 Corporate Data and Stock Information ............................................ 49
+Publisher / Inquiries
+Division of IR, Business Management Department Kyokuyo Co., Ltd.
+Sumitomo Seimei Sanno Bldg., 3-3-5, Akasaka, Minato-Ku, Tokyo 107-0052, Japan
+Tel: +81(3)5545-0715 Fax: +81(3)5545-0752
+Forward-looking Statements
+Forward-looking statements, including forecasts, goals, and plans included in this report, are based on judgments made at the time this document was produced. Actual results may differ from these statements due to various factors such as changes in the future business environment.
+Editorial Policy
+In 2020, the Kyokuyo Group published its first integrated report to comprehensively report on the overall picture of its business and strategy for creating corporate value, with the aim of providing stakeholders with a deeper understanding of the Group.
+This year, in accordance with the basic policy of our medium-term business plan “Build Up Platform 2024” (FY2021 – FY2023) that we launched in April, we focused on conveying the Group’s philosophy and strategy of creating value that society and the Group can share, aiming to change to a high-profit structure that will form the foundation for new growth. This second integrated report was created to provide an understanding of our initiatives for increasing corporate value and achieving sustainable growth.
+In compiling the report, we aimed for a concise and clear format. In addition, ESG information is provided in detail in the ESG Databook 2021. Financial information, our social and global environmental initiatives, products, business activities, etc. not included in this report are available on our company website.
+Website
+https://www.kyokuyo.co.jp/en
+Report Media
+1 Booklet: Kyokuyo Group Integrated Report A comprehensive summary of the Kyokuyo Group’s financial information, initiatives that enhance corporate value, and non-financial information such as business strategies.
+2 PDF: Kyokuyo Group ESG Databook (website) A compilation of ESG-related performance data.
+Business Strategy
+Environment
+Foundation of Value Creation
+Corporate Information
+        1 Kyokuyo Group Integrated Report 2021
+Kyokuyo Group Integrated Report 2021 2
+  Value Creation Story
+
+        Message from the President
+Seeking to change to a high-profit structure by creating value that can be shared by society and the Kyokuyo Group, with a view to continuously increasing corporate value
+Business Strategy Foundation of Value Corporate Information Creation
+■ Results of the previous medium-term business plan and remaining issues
+        ■ Introduction
+We would like to extend our heartfelt sympathy to those affected by the global spread of COVID-19. We would also like to express our gratitude and respect for those who are dedicating themselves to the treatment and prevention of the disease.
+With the prolonged, worldwide spread of COVID-19, people are becoming more anxious and tense, due to the multiple emergency declarations, lockdowns, and protracted stay-at- home lifestyle.
+As a food company, our entire staff – executives and employees alike – will continue making every effort to provide a stable supply of safe, reliable, and delicious products, with the goal of delivering joy and smiles to everyone through food.
+Under our previous medium-term business plan “Change Kyokuyo 2021,” we worked on the basic policy of changing to a high-profit structure as a general food company with a focus on fish products, while aiming to improve corporate value by saving people’s time and expanding business operations in light of societal demands regarding resources, the environment, and labor.
+Our concrete results over the past three years included, in terms of expanding business operations, capital participation in Kuroshio Suisan Co., Ltd., investment in Hasegawa Suisan Co., Ltd., and construction of a new plant in Thailand, and in terms of saving people’s time, expansion of the Dandori Jozu series and enhancement of our lineup of simmered fish. Regarding finance, our equity ratio increased by 7.5 percentage points over the past three years, and we attained the target of 30% set out in our medium-term business plan, thus achieving steady results in a visible way.
+On the other hand, three issues remain.
+One is to stabilize earnings in our marine products purchasing business. In order to minimize the risk of market price fluctuation and ensure stable earnings, we need to strengthen access to resources, increase the percentage of value-added products, enhance our sales expansion with differentiated processed products, and practice thorough purchasing and inventory control.
+The second is to strengthen overseas sales. The export of Japanese marine products is growing year by year with the export of products such as scallops and blue-skinned fish, however the absolute speed is still slow, and there remain major issues in expanding the overseas sales of our products, especially including that of products produced at plants outside Japan. We consider M&As and other options in our overseas sales business, and believe it is necessary to reinforce our overseas sales system as quickly as possible.
+   Although the COVID-19 pandemic is expected to end as more people are vaccinated, supply and demand trends remain uncertain.
+Given this situation, in addition to focusing on expanding sales to mass retailers as before, we will also focus on demand and values that have increased all the more with the establishment of the new normal, as well as new business categories and sales channels such as the development of products with high simplicity and convenience, takeout, home delivery, and online shopping. Moreover, while strengthening market price measures and inventory control in all segments, we are actively expanding the volume of products handled rather than taking a defensive stance.
+          Review of the previous medium-term business plan
+ Developments over the three years
+◦Began airing corporate TV commercials [July 2018]
+We produced our first corporate commercial, in order to enhance our brand.
+◦Opened an in-house childcare facility at the Shiogama Plant of Kyokuyo Shokuhin Co., Ltd. in Miyagi Prefecture [April 2019]
+We opened a childcare facility for our employees and people working in the neighborhood with the dual aims of helping employees to balance childcare and work, and of creating a workplace environment where female employees can work with peace of mind after giving birth.
+◦Established Kyokuyo Global Seafoods Co., Ltd. [April 2019]
+We established the company in Thailand for the purpose of producing simmered and grilled fish and sushi toppings. We aim to increase our market share of simmered and grilled fish.
+◦Joined the Japan Clean Ocean Material Alliance (CLOMA) [April 2019]
+We joined this platform for solving the problem of marine plastic waste.
+◦Ichiyamamaru Hasegawa Suisan Co., Ltd. joined the Group [June 2019] We will expand our food business and strengthen our access to resources by utilizing this company’s seafood purchasing network in Hokkaido and its processing technology.
+◦Kuroshio Suisan Co., Ltd. joined the Group [September 2019] With this company raising red sea bream, Japanese amberjack, white trevally, and other fish through aquaculture in Sukumo Bay, Kochi Prefecture, we aim to diversify our procurement capacity and to maintain and expand a stable supply.
+◦Kyokuyo Suisan Co., Ltd.’s new tuna processing plant started full- scale operation [April 2020]
+We are expanding exports of processed tuna products, which are attracting increasing inquiries from overseas, driven by the popularity of sushi and other Japanese cuisine. We are promoting measures to expand overseas sales.
+◦Kyokuyo Suisan Co., Ltd.’s new plant obtained EU HACCP compliance verification [November 2020]
+The new plant, which began full-scale operation in April, obtained EU HACCP compliance verification for frozen tuna loin, blocks, and saku blocks for raw consumption.
+     3 Kyokuyo Group Integrated Report 2021
+Kyokuyo Group Integrated Report 2021 4
+  Value Creation Story
+  
+        Message from the President
+Business Strategy Foundation of Value Corporate Information Creation
+climate change and its impact on our business activities, and take appropriate action by incorporating said risks into our management strategies.
+We recognize that investors and other stakeholders place importance on management strategies and risk management capabilities for tackling climate change-related risks, and that they require information disclosure.
+The Kyokuyo Group will do its part by working on various measures that help to address climate change issues, such as energy-saving activities and capital investment, and strive to disclose information in line with the recommendations of the Task Force on Climate-Related Financial Disclosures (TCFD)* in order to improve the resilience of our business strategies and risk management capabilities.
+*Task Force on Climate-Related Financial Disclosures: Established by the Financial Stability Board (FSB) at the request of the G20 to consider how best to disclose climate-related information and how financial institutions should respond.
+The third is to scale-up our food business. We recognize that the frozen food business is a market in which increased consumption can be expected in the future. We see it as a must to seek to scale-up with a greater sense of speed while improving the rate of operation of our direct plants. We will develop and deploy high-value-added products unique to Kyokuyo, focusing on marine products produced in the Group’s
+direct plants, such as the Shiogama Plant, Kyokuyo Foods Co., Ltd., and Kyokuyo Global Seafoods Co., Ltd., a new plant in Thailand. In the home-use market, we will focus on marketing to mass retailers, convenience stores, and drugstores. In the commercial-use market, we will focus on sales to health care facilities for the elderly, nursing care routes, offices, school lunches, etc.
+marine environment such as rising sea temperatures, there are risks in the procurement of raw materials, such as the moving of water areas suitable for aquaculture and an increased incidence of infectious diseases due to a decrease in fish immunity in the aquaculture business, and changes in the habitats of fish species and a decrease in the number of species, among other risks in wild fisheries. Similar risks can be expected for other agricultural and livestock products due to drought and flood damage, etc.
+In addition, flood damage caused by heavy rains and extreme weather/climate phenomena may impede daily life and economic activities, causing a variety of risks to the Group’s business activities such as logistics.
+In these ways, climate change has a significant impact on our business activities, making response to it a critical challenge. In order for the Group to continue to conduct business and create value in a sustainable way, we must identify the risks posed by
+      ■ Launch of “Build Up Platform 2024,” our new medium-term business plan to lay a foundation for new growth
+ In light of the issues remaining from our previous medium- term business plan and various social changes, in April 2021 we launched our new medium-term business plan, “Build Up Platform 2024” (FY2021 – FY2023), with the basic policy of “promoting strategies pivoting on ‘continuous efforts to address business issues’ and ‘a challenge for sustainable growth,’ aiming for new growth founded on a ‘change to a high-profit structure’ through the creation of value that can be shared between society and Kyokuyo, while strengthening our management base.”
+Continuous efforts to address business issues
+Among our continuous efforts to address business issues is stabilization of earnings in our marine products purchasing and aquaculture businesses. In both of these businesses, we will expand the scale of operations, and strengthen our development of high-value-added products and differentiated products, and in the aquaculture business, we will improve our technology, including measures against fish mortality.
+Next, we are working on expanding our food business and overseas business. In the food business segment, we reorganized from a product-based organization to a business category-based organization, integrating our production and sales systems, bolstering our product proposal capabilities and our planning and development capabilities, and establishing a system that allows us to firmly promote the sales of our own products as a manufacturer.
+In our overseas business, we will strengthen local sales at our overseas bases and develop markets for products from our own plants in collaboration with the food sector in an effort to expand sales outside Japan. We will also work on strengthening access to resources, such as aquaculture, to maintain and expand the stable supply of marine products.
+A challenge for sustainable growth
+On the other hand, as a challenge for sustainable growth, we will work on product development that focuses on saving people’s time, for which there is high demand, and on strengthening our brand to improve our sales. Of course, we will also pursue the original value of food, which is to enjoy life and feel well.
+We will also work to improve operational efficiency and establish new business models through initiatives for digital transformation (DX) and Carbon Neutrality by 2050.
+Strengthening our management base and practicing ESG management: Addressing social issues
+We will continue to strengthen ESG-focused corporate activities, which have also been incorporated into the business platform under our previous medium-term business plan. Strengthening ESG initiatives to achieve SDGs-related goals will be crucial in future business management, forming its very basis. In addition to carrying out economic activities in pursuit of sales, profit, and other financial metrics, we believe that we must increase corporate value by helping to resolve social issues and become a presence that is needed by society. The Group has formulated the Kyokuyo Group Basic Procurement Policy and we are endeavoring to practice responsible procurement with an awareness of compliance based on our varied impacts on the global environment, working environment, human rights, local communities, etc. In the value chain from procurement, including from aquaculture and fishing, to processing, logistics, and sales, we have implemented such ESG-oriented business activities as reducing CO2 emissions and food loss, and are working on full-life-cycle aquaculture of Pacific bluefin tuna. Going forward, we will continue to bolster these activities and actively work to realize a sustainable fisheries industry, including by reducing marine plastic waste such as fishing nets with specific targets, while taking advantage of our strengths.
+Kyokuyo and climate change
+Among the issues facing society, climate change is a serious problem that affects aquatic environments and water resources including the oceans, natural ecosystems, food, human health, and more in various parts of the world.
+For the Kyokuyo Group, a general food company with a focus on fish products, which represent the bounty of the oceans, the impact of climate change on the marine environment and the risks it brings are major issues connected to our business continuity. For example, due to changes in the
+■ Toward the realization of our corporate philosophy
+   We recognize that our business is based on sustainable marine resources, and that in order to continue to enjoy the benefits of the oceans, we are expected more than ever to cooperate with the international community and conduct activities that take advantage of our business characteristics and strengths.
+Going forward, we will continue to strive to realize our corporate philosophy of “Aiming to grow together with society,
+Makoto Inoue
+President Kyokuyo Co., Ltd.
+contributing to a healthy and heart-enriched lifestyle and food culture” by earning the trust and satisfaction of all stakeholders while passing on to the next generation marine resources that are essential to the diets of people throughout the world.
+We look forward to the continued support of our shareholders, investors, and other stakeholders, and encourage you to have high expectations for the Kyokuyo Group’s sustainable growth.
+Ken Sakai
+Vice President Kyokuyo Co., Ltd.
+           5 Kyokuyo Group Integrated Report 2021
+6
+  Value Creation Story
+  
+     Value Creation Story
+History of the Kyokuyo Group
+Kyokuyo has built up strengths that have contributed to the development of a healthy and heart-enriched lifestyle and food culture by addressing the social issues of each era.
+Business Strategy
+2010s
+Sought resources and business sustainability.
+In 2009, we began shipping farmed Pacific bluefin tuna, followed in 2017 by bluefin tuna raised with full- life-cycle aquaculture, targeting a fishing industry that produces and raises fish, amid calls for appropriate management for the sustainable use of marine resources. In 2019, Kuroshio Suisan Co., Ltd., which raises red sea bream and other species in aquaculture, became a group company, expanding number of fish species in our aquaculture business. In the same year, we established Kyokuyo Global Seafoods Co., Ltd. in Thailand to bolster our supply capacity of frozen simmered fish and grilled fish, which are rated highly for their convenience and whose sales are increasing.
+In 2017, we joined Seafood Business for Ocean Stewardship (SeaBOS), through which we are working with leading companies in the fisheries industry as well as scientists, with the goal of supplying sustainable marine products and realizing a healthy ocean and global environment.
+Foundation of Value Creation
+Corporate Information
+      1937 – 1950s
+Ensured a stable supply of food by securing valuable sources of protein and entering the food processing business.
+Starting with Antarctic Ocean whaling in 1938, we went into the trawling business in 1942 and the North Pacific mothership-type salmon and ocean trout business in 1954. After the Second World War, with a tight food supply in Japan, our main business was fishing on our own ship to secure valuable sources of protein. Then in 1949, we began manufacturing canned products in Shiogama, Miyagi Prefecture, thus taking the first step in the food processing business and contributing to a stable supply of food.
+Origin of our company name
+Kyokuyomeans“polaroceans,”indicating the oceans near the Arctic and Antarctic. It also represents the spirit expressed by the ancient Chinese Daoist philosopher Chuang Tzu when he described the imaginary gigantic bird, Peng taking flight to the southern darkness, the ocean at the end of the world to the south. This is a metaphor for undertaking a great enterprise. It
+expressed our grand idea of whaling in the Antarctic Ocean.
+1937 • Established Kyokuyo Hogei Co., Ltd.
+1942 • Began trawl net fishing
+1949 • Started manufacturing canned products at the East Japan Branch (Shiogama, Miyagi Prefecture)
+1954 • Began mothership-type fishery for salmon and ocean trout in the northern Pacific
+1960s – 1970s
+Diversified our fishing business and expanded overseas. And with the start of frozen foods production, developed a full-scale processed foods business.
+In 1962, we began deep-sea trawling operations, and after getting into fishing for squid, octopus, Pacific ocean perch, shrimp, etc. we began the tuna purse-seine fishing business in 1973. In 1963, we began purchasing and importing Alaskan salmon roe, entering the overseas purchasing business ahead of other Japanese companies. In 1971, we established our first overseas subsidiary in Seattle, the United States, and embarked on an overseas expansion. That same year we also entered the cold storage business, delivering marine products to Japan from all over the world.
+In 1970, we began manufacturing frozen foods at the Hiratsuka Plant, entering the processed foods business in earnest.
+Ultra-low-temperature frozen Benitoro
+Launched in the 1970s, Kyokuyo’s hit product Benitoro is a home-use frozen product for raw consumption as sashimi and sushi. It was created by using ultra-low-temperature freezing, which had been developed at that time mainly as a freezing technology for tuna, for red salmon
+caught in the Bering Sea in the North Pacific.
+1980s – 1990s
+Responded to stricter regulations and changing demands accompanying lifestyle changes.
+In the latter half of the 1970s, the fishing business reached a turning point with the 200-nautical- mile restriction. In order to complement fishing, we expanded our trading business and domestic purchasing business and enlarged our processing and frozen foods businesses.
+In the 1980s, as part of this effort, we began manufacturing and marketing products such as shelled shrimp, Ocean King imitation crab meat, seafood mix, and salted salmon.
+Lifestyles also began to change with the advance of women’s empowerment, as symbolized by the Equal Employment Opportunity Act, which came into effect in 1986. With this, the restaurant industry and the ready-made meals industry including deli dishes and processed foods expanded.
+In 1987, we added a product development plant at the Shiogama Plant of Kyokuyo Shokuhin Co., Ltd. in order to meet the rapidly increasing demand for frozen foods. In 1991, we opened the Shiogama Laboratory and in these ways we have established a system in keeping with the trends of the times.
+* 200-Nautical-Mile Exclusive Fishing Zone: A 200-nautical-mile (about 370 km) zone from the coast set by littoral countries claiming that area as their own fishing resource. Countries began implementing this claim in late 1970. Canada, the then-EC, and Norway implemented it in January 1977, followed by the United States and the then-Soviet Union in March. Japan also claimed its zone in July of the same year.
+2000s
+Made Kyokuyo into a glob- al company.
+Under the prolonged deflation that followed the bursting of Japan’s bubble economy, we reinforced our overseas production bases, including affiliated plants in China, Southeast Asia, and elsewhere in search of competitive pricing for our processed foods.
+In 2006, the Group completed its first overseas plant in Thailand to manufacture sushi toppings and frozen sushi. We also enhanced our overseas bases with the aim of strengthening the purchasing of marine products and marketing processed products outside Japan. We opened representative offices in Vietnam in 2002 and the Netherlands in 2005, and established overseas group companies in China in the same year and in the Netherlands in 2006.
+In 2006, we started obtaining Chain of Custody (CoC) certifications from the Marine Stewardship Council (MSC) and the Aquaculture Stewardship Council (ASC), and began global initiatives in terms of traceability as well. The scope of certification is still expanding, and as of April 2021, the Group has registered 34 fish species with MSC and seven with ASC.
+2002 • Opened the Ho Chi Minh Representative Office in Vietnam
+2005 • Opened the Amsterdam Representative Office in the Netherlands
+• Established a Group company for the purchasing and marketing of frozen foods in China
+2006 • Completed a new plant for a joint venture company in Thailand to produce sushi toppings and frozen sushi
+• Established a Group company for the purchasing and sales of frozen foods in the Netherlands
+• Acquired the initial MSC certification in our company for Alaskan red salmon
+2009 • Made first shipment of “Hon-Maguro no Kiwami,” our brand of farmed Pacific bluefin tuna
+The Kyokuyo Group will continue its journey with society, doing its part for a sustainable world by pursuing sustainable growth and creating shared value with society.
+Red sea bream shipped live in a case with partitions so as not to harm each other
+Kyokuyo Group’s strengths built up over 80 years
+Knowledge and experience
+Technology
+Procurement
+Sales capabilities
+Relationships of trust with customers
+                                      7 Kyokuyo Group Integrated Report 2021
+Kyokuyo Group Integrated Report 2021 8
+1962 • 1963 •
+1970 • 1971 •
+Began pelagic trawling operations
+Began imports of Alaskan salmon roe, entering the overseas purchasing business
+Began production of frozen foods at the Hiratsuka Plant in Kanagawa Prefecture
+Established our first overseas subsidiary, in
+1977 •
+1981 •
+1984 •
+1991 •
+1999 • Opened the Qingdao Representative Office in China
+2013 • Announced Sea Marché home-use product brand
+2014 • Began frozen foods for home-use business
+2017 • Completed first shipment of bluefin tuna raised with full- life-cycle aquaculture
+• Joined SeaBOS
+2019 • Made marine products processing and farming business
+companies into Group companies
+• Established a new company in Thailand as a production
+base for simmered and grilled fish
+2020 • New tuna processing plant began operation, and obtained EU HACCP compliance verification
+1973 •
+Began tuna purse-seine fishing business
+the United States.
+• Began cold storage business
+Established Shiogama Laboratory (now Product Development Division Laboratory)
+Countries claimed a 200-nautical-mile exclusive fishing zone*
+Completed the Shin-Shiogama plant of Kyokuyo Shokuhin Co., Ltd. as a frozen foods plant
+Established Kyokuyo Foods Co., Ltd. mainly to manufacture Ocean King imitation crab meat
+  Value Creation Story
+
+    Value Creation Story
+Kyokuyo Group’s Value Creation Process
+In order to realize its corporate philosophy, the Kyokuyo Group incorporates social issues and changes in the business environment into its medium-term business plan, and practices ESG management that addresses issues through ESG- focused business activities.
+We further aim to do our part to realize a sustainable society while enhancing our corporate value.
+Business Strategy
+Foundation of Value Creation
+Corporate Information
+   Changes in the business
+environment (social issues) (➡P15)
+Shortage of labor at manufacturing sites and food preparation environments
+Efforts to achieve carbon neutrality in 2050 Growing awareness of human rights and the diversity of society
+Worsening environmental issues, including climate change and marine pollution
+Change to a high-profit structure
+Creating value shared by both society and Kyokuyo
+◦Conserving biodiversity
+◦Achieving a carbon-neutral and circular society
+◦Contributing to a healthy and heart-enriched lifestyle and food culture
+Four business fields (➡P11)
+Outcomes (created value)
+Social value (➡P17-20) Contributing to a healthy
+and heart-enriched lifestyle and food culture
+Creating a workplace environment that respects human rights and emphasizes diversity
+Helping to build a sustainable society
+Stably delivering the rich bounty of the oceans to dinner tables
+Output
+Economic value
+[Medium-term business plan target: Fiscal year ending March 31, 2024]
+◦Net sales: ¥300 billion ◦Operating profit: ¥7.0 billion ◦Ordinary profit: ¥6.5 billion ◦Overseas net sales: ¥30.0 billion ◦D/E ratio: 1.5
+◦Operating income margin: Over 2% ◦Ordinary income margin: Over 2%
+Kyokuyo Group’s Vision
+A corporate group that contributes to a healthy and heart-enriched lifestyle and food culture and grows with society
+For consumers
+Contributing to a healthy and heart- enriched lifestyle and food culture for people
+For the global environment
+Realization of sustainable fisheries
+For employees
+A vibrant company that respects the individuality and creativity of its employees
+   ◦ Growing global demand for marine products
+◦ Changes in the Japanese market due to a declining birthrate, aging population, and
+women’s empowerment
+◦ Changes in food lifestyles and the need for
+frozen foods
+◦ Increasing interest in food safety and reliability
+Input
+Capital
+Financial capital
+◦ Shareholders’ equity: ¥35,300 million Intellectual capital
+◦ R&D expenditure: ¥336 million
+◦ Production and processing technology
+◦ Marine product expertise
+◦ Comprehensive strength as fishery professionals
+Human capital
+◦ Consolidated employees : 2,313
+Natural capital
+◦ Marine products, other raw materials ◦ Energy
+◦ Water resources
+Manufacturing capital
+◦ Capital investment: ¥2,456 million ◦ Manufacturing sites: 17*
+◦ Cold-storage capacity: 52,090 tons ◦ Purse seiners: 5
+◦ Aquaculture farms: 5 locations (4 companies) *Including affiliated companies
+Social and related capital
+◦ Procurement network
+◦ Relationships of trust, cooperation, and
+collaboration with suppliers
+◦ Sales networks in and outside Japan ◦ Participation in initiatives
+◦
+◦ ◦
+◦
+◦ Acceleration of ESG investment
+◦ Growing requests for information disclosure
+  based on TCFD recommendations  ◦ Development of IT technology
+◦ Accelerating digital transformation (DX)
+     Strategy
+(➡P17)
+Medium-term business plan “Build Up Platform 2024”
+          Business strategies (➡P21-27) Value chain (➡P11)
+                 ❶ ❷ ❸
+❹
+Continuous efforts to address business issues
+Expanding food business Expanding overseas business
+Stabilizing earnings in our marine products purchasing and aquaculture businesses
+Strengthening access to resources
+A challenge for sustainable growth
+❶ Enhancing product development and branding capabilities
+❷ Focusing on gourmet food ❸ Accelerating digital
+transformation (DX)
+❹ Initiatives for carbon neutrality in 2050
+   Strengthening of our management base (business, financial, and human resource bases) and ESG-focused management
+Corporate Philosophy (➡P1)
+   9
+Kyokuyo Group Integrated Report 2021
+Kyokuyo Group Integrated Report 2021 10
+ Value Creation Story
+Aquaculture, fishing, procurement (purchasing)
+Marine Products Purchasing Business
+R&D
+Processing and quality control Logistics and storage Sales and proposals
+Food Business Tuna Business Logistics Business
+
+      Value Creation Story
+Kyokuyo Group’s Business Development
+As a general foods company with a focus on marine products, we conduct integrated operations from procurement to processing and sales.
+Since starting as fishing company in 1937, we have been harnessing our comprehensive strengths cultivated over many years to deliver the bounty of the oceans to dinner tables worldwide – from the world to Japan, and from Japan to the world.
+Value Creation Story
+Business Strategy
+Foundation of Value Corporate Information Creation
+Always nearby, always delicious. KYOKUYO – From the world’s oceans to
+your home table –
+These are just some of the places where we deliver deliciousness:
+◦Fresh fish stores ◦Sushi bars ◦Restaurants ◦Hotels ◦Izakaya (Japanese-style pubs) ◦Bento shops ◦Fast food restaurants ◦Drugstores
+◦Supermarkets (seafood, deli, frozen foods, canned products, and snacks sections) ◦Convenience stores ◦School lunches
+◦Employee cafeterias ◦Hospitals ◦Nursing care facilities
+◦Home delivery food services for the elderly
+▶Restaurants ▶Retail ▶Ready-made meals
+Customers
+Logistics Business
+◦Operating logistics services such as cold storage for food and arrangement of deliveries from warehouses
+◦Engaging in the management of raw materials and processed products, including those of Kyokuyo Group, at three refrigerated warehouses in Ohi and Jonanjima in Tokyo, and Fukuoka
+ Tuna Business
+12.0%
+Shelf-Stable Foods Business
+7.7%
+Frozen Foods Business
+32.1%
+Storage
+Composition ratio of sales by business (FY2020)
+Logistics Business
+0.4%
+Marine Products Purchasing Business
+47.8%
+ Fishing
+Purchasing
+R&D
+Production and processing
+million yen
+Logistics
+Aquaculture
+249,197
+                               Value chain
+Four business fields
+Procurement
+Processing
+Sales
+Tuna Business
+   Marine Products Purchasing Business
+Food Business Tuna Business
+    Logistics Business
+                Marine Products Purchasing Business
+◦Stably procuring high-quality marine products from the world’s oceans through mutual partnerships with domestic and foreign branches, business offices, representative offices, and subsidiaries to provide fillets, shelled/peeled products, and more
+◦Exporting seafood caught in Japan, and engaging in offshore trade
+Food Business
+       11
+Kyokuyo Group Integrated Report 2021
+Kyokuyo Group Integrated Report 2021 12
+Foodservice Business
+◦Selling products for raw consumption, mainly sushi toppings, to restaurant chains, etc.
+◦Selling products for heating such the “Dandori Jozu series” that are easy to prepare as meals for assisted living facilities and hospitals
+◦Selling products ranging from fried marine products and imitation crab meat to livestock products and frozen vegetables to restaurant channels and deli departments at mass retailers
+Retail and Consumer Food Business
+◦Selling frozen foods such as simmered fish, grilled fish, rice, etc. in addition to our Sea Marché product brand to convenience stores and mass retailers
+◦Shelf-stable foods segment (canned products, etc.), which has a long history that began in 1949
+◦Health products such as glucosamine and DHA supplements
+◦Procurement, production, and sales system with integrated operations from fishing and farming to purchasing, processing, and sales of skipjack and other tuna
+◦Processing of skipjack and other tuna into various products at Group company plants to meet the needs of the restaurant industry and supermarkets
+  ◦Drawing on our independent sourcing capabilities for skipjack with the Group’s purse- seiners such as the Wakaba Maru, and operating an aquaculture business in Shikoku* to conserve limited marine resources and ensure a stable supply of tuna; selling “Hon-Maguro no Kiwami TUNAGU,” a brand of Pacific bluefin tuna raised with full-life-cycle aquaculture that does not rely on natural spawning
+*one of Japan’s major islands consisting of four prefectures: Ehime, Kagawa, Kochi and Tokushima
+◦Started aquaculture of fish species other than bluefin tuna when Kuroshio Suisan Co., Ltd., which raises red sea bream and other species in aquaculture, became a group company
+
+     Value Creation Story
+Overview by Business
+In fiscal 2020, the final year of our previous medium-term business plan “Change Kyokuyo 2021,” the spread of COVID-19 caused economic activity to stagnate, resulting in a significant impact on private consumption and employment. In the fisheries and food industries, the impacts included changes in consumer needs and purchasing trends due to the penetration of new lifestyles, self-restraint in going out, and shortening of business hours at restaurants. Our efforts under these circumstances to achieve our targets resulted in lower net sales but higher profit than in the previous fiscal year. An overview of each business follows.
+Net sales Operating profit Ordinary profit
+Fiscal 2021 measures
+256.1 billion yen 3.8 billion yen 4.4 billion yen
+Business Strategy Foundation of Value Creation
+262.5 billion yen 2.9 billion yen 3.6 billion yen
+Corporate Information
+249.1 billion yen 4.6 billion yen 4.8 billion yen
+ FY2018
+ FY2019
+ FY2020
+                Market environment and fiscal 2020 performance
+Net sales/segment profit (consolidated)
+    Sales down Profit up
+◦Fall in exports of Japanese marine products and sales at overseas subsidiaries due to the global spread of COVID-19 ◦Decline in restaurant and wholesale demand in Japan due to self-restraint in going out ◦Increased handling of salmon and trout, which remained in the low-price zone, securing higher
+profits than planned
+◦Improved profits with high-priced products such as crabs and shrimp performing well in the
+end-of year sales battle
+◦Based on market conditions, purchasing that matches sales and thorough inventory control
+◦Ensuring stable earnings by establishing sales routes for our high-value-added products
+◦Strengthening local sales at overseas bases and developing overseas markets for our products from our own plants in collaboration with the food sector
+Net sales
+(Billion yen)
+147.0
+Segment profit
+(Million yen) ■Operating profit 6,000
+Operating income margin (%)
+150.0 100.0 50.0
+130.8
+124.9
+127.1
+118.9
+2.6 3,067
+3 2 1
+    0.0 0 0 2017 2018 2019 2020 Previous target (FY) 2017 2018 2019 2020 Previous target (FY)
+4,000
+2,000
+2.0 2.0
+2.0 3,000
+2,612
+2,444
+1.4 1,750
+   Coho salmon
+Tuna Business
+Hon-Maguro no Kiwami TUNAGU
+Logistics Business
+Tokyo plant of Kyokuyo Akitsu Reizo Co., Ltd.
+   Frozen Foods Business
+   Sales down Profit down
+◦Growth in sales of frozen foods for home use to drugstores
+◦Gradual recovery in sushi toppings and raw consumption food products, but not enough to
+compensate for the overall year-on-year decline
+◦Bolstering sales capabilities by reorganizing to shift from a product-based organization to a business category-based organization
+◦Streamlining operations of our plants by consolidating items
+◦Developing chilled-product channels by establishing processing sites in various parts of Japan
+◦Developing high-value-added products
+Net sales
+Segment profit
+ (Billion yen)
+120.0 80.0 40.0
+(Million yen)
+3,000 2,000 1,000
+■Operating profit
+Operating income margin (%)
+   ◦Downturn in sales of shrimp fritters and fried marine products due to a decline in restaurant and wholesale demand
+100.0
+3 2.3 2
+1
+ 74.3
+82.4
+79.7
+84.9
+2,300
+0.0 0 0 2017 2018 2019 2020 Previous target (FY) 2017 2018 2019 2020 Previous target (FY)
+1.2 897
+1.1
+932
+1.1
+949
+1.1
+849
+  Dandori Jozu mackerel fillets (boneless)
+  Shelf-Stable Foods Business
+  Sales down Profit up
+◦Increase in demand for canned products with stockpiling due to declarations of a state of emergency
+◦Strong performance in delicacy products due to factors including an increase in demand for drinking at home and the launch of new products
+Net sales
+Segment profit
+(Billion yen)
+30.0 20.0 10.0
+(Million yen)
+1,500 20.0 1,000 500
+■Operating profit
+Operating income margin (%)
+      18.9
+18.9
+19.3
+19.0
+3.6 705
+4.4 835
+6
+4
+2.5
+500 2
+0.0 0 0 2017 2018 2019 2020 Previous target (FY) 2017 2018 2019 2020 Previous target (FY)
+1.9
+363
+2.5 482
+    (left) American (Alaskan) boiled red salmon (right) DHA/EPA Plus Krill Oil
+       Sales up Profit up
+Overseas Purse-seine Fishing Business: ◦Low skipjack prices
+Aquaculture Business: ◦Growth in sales of Japanese farmed Pacific bluefin tuna
+Processing and Marketing Business: ◦Strong performance in sales of products such as Negitoro, primarily to mass retailers
+◦Selling high-value-added products by strengthening coordination with our own plants
+◦Increasing operational efficiency of Overseas Purse-seine Fishing Business
+◦Providing a stable supply of farmed bluefin tuna and expanding sales of farmed red sea bream
+Net sales
+(Billion yen)
+60.0
+40.0
+29.1
+20.0
+0.0
+2017
+Segment profit
+(Million yen) ■Operating profit 1,500
+Operating income margin (%)
+6 4
+1.7
+506
+2020 Previous target (FY)
+    28.4
+2018
+29.6 29.9
+32.0 1,000 500 0
+1,029
+3.5 737 2.6
+1,200 3.8
+0.7 2018 2019
+213
+2 0
+  2019 2020 Previous target (FY)
+2017
+      Sales up Profit up
+◦Initial slowdown in the movement of goods due to COVID-19
+◦Increased handling volume with focus on the collection of high-turnover cargo
+◦Strengthened distribution business by expanding our network of contracted transport companies
+◦Stabilizing the Group’s inventory-centered earnings base and operating warehouses efficiently
+Net sales
+(Billion yen)
+1.5
+1.0 1.0
+0.5
+0.0
+2017
+Segment profit
+   0.9
+2018
+0.9 1.0 2019 2020
+26.7 248
+2017
+24.0 265
+31.9 315
+60
+34.2 40 369
+(Million yen)
+600 400 200
+0
+■Operating profit
+Operating income margin (%)
+  (FY)
+2018 2019
+2020
+20 0
+(FY)
+  13
+Kyokuyo Group Integrated Report 2021
+Kyokuyo Group Integrated Report 2021 14
+Marine Products Purchasing Business
+   Value Creation Story
+
+     Value Creation Story
+Recognition of the Business Environment
+In order to continuously improve our corporate value, we must accurately grasp changes in the business environment and identify the impact (opportunities and risks) on the Kyokuyo Group’s business sustainability.
+We will then incorporate these changes into our strategies (medium-term business plan) and roll out ESG-focused business activities.
+FOCUS
+Unchanging demands for “food”
+◦Safe and reliability ◦Deliciousness and quality Lifestyle changes
+◦Changes in family structure ◦Increase in dual-income households ◦Increase in single people ◦Increase in the proportion of the elderly
+In addition to safety and reliability, quality, taste, and quantity, it is becoming more important to save people’s time, such as with products that reduce cooking time, are convenient and easy to eat, and facilitate logistic efficiency.
+“Enjoying life.”“Feeling well.” Commitments and innovations that promote the joys of food
+FOCUS
+“New normal” sparked by the COVID-19 pandemic
+◦Increase in eating at home and with the family ◦Popularization of home delivery and takeout
+Business Strategy
+Foundation of Value Creation
+Corporate Information
+ ◦: Opportunities
+◎: Risks
+ Business environment
+◦Growing global demand for marine products
+Opportunities and risks for the Kyokuyo Group
+◦Booming overseas Japanese cuisine, increasing demand for marine products ◎Increasing procurement costs due to intensified purchasing competition ◎Decrease and depletion of fishery resources
+   ◦Changes in food lifestyles
+◦Increasing “food” options, including restaurants, ready-made meals, and eating at home
+◦Declining birthrate and aging population
+◦Changing need for frozen foods
+◦Growing need for health-oriented products and functional foods ◦Growing need for foods for the elderly, such as soft foods and those that are
+easy to swallow
+◦Growing personal preferences
+◦Expectations for rebound demand after COVID-19 pandemic ◎Decrease in selling loose items in deli sections in supermarkets ◎Decrease and contraction in demand at fresh food markets ◎Decrease in sales due to delay in responding to changes
+   ◦Increasing interest in food safety and reliability
+◦Earning customer trust by improving quality
+◦Earning trust by promoting accurate and prompt information to customers ◎Increase in costs for system construction
+◎Decrease in customer trust due to product quality complaints and trouble
+   ◦Shortage of labor at manufacturing sites and food preparation environments
+  ◦Growing awareness of human rights and the diversity of society
+◦Opportunities to review processes, including equipment
+◎Impact on health and safety management and increase in risk of occupational
+accidents
+◎Decrease in productivity and quality due to increased working hours ◎Increase in labor and logistics costs
+ ◦Improving productivity by creating a comfortable working environment ◦Increasing creativity by securing diverse human resources
+◦Changing from an organization that “gathers human resources” to one “where
+human resources gather”
+◎Increased risk of human rights violations
+◎Reduced employee motivation and operational efficiency due to delays in response ◎Loss of human resources due to delays in response
+   ◦Carbon neutrality in 2050
+◦Worsening environmental issues, including climate change and marine pollution
+◦Increased demand for sustainable marine products
+◦Earning the trust of society by being responsive
+◎Increase in costs for preventing pollution and reducing environmental impact,
+including responding to the plastics issue
+◎Damage to corporate value due to delays in responding to the construction of
+sound supply chains
+◎Impact on fishery resources, and destabilization of the supply system ◎Suspension of management activities due to natural disasters, and damage to
+corporate value
+   ◦Acceleration of ESG investment
+◦Growing requests for information disclosure based on TCFD recommendations
+ ◦Development of IT technology
+◦Accelerating digital transformation (DX)
+◦Improving corporate value and performance through ESG management ◎Concerns about corporate strategy resilience and risk management capabilities
+  ◦Improving operational efficiency and sophistication by introducing new technologies
+◦Visualizing production and marketing technologies, and improving sustainability through leveling
+◎Increase in cost of building compatible systems ◎Changes in sales channels, and loss of sales opportunities
+       Creating shared value for society and the Kyokuyo Group
+         15 Kyokuyo Group Integrated Report 2021
+Kyokuyo Group Integrated Report 2021 16
+  Value Creation Story
+
+    Value Creation Story
+New Medium-Term Business Plan “Build Up Platform 2024”
+Basic Policy
+To promote strategies pivoting on “continuous efforts to address business issues” and “a challenge for sustainable growth,” aiming for new growth founded on a change to “a high-profit structure” through the creation of value that can be shared between society and Kyokuyo, while strengthening our management base.
+In April 2021, the Kyokuyo Group launched its new medium-term business plan, “Build Up Platform 2024” (FY2021 – FY2023). Based on the above basic policy, we will promote our business forward while fulfilling our responsibilities to help realize a sustainable society, including ESG and the SDGs.
+Business Strategy
+Foundation of Value Creation
+Corporate Information
+Targets and results of our previous medium-term business plan “Change Kyokuyo 2021”
+  Targets
+ FY2020 (actual)
+ Variance
+  Net sales
+Operating profit
+Ordinary profit
+Overseas net sales percentage Return on equity (ROE)
+Equity ratio
+Debt-to-equity ratio (D/E ratio)
+¥300.0 billion ¥6.0 billion ¥6.0 billion
+15% 10% 30%
+1.7 or less
+¥249.1 billion ¥4.6 billion ¥4.8 billion
+9.1% 10.5% 34.7%
+1.4
+¥(50.8) billion ¥(1.3) billion ¥(1.1) billion
+-5.9 points +0.5 points +4.7 points +0.3 points
+                          ■ Review of the previous medium-term business plan (FY2018 – FY2020)
+ Overview of the new medium-term business plan “Build Up Platform 2024”
+ Issue
+ Expansion strategy
+  ◦Sluggish growth in the Food and Overseas Businesses
+ Strengthening strategy
+◦Accelerate development of products that meet market needs
+ Balance strategy
+ ◦Respond to risks of market fluctuations and business environment changes
+      Outcome
+ Expansion strategy
+ ◦Improved corporate branding capabilities with commercials
+ Strengthening strategy
+◦Invested to strengthen access to resources
+ Balance strategy
+  ◦Improved financial structure by improving equity ratio and D/E ratio
+        Various social issues
+Change to a high-profit structure
+Creating shared value for society and the Kyokuyo Group
+◦Conserving biodiversity
+◦Achieving a carbon-neutral and circular society
+◦Contributing to a healthy and heart-enriched lifestyle and food culture
+Various social issues
+ Continuous efforts to address business issues
+Expanding Food and Overseas Businesses Stabilizing earnings of Marine Products Purchasing and Aquaculture Businesses Strengthening access to resources
+1. Expanding Food Business
+While the Food Business has been growing steadily, it has been greatly affected by COVID-19, since marketing had centered on wholesale. Going forward, in addition to conventional products for commercial use, we will need to focus on expanding products for home use and on diversifying channels that can respond flexibly to changes in the environment.
+Through reorganization, we will clarify the division of roles for expanding our Food Business, create safe and reliable products, increase the production scale and productivity of our own plants, expand sales channels through mass retailers, home delivery, and e-commerce sites, and reduce expenses centered on logistics costs in order to increase the profitability of the Food Business.
+  Continuous efforts to address business issues
+Expanding Food and Overseas Businesses Stabilizing earnings of Marine Products Purchasing and Aquaculture Businesses
+Strengthening access to resources
+A challenge for sustainable growth
+Enhancing product development and branding capabilities Focusing on gourmet foods
+Accelerating digital transformation
+Carbon neutrality by 2050
+Evolution and deepening of the previous medium-term business plan’s “expansion,” “strengthening,” and “balance” strategies
+2. Expanding Overseas Business
+Our Overseas Business has grown significantly with exports of Japanese marine products and marketing expansion by our U.S. subsidiary, however the impact of COVID-19 overseas was larger than that in Japan, resulting in a year-on-year decrease in the percentage of overseas sales.
+However, since we expect the Overseas Business to grow more than the shrinking Japanese market after COVID-19 pandemic ends, we must continue to strengthen overseas marketing. Therefore, we will bolster our marketing structure, including by establishing new overseas bases and developing business partners is needed. In addition, we will actively handle third-party-certified products, acquire various certifications at our manufacturing plants, and develop products for overseas marketing to expand sales of our products.
+ Strengthening our management base (business, financial, and human resources bases) and ESG-focused management
+Targets (Billion yen)
+Net sales Operating profit
+Ordinary profit
+Operating profit margin and ordinary profit margin Overseas net sales
+Debt-to-equity ratio (D/E ratio)
+FY2023 targets
+300.0 7.0 6.5
+Over 2.0%
+30.0 1.5
+Targets by segment (Billion yen)
+Marine Products Purchasing
+Food (Frozen + Shelf-Stable)
+Tuna 33.0 1.4
+  Net sales
+Segment profit
+    142.0 3.6 124.0 3.0
+            Other 1.0
+Total 300.0 7.0
+(1.0)
+        17
+Kyokuyo Group Integrated Report 2021
+Kyokuyo Group Integrated Report 2021 18
+ Value Creation Story
+
+    Value Creation Story
+3. Stabilizing earnings of Marine Products Trading and Aquaculture Businesses
+Our Marine Products Purchasing Business boasts many years of experience and strength in collaborative marketing with suppliers. It is a foundation of Kyokuyo’s earnings, but it still faces challenges in stabilizing earnings, such as posting losses due to significant fluctuation in fish prices.
+In addition to expanding the scale of our business by, among other efforts, establishing new marketing routes targeting household consumption and diversifying the types of fish we handle, we will bolster our development of high-value-added products and differentiated products that are not affected by market conditions. We will also increase inventory turnover and reduce business risks by thoroughly managing purchasing.
+Furthermore, in the aquaculture business, in addition to
+A challenge to cope with changes under the new normal
+1. Enhancing product development and branding capabilities
+With changes in food lifestyles due to factors such as more people living alone, more dual-income households, and a higher proportion of senior citizens, the demand for “time value,” such as quicker and easier preparation is stronger than ever. Even with products for commercial use, the need is increasing at restaurants and nursing care facilities with their serious shortages of labor. Accordingly, we will rapidly drive R&D and product development focused on saving people’s time. It is also essential that we reinforce our branding capabilities for the marketing of foods for home use. In order to raise awareness of the Kyokuyo brand and our home-use product brand Sea Marché, we will conduct advertising and publicity activities through various media such as TV commercials and social media.
+A scene from our TV commercial
+improving our aquaculture skills including measures against fish mortality and improved feed, we will make unified efforts in production and marketing to develop solid sales channels, increase the ratio of value-added products, and take other steps to stabilize earnings.
+4. Strengthening access to resources
+The sustainable use of marine products requires appropriate management of marine resources, with traceability considered essential for resource conservation. We are diversifying our procurement capabilities, including with our own overseas purse-seine fishing business and aquaculture business, including full-life-cycle aquaculture of Pacific bluefin tuna, and we will continue strengthening access to resources in order to maintain and expand a stable supply of products.
+A challenge for sustainable growth
+Enhancing product development and branding capabilities Focusing on gourmet foods
+Accelerating digital transformation
+Carbon neutrality by 2050
+2. Focusing on gourmet foods
+While the need for quicker and easier preparation is increasing, as a new lifestyle triggered by COVID-19 permeates society, innovations to enjoy life are appearing everywhere. This includes food, where attention to quality ingredients and the roles of food in enjoying life and feeling well are being rediscovered. Along with saving people’s time, we will expand Sea Marché brand products that focus on ingredient and flavor innovations, and utilize feedback from diverse consumers in our product development. By pursuing the value of “food to enjoy life,” we will aim to realize our corporate philosophy of contributing to a healthy and heart-enriched lifestyle and food culture.
+3. Accelerating digital transformation
+The environment surrounding corporate management, including COVID-19 and disasters caused by extreme weather, is increasingly uncertain. We will therefore promote digital transformation and work to build new business models while improving our operational efficiency and sophistication, including through the digitalization of operations and the development of efficient production lines and advanced quality control methods.
+4. Initiatives toward carbon neutrality by 2050
+The Kyokuyo Group has been working to reduce CO2 emissions by reducing electricity consumption, mainly at group plants. Going forward, we will push carbon offset initiatives such as
+Business Strategy Foundation of Value Corporate Information Creation
+product development that uses AI and keeps food-loss reduction in mind, development of ethical feed, and the use of biomass power generation, aiming for carbon neutrality in 2050.
+ Strengthening our management base (business, financial, and human resources bases) and ESG-focused management
+1. Strengthening our business base
+We have expanded our business base in a number of ways, including investing in an aquaculture company that farms fish species such as red sea bream and making capital investment in a manufacturing subsidiary in Thailand. Going forward, we will continue to make effective use of our business base and to expand it through active new investments.
+Exterior of plant at Kyokuyo Global Seafoods Co., Ltd.
+2. Strengthening our financial base
+Through stable earnings and efficient use of business assets such as inventories, our financial base, including our equity ratio, has steadily strengthened. Going forward, we will strive to continue this process by building up stable profits, and we will allocate funds earned through our business activities in a balanced manner, including dividends to shareholders, active investments, and reduction of interest-bearing debt.
+3. Strengthening our human resources base
+In order to expand our business in an era of rapid change, we must create an environment where diverse human resources can play an active role. We respect a variety of work styles conducive to work-life balance, including less overtime, taking of paid leave, shorter working hours, and remote working, and will strengthen our human resources base by improving the working environment, strengthening human resource development, and reforming our personnel systems.
+4. ESG-focused management
+Strengthening efforts to achieve the Sustainable Development Goals (SDGs) set out by the United Nations will be crucial in future corporate management, forming its very basis. In addition to pursuing economic value such as sales and profits, we must increase our corporate value by pursuing social value that helps to solve social issues, becoming a presence that is needed by society.
+In terms of the environment, we will increase the sustainability of marine resources and ensure the stable supply of marine products through participation in SeaBOS, efforts to address marine plastic waste, acquisition of various certifications, effective use of remnants and processing residues, and responsible procurement initiatives with suppliers (Kyokuyo Group Basic Procurement Policy). In addition, we will strive to revitalize local communities through communication, respond to social demand, and create a comfortable working environment. In order to make aggressive management decisions and increase our corporate value, it is essential not only to ensure thorough compliance but also to practice good governance. We will strive to ensure management efficiency and transparency, aiming to be a company trusted by society by actively disclosing information and improving communication with stakeholders.
+Through the above strategies, we will create shared value and contribute to a sustainable society by actively providing our value as a general foods company in response to constantly changing consumer needs and societal demands. In addition, by using various strategies to develop value shared by society and Kyokuyo as businesses, we will stabilize our earnings through expanded business and improved profit margins, in an effort to change to a high-profit structure.
+   19 Kyokuyo Group Integrated Report 2021
+Kyokuyo Group Integrated Report 2021 20
+ Value Creation Story
+
+    Business Strategy
+Marine Products Purchasing Business
+Value Creation Story Foundation of Value Corporate Information Creation
+◦Addressing issues from our previous medium-term business plan
+    Strengths of our Marine Products Purchasing Business
+◦“Group-wide integrated system” from procurement to processing and sales
+◦Networks in and outside Japan
+◦Knowledge and know-how accumulated in each of the Group’s segments
+We will continue to increase the ratio of our value-added products for hedging against raw material inventory risks, secure stable profits, and improve sales expansion of our differentiated processed products. Going forward, we will continue to stabilize the supply of raw materials, strengthen access to resources, including diversification of purchasing sources, and develop processing capabilities that meet the market needs of the new normal era. We will additionally strengthen our handling of overseas processed products that can be connected directly to retail demand, enhancing our competitive products, and sell them to a wide range of business categories.
+In terms of overseas marketing, exports of Japanese scallops and blue-skinned fish are steadily growing year by year, but there are still issues to be faced in scaling up the sales of our products outside Japan. Overseas, there is a great deal of damage to business routes targeting restaurants due to the COVID-19 pandemic, and as in Japan, we must urgently develop sales channels that support mass retailers and food delivery. We will also speed up our development and introduction of new products, including various certified products, continuing our efforts to increase the ratio of overseas sales.
+  Main products handled
+Frozen fish
+◦Segment targets for the fiscal year ending March 31, 2024, under our new medium-term business plan “Build Up Platform 2024”
+         Salmon/trout
+Crab
+Shrimp
+¥142 billion
+Marine Net sales
+Products Purchasing
+Operating profit
+¥3.6 billion
+Policy and measures
+ ◦Business overview by segment (April 2020 to March 2021)
+In our Marine Products Purchasing segment, we will engage in purchasing that matches marketing and practice thorough inventory control based on market trends, and strive to ensure stable earnings by establishing marketing routes for high-value-added products from our own plants. We will also reinforce local marketing at overseas bases and develop sales for products from our own plants in collaboration with the food segment to expand overseas sales.
+Sales weight and unit price by type of fish/shellfish in the Marine Products Purchasing Business [non-consolidated basis]
+In our Marine Products Purchasing segment, sales decreased due to declines in exports of Japanese marine products and wholesale sales overseas, and reduced restaurant and wholesale demand due to the impact of consumers refraining from dining out. The sales of salmon and trout, which remained in the low- price zone, increased significantly, resulting in a large increase in profit that met our medium-term target. Net sales for fiscal 2020 decreased by ¥8.2 billion year on year to ¥118.9 billion, and segment profit increased by ¥1.3 billion to ¥3.0 billion.
+(Tons) 60,000
+40,000 20,000 0
+trout
+2016
+ocean fish
+2017 2018
+trout
+ocean fish
+2019 2020 (FY)
+■ Salmon/ ■ Northern ■ Shrimp
+Salmon/ Northern
+Shrimp
+(Yen/kg)
+  1,500 1,000 500 0
+Supplying products with a story
+The final target of our new medium-term business plan “Build Up Platform 2024” is 142 billion yen in sales. This year, the first year of the plan, we will proceed with the theme of supplying more of our products with a story to customers, aiming for sales of 114 billion yen.
+We are planning to increase sales of salmon and trout, which account for our largest handling volume, by 17% year on year. Looking ahead to the time after COVID-19 pandemic, we will strengthen our sales of such products as those for raw consumption at restaurants. As a new initiative, we will also advance consultations with related business partners to actively engage in inland aquaculture of salmon in Japan.
+Regarding northern and southern frozen fish, we are continuing efforts to secure a 20% market share for pangasius (a white-meat fish), which is doing well. With Atka mackerel and Pacific ocean perch attaining manageable prices, we will propose products with higher added value and enhance our assortment.
+              Hachinohe Plant of Kyokuyo Shokuhin Co., Ltd.
+Shigeru Kondo
+Senior Managing Director Responsible for Marine Products Purchasing segment 
+Established in 1970, it now produces salted salmon, mainly red and Coho salmon, producing approximately 7,000 tons per year.
+It is a top-level plant in Japan for processing mainly red salmon. With Hachinohe’s ideal climate for salmon processing and its unique aging method, as well as the expert skills of its employees, it has received very high evaluations from across Japan.
+Aiming to become the No. 1 salmon processing plant in Japan, we actively take on the challenge of new products such as seasoning-soaked fish products and fillets.
+For shrimp, we will propose high-value-added products and differentiated products, and expand our lineup with ready-to- eat fried shrimp, and microwavable products, as well as differentiated products made with wild shrimp. We will expand our sales of crabs to new markets such as online shopping, and procure them from raw material production areas with a reasonable price. To expand export sales, we will focus on our own products such as Ocean King (imitation crab meat).
+ 21 Kyokuyo Group Integrated Report 2021
+Kyokuyo Group Integrated Report 2021 22
+   Business Strategy
+
+    Business Strategy
+Food Business (Foodservice Business and Retail and Consumer Food Business)
+Value Creation Story Foundation of Value Corporate Information Creation
+◦Segment targets for the fiscal year ending March 31, 2024, under our new medium-term business plan “Build Up Platform 2024”
+       Strengths of our Food Business
+◦Accumulated manufacturing technology
+◦Global processing bases and procurement capabilities
+◦Product development capabilities and organizational strength for safe and reliable products
+Food Business
+Net sales
+¥124 billion
+Operating profit
+¥3.0 billion
+◦Extensive product lineup Main products handled
+Frozen foods
+In the Food Business segment, as of April 1, 2021, we reorganized from a product-based to a business category-based organization and established retail and consumer food products and foodservice products divisions. The first section of the retail and consumer food division is in charge of convenience stores (focusing on frozen foods) and frozen foods for home use, and the second section deals with shelf-stable foods such as canned products. By shifting to a business division structure, we will bolster the marketing capabilities of each branch and streamline the operations of our plants by consolidating items. At the same time, we will develop chilled products channels by establishing processing sites in various parts of Japan. We will also develop high-value-added products in pursuit of “foods to enjoy life.”
+Policy and measures
+         In the frozen foods segment, there was a downturn in sales of shrimp fritters and fried marine products on a significant decline in restaurant and wholesale demand. Sales of sushi toppings for major conveyor belt sushi restaurants, products for raw consumption, fillets for drugstores and heat-and-serve products, such as grilled fish and simmered fish, exceeded sales in the previous fiscal year. At 7,900 tons, the Shiogama Plant’s production fell short of our target. Segment sales decreased by 5.2 billion yen year on year to 79.7 billion yen, and operating profit also decreased by 100 million yen to 800 million yen, falling short of the medium-term business plan’s targets.
+Sales of canned products in our shelf-stable foods business were on par with the previous fiscal year, due in part to stockpiling demand triggered by the declarations of a state of emergency. Sales of seafood delicacies performed strongly due to increased drinking at home, the introduction of cheese products, and other factors. As a result, net sales were 19.0 billion yen, the same level as in the previous fiscal year, while profit increased by 100 million yen year on year to 800 million yen. Although sales fell short of our medium-term business plan target, profit was significantly higher.
+Focusing on sales of products manufactured at our direct plants
+This year, the first fiscal year of our new medium-term business plan, our sales target for the foods division is 105.0 billion yen (73.0 billion yen for the foodservice products division and 32.0 billion yen for the retail and consumer food division). We see this as the first step in laying the foundation for stabilizing the management of our Food Business as a manufacturer.
+With our reorganization, we will focus on strengthening our function as a manufacturer,
+developing and nurturing more products of our direct plants, and bolstering our sales. By
+increasing the production ratio of our direct plants, we intend to maximize profit, leading to
+re-investment and corporate growth. Toward that end, I think it is also important to enhance
+our manufacturer products that meet market needs and to boost our product appeal and
+development capabilities. To date, we have also focused on customer private brands (PB) and
+limited-edition products, but from here on we will focus more on manufacturing and marketing of our own products as a manufacturer. In particular, with our new business division system, customers feel closer in our retail and consumer food division, and we have put in place a responsive structure in which it is easy to make judgments and responses on site. Going forward, we will maximize our comprehensive capabilities that enable the formation of an integrated organization, from raw materials to manufacturing.
+◦Working with customers to create products for dining in the era of the new normal
+New products for Spring 2021
+1Increasing demand for eating at home
+2Products that are quicker and easier to prepare
+The amount and frequency of housework
+has increased as people spend more time
+at home due, for example, to self-restraint
+in going out and remote work during the COVID-19 pandemic. In particular, people are cooking more frequently, resulting in greater concern about what to make and the difficulty of making every meal. The photo is “Amberjack Teriyaki” from our Dandori Jozu series of frozen-chilled products. Customers can enjoy delicious grilled fish just by microwaving the bag as is. It is a product that can be easily cooked at home and meets the need for easier preparation. (Produced by Kyokuyo Global Seafoods Co., Ltd.; six products in the series)
+3Packaged products in the deli section 
+  Shelf-stable foods, health products
+Seafood delicacies
+Due to the COVID-19 pandemic,
+there is less selling of loose items
+in supermarket deli sections, where
+individual packaging, in packs or bags, has become commonplace. We have reinforced our support for this new normal at sales points, and our new product “Mentai-Mochi Fry” comes with bags to sell the product. The mochi (sticky rice cake) and spicy mentai (salted cod roe) make a superb combination, creating a habit-forming flavor that makes food more enjoyable. (Produced by the Shiogama Plant of Kyokuyo Shokuhin Co., Ltd.)
+ ◦Business overview by segment (April 2020 to March 2021)
+     ◦Issues from our previous medium-term business plan
+Keizo Yamaguchi
+While the Food Business has been growing steadily, it has been greatly affected by COVID-19, since marketing had centered on wholesale. Going forward, in addition to conventional products for commercial use, we will need to focus on expanding products for home use and on diversifying channels that can
+respond flexibly to changes in the environment. We will expand sales channels through mass retailers, home delivery, and e-commerce sites, reduce expenses centered on logistics costs, and take other steps to increase the profitability of the Food Business.
+Director
+Responsible for Food Business segment
+23 Kyokuyo Group Integrated Report 2021
+Kyokuyo Group Integrated Report 2021 24
+   Business Strategy
+
+    Business Strategy
+Tuna Business
+Value Creation Story Foundation of Value Corporate Information Creation
+◦Issues from our previous medium-term business plan
+    Strengths of our Tuna Business
+◦A seamless system within the Group from fishing to aquaculture, purchasing, processing, and sales
+◦Global procurement and processing capabilities cultivated over many years
+◦Substantial processing system (with HACCP certifications for the U.S. and EU)
+◦Initiatives in fisheries to produce and raise fish, enabling high quality and a stable supply
+In the tuna segment, stabilizing earnings in the aquaculture business is a major issue. We will therefore promote sales of red sea bream from Kuroshio Suisan Co., Ltd. and improve the efficiency of our Pacific bluefin tuna aquaculture business.
+In the overseas purse-seine fishing business, we will implement various efficiency measures, including the construction of a replacement vessel for our aging purse-seine fishing boat, in an attempt to stabilize earnings. Since a revenue base from processing and marketing is taking shape, we will aim
+to change to a high-profit structure by leveraging our strengths in integration from production to processing and sales.
+In the previous fiscal year, sales of fatty fish grew, especially to mass retailer routes, but sales to restaurant routes, including sushi restaurants, and overseas sales were affected by COVID-19, leaving challenges to be addressed. We must continue to strengthen our product processing and initiatives with our business partners at each marketing base.
+   Main products handled
+Tuna products
+◦Segment targets for the fiscal year ending March 31, 2024, under our new medium-term business plan “Build Up Platform 2024”
+        Skipjack products
+Farmed red sea bream and other species (shipped chilled)
+Policy and measures
+Our sales target for this fiscal year is 30.0 billion yen. We will strengthen collaboration with our tuna processing plants to drive sales of high-value-added products. In the overseas purse-seine fishing business, we will strive to increase catches by improving operational efficiency. In the aquaculture business, we will work on a continuously stable supply of farmed Pacific bluefin tuna and promote sales of other fish species, including red sea bream, farmed by our Group companies.
+Tuna Business
+Net sales Operating profit
+¥33.0 billion ¥1.4 billion
+ ◦Business overview by segment (April 2020 to March 2021)
+   Overseas purse-seine fishing business: Catches
+Pacific bluefin tuna aquaculture business: Sales
+In the purse-seine fishing business of our Tuna Business segment, the annual catch was higher than the previous fiscal year, but sales decreased due to a lack of recovery in fish prices. On the other hand, the volume handled of Pacific bluefin tuna farmed in Japan increased. Sales of processed products such as Negitoro performed strongly, primarily to mass retailers, which have enjoyed robust sales during the COVID-19 pandemic. As a result, in the tuna segment as a whole, sales were 29.9 billion yen, the same level as the previous fiscal year, and profit increased by 300 million yen year on year to 500 million yen, but fell short of the medium-term business plan target.
+Showing the Group’s strengths through collaboration
+The Tuna segment will expand the scale of each business and stabilize earnings by showing the Group’s strengths through an integrated manufacturing and sales system from fishing and aquaculture to processing and sales, as well as collaboration among each company and department.
+The raw material of lean tuna from Kyokuyo Suisan Co., Ltd.’s ship Wakaba Maru is processed into negitoro and other products at our own plants including Kyokuyo Fresh Co., Ltd. and the Soemon Plant of Kyokuyo Suisan Co., Ltd., to ensure stable earnings in the purse-seine fishing business and maximize added value by processing catches. Kyokuyo Suisan Co., Ltd.’s new Ohigawa Plant has acquired HACCP certification for the EU and is expected to contribute to the expansion of our export sales channels.
+ (Tons)
+40,000 30,000 20,000 100,00
+0
+■ Weight    Fish price
+(Yen/kg)
+400 300 200 100
+(Tons)
+1,000 750 500 250
+■ Weight  ■ Value
+(Million yen)
+2,500 2,000 1,500 1,000 500
+               2016 2017 2018 2019 2020 (FY)
+000 2016 2017 2018 2019 2020 (FY)
+Ken Sakai
+Vice President
+Responsible for Tuna Segment
+ Ohigawa Plant of Kyokuyo Suisan Co., Ltd.
+On Shikoku, we farm Pacific bluefin tuna for our “Hon-Maguro no Kiwami” and “Hon-
+Maguro no Kiwami TUNAGU” products, the latter being raised with full-life-cycle aquaculture. Even as the market price remains weak due to a decrease in restaurant demand, both of these brands are rated highly for their stable quality, with sales of processed products on the rise by taking full advantage of the fresh processing capabilities of Kyokuyo Fresh Co., Ltd.
+This fiscal year, there is an abundance of skipjack tuna for raw consumption, and with an environment facilitating its sales as a safe and inexpensive sashimi product, we plan to greatly expand our handling of skipjack. In both the Yaizu and Kagoshima areas, we plan to handle more than double the amount of processed tataki products (lightly seared skipjack tuna) than in the previous year.
+In addition, we will continue to focus on red sea bream of Kuroshio Suisan Co., Ltd., which is entering its third season in the Kyokuyo Group. We will actively bolster our handling of imported fatty products of farmed tuna, which is receiving higher ratings for quality and price as resource recovery improves, with the aim of expanding our value-added products.
+In November 2020, the Ohigawa Plant of Kyokuyo Suisan Co., Ltd. acquired EU HACCP* compliance verification for frozen tuna (loin, blocks, and saku blocks) for raw consumption.
+* EU HACCP: In order to export marine products to the EU and other countries, it is necessary to meet the EU’s hygiene standards, from production-related facilities (aquaculture sites and fishing boats) to processing facilities. It is also necessary to receive certification by the New Business and Food Industry Department, Minister’s Secretariat, Ministry of Agriculture, Forestry and Fisheries. (Source: Ministry of Agriculture, Forestry and Fisheries)
+ 25 Kyokuyo Group Integrated Report 2021
+Kyokuyo Group Integrated Report 2021 26
+   Business Strategy
+
+ Business Strategy
+    Logistics Business
+ Strengths of our Logistics Business
+◦Accumulated know-how for “safe, reliable, and accurate delivery of products”
+◦Logistics network throughout Japan
+In our logistics services segment and cold storage business, cargo movement initially slowed due to the effects of COVID-19, but we focused on collecting cargo with good turnover, resulting in an increase in the volume of entering and exiting goods. In addition, we expanded our network of freight forwarding companies in an effort to reinforce our delivery business, with year-on-year sales increasing by 100 million yen to 1.0 billion yen and segment profit rising 50 million yen to 300 million yen.
+Net sales
+(Billion yen)
+1.5
+1.0 1.0 0.5
+Segment profit
+0.9
+0.9
+31.9 315
+34.2 40 369
+20
+(Million yen) 600
+1.0 400 200
+■ Operating profit
+Operating (%) profit 60 margin
+Kyokuyo Akitsu Reizo Co., Ltd.
+ ◦Business overview by segment (April 2020 to March 2021)
+  26.7 248
+24.0 265
+ 0.0 0 0 2017 2018 2019 2020 2017 2018 2019 2020
+ ◦Segment targets for the fiscal year ending March 31, 2024, under our new medium-term business plan “Build Up Platform 2024”
+(FY)
+(FY)
+  Logistics services
+Policy and measures
+We will strive to stabilize our earnings base centered on the Kyokuyo Group’s inventory and to operate warehouses efficiently.
+ Tokyo Office of Kyokuyo Akitsu Reizo Co., Ltd. 
+Introduction of truck reservation service
+Kyokuyo Akitsu Reizo Co., Ltd.’s Tokyo Office has introduced a system that allows trucks coming to load or unload cargo to reserve a berth in advance. This reduced the number of on-site vehicles not scheduled for a pickup or drop-off, as well as truck waiting time, preparation, and vehicle contact time, thereby increasing the turnover rate at berths. Since the vehicles are called once a shipment is ready, the work is more efficient for both parties, with truck drivers and others praising the system. It has also been effective in reducing our overtime hours.
+  27 Kyokuyo Group Integrated Report 2021
+    Foundation of Value Creation Value Creation Story Corporate Information
+ Foundation of Value Creation
+In order to realize its corporate philosophy, the Kyokuyo Group incorporates social issues and changes in the business environment into its medium-term business plan, and practices ESG management to addresses issues through ESG-focused business activities.
+In this way, we will add greater competitiveness to the Kyokuyo Group’s strengths and reinforce our foundation for value creation that contributes to the sustainable development of society.
+Kyokuyo Group’s approach to sustainability
+Under ESG management based on its Corporate Philosophy and the Kyokuyo Group Corporate Action Charter, the Kyokuyo Group, as a general foods company with a focus on fish products, contributes to the sustainable development of society by creating social and economic value through food, aiming to resolve social issues and achieve sustainable growth through dialogue with stakeholders.
+◦Creating and sharing value
+ We will resolve various social issues and contribute to the realization of a healthy and heart-enriched lifestyle
+and a sustainable society by creating and sharing value with society through the provision of safe and reliable
+products and services.
+◦Communication with society
+ We will contribute to the creation of an enriched society through the value chain by engaging in active
+communication with various stakeholders, meeting the demands and expectations of society, and fulfilling our
+social responsibilities.
+◦An environment where diverse human resources can play an active role
+ We will strive to create an environment where each individual can play an active role with respect for the
+diversity of human resources which is the source of new value creation.
+◦Harmony with the environment
+ We will strive to realize a sustainable society in harmony with the environment by pursuing business activities
+that consider measures such as reducing environmental burden, mitigating climate change, conserving
+biodiversity and ecosystems.
+◦Enhancement of corporate governance
+ We will aim to be a company trusted by society by conducting fair business activities, ensuring compliance, and
+strengthening risk management through swift and highly transparent management.
+       Kyokuyo Group Integrated Report 2021 28
+    Business Strategy
+ Foundation of Value Creation
+
+   Foundation of Value Creation
+Value Creation Story Business Strategy Corporate Information
+Kyokuyo Group’s Approach to Sustainability
+Kyokuyo Group’s relationship with stakeholders
+The Kyokuyo Group believes that incorporating the requests and expectations of stakeholders into its business strategies and activities is an essential part of sustainable corporate management. While improving communication with stakeholders, we strive to fulfill information disclosure and accountability, build good relationships, and utilize stakeholders’ perspectives in our management.
+Tools and opportunities for communication with stakeholders
+Kyokuyo Group’s Promotion of ESG Management
+The Kyokuyo Group will squarely face a variety of issues that reflect the times, including growing awareness of safety, reliability, and health, as well as the sustainable use of resources and the issue of marine plastic waste.
+Participation in initiatives
+Participating in SeaBOS: Seafood Business for Ocean Stewardship
+SeaBOS is a global initiative in which 10
+of the world’s leading seafood companies
+across the wild capture, aquaculture, and
+feed production sectors work with scientists
+to address challenges toward sustainable
+utilization of marine resources and the
+realization of a healthy ocean and global
+environment through scientifically based approaches. Kyokuyo has been participating in this initiative since April 2017 and is now in its fifth year.
+In October 2020, the Keystone Dialogue was held online due to COVID-19 pandemic. During the dialogue, the CEOs of companies from around the world and scientists agreed to work together on various issues, including strengthening traceability, addressing ocean plastic waste, reducing antibiotic use in aquaculture, and tackling climate change, in addition to eliminating IUU fishing and labor abuse.
+The initiative aims to actively contribute specifically to the achievement of the United Nations’ 14th Sustainable Development Goal (SDG): the conservation and sustainable use of oceans and marine resources. Through initiatives at SeaBOS, we will help to resolve social issues such as the realization of a sustainable fisheries industry and the conservation of a healthy marine environment, while also improving our own sustainability.
+Participating in the Japan Clean Ocean Material Alliance (CLOMA)
+CLOMA was established in January 2019 with
+the support of Japan’s Ministry of Economy,
+Trade and Industry and the participation of
+companies from various industries with the
+aim of preventing marine pollution caused by
+plastic waste. With the participation of more
+companies, the Alliance is engaged in initiatives such as business matching between companies, sharing information on case studies, monitoring the latest technology trends, collaborating with international organizations and overseas research institutes, and promoting diverse business-to-business collaboration.
+For the Kyokuyo Group, marine pollution caused by plastic waste is a major risk to the Group’s business. We recognize that thorough management of plastic waste, strengthening of 3R
+initiatives, the development and dissemination of alternative materials, and other measures are important issues for reducing marine plastic waste. Through the Alliance, we come into contact with the latest information on new materials, alternatives, etc., and deepen our knowledge of this issue. We will work to solve the problem by effectively feeding back this information to the Group’s business activities.
+Strengthening environmental management
+Kyokuyo Group’s approach to environmental management
+At the Kyokuyo Group, all employees are working actively to reduce the environmental burden of our business activities in order to make effective use of marine and other resources and to provide safe and reliable products as a food manufacturer. Since acquiring ISO 14001 certification – an international standard for environmental management – in December 2004, we have established an environmental conservation system based on the Kyokuyo Group Environmental Policy and are carrying out environmental conservation activities that take into account our impact on the global environment.
+Please refer to our website for the Kyokuyo Group Environmental Policy.
+https://www.kyokuyo.co.jp/environment/management/index.html
+Environmental conservation system
+Our Environmental Conservation Committee, chaired by the president, evaluates the effectiveness, among other things, of the Group’s environmental activities, sets targets, and formulates plans. It also conducts internal environmental audits to ensure the appropriate operation of our environmental management system and compliance with requirements.
+Environmental Conservation Organizational Chart
+Board of Directors
+Please refer to our website for more information on our environmental management. https://www.kyokuyo.co.jp/environment/management/index.html
+      StakeholdersMethods and opportunities for communication
+CustomersIn order to gain the trust of our customers, we value communication, think from the customer’s point of view, and respond to customer feedback.◦Daily sales activities ◦Customer Relation Center 
+◦Product introductions at new product presentations
+◦Exhibiting at Japan International Seafood & Technology Expo, etc. ◦Participation in various campaigns 
+◦Introduction of products and recipes on our websites; TV commercialsBusiness partners (suppliers, partner companies)We are committed to all forms of compliance with our business partners, conduct fair and equitable transactions, build relationships of trust, and fulfill our social responsibilities together.◦Daily procurement activities
+◦Customers association of each branch office 
+◦Regular plant visits and guidance
+◦Kyokuyo Cooperation Association Technical Research Meeting ◦Technical Exchange Workshop in ChinaShareholders and investors
+We place importance on highly transparent management and communication, achieve accountability, and make use of shareholder and investor feedback in management.
+◦Fair, continuous, and accurate information disclosure to shareholders and investors
+◦Active information dissemination and dialogue at general meetings of shareholders, IR briefings, etc.
+◦Business reportsEmployeesBased on the principle of respect for human, we will create workplace environments that consider fairness, impartiality, and human rights, where employees can play an active role with a job satisfaction.◦Personnel interviews
+◦Company newsletter, intranet (bulletin boards and business contact
+boards)
+◦Stress checks ◦Various types of e-learning
+◦Harassment consultation hotline
+◦Consultation with labor union; Occupational Safety CommitteeSocietyWe will advance activities that contribute to the development of local communities and work to solve social issues through communication and collaboration with various related organizations.◦Sponsorship as an official partner of the Japan Canoe Federation ◦Acceptance of internships
+◦Technology development through industry/academia collaboration ◦Clean river activities 
+◦Timely and appropriate reporting and provision of information to the government ◦Participation in industry development and the realization of a sustainable
+society through industry associationsEnvironmentWe are working to conserve the global environment through sustainable resource use and efforts to reduce environmental burden.◦Promoting environmental conservation activities in line with environmental policies
+◦Use of environmentally friendly raw materials
+◦Initiatives for “Eco Label” products (MSC, ASC, MEL, etc.) ◦Participation in SeaBOS (Seafood Business for Ocean Stewardship) ◦Participation in CLOMA (Clean Ocean Material Alliance)      29 Kyokuyo Group Integrated Report 2021
+Kyokuyo Group Integrated Report 2021 30
+
+Kyokuyo Group’s recognition and policy
+As the demand for fishery resources increases worldwide with growing calls for larger catches, the harmful effects of illegal fishing methods and overfishing due to operations and other reasons have also become apparent. This has led to mounting interest in the sustainable use of fishery resources worldwide and the need for fisheries to properly conserve and effectively use fishery resources, including consideration for ecosystems and prevention of excessive catches of resources. As a group of companies that handle fishery resources, the Kyokuyo Group strives to use marine resources sustainably and efficiently, and actively engages in biodiversity and ecosystem conservation as well as social contribution activities.
+
+Initiatives in the aquaculture business
+With a view to sustainable and efficient use of marine resources, Kyokuyo is developing its business in line with conservation of biodiversity, including by engaging in aquaculture, mainly of Pacific bluefin tuna and red sea bream, but also of Japanese amberjack and white trevally.
+One of the issues in the aquaculture business from the viewpoint of consideration for the natural environment and biodiversity is efforts to reduce the dependence on the resource of anchovies, which are the main raw material for the fish meal used in aquaculture feed. Kyokuyo strives for sustainable use of fishery resources by changing the amount of fishmeal used and working on feed with reduced fishmeal according to the characteristics and growth process of fish. In this way, we pursue both business continuity and qualities such as taste, fattiness, and color. In addition, by checking the feeding status to determine the appropriate amount of feed to provide, we minimize feed sedimentation in an effort to reduce the impact on the marine environment of the aquaculture farm. Going forward, we will continue to pursue improvements in the accuracy of various aquaculture technologies to further stabilize our business.
+
+Maintaining and conserving a good marine environment is a vital issue for our aquaculture businesses carried out in the natural environment, such as Kyokuyo Feed One Marine Co., Ltd., which farms Pacific bluefin tuna, and Kuroshio Suisan Co., Ltd., which mainly farms red sea bream as well as species such as Japanese amberjack, white trevally, and burihira (a cross between Japanese amberjack and yellowtail). For this reason, and in consideration of biodiversity, sustainability, the environment, etc., we strictly manage factors such as water quality standards, chemicals, and chemical substances in the bottom paints of fishing vessels used for feeding. The Kyokuyo Group will build a safe, reliable, and sustainable supply chain by establishing a seamless system from aquaculture to fresh processing and sales.
+
+Preventing excessive catch and bycatch, and appropriate use and management of fishing gear
+Kyokuyo Suisan Co., Ltd., as a member of the Japan Far Seas Purse Seine Fishing Association, cooperates with other fishery organizations in reporting catches of tuna including skipjack and resource management with the cooperation of Japan’s Fisheries Agency, which participates in the Western and Central Pacific Fisheries Commission (WCPFC).
+
+Specifically, we have established a fishing season that does not use Fish Aggregation Devices (FADs) to prevent excessive catches, and operate according to the annual catch quota established by the government. We are also promoting free school fishing* in which adult fish swimming at high speed are located using a helicopter and caught in an effort to prevent bycatch of young fish with less swimming power.
+When creatures other than tuna such as cetaceans, sharks, rays, and birds are caught as bycatch, the company warns its vessels and responds strictly according to the rules.
+Regarding the use and management of fishing gear, we use naturally-derived objects for FADs or attach sonar satellite buoys with vessel’s identification marks and names to FADs in order to prevent outflow, then collect them after use. The fishing nets are used first and foremost to prevent damage, and if damaged, they are repaired on board. In addition, we carry back all man-made waste picked up during fishing operations, and dispose of it after landing.
+
+Initiatives for Marine Eco-Label and certified marine products
+With growing global interest in the sustainable use of fishery resources, demand for MSC- and ASC-certified marine products is expected to significantly increase in the future, both in Japan and abroad. The Kyokuyo Group began handling MSC- and ASC- certified marine products in 2006, and since then has steadily increased its number of registered fish species and handling volumes, while expanding the scope of certification. In addition to group plants in Japan, our major cooperating plants involved in the manufacture of the Group’s products are included in the scope of CoC certification. Five overseas subsidiaries (Kyokuyo America Corporation, Qingdao Kyokuyo International Co., Ltd., Kyokuyo Europe B.V., K&U Enterprise Co., Ltd., and Kyokuyo Global Seafoods Co., Ltd.) have independently acquired CoC certification.
+In addition, Kyokuyo Co., Ltd. and Kyokuyo Suisan Co., Ltd. are members of the Marine Eco-Label Japan (MEL) Council, which is the scheme owner of the Japanese Fisheries Eco- Label “MEL,” and our affiliates are also preparing to obtain MEL certification.
+Through these initiatives, the Kyokuyo Group strives to achieve the 14th SDG, “Life Below Water,” and contributes to conservation of biodiversity, using fishery resources sustainably, and passing on Japanese food culture with blessed abundant diversity to the next generation.
+
+ We must urgently increase our sales in overseas markets, where growth is higher than in the shrinking Japanese market. Accordingly, the Kyokuyo Group will reinforce its marketing structure by establishing new overseas bases and developing business partners, among other efforts.
+In addition to these initiatives, five overseas subsidiaries (Kyokuyo America Corporation, Qingdao Kyokuyo International Co., Ltd., Kyokuyo Europe B.V., K&U Enterprise Co., Ltd., and Kyokuyo Global Seafoods Co., Ltd.) have acquired CoC certification of MSC and ASC and will continue to expand their sales of our products through aggressive handling.
+
+Kyokuyo Group’s recognition and policy
+Global warming, mainly due to an increase in CO2 emissions, is a factor that causes rising sea levels and water temperatures, and unstable weather. In order to realize sustainable production and consumption in the future, it is essential to reduce the environmental impact of business activities and mitigate the impact of climate change. In these circumstances, Kyokuyo will strive to realize a decarbonized society by reducing greenhouse gas emissions and efficiently using energy resources.
+Reducing CO2 emissions
+In fiscal 2020, the Kyokuyo Group’s electricity consumption was 29,590,000 kWh, a reduction of 7.7% compared to our target. CO2 emissions were 17,216.8 t-CO2, a reduction of 8.9% compared to our target.
+Food plant sites are the major users of electricity within the Kyokuyo Group. At these sites, we endeavored to manage the amount of electricity used per unit of production (i.e., intensity), and while production rose 2.9% year on year, electricity consumption increased 1.8%. CO2 emissions decreased by approximately 10% compared to our target, partly due to a better emission factor at power supply companies than in the previous year, and increased by approximately 0.6% year on year. CO2 emissions intensity, a standard for resource efficiency, was 0.36 t-CO2/t in fiscal 2019 and 0.35 t-CO2/t in fiscal 2020.
+As the system to increase production advances into the future, we will continue to thoroughly manage intensity at both food plants and cold storage sites, aiming for efficient operation. In order to control greenhouse gas emissions and use energy resources efficiently, we will actively make capital investments, such as for changing to energy-saving facilities.
+
+Transition to CFC-free refrigeration
+        In February 2019, the Fukuoka site of Kyokuyo Akitsu Reizo Co., Ltd. updated its freezer system. Following this, it updated its cooling system for chilled storage and cargo sorting rooms and began operating the new system in March 2021. This cooling system is based on CFC-free natural refrigerant equipment using a hybrid method of ammonia and carbon dioxide. It is expected to reduce CO2 emissions by reducing power consumption and reduce CFCs, which are powerful greenhouse gases, by eliminating CFC refrigerants.
+
+The energy-saving effect is expected to fluctuate greatly depending on the summer weather when the temperature in the cargo sorting area rises, but the estimated data predicts a CO2 emission reduction effect of about 350 tons per year. We will strive for more efficient operation in an effort to reduce environmental impact.
+
+Kyokuyo Group’s recognition and policy
+The Kyokuyo Group’s business is supported by and based on nature’s bounty. It is therefore essential that we operate our business by making effective use of limited natural resources. We will strive to reduce food waste by effectively utilizing food and other resources through our product development, introduction of AI technology, promotion of recycling, and more. At the same time, we will also strive to make effective use of food waste to reduce the environmental impact of our business activities and achieve a circular society.
+
+Since around 2005, Kyokuyo Foods Co., Ltd., which produces imitation crab meat, has been processing food waste discharged from production and recycling it as compost. The weights of food waste and of production compost over the past three years are given below.
+  All food waste discharged is treated in-house, achieving a 100% recycling rate. In consideration of the environmental impact, we opted for a method based on microorganisms that emits less CO2 than incineration, and recycle the output as compost.
+
+Food waste discharged by Kyokuyo Fresh Co., Ltd., which mainly produces tuna products, is used as feed after being properly processed by a disposal contractor, achieving a 100% recycling rate. The food waste weight and production feed weight over the past three years are as follows.
+
+At our food plants other than the above two companies, we have also selected disposal routes that recycle food waste into fertilizer and feed, and maintain a recycling rate of almost 100% for food waste.
+
+Management of water usage and wastewater quality
+The amount of water used in our food plants increased by approximately 0.2% year on year, as annual production increased by approximately 3%. As a result of efforts to reduce water usage by revising work processes and promoting circular use of water, our water resource efficiency increased, with water usage intensity improving from 9.96 m3/t in fiscal 2019 to 9.69 m3/t in fiscal 2020 (a 0.27-point improvement).
+
+Efficient use and management of energy
+Given its location near the Hongo River, a branch in the Naka River basin, the Hitachinaka Plant of Kyokuyo Shokuhin Co., Ltd. pays close attention to wastewater quality, has increased sedimentation tanks of its drainage facilities, and implemented a number of measures to improve wastewater processing capacity.
+However, when the water temperature drops in the winter, microorganisms become less active, causing a drop in wastewater purification processing capacity, which had been an issue. The plant now uses steam from a boiler that operates every day to maintain water temperature and microbial activity in the aeration tank even if the outside temperature drops, preventing a decrease in wastewater processing capacity. Since this improvement, the activity of microorganisms has been maintained, and the wastewater quality in winter has stabilized.
+
+Kyokuyo Group’s Efforts to Reduce Plastic Waste
+The Kyokuyo Group works on prevention, reduction,
+and control from the time plastic is on land to stop it from entering the ocean.
+◦Measures to prevent marine plastic outflow: Regular replacement of fishing nets  ▪Kyokuyo Marine Ehime Co., Ltd. and Kyokuyo Marine Farm Co., Ltd. Kyokuyo Marine Ehime Co., Ltd. and Kyokuyo Marine Farm Co., Ltd.,
+which farm tuna, conduct facility restoration work as part of their daily operations to prevent plastic fishing nets and buoys from being damaged and entering the ocean. In addition, they regularly land their nets and buoys to check the condition every three years and adopt a cycle of replacement in the ninth year.
+Checking buoys for damage
+Taking netting in
+   ◦Reducing plastic used in products: Reducing the size of bags used for products
+▪Kyokuyo Foods Co., Ltd.
+Since 2019, we have been working to reduce the use of fossil fuel-derived plastics by reducing the size of bags by 20% by area ratio for Ocean King, the Kyokuyo Group’s leading product.
+Making product bags smaller
+Conventional 250 mm
+Reduced by
+50 mm
+from 2019
+200 mm
+        20% smaller
+ ◦Reducing waste plastic by improving packaging defects (jamming) on production lines
+▪Shiogama Plant of Kyokuyo Shokuhin Co., Ltd.
+× Research and Development Division Laboratory
+On the simmered fish line at the Shiogama Plant of Kyokuyo Shokuhin Co., Ltd., the alignment conveyor in the conveyance process from vacuum packaging (deep draw) to steaming was improved to reduce the generation of second-rate products caused by jamming during packaging. As a result, work efficiency increased, product yield improved by more than 2%, and waste plastic generation was reduced.
+◦Clean River Activities
+▪Canoe Slalom Japan Cup Kyokuyo Series
+Once plastic waste is out to sea, it is difficult to recover. Based on the recognition that it is important “not to let plastic initially go out to sea,” we conduct Clean River Activities in which spectators, athletes, and tournament organizers help to clean up the area along the river near the course following competition at the Canoe Slalom Japan Cup Kyokuyo Series held by the Japan Canoe Federation, which we sponsor.
+
+Contributing to a Healthy and Heart-Enriched Lifestyle and Food Culture
+Value Creation Story Business Strategy Corporate Information
+  Social issues (background)
+◦Changes in food lifestyles (increased demand for “time- savings,” such as quicker and easier preparation) and changes in household structure
+◦Establishment of a new lifestyle (new normal) due to the spread of COVID-19
+◦Less selling of loose items at sales points and growing preference for eating at home due to the spread of COVID-19
+◦Growing demand for food safety and increasing health needs
+Kyokuyo Group’s recognition and policy
+In Japan, people are eating less fish than before due to changes in lifestyle and household structure. However, seafood contains high-quality animal protein, and is low in calories and rich in nutrients such as vitamins and essential minerals. It also contains functional ingredients such as DHA and EPA.
+The Kyokuyo Group will contribute to a healthy food culture by working to popularize eating fish through the development and sales of products that meet the high health needs of consumers.
+Focusing on gourmet foods
+While the need for quicker and easier preparation is increasing, as a “new lifestyle” triggered by COVID-19 permeates society, innovations to enjoy life are appearing everywhere. This includes food, where its traditional roles in “Enjoying life” and “Feeling well” are being rediscovered. In addition to “creating time-savings,”KyokuyowillexpandSeaMarchébrandproducts that focus on ingredient and flavor innovations, and make use of feedback from diverse consumers in our product development. By pursuing the value of “food to enjoy life,” we will aim to realize our corporate philosophy of contributing to a healthy and heart-enriched lifestyle and food culture.
+Kyokuyo Group’s approach
+◦Contributing to popularization of eating fish and reduction of labor at food preparation sites through efforts such as the development of products that meet consumer needs
+◦Contributing to a healthy food culture through product development that meets the needs of the growing numbers of health-conscious people
+◦Delivering wellness to more people through deliciousness by making use of customer feedback in an effort to create products for the elderly and nursing care food markets
+◦Focusing on food that is not only quicker and easier to prepare, but also provides “Enjoying” and “Feeling well”
+Extracting balenine from opah
+(moonfish):
+Collaboration between industry, academia, and government
+It is believed that active enzymes caused by stress and physical activity are closely related to fatigue felt in modern people. These active enzymes have been found to damage and oxidize cells.
+Imidazole dipeptide, a kind of amino acid, is attracting attention as an antioxidant to protect against such damage, prevent lifestyle-related diseases, suppress aging, and reduce fatigue. Imidazole dipeptide is regarded as effective not only for preventing fatigue, but also for improving muscle endurance and fatigue recovery functions. It is believed to help create a body that is less likely to become tired, while at the same time eliminating fatigue itself.
+Balenine is a type of peptide in which two amino acids are bound together. Until now, it was thought that baleen whales were the only aquatic life to have it, but it has now been found that opah (moonfish) extract contains three times the balenine of whale extract.
+The Kyokuyo Group’s Laboratory in the Research and Development Division and its Foodservice Products Division collaborate to develop products with the cooperation in functional research and evaluation of the Fisheries Technology Institute of the Japan Fisheries
+Research and Education Agency (a National Research and Development Agency) and several universities.
+Opah fillets
+             A Sea Marché brand product
+Kyokuyo Group Integrated Report 2021 36
+
+In April 2020, the Ministry of Health, Labour and Welfare revised the Dietary Reference Intakes for Japanese, and in order to promote the prevention of lifestyle-related diseases from a young age, the target amount of sodium (sodium chloride equivalent) for adults was lowered by 0.5 grams per day (less than 7.5 g for male and less than 6.5 g for female per day). However, there is data that currently people excessively intake about 3 grams, and it is viewed as a problem that the target amount and the current intake differ significantly. The Kyokuyo Group, based on this current situation, continuously proposes low-salt products that take into account the health of its customers.
+We are launching new products under the concept of “a low-salt life that is doable and delicious.” In autumn 2020, we released “Sardines in Soy sauce (Low Salt)” and “Sardines in Miso sauce (Low Salt),” both with 25% less salt than Kyokuyo’s conventional products. In autumn 2021, we are planning to release “Mackerel in Brine (Low Salt)” and “Mackerel in Miso sauce (Low Salt),” both with 30% less salt than the conventional products, (aiming for a launch in September 2021).
+Changes in food lifestyles have led to the greater appeal of “time-savings,” such as easier preparation, resulting in a further increase in expectations for processed foods and seasonings. Considering also the fact that there is greater demand for eating at home due to the COVID-19 pandemic, we are aware that the responsibility of food companies, which are involved in customers’ food and health, has become even greater. In order to practice our corporate philosophy of “contributing to a healthy and heart-enriched lifestyle and food culture” and, moreover, to contribute to society as a food company, we will continue to develop and sell a series of low-salt products and products with “high health value.”
+
+In recent years, the shortage of labor in medical, nursing care, and welfare facilities has become a serious social problem. Food preparation sites at these facilities require quicker and easier preparation, as well as products that are easy for the elderly to eat and swallow.
+We have received valuable feedback from nutritionists and others from medical and nursing care facilities who have visited
+Care Show Japan, an exhibition that we have exhibited at seven times. By making efforts to create products based on this feedback, we will help to solve social problems in medical care, nursing care, and welfare.
+
+Providing safe and reliable products
+We place top priority on providing safe and reliable products for our customers. We will build, maintain, manage, and continuously review systems to that end.
+◦Complying with the Law
+We will comply with all relevant laws and regulations related to food, such as the Food Sanitation Act. We will also comply with voluntary agreements established separately.
+◦Providing accurate information
+We will provide our customers with accurate and easy- to-understand information on our products.
+◦Sincere Customer Support
+In the event of an accident or complaint with our products, we will prevent the spread of damage, investigate the cause, formulate countermeasures, and report to customers promptly and with sincerity.
+
+Kyokuyo convenes a Kyokuyo Cooperation Association Technical Research Meeting every February with the participation of the plants that we contract to process our products. In 2021, it was postponed due to COVID-19 pandemic, but usually in order to improve the quality of products at each plant, we are sharing wide-ranging information, from basics to the very detailed every year. Specifically, we report cases of complaints and make related requests, explain and make requests concerning revisions to food-related laws and regulations and compliance with the Food Labeling Act, and exchange information on hygiene management methods and case studies of success and failure at each plant.
+In addition, we invite lecturers from outside the company to give talks on specialized topics, provide hands-on practical training, and take other steps to acquire the knowledge needed by quality control personnel at a production plant.
+Improving the environment at production sites
+Kyokuyo works on quality assurance activities, centered on our Quality Assurance Department, with our top priority of procuring safe and reliable foods. To ensure the production of safe and reliable products, members of our Quality Assurance Department personally visit processing subcontractors in Japan as well as in foreign countries where there are no permanent quality control staff members, in order to conduct audits and provide guidance. In addition, we divide production sites into four ranks, based on such factors as production quantity, to decide the frequency of plant inspections, and visit them to check on their plant management system, which is crucial for the supply of safe and reliable products.
+At processing subcontractors in China, Vietnam, and Thailand, we have Japanese and local staff specializing in quality control stationed on site to respond speedily in ensuring product quality and hygiene management. Local foreign staff members are periodically trained in Japan to deepen their understanding of the management required for food products bound for Japan.
+
+At present, various social and environmental issues are driving a growing interest in corporate social responsibility (CSR) for the realization of a sustainable society. Companies are now required not only to pursue “economic value” such as sales and profits, but also “social value” that helps to resolve social issues.
+Given this situation, the Kyokuyo Group is determined to fulfill its social responsibility and to do its part to realize a sustainable society through ESG-focused business activities, based on our Corporate Philosophy and the Kyokuyo Group Corporate Action Charter. Accordingly, we have formulated the Kyokuyo Group Basic Procurement Policy in line with ISO 26000, an international standard for social responsibility, and are promoting responsible procurement activities.
+
+In order to build a sustainable supply chain through responsible procurement, we must work not only with the Kyokuyo Group, but also with all the business partners who provide us with raw materials, products, materials and equipment, and services.
+In order to provide our business partners with an understanding of the Kyokuyo Group’s thinking and request their cooperation in responsible procurement activities, we have established Supplier Guidelines as principles for our business partners with the aim of contributing to the realization of a sustainable society throughout the supply chain.
+
+As mentioned above, the Kyokuyo Group encourages the handling of MSC- and ASC-certified marine products. In handling these products, we are required to meet the CoC standards for management certification of processing and distribution processes and to obtain the certification.
+CoC certification is primarily aimed at establishing traceability by preventing the mixing of certified and non- certified marine products in the processing and distribution, from certified fisheries and aquaculture farms to product sales. Certification also requires in its stipulated principles and
+precautions that there is no connection to forced labor, child labor, and vessels deemed to engage in illegal, unreported, and unregulated (IUU) fishing. In order to sell marine products as certified, they must be procured from suppliers that have obtained this certification, the same as us.
+The Kyokuyo Group agrees with this certification management method, and believes that further increased handling of certified marine products is essential to its responsible procurement.
+
+Kyokuyo Group’s recognition and policy
+Kyokuyo believes that creating a comfortable workplace has many benefits, including motivating employees to work, encouraging them to demonstrate their abilities and as a result improve productivity, realize efficient management, and prevent mental health issues. To promote this policy, we have introduced various systems and are proceeding with revisions or abolition to improve their utilization rates.
+Creating a comfortable working environment
+Introduction of mental healthcare measures and stress checks
+Mental health refers to one’s emotional health status, and maintaining the good mental health of employees is essential for corporate growth and development.
+We have been working on mental health promotion and mental healthcare measures for employees since before 2015, when a stress-check system became mandatory. We have contracted with an external specialized organization to establish a consultation service to give employees access to information and advice from a third-party point of view. We have also conducted stress-check tests every year since 2015 to help individual employees understand their own stress status, and we have been working to make this useful for future health management.
+
+Harassment prevention and expert support
+We are working to create safe and comfortable workplaces that are harassment-free and where all employees can respect each other. At the beginning of each fiscal year, we remind employees of this through a notice sent out and have also established an external consultation service with qualified experts such as clinical psychologists and psychiatric social workers as a measure of precaution regarding all forms of harassment including sexual harassment and power harassment.
+
+At different sites in Japan, the Kyokuyo Group accepts foreign technical intern trainees, and they are now indispensable in each of these workplaces. One
+by one, each company that accepts trainees has also received recognition as an excellent user, with Kaiyo Foods Co., Ltd., Kyokuyo Shokuhin Co., Ltd., and Kyokuyo Fresh Co., Ltd. having obtained certifications of excellence.
+
+What I felt using maternity and childcare leave: Balancing work and family
+In 2019, I took maternity and childcare leave, and in April 2021 I returned to the same department. During my maternity and childcare leave, the company took care of all related procedures for me. And since I was able to exchange information with the persons in charge in the Personnel Department, I was not concerned about returning to work. I am currently using the Shorter Working Hours for Childcare System, which is very helpful because it allows me to pick up my child at 5:30 p.m. I am also very grateful for the understanding and support of my colleagues in the department, who make sure I don’t leave late due to overtime work and also make it possible for me to leave suddenly or take time off. As of March 31, 2019, there were 33 people who had returned to work after maternity and childcare leave, and we are in a supportive environment where we can consult colleagues having longer career as moms about work and child-rearing concerns.
+Thanks to this support, I am able to balance work and parenting, and live a fulfilling life every day.
+
+Kyokuyo Group’s recognition and policy
+We will strive to understand and respect the culture, customs, and traditions of the local communities where we do business, with a view to coexisting in harmony with them. We will build mutual trust by actively deepening communication with local communities and address issues related to the lives of people in the community and the global environment through our business, thereby contributing to regional development.
+Canoe Slalom Japan Cup / Clean River Activities
+Since 2017, Kyokuyo has been sponsoring the activities of the Japan Canoe Federation as an official partner with a view to engaging in environmental conservation activities that stress to society the need for harmonious coexistence with nature and the importance of water resources.
+In particular, after each competition in the Canoe Slalom Japan Cup Kyokuyo Series, for which we are a crown sponsor, we invite those involved in the competition as well as the spectators to join us in Clean River Activities along the competition course. We conduct these environmental conservation activities around the country throughout the competition.
+In fiscal 2020, although competition and Clean River Activities were held only once due to the spread of COVID-19, 87 people participated.
+
+Special lecture at Kagawa Nutrition University
+On November 24, 2020, we gave a special lecture on the fisheries and food industries at Kagawa Nutrition University, introducing the situation in the field with a mix of hands-on practice. Under the theme of Fish: From Ocean to Table, the lecture focused on topics including the history of the fisheries industry, the world’s seafood situation, the latest aquaculture technology, and the manufacturing, processing, and development of foods using marine products as their main raw material. Through such special lectures, we provide opportunities for students to deepen their understanding of SDGs initiatives aimed at realizing sustainable fisheries, including the conservation of the marine environment and the appropriate and effective use of fishery resources.
+
+In September 2021, at the United Nations Food Systems Summit in New York, the Kyokuyo Group joined others in presenting examples of its initiatives as a way of introducing Japan’s commitment to a sustainable food system based on cooperation between public and private sectors that contributes to the SDGs. For details, please see the relevant website of Japan’s Ministry of Agriculture, Forestry and Fisheries.
+
+Corporate Governance
+Basic approach
+The Kyokuyo Group’s basic corporate governance policy is to conduct highly transparent management for shareholders and other stakeholders, and to perform swift and decisive decision-making to achieve sustainable growth and improve our corporate value over the medium to long term. We also comply with our Corporate Philosophy and Group Corporate Action Charter to establish appropriate systems for monitoring and supervision to ensure compliance, and strive to maintain the efficiency and fairness of management.
+Corporate governance system
+Board of Directors
+The Board of Directors convenes regularly, with extraordinary meetings convened as necessary, as the basis of a system for ensuring that the duties of the Kyokuyo Group’s board of directors are carried out efficiently. In order to clarify the management responsibilities of directors and establish a management system that can swiftly respond to changes in the business environment, we set a one-year term of office for directors. In addition, four independent external directors, one- third of the total, are appointed to strengthen the supervisory system.
+Corporate governance system
+Elects/Dismisses
+External directors
+External directors are expected to conduct effective management supervision and to provide frank and constructive advice regarding the Group’s management from an independent and objective standpoint, with a practical perspective that draws on abundant experience, knowledge, and expertise.
+We select candidates for external directors who can provide supervision as well as frank and constructive advice regarding management at Kyokuyo, based on our unique standards in addition to the requirements for independence as stipulated by the Tokyo Stock Exchange.
+Increased number of external directors
+To enable the Board of Directors to focus more on management decision-making and supervision with the aims of achieving sustainable business growth and improving corporate value over the medium to long term, we drastically revised the board’s composition, reducing the number of internal directors by one for a total of eight and increasing the number of external directors by two for a total of four. Furthermore, four of the 12 directors are independent directors as stipulated by the Tokyo Stock Exchange, making at least one-third of the Company’s directors independent. With this revision, we will enhance management supervision and expedite decision-making.
+Board of Auditors
+We are a company with a Board of Auditors. Two of our four auditors are external auditors and work to enhance the supervision of our managers. In accordance with the audit policy and audit plan formulated by the Board of Auditors at
+                     Elects/Dismisses
+Elects/Dismisses
+     Board of Directors
+  Consults/recommends Elects/Dismisses Reports
+Audits
+Audits Reports
+   Nomination and Remuneration CommitteeRepresentative Director Internal Audit Committee
+Account auditor
+   Environmental Conservation Committee
+  41 Kyokuyo Group Integrated Report 2021
+Kyokuyo Group Integrated Report 2021 42
+General Meeting of Shareholders
+Each Department within the company
+Affiliated companies
+Board of Auditors
+Internal Control Office Whistleblowing hotline (internal)
+Audits Audits Whistleblowing
+Audits
+Cooperates with
+Audits
+ Whistleblowing
+Corporate lawyer Whistleblowing hotline (external)
+ Foundation of Value Creation
+    Foundation of Value Creation
+Governance
+Corporate Governance
+the beginning of the fiscal year, each auditor conducts audits that focus on understanding the status and confirming the efficiency of management execution and internal control such as internal checks, compliance, and internal audits.
+Nomination and Remuneration Committee
+Kyokuyo has adopted an optional Nomination and Remuneration Committee as an advisory body for the Board of Directors. The Nomination and Remuneration Committee is made up of three or more members, the majority of which are independent external directors. The Nomination and Remuneration Committee deliberates topics such as the nomination and compensation of directors in response to
+Value Creation Story
+Business Strategy Corporate Information
+consultation from the Board of Directors, and provides its recommendations to the Board of Directors.
+Evaluating the effectiveness of the Board of Directors
+We give an annual questionnaire to all directors and auditors regarding the effectiveness of the Board of Directors as a whole. The results are reported to the Board of Directors, leading to improvements. The questionnaires have been returned with generally positive evaluations of the composition and operation of the Board of Directors, the mechanism of governance, etc.
+We are working to further improve the effectiveness of the Board of Directors by securing time for consideration of agenda items, such as by simplifying income and expenditure reports.
+Internal controls
+We have established a basic policy on internal control systems and have put in place related rules to develop and operate an internal control system. With the Internal Controls over Financial Reporting, as stipulated by the Financial Instruments and Exchange Act, we evaluate the status of the development and operation of our internal control system. We reported that the Group’s internal control system was effective in fiscal 2020, as in the past.
+Cross-shareholdings
+Recognizing the risk of price fluctuations associated with holding shares, we hold shares other than those for investment purposes, taking fully into account the rationality of the holding purpose, such as maintaining and stabilizing business relationships and fostering mutual trust.
+The Board of Directors carefully examines the purpose of holding, transaction status, dividends, capital costs, and other matters related to cross-shareholdings individually each year to determine whether they are to be held or reduced.
+In principle, when exercising voting rights, we respect the judgment of the Board of Directors of the share issuer and vote in the affirmative. However, if we think that a proposal would adversely affect relationships and transactions with the Kyokuyo Group, or if we believe it will harm the common interests of our shareholders, we consider the matter carefully before deciding whether or not to approve it.
+Dialogue with shareholders and investors
+IR policy
+We believe that maintaining transparent and fair management is fundamental to corporate governance with the aim of achieving sustainable growth of the company and increasing corporate value over the medium to long term. To this end, we recognize that it is important to actively engage in dialogue with shareholders and reflect their opinions and requests in our management.
+Based on this recognition, we disclose accurate corporate information required by shareholders and investors fairly and promptly in clear language. We strive for timely and proactive information disclosure in addition to disclosing information in accordance with the Financial Instruments and Exchange Act and the Securities Listing Regulations stipulated by the Tokyo Stock Exchange.
+Promoting shareholders’ and investors’ understanding of Kyokuyo
+        Policy of training for directors and auditors
+   Newly appointed internal directors attend external seminars to acquire necessary knowledge as directors. We also promptly provide explanations of the Group’s business to newly appointed external directors and newly appointed external auditors at the time of their appointment.
+Executive remuneration
+Policy for deciding executive remuneration
+Our basic policy on remuneration for directors is to have a balanced remuneration system, the purpose of which is to motivate directors to contribute more to improving performance and increasing corporate value from a medium- to long-term perspective.
+Under the above policy, directors’ remuneration consists of fixed basic compensation and performance-based stock compensation, both of which are paid within the total amount of remuneration set at the Ordinary General Meeting of Shareholders.
+Amounts of remuneration for directors and auditors (fiscal 2020)
+In addition to regular executive training sessions for directors and auditors, we recommend that directors and auditors participate in external seminars and other training sessions as necessary, with the company paying all expenses.
+Fixed basic compensation is determined based on each director’s responsibilities. For performance-linked stock compensation, points to be awarded to each director for each fiscal year are determined according to the degree of achievement of consolidated sales and consolidated operating profit, with the Company’s shares being paid through a trust upon a director's retirement.
+Since the remuneration of external directors is independent of business execution, they are only paid fixed basic compensation with no performance-based stock compensation.
+In order to provide shareholders with a deeper understanding of the current state of Kyokuyo, we send a Business Report to people who are shareholders as of the end of March every year. In addition, at our twice- yearly IR briefings for analysts and institutional investors, the president himself explains our financial results and future measures, and successively conducts dialogues (interviews) at the request of analysts and institutional investors.
+Business Report
+         Executive classification
+Total amount of remuneration (millions of yen)
+Total amount by type of compensation (million yen)
+Number of eligible executives
+   Directors
+(excluding external directors)
+    Auditors
+(excluding external auditors)
+(Notes)
+211 190 21 ― 13 12 12 ― ― 3 59 59 ― ― 5
+1. The amount of basic compensation for each director and auditor is within the compensation framework established at the General Meeting of Shareholders. 2. Performance-based stock compensation was established at the 94th Ordinary General Meeting of Shareholders.
+3. Directors’ pay does not include the employee salary portion for directors who are concurrently employees.
+Basic compensation
+Performance-based stock compensation
+Non-monetary compensation
+       External executives
+  43
+Kyokuyo Group Integrated Report 2021
+Kyokuyo Group Integrated Report 2021 44
+  Foundation of Value Creation
+
+   Foundation of Value Creation
+Governance
+Board of Directors and Auditors
+Value Creation Story
+Business Strategy Corporate Information
+Directors ◦Independent director
+*Attendance at Board of Directors meetings is for fiscal 2020.
+Risk Management
+Basic approach
+Kyokuyo has established basic risk management rules for the Kyokuyo Group and maintains a risk management system in order to conceive all risks that could affect the business activities of the entire Group, prevent their occurrence, and to minimize any risks incurred should the anticipated risks occur.
+Each department and group company manages on a daily basis the risks faced in their own work, and Kyokuyo’s head office departments, as supervisory departments, cooperate with the foregoing departments and group companies to manage risks throughout the Group. Furthermore, as the department in charge of overall risk management, the Division of Internal Control of Kyokuyo Co., Ltd. shares risk information with the supervisory departments to manage risks throughout the entire Kyokuyo Group.
+In the event of an emergency, we will organize and respond with level-specific organizations such as a response headquarters, countermeasure projects, and response teams.
+Risk management system
+We recognize the major risks that could have a material impact on the financial condition, business results, etc. of Kyokuyo and the Kyokuyo Group, and we share the status of risks and countermeasures with the Board of Directors. Our
+Key risks and countermeasures
+Response to COVID-19
+In light of the spread of COVID-19, we have established a response headquarters to formulate and notify all officers and employees of action guidelines against the disease. Based on these action guidelines, we are giving top priority to measures to prevent infection and the spread of the disease, such as staggered work hours and the implementation of telecommuting, and we have started providing a COVID-19 vaccination program at work for applicants, with a view to respecting the lives of employees and their families.
+We will continue to closely monitor the situation related to COVID-19 and make every effort to prevent the spread of the disease while fulfilling our supply responsibilities as a food manufacturer.
+Internal Audit Team conducts audits of the risk management systems of Kyokuyo and its group companies, and reports the results to the Internal Audit Committee.
+       Makoto Inoue
+President
+Shigeru Kondo
+Senior Managing Director
+Yutaka Tanaka
+Director
+Keizo Yamaguchi
+Director
+Masayo Miura
+External Director (part-time)◦ Katsuhiro Machida
+External Director (part-time)◦
+Supervisory Board Members
+Ken Sakai
+Vice President
+Shuichi Kiyama
+Managing Director
+Tadayuki Nishimura
+Director
+Hitoshi Higaki
+Director
+Mika Shirao
+External Director (part-time)◦ Eiji Yamada
+External Director (part-time)◦
+*Attendance at Board of Directors and Board of Auditors meetings is for fiscal 2020.
+Attendance at Board of Directors meetings
+Attendance rate 100% Meetings attended 16/16 Attendance at Board of Directors meetings
+Attendance rate 100% Meetings attended 16/16 Attendance at Board of Directors meetings
+Attendance rate 94% Meetings attended 15/16 Attendance at Board of Directors meetings
+Attendance rate 100% Meetings attended 13/13 Attendance at Board of Directors meetings
+Attendance rate 94% Meetings attended 15/16 Attendance at Board of Directors meetings
+Attendance at Board of Directors meetings
+Attendance rate 100% Meetings attended 16/16 Attendance at Board of Auditors meetings
+Attendance rate 100% Meetings attended 14/14 Attendance at Board of Directors meetings
+Attendance rate 100% Meetings attended 16/16 Attendance at Board of Auditors meetings
+Attendance at Board of Directors meetings
+Attendance rate 100% Meetings attended 16/16 Attendance at Board of Directors meetings
+Attendance rate 100% Meetings attended 16/16 Attendance at Board of Directors meetings
+Attendance rate 100% Meetings attended 16/16 Attendance at Board of Directors meetings
+Attendance rate 100% Meetings attended 13/13 Attendance at Board of Directors meetings
+Attendance rate 100% Meetings attended 13/13 Attendance at Board of Directors meetings
+Attendance at Board of Directors meetings
+Attendance rate 100% Meetings attended 16/16 Attendance at Board of Auditors meetings
+Attendance rate 100% Meetings attended 14/14 Attendance at Board of Directors meetings
+Attendance rate Newly Meetings attended Newly appointed appointed
+Attendance at Board of Auditors meetings
+                    Newly Newly Attendance rate appointed Meetings attended appointed
+Newly Newly Attendance rate appointed Meetings attended appointed
+          Masaji Tamura
+External Auditor (full-time)
+Kazuhiko Shimura
+Auditor (part-time)
+Yoichi Kanno
+External Auditor (full-time)
+Masayuki Nishihama
+Auditor (part-time)
+       Risk
+Countermeasures
+Food safety issues
+◦Establishment and maintenance of a quality assurance system by the Quality Assurance Department ◦Product-liability insurance and other forms of insurance
+ Rapid changes in the sales environment
+  ◦Spreading out of business partners across various sales channels (mass retailers, restaurants and industrial catering, wholesalers and trading companies, etc.)
+ Risks related to overseas business
+ ◦Diversification of procurement areas
+◦Holding of appropriate inventory in according with procurement risk
+ Fluctuations in raw material prices
+◦Forecasting raw material market conditions based on supply and demand assumptions ◦Long-term inventory reduction
+◦Enhancing sales of value-added products
+ Risks in the aquaculture business
+ ◦Making use of Fishery Mutual Aid Insurance ◦Thorough facility management
+ Exchange rate fluctuations
+ ◦Risk hedging through yen-denominated settlements, exchange contracts, etc.
+ Crude oil prices fluctuations
+  ◦Efficient business operations
+ Countermeasures against natural disasters
+ ◦Fire insurance, domestic comprehensive general cargo insurance, and other forms of insurance ◦Establishment of a business continuity plan (BCP)
+ Risks related to information systems
+ ◦Use of antivirus software
+◦24/7 monitoring of the network and regular security diagnostics ◦Multiple backups
+     Attendance rate Newly Meetings attended appointed
+●●●
+● ●●●
+●
+●●
+●●
+Newly appointed
+  Attendance rate 100% Meetings attended 14/14
+Executive expertise and experience (skill matrix) Our Board of Directors consists of members with the following skills.
+●●
+●●
+         Makoto Inoue
+Name
+General management
+Industry insight
+IT
+Legal and compliance
+Finance and accounting
+Government and academic research
+Internationality
+   Ken Sakai
+  Shigeru Kondo
+  Shuichi Kiyama
+  Yutaka Tanaka
+  Tadayuki Nishimura
+  Keizo Yamaguchi
+  Hitoshi Higaki
+●●
+  Masayo Miura
+●
+●
+  Mika Shirao
+  Katsuhiro Machida
+●●●
+●●
+  Eiji Yamada
+  The above list shows areas where members have more specialized knowledge based on each individual’s experience, etc., and does not represent their complete knowledge.
+45 Kyokuyo Group Integrated Report 2021
+Kyokuyo Group Integrated Report 2021 46
+   Foundation of Value Creation
+
+      Foundation of Value Creation
+Governance
+Compliance
+Basic approach
+Kyokuyo and the Kyokuyo Group adopt compliance (compliance with laws and regulations, the Corporate Philosophy, Action Guidelines, Corporate Action Charter, internal rules, and corporate ethics) as a basic policy of management in accordance with our Corporate Philosophy, Action Guidelines, and Corporate Action Charter.
+Compliance system
+As the basis of our compliance system, we have established the Kyokuyo Group Corporate Action Charter and basic compliance rules, based on our Corporate Philosophy, and strive to ensure that the Group’s officers and employees are thoroughly aware of the same. In addition, we have established a Division of Internal Control under a compliance officer as an organization that specifically promotes the establishment, maintenance, and improvement of the compliance system, which we have established as a cross-sectional compliance system for the entire Group.
+Whistleblowing system
+We have established a Group whistleblowing system to report legal violations and other compliance-related matters. The system protects whistleblowers, with the head of the internal compliance department and an external attorney’s office as the direct information recipients. The system is operated in accordance with rules for protecting whistleblowers.
+Compliance education
+In addition to dispatching a notification within the company every April about thorough compliance, at the group's general meeting the president calls attention to compliance, and we also conduct internal training as appropriate, to strive for instilling awareness of compliance.
+Corporate Information Value Creation Story Business Strategy Financial Data Highlights
+Thorough compliance with the Act against Delay in Payment
+of Subcontract Proceeds, Etc. to Subcontractors (Subcontract Act)
+The Ministry of Economy, Trade and Industry and the Japan Fair Trade Commission have requested that “fairness be made in subcontract transactions.” Based on the recognition that making transaction conditions between business operators fair and reasonable is the basis of supply chain management, the Kyokuyo Group provides a company subsidy for attendance at seminars on the Subcontracting Act to ensure employees retain a better understanding of the law.
+In fiscal 2020, a total of 29 employees attended external seminars using this system. By observing this law, we are building sound and stable relationships with our partner companies and strengthening our own compliance.
+We are also learning that requests such as extremely short delivery times lead to long working hours at business partners, and that this is not only in violation of the Subcontracting Act but also problematic in terms of the workstyle reforms promoted by the Japanese government.
+
+Corporate Information
+Corporate Data and Stock Information (as of March 31, 2021)
+Corporate profile
+Kyokuyo Co., Ltd.
+3-3-5, Akasaka, Minato-ku, Tokyo, 107-0052, Japan
+September 3, 1937
+¥5,664 million
+Export, import, domestic purchasing, and sales of marine products, and manufacture and sales of processed and frozen foods 2,313 (consolidated) / 682 (nonconsolidated)
+25
+Value Creation Story
+Business Strategy
+Foundation of Value Creation
+List of Group companies
+鼓Kyokuyo Akitsu Reizo Co., Ltd.
+2-6-1 Jonanjima, Ota-ku, Tokyo 143-0002, Japan Tel: +81 (3) 3799-1701
+Business: Cold storage business
+鼓Integrate System Service Co., Ltd.
+Nihon Building Bldg. No. 2, 1-2-5 Nihombashi-Kayabacho, Chuo-ku, Tokyo 103-0025, Japan
+Tel: +81 (3) 5652-8600
+Business: Total services for computer systems
+鼓Apex Kyokuyo Co., Ltd.
+3246 Nakashima, Shikama-ku, Himeji, Hyogo 672-8035, Japan Tel: +81 (79) 234-2670
+Business: Processing and sales of assorted grilled fish products
+鼓Kaiyo Foods Co., Ltd.
+2831-15 Sunayama, Kamisu, Ibaraki 314-0255, Japan
+Tel: +81 (479) 46-3851
+Business: Processing and sales of salt-cured salmon, sashimi, and fish flakes, etc.
+鼓Kuroshio Suisan Co., Ltd.
+373 Tomariura, Otsuki-cho, Hata-gun, Kochi 788-0353, Japan Tel: +81 (880) 73-1105
+Business: Aquaculture of marine products and sales
+鼓Jokki Co., Ltd.
+3-28-5 Kamishakujii, Nerima-ku, Tokyo 177-0044, Japan Tel: +81 (3) 3920-6885
+Business: Processing and sales of marine products
+鼓Kyokuyo America Corporation
+1200 Fifth Avenue, Suite 1575, Seattle, WA, 98101-3131, U.S.A.
+TEL: +(1 206)405-2670
+Business: Purchase and sales of marine products
+鼓K&U Enterprise Co., Ltd.
+1289 Vichienchodoke road, Maha Chai, Mueang
+Samut Sakhon, Samut Sakhon, 74000, Thailand
+TEL: +6(6 3)482-0922
+Business: Manufacture and sales of frozen food products
+鼓QINGDAO KYOKUYO INTERNATIONAL CO., LTD. Room No. 1013, Crowne Plaza Qingdao No.76, Xiang Gang Zhong Road, Qingdao, 266071 China TEL: +8(6 532)8578-1350
+Business: Purchase and sales in mainland China and overseas
+鼓Kyokuyo Europe B.V.
+Tower-B, 7th Floor, WTC Schiphol Airport Schiphol Boulevard, 193 1118 BG Schiphol, Netherlands
+TEL: +3(1 20)405-9060
+Business: Purchase and sales of frozen food products
+鼓Kyokuyo(Thailand)Co., Ltd.
+92/53 Sathorn Thani Tower 2, 18th Floor, Room
+No. 1816, Sathorn Nua Road, Khwaeng Silom,
+Khet Bangrak, Bangkok Metropolis, 10500, Thailand
+TEL: +6(6 2)238-4604
+Business: Import/export, domestic sales and quality control and processing of all products
+鼓KYOKUYO GLOBAL SEAFOODS Co., Ltd. 55/237 Moo. 6 Thasai, Mueang Samut Sakhon, Samut Sakhon, 74000, Thailand
+TEL: +6(6 3)444-0828
+Business: Manufacturing sushi toppings, simmered fish and grilled fish products, etc.
+       Company nameHeadquarters addressEstablishedStated capitalMajor businessesEmployeesNumber of consolidated companiesStock information
+Distribution of shares by shareholder type
+鼓Kyokuyo Shoji Co., Ltd.
+Sumitomo Seimei Akasaka Bldg., 3-3-3 Akasaka, Minato-ku, Tokyo 107- 0052, Japan
+Tel: +81 (3) 6234-4400
+Business: Purchasing and sales of fisheries, agricultural and meat products
+鼓Kyokuyo Shokuhin Co., Ltd.
+3-20-1 Shinhama-cho Shiogama, Miyagi 985-0001, Japan Tel: +81 (22) 364-6111
+Business: Manufacturing of frozen and chilled food products
+鼓Kyokuyo Suisan Co., Ltd.
+1441-1 Habuchi, Yaizu, Shizuoka 421-0213, Japan
+Tel: +81 (54) 622-5111
+Business: Overseas purse seine fishing business, processing tuna and bonito, cold storage business
+鼓Kyokuyo Sougou Service Co., Ltd.
+Sumitomo Seimei Akasaka Bldg., 3-3-3 Akasaka, Minato-ku, Tokyo 107- 0052, Japan
+Tel: +81 (3) 5545-0770
+Business: Insurance agent business, facilitating sales of various products
+鼓Kyokuyo Feed One Marine Co., Ltd.
+392-2 Hisayoshi, Ainan-cho, Minamiuwa-gun, Ehime 798-4353, Japan Tel: +81 (895) 73-7180
+Business: Aquaculture of tuna and other marine products, processing and sales, etc.
+鼓Kyokuyo Foods Co., Ltd.
+830 Nobenono, Matsuno-cho, Kitauwa-gun, Ehime 798-2102, Japan Tel: +81 (895) 42-1600
+Business: Manufacturing frozen and chilled products (imitation crab meat, etc.)
+鼓Kyokuyo Fresh Co., Ltd.
+3-3-2 Rinkai-cho, Edogawa-ku, Tokyo 134-0086, Japan
+Tel: +81 (3) 3878-4611
+Business: Processing of tuna and other marine products and sales, etc.
+鼓Kyokuyo Marine Ehime Co., Ltd.
+392-2 Hisayoshi, Ainan-cho, Minamiuwa-gun, Ehime 798-4353, Japan Tel: +81 (895) 72-6661
+Business: Aquaculture of tuna and other marine products, processing and sales, etc.
+鼓Kyokuyo Marine Farm Co., Ltd.
+2198-4 Obukaura, Sukumo, Kochi 788-0034, Japan
+Tel: +81 (880) 65-5617
+Business: Aquaculture of tuna and other marine products, processing and sales, etc.
+鼓Ibusuki Shokuhin Co., Ltd.
+1-42 Shinei-cho, Yamagawa, Ibusuki City, Kagoshima 891-0501, Japan Tel: +81 (993) 35-2335
+Business: Processing of skipjack and other marine products, and agricultural and livestock products, and sales.
+       Total number of shares authorizedTotal number of shares issuedNumber of shareholdersFinancial institutionsSecurities companiesOther companies
+Foreign companies and individualsIndividuals and othersNo. of shares of treasury stockNo. of shares held (thousands) 43,700,000 3,179
+254 10,928,283 1,155 829 5,390 119
+Equity position (%)
+29.1 2.3 10.6 7.6 49.3 1.1
+Percentage of total number of shares issued (%)
+8.56 4.84 4.11 3.45 2.91 2.31 2.07 1.61 1.29 1.2130,036
+Major shareholders    Shareholder’s nameCustody Bank of Japan, Ltd. (Trust account)Resona Bank, LimitedThe Norinchukin BankThe Master Trust Bank of Japan, Ltd. (Trust account)Toyo Seikan Group Holdings, Ltd.Mitsui Sumitomo Insurance Co., Ltd.Tokio Marine & Nichido Fire Insurance Co., Ltd.Kyokuyo AkitsukaiChuo Gyorui Co., Ltd.Kyokuyo SatsukikaiNo. of shares held (thousands)
+925 523 445 373 315 250 224 174 139 13149 Kyokuyo Group Integrated Report 2021
+Kyokuyo Group Integrated Report 2021 50

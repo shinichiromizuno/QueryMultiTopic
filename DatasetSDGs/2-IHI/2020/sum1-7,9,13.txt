@@ -1,0 +1,85 @@
+
+Value Creation Story 1 Mitigation of Climate Change (Part 1) 
+      
+Realizing a Carbon-Free Society 
+Social Issue 
+The IHI Group contributes to the realization of a carbon-free recycling-oriented society by reducing CO2 emissions throughout the value chain in the energy and industrial sectors. 
+Solutions 
+The IHI Group works to reduce CO2 emissions throughout the value chain not only by reducing emissions from its own business activities, but also by providing technologies, products and services that help customers reduce emissions. 
+
+The Emissions Gap Report 2018 issued by the UN Environment Programme (UNEP) warned that unless greenhouse gas emissions are reduced by 7.6% annually from 2020 to 2030, achieving the goal of the 2015 Paris Agreement will not be attainable. 
+The movement to switch from conventional to renewable energy resources is accelerating as a powerful measure for decarbonization. It is predicted that photovoltaic power generation will become the number-one energy supply source among all means of power generation by 2040. 
+To ensure the stable use of renewable energy, electricity supply and demand control systems as well as efficient battery storage systems will be needed. 
+ 
+Energy creation 
+• Use of hydrogen, ammonia and biomass fuels • Carbon capture, utilization and storage (CCUS) • Promotion of renewable energy use through 
+Energy consumption 
+• Optimization of logistics • More efficient and energy-efficient 
+manufacturing processes • Electrification of vehicular turbochargers 
+energy management 
+Domestic resources 
+  
+Biomass 
+Renewable energy farms 
+CO2 
+Distributed energy supply Large cities Regional energy supply 
+Carbon-neutral 
+Bio-carbon CO2 recycling 
+Distributed thermal power 
+Energy, fuels and 
+feedstocks Biomass chemical plants 
+Biomass 
+Hydrogen carriers derived from renewable energy 
+Overseas resources 
+   
+
+Global Power Generation Capacity 
+(GW)(GW) 
+5,000 5,000 4,000 4,000 3,000 3,000 2,000 2,000 1,000 1,000 
+SustSauinsatabilneablePhotPohvotlotaviocltpaoicwpeorwer StateSdtaPteodlicPieoslicies genegreantieornat(iPoVn)(PV) 
+  
+ScenSacreionario 
+DevDeleovpemloepnmtent ScenSacreionario 
+WinWdind 
+NatuNraltugrasl gas 
+HydHroydro 
+CoalCoal 
+OtheOrtrhenrerwenaebwleasbles 
+NucNleuacrlear 
+BattBerayttsetroyrasgtoerage 
+       
+13 
+2030 20302040 2040 
+Oil Oil 
+By introducing low-carbon and carbon-free technology throughout the value chain, we aim to achieve a 50% reduction in customer CO2 emissions by 2035. 
+Value Offered to Society 
+ 
+2000 20002010 20102020 20202030 20302040 22004108 2018 Source: World Energy Outlook 2019, International Energy Agency (IEA) 
+
+
+CASE STUDY 1 
+One of the largest biomass power plants in the prefecture begins commercial operation in Kagoshima City 
+Annual reduction in CO2 emissions 
+Approx. 200,000 
+
+In January 2019, Nanatsujima Biomass Power LLC, which was established by IHI and eight investment-partner companies, started commercial operation of the Nanatsujima Biomass Power Plant in Kagoshima City, Kagoshima Prefecture. 
+Its power generation capacity is 49 MW, equivalent to the annual energy consumption of approximately 77,000 ordinary households. Based on the provisions of the Act on Special Measures Concerning Procurement of Electricity from Renewable Energy Sources by Electricity Utilities, all the power the plant generates will be sold to Kyushu Electric Power Co., Inc. for a 20-year period. 
+The plant uses three types of fuel: palm kernel shell, wood pellets and timber from forest thinning. Generating power with carbon-neutral biomass is expected to lead to a reduction in CO2 emissions of about 200,000 tons per year compared to conventional fossil energy resources. Use of timber from forest thinning (from Kagoshima Prefecture) contributes to sustainable forest cultivation. 
+Investment-Partner Companies 
+IHI Corporation, Tokyo Century Corporation, Kyudenko Corporation, Kagoshima Kairiku Unso Co., Ltd., Shimadzu Ltd., Nangoku Corporation, Nippon Gas Co., Ltd., The Kagoshima Bank, Ltd., Kyuden Mirai Energy Company, Incorporated 
+tons 
+  
+CASE STUDY 2 IHI Terrasun Solutions launches energy management services business in North America 
+Nanatsujima Biomass Power Plant 
+320 
+
+The importance of solar power generation and other renewable energy in the fight against climate change is receiving increasing global attention. In order to effectively generate renewable energy, which varies in output depending on the weather and time of day, a sophisticated energy management system and energy storage system will be an integral part of dispatchable energy. 
+IHI Terrasun Solutions, Inc. is expanding an energy management services business for effective use of renewable energy in North America. Based on advanced hardware and software, as well as data analysis technology, IHI Terrasun Solutions provides support for 
+maximizing customer profit not only in the design and construction stages, but throughout the project lifecycle. 
+In the project executed in FY2019 with Convergent Energy + Power Inc., IHI Terrasun Solutions delivered a solution that utilizes the electricity pricing system for the peak-shaving market in Ontario, Canada by discharging battery during peak periods, and substantially reduces electricity costs to end-customers. 
+With this and other projects, IHI Terrasun Solutions now has a total of more than 320 MWh of energy storage installed and contracted, and expects to reach 600 MWh in FY2021. 
+Total installed capacity of projects in North America 
+MWh 
+ 
+Project in Sarnia, Ontario (Battery Energy Storage System) 
+14 

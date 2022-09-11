@@ -1,0 +1,365 @@
+Intellectual Capital Message from Corporate Officers in Charge of Neurology Area
+Develop Next Generation Dementia Treatments with a Sense of Mission
+Ivan Cheung (Left)
+Senior Vice President President, Neurology Business Group
+Teiji Kimura (Right)
+Vice President Chief Discovery Officer, Neurology Business Group   Strengths
+1. Industry-leading R&D pipeline in the dementia area
+2. Abundant experience and knowledge of drug creation and
+disease awareness activities in the dementia area
+3. Global collaborations which enable higher success rates /
+acceleration of development and improved efficiency in development / commercialization costsWeaknesses
+1. High development investment in dementia, an area in which developing new drugs is particularly difficult
+2. Delays in expanding patient contributions through Fycompa and BELVIQOpportunities
+1. Expansion of market for dementia treatments as population ages 2. Expansion of potential market as dementia diagnosis technology
+improvesThreats
+1. Competitive products entering the market
+2. Increasing pressure to lower prices as governments promote
+policies to reduce expenditure on drugs
+Q : What are Eisai’s strengths in the Neurology area?
+A : Cheung Our greatest strength is that we possess industry-leading pipeline in the dementia area. In collaboration with Biogen Inc., there are four projects under development based on the beta amyloid (Aβ) and tau hypotheses, which are currently the leading theories in dementia treatment development. Including these, we have six projects which target the progress of aggressive factors accumulation. We also have five projects which target early symptoms such as sleep and behavioral disorders which precede the diagnosis of dementia by 10-20 years. Thus, we have a total of 11 projects under development in the dementia area.
+We are also currently co-developing next generation Alzheimer’s disease (AD) treatments, BACE inhibitor elenbecestat*1,2 (E2609) and anti-Aβ protofibrils antibody BAN2401*1,3 and hold options for anti-Aβ antibody aducanumab and anti-tau antibody BIIB076, which are currently being developed by Biogen Inc. We are also jointly developing lemborexant as a treatment for insomnia disorder and irregular sleep-wake rhythm disorder associated with Alzheimer's disease dementia with Purdue Pharma L.P. We believe that these global collaborations are also one of our strengths.
+Furthermore, when developing treatments for dementia, we believe that it is important to not only target aggressive factors but also to focus on the brain maintenance system. To this purpose, we are accelerating discovery projects for novel drugs that target the brain maintenance system.
+*1 Co-development with Biogen Inc.
+*2 Generic name for E2609. The generic name is not yet fixed. *3 Licensed-in from BioArctic AB
+Kimura Starting in 1983 when we began researching dementia at the Tsukuba Research Laboratories, we have accumulated over 30 years of knowledge and know-how of drug creation activities in the dementia area, and this is one of our greatest strengths. One reason in general for the low success rate of drug development in neurology is that high-order functions unique to humans like cognition had been evaluated by using behavior modifications in animal models as indicators. At Eisai, we are focusing on in vivo substances called biomarkers.
+Using the changes in biomarkers as indicators, we make more accurate prediction for clinical trials in humans based on the results obtained from animal studies. To this purpose, Eisai’s accumulated clinical samples, such as blood samples, and the accompanying clinical data can be used to further enhance the process. In addition, we are actively using iPS-derived neural cells made from clinical samples. Eisai’s strength is a combination
+of accumulated knowledge, accumulated data, and the latest technology, and we will use this strength to accelerate the development of next generation dementia treatments.
+Cheung Another major strength is the knowledge gained through our disease awareness campaigns and community building activities in the dementia area. Since the launch of Aricept in 1997, it is estimated that on a global level, Eisai has conducted over 10,000 disease awareness events. In Japan, we have entered into a partnership agreement for dementia with 102 towns/cities to promote community networking activities. We are not simply developing and providing drugs; we are also working to improve quality of life (QOL) for patients and their families by creating communities which coexist with dementia.
+ 32
+    Company Introduction Management Strategies
+Q : Why is drug development in the dementia area considered to be so difficult?
+A : Kimura The U.S. FDA has not approved any treatments for dementia since 2003, so from that we can surmise that drug development in this area is incredibly challenging.
+One reason is that high-order functions like cognition
+are unique to humans, and so it is difficult to create an applicable experimental scenario using animal models.
+For example, even if Aβ or tau accumulates in a mouse brain,
+it is not guaranteed that the mouse will develop dementia. We need to confirm the correlation, including biomarkers, between the reactions of animal models and the changes that occur inside a dementia patient’s brain or their core symptoms and to accumulate data. Another reason for the difficulty is that despite the advances made in diagnostic imaging technology like PET (Positron emission tomography), there is still no way to directly observe the changes inside a human brain.
+Q : Why is it that so many dementia treatment candidates failed their clinical trials?
+What is Eisai doing differently from other companies?
+A : Kimura It is said that there are four elements (right drug discovery target, right patients, right dosage, right clinical evaluation indicators) that are important for a clinical trial to meet its primary endpoint.
+There is strong human evidence for Aβ as a target, including pathological findings in postmortem AD brains, familial AD gene mutations, and the discovery of gene mutations that prevent the onset of AD in Finland. So we can surmise that the failed trials had an issue in one of the other three factors (or multiple factors). For example, clinical trials with patients whose AD had advanced to a stage beyond which the mechanism of action was effective, or with patients whose Aβ disposition was unknown. Or they may have gotten the dosage wrong, or the endpoint selected was not sensitive enough for the patient population.
+In our clinical studies, we have considered these as possible failings. The following factors, which we think will contribute to success in clinical development, have been incorporated into the elenbecestat and BAN2401 studies:
+Q : What are the problems with current diagnostic methods? What is the development status of new diagnostic methods?
+A : Kimura At present, dementia is diagnosed using PET imaging or cerebrospinal fluid analysis. However there are some issues with these methods; cerebrospinal fluid analysis is highly invasive and there are not enough facilities equipped to perform PET imaging. For our next generation dementia treatments that target early AD patients, there is a strong need for a less invasive diagnostic method, such as a blood test.
+It is thought that Aβ in the blood includes a small amount
+of a specific soluble Aβ aggregate that comes from the brain.
+At present, we are conducting structure observation using Sysmex Corporation’s super-resolution fluorescence microscope in attempt to identify the uniquely structured soluble Aβ aggregates in the blood. In this way, we are aiming to develop a diagnostic method that does not place a burden on the patient. Currently, Eisai’s accumulated clinical trial samples are being used to examine the possibility of utilizing the measurement of Aβ aggregates to the diagnosis of dementia.
+Q : What are your expansion plans in Neurology?
+A : Cheung Along with the rapid aging of the population, the global market for dementia treatments is also expanding. While this is a business opportunity for Eisai, it is also a large threat for mankind. We need to develop next generation dementia treatments with a sense of mission. In order to make Eisai
+a top runner in the development of next generation dementia treatment, we are aggressively investing in our industry leading pipeline.
+In order to contribute to early stage AD patients, early and non-invasive diagnostic technology will be indispensable. Currently, we are co-developing a blood test with Sysmex Corporation. If we can succeed in creating a simple diagnostic method, I think that it will greatly increase our opportunities.
+Additionally, we are focusing on further expanding our contributions to patients with Fycompa and BELVIQ. In FY 2017, the approval for Fycompa as monotherapy use for partial epilepsy in the U.S. and administration restriction lift in Japan are opportunities to lead to a huge increase in sales. For BELVIQ, we have acquired all development and marketing rights based on an agreement with Arena Pharmaceuticals, Inc., in December 2016. This gives us greater freedom in our development and application strategies, and we will aim to accelerate our contributions to patients.
+     1) Identifying positive Aβ disposition in early stage AD patients when enrolling for trials
+2) Setting appropriate doses for antibodies and small molecule compounds
+3) Selecting a suitable endpoint for evaluating effects for the early stage AD patients
+Value Creation Activities
+33
+Eisai Integrated Report 2017
+Business Base (ESG) Appendix
+
+   Intellectual Capital
+6 “Ricchi” and Ongoing Projects in Neurology Area A diverse range of ongoing projects in the area of dementia
+   Ricchi 1 Early and Minimally-Invasive Diagnostics
+PET (Positron emission tomography) imaging and measurements using cerebrospinal fluid are utilized to detect the accumulation of beta amyloid (Aβ) for early diagnosis of dementia. As major challenges, the number of facilities with PET imaging available is limited, and cerebrospinal fluid must be drawn by inserting a needle into the spinal cord cavity of the hip, which places a large burden on patients. Eisai is therefore undertaking various projects for developing methods for early detection of dementia, such as by using blood biomarkers, that reduce the burden on patients.
+Ricchi 2 Novel Neuro-Transmission Pathways
+Eisai possesses molecular targeting-related drug creation base technologies and comprehensive analysis methods in the area of neurology that have been cultivated through the development of Aricept, Fycompa and lemborexant. Additionally, Eisai has capabilities in designing and creating compounds efficiently, based on its knowledge of interactions between compounds and living organisms.
+Eisai is leveraging this know-how and technologies in various ongoing projects.
+Ricchi 3 Proteinopathy
+The accumulation of abnormal proteins inside the
+brain is a pathological finding that is common to many neurodegenerative diseases. Eisai possesses abundant knowledge cultivated over 30 years of approach to dementia with Aricept, elenbecestat and BAN2401. Representative examples are as follows:
+• Research on the correlation between non-clinical research measuring brainwaves and behaviors in genetically modified animal models and pathophysiology such as PET imaging and molecular toxicology measurements in cerebrospinal fluid.
+• Accurate prediction for clinical trials and patient stratification in translational research in humans based on the results obtained from animal studies by utilizing pharmacodynamic biomarkers.
+• Development of highly sensitive clinical scales for clinical trials.
+Eisai is leveraging this knowledge in the development of next generation dementia treatments.
+ Main Ongoing Project
+Collaboration with Sysmex Corporation (Blood diagnosis)
+We are utilizing Sysmex Corporation’s super-resolution fluorescence microscope and attempting to identify brain- derived soluble Aβaggregates in the blood. Currently, Eisai’s accumulated clinical trial samples are being used to examine the possibility of utilizing the measurement of uniquely structured Aβ aggregates for diagnosing dementia. In this way, we are aiming to develop an early diagnostic method of dementia that does not place a burden on the patient.
+  Sysmex Corporation’s super-resolution fluorescence microscope
+Aβ aggregates as seen with a regular fluorescence microscope
+Aβ aggregates as
+seen with a super- resolution fluorescence microscope
+   Main Ongoing Projects
+•Indication expansion for AMPA antagonist Fycompa
+(Pediatric, monotherapy, Lennox-Gastaut syndrome)
+*For further details, please refer to pages 12 and 42.
+•Dual orexin receptor antagonist lemborexant •PDE9 inhibitor E2027
+•Next generation AMPA receptor antagonist E2082
+  34
+Main Ongoing Projects
+•BACE inhibitor elenbecestat
+•Anti- Aβ(beta amyloid) protofibrils antibody
+BAN2401
+*For further details, please refer to page 37.
+  
+    Company Introduction Management Strategies
+Value Creation Activities
+ Ricchi 4 Neuro-Inflammation and Immuno-Genetics
+Glial cells in the brain and spinal cord play an important role in maintaining homeostasis by regulating immune functions and replenishing nutrients in the central nervous system. When activated in pathological conditions, they move to the disease site and attempt to devour damaged cells and extracellular proteins such as Aβ. However, if they maintain this activated state for a long period of time, they become reactive glial cells that release excessive inflammatory factors which are thought to interfere with neurons. This process is thought to be one of the causes of neurodegenerative diseases such as Alzheimer’s disease. In fact, genome-wide association study (GWAS) on Alzheimer’s disease has revealed genetic risks reported to have mechanisms associated with neuro-inflammation. Eisai is focusing on projects related to reactive glial cells for the creation of treatment in dementia area.
+■Neuron interference by reactive glial cells
+   Main Ongoing Project •Anti-fractalkine antibody E6011
+Anti-fractalkine antibody E6011 is currently being developed for rheumatoid arthritis and inflammatory bowel disease, and expanding its indications to include Alzheimer’s disease is under consideration. E6011 binds with fractalkine, a chemokine that is induced on vascular endothelial cells during inflammation, and by suppressing either the inflammation or the immune cell activity, prevents reactive glial cells from interfering with neurons.
+ Ricchi 5 Synapse Micro-Environment
+The tip of a neuron is called a synapse and has a swelled nodular shape. Synapses do not appress adjacent neurons and this slight gap between neurons is called a synaptic gap. In a synaptic
+gap, an electric signal is changed into a chemical substance
+(a neurotransmitter) that transmits information to the next
+neuron. When an electric signal is transmitted to the synapse,
+a neurotransmitter from the synapse vesicle is secreted in the synaptic gap and binds with a receptor in the cell membrane
+of the next neuron. An electric signal impulse then occurs and information is transmitted to the next neuron. In dementia patients, accumulation of abnormal proteins such as Aβ and overreactions of neuro-inflammation interfere with the synapses, which leads to loss of synapses and death of neurons.
+Eisai is working on projects to revitalize neurons by improving the synapse micro-environment and restoring synapse function. In this way, through the reactivation of residual functions, we are aiming to cure Alzheimer’s disease and prevent neuron death.
+Ricchi 6 Neuronal Regeneration
+■Synapse Micro-Environment
+  Main Ongoing Project •EphA4 synapse modulator
+As one approach, we are investigating the development of an Alzheimer's disease treatment that works by inducing stabilization of the synapses through enhancing cleavage of EphA4, a protein which regulates maintenance and formation of synapse. It is thought that the severed EphA4’s C-terminal fragments play an important role in maintenance of synapses. In fact, there have been reports of reduced EphA4 cleavage observed in Alzheimer's disease patients.
+ The brain is composed of neurons, glial cells and blood vessels. Glial cells account for the largest part of all brain cells in humans while astrocytes account for the largest number of cells in the cerebral cortex. In the same manner as neurons, astrocytes receive neurotransmitters in the synapses that are the points of contact between neurons and then release various neurotransmitters, and this process is believed to regulate the efficiency of information transmission and influence memory and learning.
+While other companies and academics are attempting to treat neurodegenerative disease through neuron transplants, Eisai has set its sights on astrocytes and is focusing on maintenance of brain durability. In this field, Eisai is working on projects to develop next generation treatment methods.
+35
+Eisai Integrated Report 2017
+Business Base (ESG) Appendix
+
+   Intellectual Capital
+Development of New Potential Dementia Treatments Industry-Leading, Abundant Pipeline under Development
+  An Ever-Increasing Number of Dementia Patients
+■Trends in the Number of Dementia Patients in the World (millions of persons)
+In 2015, there were an estimated 46.78 million dementia patients worldwide. As the aging of
+the global population gathers pace, the number of dementia patients is expected to continue trending upward and increase approximately
+1.6 times to 74.69 million patients in 2030 and approximately 2.8 times to 131.45 million in 2050. Of particular note, the rate of increase in dementia patients in low-and middle-income countries is projected to significantly exceed
+the rise in high income countries. Therefore, promoting initiatives to address dementia is a global issue and there are hopes that therapeutic agents that satisfy these unmet medical needs will be developed quickly.
+0
+What is Dementia?
+Dementia is a condition characterized by the occurrence of a variety of disorders and the emergence of impediments to everyday life due to the death of brain cells and a worsening of cognitive functions resulting from various causes. There are different types of dementia. Symptoms of Alzheimer’s, the most prevalent dementia, are mainly those related to memory impairment (core symptom), while behavioral and psychological symptoms (BPSD) such as delusions and hallucinations, violence, wandering and depression can also be observed. Other types of the disease include dementia with Lewy bodies and vascular dementia, among others. All of these are characteristically progressive.
+Medicine Creation Targeting the Accumulation of Aggressive Factors
+Marketed treatments for Alzheimer’s disease (AD), including Eisai’s Aricept, are designed to delay the progression of the disease. Unmet medical needs for dementia treatment still remain high. Eisai currently collaborates with Biogen Inc., a pharmaceutical company focused on neurodegenerative diseases, in developing next generation agents targeting beta amyloid (Aβ) and tau, the so-called causal substances of AD.
+AD is associated with the occurrence of neuronal cell death as a result of the gradual accumulation of proteins in
+the brain, called Aβ from long before the onset of symptoms, such as memory impairment. The accumulation of
+Aβ is considered to accelerate the tau pathology and might be the cause of neuronal cell death, resulting from the accumulation of tau. The accumulation of aggressive factors such as Aβ and tau is considered to be the potential target of AD treatment.
+Accumulations of Aβ begin more than 15 to 20 years prior to the appearance of Alzheimer’s disease symptoms. Various changes occur within the brain up to the point when abnormalities in clinical cognitive functions can be observed.
+Mild cog
+■
+■
+Number of dementia patients in high income countries
+Number of dementia patients in low and middle income countries
+ Expansion of 2.8 times Expansion of 1.6 times
+131.45
+2050 (year)
+     46.78
+2015
+74.69
+2030
+27.95
+42.18
+ 89.28
+  19.50
+27.28
+46.74
+ Source: World Alzheimer Report 2015: The Global Impact of Dementia
+ ■Pathogenic mechanism of Alzheimer’s disease
+Accumulations of beta amyloid (Aβ) inside the brain
+  Accumulations of tau inside the brain
+ Change in brain structure
+  Impairment of memory
+Impairment of clinical function
+ nitive impairment
+Dementia (mild→moderate→severe)
+     36
+  
+   Company Introduction Management Strategies
+Value Creation Activities
+Five Next Generation Alzheimer’s Disease Treatment Projects Including Collaboration with Biogen Inc.
+   elenbecestat*1(E2609) (BACE inhibitor)
+Beta-secretase (BACE)
+Anti-tau antibody
+BIIB076*2 (Anti-tau antibody) Biogen Inc.
+Hyperphosphorylation and accumulation of tau in neuronal cell
+Neuronal cell function disorder
+ Amyloid precursor protein (APP)
+Gamma-secretase
+Cuts APP at C-terminal side
+Monomer
+Greater tendency to bond together
+BAN2401
+(Anti-Aβ protofibrils antibody)
+Cuts APP at N-terminal side
+aducanumab*2 (Anti-Aβ antibody)
+Biogen Inc.
+Beta amyloid (A )
+          β
+    Aβfibrils
+Insoluble fibrous aggregates
+Deposit and form amyloid plaque
+(may cause neuronal cell death)
+Amyloid plaque
+Neurofibrillary tangle
+     Neuronal cell death
+  Aβ protofibrils
+  Large soluble aggregates
+Highly neurotoxic
+(Induce neurodegenerative process and cause neuronal cell death)
+*1 Generic name for E2609. The generic name is not yet fixed. *2 Eisai has an option to jointly develop and commercialize
+● Investigational BACE Inhibitor Developed In-house elenbecestat*1 (E2609) (Co-development with Biogen Inc.)
+Discovered by the Tsukuba Research Laboratories, this compound inhibits the beta-site amyloid precursor protein- cleaving enzyme (BACE), which is the enzyme involved in the production of Aβ. Elenbecestat is currently in PhaseIII studies with the aim for launch shortly after fiscal 2020.
+● Investigational Anti-Aβ Protofibrils Antibody BAN2401 (Co-development with Biogen Inc.) This anti-Aβ protofibrils antibody is in-licensed from BioArctic AB. BAN2401 has unique characteristic to bind and
+reduce toxic Aβ protofibrils. BAN2401 is currently in PhaseII study with the aim for launch shortly after fiscal 2020. ● Investigational Anti-Aβ Antibody Aducanumab under Development by Biogen Inc.
+(Eisai has an option to jointly develop and commercialize)
+Biogen Inc. is currently developing this anti-Aβ antibody and is conducting PhaseIII studies.
+● Anti-tau Antibody under Development by Eisai, and an Anti-tau Antibody BIIB076 under Development By Biogen Inc.
+Eisai is independently conducting a preclinical study with the anti-tau antibody targeting tau, which is considered one of the causal substances of AD. Biogen Inc. is conducting a Phase I study with an anti-tau antibody BIIB076 (Eisai has an option to jointly develop and commercialize [the option rights regarding joint development/joint sales promotion]).
+Business Base (ESG) Appendix
+Decline in cognitive function
+ Eisai’s option exercise conditions for aducanumab
+Eisai has the right to exercise the option for aducanumab at the time of 1) or 2) below.
+1) Post-Phase II BIIB037 Option: After the completion of both aducanumab Phase Ib clinical trials and BAN2401
+PhaseII clinical trials
+2) Post-Phase III BIIB037 Option: After the completion of aducanumab Phase III clinical trials
+For details on conditions for exercising the options held by Eisai, please refer to this press release.▶ http://www.eisai.com/news/news201507.html
+37
+Eisai Integrated Report 2017
+
+ New Paradigm of Drug Discovery against Dementia: Three Pillars and 11 Projects under Development
+Aducanumab*1 Elenbecestat*2,3 Early AD Early AD Anti-Aβantibody BACE inhibitor
+BAN2401*2,4 Early AD Anti-Aβprotofibrils antibody
+BIIB076*1 AD/dementia New mechanism of action
+E6011 AD/dementia Anti-fractalkine
+antibody
+Progress of aggressive factors accumulation
+Brain maintenance system
+Transformation of symptoms over time
+Lemborexant*5 ISWRD*6 associated with Alzheimer’s disease dementia Dual orexin receptor
+Aβ
+Sleep
+disorder
+E2730
+Epilepsy New mechanism of action
+Anti-tau antibody AD/dementia New mechanism of action
+Tau
+Genetic background
+Environmental factor
+Behavioral
+disorder
+E2082
+Epilepsy Next generation AMPA receptor
+antagonist
+Reactive Glial Cells
+Protective mechanism
+Cognitive
+disorder
+Ideation Stage
+Intracerebral clearance enhancer through reinforcing
+protective mechanism
+Brain homeostasis improving agent targeting astrocyte
+Neural stem cell activation agent
+antagonist
+*1 Developed by Biogen Inc. Eisai has an option to jointly develop and commercialize. *2 Co-development with Biogen Inc.
+*3 Generic name for E2609. The generic name is not yet fixed.
+*4 Licensed-in from BioArctic AB
+*5 Co-development with Purdue Pharma L.P. *6 ISWRD: Irregular sleep-wake rhythm disorder
+The development of next generation AD treatments has focused on aggressive factors, such as Aβ and tau. Eisai collaborates with Biogen Inc. in developing BACE inhibitor elenbecestat (E2609) and anti Aβ protofibrils antibody BAN2401 which target Aβ. Eisai also has the option rights to the anti-Aβ antibody aducanumab and the anti-tau antibody BIIB076, which are being developed by Biogen Inc. Furthermore, Eisai is conducting a study for the in-house anti-tau antibody. As Aβ and tau accumulate in a multilayered manner, the glial cells that play a part in the phagocytosis of Aβ and tau excessively release inflammatory factors and others, causing disorder to the nerve cells by remaining active for a long time (reactive glial cells). Eisai is conducting a drug discovery study for E6011, targeted at reactive glial cells.
+In recent years, the occurrence of transformation of symptoms over time has become increasingly known: It starts as a sleep disorder 10 to 20 years before the diagnosis of dementia, followed by behavioral disorder then cognitive impairment, in that order. Possible forms of sleep disorders, beside basic ones, include REM sleep behavior disorder (RBD) and irregular sleep-wake rhythm disorder (ISWRD) among others. RBD and ISWRD are considered to be closely related to dementia. Depression, epilepsy, anxiety, dysosmia and other forms of behavioral disorders are considered to follow sleep disorders due to the accumulation of Aβ.
+The brain has a mechanism for protection. It is a known fact that protective genes and positive environmental factors function to maintain homeostasis. Reported protective mechanisms include a function for phagocytizing and eliminating Aβ and other foreign matter that occurs within the brain, a function for healing damaged nerve cells and a function
+for facilitating the regeneration of nerve cells through the differentiation of neural stem cells, among others. This brain maintenance system may be the new target of drug discovery aimed at curing dementia.
+Eisai considers that the future efforts to develop dementia treatments should focus on the process of accumulation of aggressive factors such as Aβ, tau and reactive glial cells; the transformation of symptoms over time that occurs in the order of sleep disorder, behavioral disorder and cognitive impairment; and the brain maintenance system.
+38
+E2027 Treatment for behavioral/ cognitive disorder due
+to Lewy body disease/ dementia PDE9 inhibitor
+EphA4 Synapse modulator
+
+    Company Introduction Management Strategies
+Value Creation Activities
+Medicine Creation Targeting at Transformation Symptoms Over Time
+It is known that sleep facilitates the excretion of Aβ from the brain. A sleep disorder may also accelerate the accumulation of Aβ and potentially lead to AD. Eisai is conducting clinical studies with lemborexant, an antagonist to dual orexin receptors, which are involved in the regulation of sleep and awakening; two PhaseIII studies on insomnia disorder and a PhaseII study on irregular sleep-wake rhythm disorder (ISWRD) associated with Alzheimer’s disease dementia.
+After the sleep disorder, a behavioral disorder may occur in such forms as depression, epilepsy, anxiety and dysosmia in relation to the accumulation of Aβ and tau. Inhibiting these disorders might delay the onset of dementia. Eisai also develops new drugs for epilepsy and other neurological disorders. For example, E2082 is a next generation AMPA receptor antagonist and E2730 has a novel mechanism of action. Furthermore, Eisai develops E2027, a PDE9 inhibitor against behavioral disorders and cognitive impairment due to dementia with Lewy bodies/dementia. Eisai also conducts a study for drug discovery targeting EphA4, which concerns synapse stabilization.
+Medicine Creation Targeting at Brain Maintenance System
+It is a known fact that the brain has many protective mechanisms to maintain robustness. The brain consists of
+nerve cells, glial cells and blood vessels. Glial cells function to facilitate the survival of nerve cells and to maintain and metabolically support the intracerebral environment. Glial cells are said to be nearly 10 to 50 times larger than nerve cells in quantity and occupy the largest part of cells in the human brain.
+Astrocyte, the most common type of glial cell, is known to receive neurotransmitters and release different transmitters, as nerve cells do. Astrocyte is also considered to structurally support the brain and acts as a mechanism for stimulating neural transmission and nourishment.
+Microglia, a type of glial cell, is known as the cell with an immunity function in the nerve center. In a normal state, it monitors the surrounding environment while moving the slender process. When it is activated in a pathological condition, it moves to the disease site and plays roles such as phagocytizing damaged cells and extracellular proteins such as Aβ.
+The brain maintainance system supported by these protective mechanisms can be considered an important new target of drug discovery aimed at the curing of dementia.
+Eisai’s Resources based on the Maximum Use of Experience and Knowledge toward Development of Dementia treatments
+It is considered that achieving the primary endpoint in a clinical study requires the satisfaction of four elements, such
+as the right drug discovery target, right patients, right dosage, and right clinical evaluation indicators. Targeting Aβ is based on strong human evidence such as pathological findings of AD postmortem brains, gene mutation of familial AD and gene mutation to prevent the onset of AD. Eisai practices unique inventions for leading developments into success, leveraging over three decades of accumulated knowledge and know-how since the company launched its dementia study at Tsukuba Research Laboratories in 1983.
+ Innovative Approach in the Development of Next Generation AD Treatments based on Aβ Hypotheses ● Choosing appropriate patients (early-onset AD, more specifically mild cognitive
+impairment with intracerebral Aβ deposition) and accurate screening
+The risk of failure increases in a clinical trial with patients who are in an excessively advanced stage of the disease
+against the mechanism of action or who are yet to be diagnosed with Aβ deposition. ● Consideration of dose setting
+Minimize arm setting as possible to confirm efficacy with utilization of biomarkers for small molecule compounds development. Prudently consider dose setting in Phase II study for antibodies that entail a fear of low intracerebral extraction rate due to the blood-brain barrier
+● Choosing an endpoint sensitive to the clinical evaluation of early-onset AD patients Select clinical scale for the evaluation of clinical effects, with high sensitivity in targeted patient population, such as
+CDR-SB and ADCOMS.
+● Implement two pivotal studies with the same study design simultaneously aiming at fulfilling regulatory requirements
+39
+Eisai Integrated Report 2017
+Business Base (ESG) Appendix
+
+    Intellectual Capital Social and Relationship Capital Initiatives for Dementia Area
+Offering Solutions that Go Beyond Providing Pharmaceuticals
+Eisai’s initiatives in dementia area extend beyond merely providing pharmaceuticals. Eisai also undertakes a variety of activities for solving issues faced by patients and the community and for building a foundation for a society that coexists with dementia. In this section, we introduce some of those specific activities.
+   A 20-Year Journey with Aricept —Enhancing Recognition of Dementia in the World
+ Eisai launched the in-house developed dementia treatment Aricept in 1999. The introduction of Aricept as Japan’s first Alzheimer’s disease treatment provided patients and their families with great hope. In the following section, Dr. Kazuo Hasegawa, Director Emeritus at the Tokyo Dementia Care Research and Training Center, describes the differences between the situation today and the times prior to the launch of Aricept when there were no treatments for dementia.
+spread of simple diagnostic methods such as MMSE* that is more suitable for the practical clinical stage.
+In 2000, Eisai launched Japan Academy for Alzheimer’s Disease together with doctors. This was set up in order to promote discussions about various issues regarding dementia among medical specialists and primary doctors that transcend fields of medical care and to support a proper paradigm shift. This academy, which was attended by 300 people at the first session, is now attended by approximately 1,500 doctors each year.
+These types of initiatives have produced positive results and have helped significantly increase the awareness of dementia throughout the world. Dr. Shigeki Kuzuhara, Professor Emeritus at Mie University, describes these changes below.
+ “Donepezil was a ray of light in the darkness.”
+“During my practicing days, doctors had no available treatments for Alzheimer’s disease even when the disease was diagnosed at an early stage. Because of this, doctors would express their regrets to patients and their families with a sense of powerlessness and futility. There are now clinical studies where donepezil can be administered and this is providing patients, their families as well as doctors with a sense of hopeful fulfillment. This hopefulness is one of the major differences from the feeling of powerlessness that I recall from the past.”
+Dr. Kazuo Hasegawa (2009)
+Director Emeritus,Tokyo Dementia Care Research and Training Center
+ “For me, the most notable and greater-than-expected effect of Aricept in Japanese society was the major change it spurred in the approach and awareness in dealing with dementia. Prior to the launch of Aricept, dementia was regarded as a symptom of aging. There was little awareness that this was a disease needing therapeutic intervention. The arrival of Aricept transformed this awareness. I believe this was a major turning point that led to efforts to overcome dementia with the involvement of not just medical practitioners, patients and caregivers but also with the participation of all citizens in Japan. The limitations of drug therapy with Aricept were also clearly demonstrated at the same time and this helped promote a wide acceptance of the importance of care for coping with peripheral symptoms (Behavioral and Psychological Symptoms of Dementia (BPSD)).”
+Dr. Shigeki Kuzuhara (2013)
+Professor, Department of Medical Welfare, Faculty of Health Science, Suzuka University of Medical Science Professor Emeritus (Neurology), Mie University School of Medicine
+Back then, however, dementia was still described in Japan as “senility”, and the understanding of this disease and its diagnostic methods had not adequately spread throughout society. Eisai was acutely aware that the environment surrounding dementia patients would never change just by providing Aricept. Acting on this recognition, Eisai proactively promoted a variety of initiatives to break through the status quo approach toward dementia.
+First, Eisai repeatedly carried out disease education activities through civic forums and its website to raise awareness
+for Alzheimer’s disease. To date, Eisai has held meetings
+for dementia disease awareness on approximately 2,000 occasions in Japan and around 10,000 times globally. For dementia diagnosis, Eisai has actively worked to promote the
+* MMSE (Mini Mental State Examination) was developed in the U.S. in 1974 for diagnosing dementia and other diseases. This is an examination mainly for measuring recall, calculation ability, language ability and orientation.
+Supporting Community Building and Forming Partnership Agreements
+ Having recognized the importance of activities that extend beyond the framework of providing pharmaceutical products, in 2008 Eisai started full-scale activities nationwide for supporting the “building of communities that coexist with dementia.” Community building requires the cooperation of medical and caregiving specialists, government administrations and local governments and community residents to realize patient-friendly communities. By convening study groups
+and supporting interprofessional collaboration, Eisai has built relationships of trust with healthcare providers, caregivers and local governments, and supported community building.
+In 2010, Eisai entered into a community development partnership with Asahi Ward in Yokohama city. This was the first agreement to support dementia patients in community level in Japan. Through this agreement, we have compiled
+numerous achievements. These include implementing a community needs survey to formulate the Asahi Ward Welfare Plan; participating in the Home Medical Care Liaison Council; holding a study workshop with the Area Comprehensive Support Center and consulting doctors; and convening a study workshop for specialists. These achievements earned high acclaim and we expanded these partnership agreements to regions across Japan. As of the end of July 2017, partnership agreements for dementia had
+been formed with 102 towns/
+cities in Japan.
+Signing ceremony for Dementia Cooperation Agreement with Mie Prefecture
+ 40
+  
+   Company Introduction Management Strategies
+Developing the “Human Health Care (hhc) Solutions Business
+— Aiming to Build the Foundation for a Society That Coexists with Dementia —
+Value Creation Activities
+ To further undertake activities that transcend the framework
+of providing pharmaceuticals, from April 2016 Eisai has also been promoting business to provide solutions that satisfactorily respond to the issues faced by local governments for the purpose of establishing a social system which enables to coexist with dementia.
+There are numerous unmet patient and family needs (clinical questions) at the front-lines of medical care. The aim of our hhc Solutions Business is to deeply consider these needs together with people from a variety of professions, beginning with healthcare providers, and continuously provide solutions to these needs. Eisai’s partnership agreement for dementia at 102 towns/cities across Japan fulfill a crucial role in the hhc Solutions Business. These dementia cooperation agreement partners exchange opinions with residents of their respective communities to discover various types of specific clinical questions. Additionally, Eisai established the Living Laboratory where a variety of stakeholders such as community residents, companies, governments, universities and medical institutions can participate. By repeatedly considering, developing and evaluating solutions at the Living Laboratory, Eisai aims for
+the swift development of solutions that bring high outcomes (therapeutic effects and economic efficiency).
+Eisai is also successively launching tools used in providing solutions, such as Hikari One Team SP and e-OKUSURI-SAN.
+■Interprofessional collaboration cloud service Hikari One Team SP  In July 2016 we began providing interprofessional collaboration support cloud services that enable the timely sharing of patient information. (Sales:
+NTT TechnoCross Corporation)
+This is an image of the information to be shared
+■Medication administration support device e-OKUSURI-SAN
+ In January 2017, we launched medication administration support device
+which inform the patients when it is time to take their medicine by “voices” and others. It is also equipped with a function to support looking after patients via cloud services.
+■ Trends in treatment satisfaction levels and medicine contribution levels for Alzheimer’s disease
+60% 40% 20%
+      Reporter
+Administration
+Adverse event
+Physical activity
+Vital signs
+     Doctor
+      Nurse
+     Pharmacist
+      Care worker
+     Care manager
+Business Base (ESG) Appendix
+      Family
+   Goals of hhc Solution Business
+Eisai has been undertaking various initiatives for dementia for a quarter of century. During the course of these initiatives, patients and their families as well as medical care and nursing care providers have told me personally: “Thanks for creating Aricept. I hope you can also create new treatments that close in on the cause of dementia.”
+As our aspired company image for fiscal 2025, Eisai
+will strive to become a Medico Societal Innovator. To do so, it will become increasingly important to contribute to “community-based health care that delivers safety and peace of mind” to patients and their families by providing new solutions in addition to satisfying patient needs in “prevention, cure and care” by developing next generation Alzheimer’s disease treatments.
+We at the hhc Solutions Headquarters are striving to
+fulfill our mission of “Aiming to establish a social system which enables to coexist with dementia through solving their problems
+by providing solutions in real world in the dementia area for clinical questions found based on True Needs of patients and their families.”
+Yoshiro Den
+Senior Executive Director hhc Solutions Headquarters
+ Raising Patient Satisfaction Levels
+Approximately every five years since fiscal 1994, the Japan Health Sciences Foundation has implemented a questionnaire survey mainly targeting physicians that asks about treatment satisfaction levels and medicine contribution levels for
+60 socially important diseases. According to this survey, treatment satisfaction levels and medicine contribution levels for Alzheimer’s disease are steadily rising even though these are still lower compared with other diseases. Eisai believes these increases are a manifestation of the positive results of Eisai’s activities centering on disease awareness activities and support for “community building” in addition to the provision of Aricept. Eisai will make its utmost efforts to further raise patient satisfaction levels.
+■●
+0% 20%
+  41
+Eisai Integrated Report 2017

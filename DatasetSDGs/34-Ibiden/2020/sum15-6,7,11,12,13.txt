@@ -1,0 +1,81 @@
+We conduct the environmental load reduction activity with all concerned people under IBIDEN way, aim “Harmony with nature” by reducing the bad effect on global environment generated in our business operation, and fulfill the role as enduring company.
+
+Energy (climate change):
+Aim for zero CO2 emissions with the energy conservation and the use of renewable energy, and business contributions.
+Blessing of water:
+Value the blessing of water and reduce the impact on water resources to the minimum.
+Waste (resources):
+Reduce waste by minimizing the use of resources and maximizing recycling.
+Chemical substances:
+Thoroughly control chemical substances contained in raw materials on a global basis.
+
+TOPICS
+Action to the Task Force on Climate-related Financial Disclosures (TCFD)
+In August 2020, we announced our support for the recommendations of the TCFD. To achieve sustainable growth, we will appropriately assess our climate-related risks and opportunities, clarify their impact on our business operations and necessary measures, and actively disclose such information to a wide range of stakeholders, including investors.
+
+To promote environmental activities including responses to climate change, we established a company- wide Environment Committee chaired by the director in charge of Corporate Strategic Manufacturing Operation who is in charge of company-wide environment, health and safety matters. The Environment Committee has assumed control of the practice of environmental activities.
+
+We recognize highly important business risks and opportunities to be brought about by climate change and continue to respond to them under the Medium-Term Management Plan.
+Refer to page 18 for details of the changes in the business environment and our responses to risks.
+We plan to verify the impacts to be brought about on our Company’s operations as well as our strategies and goals by using scenario analysis and other methods.
+
+In the company-wide risk management process, we analyze a wide variety of risks surrounding management and addresses items that will seriously impact our business.
+A company-wide Risk Management Committee chaired by the President & CEO is held annually.
+
+Under our current Medium-Term Management Plan, we have been working on the reduction of GHG emissions per production volume. Furthermore, we will set a goal for further contributions to the reduction of GHG emissions in the medium-to-long term perspective.
+
+ESG ManagementActions to Climate Change Issues
+ We regard the acceleration of climate change as one of the risks surrounding our Company. Therefore, with the aim of achieving the goal of zero GHG emissions by 2050, we have been promoting activities with four pillars including the use of hydroelectric power generation which utilizes the blessing of water passed down from our ancestors.
+Resource Circulating Activities
+1. Use of Blessings from Our Ancestors with Hydroelectric Power Generation
+Hydraulic power generation is clean energy without greenhouse gas emissions. IBIDEN has owned and operated hydraulic power generation plants since our foundation, and currently operates three facilities located at the upstream section of Ibigawa River in Gifu Prefecture (27,900kW in total. Power generation capacity updating was completed by 2015).
+3. Low Carbon Energy Use by In-house Power Generation
+IBIDEN installed a highly energy efficient in-house power generation gas engine cogeneration system to generate low carbon energy. In fiscal year 2019, we installed the latest cogeneration equipment to promote energy conservation, and worked to strengthen our BCP. These initiatives were highly appreciated by the Advanced Cogeneration and Energy Utilization Center JAPAN (ACEJ) , and we were granted the grand prize of the Cogeneration Award by ACEJ.
+Moreover, we install solar power generation equipment in each plant to generate renewable energy. In the future, we aim to establish a system whereby each plant is connected to our own power grid so that privately generated electricity can be optimally supplied in accordance with demand between each plant.
+ACEJ Website: https://www.ace.or.jp/web/gp/gp_0010.html
+4. Contribution to Expansion of the Renewable
+Energy Market by the Power Generation Business
+Our Group company, IBIDEN Engineering Co., Ltd. specializes in business in the energy solution field.
+Through an integrated approach, in which its business includes design proposal, construction and maintenance, IBIDEN Engineering has a track record in many power generation projects ranging from equipment for hydroelectric power plants and power substations to systems for solar power generation plants and small hydroelectric power plants.
+We will continue to promote business solutions for energy problems within and beyond the Group.
+Water floating solar power generation plant (Certificated output:1.99MW)
+IBIDEN believes that it is an important responsibility of businesses to make effective use of the world’s scarce resources and to take part in a global effort to conserve resources. We promote the so-called 3R activity, which consists of initiatives to Reduce, Reuse and Recycle the resources we consume. In doing so, we aim to improve the resources efficiency.
+Currently, each plant and Group companies are working on sorting out and recycling wastes. Together with improved production efficiency, we set a goal of reducing the waste basic unit per production volume by 5% in our Medium-Term Management Plan.
+Chemical Control
+Compliance with Laws and Regulations related to Substances Contained in Products and Chemical Substances in the Manufacturing Process and Management of the Work Environment
+A variety of chemical substances are used in the manufacturing process in the Group. They may cause environmental pollution or pose health hazards to humans. It is a great responsibility for businesses to properly manage chemical substances to secure product safety, reduce environmental burdens, and promote occupational safety.
+Regarding chemical substances, the laws and regulations of each country, including the REACH Regulations and the RoHS Directive, as well as the standards demanded by our customers, are becoming increasingly stringent. To prevent risks caused by chemical substances, we are working to properly manage chemical substances throughout the entire supply chain by identifying substances whose use should be eliminated or reduced in the Green Procurement Guidelines.
+A large amount of water resources is used in the manufacturing process of electronic products, particularly for cleansing. Ogaki City in Gifu Prefecture, where our domestic production bases are concentrated, is rich in underground water thanks to the Ibigawa River system. However, water shortages are a serious problem in the world today.
+Introduction
+Value Creation
+ESG Management
+Financial and Corporate Data
+   Higashi-Yokoyama Power Plant
+2. Energy Use Reduction with Energy Efficient Technologies
+The IBIDEN Group consumes a large amount of energy in its production activities, including energy uses for temperature control in the manufacturing process in the Electronics Operation and electric furnaces for the Ceramics Operation.
+Therefore, we set targets, monitor energy use company- wide, and conduct improvement activities to realize an energy efficient production process.
+GHG Emissions Reduction Target
+FY2018-FY2022 (Medium-Term Management Plan)
+Aiming to reduce the basic unit per converted production volume by 5% compared to FY2017.
+We will continue to set emission reduction targets in coordination with future medium-to-long term growth strategies.
+Blessing of water
+1) Initiatives for Laws and Regulations related to Chemical Substances
+Although some chemical substances used in the ceramic business fall under the category of substances whose inclusion in products is restricted under the EU REACH Regulations, we completely replaced them with alternative substances in fiscal 2018.
+Additionally, in Japan, according to the country’s basic plan, equipment containing polychlorinated biphenyls (PCB) and PCB waste must be controlled. The IBIDEN Group has been taking action in a planned manner by setting deadlines earlier.
+2) Considerations on the Health of Employees with regard to Chemical Substances
+To ensure the health and safety of our employees, we provide employees who handle chemical substances with education regarding the harmfulness and proper handling of such substances before the employees are assigned to such operations. When they engage in the operations, they are provided with appropriate protective equipment and are obliged to wear it.
+ Environmental Contribution through Business and Products
+Based on our corporate missions, the IBIDEN Group aims to contribute to the growth of an enriched society with our products and services created from our business activities.
+While the goal of reducing our environmental burden continues, our automobile exhaust parts contribute to realizing cleaner air by reducing particulate matter in emission gas.
+We will continue to develop high-efficiency and high-function intake and exhaust systems based on our ceramic molding and sintering technology which aim for cleaner emissions.
+Related businesses in our Group also utilize their
+accumulated technologies to provide products and services that will help reduce the environmental burden.
+IBIDEN Greentec Co., Ltd. continues to provide new construction methods that achieve both disaster prevention and environmental protection, such as the “Totally Green” method.
+    Actions to water risk
+We carry out risk assessment of water resources in-house by referring to data released by the World Resources Institute (WRI) and other data, and we have thus identified IBIDEN Electronics (Beijing) Co., Ltd. as our Group companies with a high water resource risk. IBIDEN Electronics (Beijing), which uses particularly large amounts of water, has been increasing the use of recycled water inside its industrial park since fiscal year 2012. As a result of such efforts, the ratio of water recycling has been maintained at over 90%.
+Wastewater Control
+Our Group’s business activities are supported by the rich water resources in the Ogaki area of Gifu Prefecture.
+Underground water pumped to the surface passes through wastewater treatment after use, and is released into rivers or a sewage treatment facility under the strict control of our Group based on our own standards that are stricter than the ones required by laws and regulations.
+Slope constructed using the GT frame®
+ 37 IBIDEN Co., Ltd. Integrated Report 2020
+IBIDEN Co., Ltd. Integrated Report 2020 38

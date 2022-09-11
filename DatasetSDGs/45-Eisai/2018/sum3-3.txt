@@ -1,0 +1,517 @@
+Intellectual Capital Message from Corporate Officers in Charge of Neurology Area
+Aiming to be a top runner in the development of next-generation dementia treatments
+Ivan Cheung (Left)
+Senior Vice President President, Neurology Business Group
+Teiji Kimura (Right)
+Vice President Chief Discovery Officer, Neurology Business Group   Strengths
+1. Industry-leading R&D pipeline in the dementia area
+2. Abundant experience and knowledge of drug creation and
+disease awareness activities in the dementia area
+3. Global strategic partnerships that enable increased probability
+of success and accelerated development with optimization of development and commercialization expensesWeaknesses
+1. Focus on dementia, an area in which developing new drugs is particularly difficult and large-scale clinical studies are required, necessitating a large amount of R&D expenditure
+  Opportunities
+1. Expansion of market for dementia treatments as population ages 2. Expansion of potential market as dementia diagnosis
+technology improves
+Q : What are Eisai’s strengths in the Neurology area?
+A : Cheung Our greatest strength is that we possess an industry-leading pipeline in the dementia area. We have a total of 11 projects under development in this space.
+The projects targeting beta amyloid (Aβ) are making remarkable progress. Regarding the anti-Aβ protofibril antibody BAN2401*1,2, the final analysis at 18 months of the 856 patient Phase II clinical study
+in early Alzheimer’s disease demonstrated statistically significant slowing in clinical decline and reduction of Aβ accumulated in the brain. Additionally, two global Phase III studies for BACE (beta amyloid cleaving enzyme) inhibitor elenbecestat*1 in patients with
+early Alzheimer’s disease are steadily progressing. The Phase II study conducted in the U.S. was the
+first study of a BACE inhibitor to show a statistically significant reduction of Aβ accumulated in the brain while also suggesting a delay of clinical symptom decline in exploratory endpoints. Moreover, two Phase
+III studies for anti-Aβ antibody aducanumab*1 are
+ongoing, and the patient enrolment was completed
+in July 2018. We are growing more confident in drug
+creation activities based on the Aβ hypothesis.
+*1 Co-development with Biogen Inc. *2 Licensed-in from Bio Arctic AB
+Q : Why is drug development in the dementia area considered to be so difficult? What strengths does Eisai have to overcome the difficulty?
+A : Kimura The U.S. FDA has not approved any treatments for dementia since 2003, so from that we can surmise that drug development in this area is incredibly challenging.
+One reason is that high-order functions like cognition are unique to humans, and so it is difficult to create an applicable experimental scenario
+using animal models. For example, even if Aβor tau accumulates in a mouse brain, it is not guaranteed that the mouse will develop dementia. We need to confirm the correlation, including biomarkers, between the reactions of animal models and the changes that occur inside a dementia patient’s brain or their core symptoms and to accumulate data. Another reason for the difficulty is that despite the advances made in diagnostic imaging technology like PET (positron emission tomography), there is still no way to directly observe the changes inside a human brain.
+Our knowledge and know-how of drug creation activities accumulated over 35 years in the dementia area will be a great advantage for our success in developing next-generation dementia treatments. We are utilizing the changes in in
+vivo substances called biomarkers as indicators
+in order to evaluate high-order functions unique to humans, which is difficult to create an applicable experimental scenario using animal models. This
+Threats
+1. Competing products entering the market
+2. Increasing pressure to lower drug prices as governments
+promote policies to reduce healthcare costs
+  40
+Company Introduction Management Strategies
+ Value Creation Activities
+Business Base (ESG) Appendix
+ method enables us to make more accurate predictions for clinical trials in humans based on the results obtained from animal studies. Eisai’s accumulated clinical samples, such as blood samples, and the accompanying clinical data can be used to further enhance the process. In fact,
+the new guidance from FDA for developing drugs for treatment of early Alzheimer’s disease (AD) and the new definition of AD by Alzheimer’s Association and National Institute on Aging in the U.S. considers biomarkers important and will support our drug creation activities. In addition, we are actively using iPS-derived neural cells made from clinical samples.
+Q : Why is it that so many dementia treatment candidates failed in clinical trials? What is Eisai doing differently from other companies?
+A : Kimura It is said that there are four elements (right drug discovery target, right patients, right dosage, right clinical evaluation indicators) that are important for a clinical trial to meet its primary endpoint. So we can surmise that the failed trials had an issue in one or some of these factors. For example, the failed clinical trials may have included patients whose Aβ disposition was unknown or patients whose AD had advanced to a stage beyond which the mechanism
+of action was effective. Or they may have gotten the dosage wrong, or the endpoint selected was not sensitive enough for the patient population.
+In our clinical studies, we have considered these as possible failings and have been incorporating the following factors, which we think will contribute to success:
+Q : What is the reason for the expansion of the collaboration with Biogen Inc. in October 2017 to develop and commercialize investigational AD treatments?
+A : Cheung The greatest reason for the expansion
+of the collaboration with Biogen Inc. and the exercise of the option to jointly develop and commercialize aducanumab is to aim to increase probability
+of success in development of all three next generation AD treatment candidates. We believe that the combination of Eisai’s abundant experience in drug discovery activities and the valuable information on aducanumab will enhance the probability of success in development of not only aducanumab but also elenbecestat and BAN2401.
+Strategic partnerships that enable increased probability of success and accelerated development with optimization of development and commercialization expenses are one of the great strengths of Eisai.
+Q : What are the problems with current diagnostic methods for early AD patients?
+What is the development status of new diagnostic methods?
+A : Kimura At present, dementia is diagnosed using PET imaging or cerebrospinal fluid analysis. However, there are some issues with these methods; there
+are not enough facilities equipped to perform PET imaging and cerebrospinal fluid analysis is highly invasive. For our next generation dementia treatments that target early AD patients, there is a strong need for a less invasive diagnostic method, such as a blood test.
+It is thought that Aβin the blood includes a small amount of a specific soluble Aβaggregate that comes from the brain. At present, we are conducting structure observation using Sysmex Corporation’s super-resolution fluorescence microscope in an attempt to identify the uniquely structured soluble Aβ aggregates in the blood. In this way, we are aiming to develop a diagnostic method that does not place a burden on the patient. Currently, Eisai’s accumulated clinical trial samples are being used to examine how correlated between the diagnosis of dementia by PET imaging and the structure of Aβ aggregates.
+Q : What are your expansion plans in Neurology?
+A : Cheung Along with the rapid aging of the population, the global market for dementia treatments is also expanding. While this is a business opportunity for Eisai, it is also a large threat for mankind. We
+need to develop next generation dementia treatments with a sense of mission. In order to make Eisai a
+top runner in the development of next generation dementia treatments, we are aggressively investing in our industry leading pipeline.
+The submission of an orexin receptor antagonist lemborexant* for insomnia disorder indication is anticipated in fiscal 2018. Antiepileptic agent Fycompa® was approved as monotherapy used for the treatment of partial-onset seizures in the U.S. in July 2017, and an application was submitted to expand the indication for use in the treatment in pediatric patients in the U.S. in March 2018. Through these developments, we aim
+      Aβ aggregates as seen with a regular fluorescence microscope
+Sysmex Corporation’s super-resolution fluorescence microscope
+Aβ aggregates as
+seen with a super- resolution fluorescence microscope
+ 1) Identifying positive Aβ disposition in early stage AD patients when enrolling for trials
+2) Setting appropriate doses for antibodies and small molecule compounds
+3) Selecting a suitable endpoint for evaluating effects for the early stage AD patients
+  to contribute to new patients.
+* Co-development with Purdue Pharma L.P.
+41
+Eisai Integrated Report 2018
+
+ Intellectual Capital
+Development of New Potential Dementia Treatments Industry-leading, abundant R&D pipeline
+   What is Dementia?
+Dementia is a condition characterized by the occurrence of a variety of disorders and the emergence of impediments to everyday life due to the death of brain cells and a worsening of cognitive functions resulting from various causes. There are different types of dementia. Symptoms of Alzheimer’s, the most prevalent dementia, are mainly those related to memory impairment (core symptom), while behavioral and psychological symptoms (BPSD) such as delusions and hallucinations, violence, wandering and depression can also be observed. Other types of the disease include dementia with Lewy bodies and vascular dementia, among others. All of these are characteristically progressive.
+An Ever-Increasing Number of Dementia Patients
+In 2015, there were an estimated 46.78 million dementia patients worldwide. As the aging of the global population gathers pace, the number of dementia patients is expected to continue trending upward and increase approximately 1.6 times to 74.69 million patients in 2030 and approximately 2.8 times to 131.45 million in 2050. Of particular note, the rate of increase
+in dementia patients in low and middle income countries is projected to significantly exceed the rise in high income countries. Therefore, promoting initiatives to address dementia
+●Trends in the number of dementia patients in the world (millions of persons) ■ Number of dementia patients in high income countries
+■ Number of dementia patients in low and middle income countries
+ Expansion of 2.8 times Expansion of 1.6 times
+131.45
+     is a global issue and there are hopes that therapeutic agents that satisfy these unmet medical needs will be developed quickly.
+46.78
+0
+74.69
+2030
+27.95
+42.18
+ 89.28
+  19.50
+27.28
+46.74
+ Pathogenic Mechanism of Alzheimer’s Disease
+2015
+2050 (year)
+Source: World Alzheimer Report 2015: The Global Impact of Dementia
+Alzheimer’s disease is associated with the occurrence of neuronal cell death as a result of the gradual accumulation of proteins in the brain, called beta amyloid (Aβ) from long before the onset of symptoms, such
+as memory impairment. The accumulation of Aβis considered to accelerate the tau pathology and might be the cause of neuronal cell death, resulting from the accumulation of tau. The accumulation of aggressive factors such as Aβand tau is considered to be the potential target of Alzheimer’s disease treatment.
+●Pathogenic mechanism of Alzheimer’s disease Accumulations of beta amyloid (Aβ)
+  inside the brain
+Accumulations of tau
+ inside the brain
+structure
+Change in brain
+   Accumulations of Aβ begin more than 15 to 20 years prior to the appearance of Alzheimer’s disease symptoms. Various changes occur within the brain up to the point when abnormalities in clinical cognitive functions can be observed.
+Impairment of memory
+Mild cognitive impairment
+Impairment of clinical function
+Dementia (mild→moderate→severe)
+  42
+ 
+Company Introduction Management Strategies
+ Value Creation Activities
+Business Base (ESG) Appendix
+ Five Next Generation Alzheimer’s Disease Treatment Projects Including Collaboration with Biogen Inc.
+ E2814
+(Anti-tau antibody)
+BIIB076
+(Anti-tau antibody)
+Biogen Inc.
+Hyperphosphorylation and accumulation of tau in neuronal cell
+Neuronal cell function disorder
+   Amyloid precursor protein (APP)
+Gamma-secretase
+Cuts APP at C-terminal side
+Monomer
+Greater tendency to bond together
+BAN2401*1, 3 (Anti-Aβ protofibrils antibody)
+Cuts APP at N-terminal side
+Aducanumab*1 (Anti-Aβ antibody)
+Beta amyloid (Aβ)
+Aβ protofibrils
+Large soluble aggregates
+Highly neurotoxic
+(Induce neurodegenerative process and cause neuronal cell death)
+Elenbecestat*1 (BACE inhibitor)
+Beta-secretase (BACE)
+*2
+           Aβfibrils
+Insoluble fibrous aggregates
+Deposit and form amyloid plaque
+(may cause neuronal cell death)
+Amyloid plaque
+Neurofibrillary tangle
+   Neuronal cell death
+    *1 Co-development with Biogen Inc.
+*2 Eisai has an option to jointly develop and commercialize *3 Licensed-in from BioArctic AB
+● Investigational BACE Inhibitor elenbecestat developed in-house (co-development with Biogen Inc.)
+Discovered by the Tsukuba Research Laboratories, this compound inhibits BACE (beta-site amyloid precursor protein- cleaving enzyme), which is the enzyme involved in the production of Aβ. While BACE is generally classified as BACE1 and BACE2, elenbecestat shows relative selectivity to BACE1 which is potentially related to Aβ production in the brain. Elenbecestat is currently in PhaseIII studies aiming for launch shortly after fiscal 2020.
+● Investigational anti-Aβ protofibrils antibody BAN2401 (co-development with Biogen Inc.)
+This anti-Aβ protofibrils antibody is in-licensed from BioArctic AB. BAN2401 has a unique characteristic to bind and reduce highly toxic Aβ protofibrils. In July 2018, the final analysis at 18 months of PhaseII study of BAN2401 achieved statistical significance in both endpoints of slowing in clinical decline and reduction of Aβ accumulated in the brain.
+● Investigational anti-Aβ antibody aducanumab (co-development with Biogen Inc.)
+This anti-Aβ antibody is discovered by Neurimmune AG and developed by Biogen Inc. Eisai has exercised its option to jointly develop and commercialize aducanumab in October 2017. Aducanumab is currently in PhaseIII studies and the patient enrollment for the studies was completed in July 2018.
+● Investigational anti-tau antibody E2814
+Eisai is independently developing an antibody to tau, which is considered one of the causative substances of Alzheimer’s
+disease, and initiation of clinical studies is anticipated in fiscal 2018.
+● Investigational anti-tau antibody BIIB076 under development by Biogen Inc.
+Biogen Inc. is currently conducting a Phase Istudy for BIIB076. Eisai has a right to exercise its option for joint
+development and commercialization after the completion of the PhaseIstudy.
+43
+Eisai Integrated Report 2018
+Decline in cognitive function
+
+ New Paradigm of Drug Discovery against Dementia: Three Pillars and 11 Projects under Development
+Aducanumab*1 Early AD Anti-Aβantibody
+Elenbecestat*1 Early AD BACE inhibitor
+E2814 AD/dementia Anti-tau antibody
+Tau
+Genetic background
+Environmental factor
+Behavioral
+disorder
+E2082
+Epilepsy Next generation AMPA receptor
+antagonist
+BAN2401*1,2 Early AD Anti-Aβprotofibrils antibody
+BIIB076*3 AD/dementia Anti-tau antibody
+E6011 AD/dementia Anti-fractalkine
+antibody
+Reactive Glial Cells
+Protective mechanism
+Cognitive
+disorder
+EphA4 Synapse modulator
+PDE9 inhibitor
+Eisai believes that it is important to focus on three pillars for the development of next-generation dementia treatments: 1. Accumulation of aggressive factors, such as Aβ, tau and reactive glial cells 2. Transformation of symptoms over time which sleep disorder, behavioral disorder and cognitive disorder are considered to appear in order, and 3. Brain maintenance system.
+Accumulation of aggressive factors
+Brain maintenance system
+Transformation of symptoms over time
+Lemborexant*4 ISWRD*5 associated with Alzheimer’s disease/dementia Dual orexin receptor
+Aβ
+Sleep
+disorder
+E2730
+Epilepsy Novel synapse function modulator
+E2027 Dementia with Lewy bodies
+antagonist
+* AD: Alzheimer’s disease
+*1 Co-development with Biogen Inc.
+*2 Licensed-in from BioArctic AB
+*3 Developed by Biogen Inc. Eisai has an option to jointly develop and commercialize. *4 Co-development with Purdue Pharma L.P.
+*5 ISWRD: Irregular sleep-wake rhythm disorder
+Medicine Creation Targeting Accumulation of Aggressive Factors
+Development of next-generation AD treatments has been conducted focusing on aggressive factors, such as Aβand tau. Eisai is developing BACE inhibitor elenbecestat, anti-Aβprotofibrils antibody BAN2401 and anti-Aβantibody aducanumab under the collaboration with Biogen Inc. In addition, in-house anti-tau antibody E2814 is currently under development. Eisai has an option to jointly develop and commercialize anti-tau antibody BIIB076, which is under development by Biogen Inc.
+Eisai has projects focusing on reactive glial cells. Glial cells, which phagocytose Aβand tau, turn reactive glial cells that are thought to induce neural cell damages by releasing excessive inflammatory factors when they are in activation state for a long period of time, along with Aβand tau aggregation. Anti-fractalkine antibody E6011, which is under development targeting for rheumatoid arthritis and inflammatory bowel diseases, is thought to bind with fractalkine, a chemokine that is induced on vascular endothelial cells during inflammation, and by suppressing either the inflammation or the immune cell activity, prevents reactive glial cells from interfering with neurons.
+●Neuron interference by reactive glial cells
+44
+Ideation Stage
+Intracerebral clearance enhancer through reinforcing
+protective mechanism
+Brain homeostasis improving agent targeting astrocyte
+Neural stem cell activation agent
+
+Company Introduction Management Strategies
+ Value Creation Activities
+Business Base (ESG) Appendix
+ Medicine Creation Targeting Transformation of Symptoms Over Time
+In recent years, the occurrence of transformation of symptoms over time has become increasingly known: It starts as a sleep disorder 10 to 20 years before the diagnosis of dementia, followed by behavioral disorder then cognitive impairment, in that order. It is known that sleep facilitates the excretion of Aβ from the brain. A sleep disorder may also accelerate the accumulation of Aβ and potentially lead to Alzheimer’s disease. Eisai is conducting clinical studies for lemborexant, an antagonist to dual orexin receptors, which are involved in the regulation of sleep and awakening; submission for insomnia disorder indication is anticipated in fiscal 2018. In addition, Eisai is conducting a PhaseII study for patients with irregular sleep-wake rhythm disorder (ISWRD) due to Alzheimer’s disease/dementia.
+Depression, epilepsy, anxiety, dysosmia and other forms of behavioral disorders are considered to follow sleep disorders. It is considered that suppression of behavioral disorders would potentially delay the onset of Alzheimer’s disease. Eisai also develops new drugs for epilepsy and other neurological disorders. For example, E2082 is a next generation AMPA receptor antagonist and E2730 is a novel synapse function modulator. Furthermore, Eisai is developing E2027, a PDE9 inhibitor targeting dementia with Lewy bodies. Eisai is also conducting a study for drug discovery targeting EphA4, which concerns synapse stabilization.
+Medicine Creation Targeting Brain Maintenance System
+It is a known fact that the brain has many protective mechanisms. It is reported that the brain’s protective mechanisms include functions that phagocytose and remove foreign substances such as Aβ, functions that repair damaged neuronal cells as well as functions that promote the regeneration of neural cells through neural stem cell differentiation.
+The brain is composed of neural cells, glial cells and blood vessels. Glial cells play a role in maintaining
+the existence of neural cells and the brain environment, as well as supporting metabolism. Accounting for approximately 10 to 50 times the number of neural cells, glial cells make up more than half of the cells in the human brain. The most common type of glial cell is the astrocyte. Similar to neural cells, astrocytes are known to receive neurotransmitters and release various transmitters, and are believed to structurally support the
+brain and act as a mechanism for stimulating neural transmission and nourishment. Another type of glial cell
+is microglia, which are known as cells that exert immune functions in the central nervous system. In a normal state, microglia move about in a ramified form and survey the surrounding environment, and when activated, migrate to the site of injury and phagocytose damaged cells and extracellular proteins such as Aβ.
+Believing that the brain maintenance system supported by these protective mechanisms can be considered as an important target for new drug discovery aiming to cure dementia, Eisai has commenced joint research with Keio University in this area.
+ The tip of a neuron is called a synapse and has a swelled
+nodular shape. Synapses do not appress adjacent neurons
+and this slight gap between neurons is called a synaptic gap.
+In a synaptic gap, an electric signal is changed into a chemical substance (a neurotransmitter) that transmits information to the next neuron. When an electric signal is transmitted to the synapse, a neurotransmitter from the synapse vesicle is secreted in the synaptic gap and binds with a receptor in the cell membrane
+of the next neuron. An electric signal impulse then occurs and information is transmitted to the next neuron. In dementia patients, accumulation of abnormal proteins such as Aβ cause dysfunction of the synapses, which leads to loss of synapses and death of neurons.
+●Synapse micro-environment
+ Eisai is working on projects to revitalize neurons by improving the synapse micro-environment and restoring synapse function.
+45
+Eisai Integrated Report 2018
+
+  Intellectual Capital Social and Relationship Capital Initiatives for Dementia Area
+Offering Solutions that Go Beyond Providing Pharmaceuticals
+Undertaking a variety of activities for solving issues faced by patients, their families and the community and for building a foundation for a society that coexists with dementia
+   A 20-Year Journey with Aricept® -Enhancing Recognition of Dementia in the World
+ Eisai launched the in-house developed dementia treatment Aricept® in 1999. The introduction of Aricept® as Japan’s first Alzheimer’s disease treatment provided patients and their families with great hope. In the following section, Dr. Kazuo Hasegawa, Director Emeritus at the Tokyo Dementia Care Research and Training Center, describes the differences between the situation today and the times prior to the launch of Aricept® when there were no treatments for dementia.
+Back then, however, dementia was still described
+in Japan as “senility,” and the understanding of
+this disease and its diagnostic methods had not adequately spread throughout society. Eisai was acutely aware that the environment surrounding dementia patients would never change just by providing Aricept®. Acting on this recognition, Eisai proactively promoted a variety of initiatives to break through the status quo approach toward dementia. First, Eisai repeatedly carried out disease awareness activities for Alzheimer’s disease through civic forums and its website. To date, Eisai has held meetings for dementia disease awareness on approximately 2,000 occasions in Japan and around 10,000 times globally. For the diagnosis of dementia, Eisai has actively worked to promote the spread of simple diagnostic methods, such as the Hasegawa Dementia Scale and MMSE*, which are more suitable for clinical practice. In 2000, Eisai launched the Japan Academy for Alzheimer’s Disease together with doctors. This was set up in order to promote discussions about various issues regarding dementia among medical specialists
+Meeting of the Japan Academy on Alzheimer’s Disease
+and primary doctors that transcend fields of medical care and to support a proper paradigm shift. This academy, which was attended by 300 people at the first session, is now attended by approximately 1,500 doctors each year.
+These initiatives have produced positive results and have helped significantly increase the awareness of dementia throughout the world. Dr. Shigeki Kuzuhara, Professor Emeritus at Mie University, describes these changes below.
+  “Donepezil was a ray of light in the darkness.”
+“During my practicing days, doctors had no available treatments for Alzheimer’s disease even when the disease was diagnosed at an early stage. Because of this, doctors would express their regrets to patients and their families with a sense of powerlessness and futility. Now, donepezil (Aricept®) can be administered at clinical sites and this is providing patients, their families as well as doctors with a
+sense of hopeful fulfillment. This hopefulness is one of the major differences from the feeling of powerlessness that I recall from
+the past.”
+Dr. Kazuo Hasegawa (2009)
+Director Emeritus, Tokyo Dementia Care Research and Training Center
+  “For me, the most notable and greater-than-expected effect of Aricept® in Japanese society was the major change in the approach and awareness in dealing with dementia. Prior to the launch of Aricept®, dementia was regarded as a symptom of aging. There was little awareness that this was a disease needing therapeutic intervention. The arrival of Aricept® transformed this awareness. I believe this was a major turning point that led to efforts to overcome dementia with the involvement of not just medical practitioners, patients and caregivers but also with the participation of all citizens in Japan. The limitations of drug therapy with Aricept® were also clearly demonstrated at the same time and this helped promote a wide acceptance
+of the importance of care for coping with peripheral symptoms (Behavioral and
+Psychological Symptoms of
+Dementia (BPSD)).”
+Dr. Shigeki Kuzuhara (2013)
+Dean, Graduate School of Health Science
+Professor, Department of Nursing, Faculty of Nursing, Suzuka University of Medical Science Professor Emeritus (Neurology), Mie University School of Medicine
+ 46
+*MMSE (Mini Mental State Examination) was developed in the U.S. in 1974 for diagnosing dementia and other diseases. This is an examination mainly for measuring recall, calculation ability, language ability and orientation.
+ 
+Company Introduction Management Strategies
+ Value Creation Activities
+Business Base (ESG) Appendix
+ Increase in Partnership Agreements for Dementia
+Taking a cue from the launch of Aricept®, Eisai has conducted disease awareness activities and the provision of information in cooperation with local governments and medical associations. In 2008, we started activities to support the building of communities living with patients with dementia, aiming for more concrete activities based on the accumulation of experience and knowledge.
+In 2010, Eisai entered into a community development partnership with Asahi Ward in Yokohama City. This was the first agreement to support dementia patients at the community level in Japan. Through this agreement, we have compiled numerous achievements. These include implementing a community needs survey to formulate the Asahi Ward Welfare Plan; participating in the Home Medical Care Liaison Council; holding a study workshop
+with the Area Comprehensive Support Center
+and consulting doctors; and convening a study workshop for specialists. These achievements earned
+high acclaim and we expanded these partnership agreements to regions across Japan. We have concluded partnership agreements for dementia with 138 municipalities/medical associations/pharmacist associations in Japan as of the end of July 2018. Our partnership network covers 34 prefectures, as shown in the figure below. We aim to expand the network to all prefectures in Japan.
+■ 34 prefectures in which Eisai has concluded partnership agreements for dementia with municipalities and others (as of the end of July 2018)
+  Developing the hhc Solutions Business :
+Aiming to Build the Foundation for a Society that Coexists with Dementia
+ Throughout almost 20 years of disease awareness activities in the dementia area, Eisai learned that the provision of pharmaceuticals was not enough to satisfy the truly unmet dementia-related needs. Since April 2016, Eisai has engaged in the business
+of providing a variety of solutions in cooperation
+with partners including counterparts of the dementia partnership agreements to meet the unmet needs of patients and their families and build the foundation for a society that coexists with dementia.
+ Educational materials on dementia
+Children and students are less likely to be exposed to patients with dementia due to the trend of nuclear families. Eisai started to sell teaching materials for elementary and junior high and high school students in December 2017, considering it as very important to learn about dementia, and think and discuss together how patients with dementia feel and how people should treat them.
+We created a DVD which is a live action drama of a grandmother with dementia and her family. It helps viewers learn how patients with dementia feel and how to treat them. Textbooks for students and guides for instructors are also available.
+ Use of educational materials on dementia in community-run seminars for training young supporters of patients with dementia
+We interviewed Dr. Tsutomu Hamada, the director of Kiire Hamada Clinic. He is devoted to dementia education for children and has been holding a number of dementia seminars at elementary and junior high schools.
+Q: How did you become involved with dementia education?
+A: When my grandmother developed dementia, I was sad because as an elementary school student I didn’t know
+how to cope at the time. I want children to understand dementia and learn about the disease early on, which
+motivated me to get involved in dementia education.
+Q: How do you use the educational DVD?
+A: We held a young supporter training seminar at Hitokura Elementary School
+in Kagoshima on January 23, 2018. The staff from the Community General Support Center and local residents participated as well as students, their guardians and teachers. After all the participants watched the DVD, they were divided into groups to think and discuss how the grandmother felt and how they should interact with her. I’m sure it helped that the participants gain a stronger interest and a deeper understanding of the disease.
+Dr. Hamada’s seminars
+Educational materials on dementia
+  47
+Eisai Integrated Report 2018
+
+  A tool to support going out “Me-MAMORIO®”
+In September 2017, Eisai launched “Me-MAMORIO®” in Japan. It is a tool to support people with dementia and seniors going out freely. Me-MAMORIO® is a lightweight device that looks like a round button for the sake of portability, aimed at people with dementia and seniors. Me-MAMORIO® can be sewn onto a jacket or hat or put in a bag or wallet.
+Eisai and joint development partner MAMORIO, Inc. performed demonstration experiments aiming for implementation in cooperation with local governments and community residents. The results were used for refining Me-MAMORIO®, including modifying the shape and weight of tags to make them easier to carry and improving the accuracy of positional data. Additionally, it was determined that in conjunction with the usage of Me-MAMORIO®,
+it would be important to create a supportive environment, including a human network, in order to support people with dementia and seniors going out freely.
+Together with the widespread use of Me-MAMORIO®, Eisai is supporting the establishment of an environment where the community as a whole can look out for people with dementia and seniors.
+    2 1
+3
+Dr. Kazuhiro Ota, chairman of Takehara Healthcare and Nursing Association
+At Hiroshima Takehara Healthcare and Nursing Association, we concluded a cooperation agreement with Eisai on building a community that coexists with dementia in July 2016. We established a dementia watch group to conduct training to help the lost and wandering elderly persons using with a tracking tool to support them when they go out and set up a network for watching over the elderly. We have made efforts to raise awareness through civic forums and movie screenings, and conduct approach training. During the training, by ascertaining the approximate position with Me-MAMORIO®, participants could approach and find a missing person more easily and quickly than when they only have information about the person’s clothes or gender. We would like to continue activities for increasing awareness and understanding of dementia while building a watching-over network using Me-MAMORIO®.
+Dr. Kazuhiro Ota
+The director of Ota Orthopedic & Intermedicine Clinic
+Chairman of Takehara Healthcare and Nursing Association
+  Aiming to Further Raise Patient Satisfaction Levels
+Approximately every five years since fiscal 1994, the Japan Health Sciences Foundation has implemented a questionnaire survey mainly targeting physicians that asks about treatment satisfaction levels and medicine contribution levels for 60 socially important diseases. According to this survey, treatment satisfaction levels and medicine contribution levels for Alzheimer’s disease are steadily rising even though these are still lower compared with other diseases. Eisai believes these increases are a manifestation of the positive results of Eisai’s activities centering on disease awareness activities and support for “community building” in addition to the provision of Aricept®.
+Eisai will make its utmost efforts to satisfy the needs of patients and their families.
+●Trends in treatment satisfaction levels and medicine contribution levels for Alzheimer’s disease
+ 48
+Source:
+20% 40% 60% Treatment satisfaction level
+Japan Health Sciences Foundation, Fiscal 2015 Domestic Basic Technology Survey Report “Survey on Medical Care Needs for 60 Diseases and New Medical Care Needs II”
+60% 40% 20%
+ ■ 0%
+● 0%▲
+◆
+×
+ × FY2014 ◆ FY2010 ● FY2005 ■ FY2000 ▲ FY1994
+ Medicine contribution level
+
+ Intellectual Capital Message from Corporate Officers in Charge of Oncology Area
+Aim to realize new value creation through innovative business models
+Terushige Iike (Left)
+Senior Vice President President, Oncology Business Group
+Takashi Owa (Right)
+Vice President Chief Medicine Creation Officer, Oncology Business Group, Chief Discovery Officer, Oncology Business Group
+       Strengths
+1. Capability to create products supported by superior drug discovery science and organic synthetic chemistry
+2. Maximization of patient contribution and product value based on our “Ricchi”* strategy, which aims to fulfill unmet
+medical needs and establish position as a standard treatment
+3. Strategic partnerships that enable the realization of new value creation
+4. Progress of pipeline following Halaven® and Lenvima® (E7386, MORAb-202, E7130, H3B-6527, H3B-8800, H3B-6545)
+* For further details, please refer to page 21.
+ Weaknesses
+1. Discovery of biologics (antibody drugs) following MORAb-202
+2. Proactive initiatives based on predicting the rise of innovative new therapies (game changers) are still at an early stage
+ Opportunities
+1. Expansion of oncology market along with creation of high value-added drugs, as well as economic growth in developing and emerging countries
+2. Reform of regulatory environment in China
+3. Change in treatment system through artificial intelligence
+(AI) and innovation in diagnostic technology
+ Threats
+1. Revolutionary competitive products entering the market 2. Increasing pressure to lower drug prices as governments
+promote policies to reduce healthcare costs
+Q: What are Eisai’s strengths in the area of Oncology?
+A: Iike Our greatest strength is capability to create products supported by superior drug discovery science and organic synthetic chemistry. Lenvima® is a unique in-house tyrosine kinase inhibitor, possessing
+a novel binding mode for target kinase and an inhibitory action for FGFR (fibroblast growth factor receptor)
+or RET, created through an original drug discovery approach and superior drug discovery science.
+Halaven® is an in-house microtubule dynamics inhibitor which endorses our superior organic synthetic chemistry. In pharmaceutical R&D, finding innovative candidate compounds during the basic research stage is of course very important. But equally important is the technology to efficiently synthesize the compound and link it to commercial production. In that sense,
+I think that Halaven® was truly innovative, as it was created via the successful industrial synthesis of a naturally-derived compound with a complex chemical structure; a groundbreaking achievement at the time.
+Owa Lenvima® was created from the unique fusion
+of the innovative and distinctive in vitro and in vivo model system established by the Tsukuba Research Laboratory biology team and an extremely intricate drug design by the chemistry team. The project team didn’t just focus on the creation of VEGF (vascular endothelial growth factor) pathway inhibitors. Rather, their design concept was to look at the entire tumor angiogenesis process, and by inhibiting it, produce life extending effects in vivo. As a result, Lenvima® has a unique mechanism of action which selectively inhibits both the kinases involved in maintaining the tumor microenvironment and the kinases involved in the proliferation of cancer cells, in a well-balanced way.
+ 49
+Eisai Integrated Report 2018
+  
+●The tumor regression effect by combination therapy of Lenvima® with KEYTRUDA® on endometrial cancer*
+ Iike Another strength is our initiatives to maximize product value based on “Ricchi” strategy,
+which focuses on competitive superiority and differentiation. Indication expansion for Lenvima® is proceeding very smoothly. Lenvima® is approved for the treatment of thyroid cancer in over 50 countries, and also approved in combination with everolimus for the treatment of renal cell carcinoma (second-line) in over 45 countries. Regarding the third indication of hepatocellular carcinoma, we obtained approval in Japan in March 2018, and in the U.S., Europe and South Korea in August 2018, and are aiming to obtain approval in China in fiscal 2018.
+Additionally, Phase III study (Study 307) in combinations with anti-PD-1 antibody KEYTRUDA® or everolimus in renal cell carcinoma (first-line for patients without systemic therapy) is underway.
+Moreover, we are conducting clinical studies evaluating the combination of Lenvima® and KEYTRUDA® in multiple cancer types. Study 111
+*Presented at American Society of Clinical Oncology 2018 Annual Meeting
+is ongoing for renal cell carcinoma, endometrial cancer, head and neck cancer, non-small cell lung cancer, urothelial cancer and melanoma. Study
+116 is ongoing for hepatocellular carcinoma. We have obtained favorable results in these studies
+so far. For example, 47.2% ORR (independent imaging review) has been observed in patients with endometrial carcinoma, which suggests the potential for significant contribution to patients. We received Breakthrough Therapy Designation from the FDA for combination therapy with advanced and/or metastatic non-microsatellite instability high (MSI-H)/proficient mismatch repair endometrial carcinoma in July 2018.
+Synergies in anticancer effect have been observed with the combination of Lenvima® and anti-PD-1 antibody. Results from preclinical studies showed that antitumor activity of the anti-PD-1 antibody was enhanced with Lenvima® administration by reducing tumor-associated macrophages (TAM) and increasing activated cytotoxic T cells, which attack cancer cells.
+●The main mechanism to strengthen efficacy of anti-PD-1 antibody by Lenvima®
+40
+20
+0
+-20 -40 -60 -80
+-100
+○
+○○
+MSI status ■ MSI-H
+■ MSS
+■ Not available
+PD-L1 status + Positive
+- Negative
+○ Not done
+ +
+○ ○
+  ○+○+○○
+○+○○+○-+--○○-○○
+-○○+
+ -○
+○○
+ -○--○
++-++
+○
+○
+++○
+ ■The mechanism of tumor associated macrophages
+Tumor associated macrophages
+Inhibits action
+ Anti-PD-1 antibody
+PD-L1
+Cancer Weakened cells attack
+PD-1
+Cytotoxic T cells
+Tumor associated macrophages are cells that cancer cells activate to protect themselves and inhibit the attack of cytotoxic T cells
+■The mechanism of Lenvima®
+ Anti-PD-1 antibody
+PD-L1
+Cancer cells
+Attack more strongly
+PD-1
+Cytotoxic T cells
+Tumor associated macrophages
+Inhibits action
+Lenvima®
+  Lenvima® activates cytotoxic T cells by inhibiting the action of tumor associated macrophages, which results in attacking the cancer cells more strongly
+ ■Self-protection of cancer cells against cytotoxic T cells
+PD-1
+Weakened Cytotoxic Cancer attack T cells
+cells
+To protect themselves, cancer cells inhibit the action of cytotoxic T cells attacking cancer cells through the binding between PD-1 and PD-L1
+■The work of anti-PD-1 antibody
+PD-1
+Attack
+Cytotoxic T cells
+The anti-PD-1 antibody releases the brake on the cytotoxic T cells by inhibiting the binding between PD-1and PD-L1, which results in attacking the cancer cells
+PD-L1
+  Anti-PD-1 antibody
+PD-L1
+ Cancer cells
+50
+Change from baseline in target lesion size (%)
+
+Company Introduction Management Strategies
+ Value Creation Activities
+Business Base (ESG) Appendix
+ The agreement of strategic collaboration with Merck & Co., Inc., Kenilworth, N.J., U.S.A. (U.S. Merck) concluded in March 2018 to maximize the potential of Lenvima® is a game-changer. Under the collaboration with U.S. Merck, clinical studies for
+11 indications in six types of cancer; endometrial carcinoma, hepatocellular carcinoma, non-small cell lung cancer, head and neck cancer, melanoma and bladder cancer, will be conducted. Moreover, a basket trial targeting other multiple cancer types will be conducted simultaneously aiming to seek further
+●Indications of Lenvima®
+potential to expand indications.
+As a result, the collaboration will significantly
+expand contribution to patients and lower the costs and risks in development by sharing R&D costs with U.S. Merck. Even though U.S. Merck has conducted clinical studies on combinations of KEYTRUDA® with other tyrosine kinase inhibitors (TKI), this is the first time for them to develop a combination through this kind of comprehensive collaboration. We believe Lenvima® has potential as the best TKI suitable for combination therapy with an anti-PD-1 antibody.
+   Potential new indications
+  Combination therapies with KEYTRUDA®
+11 indications in 6 types of cancer (Plan to develop multiple indications in each cancer type)
+  Endometrial carcinoma
+Non-small cell lung cancer
+Bladder cancer
+Hepatocellular carcinoma
+Melanoma
+Head and neck cancer
+    Approved indications as of end of August 2018
+3 indications in 3 types of cancer
+Thyroid cancer 1st Line Monotherapy
+Renal cell carcinoma 2nd Line Combination with everolimus
+Hepatocellular carcinoma* 1st Line
+Monotherapy
+*Approved in Japan, the U.S., Europe and South Korea
+Renal cell carcinoma 1st Line Combination therapies with KEYTRUDA® or everolimus
+Basket trial targeting
+multiple cancer types
+Combination therapies with KEYTRUDA®
+      ● Payments received under agreement with U.S. Merck
+ Maximum of up to 5.76 billion U.S. dollars in total (approx. 611.0 billion yen*)
+▶ One-time payment: 950 million U.S. dollars (approx. 101.0 billion yen*)
+・Upfront payment: 300 million U.S. dollars (approx. 32.0 billion yen*) (Received in March 2018) ・One-time option payments associated with U.S. Merck exercising for certain option rights:
+650 million U.S. dollars (approx. 69.0 billion yen*)
+Plan to receive 325 million U.S. dollars in fiscal 2018, 200 million U.S. dollars in fiscal 2019, 125 million U.S. dollars in fiscal 2020
+▶ Reimbursement for R&D payment: 450 million U.S. dollars (approx. 48.0 billion yen*) ・450 million U.S. dollars of reimbursement for R&D payment was received in March 2018 and
+was booked in deposits. The deposits will be withdrawn as Eisai’s share of the R&D expenses concerning Lenvima® occurs, and then booked as the reversal of R&D expenses.
+▶ Milestone payments: Maximum of up to 4.36 billion U.S. dollars in total (approx. 462.0 billion yen*) ・Clinical and regulatory milestones: Up to 385 million U.S. dollars (approx. 41.0 billion yen*)
+including regulatory approval of indications in hepatocellular carcinoma or renal cell carcinoma
+・Milestones associated with sales of Lenvima®: Maximum of up to 3.97 billion U.S. dollars
+(approx. 421.0 billion yen*) *USD 1=106 yen
+51
+Eisai Integrated Report 2018
+
+Q: What is the development status of next-generation products that will follow on from Halaven® and Lenvima® ?
+ A: Owa As a third flagship drug candidate, the small molecule agent E7386 has the potential to follow Halaven® and Lenvima®. We believe that it significantly enhances efficacy in combination therapy with Lenvima® or anti-PD-1 antibody through inhibition of interaction of proteins (CBP and β-catenin) located downstream of Wnt signaling pathways.
+As for biologics (antibody drugs), a PhaseI
+study is ongoing for Eisai’s first antibody drug conjugate (ADC) MORAb-202. ADCs are next- generation antibody drugs, in which antibody drugs and small molecular drugs (payloads) are chemically conjugated via a suitable linker. MORAb-202 is
+Eisai’s unique investigational ADC which combines the antibody drug farletuzumab, developed with the antibody technology of our subsidiary Morphotek, Inc., and eribulin (Halaven®), a masterpiece of modern organic synthetic chemistry with a novel mechanism of action that impacts the tumor microenvironment. MORAb-202 showed enhanced efficacy and antitumor activity in triple-negative breast cancer
+and its tumor microenvironment. Morphotek, Inc., seeks to expand its business not only focusing on creating biologics following MORAb-202, but also the possibility of taking on contract research outsourcing business.
+●Eisai’s First Antibody-Drug Conjugate (ADC) MORAb-202
+This ADC is a combination of farletuzumab, an in-house discovered antibody currently in clinical development, and eribulin, a masterpiece of modern synthetic organic chemistry.
+One of our other candidates is the middle molecule compound E7130, which is a compound synthetically produced from halichondrin through joint research with Harvard University utilizing Eisai’s strength in synthetic organic chemistry. We position E7130 as a microenvironment modulator with different characteristics from eribulin and PhaseI study is ongoing for solid tumors.
+Furthermore, PhaseIstudy is ongoing for estrogen receptor 1 inhibitor H3B-6545, discovered by our subidiary H3 Biomedicine Inc. H3B-6545 targets hormone receptor positive and HER 2 negative breast cancer, and has potential efficacy in patients resistant to hormone therapy. H3 Biomedicine Inc. has a rich pipeline, conducting PhaseIstudies for two other compounds of splicing modulator H3B-8800 and FGFR4 inhibitor H3B-6527.
+We believe the strategic collaboration in oncology with U.S. Merck enables us to proactively invest
+in R&D projects. In addition to small molecule compounds, which Eisai has strengths in, we are conducting medicine creation research leveraging Eisai’s uniqueness from middle molecule compounds to biologics (antibody drugs).
+  Q: Are there any marketing challenges for the expansion of Lenvima®?
+ A: Iike With regard to the second line treatment of advanced renal cell carcinoma, the largest market
+is the U.S. Even with intensifying competition following the emergence of anti-PD1 antibodies,
+we think that there is sufficient evidence that the combination therapy of Lenvima® and everolimus will be competitive. This combination therapy was granted Breakthrough Therapy and Priority Review Designation from the FDA and approved based on the results of PhaseII study. Recognition of the combination therapy of Lenvima® and everolimus is still low, but we can expect increased recognition of Lenvima® through ongoing Phase III study for the first line treatment for renal cell carcinoma as well as co-commercialization with U.S. Merck.
+Additionally, in December 2017 the U.S. FDA
+granted Breakthrough Therapy Designation for combination therapy of Lenvima® and KEYTRUDA® in the treatment of renal cell carcinoma, under co- development with U.S. Merck.
+On the other hand, with regard to the treatment for hepatocellular carcinoma, sorafenib is the only systemic therapy approved in 10 years, and there are still regional gaps in the treatment algorithm.
+A local treatment including transcatheter arterial chemoembolization (TACE), tends to be the most common treatment option. We have to maximize contribution to patients by introducing the right timing for pharmaceutical therapy by capitalizing
+on the launch of Lenvima®. And also, we strive to promptly expand contributions to patients under the collaboration with U.S. Merck.
+52
+
+Company Introduction Management StrategiesValue Creation Activities
+Business Base (ESG) AppendixQ: What are the opportunities and threats in the oncology area?
+ A: Iike It is thought that the creation of ground- breaking high value-added drugs will further expand the oncology market. In addition, we expect the market to expand along with economic growth in developing and emerging countries.
+Owa The launch of innovative products by the competitors is a large threat, but not one that
+will necessarily take growth opportunities from us. Currently the combination therapies are becoming standard, so if we can demonstrate the scientific rationality of using our agents in combination with new products, then we can dramatically increase our growth potential. For Lenvima® and Halaven®, we are actively developing combination therapies with anti-PD1 antibodies and molecular targeted drugs. The key in this case is to demonstrate rational combination mechanisms in both clinical and nonclinical studies.
+At the same time, in terms of R&D organization management, we try to cultivate an environment where researchers can seek innovative treatment with potential to be a game changer and move first without fear of failure. In the oncology area which changes rapidly over time, it is tough to recover quickly once you lose the initiative and the core
+of the treatment algorithm is occupied by other companies.
+Iike Many governments around the world are implementing policies to reduce healthcare costs, and as a result, there is increasing pressure to lower drug prices, which is a threat to our business. High priced anticancer agents
+are appearing one after another on the market, so setting reasonable prices is a very important issue for us. We feel that drug prices should be determined based on the fundamental value that they provide to patients. We are striving to create drugs that bring true value to patients, but at the same time, we believe that the value of innovation should also be appropriately reflected in the price.
+In addition, the thinking behind the categorization of diseases and indications is rapidly changing in
+line with radical advances in artificial intelligence (AI) and technology for diagnosis. This can be either an opportunity or a threat for our business. For example, the U.S. FDA approved KEYTRUDA® for the treatment of solid tumors in adult and pediatric patients with unresectable or metastatic, microsatellite instability-high (MSI-H) or mismatch repair deficient under the Accelerated Approval Program. It was a cutting-edge event for the pharmaceutical industry since the approval is not based on primary site of cancer, but focuses on characteristics of cancer prescribed by biomarkers. In the near future, it is quite possible that a new
+drug will be approved across internal organs with innovations in biomarkers found based on AI analysis of pharma-related big data, which has never been analyzed sufficiently so far. Eisai seeks to convert such threats into opportunities by promptly responding to changes in the treatment algorithm, proactively utilizing AI technology, and leading evolution in cancer treatments.
+Owa We recognize that we have an opportunity and the responsibility to position Lenvima® as a first-line therapy and standard of care in a clinical setting. We believe that the combination therapy of Lenvima® and KEYTRUDA® has the potential to be one of the most commonly used chemotherapies for a wider variety of cancers. From the precise analysis of cancer genome information in recent years, it has been found that cancer will evolve in accordance with the environment where each patient is placed. The anticancer agent administered to the patient is an important environmental factor, and treatment with Lenvima® has the potential to control cancer evolution. I think that being able to formulate a therapeutic strategy by directing cancer evolution with Lenvima® and conversely utilizing it is the greatest strength for Eisai, who owns Lenvima®, and our partner. In fact, we already have next generation treatment candidates that aim to cure cancer within the new treatment algorithm created by Lenvima®.
+ 53
+Eisai Integrated Report 2018

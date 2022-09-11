@@ -1,0 +1,38 @@
+ Chapter II: Daicel Group Businesses and Growth Strategies
+Smart Business Overview
+The Display Business is involved in the manufacture and sale of cellulose acetate for optical films for LCDs, for which Daicel commands a major share of the global market, and high-performance optical films that offer optimum displays in areas ranging from smartphones and tablets to in-vehicle units. The IC/Semiconductor Business develops and promotes high-performance resist materials and solvents for electronic materials used in the manufacturing processes of semiconductors and displays. In the Sensing Business, we are developing the growing sensor market by providing products such as high-performance wafer-level lenses and thin, bendable, low-power-consumption organic semiconductors.
+ BusinessesMain Products
+DisplayTri-acetate cellulose (TAC) for LCD optical films, and high-performance optical filmsIC/SemiconductorResist materials and solvents for electronic materialsSensingWafer-level lenses, organic semiconductors, conductive inkConceptual Framework for Value Creation by the Businesses and Foundation of Financial Information / Daicel Group Values Daicel Group Growth Strategies Value Creation Corporate Information
+ ■ Relevant SDGs We Support the Ever-Advancing Semiconductor Manufacturing Process while Contributing to the Development of an Environmentally Sound Smart Society
+Electronic devices such as smartphones, tablets, PCs, and an ultra-thin TV as well as industrial robots and automobiles that are increasingly self-driven are all continuously becoming more sophisticated in terms of functionality. This has led to constant demand for more advanced features such as high-speed response and low power consumption.
+Meeting this demand will require enhancing the functionality of semiconductors, which constitute the core of logic circuits and memory. Daicel’s solvents for electronic materials are used in various processes associated with manufacturing semiconductors, including rinsing and resist coating, and our resist polymers have become indispensable for creating electronic circuits.
+Solvents for electronic materials such as MMPGAC are organic with high boiling points that offer such characteristic features as high solubility and low toxicity that make them environmentally sound. Their high purity and rheology control properties are also being applied to help reduce the size of condensers such as multi-layer ceramic capacitors (MLCCs), increase LCD resolution, and produce miniaturized and multi-layered semiconductors.
+Daicel’s acrylic and other resist polymers are used to produce the world’s top-quality semiconductors such as liquid- immersion ArF, the most advanced semiconductor, that constitute today’s mainstream. Our products are capable of meeting miniaturization needs and achieve a line width of 10 nm or thinner. We are also working with major manufacturers to jointly develop products for use in extreme ultraviolet (EUV) processes. In addition, our most advanced rinsing agents contribute to improving yield by removing as much residue as possible from the polishing process for high-density integration of semiconductors, and they are increasingly being adopted by manufacturers.
+Daicel continues to expand its production volume of solvents for electronic materials and resist polymers to meet demand from semiconductor manufacturers. At the same time, we will consistently provide solutions based on the market-in approach to meet diverse demands and contribute to the development of a comfortable Smart Society with environmentally sound products.
+ TOPICS
+ ■ Process Diagram for Resists Solvent
+(MMPGAC and others)
+Resist polymer
+   Coating
+ Silicon wafer Photoresist coating
+Completion of microchip
+Smartphones, PCs, and other products
+Mid-Term Management Strategy: Our Approach to the Business Strategy and Initiatives
+    Business Environment
+• Intensified competition in the LCD optical film market, expansion in the LCD market
+• Increase in demand for tablets due to needs arising from the COVID-19 pandemic and digitization, accompanied by growth in the high-performance film market
+• Growth in the semiconductor market due to the full-scale arrival of the 5G, IoT, and AI era
+• Expansion in public demand for visualization and sensing technologies
+                 Businesses
+Display
+Policy
+Concrete Measures IC/ Semiconductor
+• Strengthen semiconductor-related business that meets the needs of cutting-edge technologies
+• Purify solvents for electronic materials and expand the product lineup • Increase production of solvents for electronic materials (MMPGAC)
+• Develop a resist polymer for EUV
+• Increase production of a polymer for semiconductor resist    Sensing
+• Strengthen the system for seizing market growth opportunities
+• Enhance the technical support system to expand the customer base
+• Prepare for increased production by establishing production and manufacturing
+technologies at an early stage, constructing a production system, and bolstering quality control      30 DAICEL REPORT 2021
+DAICEL REPORT 2021 31

@@ -1,0 +1,23 @@
+Topics 
+
+Helping resolve logistics personnel shortages with artificial intelligence
+ー Jointly developing the world’s first AI-equipped depalletizing system ー
+
+Eliminating increasing labor shortages
+in logistics sector
+The spread of smartphones has boosted the scale of online ordering, exacerbating logistics labor shortages. It will likely become difficult to secure sufficient workers for heavy tasks. Palletizing and depalletizing loads at distribution centers will probably become more difficult, making it vital to deploy robots to overcome labor shortages.
+Developed with American startup to dramatically improve processing capacity
+We combined the IHI Group’s robotics control technology with the 3D vision and AI technology of Kinema Systems Inc., an American startup, to develop and commercialize the world’s first AI-equipped depalletizing system.
+This setup employs AI-based object recognition technology to determine positions, sizes, and orientations of cardboard items. This makes it possible to unloading 450 packages and mixed pallets per hour, representing a 30% capacity improvement.
+Helping resolve social problems through partnerships
+We will draw on our control and robotics technologies to work with partners that can best apply their strengths to drive logistics system and manufacturing advances and help resolve social problems.
+
+System configuration
+3D/2D Camera
+Object Recognition using AI
+Detect position, size and direction of box
+    Robot Driving DevicePeripheral Equipment Control System (PLC)
+AI embedded Robot Control System
+Warehouse Management Server
+
+We will help achieve SDG goals by providing products and services.

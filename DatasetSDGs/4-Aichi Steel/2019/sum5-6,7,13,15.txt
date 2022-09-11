@@ -1,0 +1,141 @@
+
+Priority Issue 5 
+
+Improvement factors 
+1. Reduce energy consumption by improving productivity, etc. 
+2,900 t-CO2/year 
+2. Reduce energy consumption by improving thermal efficiency of forging heat treatment furnaces, etc. 
+5,800 t-CO2/year Total 8,700 t-CO2/year 
+
+The Aichi Steel Group has established medium- to long-term targets around three environmental issues—“building a low-carbon 
+society,” “building a resource-recycling society” and “achieving harmony with nature”—and is working to achieve those targets. Materiality Through these efforts, we are achieving effective use of energy and resources and, through harmony between the global environment and manufacturing and by providing products and services with low environmental burden, contribute to the 
+sustainable growth of society and our world. 
+ 
+Hindrance factors 
+1. Increase in energy consumption due to increased production 
+20,600 t-CO2/year Total 20,600 t-CO2/year 
+
+1. Undertake development of eco- products and technologies 
+
+2. Reduce CO2 emissions through innovative improvements in energy efficiency 
+3. Thorough implementation of energy saving activities in production 
+• Development of products that reduce the environmental burden 
+
+• Planning and implementing CO2 reduction activities at each plant • Promoting energy savings in production 
+On-site inspections to improve energy efficiency through joint patrols between each site and EMS*1 top management 
+✔ 
+✔ 
+  
+4. Seek better transportation efficiency in logistics 
+• Reduce traffic lines • Modal shift (from land transport to sea transport) • Improve loading efficiency (Kariya and Forging plants) 
+✔ 
+ 
+5. Reduce by-products during production and continue to utilize resources effectively 
+• Internal reuse of dust from electric furnaces • Internal recycling of electric furnace refractories • Some external sale of stainless steel electric furnace dust • External recycling of waste acid and treated sludge 
+✔ 
+ 
+6. Promote projects that benefit resource-recycling corporations 
+• Operate second “AS shot”*2 machine 
+
+7. Reduce and effectively use packaging materials in logistics operations 
+• Monitor for new packaging 
+✔ 
+
+✔ 
+ 
+8. Reduce water use in production activities 
+• Continue managing water use 
+
+Harmony with nature 
+9. Promote activities for preservation of nature and biodiversity 
+10. Promote activities for zero abnormalities and complaints 
+11. Enhance consolidated environmental management 
+• Participation in “All-Toyota Green Wave Project” activities 
+✔ 
+
+✔ 
+• Implement strict management to achieve 80% or below of regulation values set by environment-related laws 
+• Promote prevention activities 
+✔ 
+ 
+• On-site inspections of domestic subsidiaries at “Aichi Steel Group Environmental Study Group” 
+• Environmental audits of domestic subsidiaries by the General Manager of the Safety & Environmental Division 
+• Enhance chemical substance management system 
+✔ 
+ 
+12. Reduce emissions to contribute to improvement of urban air quality in each country and region 
+• Monitor the adoption of low-emission vehicles 
+✔ 
+ 
+13. Promote environmental activities in coordination with business partners 
+• Obtain information on product chemical substances and ensure compliance with Green Procurement Guidelines 
+✔ 
+ 
+14. Further reinforce global employee environmental education and awareness activities 
+• Trial environmental risk prediction training tools 
+✔ 
+ 
+15. Ensure active disclosure of environmental information and enhanced communication activities 
+• Continuous publication of environmental reports and enhancement of content 
+• Enhancing environmental communication activities 
+✔ 
+Strengthen Initiatives toward Manufacturing in Harmony with the Global Environment 
+Environmental management 
+● 2020 Environmental Action Plan 
+We formulated the Aichi 2020 Environmental Action Plan, a statement of policies and plans for environmental actions from fiscal 2016 to fiscal 2020. The plan adopts three core themes for the direction of our environmental action based on environmental management: “building a low-carbon society,” “building a resource-recycling society” and “achieving harmony with nature.” By reinforcing management from a global perspective that extends to consolidated subsidiaries, we are contributing, as a sustainable company, to society and the global environment. 
+ISO 26000 relevance 
+6.5 Environment 
+SDGs relevance 
+Initiatives for building a low-carbon society 
+AICHI STEEL REPORT 2019 
+ 
+● Fiscal 2018 targets and results 
+Based on the “Aichi 2020 Environmental Action Plan,” we pursued reductions in carbon dioxide to achieve the targets of “The Japan Iron and Steel Federation’s Commitment to a Low Carbon Society” (Phase 1). We attempted to improve CO2 specific consumption through energy saving practices, but total CO2 emissions increased due to increased production. 
+■ Breakdown of energy used in fiscal 2018 (CO2 emissions) 
+■ Factors behind changes since last fiscal year 
+
+Total CO2 emissions 681,000 t-CO2/year 
+(+12,000 tons year-over-year) 
+Other 
+0.4% 
+Total CO2 
+emissions 681,000 t-CO2 
+Oxygen 1.9% Heavy oil class A 0.9% 
+Coke 
+7% 
+
+City gas 
+29.9% 
+Electricity 
+59.9% 
+
+Low- carbon society 
+Measures to develop a recycling-based society 
+
+Resource recycling 
+Harmony with nature 
+● Contributions to end-of-life car recycling 
+In accordance with the End-of-Life Car Recycling Act, which came into effect in 2005, the Toyota Group has been working towards total recycling. Aichi Steel is cooperating with Toyota Metal Co., Ltd. to improve recycling and develop recycling technology for glass parts, which have been the most difficult. 
+We introduced silica sand into steel making slag generated in electric furnaces as a molten slag cooling down material, but we focused on the similarities between silica sand and the glass components and made it possible to achieve the same effects by mixing silica sand with waste glass, and it is 
+* Molten slag cooling down material: An electric furnace byproduct that is added to control the slag components, reduce the temperature as a cooling material, and curtail explosive boiling. 
+Management 
+now possible to recycle waste glass as an electric furnace byproduct. 
+As a result, the end-of-life car recycling rate increased to 99.8%. Recycling will continue after fiscal 2019 as well. 
+▲Waste glass from cars was previously difficult to recycle due to its specialty components and color 
+  
+Theme 
+Action item 
+Major efforts 
+Evaluation 
+Measures to promote harmony with nature 
+● Participation in “All-Toyota Green Wave Project” activities 
+
+Aichi Steel is participating in the “All-Toyota Green Wave Project” activities being implemented by the Toyota Group and other affiliated companies as part of efforts to coexist with nature. This project includes a range of activities to 
+● Forestation to create a forest for beetles 
+Since fiscal 2012, we have been creating a forest for beetles with the aim of planting a broadleaf forest and creating an environment in which beetles and other creatures can live their natural life cycles. We have been working with the Chita Peninsula Biodiversity Network Promotion Council and members of the Student Action Committee NPO to grow the trees. In fiscal 2018, we received a subsidy from Aichi Prefecture and together with members of the Student Action Committee NPO, we helped form “living creature mounds” and completed the creation of new streams. In fall every year, we also hold a large harmony-with-nature event called “Mori 
+“connect communities toward harmony with nature.” We are undertaking activities that contributing to increased restoration of ecosystems by connecting people with other people and activities and linking habitats. 
+Mori event” where employees and their families participate in programs held in collaboration with other organizations and companies, nature craft activities, collecting acorns and growing seedlings. 
+
+31 AICHI STEEL REPORT 
+*1 Environment Management System *2 Recycled abrasives made from by-products of the steel making process 
+AICHI STEEL REPORT 32 

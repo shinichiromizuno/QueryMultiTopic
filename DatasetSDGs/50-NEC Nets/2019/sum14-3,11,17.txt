@@ -1,0 +1,45 @@
+    NESIC
+Innovation in Regional Healthcare
+Tamba City
+Tamba City, in Hyogo Prefecture, aims to strengthen its regional healthcare system, which is a pillar of the local community. Together with Tamba City, NESIC developed a vaccination verification system, the first ever in Japan. Below is an introduc- tion to the “co-creation in action” for this system, which has brought about major innovations to regional healthcare.
+Identification of Vaccination-Related Issues
+Mr. Kitano Vaccinations are key to living a healthy life, and must be administered 19 times to children between the ages of 0 and 3 years. Depending on the vaccine, the length of time that must pass before the next vacci- nation is administered is different. Citizens need to get their vaccinations in due time without forgetting, and doctors must make sure the correct vaccination is given. In Japan, cities are responsible for notifying their resi- dents about vaccinations and making sure that doctors administered the vaccinations, which entail a consider- able amount of work. Every year, there are dozens of cases involving improper handling of vaccinations, though this has yet to result in a major health problem. That is why I have long thought that this is a problem in need of a solution.
+Ms. Otsuki I also have viewed this as a problem. We began to look for a solution for managing vaccination- related administrative work, and have worked with NESIC over the past year or so to roll out a vaccination verification system.
+Co-Creation in Action
+Yoshida We began building this system from scratch, a major challenge for NESIC. Although our direct customer is Tamba City, provided that both doctors and city resi- dents, in other words, the customers of our customer, would actually be using the system, we knew it would have to be a highly polished system when it rolls out. During the planning stage, we held discussions with Tamba City all day from morning till night. The city had a strong sense of mission, and was not looking for a par- tial solution.
+Mr. Kitano Since the system touches on the livelihoods of people, we could not make compromises on its secu- rity or convenience in any way. During the development phase, I occasionally expressed some harsh words to you, but I was also being grilled by the doctor’s associa- tion. At some points during the project, I could not see how it would end.
+Yoshida We frequently talked directly with the doctors. Even if doctors spend an extra minute with each patient, that means their workload increases by 100 minutes for every 100 patients. The doctors were therefore keen to minimize their workload as much as possible. This is
+ 32 ANNUAL REPORT 2019
+     System Overview
+MEMBERS
+Targeted SDGsSpecial tablets are given to medi- cal institutions and IC cards are distributed to city residents eligi- ble for vaccinations. Tamba City and its medical institutions are connected over secure MVNO (Mobile Virtual Network Operator) networks, which are completely closed to ensure security. With this infrastructure, the system manages vaccination schedules and the status of vac- cinations for city residents.
+City Residents
+Doctors
+E-mail notification for next vaccination
+Tamba City
+    IC Card
+Tablet
+Determine necessary vaccina- tions by swiping IC card on
+a tablet
+Register vaccination history
+Dedicated server
+Identify vaccination status at each healthcare provider
+why we put a huge amount of effort into the user inter- face, which is a determining factor for convenience. Following numerous discussions involving the both of you, we finally settled on a system that can finish proce- dures with a few taps without requiring any text input. Ms. Otsuki The finished system has received very posi- tive reviews from doctors. Doctors who were skeptical at the development stage gave positive feedback on its convenience after the system was deployed. In addition to increasing the vaccination rates of residents, the system eliminated administrative work for the city while providing real-time information on the status of vaccina- tions to citizens. I strongly believe the system has been helpful for everyone involved.
+Mr. Kitano Looking back, I feel that NESIC worked dili- gently until the conclusion of the project. When deploy- ing this system, I was reminded of the importance of trial and error when testing out new ideas, as well as of finding common ground between participants with dif- ferent perspectives in order to dive deeper into discus- sions on how to resolve issues together. We would
+not have been able to develop such a system that met our requirements without the commitment of the team at NESIC.
+Yoshida The systems engineers I collaborated spent a considerable amount of time studying up on vaccina- tions. Looking back, I truly enjoyed the time I spent talk- ing to the doctors and Tamba City officials about how to improve the usability of the system. I was strongly encouraged when I found out that the doctors who were initially against the system were in support of it at the end. Due to the success of deploying this system with Tamba City, we have received inquiries from other municipalities about deploying it in their cities.
+Creating Communities That Offer More Pleasant Lifestyles
+Ms. Otsuki NESIC and Tamba City are currently develop- ing a healthcare information communication system that will support the livelihoods of city residents from the standpoint of healthcare services. Everyone involved in this project is cooperating well together, partly because of the success of the vaccination verification system.
+Mr. Kitano I hope that this system will contribute to the creation of communities that offer more pleasant life- styles by improving healthcare from the standpoint of “caring” for city residents instead of “managing” them. Yoshida Tablets have already been distributed to health- care providers and new functions can be simply added, enabling various improvements. NESIC is keen to realize multifaceted solutions for issues faced by society.
+  Under our motto of “No Attack! No chance!!,” we are creating communities based on our pillar of strengthening regional healthcare systems.
+Mayor Shinichi Taniguchi
+    Ms. Hidemi Otsuki
+Health Section, Health Department
+Tamba City
+Mr. Hiroshi Kitano
+Health Section, Health Department
+Tamba City
+Yoshitaka Yoshida
+Kobe Branch Office
+NEC Networks & System Integration Corporation
+ANNUAL REPORT 2019 33

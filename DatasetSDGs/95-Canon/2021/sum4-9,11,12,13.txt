@@ -1,0 +1,38 @@
+Business Strategy
+Industrial Group
+Amid further projected growth in semiconductor production, we are responding to the increasing demand for industrial equipment using a product development approach that customizes designs to customer needs, while also contributing to the construction of social infrastructure and technological innovation.
+ Competitive advantages of the Industrial Group
+• Nanoimprint lithography technology that lowers costs and realizes miniaturization
+• Products that raise customer productivity and lower cost of ownership
+• Product development based on incorporating specific customer requirements from design stage
+• Manufacturing sites/facilities capable of fully integrated R&D, design and production
+• Professional workforce with high levels of technical expertise and experience
+ Basic Rationale on Value Creation
+In 1970, Canon became the first Japanese firm to launch semiconductor lithography equipment.
+In 1986, we began applying the technology to the development of lithography equipment for manufacturing flat-panel displays (FPD). These areas still form the core of the Group’s business today.
+In the past, in order to respond to the miniaturization of semiconductors, we expanded our product lineup with a product-out business strategy. Although this need for miniaturization continues to exist today, from the 2010s, we will shift our strategy from the design stage to product development that incorporates customer specific requirements, in line with the diversification of customer needs, leading to increased earnings and flexible provision of value to customers. We are working to boost the competitiveness of our i-line and KrF lithography equipment by improving wafer throughput and overlay accuracy.
+Canon’s products in this field can contribute to building a sustainable society, and are set to be one of the forces driving construction of social infrastructure, industrial innovation and energy- saving initiatives. We believe that providing customers with high-value-added products will
+contribute to the achievement of SDGs. We continue to add original value with our latest models, including the introduction of new heat-exchange technology to mitigate the high power consumption of lithography equipment, or using temperature regulation to increase efficiency by adapting the equipment to ambient usage settings at customer sites. Using chips with lower power consumption in smartphones will promote the development of social infrastructure while helping to preserve the global environment. Our thinking during Phase VI of the Excellent Global Corporation Plan remains to focus on promoting “value creation through business.”
+By helping to build the base for new industries and provide flexible value in line with customer needs, Canon’s efforts in the field of industrial equipment contribute to the achievement of SDGs such as SDG 9 (Industry, Innovation and Infrastructure) and SDG 11 (Sustainable Cities and Communities).
+Related SDGs
+        21 Canon Sustainability Report 2021
+ Phase V Review
+One of the major outcomes from Phase V was our capture of a dominant share of the i-line lithography equipment market. This reflected our customized design concept of creating uniquely diverse sets of applications to meet specific customer needs.
+In addition, we expanded our product lineup beyond front-end processes to target rising demand for back- end processes such as high-value-added packaging. Canon’s market share of KrF lithography has grown from a few percent in 2009 to around 30% in 2020. We have created a stable earnings base for the business as display technologies have evolved,
+Business Strategy in Phase VI
+Business opportunities
+• Growth in semiconductor market due to rising demand for 5G/IoT-related products
+• Growth in OLED display market due to rising demand for high-resolution images/streaming video (4K/8K, etc.)
+We are upgrading the Group’s OLED display manufacturing equipment in response to the growth in demand for high-resolution images and streaming video (including 4K and 8K). We are also seeking to expand within the area by applying new manufacturing methods and materials development.
+In semiconductor lithography equipment, we expect business opportunities to expand going forward due to growth in demand for 5G-related products, network servers and other IT infrastructure. Our aim is to maintain our dominant market share in i-line lithography while working to secure a greater share of the KrF lithography market. In addition, aiming to enter the market for state-of-the-art lithography equipment, we will continue efforts to establish nanoimprint lithography. We see this technology, which can produce microchips with extremely precise circuitry patterns at relatively low cost, contributing to the future manufacture of new generations of advanced semiconductor chips.
+In FPD lithography equipment, we expect demand for high-definition panels to continue. Our aim is to expand Canon’s global market share by developing new and highly competitive products based on the continued development of our
+establishing a strong presence in FPD lithography and OLED manufacturing equipment for the Canon Group.
+The COVID-19 pandemic in 2020 resulted in significant delays in equipment installation. However, amid firm demand for datacenters and PCs, investment is recovering in semiconductor devices. Growth has also remained healthy in the OLED manufacturing sector amid strong capital spending budgets. Amid major societal changes, we successfully increased sales volumes while securing higher market shares across all product lines.
+Risks
+• Growth in machinery demand exceeds production capacity
+• Improved performance of rival products and erosion of profitability due to price-based competition
+proprietary optical technologies.
+Moreover, we will focus on creating continuous post-sale streams of income by providing our customers with post-installation support and new proposals, expanding into after-market areas in ways that advantage our customers.
+Separately, we will seek to establish the base for new businesses by taking a fresh look at our existing core technologies alongside nanoimprint and other technologies.
+In addition, we will strive to reduce costs using various methods, including using standard parts to replace custom-ordered parts from the design stage and producing more parts in-house.
+         Canon Sustainability Report 2021 22

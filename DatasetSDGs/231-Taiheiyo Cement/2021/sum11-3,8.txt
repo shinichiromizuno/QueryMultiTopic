@@ -1,0 +1,135 @@
+Creating a Healthy and Safe Workplace
+Health & Safety Policy
+Our Health & Safety Policy is shown below. Under this policy our headquarters and business sites review and revise health and safety management regulations each fiscal year.
+Relevant SDGs
+ Company-wide Health & Safety Committee supervises health and safety activities held by our various business locations. It also collects safety-related data from not only the company itself but also our group companies and provides guidance.
+Work-related Accident Reports and Database
+that fact, we will add periodic patrols accompanied by guidance to our measures against accidents caused by breaking the rules, and will analyze the rule-breaking behavior and improve areas such as our training, equipment and codes of practice. We will measure WBGT values (heat indices) at each work site and take measures against heatstroke such as establishing a set frequency for breaks.
+All plants, quarries and branches under the jurisdiction of our divisions at Headquarters, and all group companies, have a health and safety committee consisting of representatives from both management and labor, as well as a cooperative committee promoting the health and safety-related activities of each business site.
+Any work-related accident is reported to the Company-wide Occupational Health & Safety Committee immediately, regardless of how insignificant it may seem. We promptly post the details of any accident on the group bulletin board as a step towards avoiding any recurrence.
+ Taiheiyo Cement Health & Safety Policy
+Taiheiyo Cement Corporation recognizes that ensuring the health and safety of our employees is a cornerstone of our company. We invest appropriate management resources
+to the prevention of work-related accidents and diseases in accordance with the Industrial Safety and Health Act and the Mine Safety Act, and efficiently implement the fundamental policies shown below.
+Fundamental Policies
+❶ Promote health and safety activities through cooperation between management and labor, with the aim of eliminating work-related accidents.
+❷ Ensure the health and safety of our employees and those of our contractors by complying with health and safety-related laws and regulations, the health and safety management regulations created by us, and health and safety regulations created by our business sites.
+❸ Strive to improve the level of health and safety by actively promoting the implementation and operation of our Occupational Safety and Health Management System, and by continually ensuring the fundamental safety
+of our work and equipment, providing education and
+training, and raising awareness of health and safety.
+❹ Constantly improve workplace environments and work procedures by applying improved technologies and new health and safety information via the company-
+wide, business site and group affiliate health and safety
+committees.
+❺ Ensure health and safety throughout the Taiheiyo
+Cement Group by promoting action to eliminate work- related accidents under the leadership of the company- wide, business site, and group affiliate health and safety committees.
+Health and safety management at cement plants, mines and quarries in Japan is carried out by our OSHMS*.
+We have maintained a work-related accident database since FY2009. It covers accidents involving employees of the company and group companies as well as the employees of all our contractors, including temporary workers. It categorizes accidents according to the “4 Ms” (men, machines, methods and management), analyzes the causes of unsafe behavior and situations, and systematically stores work-related accident review reports that include details of the countermeasures taken. The database is also translated into English and Chinese so that it can be widely used at our overseas business sites.
+When we reviewed accidents according to type, we found a big decrease in those involving being trapped by or dragged into equipment. However there are still many cases of falls that lead to serious accidents so we are taking measures to prevent recurrence. We also reviewed work-related accidents according to years
+*OSHMS (Occupational Safety and Health Management System): Guidelines issued by the Ministry of Health, Labour and Welfare in 1999. A framework for reducing potential dangers at workplaces and promoting comfortable work sites by autonomously practicing continuous, uninterrupted health and safety management.
+of experience, and found that 41% of the accidents involved workers with three years of experience or less. In recognition of this issue we are taking steps to improve safety guidance for less experienced workers.
+Health & Safety System
+Departments at Headquarters
+Work-related Accidents Registered in the Database
+Absence Rate Absence rate
+Non-consolidated
+(Accidents) 150
+120 90 60 30 0
+No leave of absence required 121
+Fatal
+95 103 87 94
+Leave of absence required
+(Unit: %)
+0.337FY2017
+FY2018
+FY2019
+FY2020
+FY2021Board of DirectorsCSR Management Committee0.448
+0.458
+0.647 0.580
+    Health & Safety System
+Falling over 14%
+Falling
+17%
+Other
+24%
+Contact with high or low temperature objects
+18%
+Falling over 10%
+Falling
+17%
+Flying/ falling object 13%
+Under the Taiheiyo Cement Health & Safety Policy we establish health and safety management regulations that cover the basic principles of the group’s health and safety management, and promote health and safety activities. The aim is to create comfortable working environments while also ensuring the health and safety of our employees and those of our contractors at the group’s business sites and other locations.
+Cuts and scratches
+4%
+Company-wide Health & Safety Committee Chairperson: Officer in charge of safety
+Committee Safety Committee Committee
+Health and Safety Promotion Activities
+The Health and Safety Contractors Cooperative Committee
+GRI403-2,3,4,5,6,7,9,10
+The Company-wide Health & Safety Committee set
+Safety Operation Officer Certification System
+the following objectives for FY2021: zero fatalities, limit lost-time injuries to 30 or less and the total number of work-related accidents to 80 or less, while also setting the absence rate in the 0.5% range. We therefore engaged in health and safety promotion activities with a focus on: (1) improving the level of safety management at group companies in order to achieve our CSR Objectives for 2025, (2) eliminating accidents caused by breaking the rules, (3) eliminating heatstroke-related accidents, (4) preventing the recurrence of similar accidents, (5) complying with safety-related legislation, and (6) preventing the spread of COVID-19 infections (preventing employees from becoming infected or infecting others).
+Since FY2008, we have been using the Safety Operation Officer System which emphasizes the importance of improving leadership capabilities to reduce work-related accidents. This system provides the certification as a safety operation officer that is required for leaders of work groups. To further improve the capabilities of those leaders, as of FY2016 we require participants in the certification seminars held at the plants to have completed the foreman training course stipulated in the Industrial Safety and Health Act.
+We have established procedures for the implementation of health and safety training, and are committed to providing such training so that work can be carried out safely. Training is provided at all our business sites. It can be categorized into training for newly-hired employees, training for newly-hired employees with professional experience at another company, specialized courses, training for newly- appointed managers, skills training, and training for contractors when they start work at a site.
+ Breakdown of Accidents by Type
+Health and Safety Training
+Cuts and scratches 4%
+ Characteristics of FY2021 Accidents
+Specialized committees
+Work-related Accidents 84
+11 90 5 88 7 42 53
+(Unit: occurrences)
+         Headquarters Central Research Each plant Health & Safety Laboratory Health & Health & Safety
+Each branch Health & Safety Committee
+Accident Prevention Cooperative Committee
+Each mine and quarry Safety Committee
+Safety Cooperative Committee
+Group companies Health & Safety Committee Safety Committee
+2017
+2018
+2019
+2020
+2021
+(FY)
+98 5 99 4 98 5 41 62
+81 92 6 2 83 89 4 5 83 79 4 15 45 40 42 54
+117 4 120 1 103 18 52 69
+  As a result, we had zero fatalities for the third year
+in a row, and achieved an absence rate of 0.337%,
+thus attaining those objectives. However, there were
+42 lost-time injuries and the total number of work- related accidents was 121, so we did not attain those objectives. Although we had identified accidents caused by breaking the rules and heatstroke-related accidents as key issues for FY2021, they represented 36% of the total number of work-related accidents. In response to
+By years of experience
+By region
+By gender
+Other
+15%
+Contact with high or low temperature objects
+17%
+Being trapped by or dragged into equipment 27%
+Being trapped by or dragged into equipment 14%
+Japan
+Male
+FY2020
+FY2021
+Flying/ falling object 6%
+Cause of accident
+FY2017
+FY2018
+FY2019
+FY2020
+FY2021
+ Overseas
+ Female
+  Injury or sickness
+Injury
+ Our employees or contractors
+Sickness
+  Our employees
+ Contractors
+    88
+89
+We established the Company-wide Health & Safety Committee, chaired by the officer in charge of safety, as a Specialized Committee under the CSR Management Committee, which is itself under the direct oversight of the Board of Directors. The
+Other 64%
+Rule breaking 21%
+Heatstroke 15%
+Others 59%
+Relatively inexperienced (3 years experience or less) 41%

@@ -1,0 +1,42 @@
+ 3
+Contribute to climate change mitigation and adaptationSpecial Feature
+Creating Shared Value
+ Predicting the impact of climate change
+As climate change progresses, the risk of physical damage and profit loss, such as that from floods and drought, is expected to increase in the future. With the adoption of Paris Agreement in 2015, risks that emerge during the process of shifting to a carbon-free society (stricter regulation of existing products and services, and reputation risks, such as the loss of support from customers for business models that emit high volumes of CO2, etc.) may also have a major impact on business activities. Understanding the management risks related to climate change is essential to formulating corporate management strategies and is, at the same time, important information for investors when making long-term investments. As such, it is now of utmost importance for companies to analyze the impact that climate change will have on their own business activities.
+As an initiative to “identify and inform on risks,” the MS&AD Insurance Group launched a platform in May 2018 that enables users to view the results of long-term forecasts regarding changes in flood frequencies that will coincide with climate change on a free web-based geographic information (web-GIS) system. This "Large-Scale Risk Assessment of
+Climate Change for Flood (LaRC-Flood(TM)) Project" has received the cooperation of Professor Hirabayashi of Shibaura Institute of Technology, and Associate Professor Yamazaki of the Institute of Industrial Science, at the University of Tokyo, and is based on the research results of "Global Flood Risk under Climate Change."* This research was also mentioned in the UN Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report.
+Companies with operational bases throughout the world can utilize this map to generally grasp the impact of long-term flood damage that they might incur.
+Scientific analysis of the impact to weather disaster that will be brought about by these climate change is still in the on-going research phase. Together with these two universities, MS&AD InterRisk Research & Consulting is also advancing research to elucidate the causal relationship between climate change and flood risk. The MS&AD Group is pouring its energy into solving social issues by tackling the risk of climate change continuously through collaborations of industry, government and academia.
+*Hirabayashi Y, Mahendran R, Koirala S, Konoshima L, Yamazaki D, Watanabe S, Kim H and Kanae S (2013) Global flood risk under climate change. Nat Clim Chang., 3(9), 816-821. doi:10.1038/nclimate1911
+Prediction Map Showing Changes in Flood Frequencies
+    Story of my CSV
+Over the past year through the consulting work for our customers, I have recognized that many companies have defined climate change as a major management risk. (Mr. Echizenya)
+As a member of the environment section, I was able to help launch this project by working with Mr. Echizenya and other members from the section on natural disasters. I hope that we can continue working together on this challenge. (Mr. Terasaki)
+ MS&AD InterRisk Research & Consulting Risk Management Third Department CSR & Environment Section Senior Consultant
+Kousuke Terasaki
+MS&AD InterRisk Research & Consulting
+Corporate Planning Department Risk Measurement and Assessment Section Consultant
+Wataru Echizenya
+   064 MS&AD INSURANCE GROUP HOLDINGS
+CEO Message Who We Are Our Way
+Our Platform
+Appendix
+Data Section
+Aiming for a Resilient and Sustainable Society  Hedging against management risks resulting from extreme weather
+In addition to weather disasters such as floods and typhoons, other unseasonable weather, such as long rainfall and unusually high and low temperatures, hold the potential to bring about significant losses to business activities. Upon clearly defining the risks that coincide with this type of abnormal weather, the Group has sophisticated methods for "reducing the economic burden caused when risks occur". One of these methods is weather derivatives. Weather derivatives are effective in avoiding and mitigating losses caused to businesses and stabilizing earnings by automatically transferring the right to receive compensation if certain conditions exceed (or fall below) the baseline temperature, precipitation, wind speed, snow fall, hours of sunlight, or some other predefined weather indicator.
+MSI works with MSI GuaranteedWeather, LLC, a wholly owned MSI subsidiary and global weather risk management company located in Kansas, USA, to sell weather derivatives in Japan and overseas. Since December 2016, MSI Guarnateed- Weather has operated a system that utilizes satellite observa- tion data from NASA and other sources to design products that suit the actual risks to the individual business locations of our customers. This move has enabled us to offer weather derivatives even in regions where detailed ground-based observation data are not available and where underwriting has typically been difficult.
+Transaction Examples
+Agriculture
+Solar Power Generation
+Power Company
+Risk of reduced crop yields caused by droughts
+Risk of reduced power generation caused by insufficient sunlight
+Risk of profit loss caused by decreased power demand
+     Industries
+Climate Risk
+  Drought
+ Insufficient sunlight
+ Mild winter
+Purpose of Weather Derivatives
+
+The IPCC Fifth Assessment Report predicts that under the worst-case scenario where no effective measures are taken, average global temperatures will rise by a maximum of 4.8°C by the end of this century as compared with the present. Given the understanding that there is a close relationship that exists between climate change and abnormal extreme weather, weather disasters are also expected to become more severe and frequent.

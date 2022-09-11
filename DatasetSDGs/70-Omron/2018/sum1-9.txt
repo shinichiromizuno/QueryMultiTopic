@@ -1,0 +1,112 @@
+Creating Innovation in Focus Domains
+Factory Automation
+ Factory automation is a critical element of manufacturing for the vehicles, home appliances, and other products to enrich people’s lives over the world. At OMRON, the Industrial Automation Business is the main segment that drives business in the domain. We follow a unique concept called innovative- Automation to bring production floor innovations to our customers around the world. We offer manufacturing technologies and solutions backed by an industry-leading lineup of products, solving social issues in the factory automation market.
+Manufacturing Innovation Solving Production Floor IssuesToday’s labor market suffers from a shrinking labor force due to aging and declining populations, soaring labor costs among emerging economies, and a critical shortage of skilled engineers. At the same time, production floor processing and assembly tasks are becoming more sophisticated and complex. Maintaining and improving high quality manufacturing is now the next issue to solve. Given these
+circumstances, expectations are higher than ever for solutions via AI, IoT, robotics, and other technological innovations. innovative-Automation, combining our extensive lineup of automation control devices with technology innovation, serves as a platform for working with customers on day-to-day innovations to solve production floor issues.Fiscal 2020 Targets and Fiscal 2017 Progress
+Fiscal 2017 Progress
+Net Sales in Domain
+Industrial Automation Business (IAB)
+ProgressToward Sustainability Goals
+Evolution in integrated, intelligent, interactive through co-creation with manufacturing customers (eg. Launch of i-BELT production floor data service)
+ Fiscal 2020 Targets
+Sales Target
+¥480 billion
+Sustainability Goals
+New innovative-Automation
+products across
+four focus industries
+– Control technology for manufacturing innovation –
+Applicable Industry, innovationIndustrial Automation Business (IAB) ¥396.1 billion  42
+SDGs
+and infrastructure
+    innovative-Automation, Only From OMRON
+innovative-Automation is a concept combining emerging production floor needs and the unique OMRON value to provide automation solutions. This concept incorporates three interrelated is to deliver
+Intelligence developed through ICT: Realization of manufacturing
+in which machines learn and evolve through maximum use of data
+We leverage the 200,000 different OMRON control devices, AI, IoT, and other digital technologies to raise productivity and quality on the production floor through ongoing evolutions in automation (self-learning machines, etc.).
+ntelligent
+the future of manufacturing to our customers: integrated (evolution in control), intelligent (intelligence developed through ICT), and interactive (new harmonization between humans and machines).
+Evolution in control: Productivity gains through ultra-high-speed, ultra-high- precision machine controllers
+Advanced replication of the skills and expertise of human engineers, allowing for unprecedented high-speed, high-precision processing and assembly. Our unique automation technology improves manufacturing productivity and product quality.
+ntegrated
+              nteractive
+ New harmonization between humans and machine: Pursuit of ultra-high flexibility through human-machine collaboration
+Our goal is to create an ultra-adaptive production floor in which machines anticipate and assist human movement.
+For more about this topic:
+  Vision Strategy Business Governance Financial Information Corporate Information
+43
+
+  OMRON offers critical control devices for the production floor, from sensors and other input devices to controllers, servo motors, and other output devices, from industrial robots to safety equipment. Our engineers work closely at customer facilities to develop control devices that now outnumber any competitor in our industry. OMRON Automation Centers engineers visit customer manufacturing sites to conceive and produce unique control applications incorporating a wide range of control devices.
+In fiscal 2017, we acquired leading industrial camera maker SENTECH Co., Ltd. (Japan) and industrial code
+SENTECH Acquisition (July 2017)
+SENTECH is an industrial camera maker boasting an extensive lineup of nearly 200 different cameras featuring technology allowing high-resolution features in small design packages. We are combining the SENTECH ultra-compact high definition camera design and development technologies with our own image processing technologies for innovative factory floor solutions.
+reader Microscan Systems, Inc. (U.S.), which owns a significant share of its main market. These acquisitions provide a solid foundation for the products and applications that serve as the key components of innovative-Automation. We also built more Automation Centers around the world to expand our control application offerings and support customers in solving their production challenges.
+  Microscan Systems Acquisition (October 2017)
+Microscan develops a variety of code readers, including bar code readers, 2D code readers, and verification devices*. We are working with Microscan to code information for a multitude of objects (components, equipment) on the production floor to provide a flexible manufacturing environment that meets a diverse range of needs. At the same time, this technology will provide greater traceability for resolving frequently occurring quality issue, improving safety and raising confidence.
+* Verification Devices: Devices that verify whether a printed code meets specifications for quality.
+  44
+Fiscal 2017 Highlights
+
+   Building More Automation Centers to Co-Create With Customers
+ OMRON Automation Centers serve as innovative- Automation hubs, engaging in critical co-creation activities with an infinite variety of customers to develop new control technologies. Our centers are home to a total 1,100 experts in production and robotics technologies who are also well-versed in actual production floor conditions. These experts conceive and develop new applications built on a base of more than 200,000 different types of OMRON control devices. Our 17 Automation Centers and PoC Labs* are located in the United
+States, China, Spain, and other areas of the world. These facilities prove the effectiveness of unique OMRON control solutions, including significant leaps forward in the speed of equipment movement, new processing methods, traceability systems, and more.
+* Proof of Concept Labs: Facilities running verification tests on actual equipment.
+             Italy (Milan)
+Spain (Barcelona)
+Chicago Cincinnati
+    Korea (Seoul)
+Japan (Kusatsu)
+India (Mumbai)
+Thailand (Bangkok)
+Singapore
+Indonesia (Jakarta)
+Mexico (Bajio)
+Shanghai (Two bases)
+Taiwan
+San Jose
+New Hampshire Detroit
+     Vision Strategy Business Governance Financial Information Corporate Information
+45
+
+  46
+Looking to the Near Future
+Introducing i-BELT, a Co-Creation Business Model for Innovation
+World-wide shortages of technical staff have presented challenges for maintaining and improving productivity and quality. This situation calls for replicating the skills and knowledge of experienced employees through automation, using AI, IoT, robotics, and other technologies. However, many customers have yet to adopt specific manufacturing productivity initiatives based on IoT data, etc., being unable to develop practical solutions on their own. In answer to this problem, OMRON launched i-BELT as a new and innovative business model in fiscal 2017. i-BELT is a service that uses data based on expertise and skills from OMRON and customer sources to allow anyone the ability to incorporate IoT easily into their manufacturing practices.
+(2) Visibility, Analysis Data Accumulation
+AI Controller
+Data Translation
+(1) Data Collection Sensing
+Input Devices and Equipments
+i-BELT consists of three major services: (1) Data collection and accumulation; (2) Data visibility and analysis; and (3) Device control. This has been possible by the use of our AI controller, the first of kind in the industry. We have already developed partnerships to incorporate devices from other manufacturers into the i-BELT system. The Edgecross Consortium is an organization we operate with other companies, aiming to harmonize factory automation and IT beyond the traditional boundaries of corporations and industries. This organization is one more piece of the puzzle to building a highly practical data-usage environment for our customers.
+ Control Algorithms
+Control
+Algorithm (model)
+(3) Feedback for Device Control
+Analytical Learning
+Output Devices and Equipments
+Partner Devices
+Partner Devices
+
+An In-Depth Look
+innovative-Automation Model Factory: Opportunities for Co-Creation
+Our Automation Centers and local factory staff work together to develop control device solutions in our own plants that we can introduce to our manufacturing customers. We call these plants model factories for innovative-Automation acceleration, publishing the processes and results of our efforts. Each year, more than 2,000 customers visit one of these facilities around the world.
+Kusatsu Plant (Exterior) Kusatsu Plant (Interior)
+Case Study 1: Using Data to Automate Artisanship
+   Today’s employment environment struggles with shortages
+of skilled workers and apprentices. To solve this issue, our
+Kusatsu Plant has taken up the challenge to replicate and
+automate the skills and knowledge of experienced
+engineers. Making metal molds requires a machining center*
+operated under the experience and intuition of a skilled
+machinist. This is a key to quality and productivity for a mold
+manufacturer. In observing a skilled machinist at work, we
+noticed their careful attention to the differences in sound
+from the piece they were grinding. Accordingly, we went
+about automating this experience and skill. After much
+trial-and-error, we developed a proprietary algorithm to convert vibration data into sound. Using changes in sound combined with insight from experts, we were able to incorporate this technology into machine control, reducing processing time by 40 percent and tool wear by 20 percent.
+* Machining Center: Machine tool for processing metal components.
+Case Study 2: Freeing Workers From Monotonous Labor Through Robotics and Manufacturing Technologies
+ Our plants in Shanghai, Kusatsu, and Ayabe are working to solve the issue of labor shortages by automating lifting and transport tasks using autonomous mobile robots. Mobile robots outfitted with proprietary AI sensing technology can move autonomously through a plant without causing injury to humans or damage to property. We are working with customers to develop mechanics integrating robot, conveyor, and equipment, allowing these robots the ability to handle products of various sizes, shapes, and weights. Adaptive lifting and transport of this type will not only solve labor shortages, but also create an environment in which humans can focus on creating higher value.
+Mobile robot with proprietary mechanics
+Highly skilled engineers can detect differences in sound
+  47

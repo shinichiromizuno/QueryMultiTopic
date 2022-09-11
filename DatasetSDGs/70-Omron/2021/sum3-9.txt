@@ -1,0 +1,169 @@
+Business OMRON Corporation Integrated Report 2021 Electronic and Mechanical Components Business (EMC)
+Devices and Modules to Support the Growth of OMRON
+  The mission of the Electronic and Mechanical Components Business (EMC) is: “With our devices and modules, create customer value, and contribute to people and society on the planet.” EMC’s relays, switches, and connectors play vital roles in switching and connective devices, and sensors act as eyes and ears for a wide variety of products. As one of OMRON’s core business units, EMC provides these essential components to customers worldwide in various fields, including home appliance and automotive manufacturing, that support the safety and security of human life.
+Building a Foundation for Self-driven Growth Engines andTransforming Our Business to Create and Maximize Value for Customers
+Aiming to be a business unit that creates value for customers, at EMC we support the growth of OMRON’s target domains with our cutting-edge technologies and reliable manufacturing technologies built over years. Social issues have become more varied and serious in recent years, and our business environment, customers, and competitors are changing drastically. Customers are seeking partners that can flexibly respond to social changes and technology innovation. In addition, electronic components have become a commodity, and new competitors are arising from emerging countries. In such a market environment, OMRON will continue to resolve issues at the customer level with its high-quality products and technologies.
+During VG2.0, we made various efforts toward value creation in order to build a foundation for sustainable self-driven growth. We conducted organizational reforms and quality
+improvements as well as developing modules with high added-value that fulfill customers’ requirements. In terms of organizational reforms, we put great emphasis on optimizing production processes so as to reorganize our manufacturing sites from 11 to 7 to supply our components steadily. Building a flexible production system to meet varying demand has successfully improved our capacity utilization rate and production efficiency. In terms of quality improvements, our manufacturing processes, from the development and design stage to production and completion, are thoroughly assessed from the standpoints of verification and validation. Strengthening our quality control system has improved our component quality to ensure the safety of customers’ products. Based on our “self-driven” growth structure, we have identified changes in customers’ requirements and new demand for technology innovation and environmental protection, such as smart products and battery development/direct current power systems, and created a variety of devices and modules. In fiscal 2020, quickly recognizing demand for computer accessories, electric tools, and non-contact applications due to the COVID-19 situation, we developed new products in a timely manner to meet additional demand and customer requirements.
+The COVID-19 pandemic accelerated the digitalization of society, and demand for semiconductors and electronic components has increased for development of batteries as power sources and 5G infrastructure. Requirements for electronic component functions keep changing due to the diversification of lifestyles and environmental changes, providing OMRON with more opportunities to enhance the value of customers’ products. We strive to identify any changes in society and accelerate our R&D to create new products in a timely manner. Furthermore, to improve human life on the planet and develop society, we will keep providing customers worldwide with relays, our main driver, and switches and sensors, our leading products for business growth.
+There are serious social issues requiring solutions, such as global warming and workforce shortages caused by an aging population and declining birth rate. To realize a carbon-neutral society and safe and secure communication infrastructure, more sophisticated component functions are required for the development of EVs and reliable communication platforms for all. Present circumstances are forcing customers to review all conventional design methods, components, and materials, which means that new market needs are being created. At EMC, we will
+Domains
+Corresponding SDGs
+   Managing Executive Officer Company President, Electronic and Mechanical Components Business Company
+Shizuto Yukumoto
+45
+determine our target domains, identify design issues for customers’ products from the early development phase, and resolve social issues with our core technologies, namely “precise processing technologies” and “combinations of technologies”. We will continue to offer essential key devices in order to achieve ideal solutions to the aforementioned social issues with our customers.
+Business Highlights
+Net Sales / Operating Income / Operating Income Margin
+Capital Expenditures / Depreciation and Amortization / R&D Expenses
+(Billions of yen)
+(Billions of yen)
+40 14
+Net Sales Operating Income (right axis)
+Operating Income Margin
+Capital Expenditures
+Depreciation and Amortization
+12.0 10.0
+R&D Expenses
+7.3
+120 90 60 30
+Sales by Product
+Other Electronic and Mechanical Components (Amusement Equipment, Image Sensing, etc.)
+(Billions of yen) 12
+ 95.2
+107.1 103.1
+11.6% 88.4
+10.2% 7.9%
+86.0
+94.0
+OMRON Corporation Integrated Report 2021 Business
+         9.8 12.5
+4.8%
+4.6 5.3 5.1 4.9 4.0 4.1
+16 17 18 19 20FY
+Relays, Switches, Connectors
+8.2
+16 17 18 19
+4
+10
+0 00
+1.0%
+3.4%
+3.0
+20 21FY (Forecast)
+23%
+FY2020 Net Sales ¥86.0 billion
+77%
+VG2.0 Goals
+0.9
+4.5
+2
+30 10 8
+7.9 7.7
+7.6 7.6
+2066.5 5.9
+         Power Supply Units for Amusement Devices
+Power Relays for Printed Circuit Boards
+Tactile Switches
+Terminal Block Connector for Printed Circuit Boards
+  Human Image Sensor
+Social Issues to be Solved
+Actual progress during VG2.0
+    Social issues related to “FA”, “Healthcare”, and “Social Solutions”
+As a device and module business unit supporting focus domains, contribute to achieving sustainability goals in each domain
+     INPUT
+R&D cost:
+Total ¥19.5 billion Capital expenditure: Total ¥32.0 billion
+(Actual for FY2017 through FY2020)
+OUTPUT
+Restructuring
+The optimization of production locations for stable product supply (globally, 11 locations to 7 locations)
+The establishment of flexible production systems to respond to changes
+in demand for components
+Strengthening of quality control platform
+The enhancement of product quality to ensure safety for customers’ products
+OMRON Relay & Devices Corporation obtained UL DAP certification (October 2018)
+The development of next generation devices, modules, and technologies R&D of new technologies and products (example: shut-off relays for battery capacity expansion aiming for a carbon neutral society)
+The creation of non-contact applications required for the “new normal” of living with COVID-19
+OUTCOME
+Contribute to the improvement of human life on the planet and development of society by providing devices and modules
+SDGs 9.4.1
+46
+
+Business OMRON Corporation Integrated Report 2021
+Creating New Customer Value with Strong Quality Control Platform
+During VG2.0, in order to achieve organizational growth, EMC has improved its capacity and speed to create customer value. Below we outline our approaches to strengthening our quality control system and developing solutions to social issues caused by the COVID-19 crisis.
+Strengthening Quality Control to Ensure Product Safety and Increase Customer Value
+ OMRON rolled out three new initiatives aimed at improving quality control to deliver high-quality electronic components that ensure the safety of our customers’ products.
+The first is improving the verification and validation process in the entire manufacturing cycle. A scientific approach is applied to verify that customer requirements are met in accordance with product specifications, design, and requisite quality. By connecting production data right from the beginning of the design stage, we ensure that all parts are consistently and properly produced. The foundation of our quality assurance system has evolved through the implementation of these actions to identify and prevent quality issues at an early stage of the manufacturing cycle. The second approach is refining equipment maintenance standards and raising awareness of quality assurance. The conditions of production equipment vary every day in the course of production. Solving this issue required “harmonized adjustments” to ensure the right finish, but as a result, different problems arose across the manufacturing process. The steps we took got back to the basics of manufacturing to renew our awareness and recognize that the action of “harmonized adjustment” will always be accompanied by change and hence to enhance our change management. We took the same approach in all our global manufacturing sites and at the same time streamlined data sharing among locations to allow
+them to see each other’s activity status. By sharing
+best practices across factories, we strive to maintain
+high quality standards.
+The third approach is implementing data visualization to
+monitor production lines in real time. Installing a
+system that traces the manufacturing history of all of
+our seven factories around the globe and diagnoses
+changes in the manufacturing process allows us to
+identify the causes of quality defects at an early stage
+as well as specifically pinpointing the extent of their
+effects, and ultimately minimize loss of performance.
+Furthermore, our quality data visualization provides a
+quick and effective way to detect anomalies and
+problems. By taking a comprehensive approach, we
+strive for higher levels of product quality.
+Strengthening Quality Level by Combining the Three Approaches
+ Production location
+Visualization of global production lines
+Examination and analysis
+Data
+Higher equipment maintenance standards and quality assurance awareness
+Verification and Validation process
+      Employee Comments
+We focused on three actions at manufacturing sites to promote understanding of what it means to “get back to the basics of manufacturing.” The first action was visiting local manufacturing sites to repeatedly discuss the primary purpose of this activity until we were sure that all of us had gained a clear understanding of it. The second was to coordinate with staff members on site for practical improvements. And the third was to visualize the outcomes of those improvements. These approaches, which were first introduced at a single factory, helped the staff members gain understanding of the basics of manufacturing through actual experiences. By doing the same in the other factories, more and more people came to realize the importance of this through better understanding. As we continued promoting awareness and understanding of quality assurance, we were able to make improvements and move towards the common goal of creating value for customers in our factories.
+Quality Management Division, Quality Planning Department
+Toshihiro Ishii
+  Obtained UL DAP Certification for Contributing to Timely Product Release
+The Yamaga Factory of OMRON RELAY & DEVICES Corp. is the production base for relays, one of our main products.
+By establishing a robust quality management system and enhancing technical capabilities, it has been assessed by UL, an American third-party safety science company, and became eligible to participate in the Data Acceptance Program (DAP: Customer Assessment Data Utilization Program). We qualified to participate in the CTDP (Client Test Data Program) in October 2018, one of the DAP’s programs, and have maintained continuous participation since that date.
+The ability to conduct UL's safety standard certification testing at our factory has enabled us to speed up the release of new products.
+UL DAP Certification
+ 47
+
+OMRON Corporation Integrated Report 2021 Business OMRON’s electronic components such as relays, switches, and sensors play important roles in
+various settings such as office environments that will ultimately create sustainable smart cities.  Air conditioning system
+Dust detection
+Dust sensorLighting
+Motion detection (room occupancy)
+Image Sensor
+Non-contact temperature sensor
+      Washroom
+Hand gesture
+recognition
+Light Convergent Reflective Sensor
+ Visualization of environmental data
+Detection of temperature, humidity, illuminance, UV and atmospheric pressure
+Environmental sensor
+       Elevator
+Motor controller for opening and closing motion
+Power relay
+Button operation
+Tactile Switch Non-contact switch
+    Room entry control device
+Body temperature measurement
+Non-contact
+temperature
+sensor 36.2°C OK!
+     Development of Touch less Hybrid Elevator Switch to Create a Safe Living Space
+The COVID-19 pandemic has increased the need for “touchless” operation in various settings to avoid multiple people touching surfaces and objects. Elevator buttons are among such settings, and touchless switches were being considered as a solution. OMRON recognized the demand in a timely manner and quickly took action by partnering with FUJITEC, the leading provider of elevators and escalators, to develop a touchless hybrid elevator switch ahead of the market trend.
+OMRON’s touchless hybrid elevator switch enables hands-free operation that provides a tactile sensation as if actually pressing a button. The switch was developed by combining core technologies central to EMC, embedded with a sensor for touchless
+interface and a durable push-button-style design to realize an
+Diversified Products Division, Business Management Division HQ
+Tetsuya Sumiyoshi
+ integrated compact switch. We collected survey responses from hundreds of people and conducted numerous trials to precisely adjust the specification to human senses before moving to commercialization. As a result, we achieved a universal design usable by all people to make the product easier to use for everyone. The switch is used in elevators manufactured by FUJITEC and rolled out in December 2020 for offices and shopping malls. These elevators help reduce infection risk and contribute to building an infrastructure of safe elevators.
+We plan to continue working on solving social issues together with our customers by improving our core technologies and providing touchless solutions.
+Business Management Department
+Touchless hybrid elevator switches used for an elevator at GINZA PLACE, an integrated commercial facility at the Ginza 4-chome intersection
+  FUJITEC aims to realize a “beautiful city appropriate for the new era” through the business of supplying elevators, escalators, and moving walkways. We started developing a new button focused on touchless elevator operation during the COVID-19 pandemic last year, and requested a joint development project with OMRON, considering their remarkable achievements in button operation products. As a result, we successfully developed a touchless elevator button that satisfied universal design standards, which is now installed in various places. We plan to continue development of various interface devices for the next-generation society. We look forward to working more with OMRON in search of solutions to our needs and collaborating in joint development projects.
+R&D Department Center, Product Development HQ FUJITEC CO., LTD.
+Noriyoshi Hagizawa
+ 48

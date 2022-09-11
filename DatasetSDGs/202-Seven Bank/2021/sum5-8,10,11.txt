@@ -1,0 +1,34 @@
+  Value Creation—Foundation for Sustainable Growth
+ Realize Multicultural Symbiosis
+We are working to make Japan a place international people will choose.
+In order to realize a society which is convenient and easy to live in for non-Japanese per- sons, Seven Bank has supported coexistence with local communities and has provided a variety of financial services, starting with an international money transfer service in 2011. Seven Bank will continue to strive to improve its international money transfer service as well as to develop new financial services.
+Creating an Environment Which is Easy for
+Non-Japanese Residents to Live In
+Started International Money Transfer Service via the Smartphone App Sendy
+In addition, Credd Finance, Ltd., a joint venture of Seven Bank and Shinsei Bank, Limited., has, together with APLUS Co., Ltd., launched the following two services for non-Japanese resident customers. Since their launch, these services have received applications from persons of a variety of nationalities.
+Start of Availability of Credit Cards for Non-Japanese Residents
+  To meet the needs of customers seeking to transfer money easily, conveniently, and for a reasonable fee, Seven Global Remit, Ltd., a subsidiary of Seven Bank, launched an international money transfer service for Vietnam using the Sendy smartphone app in March 2021. Cash can be topped up (deposited) at any of Seven Bank’s more than 25,000 ATMs in Japan and then easily transferred internationally from a Sendy app account.
+In August 2020, Credd Finance began offering the Sendy Credit Card, a credit card not just for permanent residence status holders, but non-Japanese residents with a wide range of residence statuses permitting work in Japan. A cardless credit card in which no physical plastic card is issued, the card can be used for shopping on e-commerce sites by entering the required information and, by registering the relevant information
+in various smartphone settlement methods, used for shopping in brick-and-mortar stores. The card can also be used for cash advances.
+Image of the card
+(no actual plastic card is issued)
+ Service overview
+Top up cash anytime at a Seven Bank ATM
+Digitize cash via smartphone
+In October 2020, Credd Finance began offering an unsecured purpose-specific loan service for non-Japa- nese residents. The service is available to not just permanent residence status holders, but non-Japanese residents with a wide range of residence statuses
+permitting work in Japan. Unsecured and not requiring a guarantor, the service’s loans can be used for pur- chasing a car, education expenses, and a variety of other uses.
+Start of Availability of Purpose-specific Loans for Non-Japanese Residents
+    Make an international money transfer anytime from one’s account balance
+Easy to use Multiple language options
+Money is deposited into the recipient’s account in Vietnam
+Real-time rate *Recipient must be registered via the app in advance
+Funds can be used for purchasing a car, education, driving school, moving, medical care and beauty treatments, and home renovation.
+   A BaaS* mechanism developed by fintech company Kipp Financial Technologies, Inc. is used to deliver the service, enabling customers to pay more reasonable
+money transfer fees by connecting to DBS Bank’s international money transfer system (DBS Remit API).
+Coexistence with Local Communities
+ 49
+50
+*Baas: Banking as a Service. The provision of capabilities and services provided by a financial institution as a cloud service via an API.
+We have concluded agreements with municipal public organizations in areas with many non-Japanese resi- dents to cooperate in promoting multicultural symbiosis
+and have made it possible to get local information and emergency information during disasters through our international money transfer app.
+ 

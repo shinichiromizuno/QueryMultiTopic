@@ -1,0 +1,90 @@
+Intellectual Capital Social and Relationship Capital Initiatives for Dementia Ecosystem Aim to Realize Further Innovation,
+Not Only in the Medical Field, But Also in Society
+Keisuke Naito
+Corporate Officer
+President, Dementia Total Inclusive Ecosystem Business Unit Chief Digital Officer
+  Q What is Dementia Ecosystem?
+A. Although an ecosystem generally means an ecological system, we are building a new business model, which is composed of platformers, partners and members as if itself is an ecosystem, to move beyond conventional business model of pharmaceutical
+companies. The goal of the dementia ecosystem is that Eisai becomes a platformer to provide solutions through services and contents of partner companies in various sectors with a medicine creation value chain rooted in the true feelings of patients and their families.
+Q How do you deal with social issues regarding dementia?
+A. Various research has found that life style reform, such as regular exercise and balanced diet, may reduce the risk of lower brain performance in recent years. However, there is difficulty in getting people to make a habit of implementing preventive action and checking cognitive function, since there are not many people who are
+of next-generation dementia treatment in the medical domain but also changing society, can be materialized. To achieve this goal, we have established a new department named Dementia Total Inclusive Ecosystem (abbreviated as DTIE), which is responsible for dementia ecosystem, in April 2018.
+implementing and understanding preventive actions and checking cognitive function by themselves, based on an in-house survey. So we are expanding our target from the medical domain to the daily living domain to eliminate this chasm and encourage consumers to make behavioral changes in daily living as well. As a result of these actions, we believe that innovation, which is not only maximizing the value
+Eliminate Chasms by the Dementia PlatformChasm
+Little awareness or perception of diseaseChasm
+13
+Preventive behaviors are not performed
+ Provide contents co-developed with influencers through to promote awareness campaign for people in their 40s and 50s in particularRecommend detailed activity plan including exercise, diet and sleep through to make preventive action a common practiceCognitive function check-ups are not performed
+Make a habit of checking brain performance by  
+ Spread of   ,
+which has the same algorithm with
+ Effectively use resources by sharing availability of PET and CSF test between medical facilities throughPromote collaboration between specialists and primary care doctors through
+Chasm
+1.4
+Chasm
+Convenient diagnostic tools are not widely used   44
+Chasm
+Not enough resources for PET, CSF examinations
+Chasm Regional cooperation system not well developed(millions of people)
+66
+Men and women in the 40-79 age range
+0.7-0.8
+       Under- standing of disease
+Common practice of preventive actions
+Common practice of cognitive check-ups
+ Daily living domain
+Medical domain
+31
+Dissemination of convenient diagnostic tools
+Biomarker diagnosis
+Monitoring of administration/ side effect
+Q Whatisthemeaningbehindthedepartmentname“DementiaTotalInclusiveEcosystem(DTIE)”?
+A. Novelty in naming was the first priority, since the department would prepare for the launch of next- generation dementia treatment and the spreading of awareness among the public that we were implementing initiatives with a new approach as no one has ever done before. We believe that ensuring “Leaving no one behind” and promoting “inclusive” society mentioned in the Sustainable Development Goals (also known as SDGs) by the United Nations may apply to
+Q WhatisthemissionofDTIE?
+dementia. This is the way we came up with the idea of naming the department “Dementia Total Inclusive Ecosystem.” Ecosystem is an ecological system that is naturally formed without any deliberate. Therefore, the name symbolizes our aim for social system, which is to allow everyone to access and receive benefits, not creating the ecosystem itself. Also, the name DTIE shows our aim to connect with all stakeholders, since “TIE” means to bond something together.
+ A. One of the major missions of DTIE is preparation to launch next-generation dementia treatment. At the same time, Eisai strives to contribute to the dementia area in the long run, whether there are treatments or not. Consequently, Eisai’s commitment to making a contribution to the dementia area will never stop, even if the development or launch of next-generation dementia treatments has some kind of issues. It is also important for us to contribute to patients through ways other than development of treatments, utilizing the experience that we have gained through commercial activity of Aricept®.
+Q Whatwasbehindtheideathatitwasimportanttocontributethroughwaysotherthanjust treatment, even though Eisai is a pharmaceutical company?
+ A. We believe that we have been establishing a position as a pioneer in the field of dementia since the development of Aricept®. At the same time, we have learned that dementia is not solved with treatment alone. Contributions through tools and solutions other than treatments are expected to come into the market from now on. We have to prepare for digital transformation as mega platformers, such as GAFA (Google, Amazon, Facebook, and Apple) newly enter the healthcare business with an enormous quantity of data. I learned a lot from the failure of the clinical study in the investigational project for MORAb-003 when I worked at Epochal Precision Anti-Cancer Therapeutics (EPAT, formerly Morphotek, Inc., one of Eisai’s research
+sites in the U.S.) before. Results of a clinical study are completely unpredictable until they are confirmed at the end, although a huge investment is required for research and development for new treatment. Pharmaceutical companies have no choice but to put all their efforts into developing investigational projects on the assumption of success. Thus, we need to prepare other ways of business to contribute to people in need or to monetize, other than selling treatments, considering the major impact that the success or failure of projects can have on companies. Again, Eisai’s mission is to realize a new way of making a contribution to patients by seeking a cutting-edge approach other than treatments to remain as a pioneer in the field of dementia.
+Q What are the achievements so far since DTIE was established?
+A. We are focusing on preparing biomarkers to diagnose continuous AD disease progression through amyloid positron emission tomography (PET) imaging and cerebrospinal fluid (CSF) examination, taking into account the potential paradigm shift in diagnosis of AD associated with the launch of next-generation dementia treatments. At the same time, cognitive function check-up is a key to establishing the dementia ecosystem. We have entered into a business alliance agreement for exclusive development and commercialization of a cognitive function test Cogstate Brief Battery developed by Cogstate Ltd. (Australia) and launched as “NouKNOWTM” for brain performance testing (non-clinical use) in Japan in March 2020. This
+is a global standard as a tool to check brain performance, since it is in practical use in more than 55 countries already, including the U.S., and is applied to over 100 languages/dialects. It is very meaningful that we could introduce it in Japan.
+Furthermore, we are preparing the dementia platform “Easiit” for practical use, which general users’ personal health records directly link to. General users or their family who installed the app would provide information of daily living, such as data on sleeping, diet, exercise and brain performance score, through “NouKNOWTM” to “Easiit.” General users would receive appropriate advice on prediction/prevention from the algorithm based on a diverse data set of dementia
+32
+Eisai Integrated Report 2020
+Company Introduction Management Strategies Value Creation Activities Financial Base Initiatives to Enhance Non-Financial Capital Appendix
+
+ through the app. Needless to say, compliance with related rules and regulations, such as the Personal Information Protection Law, and complete support in both tangible and intangible aspects are very important. The whole idea with “Easiit” is to expand its function to medical use, which is able to visualize treatment effect with input from electronic medical records, and realize optimal therapy and efficient
+diagnosis of disease through interviews eventually, to further contribute to people with dementia and medical staff. In July 2020, we started providing smartphone app “Easiit App” to encourage behavior alteration by collecting lifelog data from daily life by co-development with DeNA Group (Tokyo), our alliance partner. With the beginning of provision of the “Easiit App,” the Eisai Dementia Platform “Easiit” has commenced.
+ NouKNOWTM
+“NouKNOWTM” is conducted through a simple card test using a PC or tablet device to quantitatively measure brain performance in four tests evaluating psychomotor function, attention, learning and memory, and working memory. Users can self-assess independently and in a short time frame (approx. 15 minutes), enabling regular assessments in instances such as
+daily life and health checkups. On the results screen, a score (brain performance index [BPI]) — as a measurement of quantified brain performance aspects such as memorization, cognition, and decision — appears along with lifestyle advice for maintaining brain
+performance. We started the sales for corporate bodies such as local governments and companies, and we have received many inquiries.
+NouKNOWTM (Only available in Japanese) ▶ https://nouknow.jp/
+   “Easiit App” (co-development and provision with DeNA Group)
+“Easiit App” is designed to support building of habits that are considered good for brain performance in daily life. A menu of individualized recommendations on diet, based on users’ footsteps, diet, sleep, and weight records (lifelog) is updated on a weekly basis and displayed. Individualized scoring is conducted based on actions and habits which are good for brain performance. For diet record in particular, easy diet management is made possible as the “Easiit App” evaluates users’
+ meals via photo upload for calorie intake and eleven essential nutrients, and displays this information in relation to an age-based standard for calorie and nutrient intake. Eisai plans to equip the “Easiit App” with a linkage to the brain performance self-check tool “NouKNOWTM” and a new function is planned for use in families. This app is now free of charge and the high function edition with various additional contents and continuous individual data visualization is to be launched for a charge.
+Easiit (Only available in Japanese) ▶ https://www.easiit.com/app
+The app supports a healthy routine. Increase your score and help maintain performance!
+33
+Analyzes calorie and nutrient intake
+  Proposes a customized menu for you
+on a weekly basis
+Quantifies good habits for brain performance
+
+Community Network Building that Enables Dementia Patients to Live with Peace of Mind
+Since 2010, the Company has been promoting the conclusion of regional collaborative agreements with local governments, medical associations, and pharmaceutical associations, etc., throughout Japan (167 organizations in 44 prefectures as of March 31,
+2020). The Company proactively participates in the promotion of the understanding of dementia, its early discovery and treatment, and other community-building efforts that allow dementia patients to live with peace of mind.Message from Bunkyo-city, Tokyo, collaborating with Eisai under Regional Collaborative Agreement
+Ms. Kiyomi Shidehara, Dementia area support promotion member, Elderly Welfare Division
+We concluded a community development partnership agreement to promote local dementia support initiatives with Eisai Co., Ltd. in June 2015, whose head office is located in Bunkyo-ward and is promoting initiatives to support local communities for dementia, in addition to conduct research and development for dementia treatments.
+We have been working together to disseminate the initiatives rooted in the community to support people
+with dementia, such as a project to make the number of missing people due to dementia zero in Bunkyo-ward.
+We will continuously promote understanding and awareness of dementia to further develop the community, where people with dementia and their families can live with peace of mind in collaboration with Eisai Co., Ltd.Case Example: Bungotakada City, Oita Prefecture
+We undertook the building of a community network that enables local residents to acquire a grasp of their cognitive function level as well as the state of their health, and consult healthcare professionals at an early stage. In collaboration with the local government and medical association, salons (meeting places) were set up at 15 locations for about 300 people. Health checkups to confirm such matters as cognitive function and frailty levels were held at the salons. Participants suspected of having mild dementia were asked to visit a specialist hospital for further checks. Activities useful for maintaining good health were also held at salons. They included brain exercise classes, a place for
+reminiscing where participants talked about their past memories, lectures on oral care, and cooking classes where participants thought of their own menu and procured needed ingredients.
+ Brain exercise class (September 2019)
+Dementia Cafe
+The dementia cafe (Orange Cafe) is a place where dementia patients, their families and people from the community can gather freely. Orange Cafes are regularly held at the Company’s Head Office (Tokyo), the Naito Museum of Pharmaceutical Science and Industry (Gifu Prefecture), and the Tsukuba Research Laboratories (Ibaraki Prefecture). In addition to spending an enjoyable time, people who visit the cafe can make new friends, exchange information, and consult healthcare and nursing care professionals. At the same time, they can also participate in brain activation exercises, led by nursing preventive exercise instructors, enjoy musical entertainment as part of music therapy, and other offerings. The Company’s employees
+participate each time a salon is held, proactively interacting with a variety of individuals.
+ 34
+Eisai Integrated Report 2020

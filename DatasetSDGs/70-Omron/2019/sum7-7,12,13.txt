@@ -1,0 +1,49 @@
+BusinessEnvironment
+Environment
+Corresponding SDGs
+Building an environment for a sustainable society is part of improving lives and contributing to a better society, as stated in the OMRON Principles. In support of this ideal, we pursue initiatives under our Green OMRON 2020 environmental vision. Green OMRON 2020 sets six environmental targets as goals for 2020. Of these goals, Reductions of Greenhouse Gas Emissions and Appropriate Management and Reduction of the use of Hazardous Substances were two on which we focused in 2017 as important company-wide sustainability initiatives.
+Initiatives to Achieve OMRON Carbon Zero, Aiming for Zero Greenhouse Gas Emissions by Fiscal 2050
+  In July 2018, OMRON set OMRON Carbon Zero as a new target aiming for zero greenhouse gas emissions by fiscal 2050. In line with this initiative and in response to climate change and global warming, we changed our greenhouse gas emissions indicator from net sales to CO2 emissions to total emissions. Using 2016 greenhouse gas emissions quantities as a baseline, we backcast from 2050 to develop targets for 2030 and 2020.
+Greenhouse Gas Emissions Reduction Targets
+Target
+Reduction (%)
+Fiscal 2016 Fiscal Fiscal Fiscal (Reference Year) 2020 2030 2050
+0
+25
+50
+75
+100
+    At OMRON, 90% of our greenhouse gas emissions are from our electricity usage. Therefore, our efforts regarding electricity usage are a priority issue. To this end, our basic policy is to minimize the amount of electricity used within OMRON and use renewable energy for business activities that contribute to corporate growth and reduced greenhouse gas emissions.
+In fiscal 2018, we reviewed electricity procurement methods for approximately 40% of OMRON’s electricity consumption in Japan. We began procuring electricity from renewable sources in the Kansai area of Japan in December 2018 and in June 2019 for the Kanto area of Japan.
+In the future, we will expand these initiatives to Asia and other regions, looking towards zero greenhouse gas emissions by 2050.
+4% Reduction
+ Fiscal 2018 results:
+Created an action plan towards the 2020 4% reduction targets (energy savings, introduction and purchase of renewable energy), achieving fiscal 2018 reductions of 21,000 t-CO2 (baseline: 2016) ahead of schedule.
+32% Reduction
+100% ReductionThe OMRON Principles are the foundation of everything we do. OMRON Corporate motto is to improve lives and contribute to a better society. In terms of the environment, this means using our business activities to reduce environmental impact and increase our contribution to the environment, helping others live a secure and comfortable life in a true sustainable society. We believe our mission is to pass on a better society to future generations. In pursuit of this mission, we promote environmental activities as part of our day-to-day practice of the OMRON Principles.
+Global Manufacturing Innovation HQ, Teruyasu Imai
+ 67
+Vision StrategyBusinessGovernance Financial Info Corporate Info
+Initiatives to Reduce Greenhouse Gas Emissions
+OMRON’s environmental actions for reducing greenhouse gas emissions are twofold. First, reduce the environmental impact through our business activities and second, contribute to the environment by providing society with valuable products and services. One example of reducing the environmental burden through our business activities is promoting energy-savings by visualizing energy consumption in our facilities. This includes air conditioning and lighting on factory product floors and providing optimum control of this equipment in line with production status. We are also installing solar power facilities in our buildings. Examples of reducing our environmental burden through our business is our power conditioners, used for solar power generation, and storage batteries. These products facilitate the efficient use of generated electricity (measured as environmental contribution). At the same time, our products provide energy systems and services for local production and consumption linked to regional revitalization.
+  Make Maximum Use of All Management Resources
+Offer Products and Services Useful to Society        Japan
+Products
+  P59
+    Adopted system to visualize electricity usage (Ayabe City, Kyoto)
+Converted self-generated power to clean energy (Production plant in Guangzhou City, China)
+Support for TCFD
+Reduce Our Environmental Impact
+Greater Volume of Environmental Contribution
+P30
+Products that contribute to the spread of clean energy
+Used abandoned fields to create locally produced, locally consumed energy (Miyazu City, Kyoto)
+            Overseas
+Services +
+     OMRON recognizes that climate change impacts our future sustainable growth. We are engaged in the following framework, using the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD), for which we declared our support in February 2019.CategoryOMRON InitiativesGovernanceIncorporate climate change issues into governance and management systems for sustainability initiatives and goals
+Link overall sustainability, including climate change, to executive medium- and long-term perfor- mance-linked compensation (internal directors, executive officers)Strategy
+Risk: Started study of increased business costs due to higher energy costs, capital investment in renewable energy/energy-saving facilities, and the impact of carbon tax, etc. (migration risk) and support for business continuity in our own company and supply chain associated with flood damage or similar (physical risk).
+Opportunity: Increased environmental contribution from our business through products and ser- vices; also, we can expect more opportunities from environmental business and in environment-related service and maintenance businessesRisk Manage- mentCollect and analyze a wide range of information on risk factors including regulations and impact on business
+Understand the vulnerability of production centers to natural disasters (flooding, torrential rain, water shortages, etc.) which are expected to increase in scale and frequency as a result of cli- mate change; make preparations for business continuityIndicators and TargetsSet targets aimed at achieving Carbon Zero (Scope 1 and 2) by fiscal 2050 (Revised to 1.5C target to match SBT* accepted norms)
+Target for Scope 3 also being considered*SBT: Science Based Targets. Science-based, medium- to long-term targets for reducing greenhouse gases.
+68

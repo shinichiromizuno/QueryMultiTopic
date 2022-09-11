@@ -1,0 +1,62 @@
+ or Value Creation
+Improving Customer Experience Value (CX)
+  Creating experience values which leads to the total satisfaction of our customers in their choice of insurance company
+We will pursue ways to impress our customers and radically reform all services including insurance proposals, support and procedures from the viewpoint of improving the “customer experience value.”
+We will improve the “customer experience value” by providing “warmth” and “convenience” by combining physical and digital measures.
+HIRONAKA
+Yasuaki
+Senior Managing Executive Officer
+Responsible for Customer Experience DepartmentRecognition of the environment and basic strategy
+The life insurance industry is going through a structural change, owing to factors such as the reformation of the life insurance market associated with the rapid progress of the falling birthrate and the aging population in Japan, as well as the entry of companies from other industries. In line with these changes, the business model of life insurance itself is undergoing transformation, with the propagation of smartphones, social media, etc. and the diversification of communication methods, as well as the advancement of digital technologies, changes and diversification of lifestyles of customers, and rapid advances in medical technologies.
+From 2020 onward in particular, due in part to the impact of COVID-19, the daily lives and awareness of customers have changed, and the transformation of digital technologies in company activities has accelerated. In the age of living with and post COVID-19, it is our responsibility to fulfill our social mission and role as a life insurance company without fail, adapting to customer needs in this turbulent environment.
+In addition, governments are also promoting the use of digital technologies in corporate settings based on the concept of Society 5.0, and proceeding with the digitalization of their own operations, including a plan to establish the Digital Agency.
+Companies are rapidly proceeding with the digital transformation (DX) of their business models in order to create new services and business approaches and to secure competitive advantages. On the other hand, we see a gap between customers who can use these digital technologies, etc. and those who cannot when we provide them with services.
+Under these circumstances, we recognize it is essential to promote DX in a way that customers of diverse ages and values will feel warmth, by making use of physical contact points with customers, like post offices and consultants.
+Given this environment, we plan to radically reform all services, including insurance proposals and other procedures, from the viewpoint of improving the customer experience value (CX). Our goal is to provide convenience to customers and support customers anywhere at any time. To do this, we will construct IT system platforms to underpin improved experience values and provide services combining physical means of contact that convey warmth with convenient digital systems.
+We intend to enhance the customer experience by providing quality services that ensure customers feel truly glad they chose Japan Post Insurance, and aim to expand the customer base through family and friends, to communities and societies.
+Past activities
+We are responding to various changes in lifestyles, including the rising number of non-face-to-face service users due to the COVID-19 outbreak. We are also working to improve customer convenience by expanding the functions of “My Page,” a Web service for policyholders, accessed using familiar devices, such as home PCs and smartphones.
+30 JAPAN POST INSURANCE
+  Priority initiatives of the Medium-Term Management Plan (FY2021–FY2025)
+Transition to business model that positions customer experience value (CX) as our top priority while promoting DX through expanding our customer with services that impress them as the core.
+(Comprehensive image after realization)
+New contracts After-sales follow-ups and claims
+   Customers of all ages with diverse values
+ I now know what coverage I need
+On-the-spot enrollment was smooth and convenient
+I could complete claim procedures without trouble They understand me
+I could perform timely claim procedures thanks to careful follow-up support
+     Front line (consultants/counter)
+Optimal proposals tailored to each customer based on their needs
+Procedures can be completed on-the-spot thanks to the digitalization of various procedures and online presence and support of specialists at the customer service centers
+New devices
+Digitalization of procedures
+AI-OCR1 eKYC2
+The entire team provides personalized, meticulous support to customers
+Counter Consultant
+Customer database
+Policy Transaction info info
+    Counter
+Consultant
+Customer service center
+     Customer service centers
+  Contact history info
+ Online presence ChatBack officesAllowing various procedures to be completed on the front line and utilizing digital technologies to achieve more efficient back office operations
+Notes: 1. OCR (Optical Character Recognition) that uses AI for improved rate of recognition of handwritten text, etc. 2. Identification procedure by electronic means
+(Investment in systems infrastructure)Investment in systems infrastructure that help enhance customer experience value  Establish a customer database to centralize and share information
+Establish a database that integrates policy and inquiry information, etc. for each customer
+Support activities of consultants by introducing applications, thereby further enhancing solicitation quality
+Develop systems that support customers’ application and claim-filing procedures
+Develop digital-based systems for procedures with new devices (AI-OCR, eKYC, etc.)
+Expand the scope of online-based procedures accessible at night and on holidays
+System infrastructure for customer service centers
+Develop system infrastructure for communicating with customers using various methods such as on-line attendance
+Next-generation system infrastructure
+Develop next-generation system (utilization of cloud services, zero trust security, etc.) infrastructure enabling flexible and speedy system development with a view to realizing the aforementioned
+   Develop system infrastructure for enhancing customer support Strategic IT investments: Approx. ¥100.0 billion over 5 years3
+Note 3: In addition to “investments” in financial accounting, this includes expenses related to strategic IT.
+Providing all customers with experiences and services that ensure they feel glad they chose Japan Post Insurance
+I belong to the CX Promotion Department, which is in charge of the Customer Satisfaction Survey conducted once a year and has evaluations of Japan Post Insurance from customers to improve products and services. In the fiscal year ended March 31, 2021, we started a trial of a survey conducted immediately after procedures in order to gather evaluations, etc. for each important contact point with customers in real-time. We will continue to speedily collect evaluations and feedback from customers, and swiftly proceed along the PDCA cycle from the customer-first viewpoint to help support those providing experiences and services that impress all our customers.
+KANDA Akiyo
+Customer Experience Department
+ Annual Report 2021 31

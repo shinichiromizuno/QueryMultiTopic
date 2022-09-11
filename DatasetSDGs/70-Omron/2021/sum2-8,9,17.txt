@@ -1,0 +1,144 @@
+Business OMRON Corporation Integrated Report 2021 Industrial Automation Business (IAB)
+Factory Automation
+  With the vision to “Bring innovation to manufacturing by automation to enrich lives of people all over the world,” the Industrial Automation Business leverages OMRON technologies to generate innovations in manufacturing with a focus on automation. These innovations contribute to productivity advancements in the global manufacturing industry. We aim for a world where people everywhere are enriched by innovations at our customers’ manufacturing sites, with our technologies and solutions across a wide range of products at the top level in the industry, with our unique “innovative-Automation” concept.
+VG2.0 Focusing on Innovation in Manufacturing
+The environment surrounding the manufacturing industry is changing significantly. Changes are seen in “what to make,” “how to make,” “where to make,” and “who is making” as represented by increasingly advanced products, local production and consumption, and one-piece manufacturing, as well as seeds represented by artificial intelligence (AI), Internet of Things (IoT), robotics and other technological innovations. OMRON has been keeping up with these changes and aiming for advanced manufacturing with the unique value generation concept “innovative-Automation” since 2016, in order to solve issues facing manufacturing sites.
+OMRON’s innovative-Automation has three pillars: “integrated (evolution in control),” “intelligent (development of intelligence),” and “interactive (new harmonization between humans and machines).” With these three i’s as keywords, we have generated innovative control applications by integrating the extensive ILOR+S* product range with over 200,000 items, including software and services. We have created over 200 control applications in the past four years,
+contributing to innovation at many customers’ manufacturing sites.
+In terms of evolution in control, we are focusing on issues such as the aging of skilled engineers and a lack of successors to create control applications for work requiring ultra-high speed and precision, reproducing the “craftsmanship” of skilled engineers. Some of these applications wind film products with high speed and accuracy or laminate sheet products with high precision. These new applications properly respond to customers’ needs in digital industry, which change with greater performance of products (such as rechargeable batteries) or manufacturing methods. In the course of developing intelligence, we have created advanced applications that utilize information at manufacturing sites by adopting IoT or AI technology for control devices. Applications that predict product failures and equipment abnormality utilizing AI-based controllers and “sensory inspection” applications using AI-based vision systems that can detect defects beyond the five senses contribute to development of self-learning machines and no-failure production processes, respectively. The i-BELT co-creative data service is also highly regarded by customers for solving their issues through the collection and visualization of on-site data and data analysis in co-creative projects with customers. Further, in the context of pursuing new harmonization between humans and machines, we have realized new automations where workers and machines can collaborate by drawing out each other’s characteristics, utilizing autonomous mobile robots (AMRs) and collaborative robots. For example, the Mobile Manipulator (MoMa) mobile working robot, a combination of a mobile robot and a collaborative robot, contributes to flexible manufacturing that changes production lines depending on what to make.
+As mentioned above, we have developed products that enhance ILOR+S and implemented M&A alliances by focusing on developing applications that promote innovations for manufacturing sites with innovative Automation. We have also expanded infrastructure and human resources that help customers solve their issues. The number of Automation Centers (ATC) that reproduce manufacturing site devices and production lines with actual machine models, using applications created by combining the latest technologies and products, increased to 37 last year. ATCs welcome thousands of visitors every year, as Collaborative Creation sites where we verify and demonstrate solutions for manufacturing issues and create new applications with customers. Further, we have increased the number of sales engineers (SEs) with expertise in OMRON’s control technology and products and manufacturing site experience, strengthening their technology consultation capabilities for proposing applications and new solutions unique to each
+Domains
+Corresponding SDGs
+  Managing Executive Officer
+Company President,
+Industrial Automation Business Company
+Junta Tsujinaga
+39
+OMRON Corporation Integrated Report 2021 Business customer. Currently, over 1,000 SEs are working on solving challenging new issues at customers’ manufacturing sites.
+* ILOR+S is an abbreviation for Input (input devices such as sensors), Logic (control devices such as controllers), Output (output devices such as motors), Robot, and Safety (safety devices to ensure the safety of equipment)
+ Business Highlights
+Net Sales / Operating Income / Operating Income Margin
+Capital Expenditures / Depreciation and Amortization / R&D Expenses
+(Billions of yen) 400
+331.0
+15.7%
+52.0
+391.8
+16.1%
+62.9
+(Billions of yen) (Billions of yen)
+Net Sales
+396.1
+18.7%
+74.0
+Operating Income (right axis)
+Operating Income Margin
+Capital Expenditure
+Depreciation and Amortization
+ 352.8
+375.0
+16.8%
+63.0
+120 25
+23.3
+ 346.4
+21.0
+20.0
+R&D Expenses
+18.4
+6.9 6.9
+4.8 4.1
+16 17 18 19 20FY
+        300 200 100
+15.2%
+80
+40
+20 16.4 15
+000
+Logic
+Programmable Controllers
+Mobile Robots
+Safety Controllers
+41%
+Fiber Sensors
+Safety Light Curtains
+Vision Sensors
+53.6
+9.3
+5 4.5 6.9
+17.0%
+58.8
+      10
+7.4
+4.2 5.2
+  16 17 18
+Sales by Product
+Output + Robot
+Servo Motors and Drivers
+Motion Controllers
+19
+20 21FY (Forecast)
+13%
+FY2020 Net Sales ¥346.4 billion
+46%
+  Input
+            Social Issues to be Solved
+Actual Progress during VG2.0
+VG2.0 Goals
+  Labor shortages(shrinking labor force in developed countries and lack of skilled workers in emerging economies)
+Handling increasingly advanced and diversified manufacturing processes
+Developing new products to realize innovative Automation in the four focused industries (control technology for manufacturing innovation)
+     INPUT
+R&D cost:
+Total ¥82.7 billion Capital expenditure: Total ¥25.7 billion Growth investment: Total ¥20.5 billion
+(Actual for FY2017 through FY2020)
+OUTPUT
+Profitability improvements by value-added solutions, with GP ratio up 1.0 pt (vs FY2016)
+Deployed over 200 control applications that realize manufacturing innovation at manufacturing sites
+Strengthened product portfolio for innovative Automation improvement M&A: Industrial code readers, industrial cameras
+New products: Over 50 products such as robotic integrated controllers and AI-based vision systems (doubled from previous year)
+Official launch of co-creative on-site data solution business by i-BELT Increased number of sales engineers to embody control applications at customers’ manufacturing sites (over 1,000 around the world)
+Increased number of Automation Centers around the world to 37 (was 8 as of 2016)
+Expanded business foundation into essential areas, such as mask manufacturing, medical and pharmaceutical industry
+Expanded production capacity for scaling up business (investment in second plant in Shanghai, China, etc.)
+OUTCOME
+Contributed to economic development by enhancing social productivity through innovative-Automation
+SDGs 8.2.1 SDGs 9.2.1 SDGs 17.16
+40
+
+Business OMRON Corporation Integrated Report 2021
+Contributing to Solving New Social Issues under the COVID-19 Pandemic
+Under our policy that OMRON bears a social responsibility to support manufacturing sites around the world as a company that has been involved in a core field of the manufacturing industry, we started to address COVID-19 pandemic immediately as well.
+The outbreak of COVID-19 caused lockdowns and travel restrictions, leading to confusion not only for the manufacturing industry but also for various social infrastructures. Our Industrial Automation Business has been independently taking actions for this situation in order to solve various social issues caused by COVID-19 around the world. For example, we supported urgent production increases and the start-up of new production lines by proposing automation applications including industrial robots for worldwide shortages of masks, ventilators, and medicines. For hospitals and medical institutions busy with taking care of infected patients, we have contributed to automating labor-intensive sanitizing processes by developing mobile sterilization robots with UV lights and applications that automate the sanitization of medical equipment, collaborating with system integrators as partners. Also, for production of foods and daily necessities, which has become more serious due to the worsening lack of workforce under COVID-19, we have helped maintain production of consumables by deploying applications of collaborative robots that can work with workers.
+We also started working on development of products to promote digital transformation (DX) globally, which was adopted to manufacturing sites earlier than planned due to the pandemic. Our robotic integrated controllers, which had their worldwide launch in July 2020, automate advanced and complex work that only skilled workers could do by seamlessly integrating robots and peripheral devices, as well as realizing remote engineering by precisely simulating technology in the real and virtual worlds. While travel restrictions are in place and access to production sites is limited all over the world due to COVID-19, this remote engineering has enabled us to commission production equipment and conduct maintenance remotely. For the new issue of travel restrictions, we have enabled remote performance of checks that were done by production engineers and maintenance personnel onsite, reducing workloads by over 50% for processes like equipment start-up and maintenance. Also, with online factory tours and virtual ATC tours, we have been contributing to customers’ continuous production activities by strengthening global consultation activities by our SEs and sales teams utilizing our digitalized infrastructure.
+OMRON has deployed these applications in our own factories and utilizes them for maintaining production activities amid the COVID-19 crisis. The OMRON Shanghai manufacturing site improved workers’ work efficiency and realized unified production and quality by machines supporting workers with data, after adopting the Cell Line Control System (CLCS), an intelligent production line where workers and machines work together utilizing on-site data. As a result of addressing new social issues due to COVID-19 crisis, we were able to contribute to continued production activities in the global manufacturing industry.
+Manufacturing floor where humans and Mobile robot equipped with UV light irradiator to Mobile robots that transport medical waste at machines work in harmony prevent infection hospitals in Finland
+    41
+
+OMRON Corporation Integrated Report 2021 Business Industrial Automation Business in the Post-COVID World
+While production and social activities under COVID-19 become the new normal, changes in the market and society have been accelerating globally towards the post-COVID world. This shift includes acceleration of green recovery actions including increased use of electric vehicles (EVs) and renewable energy and shifts to eco-friendly materials. This will also drive changes to infrastructure for realizing a digital society, represented by increased demand for semiconductors, 5G and DX. OMRON views these changes as significant business opportunities for our IAB business and is preparing to respond to various market needs based on technologies and products developed during VG2.0 and many control applications that embody innovative Automation.
+As COVID-19 has significantly changed people’s lifestyles, ways of working, and values, the post-pandemic manufacturing industry will not simply go back to what it was before COVID-19. Social issues such as aging of skilled engineers, lack of successors, and shortage of workforce are further accelerating, along with increased market needs for new automation. Amid these challenges, OMRON is further driving DX in manufacturing. For example, we joined Nokia’s Local 5G Technology Partnership to develop solutions that utilize 5G, collaborating with other partner companies as well. We are also working on realizing automated solutions that can respond to the growing need to shift from a centralized production structure to region-based diversified and close-to-consumption production as quickly as possible. Examples include CLCS that utilizes mobile robots and collaborative robots modularize production equipment, aiming for production lines that can be started up in short periods of time according to what to make or manufacturing locations.
+Issues of manufacturing quality are becoming more serious due to the aging of skilled engineers and lack of production engineers, along with higher demands for quality from markets and consumers. Our “i-BELT” service, with advanced AI technology, can help manufacturers to continuously maintain and improve manufacturing quality, turning skilled engineers’ know-how into reusable assets.
+For the globally increasing green recovery, we have started developing new solutions in various fields by collaborating with customers. To combat marine pollution due to plastic waste, we are participating in initiatives to change packaging materials to renewable biodegradable plastic in partnership with food and consumable manufacturers and machine manufacturers. We have also been contributing to the growth of green energy use by developing durable, high-quality parts in collaboration with manufacturers of key parts for wind power generator manufacturers.
+OMRON will continue these initiatives that enrich lives of people all over the world by innovating manufacturing with automation, in response to various post-COVID market changes.
+Innovations in Manufacturing by innovative-AutomationEquipment failure
+prevention to predict equipment failures with AI
+Non-stop high-precision alignment systems to position parts moving at high speed at the micron level
+integrated
+Evolution in control
+  Sensory inspection
+to automate visual inspection relying on human’s senses
+Robotic integrated solutions to precisely synchronize industrial robots, machines, and peripheral devices
+     intelligent
+Development of intelligence
+ Driving innovation in manufacturing with three i’s
+   High-speed 3D picking machines to automate picking of
+bulk parts by robots
+interactive
+New harmonization between humans and machines
+"Cell Line Control System”
+where workers and machines collaborate and machines support unskilled workers with data
+Flexible cell line where mobile robots
+carry parts and products
+  AI-based tightening inspection to predict and correct screw tightening variance in real time
+42

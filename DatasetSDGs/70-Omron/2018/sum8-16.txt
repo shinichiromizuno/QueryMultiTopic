@@ -1,0 +1,103 @@
+Risk ManagementSupporting Global Expansion
+In 2011, we launched the OMRON VG2020 long-term vision. This led to review our existing risk management activities to adopt a new Integrated Risk Management platform. Our new risk management platform reflected the thinking of the top management that the faster pace of change in the operating environment and rising levels of uncertainty called for preparation and rapid response to risk. Management felt the need for OMRON to become more attuned to risk, identifying and addressing risks at the earliest stages.
+OMRON faces a variety of risks as we expand across the globe. Accordingly, we have identified and categorized the entire spectrum of risks that impact management performance and financial health. Having
+Businesses and Risk
+defined these risks, we then charted their interrelationships. The risk categories defined consist Macro Environment Risk; Natural Disaster Risk; Management, Business Strategy, and Financial Risk (including Human Risk and Legal Risk); and Resource and Infrastructure Risk.
+We use this framework as a link between management and the local workplace, helping management work with local staff to deal with OMRON Principles-based risk management issue. Under our current VG2.0 plan, we take actions related to business risk management that help us respond to new challenges including creating value through innovation.
+   External Risk
+Management, Business Strategy, Financial RiskMacro: Economic downturnMacro: Economic fluctuationsFinance: Market volatility
+  Macro: Market trends
+Finance: Ratings downgrade
+  Finance: Yen interest rates upLegal: Anti-briberyLegal: Anti-trustQuality: Defects, recallsR&D: Patent disputesR&D: Brand infringement
+Legal: Environmental law infringementLegal: Information securitiesLegal: Security trade controlsQuality: Initial response failure
+Procurement: Supplier CSR issues Macro: FX rate movements
+  Human Wages up capital:
+Human Shortage of capital: management
+ Quality: Environmental rulesR&D: Change in specifications
+ Regulatory: Labor code
+ Human Industrial accident capital:62
+Procurement: Price changes
+*Graphic representation of the business risks as shown on https://www.omron.co.jp/ir/keiei/risk.html
+Human Risk
+Legal Risk
+  Natural disasterContagious diseaseIT Data breach security:IT Major data collapse security:IT System failure security:Procurement: Component shortagesProduction: Shipments haltProduction: Production halt
+Natural Disaster Risk
+Resource, Infrastructure Risk
+Impact on management performance and financial condition
+  Integrated Risk Management Structure
+Integrated risk management at OMRON consists of three main activities:
+1. Performing an annual global risk analysis to identify
+important risks and formulate responses
+2. Forming a crisis response measure when a risk
+develops into a crisis
+3. Reporting important risk information promptly and
+providing information to relevant parties (risk information management)
+Activity Cycle for Integrated Risk Management
+We formalized this shared framework into a document titled, OMRON Group Rules for Integrated Risk Management. This document clarifies the role of risk management. We have appointed risk managers in each head office department, each division, each regional headquarters, and each group company in Japan and around the world. These risk managers are responsible for coordinating risk management activities at the local office level.
+  Corporate Ethics & Risk Management Committee
+Determine risk response plan for the upcoming year
+Determine budgets for the upcoming y
+Do
+Execute Plan
+Share and report information related to important risks
+Conduct activities based on the plan Corporate ethics month
+ ear Plan
+  Board of Directors
+Annual activity review
+Executive Council
+Act
+Report the progress of activities for the current year
+Report results of global risk analysis Determine important Group risks for the upcoming year
+Check
+Analyze Global Risk
+Headquarters, regional headquarters, divisions
+Corporate Ethics & Risk Management Committee
+Annual activity review
+Share analysis of risks
+Select important Group risks (draft)
+   Disclose Results of Activities
+Important Risks and Risk Information Management in the OMRON Group
+OMRON assigns a rank of “S” to the most critical risks that may endanger business continuity of the OMRON Group, or call into questions important issues of group social responsibility. We assign a rank of “A” to risks that may impede achievement of key group goals. Every year, the Corporate Ethics & Risk Management Committee discusses risks, while the Executive Council assigns categories to these risks.
+As part of our risk information management system, we monitor the status of important events related to external risks. We check nearly 100 global information sources on a daily basis. As a rule, important risk information within the group is reported to our head office within 24 hours.
+  OMRON Group Material Risks (Fiscal 2017)
+S Risks:
+A Risks:
+Business continuity, violation of global laws (bribery, etc.)
+Global information/IT security risks, etc.
+Employee safety, Internal fraud, occupational health & CSR compliance, Group management, etc.
+63
+      Vision Strategy Business Governance Financial Information Corporate Information
+
+  Advancing Business through Evolving Group Governance
+Rules and regulations arising from technological innovations such as AI and IoT and concerns on environment and information securities have significant impact on activities of a company. OMRON takes these change and risk as an opportunity for growth of the group. OMRON pursues certain
+measures to help us reach advanced levels of group governance. During fiscal 2017, we pursued sustainability initiatives aiming for the goal in fiscal 2020.
+ ProgressToward Sustainability Goals for Risk Management
+Fiscal 2020 Goals/KPIs Fiscal 2017 Progress
+     64
+Fair Business Practice
+Consistent promotion of OMRON
+Group Rules*1 at all sites Global training in ethics rules
+*1 OMRON Group Rules encompass 24 separate topics, including ethical conduct, risk management, unauthorized control , information security, security export control , IT controls, accounting and funding , labor and occupational health, environmental management, procurement, and brand management.
+*2 CSIRT: Computer Security Incident Response Team
+P65
+Launch of global web-site and system for training and monitoring
+Training offered to 30 thousand employees in 25 languages
+    Information Security, Personal information protection
+Consistent promotion of OMRON Group Rules at all sites
+Build a new security system
+Launch of global cyber security meeting and CSIRT*2
+ 
+Case StudyInstilling OMRON Group Rules Worldwide
+We established the OMRON Group Rules (OGR) as a framework to promote efficient and effective risk management, compliance, and other matters of group governance on a global scale. In addition to OMRON Principles as a shared group management policy, the rules provided in OGR will help us accomplish goals in three areas: Group Management, Business, and Employees.Group Management Business
+Employees
+Appropriate and minimum necessary controls
+Management transparency, fairness, and global vision
+Appropriate, responsive decision-making based on shared understanding
+Quick integration of acquisitions, establish companies in emerging economies, and localize company management
+Raise employee motivation through clear rules, allowing employees to focus on their business activities
+We spent three years to produce OGR. OMRON employees from around the globe participated in the project, ensuring the rules took regional differences in law, societal demands, and culture into consideration. We adopted OGR fully during fiscal 2017, holding training programs, publishing information releases through our global website, monitoring, and performing audits to make the rules an integral part of our organization. We still have work to do, however, to instill OGR group-wide. We will continue to provide communications, training, and standardization across the group to raise awareness of the rules. We also facilitate information exchange among local leaders on a regular basis, promoting ways to incorporate OGR into business processes and daily operations.
+The New Global OGR Database
+OGR global team members discuss how the rules are being adopted in each location
+Post-Merger Integration Process
+Prior to VG2020, we had no standard rules for post-merger integration (PMI). Quickly integrating new businesses into the group was not an easy task. After implementing a PMI program as part of the OGR, we have been able to integrate understanding of the OMRON Principles, management, human resources, sales, facilities, and other matters smoothly, comprehensively, and according to schedule. We used this program in our fiscal 2015 acquisition of Delta Tau Data Systems and Adept Technologies and achieved effective integration process.
+  65

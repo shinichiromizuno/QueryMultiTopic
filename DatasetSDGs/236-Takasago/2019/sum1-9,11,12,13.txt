@@ -1,0 +1,83 @@
+Research and development
+Based on one of our management principles“to develop technology that serves our customers’needs and utilizes the creativity of all employees,”the Takasago Thermal Engineering Group proceeds with its research and development in accordance with the following policies:
+1. To provide an optimized environment for low energy consumption;
+2. To pursue environmental technologies to improve productivity; and
+3. To develop building construction technologies to contribute to high quality and labor savings.
+Contribution to the world towards the establishment of a decarbonized society As an environmental solution professional contributing to the global environment, the Takasago Thermal Engineering Group develops technologies, products and services that help realize a decarbonized society and a sustainable society and introduces them into society for practical use. While checking our activities to ensure that they can contribute to the achievement of SDGs, we will aim to achieve the goals for 2030 together with society.
+For energy use optimization, we focus on the development of a system and structure to provide one-stop services for the optimization over the lifecycle of buildings and also work on the commercialization of a system to store, transport and use low-temperature waste heat that has conventionally been disposed of, as well as technologies to use hydrogen and biomass. We are also committed to the development of technologies for the minimization
+of environmental impact including energy-saving technologies that help reduce CO2 along with technologies for water purification and a system to recover organic solvents. For the improvement of productivity and job satisfaction, we are working for the use of BIM technologies on construction sites, which can also promote work style reform in our company, as well as research and development for the improvement of intellectual productivity in office work. We aggressively promote the effective use of AI and IoT because we consider that it is essential for the achievement of the goals mentioned above.
+We will promote those development and business creation activities based on an integrated R&D and incubation system with the Innovation Center playing the main role and through internal and external cooperation as well as cooperation within our Group.
+                  Minimizing of environmental impact
+Open innovation
+Energy use Optimization
+Contributing to the SDGs
+Improving productivity
+and sense
+of rewarding work
+Making use of Group
+AI/IoT collaboration
+        Intellectual property management
+As of the end of February 2019, the number of patents we own is 796 (including patents, utility models, designs and trademarks), which is the largest in the industry. Among them, the number of patents is 509, which account for two-thirds of the total, comprising 488 domestic patents and 21 overseas patents. In addition
+to patents concerning quality improvement and energy saving in the design and construction of HVAC systems, which is our main business, we are aggressively working to acquire patents of unique technologies in our new business fields. Meanwhile, we are also promoting initiatives to use the patents we have acquired not only for our solutions but also for open innovation and to grant them to other companies. We have already concluded some agreements to grant our patents.
+    35 TAKASAGO CORPORATE REPORT 2019
+TAKASAGO CORPORATE REPORT 2019 36
+Number of patents, etc. owned
+(FY2019)
+796
+Number of patents acquired
+509
+(FY2019) Research and development activities and their outcomesHydrogen energy system We delivered our water electrolyzer (a device to produce hydrogen and oxygen by electrolysis of water) to a demonstration project for the production of electrolytic hydrogen using renewable energy and the supply and use of hydrogen mixed gas, which is implemented by NTT Data Institute of Management Consulting and other companies under commission from the Ministry of the Environment of Japan. In this
+project, CO2-free hydrogen is produced by electrolysis of water using the electricity generated at a wind farm in Noshiro, Akita Prefecture. We will continue to contribute to a hydrogen-based society, which should be realized in the future, beyond the borders of the commercial building business by delivering devices for various demonstration projects, etc.
+  Water electrolyzer delivered to Opening ceremony the demonstration site in NoshiroLow-temperature waste heat storage systems using adsorptive materials We launched a demonstration test for the systems jointly with a few companies as a project subsidized by the New Energy and Industrial Technology Development Organization (NEDO). In this project, year-around data are collected on the economic efficiency of a system developed for the use of waste heat at fixed places and a system for off-line heat transportation in order to demonstrate the storage of waste heat from plants, cogeneration exhaust gas and hot water Jacket. We plan to commercialize the developed systems
+External view of a fixed heat storage system
+after technical evaluation and product review based on their demonstration data in the future. The off-line heat transportation and storage system is expected to be deployed to the market as a system to use a wide range of heat such as waste heat from sludge and waste incineration plants of local governments and waste heat from factories. The fixed heat storage system is also expected to be deployed to use unused low-temperature waste heat for dehumidification, heating and drying processes.
+External view of an off-line heat transportation and storage system
+   Heat storage tank filled with HASClay, a heat storage materialValue Creation Development of Foundations Supporting
+and Performance the Medium-term the Business Basic Information
+Business Plan
+   Foundations Supporting the Business
+  ● Facility overview of the Innovation Center
+    Conceptual drawing
+Copyright 2019,Takenaka Corporation
+Address
+Site area
+Total floor area
+Building height/structure Construction period
+2-9 Fujimigaoka, Tsukubamirai, Ibaraki
+22,746m2
+approx. 11,610m2
+2-story, 15,455 m/steel construction (RC construction in part) February 1, 2019 to January 31, 2020
+   Towards further innovation
+Construction of a new development base
+We are constructing Innovation Center (tentative name) (hereinafter "Innovation Center") as a new research and development base and the existing Research & Development Center will also be moved to the new facilities. The construction was started in February 2019 and is scheduled to be completed in January 2020 and the operation will be initiated in the spring of 2020. Its facilities include an office building with exhibition and working
+Operational concept of the Innovation Center
+spaces, a laboratory building for R&D activities and an equipment exhibition building that supplies energy.
+Under the concept of "sustainable construction that reduces burdens on the global environment and improves intellectual productivity at the same time," the Innovation Center aims to achieve Net ZEB*1 in the office building and ZEB Ready*2 in the facilities as a whole through the active use of renewable energy and advanced HVAC systems.
+*1: Net ZEB: Buildings that reduce the consumption of primary energy by 100% or more with energy saving (at least 50%) and energy creation *2: ZEB Ready: Buildings that reduce the consumption of primary
+energy by 50% or moreReduction of environmental burdens
+Open innovation
+Demonstration and evaluation of energy saving, etc.
+Contribution to
+the local communityPromote the development of HVAC and other building facility systems and construction technology,
+as well as technologies and new businesses concerning their peripheral areas such as energy
+and the reduction of environmental burdens, to expand the business fields of Takasago Thermal Engineering
+Promote open innovation through the strengthening of collaboration with various external research institutes, universities, companies, etc. to accelerate development and commercialization
+Demonstrate and evaluate the initiatives taken in the center to enhance energy saving, improve intellectual productivity and create a healthy environment to provide the outcomes to society to contribute to it
+Contribute to the local community by offering the exhibition space, which can also be used for experiment learning, as well as the cafe restaurant as an open space, to local peopleFundraising by issuing green bonds
+We raise the funds for the construction of the Innovation Center and its facilities by issuing green bonds. Our green bonds received Green 1, the highest grade in the preliminary evaluation by a third party (the Japan Credit Rating Agency (JCR)) and we have confirmed that the issuance meets the criteria of the Green Bond Principles 2018 developed by the International Capital Market Association (ICMA) and the Green Bond Guidelines 2017 of the Ministry of the Environment of Japan.
+37 TAKASAGO CORPORATE REPORT 2019
+TAKASAGO CORPORATE REPORT 2019 38
+ Dr. Andreas Hauer
+Dipl. -Phys.
+Head of Division Energy Storage
+at Bavarian Centre for Applied Energy Research
+ Proposal
+   Mr. Michael Matthys
+Founder and Managing Partner at Doorga Capital
+Proposal
+With a geographical advantage which I reside in Palo Alto, California ‒ the heart of Silicon Valley ‒, my objective is to link TTE (Takasago Thermal Engineering Co.,Ltd.) which is one of technology savvy companies in Japan, with the current technology trends and standards, along with the new companies leading these new markets created by transitions in technologies and business models. Currently, my team and I are focused on IOT and AI technologies that enable Smart Building and clean energy products and services which TTE may leverage to expand its business and improve the buildings provided to customers. These technologies can also be applied to reduce the cost and time required to develop and project-manage new building projects. Adopting these technologies, TTE can enter new markets as well such as demand-response services with power generation providers, on-site clean energy that is cost-effective based on leveraging technology, and facilities management services across multiple buildings.
+My team and I are also exploring new technologies and products that enable 3D visualization of new building projects including use of drones to confirm specifications fit the design, use of location-tracking tags for expensive tools and HVAC equipment, and inclusion of real-time camera and sensor visualization of the building site. TTE can leverage new product technologies and partner
+1
+As advisor to Takasago R&D activities Dr. Andreas Hauer will support the strategic approach of optimizing energy production, storage and consumption for a sustainable society. At Takasagos brand new R&D center he will propose and discuss relevant R&D topics as well as innovative business opportunities with the scientist and engineers. Focus of future R&D fields will be based on Takasagos core competences, which are trying to establish a well-balanced relationship between work, life and nature. In the intensive exchange new ideas for projects and products shall emerge. At the same time Dr. Andreas Hauer will introduce Takasagos members to the broad range of R&D activities in Europe. Once a year Takasagos mission will be guided to a number of R&D institutes, which are leading players in related fields such as heat pumps, chillers, sustainable buildings or hydrogen production. These trips shall open the door to new collaboration possibilities and strengthen the international network of Takasago Thermal Engineering.
+The Cooperation between Dr. Andreas Hauer and TTE started in April 2019.
+with selected Silicon Valley companies that have been proven and successful in the USA market in order to improve its business and explore new markets as well.

@@ -1,0 +1,89 @@
+BusinessRisk Management
+Risk Management
+Integrated Risk Management Supporting Global Business Activities
+Corresponding SDGs
+  At the same time we began executing VG2020, we also launched our existing integrated risk management program. Our risk management platform reflects the sentiment of top management that the faster pace of change in the operating environment and rising levels of uncertainty calls for preparation and rapid response to risk. Management felt the need for OMRON to become
+more attuned to risk, addressing risks at the earliest stages.
+OMRON must deal with a variety of risks as we continue to expand our businesses globally. In response, we have categorized the entire spectrum of risks that impact management performance and financial health. Having categorized these risks, we then chart their interrelationships.
+We use this framework as a link between management and the local workplace, helping management work with local staff to engage in risk management that resolves issues that must be dealt with at levels above the local workplace. VG2.0 includes measures related to business risk management that supports innovative creation.
+*Graphic representation of the business risks as shown on https://www.omron.co.jp/ir/keiei/risk.html
+Integrated Risk Management Structure
+OMRON has established PDCA activities that are conducted throughout the year to analyze risks, respond to critical risks, and engage in crisis management. For example, we summarize and share past examples of risk internally throughout the group. We formalize this shared framework into a document titled OMRON Group Rules Based on the OMRON Principles. This document clarifies the role of risk management in OMRON Group management.
+Activity Cycle for Integrated Risk Management
+Businesses and Risk*
+   Macro: Economic downturn
+ Macro: Economic fluctuations
+Macro: Market trends
+Finance: Yen interest rates up
+ Macro: FX rate movements
+Finance: Ratings downgrade
+     Legal: Anti-bribery
+  Finance: Market volatility
+  Quality: Environmental rules
+Human Wages up capital:
+Human Shortage of capital: management
+Legal: Anti-trust
+Quality Defects, recalls
+ R&D: Patent disputes
+    R&D: Change in specifications
+Regulatory: Labor code
+  Human Industrial accident capital:
+R&D:
+Brand infringement
+Legal: Environmental law infringement
+ Legal: Information securities
+    Human Risk
+Legal: Security trade controls
+Quality Initial response failure
+Procurement: Supplier CSR issues
+ Procurement: Price changes
+Legal Risk
+   Natural disaster
+IT security: Data breach
+IT security: Major data collapse
+   Contagious disease
+  Natural Disaster Risk
+IT security: System failure
+Resource, Infrastructure Risk
+Procurement: Component shortages
+Production: Shipments halt
+Production: Production halt
+      Corporate Ethics & Risk Management Committee
+Determine risk response plan for the upcomin year
+Determine budgets for the upcoming year
+g
+Plan
+Do
+Execute Plan
+Share and report information related to important risks
+Conduct activities based on the plan Corporate ethics month
+  Board of Directors
+Annual activity review
+Executive Council
+Act
+Report the progress of activities for the current year
+Report results of global risk analysis Determine important Group risks for the upcoming year
+External Risk
+Check
+Management, Business Strategy, Financial Risk
+Analyze Global Risk
+Headquarters, regional headquarters,
+divisions
+Corporate Ethics & Risk Management Committee
+Annual activity review
+Share analysis of risks
+Select important Group risks (draft)
+ 69
+Disclose Results of Activities
+Impact on management performance and financial condition
+Vision StrategyBusinessGovernance Financial Info Corporate Info
+Initiatives to Strengthen Compliance Through Instilling Ethics Rules
+One example of living the values in the OMRON Principles is to exercise responsibility and good sense in obeying the law and the rules of society. In fiscal 2016, we began a global expansion of Corporate Ethics Month activities from Japan to encourage all employees to put this action into practice.
+The OMRON Corporate Ethics Month serves as an opportunity to take a fresh look at whether our business initiatives are honest with society from a perspective of compliance with laws and rules, returning back to the origins of the OMRON Principles. We have designated October every year as our Corporate Ethics Month. During the month, we provide opportunities to instill ethics in our employees and conduct ethics training.
+To expand these activities globally, we have asked staff responsible for risk management from every division across the world to serve as core members in discussing best methods for our activities to take root globally. As a result, we have decided to engage shared group initiatives based on the OMRON Principles. We will also add initiatives customized to the laws, customs, and other attributes in regions on the forefront of our businesses. In fiscal 2018, in addition to translating CEO Yoshihito Yamada’s message into 25 languages for distribution to all global employees, we also put independent rules for ethical conduct in place in each region. One example is our response to the EU General Data Protection Regulation, which significantly strengthens personal information protection. Here, we have gone to great lengths to make this issue more familiar to our employees, providing information about the new rules as we tailor our response to meet the issues of the times.
+By sponsoring these types of initiatives to raise awareness of ethics, we achieved a 77 percent positive response related to Practicing Ethics and Honesty in our fiscal 2018 VOICE engagement survey. The third-party entity conducting the survey for use indicated that this was a very healthy situation for a company. P61 Human Resources Management
+In the Asia Pacific area, OMRON held an event to raise ethics awareness In EU area,instilling Corporate Ethics at OMRON Through Educational among all employees. The event encouraged employees to wear green, Posters, E-Learning Training
+representing growth, harmony, safety, and the environment.
+Whistleblowing System Available to Employees and Families
+OMRON has established the OMRON Group Rules for Ethical Conduct, which provides for respect for human rights through our organization and employees, creating a workplace respectful of labor standards, prohibiting private actions that may harm the safety of OMRON products and services or the OMRON brand, and more. We have created a Whistleblowing System (internal reporting and consultation desk) for use in the event of violations or potential violations of rules, helping the company quickly identify and resolve such issues. Since establishing the system in Japan in 2003, we have expanded the system globally in formats tailored to each region. We have set up liaison desks both inside and outside the company. Our internal desk is staffed by local legal affairs departments, while our external desk is overseen by specialist organizations and attorneys. These desks are available not only to full-time OMRON employees, but also to contract employees, part-time employees, temporary staff, and families, including those at OMRON affiliate companies. Internal rules require strict confidentiality and prohibit retaliatory action. Further, we publicize this system through bulletin boards, internal training, and other means. In fiscal 2018, OMRON received 83 notifications and requests for advice.
+      70

@@ -1,0 +1,1 @@
+Provision of IoT systems able to detect and manage the location of people and things in real time at plants and other production sites.

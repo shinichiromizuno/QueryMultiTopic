@@ -1,0 +1,153 @@
+ Strategy and Performance
+Message from Management
+MS&AD’s Value Creation
+Strategy and Performance
+Corporate Governance Appendix Data Section
+  CSV x DX: Case 1
+Cyber Risk
+ Companies and organizations protected against cyber risks
+Just over
+Social Impact
+ • Countermeasures against cyber risk protect not only the company but also stakeholders, such as customers and business partners, from damage caused by information leakage and business interruption, helping to improve the company’s reputation.
+• By quickly recovering from damage caused by cyberattacks, financial damage resulting from business interruption and indemnity liability can be minimized, leading to more stabilized company management.
+• Expanding telework to safe environments enables flexible work styles unconstrained by time or place. As well as helping to create a good work-life balance, it also leads to regional revitalization and securing a labor force in a time of declining population.
+Economic Impact on the Company
+(FY2020)
+* Growth rate in number of MS&AD Insurance Group
+20,000
+(FY2020)
+* Number of MS&AD Insurance Group policies for cyber insurance, etc.
+ Policy growth rate
+Approx. 150%
+policies for cyber insurance, etc.
+• Prevention of serious cyber incidents and support for quick
+recovery in the event of damage avoids extensive harm to customers and at the same time leads to reduced insurance claim payments.
+• By providing various services related to cybersecurity for SMEs, presence in the SME market as a whole will be improved, leading to proposals for other insurance policies.
+• In business environment terms, revisions to the Act on the Protection of Personal Information scheduled to come into effect in April 2022, will most likely increase the need for cyber insurance as it will become mandatory to report to the Personal Information Protection Commission and notify those affected in the event of an information leak due to unauthorized access.
+(year on year)
+Upholding company safety with a one-stop
+Creation of Business Opportunities
+In the age of the IoT where all things are connected, importance of cybersecurity measures is expanding
+service from cybersecurity measures to
+ compensation in case of incident
+While the spread of information technology (IT) has dramatically improved convenience and productivity, there are many cases where confidential corporate information is leaked due to cyberattacks or unauthorized access, and cases where business is interrupted. According to results from a survey conducted by MS&AD InterRisk Research & Consulting, the level of priority in terms of mitigating against cyber risk is lower than other management issues, regardless of the size of the company. However, as the risk of cyberattack is expected to increase in the future, security measures will doubtless be positioned as an even more important
+management issue in the future. The MS&AD Insurance Group seamlessly provides, alongside cyber insurance, a series of risk identification, defense, detection, response, and recovery services as measures to increase
+protection against cyberattack.
+ Japan’s Cybersecurity Market
+¥1,023 billion by 2025 Source: IDC Japan
+ Global Cybersecurity Market
+$534.5 billion by 2030 From 2020 to 2030
+ Social Issues
+Rapidly increasing cyberattacks
+• Along with an increasing number of cyberattacks year on year, more wide-ranging damage is taking place, from data theft to obstruction of business. Moreover, cyberattacks are becoming ever more sophisticated and complex with not only direct attacks on an organization but also attacks via business partners, etc.
+• The level of priority in terms of mitigating against cyber risk is lower than other management issues, regardless of the size of the company.
+• There is an urgent need for companies and organizations to take measures regardless of industry or scale.
+Solutions
+Seamlessly developing services starting from specifying risks using digital technology
+• Expansion of cybersecurity measures in an IoT society where all things are connected
+• Expansion of cybersecurity measures for automobiles in preparation for connected cars and autonomous driving
+• Expansion of cybersecurity measures due to increased use of e-commerce
+• Expansion of cybersecurity measures in telework, expected to be in active use for business continuity in the event of new threats such as infectious diseases and frequent natural disasters
+• Possible to approach overseas companies with expertise acquired, leading to sales expansion and new market development
+Expanding Services through Collaboration
+Cyber-attacks are becoming more sophisticated every day. To companies that are active at the global level, the MS&AD Group is quick to propose cutting- edge technology and services, while providing simple and easily understood technologies to the small and medium-sized enterprises that prop up the Japanese economy. In addition, its business partnership with an Israeli start-up company enables the Group to incorporate the latest knowledge, and it is also raising investment limits for the corporate venture capital fund it set up in Silicon Valley to focus on creating innovation.
+Going forward, the MS&AD Group will continue to provide a variety of cyber insurance and services. In addition to helping resolve the social issue of cyber risks that threaten the foundation of industry, we will also use them to open the way to further growth for the Group.
+Takeshi Doi
+Market Development Dept., MS&AD InterRisk Research & Consulting, Inc.
+• Seamless rollout of a series of services
+11.8% annual growth
+Source: Report Ocean 2021
+ Increased searching by attackers
+The number of communications thought to be “preliminary actions,” where criminals attempt a cyberattack online by searching for devices with weak security, has rapidly increased to about 500.1 billion per year in 2020.
+4.54billion
+500.1billion
+Development
+of organizational framework
+Specifying risks
+Defense and detection
+Response and recovery
+InsuranceSpecifying risks using digital technology
+• In partnership with Verizon Japan: Conduct internal risk assessment service based on questionnaires.
+• In partnership with BitSight Technologies: Measure and evaluate the security situation based on externally observable information.
+• Package the “Bouken Cyber” 24/365 service, which aims to enable small and medium-sized enterprises to respond to increasingly ingenious cyber-attacks not only through defensive measures, but also by rapidly detecting intrusion threats and initiating the response in emergencies. In April 2021, this was registered as a Cyper Security Support Service with the Information-technology Promotion Agency.
+• In collaboration with Vdoo: Identify and evaluate cybersecurity risks in IoT devices developed and manufactured by customers and those used in factories.
+• In collaboration with BitSight Technologies and Kovrr: Combine basic input data provided (sales, profit, number of employees, etc.) with external assessment of customers used by BitSight, to calculate probable maximum loss (PML) (Kovrr model) and publish results in a report.
+           2011 2012 2013 2014 2015 2016 2017 2018 2019 2020(FY) Source: NICTER Observation Report 2020, The National Institute of Information and Communications Technology
+85 MS&AD INSURANCE GROUP HOLDINGS
+MS&AD INSURANCE GROUP HOLDINGS 86
+Strategy and Performance
+Message from Management
+MS&AD’s Value Creation
+Strategy and Performance
+Corporate Governance Appendix Data Section
+   CSV x DX: Case 2
+Data Business
+ Social Impact
+Number of companies collaborating on RisTech 64
+Collaborative efforts Considering
+• Contributing to solve corporate issues in various fields, such as disaster prevention and mitigation, mobility, healthcare, and smart cities, by utilizing and analyzing data owned by business partners and other statistical data, in addition to policy and accident data.
+• Enabling the effective use of various data not utilized to date due to lack of specialist analytical staff and inability to process large quantities, leading to improved business operations for companies.
+Economic Impact on the Company
+    262
+(Year-to-date as of the end of fiscal 2020)
+    Increased insurance premiums thanks to RisTech
+Approx. ¥17.5 billion
+(Year-to-date as of the end of fiscal 2020)
+• By presenting data analysis results of value, we can improve our presence, increase our top line, and improve our profitability.
+• By collaborating with business partners through the use of data, it is possible to create shared value with society beyond the company framework.
+Supporting solutions to social issues to help
+Creation of Business Opportunities
+Unlimited possibilities created by connecting all kinds of data
+realize a safe and secure society through new
+ services that utilize data
+ With the progress of digital technology, more and more data is being collected from our lives and businesses as we are told that the analysis and utilization of data is essential for strengthening company competitiveness.
+The MS&AD Insurance Group aims to create new business to develop and expand a data business that goes beyond the current framework of insurance by collecting and utilizing such data.
+For example, by utilizing big data and the latest analytical algorithms, we can visualize and optimize the risks faced by companies to provide high-value-added services that contribute to solving social
+issues. These services utilize all sorts of data such as Smart Mobility Telematics that
+exhaustively detects dangerous behavior that leads to accidents, and scoring
+Data trading market scale forecast (worldwide)*1
+$500 billion in 2022 $708 billion in 2025
+Connected car market scale forecast (worldwide)*2
+$373.4 billion in 2030
+*1 Source: Data Monetization Market, Transparency Market Research *2 Source: Report Ocean
+ points for safe driving, from a large amount of driving data obtained using telematics technology and RisTech*,
+designed to solve problems.
+ Social Issues
+Diversifying,
+Complex Challenges and Needs
+Smart Mobility and Telematics
+• New risks need to be addressed with technological innovations related to mobility and telecommunications.
+Regional Revitalization and Smart Cities
+• The concept of smart cities and regional revitalization are being promoted in response to population decline and urban concentration.
+Climate Change
+• Global warming and climate change need to be addressed.
+Solutions
+Initiatives on Various Themes and Areas That Can Reach the Issues for Society and Industry as a Whole
+Smart Mobility and Telematics
+• In Japan, in collaboration with a manufacturer of on- board equipment (digital tachographs), build an accident forecasting model, helping to reduce the number of accidents, by combining automobile data (acceleration, deceleration and driving time, etc.) with our own accident data.
+• Global rollout of new products and services that utilize telematics technology, such as with establishing the insurance software development company MOTER Technologies in the United States.
+Regional Revitalization and Smart Cities
+• Make efforts to support local governments with aging infrastructure by installing image analysis AI that detects damaged parts of the road on a dashcam specifically for the “Mimamoru” dashcam-based automobile insurance.
+• To promote DX in local public organizations, research and develop solutions from the perspective of consumers together with partner companies, local public organizations, and start-up companies that help solve social issues.
+Climate Change
+• Climate change impact analysis utilizing technologies of investee startups.
+• Increase in data that can be obtained from connected cars, expanding the scope of utilization globally
+• Increase in expertise for solving problems in local communities using data, leading to wider ranging comprehensive agreements with local governments
+• Working to realize smart cities, helping to maintain and create vibrant cities
+• Using collected data to expand the range of products and services beneficial for health promotion, pre- symptomatic illnesses and preventing disease, to realize a society of health and longevity
+• Expand the climate change impact analysis service due to an increase in natural disasters caused by climate change
+     * This service is provided by Mitsui Sumitomo Insurance in collaboration with Accenture to visualize and optimize the risks faced by companies by utilizing big data and the latest analytical algorithms to facilitate solutions to issues.
+We aim to contribute to the realization of a safe and secure society by solving various social issues, such as support with measures against earthquakes and floods, by combining Mitsui Sumitomo Insurance’s expertise on accident and disaster data, etc. with the diverse industry knowledge that Accenture has cultivated through consulting in the global digital technology sphere.
+Utilizing Data as a Source of
+Value Creation
+Centered on CSV x DX x GLOBAL, the data business is one of the key pillars of the Group's growth strategy. RisTech and the US data business are initiatives unique to the Group. We will globally rollout strongly linked initiatives while taking advantage of the characteristics of each company.
+In addition, we will solve social and regional issues and grow together by seeing the risks arising from changes in the social environment and industrial structure as growth opportunities, collaborating with various companies to create new business that utilize digital technologies and data.
+Kensuke Onuma
+Data Solution Section
+Corporate Planning Department
+Aioi Nissay Dowa Insurance Co., Ltd.
+Yutaka Matsui
+Digital Strategy Department
+Mitsui Sumitomo Insurance Co., Ltd.
+87 MS&AD INSURANCE GROUP HOLDINGS
+MS&AD INSURANCE GROUP HOLDINGS 88

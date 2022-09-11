@@ -1,0 +1,1629 @@
+   For the Year Ended March 31, 2019 ANNUAL REPORT
+2019
+  
+Contents
+CEO Message 2 Corporate Strategy 5
+Philosophy 7 VISION & Strategy 9 Strategic Plan 2018 12 CSR-Based Management 17 Materiality in CSR Activities 20 Contributions to the Sustainable Development Goals 26
+Corporate Governance 29
+Corporate Governance 31 Board of Directors 33 Risk Management 42
+Business Review 43 Top Management 45
+Approach to Research and Development 47 Pipeline Projects 48 Main Products 52 Responsible Business Activities 54 Our People, Our Organization 66 Ethics & Compliance 73 Access to Health 82 Social Contribution 92 EHS ; Environment, Health & Safety 98
+Financial Information 100 Financial Summary 102
+Corporate Data 103
+Current Share Status 105 Corporate Information 107 Subsidiaries & Locations 109
+Editorial Policy
+To enable deeper stakeholder understanding of Astellas’ efforts to continue to create VALUE for sustainable growth, the Company has published this annual report as an integrated report.
+In order to provide timely information, from fiscal year ended March 2019, we have started publishing the Annual Report on our website. The information in the online version "Annual Report" will be updated to the latest information as needed.
+This report is a copy of the online version "Annual Report" made on November 29, 2019 to improve corporate transparency by providing regularly recorded information.
+In this report, we have attempted to provide disclosure while taking note of the Guiding Principles and Content Elements of the international integrated reporting framework of the International Integrated Reporting Council (IIRC). We have also referred to the Sustainability Reporting Standard* published by the Global Reporting Initiative (GRI).
+Astellas has adopted the International Financial Reporting Standards (IFRS), effective from fiscal 2013. Information in this report is based on IFRS unless otherwise indicated. The monetary amounts stated in this report have been rounded off to the nearest unit, and the number of shares has been rounded down to the nearest whole number. Unless otherwise noted, percentage changes and other ratios involving the previous fiscal year have been rounded off to the second decimal place.
+* For the GRI Standards Content Index, please visit the following website:
+https://www.astellas.com/jp/en/investors/annual-report/archives
+Scope of the Report Period covered
+Fiscal year ended March 2019 (April 1, 2018 - March 31, 2019)
+* As much as possible, we have included the latest information available at the time of
+publication.
+* The period and scope of coverage may vary depending on the subject. We have noted each
+such case individually.
+Organizations covered
+Astellas Pharma Inc. and its consolidated subsidiaries in Japan and overseas (referred to in this report as “Astellas”)
+Cautionary Note
+In this annual report, statements made with respect to current plans, estimates, strategies and beliefs and other statements that are not historical facts are forward-looking statements about the future performance of Astellas. These statements are based on management’s current assumptions and beliefs in light of the information currently available to it and involve known and unknown risks and uncertainties. A number of factors could cause actual results to differ materially from those discussed in the forward-looking statements. Such factors include, but are not limited to: (i) changes in general economic conditions and in laws and regulations relating to pharmaceutical markets, (ii) currency exchange rate fluctuations, (iii) delays in new product launches, (iv) the inability of Astellas to market existing and new products effectively, (v) the inability of Astellas to continue to effectively research and develop products accepted by customers in highly competitive markets, and (vi) infringements of Astellas’ intellectual property rights by third parties. Information about pharmaceutical products (including products currently in development) which is included in this annual report is not intended to constitute an advertisement or medical advice.
+                             1
+
+ Home > Annual Report > CEO Message
+ CEO Message
+Annual Report 2019
+  Steady Results as Projected for the First Year of Strategic Plan 2018 Aiming to Overcome the Patent Cliff* and Achieve Sustainable Growth
+“On the forefront of healthcare change, to turn innovative science into VALUE for patients” – by following the path to achieving this VISION, Astellas can realize its corporate philosophy and achieve continuous improvement in corporate value.
+In the fiscal year ending March 2020, Astellas' financial performance is to be negatively impacted by the end of exclusivity for several of our main products. Though it is difficult for innovative drug businesses to avoid this, our goals are to overcome such temporary declines in performance and achieve medium-to long-term profit growth by creating and continuing to deliver VALUE to patients. During the fiscal year ended March 2019, we were able to execute against the strategies for growth outlined in the Strategic Plan 2018 , our roadmap to achieving these goals.
+Strategic Plan 2018 and Progress
+In the fiscal year ended March 2019, Astellas achieved an increase both in revenue and profit on a consolidated basis.
+Core operating profit and core profit both reached all-time highs. The three strategic objectives outlined in the Strategic Plan 2018 also progressed as planned.
+   2
+
+ Strategic Plan 2018: Strategic Goal 1
+Maximizing Product VALUE and Operational Excellence
+Sales of XTANDI, a main growth driver, increased steadily due to increased use among patients with earlier stages of prostate cancer. Mirabegron expanded its market share and showed double-digit year-on-year growth in sales , partly due to an increase in prescriptions as the first choice treatment for overactive bladder. In December 2018, we launched XOSPATA®, in Japan and the U.S. With this launch, a FLT3 inhibitor for the treatment of acute myeloid leukemia (AML), in Japan and the U.S. With these launches, we were able to provide a new treatment option for patients with relapsed or refractory AML with FLT3 activating mutations for whom no effective treatment had been established. In only a short period since coming to the market, the launches have been successful and the response from physicians using XOSPATA has been positive.
+Development of key post-POC pipeline projects is advancing as planned and we have achieved a number of milestones, including progression through various stages of development and the submission of several new drug applications. Enzalutamide (XTANDI) was approved for the additional indication of non-metastatic castration-resistant prostate cancer in the U.S. and Europe. Additionally, Phase 3 results were also obtained for the indication of metastatic hormone sensitive prostate cancer (Regulatory applications for this indication were submitted in the U.S. in June 2019 and in Japan and Europe in July 2019). For Roxadustat, an application was made in Japan for the treatment of anemia associated with chronic kidney disease (CKD) on dialysis, and the results for all the Phase III studies conducted in Europe were obtained.
+For enfortumab vedotin, we obtained positive data from a phase II study in patients with locally advanced or metastatic urothelial cancer, and a Biologics License Application was submitted in the U.S. in July 2019.
+We are also further pursuing Operational Excellence by reviewing operating models in accordance with changes in business environments and product portfolios, as well as optimizing the allocation of management resources.
+Strategic Plan 2018: Strategic Goal 2
+Evolving How We Create VALUE – With Focus Area Approach –
+Aiming to upgrade and expand our development pipeline, we have identified areas where we prioritize management resources from the very earliest development stages, and have begun clinical trials in multiple projects. We have also obtained promising assets through the acquisition of Quethera Limited, which focuses on developing novel gene therapies in the ophthalmic area, and Potenza Therapeutics, Inc., which has discovered multiple development candidates in the immuno-oncology field through earlier collaborative research with us. Beyond these, through partnerships with multiple external organizations, we are pursuing ongoing VALUE creation aligned with the Focus Area approach.
+Notably, Astellas is intensively investing in cell therapy, a highly anticipated field of next-generation medicine, and we have begun clinical trials of ASP7317, our first candidate for cell therapy in dry age-related macular degeneration. Further, through the acquisition of Universal Cells, Inc., we have established a foundation to expand our pipelines for cell therapy in non-ophthalmology areas. Additionally, we are working to solve the unique commercialization challenges of cell therapy including addressing the manufacturing capabilities required in accordance with regulations of each region.
+Strategic Plan 2018: Strategic Goal 3
+Developing Rx+TM Programs
+In Rx+TM, we have worked to establish a foundation for programs to create new businesses beyond the scope of prescription drugs (Rx). In addition to establishing a U.S. base to develop our network, we are exploring opportunities for collaboration with startups and academia through the establishment of a venture capital fund specializing in digital health and participation in a venture capital fund specializing in optical technology and medical devices. We made significant progress in several specific programs, including entering into agreements with partners and initiating clinical trials.
+      3
+
+ Improving Access to Health
+In order to realize our business philosophy, it will be crucial for Astellas to be chosen by all stakeholders and earn their trust. Astellas is helping to improve the sustainability of society by fulfilling its social responsibility as a pharmaceutical company through its business activities, beginning with satisfying unmet medical needs. Through these efforts, we will earn the trust of society in Astellas and its products. We believe that this trust will enhance our own sustainability as a company.
+We also believe that Astellas has a responsibility to work to address the Access to Health issue, an area where Astellas can leverage its strengths and technologies as a pharmaceutical company. In the year ended March 2019, Astellas implemented a range of initiatives to improve Access to Health, including contributions through the Access Accelerated global partnership, launching new programs to fight neglected tropical diseases (NTDs) and driving the advancement of current programs. Through improving Access to Health, Astellas will contribute to the attainment of the Sustainable Development Goals (SDGs) adopted by the United Nations , focusing primarily on “Goal 3: Good Health and Well-Being.”
+Strengthening Human Resource Development and Organizational Capabilities
+I believe that measures to address human resources development and compliance as well as achievement of the strategic plan, are important. Like the front and rear wheels of a car, both elements are essential for us to move forward. Even if we dedicate to create and deliver value through innovative approaches, our efforts will not be meaningful unless our processes and output are scientifically and socially trustworthy. That is also why I believe it is crucial for every employee working at Astellas to take ownership of their duties based on an understanding of the Astellas’ sense of values (Astellas Way) as well as Astellas’ approach to human resources and organization management (HR Vision).
+Moreover, Astellas is a consistent supporter of the United Nations Global Compact. As such, Astellas conducts our daily business activities based on the 10 principles advocated by the United Nations, covering the four fields of human rights, labor, the environment, and anti-corruption.
+To Our Stakeholders
+In the fiscal year ending March 2020, we expect decreases both in revenue and profit due to the end of exclusivity for our main products. However, this is a very important year to minimize the impact and ensure a return to growth trajectory in the future. We will continue to generate VALUE as we evolve toward achieving our strategic plan.
+Patent Cliff The negative impact on business performance due to expiration of patent for products
+      Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+4
+:
+
+ Home > Annual Report > Corporate Strategy
+Annual Report 2019
+ Corporate Strategy
+  Philosophy
+The Astellas Group's business philosophy has three elements- Raison D'etre, Mission and Beliefs. We achieve continuous improvement in...
+Read More
+Strategic Plan 2018
+Our Corporate Strategic Plan provide a path to realizing VISION in the coming years. By executing our corporate strategic plan, we will...
+VISION & Strategy
+Based on our business philosophy, we aim to achieve our VISION.
+Read More
+CSR-Based Management
+Astellas' CSR-Based management basic concept
+     Read More
+Read More
+5
+
+  Materiality in CSR Activities
+CSR Materiality Matrix which shows the material issues in Astellas' CSR activities
+Read More
+Contributions to the Sustainable Development Goals
+Astellas' contribution to the SDGs
+Read More
+   Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+6
+
+ Home > Annual Report > Corporate Strategy > Philosophy
+Annual Report 2019
+Philosophy
+The Astellas Group’s business philosophy has three elements — raison d'être, mission and beliefs.
+Raison D'être
+Contribute toward improving the health of people around the world through the provision of innovative and reliable pharmaceutical products
+To go beyond all others in exploring and tapping the potential of the life sciences.
+To continue tackling new challenges and creating innovative pharmaceutical products.
+To deliver quality products along with accurate information and retain solid credibility among customers. To support healthy living for people around the world.
+To continue shining on the global pharmaceutical field.
+Mission
+Sustainable enhancement of enterprise value
+Astellas will seek to enhance its enterprise value in a sustainable manner.
+Astellas will seek to be the company of choice among all its stakeholders, including its customers, shareholders, employees, and the global community.
+Astellas will strive to gain the trust of all stakeholders and thereby enhance its enterprise value.
+Beliefs
+Our “beliefs” provide the code of conduct we prize at all times. Astellas will always be a group of people who act upon these beliefs.
+High Sense of Ethics
+We will always manage our business with the highest sense of ethics.
+Customer Focus
+We will always seek to understand customer needs and our focus will always be on achieving customer satisfaction.
+Creativity
+We will not be complacent and will always seek to innovate to create new value.
+  7
+
+ Competitive Focus
+Our eyes will always be directed to the outside world, and we will continue to create better value faster.
+Astellas promises to perform its obligations toward all stakeholders by acting ethically and seeking to actively disclose information.
+ Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+8
+
+ Home > AnnualReport > CorporateStrategy > VISION&Strategy Annual Report 2019
+VISION & Strategy
+On the forefront of healthcare change
+to turn innovative science into value for patients
+Turn changes into opportunities
+Create innovative new drugs and medical solutions by leveraging our core capabilities
+Go beyond GCL*
+View business opportunities from multiple perspectives, and embrace change *GCL: Global Category Leader
+   Innovative medical solutions by combining variety of internal and external healthcare capabilities
+9
+
+ Astellas Value Creation Process
+Astellas stands on the forefront of healthcare change, turning innovative science into value for patients. By repeating this cycle continuously, we are pursuing the sustainable growth of corporate value.
+Our Approach to the Value Creation Process
+Astellas’ raison d’être is to “contribute toward improving the health of people around the world through the provision of innovative and reliable pharmaceutical products.”
+Based on this, we aim to stand on the forefront of healthcare change, turning innovative science into value for patients. The keys to our success will be our Focus Areas, Principles of Activity, and Drivers, which describe where we should create value and how we should act to realize that value. Guided by this approach, we will create innovation with a central focus on the innovative drug business.
+10
+
+ This process originates with advances in science, and Astellas then allocates sufficient funds and implements measures to satisfy the requests and expectations of stakeholders. By creating value for patients, through this process, we will generate funds to sustain the next phase of growth and provide returns to stakeholders.
+Astellas will continue to follow this cycle to achieve sustainable growth of corporate value.
+Focus Areas
+Amid continuing evolution in the healthcare industry, Astellas needs to identify business opportunities more flexibly and efficiently than ever in order to achieve further growth. We will define our Focus Areas by adding multiple perspectives to our conventional viewpoint of therapeutic areas. We will factor in a consideration of new technologies and treatment approaches, product development feasibility and new possibilities for commercialization, market trends and changes in pharmaceutical laws and regulations. Our goal is to identify areas of unmet need and find new business opportunities.
+Principles of Activity
+In a fast-changing business environment, it is crucial to have the flexibility to reexamine business fields as needed—even those that have been carefully selected as opportunities at some point in the past. Astellas aims to drive further evolution by having all employees remain mindful of the three-step process of Focus our resources on identified areas, Redefine the focus when appropriate, and Expand the focus for the next generation of activity, as they carry out their activities.
+Drivers
+One of the drivers for Astellas to achieve sustainable growth is its core capabilities, which constitute the source of its competitive edge. It is vital to carefully identify our essential capabilities and enhance them until they are among the world’s best. At the same time, when there are outstanding capabilities outside the Company, we will proactively form partnerships. By combining optimal capabilities, both internal and external, we enhance our productivity and creativity to maximize our value creation capabilities. Moreover, in the Astellas Way*, we have defined a shared set of values and actions to be embraced by all our employees as part of efforts to foster a corporate culture to help realize our Business Philosophy. At the same time, we remain committed to understanding the requests and expectations of a multitude of stakeholders, including patients, and transforming that understanding into value.
+*For details on the Astellas Way, Five Messages for One Astellas―Patient Focus, Ownership, Results, Openness, and Integrity
+ Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+11
+
+ Home > AnnualReport > CorporateStrategy > StrategicPlan2018 Annual Report 2019
+Strategic Plan 2018
+Basic Policy
+In its VISION formulated in 2015, Astellas made a commitment to stand “on the forefront of healthcare change to turn innovative science into VALUE for patients.” Guided by this VISION, Astellas seeks to create medical solutions that deliver VALUE to patients through the pursuit of cutting-edge science.
+Under Strategic Plan 2018, Astellas will work to overcome the impact of the expiry of patents for core products that it will face from 2019 to 2020 to achieve sustainable growth. To this end, Astellas will strive to achieve three strategic goals: (1) Generate profit by maximizing product VALUE and operational excellence, along with using the funds generated through this process for (2) Evolving how we create VALUE through the Focus Area approach. Moreover, Astellas will (3) tackle the challenge of developing new businesses (Rx+TM programs) that go beyond conventional prescription pharmaceuticals (Rx).
+Strategic Goal 1 Maximizing Product VALUE and Operational Excellence
+Maximizing Product VALUE
+Astellas will work to maximize product VALUE by intensively allocating resources to XTANDI, mirabegron and six key post- POC pipeline projects.
+With regard to XTANDI, particularly its current indication, Astellas will strive to further increase penetration of XTANDI amongst urologists, along with establishing it as the first choice of therapy by utilizing extensive data based on the clinical experience accumulated since its launch. Moreover, we aim to expand the patient base and duration of therapy for XTANDI by expanding indications to earlier stages of prostate cancer.
+In the OAB franchise, Astellas will work to mitigate the impact of the loss of exclusivity of VESIcare by shifting sales resources to mirabegron. We will continue to educate the public on mirabegron’s clinical profile featuring a balance of efficacy and safety, with the aim of expanding market share.
+In addition to maximizing the VALUE of these products, we will preferentially direct management resources to six key post-POC pipeline projects in order to obtain approval of these products as planned and support growth from fiscal 2020 onward.
+      12
+
+     Pursuing Operational Excellence
+Astellas will review all activities from a zero-basis from many different angles, without relying on past precedent.
+Specifically, Astellas will preferentially allocate management resources to functions and activities that establish its competitive advantage over other companies, while terminating investment in areas that will not lead to growth or the establishment of competitiveness. In addition, Astellas will work to further evolve the operating model by leveraging cutting-edge technologies such as robotic process automation (RPA) and artificial intelligence (AI), and through globalization of organizations and functions and the standardization of operating processes.
+Astellas anticipates an improvement of more than ¥30.0
+billion in core operating profit to be generated from new initiatives in fiscal 2020.
+Close
+Strategic Goal 2 Evolving How We Create VALUE - With Focus Area Approach –
+Evolving How We Create VALUE - With Focus Area Approach –
+In order to achieve further growth, Astellas will need to identify business opportunities even more flexibly and efficiently than before. With this in mind, in its VISION, Astellas has established Focus Areas that reflect many different perspectives, without limiting itself to therapeutic areas, and has set out to find business opportunities in each of these areas.
+  13
+
+
+ Under Strategic Plan 2018, Astellas will evolve how it creates VALUE from the Therapeutic Area approach to the Focus Area approach. The goal of the Focus Area approach is to create innovative pharmaceuticals for diseases with high unmet medical needs by allocating management resources to fields that have been carefully narrowed from many different perspectives, including elucidation of pathophysiology through advances in science (biology) and the utilization of treatment modalities and technologies (modality/technology). Astellas will identify unique combinations of biology and modality/technology based on emerging science and translate this into innovative solutions for patients with high unmet medical needs through continuous efforts to ensure development progress and market access. By doing so, Astellas will continuously identify innovative new drug candidates as it upgrades and expands its development pipeline.
+In order to promote the Focus Area approach, Astellas will establish research sites that incorporate outstanding external innovation and bolster collaboration with biotechnology startups and academia, based on the concepts of Best Science, Best Talent and Best Place. At the same time, Astellas will also focus on developing human resources with a discerning eye for innovative science.
+Astellas will generate high-quality programs by promoting the Focus Area approach, which seeks to drive innovation by flexibly combining biology, modality/technology and disease, while constantly embracing innovative science.
+Close
+Strategic Goal 3 Developing Rx+TM Programs
+   14
+
+
+ Developing Rx+TM Programs
+In addition to growth in the prescription pharmaceutical (Rx) business, Astellas recognizes that it is crucial to constantly look for new business opportunities where it can leverage its current strengths.
+ Mindful of this, Astellas has commenced initiatives to develop Rx+TM programs. Rx+TM programs refer to new products and services that create new revenue streams separate from Astellas’ core prescription pharmaceutical products. Rx+TM programs will be developed by combining Astellas’ expertise and experience in medical drugs with technology and knowledge from different fields.
+Through the Rx+TM programs, Astellas will create new treatment solutions that replace conventional therapy or add new VALUE, and medical solutions that contribute positively to the entire patient journey, encompassing prevention, diagnosis, treatment and post-treatment care and management.
+Close
+Financial Guidance for Fiscal 2020
+Financial Guidance for Fiscal 2020
+Astellas aims to return to a medium- to long-term core operating profit growth trend after fiscal 2019.
+Revenue in fiscal 2020 are forecast to remain at mostly the same level as fiscal 2017. Astellas plans to allocate more than ¥200.0 billion a year to R&D investments for medium- and long-term growth, after setting clear priorities for those investments. In order to ensure both a certain level of profit and adequate R&D investment, we will thoroughly review the cost structure from a zero-basis, in addition to maximizing product VALUE. Through these measures, we are targeting a core operating profit margin of 20% in fiscal 2020. At the same time, we aim to achieve core EPS exceeding the fiscal 2017 level by working to enhance capital efficiency.
+  15
+
+
+ Close
+ Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+16
+
+
+ Home > Annual Report > Corporate Strategy > CSR-Based Management
+Annual Report 2019
+CSR-Based Management
+Astellas' CSR-based Management
+At Astellas, we recognize our Corporate Social Responsibility (CSR) as our responsibility for any impacts that our decisions and the business activities have on society and the environment.
+We are helping to enhance the sustainability of society by fulfilling our social responsibilities as a pharmaceutical company: for example, providing pharmaceutical products that satisfy unmet medical needs. As a result, we earn trust from society for both the Company and our products, which enhances our sustainability.
+This positive cycle will lead to the realization of our mission, "sustainable enhancement of enterprise value" through fulfillment of our raison d'etre "contribute toward improving the health of people around the world through the provision of innovative and reliable pharmaceutical products." In summary, for Astellas, fulfilling our social responsibility means the realization of its business philosophy.
+Two Aspects of CSR for Astellas
+CSR for Astellas has two aspects: value creation and value protection.
+Value Creation
+Through its business activities, Astellas is creating value for society by addressing social issues such as unmet medical needs, and by rewarding stakeholders.
+   17
+
+ By reinvesting the profit we gain through business activities, we strengthen our capabilities in research and development. In addition, by winning trust from government and business partners in each country, we create new business opportunities. That is to say, value for Astellas is created.
+Value Protection
+Astellas seeks to reduce its environmental burden and preserve biodiversity, ensures compliance, and takes measures to prevent corruption. In addition to the social value of these activities, they contribute to mitigating reputation risk and elevating Astellas' corporate brand, thereby protecting our enterprise value.
+Organizational Structure to Promote CSR
+Astellas Pharma Inc. (Astellas) has established the CSR (Corporate Social Responsibility) Committee and Planning & Management Group in Healthcare Policy & CSR, and promotes long-term, strategic and global CSR activities by all departments.
+CSR Committee
+In order to coordinate and promote CSR activities globally, Astellas has established the CSR Committee, which consists of representatives of Japan, Asia-Oceania, Americas, and EMEA*. The CSR Committee discusses policies and plans for important activities in fulfilling the Company’s social responsibilities.
+*EMEA: Europe (including NIS countries), the Middle East, and Africa,
+Planning & Management, Healthcare Policy & CSR to Promote Astellas' CSR Initiatives
+In addition to the role of the secretariat for CSR Committee, the Planning & Management, Healthcare Policy & CSR is responsible for coping with the CSR issues across divisions, raising CSR awareness internally and externally, distributing CSR-related information, and communicating with stakeholders.
+ 18
+
+ Organizational Structures
+  Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+19
+
+Home > Annual Report > Corporate Strategy > Materiality in CSR Activities
+ Annual Report 2019
+Materiality in CSR Activities
+Identification and Prioritization of Material Issues
+Materiality in CSR activities guides our CSR-based management. Astellas has identified material issues to be addressed based on the issues regarded as prerequisites of its business activities. These include global issues related to medical care and health and other broader social issues.
+Making reference to expectations and requests from a broad range of stakeholders, we classified and prioritized the material issues into three categories by evaluating their societal significance and relevance to our business (CSR Materiality Matrix.) In order to tackle these material issues, we are executing a concrete action plan.
+Updating of the CSR Materiality Matrix
+In the year ended in March 2018, we reviewed the CSR Materiality Matrix in full in order to respond to the changing needs of society. In conducting the review, we spoke with diverse stakeholders (investors, patient groups, doctors, employees, consultants, and academics) in Japan and overseas; examined their feedbacks from a variety of perspectives; deliberated on and approved matters at the CSR Committee, Executive Committee (EC) and Board of Directors; and decided to update the CSR Materiality Matrix.
+In this update, we have newly added “tax compliance” and “environmental impacts of pharmaceuticals” in order to respond to the needs of society. Moreover, based on their growing importance, we have moved “customer satisfaction” and “protection of personal and confidential information” to the upper-right quadrant. We have also renamed or combined material issues in order to properly express each material issue.
+Materiality Determination Process
+Step 1
+Identify Issues
+Astellas' material issues are identified with reference to various principles and guidelines (such as ISO 26000, the UN Global Compact's ten principles and the SASB* Materiality Map), communications with stakeholders, and evaluation items for Socially Responsible Investment (SRI) indices, etc.
+* SASB: Sustainability Accounting Standards Board.
+A U.S. non-profit organization exploring industry-specific standards for corporate sustainability disclosure. SASB has prepared industry-specific materiality maps by evaluating the materiality of sustainability topics.
+Step 2
+Prioritize
+We will prioritize Astellas' material issues from the dual perspectives of societal significance and relevance to our business.
+   20
+
+Step 3
+Review
+● Dialogue with Stakeholders
+● Deliberating on and approving matters at the CSR Committee, EC and Board of Directors
+Astellas’ material issues will be reviewed and verified. They will be modified depending on the attainment level of initiatives implemented and/or any changes in the needs of society. In conducting last review, we spoke with stakeholders in Japan and overseas, examined the review, and decided to update the CSR Materiality Matrix after deliberating on and approving matters at the CSR Committee, EC and Board of Directors.
+CSR Materiality Matrix
+ 21
+
+   Definitions of material issues
+   Material issue Definition
+     Development of innovative products and medical solutions
+Creating innovative medicines and medical solutions sustainably in therapeutic areas with a high level of unmet medical needs.
+      22
+
+   Responsible R&D
+Ensuring the ethical consideration throughout the entire R&D process, and conducting R&D in compliance with global and/or local guidelines, including ethical considerations in animal testing and clinical trials.
+    Responsible marketing and ethical advertising
+In compliance with laws and guidelines in each country, ensuring equitable & appropriate marketing and advertising activities, raising customers' awareness about their diseases and treatments to contribute toward improving health.
+   Product pricing
+Striking a sustainable balance between fostering innovation and ensuring access to such innovation by setting prices reflecting the benefits of our products.
+    Proper use of products
+Enhancing the proper use of our products by Healthcare professionals and patients to ensure patient safety and the efficacy of our products. Considering convenient package design for customers, including those who with disabilities.
+     Product quality assurance and product safety
+Ensuring our products are manufactured with appropriate quality assurance standards, and establishing a functional and robust pharmacovigilance system.
+  Anti-counterfeit
+Preventing counterfeit drug problems and its improper distribution.
+    Diversity and Inclusion
+Ensuring equal opportunity and fair employment regardless of characteristics, including race, nationality, gender, sexual orientation, age or disability.
+    Compliance and ethical business practices
+Acting with integrity and making ethical decisions in all aspects of our business, and going beyond compliance with applicable laws, regulations and industry codes. Promoting such behavior through our global compliance structure, the development, implementation, and continuous enhancement of necessary policies and processes, and focusing our activities on Anti- bribery / Anti-corruption compliance, avoiding conflicts of interest, encouraging a "speak-up" culture, and demonstrating our commitment to integrity, ethics and compliance.
+     Access to Health
+Developing and delivering necessary healthcare to people around the world by accelerating social benefit-driven research and development, enhancing availability, strengthening healthcare system, and improving health literacy.
+     Protection of personal and confidential information
+Appropriately handling confidential information or our stakeholders' personal information, including data obtained in clinical trials, by complying with applicable laws, regulations, and Company policies and procedures.
+   Health, safety and welfare of employees
+Ensuring the mental and physical health of employees, and ensuring a safe workplace. Enriching the welfare of employees and their family.
+    Customer satisfaction
+Meeting the needs and expectations of customers, such as patients and healthcare professionals, which includes ensuring effective infrastructure and practice to appropriately respond to customers' complaints, inquiries and consultations.
+      23
+
+    Board independence and effectiveness
+Ensuring the independence of outside directors based on the "Independence standards for outside directors" established by Astellas and the Tokyo Stock Exchange, Inc. Improving board functionality by analyzing and evaluating its effectiveness.
+     Talent development
+Providing career development opportunities that respect the ownership, talent and aptitude of employees.
+     Recruitment and retention of employees
+Recruiting and retaining talented people.
+   Fair appraisal and competitive reward
+Recognizing the contributions of, and appraising and treating employees in a fair manner according to their role and achievement.
+    CSR procurement
+Selecting suppliers in compliance with selection criteria, including CSR* perspectives, such as compliance with laws and respecting human rights.
+Coaching less-compliant suppliers and supporting their capacity building for improvement through procurement activity.
+*CSR: Corporate Social Responsibility
+ Continuous stable supply
+Ensuring a continuous stable supply of products.
+     Stakeholder engagement
+Having mutual dialogues with multiple stakeholders, including patients and shareholders, to understand their expectations and demands from society, to reflect their opinion of Astellas' business activities and decision-making process.
+     Transparency of corporate activities
+Enhancing the transparency of our corporate activities by disclosing information to all stakeholders in a timely, proper, and fair manner regardless of laws and regulations.
+Examples:
+Data and information acquired in research and development activities Board structure
+Executive compensation
+Risk management system and material risks with mitigation plans
+   Tax compliance
+Complying with the local tax laws and regulations in each country where we operate, and seek to pay the right amount of tax in the right place at the right time.
+    Human rights in labor
+Respecting the human rights of employees and business partners, including the elimination of discrimination, the freedom of association and the protection of the rights to organize, and the exclusion of child labor and forced labor.
+   Reduction of environmental burden
+Mitigating the environmental burdens caused by business operations to the minimum level, including measures for preventing atmospheric pollution, recycling resources, and management of chemical substances.
+    Environmental impacts of pharmaceuticals
+Identifying and managing the environmental impact of our products through their life-cycles from manufacturing to disposal. There is a possibility that the ecological system may be affected by pharmaceuticals discharging into the
+ 24
+・ ・ ・ ・
+
+   environment as wastewater from production facilities, active ingredients after being excreted, or improper disposal of leftover drugs.
+    Patient assistance and advocacy
+Supporting patient organizations for charitable purposes and conducting advocacy activities*, including funding for patient organization activities, sharing knowledge and information such as holding peer support training sessions, promoting disease awareness through disease awareness events, defending patients' rights, and representing the patient's voice.
+*Advocacy activities: Encouraging the advancement of public policy and society through policy recommendation.
+     Advancement of medical science
+Supporting medical and scientific research which contributes to the advancement of medical sciences.
+     Water management
+Using water resources efficiently by reducing volume of withdrawal, reusing, and recycling.
+     Climate change and energy
+Reducing greenhouse gas emissions associated with business operations by efficient use of energy.
+   Biodiversity
+Mitigating negative impacts on biodiversity and promoting the sustainable use of benefits from biodiversity.
+   Philanthropic community support
+Supporting the communities in which we operate. For example, social contribution, such as Disaster Relief, support for employees’ volunteering, and nurturing the next generation.
+ Close
+ Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+ 25
+
+
+Home > Annual Report > Corporate Strategy > Contributions to the Sustainable Development Goals
+ Annual Report 2019
+Contributions to the Sustainable Development Goals
+The Sustainable Development Goals (SDGs) were formally adopted at the United Nations General Assembly in 2015 as universal targets that should be achieved by 2030. Astellas assessed the impact on the SDGs across its entire value chain and identified items for priority action, using the SDG Compass as a reference. We contribute to the attainment of the SDGs through a variety of business activities, mainly those related to health and welfare aligned with “Goal 3: Good Health and Well-Being.”
+Goal 3: Good Health and Well-Being
+Improving Access to Health in Four AreasAstellas is tackling the SDGs with a focus on Goal 3, which has the strongest affinity to its business philosophy to “contribute toward improving the health of people around the world through the provision of innovative and reliable pharmaceutical products.” Health is not just a healthcare issue, because losing health could lead to restricting opportunities for education or employment and be the cause of poverty in cases. In light of this, attaining Goal 3 will also contribute to achieving the other SDGs.
+Astellas is addressing Goal 3 of the SDGs by improving Access to Health. There are many people with insufficient access to the healthcare they need due to the lack of available treatments, poverty, challenges in healthcare systems and limited healthcare information. We recognize this problem as an Access to Health issue, and have identified four areas where we are working to address such issues by making full use of the strengths and technology that we have. The four areas are (1) Creating innovation, (2) Enhancing availability, (3) Strengthening healthcare systems, and (4) Improving health literacy. In doing so, we will make maximum use of our partnerships in the manner of Goal 17 of the SDGs.
+In creating innovation, Astellas is working to create innovative medicines and medical solutions in disease areas with low treatment satisfaction and delivering them to patients around the world. Moreover, Astellas has been conducting collaborative research with partners for the purpose of creating lead compounds for tuberculosis, malaria, and neglected tropical diseases (Leishmaniasis and Chagas disease), Also Astellas has been working to develop a pediatric formulation of praziquantel tablets for the treatment of schistosomiasis with the consortium members.
+In addition, we also provide expertise as an advisor in “Target determination and exploratory research for discovery of new drugs against Chagas disease.” To help enhance availability, we have established programs to assist patients facing severe financial constraints with the cost of pharmaceutical products. We also support patients by not filing or enforcing patents in countries facing significant economic challenges.
+As part of strengthening healthcare systems and improving health literacy, Astellas has participated in the Access Accelerated global partnership. This initiative aims to contribute to achieving the SDG of reducing premature mortality from non-communicable diseases by one-third by 2030.
+In other SDG-related initiatives, Astellas is supporting Kenya’s ACTION ON FISTULA program, contributing to improving the environment encompassing Kenya’s fistula patients. Furthermore, we have also donated ambulances and wheelchair
+    26
+
+transport vehicles and moved forward in activities supporting patient associations.
+Moreover, in the fiscal year ended March 2019, Astellas merged its three existing foundations and launched the Astellas Global Health Foundation (AGHF). AGHF works on resolving issues related to Access to Health in countries where Astellas does not have a commercial presence.
+Other Initiatives for SDGs
+   SDGs
+   Examples of Astellas’ initiatives
+   Human resource development for employees
+Provision of training for surgeons through support for the ACTION ON FISTULATM program, and occupational training for obstetric fistula patients
+         Diversity and inclusion initiatives Human rights initiatives
+      Maintenance/preservation of biodiversity Reduction of greenhouse gas emissions Use of renewable energies
+Resource recycling initiatives
+Prevention of air and water pollution
+Disaster relief
+           Promotion of a work-life balance
+Occupational health and safety initiatives
+       R&D to create innovative medicines and medical solutions
+Promotion of R&D for global health through collaboration between the public and private sectors (GHIT fund)
+      Sustainable procurement
+Ensure product quality assurance and safety Reduce the environmental burden of products
+        Compliance and ethical business practices
+Established an internal reporting system with a third-party helpline Anti-bribery and anti-corruption
+       Collaborated with biotechnology startups and academia to create innovative medical solutions
+Participated in Access Accelerated
+Participated in the GHIT Fund
+Signatory to the United Nations Global Compact
+     27
+
+  Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+28
+
+ Home > Annual Report > Corporate Governance
+Annual Report 2019
+ Corporate Governance
+  Corporate Governance
+Astellas' basic view on corporate governance and summary of the corporate governance systems
+Read More
+Risk Management
+Identifying and mitigating risks relating to the performance of business activities.
+Board of Directors
+Biography of Astellas' directors
+Read More
+    Read More
+29
+
+  Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+30
+
+ Home > Annual Report > Corporate Governance > Corporate Governance
+Annual Report 2019
+Corporate Governance
+Basic view
+The Company’s raison d'être is to contribute to improving the health of people around the world through the provision of innovative and reliable pharmaceutical products. The Company aims to sustainably enhance enterprise value by being chosen and trusted by all stakeholders. With this business philosophy, we work to ensure and strengthen the effectiveness of corporate governance from the following perspectives:
+1. Ensuring transparency, appropriateness and agility of management; and
+2. Fulfillment of our fiduciary duties and accountability to shareholders and appropriate collaboration with all
+stakeholders.
+The Company has established the Corporate Governance Guidelines which clarifies the basic views and guidelines of the Company’s corporate governance.
+Corporate Governance Guidelines [June 28, 2019] (pdf 380KB)
+Summary of the corporate governance systems
+The summary of the corporate governance systems is as follows:
+The Company adopts the organizational structure of “Company with Audit & Supervisory Committee.” Outside Directors constitute the majority of the Board of Directors and the Audit & Supervisory Committee, respectively.
+The Board of Directors determines basic policies of management, business strategies and other matters, and serves the oversight function of business execution.
+As an organ for handling execution of business, the Company establishes the Executive Committee for discussing important matters, and also appoints Executive Officers who are responsible for their respective assigned divisions. The responsibility and authority for the execution of business of the organ described above, the President and CEO and the Executive Officers are clearly stipulated in the Corporate Decision Authority Policy.
+As advisory bodies to the Board of Directors, the Company establishes the Nomination Committee and the Compensation Committee, each of which are composed of a majority of Outside Directors.
+Chart of corporate governance systems
+    31
+
+  Please refer to the “Corporate Governance Report” for detail of corporate governance.
+Corporate Governance Report [June 28, 2019] (pdf 1.0MB)
+Related Documents
+Independence Standards for Outside Directors (pdf 279KB) Risk Management (pdf 165KB)
+       Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+32
+
+ Home > AnnualReport > CorporateGovernance > BoardofDirectors Annual Report 2019
+Board of Directors
+Resume, position and responsibilities at the Company
+April 1980: Joined Fujisawa Pharmaceutical Co., Ltd.
+April 2003: Director, Corporate Planning, Fujisawa Pharmaceutical Co., Ltd.
+April 2005: Vice President, Corporate Planning, Corporate Strategy Division, the Company
+June 2005: Corporate Executive, Vice President, Corporate Planning, Corporate Strategy Division, the Company
+April 2006: Corporate Executive of the Company and President & CEO, Astellas US LLC and President & CEO, Astellas Pharma US, Inc.
+June 2008: Senior Corporate Executive of the Company and President & CEO, Astellas US LLC and President & CEO, Astellas Pharma US, Inc.
+April 2009: Senior Corporate Executive, Chief Strategy Officer and Chief Financial Officer (CSTO & CFO), the Company June 2011: Representative Director, President and CEO, the Company
+April 2018: Representative Director, Chairman of the Board, the Company (present post)
+June 2019: Outside Director, SONY CORPORATION (present post)
+Close
+   Yoshihiko Hatanaka
+Representative Director, Chairman of the Board
+ 33
+
+
+  Kenji Yasukawa
+Representative Director, President and CEO
+Resume, position and responsibilities at the Company
+April 1986: Joined the Company
+April 2005: Vice President, Project Management, Urology, the Company
+June 2010: Corporate Executive of the Company and Therapeutic Area Head, Urology, Astellas Pharma Europe B.V. October 2010: Corporate Executive of the Company and Therapeutic Area Head, Urology, Astellas Pharma Global Development, Inc.
+April 2011: Corporate Executive, Vice President, Product & Portfolio Strategy, the Company
+April 2012: Corporate Executive, Chief Strategy Officer (CSTO), the Company
+June 2012: Senior Corporate Executive, Chief Strategy Officer (CSTO), the Company
+April 2017: Senior Corporate Executive, Chief Strategy Officer and Chief Commercial Officer (CSTO & CCO), the Company June 2017: Representative Director, Executive Vice President, the Company
+April 2018: Representative Director, President and CEO, the Company (present post)
+Close
+Naoki Okamura
+Corporate Executive Vice President, Chief Strategy Officer (CStO)
+Resume, position and responsibilities at the Company
+   34
+
+
+ April 1986: Joined the Company
+October 2010: President & CEO, OSI Pharmaceuticals, Inc.
+April 2012: Senior Vice President, Chief Strategy Officer, Astellas Pharma Europe Ltd. July 2014: Vice President, Licensing & Alliances, the Company
+April 2016: Vice President, Corporate Planning, the Company
+June 2016: Corporate Executive, Vice President, Corporate Planning, the Company April 2018: Corporate Executive, Chief Strategy Officer (CSTO), the Company
+June 2019: Corporate Executive Vice President, the Company (present post)
+Close
+Mamoru Sekiyama Outside Director
+Resume, position and responsibilities at the Company
+April 1974: Joined Marubeni Corporation
+April 1997: General Manager, Power Project Dept.-I, Marubeni Corporation
+April 1998: General Manager, Power Project Dept.-III, Marubeni Corporation
+April 1999: Deputy General Manager, Power Project Div.; General Manager, Power Project Dept. I, Marubeni Corporation April 2001: Senior Operating Officer, Utility Infrastructure Div.; General Manager, Overseas Power Project Dept., Marubeni Corporation
+April 2002: Corporate Vice President, Chief Operating Officer, Plant, Power & Infrastructure Div., Marubeni Corporation April 2005: Corporate Senior Vice President, Chief Operating Officer, Plant, Power & Infrastructure Projects Div., Marubeni Corporation
+June 2006: Corporate Senior Vice President, Member of the Board, Marubeni Corporation
+April 2007: Corporate Executive Vice President, Member of the Board, Marubeni Corporation
+April 2009: Senior Executive Vice President, Member of the Board, Marubeni Corporation
+April 2013: Vice Chairman, Marubeni Corporation
+April 2015: Corporate Adviser, Marubeni Corporation Chairman, Marubeni Power Systems Corporation
+June 2017: Director, the Company (present post)
+Close
+  35
+
+
+
+  Keiko Yamagami Outside Director
+Resume, position and responsibilities at the Company
+April 1987: Public Prosecutor, Yokohama District Public Prosecutors Office
+April 2002: Coordinator, the Legislative Division, Criminal Affairs Bureau, Ministry of Justice January 2005: Counselor, the Legislative Division, Criminal Affairs Bureau, Ministry of Justice August 2005: Public Prosecutor, Supreme Public Prosecutors Office
+August 2007: Deputy Director of Public Peace Department, Tokyo District Public Prosecutors Office July 2008: Deputy Director of Trial Department, Tokyo District Public Prosecutors Office
+April 2009: Trial Director, Yokohama District Public Prosecutors Office
+April 2010: Registered as an attorney-at-law (Dai-ichi Tokyo Bar Association)
+Lawyer honorary member, Tokyo Seiwa Law Office (present post)
+June 2017: Director, the Company (present post)
+June 2018: Outside Audit & Supervisory Board Member, Denyo Co., Ltd. (present post)
+Close
+Hiroshi Kawabe Outside Director
+  36
+
+
+ Resume, position and responsibilities at the Company
+May 1979: Assistant, Department of Internal Medicine, Keio University School of Medicine
+April 1990: Assistant Professor, Health Center, Keio University
+April 1991: Assistant Professor, Department of Internal Medicine, Keio University School of Medicine April 1996: Associate Professor, Health Center, Keio University
+Associate Professor, Department of Internal Medicine, Keio University School of Medicine
+April 2002: Professor, Health Center, Keio University
+Professor, Department of Internal Medicine, Keio University School of Medicine
+October 2003: Vice President, Health Center, Keio University
+October 2011: President, Health Center, Keio University
+June 2013: Trustee, Japan University Health Association
+March 2017: Trustee, Daiwa Securities Health Foundation (present post)
+March 2018: President, Foundation for Promotion of Medical Training (present post)
+April 2018: Professor Emeritus, Keio University (present post)
+June 2019: Director, the Company (present post)
+Close
+Tatsuro Ishizuka Outside Director
+Resume, position and responsibilities at the Company
+April 1978: Joined Hitachi, Ltd.
+April 2009: Corporate Officer and General Manager, Hitachi Works, Hitachi, Ltd.
+April 2011: Vice President and Executive Officer, and President & CEO, Power Systems Company, Hitachi, Ltd.
+April 2013: Senior Vice President and Executive Officer, Hitachi, Ltd.
+April 2014: Representative Executive Officer, Executive Vice President and Executive Officer, Hitachi, Ltd.
+April 2015: Deputy Chairman, Hitachi Europe Ltd.
+July 2016: Chairman of the Board, Hitachi Research Institute
+April 2017: Representative Executive Officer, Chairman, Hitachi Construction Machinery Co., Ltd.
+June 2017: Representative Executive Officer, Chairman, Executive Officer and Director, Hitachi Construction Machinery Co., Ltd.
+   37
+
+
+ April 2019: Director, Hitachi Construction Machinery Co., Ltd. (present post) June 2019: Director, the Company (present post)
+Close
+Tomokazu Fujisawa
+Director who is an Audit & Supervisory Committee Member
+Resume, position and responsibilities at the Company
+July 1984: Joined Fujisawa Pharmaceutical Co., Ltd.
+April 1999: Director of Planning, Medical Supply Business, Fujisawa Pharmaceutical Co., Ltd.
+September 2006: Assistant to Senior Vice President, Corporate Finance & Accounting and Project Leader of J-SOX Project, the Company
+April 2013: Vice President of Internal Auditing, the Company
+April 2014: Assistant to President, the Company
+June 2014: Audit & Supervisory Board Member, the Company (present post)
+June 2018: Director who is an Audit & Supervisory Committee Member, the Company (present post)
+Close
+Hiroko Sakai
+Director who is an Audit & Supervisory Committee Member
+   38
+
+
+
+ Resume, position and responsibilities at the Company
+April 1983: Joined the Company
+April 2012: Vice President, Clinical and Research Quality Assurance, QA, RA and Pharmacovigilance, the Company April 2016: Assistant to President & CEO, the Company
+June 2016: Audit & Supervisory Board Member, the Company (present post)
+June 2018: Director who is an Audit & Supervisory Committee Member, the Company (present post)
+Close
+Noriyuki Uematsu
+Outside Director who is an Audit & Supervisory Committee Member
+Resume, position and responsibilities at the Company
+March 1985: Joined Tohmatsu・Aoki Audit Corporation (current Deloitte Touche Tohmatsu LLC)
+June 1997: Joined Deloitte Tohmatsu Consulting Co., Ltd. (current ABeam Consulting Ltd.)
+June 1999: Global Partner for manufacturing industry and Managing Director in Kyushu area, Deloitte Tohmatsu Consulting Co., Ltd. (current ABeam Consulting Ltd.)
+August 2003: Joined DENTSU INC.
+July 2008: Established Uematsu & Co. Managing Director, Uematsu & Co. (present post)
+June 2011: President & Representative Director, SU Consultant Co. Ltd (present post)
+January 2015: Outside Audit & Supervisory Board Member, Kamakura Shinsho, Ltd.
+April 2016: Outside Director and Audit and Supervisory Committee Member, Kamakura Shinsho, Ltd. (present post) June 2016: Audit & Supervisory Board Member, the Company (present post)
+June 2018: Director who is an Audit & Supervisory Committee Member, the Company (present post)
+March 2019: Outside Corporate Auditor, LINE Corporation (present post)
+Close
+   39
+
+
+
+  Hiroo Sasaki
+Outside Director who is an Audit & Supervisory Committee Member
+Resume, position and responsibilities at the Company
+ April 1987: Assistant Professor, Faculty of Economics, Nagoya City University April 1990: Associate Professor, Faculty of Economics, Nagoya City University April 1993: Associate Professor, School of Commerce, Waseda University April 1996: Professor, School of Commerce, Waseda University
+July 1997: Senior Research Officer, Ministry of Finance, Institute of Fiscal and Monetary Policy (current Policy Research Institute); Special Officer for Research, Minister’s Secretariat
+July 1999: Professor, School of Commerce, Waseda University
+April 2005: Professor, School of Commerce, Waseda University; Professor, Graduate School of Accountancy, Waseda University
+September 2010: Professor, School of Commerce, Waseda University; Dean, Graduate School of Accountancy, Waseda University
+April 2013: Dean, Graduate School of Accountancy, Waseda University
+September 2016: Professor, Graduate School of Accountancy, Waseda University (present post)
+June 2018: Director who is an Audit & Supervisory Committee Member, the Company (present post) Close
+ Haruko Shibumura
+Outside Director who is an Audit & Supervisory Committee Member
+40
+
+
+ Resume, position and responsibilities at the Company
+April 1987: Joined Chiyoda Mutual Life Insurance Company
+August 1987: Joined Kyushu University Press
+April 1994: Registered as an attorney-at-law (Dai-ni Tokyo Bar Association)
+Joined Law Offices of Honma & Komatsu (current Homma & Partners)
+April 1999: Partner Lawyer, Homma & Partners (present post)
+October 2006: Committee member, Compliance Committee, TAMURA Corporation
+June 2015: Outside Audit & Supervisory Board Member, NICHIREKI CO., LTD.
+April 2016: Committee member, Compliance Special Committee, TAMURA Corporation
+June 2018: Outside Director, TAMURA Corporation (present post)
+June 2019: Director who is an Audit & Supervisory Committee Member, the Company (present post) June 2019 Outside Director, NICHIREKI CO., LTD. (present post)
+Close
+  Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+41
+
+
+Risk Management
+Identifying and Mitigating Risks Relating to the Performance of Business Activities
+Pharmaceutical companies that expand their business globally are expected to follow numerous regulations with a high level of compliance; Astellas must also address numerous risks that could impact our business results, performance and public perception. Astellas established a holistic approach to risk management through the creation of a Global Risk Management program. Separate Regional Risk Management programs in each of the Company’s four regions support the Global Risk Management program. The purpose of these global and regional programs are to identify, prioritize and manage risks to the Company achieving its objectives from a preventive standpoint.
+The Global Risk Management program are supervised by a global, cross-functional team. The Global Risk Management program utilizes a four-phased approach, which is repeated annually: 1. Risk Identification, 2. Risk Prioritization, 3. Risk Mitigation Plan Development, and 4. Risk Mitigation Plan Implementation.
+Global Risk Management Program Structure
+Assigns Risk Owners
+Provides updates on risk mitigation plans
+The EC reviews and approves risks identified through the Global Risk Management program. The EC assigns risk owners to each identified global risk. The risk owners are responsible for developing and implementing risk mitigation plans. Risk owners update these plans throughout the year and mitigation plan progress is reported to the EC. The risks managed by the program are reflective of Astellas’ footprint as global pharmaceutical company and the sector the Company operates in.
+Through maintaining the Global Risk Management program, Astellas has a framework for identifying and addressing risk. This program has enhanced the Company’s cross-functional awareness and transparency about the risks facing the Company as well as the activities being undertaken to mitigate these risks.
+At the regional level, the Regional Risk Management programs operate in a similar format to the global program. The Global Risk Management program factors the results of the regional programs into its risk identification process to ensure regional concerns and priorities are considered appropriately. In addition, the Global Risk Management program takes on risks identified by the Regional Risk Management Program when necessary.
+Board of Directors
+Provides updates
+Provides updates on identified risks and mitigation plans
+Provides Regional Risk Management results
+   Risk Owners
+ 1. Sets program strategy
+2. Provides input on risks
+3. Approves identified risks 4. Approves mitigation plans
+Executive Committee
+ Global Risk Management Team / Secretariat
+         Americas Regional Risk Management Program
+Asia & Oceanic Regional Risk Management Program
+42
+EMEA Regional
+Risk Management Program
+Japan Regional
+Risk Management Program
+
+Home > Annual Report > Business Review
+ Business Review
+Annual Report 2019
+  Top Management
+Executive committee members and management structure
+Read More
+Approach to Research and Development
+Astellas' basic concept for Research & Development
+Read More
+    Pipeline Projects
+Introduction and current status of Astellas' key post-POC pipeline projects
+Read More
+Main Products
+Introduction of Astellas' key marketed products
+Read More
+   43
+
+ Responsible Business Activities
+Astellas' CSR-related initiatives in business activities
+Read More
+Ethics & Compliance
+Astellas' Ethics & Compliance basic concept, organization structure and activities
+Read More
+Social Contribution
+Astellas' Social Contribution activities
+Read More
+Our People, Our Organization
+Astellas' Human Resources Development and Organization management basic concept, data, and activities
+Read More
+Access to Health
+Astellas' Access to Health initiatives. Astellas is committed to adrdess Access to Health issues.
+Read More
+EHS ; Environment, Health & Safety
+Astellas EHS (Environment, Health & Safety) initiatives and data
+Read More
+         Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+44
+
+ Home > Annual Report > Business Review > Top Management
+Annual Report 2019
+Top Management
+Executive Committee as of October 2019
+The Executive Committee discusses important matters of management across Astellas. It is chaired by the Representative Director, President and CEO, and comprises top management as standing members. Extended members include the officers responsible for research, development and pharmaceutical technology capabilities together with the officers responsible for each region, and these members participate in any necessary discussions at the request of the chairman.
+  Standing Members
+  Representative Director, President and CEO
+  Kenji Yasukawa, Ph.D.
+ Representative Director,
+Corporate Executive Vice President, Chief Strategy Officer (CStO) and Chief Financial Officer (CFO)
+  Naoki Okamura
+  Chief Administrative Officer and Chief Ethics & Compliance Officer
+  Fumiaki Sakurai
+General Counsel
+Chief Medical Officer Chief Commercial Officer
+Extended Members
+President, Drug Discovery Research President, Pharmaceutical Technology President, Development
+President, Established Markets Commercial
+Linda Friedman Bernhardt Zeiher, M.D. Yukio Matsui
+Akihiko Iwai Hideki Shima Steven Benner Dirk Kosche
+              45
+)(
+
+   President, Greater China Commercial President, International Commercial President, Japan Commercial President, US Commercial
+Group Management Structure
+Hiroshi Hamaguchi Claus Zieler Nobuaki Tanaka Percival Barretto-Ko
+        (As of April 1, 2019)
+  Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+46
+
+ Home > Annual Report > Business Review > Approach to Research and Development
+Annual Report 2019
+Approach to Research and Development
+Astellas aims to create innovative pharmaceuticals for diseases with high unmet medical needs through our Focus Area approach. In the Focus Area approach, we prioritize our research and development strategy utilizing three perspectives: “biology”, which has clear mechanisms of pharmacological action with accompanying scientific progress, “modality”, which seeks the best delivery method to maximize pharmacological effects, and “disease”, which has undergone widespread evaluation of unmet medical needs and the market environment. To selected opportunities within the Focus Area where there is clear scientific evidence and the potential to create and deliver VALUE to patients, we allocate management resources to accelerate progress from the early development stages.
+In the clinical development phase, Astellas prioritizes six key late stage projects and develops our products to maximize the contribution to addressing unmet medical needs in various diseases.
+      Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+47
+
+Home > Annual Report > Business Review > Pipeline Projects
+ Annual Report 2019
+Pipeline Projects
+Astellas aims to create a continuous stream of innovative medicines. We focus on steady progress of six key late stage projects so that we can deliver the value to patients as soon as possible.
+Please see here for the details of target diseases and status for each project. Progress of 6 projects in 1Q/FY2019
+  *Including submission of application, M0: Non-metastatic, CRPC: Castration-resistant prostate cancer, M1: Metastatic, HSPC: Hormone-sensitive prostate cancer, AML: Acute myeloid leukemia, HSCT: Hematopoietic stem cell transplant, mUC: Metastatic urothelial cancer, GEJ: Gastroesophageal junction, CKD: Chronic kidney disease, MR-VMS: Menopause-related vasomotor symptoms
+enzalutamide (brand name: XTANDI)
+Enzalutamide is marketed worldwide for the treatment of castration-resistant prostate cancer (CRPC). Astellas is developing to expand the indication to earlier stages of prostate cancer in collaboration with Pfizer, Inc.
+  48
+
+ Enzalutamide is an androgen receptor (AR) inhibitor. It targets the AR and exerts its effects on three steps of the AR signaling pathway: inhibiting androgen binding to the receptor; preventing nuclear translocation; impairing DNA binding of the AR to the DNA.
+Prostate cancer is the second most common in the cancers in men, and annually 1.3 billion men is newly diagnosed worldwide.*1 Astellas focuses on the further development so that enzalutamide can contribute to more patients.
+*1 World Health Organization Cancer Fact Sheet 2018
+Close
+gilteritinib (brand name: XOSPATA)
+Gilteritinib is marketed for treatment of patients with relapsed or refractory FLT3 mutation-positive acute myeloid leukemia (AML) in Japan and the United States. Astellas is developing gilteritinib to expand the indications for earlier stages.
+Gilteritinib inhibits mutated FLT3, a receptor type tyrosine kinase known to be involved in cancer cell proliferation. FLT3 mutations are seen in approximately one-third of patients with AML.*1 Gilteritinib has demonstrated inhibitory activity against major type of mutations that are internal tandem duplication and tyrosine kinase domain.
+AML is a cancer that is most commonly experienced in elderly people with the incidence rate increasing with age. The number of newly diagnosed AML patients are approximately 5,500 in Japan,*2 19,000 in the United States*3 and 18,400 in the European Union*4 each year. AML is a life-threatening disease and requires early intervention. Induction and consolidation chemotherapy are the current standard care. However, resistance to current AML treatments and ineligibility of high-intensity induction chemotherapy for elderly patients due to an excessive physical burden make challenges in AML treatment. Promising new treatment options targeting specific genetic mutations have been awaited in AML treatment landscape.
+*1 Patel JP et al., 2012
+*2 KantarHealth. TREATMENT ARCHITECTURE: JAPAN LEUKEMIA, ACUTE MYELOID. CancerMPact® Japan, February 2017 *3 American Cancer Society. Key Statistics for Acute Myeloid Leukemia (01-04-2018),
+*4 O.Visser et al., 2012
+Close
+enfortumab vedotin
+Astellas is developing enfortumab vedotin as a treatment for urothelial cancer under collaboration with Seattle Genetics, Inc.
+Enfortumab vedotin is an investigational antibody drug conjugate (ADC)*1 composed of an anti-Nectin-4 monoclonal antibody attached to a microtubule-disrupting agent, MMAE, using Seattle Genetics’ proprietary linker technology. Enfortumab vedotin targets Nectin-4, a cell adhesion molecule that is expressed on many solid tumors.
+Urothelial cancer is the most common type of bladder cancer (90 percent of cases). Globally, approximately 549,000 people were diagnosed with bladder cancer annually, and there are approximately 200,000 deaths worldwide.*2
+The U.S. FDA has granted Breakthrough Therapy designation to enfortumab vedotin for patients with locally advanced or metastatic urothelial cancer who were previously treated with check point inhibitors.
+  49
+
+
+
+ *1 Antibody drug conjugate (ADC): ADCs are monoclonal antibodies that are designed to selectively deliver cytotoxic agents to cancer cells. *2 World Health Organization Cancer Fact Sheet 2018
+Close
+zolbetuximab
+Astellas is developing zolbetuximab as a treatment for gastric and gastroesophageal junction (GEJ) cancer.
+Zolbetuximab is an antibody that targets Claudin 18.2, a transmembrane protein that forms a tight junction connecting and binding two adjoining cell membranes. In normal cells, Claudin 18.2 is expressed locally in stomach cells, while it is expressed in various cancer types including gastrointestinal adenocarcinomas as well as pancreatic, biliary duct, ovarian and lung cancers.
+Gastric and GEJ cancer is one of the malignancies with the highest unmet medical needs. Gastric cancer is the third leading cause of cancer death worldwide.*1 Moreover, the overall five-year survival rate for metastatic gastric and GEJ cancer is under 20%.*2 Chemotherapy and anti-HER2 antibodies are widely used for the treatment of metastatic or recurrent gastric and GEJ cancer. However, other therapeutic options are awaited especially in HER2-negative patients with a lack of effective targeted therapies.
+Zolbetuximab is currently under early development also in pancreatic adenocarcinoma. Pancreatic cancer is the seventh leading cause of cancer death worldwide,*1 and shows low overall five-year survival rate as 4%.*3
+ *1 World Health Organization Cancer Fact Sheet 2018. *2 Pennathur et al., 2013; Sahin et al., 2008.
+*3 Ilic et al., 2016.
+Close
+roxadustat
+ Astellas is developing roxadustat as a treatment for anemia associated with chronic kidney disease (CKD) on dialysis and not on dialysis, in collaboration with FibroGen Inc. Astellas has the development and commercialization rights in Japan, Europe, the Commonwealth of Independent States, the Middle East and South Africa.
+Roxadustat has a new mechanism of action, inhibiting hypoxia-inducible factor (HIF) prolyl hydroxylase (PH). By inhibiting HIF-PH, roxadustat increases HIF involved in the production of red blood cells, thereby enhancing the production of red blood cells and improving anemia. This can be administered orally and demonstrates equivalent efficacy and safety to the conventional treatments with erythropoietin-stimulating agent injections, as well as reducing the need for iron injections.
+Anemia is one of the common complications of CKD. It is reported that the progression of anemia in CKD leads to end- stage renal disease and increases the mortality rate, and new treatment options are awaited to provide both effectiveness and convenience for patients.
+Close
+ fezolinetant
+50
+
+
+
+
+ Astellas is developing fezolinetant as a non-hormonal treatment for menopause-related vasomotor symptoms (MR-VMS: hot flashes and night sweats).
+Fezolinetant is an antagonist of the NK3 receptor. Fezolinetant works by blocking neurokinin B (NKB) signaling and normalizing KNDy (kisspeptin/NKB/dynorphin) neuron activity, which modulates the temperature control center and reduces the frequency and severity of MR-VMS.
+Hot flashes are the most common symptom for women transitioning through menopause.*1 Globally, approximately 57 percent of women aged 40 to 64 years have reported the occurrence of hot flashes and sweating.*2
+VMS have a significant impact on women's quality of life (QoL), including sleep. Currently, there are limited non-hormonal options for managing it, and new safe and effective non-hormonal therapeutics are needed.
+*1 Freedman RR, 2014 *2 Utian WH, 2005
+Close
+ Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+51
+
+
+ Home > Annual Report > Business Review > Main Products
+Annual Report 2019
+Main Products
+Astellas is focused on maximizing the value of the main products that will drive growth in each region, such as XTANDI and Betanis/Myrbetriq/BETMIGA.
+Prostate Cancer Treatment XTANDI
+XTANDI for the treatment of prostate cancer is an androgen receptor signaling inhibitor.
+Since being launched in the U.S. in 2012, XTANDI is now available around the world, including in Europe, Japan and Asia. Since the launch, it has obtained additional indications for the earlier stages of prostate cancer and has been contributed to the treatment of many patients. With a strong presence in the urological field and leveraging abundant data based on accumulated clinical experience since its launch, Astellas aims for further penetration for the indications it has already received.
+Acute Myeloid Leukemia (AML) Treatment XOSPATA
+XOSPATA is a FLT3 inhibitor for adult patients with relapsed or refractory Acute Myeloid Leukemia (AML) with a FLT3 mutation-positive.
+It obtained approval for the indication of relapsed or refractory AML with FLT3 mutation-positive in Japan in September 2018 and in the U.S. in November. It was launched in both countries in December 2018. Astellas also filed an application for approval in Europe in February 2019. The launch of XOSPATA contributes to treating AML by providing another treatment option for healthcare professionals involved in treating AML.
+Overactive Bladder (OAB) Treatment Betanis/Myrbetriq/BETMIGA
+Betanis/Myrbetriq/BETMIGA for the treatment of OAB is a beta-3 adrenergic receptor agonist. It improves various symptoms associated with OAB, such as urgency, urinary frequency, and urge urinary incontinence, by a new mode of action different from the anticholinergic drugs used in standard treatment.
+Since the first launch in Japan in 2011 under the brand name of Betanis, the product is now launched as Myrbetriq in the Americas, and BETMIGA in Europe and Asia & Oceania. Astellas aims to maximize the product value by ensuring that more physicians understand the balance between efficacy and tolerability, the feature of this product.
+  52
+
+ Immunosuppressants
+Prograf and Advagraf/Graceptor/ASTAGRAF
+Prograf and Advagraf/Graceptor/ASTAGRAF are an immunosuppressant used to suppress organ transplant rejection. Although the patent for this drug has already expired in major countries, it continues being used in transplants area globally as well as contributing to treatment for autoimmune diseases such as rheumatoid arthritis and ulcerative colitis in Japan.
+Others
+OAB treatment:
+Prostate cancer treatment:
+Benign prostatic hyperplasia treatment: Antifungal agent:
+Vesicare Eligard
+Harnal/Omnic Funguard/MYCAMINE
+Please refer to the Supplementary Documents (pdf) of the Business Results about sales of major products in each region, including the products above.
+  Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+53
+
+Home > Annual Report > Business Review > Responsible Business Activities
+ Annual Report 2019
+Responsible Business Activities
+Astellas is committed to fulfilling its social responsibilities in the course of conducting business activities. We respect human rights in every stage of our value chain, from research and development to the provision of product information. We also endeavor to ensure compliance with the Pharmaceutical and Medical Device Act and other relevant laws and regulations.
+   54
+
+  Research
+Ethical Considerations in Research on Human Subjects and Specimens Derived from Humans
+Astellas conducts research on human subjects, and obtains and conducts research on specimens derived from humans, after appropriately obtaining the consent of the subjects in accordance with the Declaration of Helsinki* as well as the laws, regulations and guidelines of relevant countries.
+In Japan, Astellas provides training for researchers in areas such as bioethics, genomic research and related clinical research based on a strong commitment to respecting the human rights of research subjects and protecting the privacy and confidentiality of their personal information.
+55
+
+ The Astellas Research Ethics Committee has been established with external experts participating in the committee to determine the ethical acceptability and scientific propriety of research plans in a fair and impartial manner.
+* Declaration of Helsinki: A statement of ethical principles for medical research involving human subjects, addressed to physicians and others who are involved in medical research on human subjects.
+Ethical Considerations in Stem Cell Research and Development
+Astellas believes that there is a possibility of supplying new stem cell-based treatment methods to address diseases that previously had no known treatment methods. To achieve this, Astellas is advancing research and development activities focused on using stem cells in therapy.
+Astellas also recognizes that research into human stem cells could give rise to concerns that warrant close examination. In particular, Astellas is fully aware of the necessity to pay full attention to the social and bioethical issues associated with research using human embryonic stem cells (ES cells).
+Based on these principles and awareness, Astellas has established its “Policy on Human Stem Cell Research and Development*,” which sets forth the basic matters it must comply with in the course of conducting human stem cell research and development. Specifically, in all of its research and development activities involving human stem cells, Astellas will comply with the relevant laws, ordinances and regulations of the countries and regions where it undertakes these research and development activities. Moreover, Astellas will set up a committee comprising internal and external experts, from which it will obtain oversight and advice on the ethical aspects and the scientific validity and legitimacy of these research and development activities. All the proposals on research and development programs involving human stem cells will be reviewed and approved by the committee to ensure that these research and development activities are implemented ethically and in line with a legitimate scientific purpose. Furthermore, when establishing and using human ES cells, Astellas will take steps to satisfy the ethical standards established by the world’s major scientific authorities, including the guidelines laid out by the National Academy of Sciences of the United States of America.
+* For details, please visit the following website:
+https://www.astellas.com/jp/system/files/policy_en.pdf
+Ethical Considerations in Animal Testing
+Astellas conducts animal testing based on its Policy on Animal Care and Use*1. We have established the Corporate Institutional Animal Care and Use Committee with external experts participating in the committee, to determine whether to conduct animal testing based on the 4R Principles*2. All of Astellas’ animal testing facilities have acquired accreditation from AAALAC international*3.
+*1 For details, please visit the following website:
+https://www.astellas.com/jp/system/files/policy_on_animal_care_and_use_en.pdf
+*2 4R Principles: Developing non-animal testing alternatives and replacing animals of phylogenetically lower species (Replacement); reducing the number of animals involved to the minimum necessary to achieve the scientific purpose(Reduction); avoiding the infliction of distress on animals wherever possible (Refinement); and scientifically and ethically justifying animal use in light of their significance, necessity, predictability and other criteria (Responsibility).
+*3 AAALAC International: The Association for Assessment and Accreditation of Laboratory Animal Care International. An international organization that promotes the humane treatment of animals through voluntary accreditation and assessment programs. Studies are undertaken from both scientific and ethical standpoints to verify the quality of animal control and use programs.
+Biotechnology and Biohazard Control
+Astellas handles genetically modified organisms and performs experiments using materials containing pathogens in compliance with the World Health Organization Laboratory Biosafety Manual*1, the U.S. Centers for Disease Control (CDC) Biosafety Manual*2 and the U.S. National Institutes of Health Guidelines*3, as well as the laws of individual countries.
+  *1 Laboratory Biosafety Manual 3rd Edition
+56
+
+ *2 Biosafety in Microbiological and Biomedical Laboratories 5th Edition
+*3 NIH Guidelines for Research Involving Recombinant or Synthetic Nucleic Acid Molecules
+Use of Genetic Resources
+Astellas has published its Position on Genetic Resources*1, and is committed to full compliance with the relevant laws and regulations of countries supplying genetic resources, and to the fair distribution of profits derived from the use of such resources according to the conditions mutually agreed upon with each country. This commitment is based on the concept of genetic resource utilization and the associated distribution of profits set out in the Nagoya Protocol*2 adopted by the Conference of the Parties to the Convention on Biological Diversity*3. The impacts of the use of new genetic modification technologies on the environment, biodiversity, and human health are not fully known. Therefore, Astellas will proceed cautiously when using these technologies while remaining mindful of the need to preserve biodiversity and consider ethical issues.
+*1 For details, please visit the following website:
+https://www.astellas.com/system/files/Position%20Statement_Genetic%20Resources_ver.1.1_EN.pdf
+*2 Nagoya Protocol: Protocol on access to genetic resources and the fair and equitable sharing of benefits arising from their utilization *3 The Convention on Biological Diversity: International convention on the sustainable use and conservation of biological diversity
+Treatment of Intellectual Property
+Appropriate protection of intellectual property is critical to addressing unmet medical needs and maintaining a competitive advantage. With this in mind, Astellas has established a Policy on Intellectual Property*1.
+In view of the importance of improving people’s access to health, Astellas participates in the Patent Information Initiative for Medicines (Pat-INFORMED) implemented by the World International Patent Organization (WIPO) to ensure easy access to Astellas’ patent information on medicines by health agencies tasked with the procurement of medicines in various countries.
+Moreover, we are committed to not filing or enforcing patents in countries facing significant economic challenges. These select countries are decided by referring to those designated as Least Developed Countries (LDCs) defined by the United Nations or Low Income Countries (LICs) defined by the World Bank*2.
+ *1 For details, please visit the following website:
+https://www.astellas.com/system/files/property_en.pdf
+*2 For details, please visit the following website:
+https://www.astellas.com/system/files/ip_en.pdf
+  Close
+Clinical Development
+ Respect for Human Rights, Protection of the Privacy and Confidentiality of the Personal Information of Clinical Trial Subjects, and Assurance of Reliability in Clinical Trials
+Astellas conducts clinical trials to assess the efficacy and safety of new drug candidates in patients under the Declaration of Helsinki, Good Clinical Practice (GCP) and all relevant laws and regulations with full consideration to protecting human rights and the privacy and confidentiality of clinical trial subjects’ personal information. Clinical study protocols developed by Astellas are evaluated and approved for ethical acceptability and scientific validity by internal and external evaluation committees.
+57
+
+
+ In conducting clinical trials, Astellas confirms that clinical trial subjects have provided informed consent, having received a full explanation of the purpose and methods of the trial, its expected benefits and disadvantages, matters related to compensation for health impairment and other details. Moreover, we implement education and training for any employees or staff members involved in clinical trials, and monitor medical institutions that perform clinical trials to ensure full GCP compliance.
+In addition, we protect the privacy and confidentiality of the personal information of clinical trial subjects by managing trial data appropriately. Periodic assessments are also made to check that any outsourced clinical trials are conducted in accordance with the same standards.
+Disclosure of Information on Clinical Trials and Trial Results
+Astellas is committed to increasing transparency and providing disclosure of clinical trial data. Maximizing the value of clinical trial data, and putting it to good use in driving scientific advancement and increasing innovation, requires that the clinical trial data be appropriately accessible to the research community and others who might utilize it. The Policy on Disclosure of Clinical Trial Data*1 has been published on the Company website to present Astellas’ position on this matter.
+Astellas registers clinical trials, posts clinical trial information, and discloses clinical trial results. Astellas provides patient- level data that have been anonymized in accordance with applicable laws and regulations through an external website*2 to those scientists and healthcare professionals requesting it in the case that review panel consisting of third party experts evaluates and approves the request based on scientific usefulness and scientist eligibility. Healthcare professionals and the public can confirm summaries of clinical trial findings via the website. This website also gives patients access to plain language summaries of study results prepared for non-experts*3.
+*1 For details, please visit the following website:
+https://www.astellas.com/system/files/Clinical_Trial_Data_Disclosure_Policy_En_2018_1.pdf
+*2 Patient-level data are provided through the following website:
+http://www.clinicalstudydatarequest.com
+*3 Results of the clinical trials are provided through the following website:
+https://www.astellasclinicalstudyresults.com/Welcome.aspx
+Expanded Access to Investigational Medicines
+Astellas has set forth its approach to supplying investigational medicines to patients for purposes other than clinical studies in its Position on Expanded Access to Investigational Medicines*.
+Astellas recognizes that patients with serious or life-threatening diseases may have exhausted all of their available treatment options, may not qualify for a clinical trial and may seek access to investigational medicines. In these cases, in response to a request for investigational medicines from a primary physician, Astellas fairly, impartially and rapidly evaluates whether or not the patient meets the required conditions and commits to establishing an expanded access plan as appropriate. The expanded access program will target countries where the clinical development of an investigational medicine is progressing and the drug is scheduled to obtain approval. Moreover, this procedure will be implemented in accordance with the regulations of the country where expanded access is requested.
+* For details, please visit the following website:
+https://www.astellas.com/system/files/position_on_expanded_access_e_2017-04-11.pdf
+Patient Centricity in Clinical Drug Development
+Patient centricity is now a focus for regulatory authorities and the pharmaceutical industry. The patient-centric approach is being discussed at all points in the drug development value chain.
+    58
+
+ We are pursuing patient centricity in clinical development. To do so, we are trying to incorporate insights from real-world data into the planning of clinical trials by understanding how healthcare is provided to patients. Efforts are being made to include patient input in how to optimally design clinical trials, recruit participants, and identify relevant endpoints that patients care most about.
+For example, we use patient-reported outcomes (PROs) such as questionnaires and patient diaries to monitor and assess patients’ health conditions. We use real-world data for estimation of target populations based on the morbidity rate and ineligible cases in screening, and feasibility of studies in clinical trial facilities. In addition, we established a patient- friendly website to support patient/caregiver-focused recruitment and health literacy recommendations. Especially in the muscle disease field, we are working with patient organizations. Working closely with those organizations, we are striving to reflect valuable insights from patients and caregivers in clinical trial designs. Through these activities, we try to make it easier for patients to participate in clinical trials, as we work to obtain trial results with greater clinical significance.
+Close
+Quality and Reliability Assurance
+ Anti-counterfeiting Activities
+The infiltration of counterfeit medicines into the legitimate supply chain not only leads to the loss of opportunities for patients to receive effective medical treatment but could also have severe adverse health consequences. This has become a serious problem worldwide.
+Astellas has published a clearly defined Counterfeit Medicines Position Statement on our global website.
+As a countermeasure, Astellas commissioned an Anti-Counterfeit Committee comprised of leaders from multiple stakeholder functions (quality assurance, supply chain, etc.), and has also established a product security function to oversee daily activities relevant to product-related security risks. These entities monitor the global market for suspicious activities affecting Astellas products, and implement countermeasures targeting not only counterfeit medicines, but also diversion, theft and other illicit activities that potentially affect our products and/or present a potential risk to patients. Astellas systematically introduces anti-counterfeit measures, including, but not limited to, product serialization as stipulated by current regulations and pharmaceutical laws. In addition, Astellas regularly engages in various collaborative activities with other members of the pharmaceutical industry to help prevent the spread of counterfeit medicines. We also proactively endeavor to support and cooperate with national regulatory and judicial authorities to crack down on counterfeit medicines.
+Anti-doping Measures
+Doping is an issue closely related to abuse and misuse of medicines in sports. It is a serious priority for the pharmaceutical industry given that it is not only associated with a risk of inducing serious side effects, but it can also become a breeding ground for the unauthorized distribution and counterfeiting of medicines. Astellas is working to identify the compounds under development that have the potential to be used in doping and to prevent the misuse of those compounds.
+In October 2016, Astellas made a global agreement with the World Anti-Doping Agency (WADA) to partner on the prevention of misuse and abuse of medicines for doping in sports which aims to contribute to the eradication of doping and improvement of public health.
+Doping in sports relies primarily on the misuse and abuse of commercially available medicines, as well as compounds in development that are not as well-known or easily detected. To support WADA in its efforts to address this issue, Astellas identifies compounds solely developed by Astellas or its affiliates with the potential for sport-related doping abuse and
+    59
+
+
+ cooperates in sharing relevant information to aid WADA in the organization’s development of detection methods for these compounds. Additionally, Astellas cooperates with WADA to minimize the risk of misuse of compounds with doping potential during clinical trials to avoid opportunities for abuse.
+Product Recalls
+Astellas has a recall system in place that is activated when the safety, efficacy or quality of a product is brought into question. The system ensures relevant information is promptly passed on to medical institutions and other affected parties, and that a recall of the product in question is instigated. Astellas voluntarily initiated 6 product recalls and had 1 authority-initiated recall in fiscal 2018. As of March 2019, there were no reports of any related health impairments received.
+History of product recall
+2014 3 0 1 1 1
+2015 3 0 1 1 1
+2016 3 0 2 1 0
+2017 3 0 2 0 1
+2018 7 0 4 2 1*
+* Authority-initiated recall
+FDA Inspection
+Astellas has established its own quality standards in compliance with current Good Manufacturing Practice (cGMP) and applies these standards to Astellas Group manufacturing sites. In fiscal 2018 Astellas had 4 US FDA inspections across the global business, of which Astellas only received a single Form 483.
+*Form 483: An FDA Form 483 is issued to firm management at the conclusion of an inspection when an investigator(s) has observed any conditions that in their judgment may constitute violations of the Food Drug and Cosmetic (FD&C) Act and related Acts.
+US FDA inspection history
+2014 6 None 1 Takaoka (Japan)
+2015 1 None 1 Norman (US)*
+2017 2 None 0 -
+ FY
+ The number of recall
+  Severe (Class I)
+ Moderate (Class II)
+  Minor (Class III)
+ Non Classified
+      CY
+ The number of FDA Inspection
+   Warning Letter issued
+  Form 483 issued
+ Location of Form 483 issued
+  2016
+ 5
+   None
+   2
+ Takaoka (Japan), Toyama (Japan)
+ 2018 4 None 1 Toyama(Japan)
+ 60
+
+ * The Norman plant in the U.S was transferred to the Avara Norman Pharmaceutical Services, Inc. in August 2016.
+Quality Manual
+Astellas has set forth the quality assurance function and activities in the Quality Manual. The Quality Manual sits on the apex of the document management system hierarchy. Underneath the Quality Manual, policies, standard operating procedures, and guidelines exist defining quality assurance systems and operational management and procedures for a variety of quality assurance-related activities at the global, regional and national levels. Education and training programs are implemented to promote understanding and awareness of these matters.
+These documents are revised periodically and as necessary. We respond swiftly to developments in the external environment, such as regulatory changes and amendments.
+Strengthening of Quality Assurance Systems at Affiliates
+Astellas has constructed a robust global quality assurance system to ensure the supply of pharmaceuticals of uniformly high quality to patients worldwide.
+We are developing quality management systems consistent with our quality assurance policy on a global, company-wide basis. The global quality assurance structure incorporates quality assurance activities of each affiliate. Our sales affiliates globally receive appropriate support in strengthening our quality culture whilst educating our personnel.
+Global Quality Assurance Structure (as of July 2019)
+ Improving the Pharmacovigilance (PV) System
+Astellas is continuously improving its pharmacovigilance (PV) system by strengthening collaboration between its PV function and other relevant functions, affiliates and licensing partners. This is to respond to expansion of product strategies and advance the provision of trustworthy product information and proper product use, along with compliance with regulatory requirements.
+61
+
+ Astellas has been building a system to collect product safety information from a variety of sources. The Company annually provides product safety awareness training not only to staff closely involved with the PV function but also to all employees and contractors including affiliate staff, to maintain and strengthen swift and appropriate collection of product safety information. For external service providers outsourced by functions other than the PV function, Astellas adds requirements for the collection of product safety information in their contracts as necessary.
+Astellas has been maintaining safety information databases and procedures used globally to respond to environmental change. In fiscal 2018, it completed a major upgrade of its safety information database and procedures to respond to changes in regulatory requirements.
+Astellas is exploring utilizing real-world data such as large healthcare databases for evaluation of its product safety to help minimize risk by enhancing collaboration between PV and other functions. Furthermore, Astellas has started exploring and assessing automation technologies and artificial intelligence technologies that can be used for monitoring, processing and reporting of product safety information, and early identification and analysis of safety signals. We plan to use these technologies to strengthen our PV system.
+Close
+Technology Development & Manufacturing
+Stable Supply and Quality Control
+Astellas places highest priority on ensuring robust manufacture and stable supply of safe and effective pharmaceuticals to patients. To ensure this, we have established our own standards aligned with Good Manufacturing Practice (GMP) and Good Distribution Practice (GDP) as the basis for consistently achieving high levels of quality. We apply these standards to manufacturing facilities and equipment, and to all stages from raw material procurement and storage to production and shipment.
+Quality Audits
+Astellas has quality systems for auditing both internal sites and external manufacturing and distribution partners. The risk-based auditing approach determines the sites audit frequency and intensity.
+Internal audits are conducted on all Astellas organizations that conduct current Good Manufacturing Practice (cGMP) or current Good Distribution Practice (cGDP) activities at all points across the product lifecycle and across the supply chain, in accordance with documented policies and procedures.
+Quality audits for external partners are conducted for new or established customers of Astellas. Such audits are performed to evaluate compliance with cGMP and cGDP and applicable regulations at Astellas.
+In fiscal 2018, Astellas had a total of 337 audits, including 30 internal audits and 307 quality audits of external partners globally.
+Management Structure for Stable Supply
+Supply chains are becoming more complicated than ever due to the increase in global products and diversification of modality.
+Taking these environmental changes into account, in April 2019 Astellas built a framework to centrally manage demand forecasts, inventory information and supply plans for regions all over the world. This has enabled management of the global supply chain from manufacturing of drug substances through to product supply.
+ 62
+
+
+ In addition, the Company is advancing logistics compliance, including for imports and exports, and further strengthening its stable supply management.
+Shared Logistics for Stable Supply
+Astellas, Takeda Pharmaceutical Company Limited, Teva Takeda Pharma Ltd. and Teva Takeda Yakuhin Ltd. have co- established a shared storage and joint distribution platform in Hokkaido, Japan. The platform aims to ensure a diverse and stable supply of pharmaceuticals with adequate contingency, even in the event of a large-scale natural disaster, as well as enhancing efficiency and quality management of product distribution.
+Reductions in costs afforded by sharing logistics with the other companies have enabled us to set up a new logistics base. The joint distribution platform not only prevents a shortage of pharmaceuticals which may impact the health of patients but it also reduces the environmental burden through the reduction of carbon emissions.
+The platform was recognized by the Minister of Economy, Trade and Industry in the 2018 Excellent Green Logistics Awards hosted by the Ministry of Economy, Trade and Industry of Japan.
+Measures to Prevent Medical Malpractice and to Improve the Distinguishability of Pharmaceuticals
+Astellas strives to supply products from the users’ perspective to ensure that healthcare professionals and patients do not mistake one pharmaceutical for another. We are working to prevent medical malpractice in this respect, through measures including printing product names directly on capsules and tablets, as well as printing product names and dosage on packaging sheets (blister sheets) so that the product name and dosage can be easily identified even after the blister sheet is split apart.
+To prevent misreading of labeling on blister sheets, Astellas also endeavors to make products easier to identify visually by adopting easily discernible colors and font types for the blister sheets of certain products.
+Introducing Universal Design into Product Packaging
+Universal design packaging of Bonoteo 50mg tablets
+We have introduced universal design to certain product packaging. For example, the universal design packaging of Bonoteo 50 mg tablets, which is administered once every 4 weeks, features packaging with good openability. To prevent patients from forgetting to take the drug, there is an area provided on the packaging to write in the day when the drug should be taken. A small label to be used as a calendar is also attached. In addition, the packaging uses a universal design font type for easy reading.
+Relationship with Local Communities
+To promote sustainable pharmaceutical manufacturing, Astellas arranges opportunities for dialogue with local residents and communities near its manufacturing sites. By proactively disclosing its initiatives, Astellas is working to build good relationships with them.
+ 63
+
+ At the Kerry Plant in Ireland, Astellas has been holding annual events for 15 years with the local community to protect the environment, ensure health and safety, and save energy. Each year, the event themes revolve around environmental protection, health and safety, and energy conservation, and local children draw pictures with the themes. These are made into a calendar which is sold locally, with all proceeds donated to the Irish Kidney Association. Every year, over 1,000 entries are received from 12 schools, and the event is now being developed into a regular community event. Other activities include music events with donations to children's hospitals, cardiopulmonary resuscitation training in the community, and 5km Walk / Run in collaboration with the Pieta House, a non-profit organization which supports patients with mental illness and suicidality. We value our relationship with the local community. We received the SEAI*1 Award in 2017 and the Green Award*2 in 2019 as one of Ireland’s leading companies.
+*1 SEAI: Sustainable Energy Authority of Ireland is an Irish government-affiliated organization supporting the reduction of CO2 emissions. *2 Green Award: The leading platform for sustainability intelligence, leadership and innovation in the best green practice in Ireland.
+Close
+Provision of Product Information
+ Ensuring Proper Use
+Astellas’ Medical Representatives (MRs) provide information on appropriate usage based on on-label information to healthcare professionals to ensure that Astellas pharmaceutical products are used safely and effectively. In promotion of Astellas products, MRs act with high ethical standards and strictly comply with the applicable laws and regulations, industry codes and company policies including Astellas Group Code of Conduct.
+Medical Science Liaisons (MSLs) engage with healthcare professionals to exchange scientifically based information to advance their understanding and the safe and effective use of our products in patient care. MSLs also act with high ethical standards and provide reliable, clear, fair, balanced and unbiased medical and scientific information. MSLs refrain from promotion of products, and observe high ethical standards, making compliance their top priority.
+Responding to Inquiries
+Astellas has a responsibility to provide truthful, balanced and unbiased medical information in response to inquiries regarding our products. By fulfilling this responsibility, Astellas supports the safe and effective use of our products.
+In countries throughout the globe, we have Medical Information Call Centers that respond to a variety of inquiries. In our larger call centers, we have systems that allow for 24-hour responses to urgent inquiries, even on business holidays. In fiscal 2018, we responded to approximately 140,000 inquiries.
+Astellas makes continuous efforts to improve its medical information services, with the aim of providing accurate, appropriate and consistent information. As part of these efforts, a global medical information system is used where medical responses from group companies around the world are documented. This enables the responses to be communicated to our customers in a simple, swift and accurate manner. At the same time, we can analyze feedback from patients and medical professionals and inform the life cycle management of our products. We look forward to the implementation of a new global medical information system that will set the stage for new and improved services for our customers.
+Close
+64
+
+
+
+  Sustainable Procurement Initiatives
+Astellas considers it important to fulfill its social responsibilities across the entire supply chain. To achieve this goal, Astellas has formulated the Astellas Business Partner Code of Conduct, which requires business partners to implement initiatives in accordance with social responsibilities and sign the Acknowledgement of Astellas Business Partner Code of Conduct.
+Risk Assessments of Critical Suppliers
+Astellas conducts a global assessment that includes an evaluation of sustainability risk in the selection process for critical suppliers*, the suppliers that have a particularly significant impact on Astellas’ business continuity. The sustainability risk assessment involves judging a risk level based on a combination of the supplier’s response to a questionnaire, external database information, a basic assessment by in-house experts on risks related to sustainability such as human rights, the environment, occupational health and safety and personal information protection, and, if necessary, the results of a local on-site audit carried out by an Astellas employee. The questionnaire was revised in fiscal 2018 to improve the accuracy of the risk assessment and operations started in Japan, North America and Europe from February 2019.
+If Astellas identifies a risk that can be improved during the supplier selection process it encourages the supplier to make the improvement and monitors its initiatives. Astellas does not engage in business if it designates a critical risk it judges will be difficult to improve.
+Moreover, business divisions continue monitoring risk status even after business transactions have begun and the supplier’s sustainability risk level is assessed at least once in five years through a questionnaire and on-site audits. If necessary, suppliers can be re-assessed within that five-year period.
+* Suppliers judged to have a significant impact on Astellas’ business continuity, including suppliers of raw materials (regardless of whether they are direct or indirect materials), operations outsourcers, pharmaceutical wholesale companies, sales alliance partners and banks. Critical suppliers accounted for approximately 10% of primary suppliers (total for Japan, North America and Europe) in the year ended March 2019.
+On-site Audits of Suppliers
+In the year ended March 2019, Astellas employees carried out on-site audits and risk assessments related to such matters as wastewater treatment plants, employees’ working environments and initiatives to prevent employees from being exposed to chemical substances. In cases where items were pointed out, Astellas indicated an improvement proposal, requested a plan for corrective measures be drawn up and is currently following up on progress of the improvements based on the corrective measures plan.
+Close
+ Procurement
+ Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+65
+
+
+ Home > Annual Report > Business Review > Our People, Our Organization
+Annual Report 2019
+Our People, Our Organization
+Astellas recognizes employees as important stakeholders. Astellas employees play the most valuable role in transforming the Company and in achieving enhanced levels of enterprise value. We are working to train employees and strengthen their competitiveness.
+Astellas is fostering a corporate culture that aims to align the aspirations of its diverse employees in one direction to realize its business philosophy.
+HR Vision
+Providing Opportunities for Employees to Succeed Globally Diversity Management
+Promoting Health Management
+Occupational Health & Safety
+Respect for Human Rights
+         Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+66
+
+Home > Annual Report > Business Review > Our People, Our Organization > HR Vision
+ Annual Report 2019
+ HR Vision
+Astellas has formulated a Human Resources (HR) Vision, which represents its approach to “Our People, Our Organization,” and this vision is shared globally to define its aspirations for its human resources and its organization. Making Astellas’ VISION a reality requires individual employees to understand the HR Vision and to act based on the Astellas Way.
+As part of its activities to achieve these goals, Astellas is focusing on activities to disseminate the HR Vision. Specifically, this involved translating the HR Vision into various languages, conducting training and meetings for managers, and even reflecting the vision in personnel measures.
+Astellas will increase the competitiveness of its human resources and organization by spreading and implementing the HR Vision and the Astellas Way. Moreover, Astellas will bring together individuals from diverse backgrounds within the Company to surmount national, regional and organizational barriers, foster mutual respect, and unite our people to continuously achieve innovation.
+Overview of the HR Vision
+    Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+67
+
+Home > Annual Report > Business Review > Our People, Our Organization
+> Providing Opportunities for Employees to Succeed Globally
+ Annual Report 2019
+Providing Opportunities for Employees to Succeed Globally
+Astellas provides employees with opportunities to succeed globally in a variety of ways. In Japan, we have established an internal recruitment system to revitalize our organization and support employees in developing their own abilities and growing, while encouraging our people to succeed in roles at various overseas bases by proactively appointing employees from each division to be assigned abroad. In addition, we accept long-term and short-term assignees from Group companies outside Japan. In these and other ways, we are working to promote global interaction among our people at the divisional level.
+  Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+ 68
+
+ Home > Annual Report > Business Review > Our People, Our Organization > Diversity Management
+Annual Report 2019
+Diversity Management
+Astellas is working to promote diversity so that diverse individuals can play a role, irrespective of race, nationality, gender, or age. Respecting the diverse values of our employees and reflecting their various perspectives in our business activities not only heightens creativity in our organization but also helps to attract and retain talented people as employees and enhances our competitiveness.
+Based on this recognition, Astellas implements measures led by its personnel functions in each region to promote diversity in line with the current situation in the region. For Astellas, promoting the career advancement of women in Japan is a high priority, particularly because the country has a low ratio of women in management positions compared to other regions, and the Company aims to develop a work environment and foster awareness among employees so that life events do not hinder career advancement.
+In the year ended March 2019, Astellas acquired the Kurumin Mark as a company supporting employee child-raising from the Minister of Health, Labour and Welfare, based on the Act on Advancement of Measures to Support Raising Next- Generation Children. Astellas has also been selected by the Ministry of Economy, Trade and Industry and the Tokyo Stock Exchange as a Nadeshiko Brand company actively promoting women’s success in the workplace. Male/Female.
+Employee Ratio per Region and Ratio of Female Managers (The year ended March 2019)
+Male 71.2% 44.6% 41.0% 46.1% 54.6%
+Female 28.8% 55.4% 59.0% 53.9% 45.4%
+    Japan
+ Americas
+  EMEA
+ Asia & Oceania
+ Average
+  Ratio of female managers
+  9.1%
+ 50.1%
+   50.2%
+ 51.7%
+ 34.2%
+ Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+69
+
+ Home > Annual Report > Business Review > Our People, Our Organization > Promoting Health Management
+Annual Report 2019
+Promoting Health Management
+If each employee realizes a high level of productivity and creativity and practices a workstyle that enables self-fulfillment, this will revitalize the organization and lead to its growth as One Astellas. The underlying condition for realizing these ways of working is the good health of the employees. Based on this thinking, in Japan, Astellas is promoting a health management that encourages employees to take control of looking after their health.
+Specifically, in cooperation with the health insurance association (“collaboration health”), the Company is promoting improving employee health and disease prevention, and developing measures that include supporting mental health, preventing overwork, and countering second-hand smoking.
+   Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+70
+
+Home > Annual Report > Business Review > Our People, Our Organization > Occupational Health & Safety
+ Annual Report 2019
+ Occupational Health & Safety
+We have the Astellas Environment, Health & Safety Policy in place to prevent work-related accidents and minimize those caused by workplace mishaps and hazards. Under this policy, each facility is independently building Environment, Health & Safety management systems and promoting associated initiatives. We are also working to ensure occupational safety from many different perspectives based on the information we share on accidents and near misses that have occurred at our workplaces around the world.
+From 2017, Astellas expanded its scope of management and began global consolidation*1. From January to December 2018, there were no work-related fatalities, while there were 19 cases of injury requiring leaves of absence. The longest leave of absence was 125 days due to a traffic accident. We are working to further reduce risks in the future with the goal of achieving a global severity rate of work-related injuries of less than 0.005.
+Frequency rate of work-related injuries*2 was 0.55 and severity rate of work-related injuries*3 was 0.009 on a global basis. We will strive to reduce our occupational safety risks with the goal of holding our severity rate of work-related injuries under 0.005 on a global basis.
+*1 The totals by region for global and outside Japan have been disclosed since 2017.
+*2 Frequency rate of work-related injuries: This rate shows the number of employee deaths or injuries resulting from work-related accidents causing leaves of absence per million hours of work. The larger the number, the more frequently work-related injuries occur.
+*3 Severity rate of work-related injuries: This rate shows the number of days absent from work due to work-related injuries per thousand hours of work. The larger the number, the more serious the injury.
+  Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+71
+
+Home > Annual Report > Business Review > Our People, Our Organization > Respect for Human Rights
+ Annual Report 2019
+ Respect for Human Rights
+The Astellas Charter of Corporate Conduct and the Astellas Group Code of Conduct clearly state that members of the Astellas Group shall respect human rights and the personality and individuality of all its employees, observe all applicable international rules and local regulations, and embrace all cultures and customs. The recognition of the importance of respecting human rights is shared by Group companies worldwide.
+Astellas disclosed its Position on Human Rights in April 2017. Wherever we operate, Astellas is committed to complying with internationally recognized basic human rights and labor standards as well as applicable local labor and employment laws, and to implementing and upholding the UN Guiding Principles on Business and Human Rights. Also, Astellas conducted a human rights impact assessment and has identified four human rights issues to which we pay particular attention as human rights in clinical trials and other research and development activities, product safety and counterfeit drugs, Access to Health and human rights in the workplace. Under the U.K. Modern Slavery Act 2015, we publish a Slavery and Human Trafficking Statement for each fiscal year, describing what steps we have taken to address this risk in our own operations or our supply chains.
+We have established a system for swiftly responding to human rights issues that includes the setting up of external and internal helplines, as well as conducting training sessions for employees. Moreover, we have been globally confirming the awareness of human rights issues in the workplace and the status of human rights activities at our Group companies by conducting written surveys. In the year ended March 2019, there were no critical human rights issues or other issues of common, worldwide concern reported in the survey.
+     Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+72
+
+ Home > Annual Report > Business Review > Ethics & Compliance
+Annual Report 2019
+Ethics & Compliance
+Astellas believes that acting in accordance with the highest ethical standards, which includes following the letter and spirit of the law, is the cornerstone of all our activities. Based on this belief, the Astellas Charter of Corporate Conduct, which is shared globally, expresses the Company’s ethical business philosophy in terms of corporate behavior. In addition, the Astellas Group Code of Conduct is a global code for everyone who works for Astellas in any location around the world and in any capacity whatsoever as a director, officer, employee, temporary worker, or otherwise, whether full- time or part-time, establishing that they are expected to perform their duties ethically and in compliance with laws and regulations. Also, we seek to ensure that third parties acting on behalf of Astellas comply with all relevant standards described in the Code. To demonstrate this commitment, Astellas employees are evaluated annually, in part, on ethical and compliant behavior.
+Astellas promotes compliance and maintains the highest ethical standards through the development, implementation and continuous enhancement of its policies, processes, and global compliance structures and thereby maintains the trust of patients and other stakeholders and enhances enterprise value.
+Structured to Promote Ethics and Compliance
+Initiatives to Promote Compliance
+Helpline for Employees and Encouraging a Speak-Up Culture Anti-Bribery Anti-Corruption Compliance
+Data Privacy
+Ensuring Fair Competition
+         Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+73
+
+ Home > Annual Report > Business Review > Ethics & Compliance > Structured to Promote Ethics and Compliance
+Annual Report 2019
+Structured to Promote Ethics and Compliance
+Astellas has been continuously enhancing the organizational structure for the Ethics & Compliance function. In fiscal 2018, Astellas created a new compliance investigations team, which will be dedicated to conducting internal compliance investigations across the globe in fiscal 2019. The new global operating model accompanying this change will allow Astellas to more fully centralize internal compliance investigations, enhance the focus on consistent root cause analysis globally, and apply a more consistent global standard while still being respectful of local cultural and legal differences.
+The group operations team in the Ethics & Compliance function continues to drive consistency on a global basis for activities that are core to the Ethics & Compliance program, such as training, communications, risk assessments, monitoring, compliance policies/processes and investigation processes.
+Our Ethics & Compliance professionals continue to partner with the business to reinforce the importance of integrating integrity, ethics and compliance into business processes as doing so is critical to the sustainable success of Astellas.
+Global Compliance Structure (As of March 31, 2019)
+    Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+74
+
+Home > Annual Report > Business Review > Ethics & Compliance > Initiatives to Promote Compliance
+ Annual Report 2019
+Initiatives to Promote Compliance
+Compliance Training and Communications
+Compliance training and communications targeted at the business are important to conducting business activities grounded on high ethical standards and integrity. Astellas regularly educates employees on both existing and emerging compliance risks as well as policies and processes that help us manage those risks. In fiscal 2018, the Ethics & Compliance function deployed multiple online and live training programs to foster compliance awareness and understanding among employees. These training programs included updated anti-bribery/anti-corruption compliance training for employees in high-risk functions, new ethical decision-making training for senior leaders and updated Code of Conduct training. In addition, all of the global Ethics & Compliance training programs deployed in fiscal 2018 included a survey to determine training effectiveness. The results of these surveys will assist Astellas in ensuring training programs are meeting the needs of employees and in turn, update the training to make it even more effective.
+Astellas’ Integrity in Action program reinforces the importance of taking responsibility, acting ethically and leading by example. As part of Astellas’ ongoing commitment to this program, our training and communication materials continue to embed the Astellas Way values and a patient-focused mindset, so employees can see how policies and procedures help them live the Astellas mission.
+All employees, including new employees, are required to complete compliance training on topics such as the Astellas Group Code of Conduct, data privacy, anti-bribery and anti-corruption compliance, and conflicts of interest.
+Close
+Continually Enhancing and Sustaining an Ethical and Compliant Culture at Astellas
+Astellas leaders and managers are critical to the effective promotion and protection of the Astellas core values of integrity, ethics and compliance within their teams. In fiscal 2018, Ethics & Compliance function deployed workshops to leaders and managers dedicated to providing insight into key ethical concepts that impact decision-making and the practical tools leaders and managers can use, as well as help their teams use, to support ethical decision-making. Employees who participated received four months of follow-up ethics-related materials to reinforce the concepts learned in the workshop.
+Close
+    Compliance Risk Assessments
+ 75
+
+
+
+ The ability to effectively assess compliance risk at local, regional and global levels is a foundational element of Astellas’ compliance program. These assessments enable Astellas to more quickly identify and better respond to existing and emerging compliance risks.
+The internal activities assessed in compliance risk assessments (“CRAs”) continue to include transfers of value in any form to healthcare professionals, market access activities, interactions between the Company and government officials or healthcare professionals, and meals, gifts, or hospitality.
+In fiscal 2018, Astellas continued to conduct CRAs based on a globally consistent process, in a number of countries around the globe. The CRAs involved both the assessment of external environmental risk in each of the countries as well as assessment of internal risks within the affiliate arising from business operations. The results are discussed with the local management team to develop a Risk Mitigation Plan, which is then tracked until closure. The findings of the CRAs continue to help Astellas enhance compliance programs in each country, and monitor trends in risks at the regional and global levels. The Ethics & Compliance function works closely with the business throughout the assessment process and helps develop and support any risk mitigation plans developed to address the identified risks.
+Close
+Compliance Monitoring
+Compliance monitoring is a key component of any compliance program. Astellas monitors existing and emerging compliance risks and trends across a variety of activities. Doing so allows us to better anticipate potential issues before they become actual problems for the Company. In fiscal 2018, Astellas continued to enhance its monitoring program and activities in each region. Compliance monitoring yielded results that not only informed our compliance program, but also provided management with insights to inform their decision-making on various process improvements. One of the many positive outcomes of our ongoing enhancements to the monitoring program this year was the creation of monitoring tools that enable Ethics & Compliance to provide visualizations of monitoring results on demand.
+Close
+Conflicts of Interest
+Another core element of an effective ethics and compliance program is how a company approaches its own conflicts of interest. That is because the foundation of an effective and robust ethics and compliance program is based on how a company manages its own internal behavior.
+Conflicts of interest refer to situations where outside activities or other personal interests impair an employee’s objectivity or judgment when performing their duties. Conflicts of interest also encompass situations where there is a potential conflict between the interests of an employee and Astellas. The Astellas Global Conflict of Interest Policy and accompanying training reinforces for our employees that they are expected to conduct their business activities with ethics and integrity even when no one is observing or there are no potential legal violations. Astellas believes that maintaining this baseline expectation regarding internal conflicts of interest contributes to our employees conducting their business with ethics and integrity when engaging with stakeholders outside the Company and where legal risks are involved. Engagement in the disclosure process and global training efforts continue to enhance the ability of internal stakeholders to identify potential conflicts, resulting in increased business ownership of compliance.
+  Close
+76
+
+
+
+
+  More and more countries and government organizations are requiring transparency with respect to pharmaceutical company relationships with healthcare professionals and healthcare organizations. Astellas engages in appropriate relationships with healthcare professionals and organizations throughout the world. The disclosure of relevant financial relationships with healthcare professionals and organizations reflects our commitment to corporate accountability to both internal and external stakeholders. Astellas is committed to fulfilling its transparency requirements through the work of its global transparency team in coordination and collaboration with multiple business functions across the organization.
+In Japan, Astellas has continued to make public financial relationships with healthcare professionals or organizations and patient organizations in accordance with the Transparency Guideline published by the Japan Pharmaceutical Manufacturers Association. In the Americas, Astellas adheres to reporting requirements set forth by the federal Sunshine Act, U.S. state laws, and Brazil state reporting requirements. Across Europe, Astellas discloses transfers of value to healthcare professionals or organizations based on the disclosure requirements established by the European Federation of Pharmaceutical Industries and Associations. In Australia, Astellas’ external transparency reporting meets the requirements of Medicines Australia’s Code of Practice.
+Close
+Transparency
+ Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+77
+
+
+Home > Annual Report > Business Review > Ethics & Compliance
+> Helpline for Employees and Encouraging a Speak-Up Culture
+ Annual Report 2019
+Helpline for Employees and Encouraging a Speak-Up Culture
+In fiscal 2018, Astellas continued to have helplines available globally so employees can report and receive advice on how to react in the event they discover actual or suspected misconduct. Reports may be made by employees or third parties and may be made anonymously where permitted by local law.
+In some countries including Japan, Astellas continues to have internal helplines in addition to the global external helpline.
+Astellas continues to foster an environment that encourages employees to use the helplines and speak up to report potential or actual violations of the Astellas Group Code of Conduct, as well as any other illegal or unethical behavior or business practices. In addition, Astellas strictly prohibits retaliation against anyone who raises a concern or reports a suspected compliance violation in good faith even if the concern or report is not substantiated after investigation. Astellas regularly reinforces the importance of speaking up and the responsibility that employees have in reporting concerns through Astellas’ global SpeakUp campaign which includes posters, communications, presentations,
+etc. supported by a visual theme.
+Having the ability to centrally manage the reports of suspected non-compliance and the corresponding investigations also enhances Astellas’ ability to analyze compliance trends globally. In fiscal 2018, Astellas’ helplines continued to receive reports in each region. Matters raised included potential harassment and promotional code violations. In response, thorough investigations were conducted and appropriate action was taken. Compliance helpline statistics are analyzed and reported to the Regional and Global Compliance Committees on a regular basis.
+   Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+ 78
+
+Home > Annual Report > Business Review > Ethics & Compliance > Anti-Bribery Anti-Corruption Compliance
+ Annual Report 2019
+Anti-Bribery Anti-Corruption Compliance
+Astellas strictly prohibits bribery and corruption in any aspect of its business, consistent with the organization’s commitment to conducting its business with ethics and integrity. One critically important compliance priority is to manage bribery and corruption risk arising from the engagement of third parties that provide services on our behalf.
+Astellas must contract with third parties across the globe to conduct its business but recognizes that these relationships can raise bribery and corruption risk, particularly if the third party engages with healthcare professionals or government officials on our behalf.
+A core principle of our anti-bribery/anti-corruption compliance program is to ensure that the Company does not allow third parties to engage in activities that we prohibit for our own employees. To adhere to this principle and mitigate and manage this risk arising from third parties providing services on our behalf, Astellas has a process in place to conduct bribery and corruption compliance due diligence assessments on third parties interacting with healthcare professionals or government officials on our behalf.
+From this assessment, Astellas can determine the level of bribery and corruption risk it will be taking on by contracting with the third party and take appropriate measures to manage this risk. Such measures include requiring the third party to implement its own bribery and corruption compliance policy and program, train its employees on bribery and corruption compliance, and allow Astellas to oversee the third party’s bribery and corruption compliance program.
+  Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+ 79
+
+ Home > Annual Report > Business Review > Ethics & Compliance > Data Privacy
+Annual Report 2019
+Data Privacy
+Astellas is committed to conducting its business throughout the world in accordance with applicable laws and high ethical standards. That commitment extends to how we obtain and use personal information that is essential for our business.
+Healthcare professionals, patients, suppliers and employees all share their personal information with Astellas, and entrust us to keep that information safe, use it appropriately and handle it with care. To ensure we always handle personal information in a compliant and appropriate way, Astellas has incorporated key privacy principles into its policies and practices.
+Specifically, personal information must be
+(1) processed lawfully, fairly, and transparently;
+(2) collected for specific, legitimate, and explicit purposes;
+(3) adequate, relevant, and limited to what is necessary;
+(4) accurate, and where possible, kept up to date;
+(5) retained only for as long as necessary; and
+(6) kept secure and protected against loss or inappropriate access or disclosure.
+   Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+80
+
+ Home > Annual Report > Business Review > Ethics & Compliance > Ensuring Fair Competition
+Annual Report 2019
+Ensuring Fair Competition
+Astellas is committed to conducting its business in a fair and competitive environment and does not reach any agreements with its competitors regarding sales conditions, such as prices, sales plans and strategies, and market and customer shares. We limit our engagement with competitors and avoid any conversation concerning these topics when engagement is necessary, so that such interactions are not construed to reflect the existence of such an agreement.
+   Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+81
+
+Home > Annual Report > Business Review > Access to Health
+ Annual Report 2019
+Access to Health
+Position on Access to Health
+Advances continue to be made in technology and medicine that address unmet medical needs. However, there still remain barriers for many people who have difficulty accessing the healthcare they need due to the lack of available treatments, poverty, healthcare system challenges and insufficient healthcare information.
+Astellas' raison d'être is to contribute toward improving the health of people around the world through the provision of innovative and reliable pharmaceuticals products. Guided by this corporate philosophy, our main efforts to expand Access to Health lie in discovering, developing and providing innovative medicines for patients. Astellas also works to advance Access to Health by engaging in initiatives in areas where improvements are needed for healthcare. To improve Access to Health, Astellas has identified four areas where we can leverage our strengths, technologies and expertise to contribute to better global health. These areas are “creating innovation”, “enhancing availability”, “strengthening healthcare system” and “improving health literacy”.
+Initiatives which contribute to improve global health will help facilitate Access to Health. At the same time, we believe that these initiatives will lead to enhancement of our enterprise value. In order to develop these activities, Astellas considers working with relevant partners where appropriate and will continue to work with and maintain a close dialogue with stakeholders.
+For further information on Position on Access to Health, please visit here.
+  Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+ 82
+
+ Home > Annual Report > Business Review > Access to Health > Research Activities on Tuberculosis and Malaria
+Annual Report 2019
+Research Activities on Tuberculosis and Malaria
+Collaborative Research on New Drugs for the Treatment of Tuberculosis and Malaria
+Astellas is pursuing collaborative research to discover new drugs for the treatment of tuberculosis and malaria, which are infectious diseases that cause tremendous suffering among people in developing countries.
+In 2016, 10.4 million people fell ill with tuberculosis, while more than 200 million people contracted malaria. 1.7 million people* died of tuberculosis while 445,000 people died of malaria. Both tuberculosis and malaria have led to serious social problems, underscoring the urgent need for innovative drugs to treat these diseases.
+Considering these backgrounds, in October 2017, Astellas entered into a new collaborative research agreement with TB Alliance for the exploration of new drugs for the treatment of tuberculosis and a screening collaboration agreement with Medicines for Malaria Venture (MMV) to discover new drugs for malaria.
+Under these agreements, Astellas will provide its original library of compounds, while TB Alliance and MMV will conduct screenings of the library to discover hit compounds to be used in the research and development of new tuberculosis and malaria drugs, respectively.
+These research programs are funded by the Global Health Innovative Technology Fund (“GHIT Fund”). * Figure includes 0.4 million people infected with HIV
+   Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+83
+
+ Home > Annual Report > Business Review > Access to Health > Research Activities on NTDs
+Annual Report 2019
+Research Activities on NTDs
+Participation in the Neglected Tropical Diseases Drug Discovery Booster
+In March 2018, Astellas participated in the Neglected Tropical Diseases Drug Discovery Booster*1, a consortium whose purpose is to identify lead compounds*2 for leishmaniasis and Chagas disease, both of which are neglected tropical diseases (NTDs). The consortium is supported by funding from the Global Health Innovative Technology Fund (“GHIT Fund”).
+NTDs are mainly parasitic, bacterial, viral or fungal infections prevalent among people living in poverty in developing nations in tropical and subtropical regions. At least 1 billion people worldwide are reported to be infected with the 20 NTDs listed by the World Health Organization (WHO), many of which cause serious social difficulties.
+Through the consortium, Astellas will contribute to the discovery of new drugs for patients suffering from leishmaniasis and Chagas disease.
+*1 Neglected Tropical Diseases Drug Discovery Booster: A consortium launched by the Drugs for Neglected Diseases initiative (DNDi), a not-for- profit organization engaged in the development of new treatments for neglected diseases. In addition to Astellas, seven pharmaceutical companies, specifically Eisai Co., Ltd., Shionogi & Co., Ltd., Takeda Pharmaceutical Company Limited, AstraZeneca plc., Celgene Corporation, Merck KGaA, and AbbVie, also participate in the consortium as partners.
+*2 Lead compound: A compound with confirmed pharmacological activity against a target disease. Optimization research (for improvement of activity, physical properties, pharmacokinetics, toxicity, etc.) is conducted based on lead compounds.
+Advisory to the collaborative research for discovery of new drugs against Chagas disease
+Since October 2018, Astellas has given advice to the project, “Target determination and exploratory research for discovery of new drugs against Chagas disease” as an advisory. The project has been conducted by Institute of Tropical Medicine, Nagasaki University (NEKKEN) with High Energy Accelerator Research Organization (KEK), London School of Hygiene and Tropical Medicine (LSHTM), and National Institute of Advanced Industrial Science and Technology (AIST).
+Astellas and AIST had conducted the collaborative research concerning Chagas disease from April 2016 to September 2017. As a part of this project, basic technology for the discovery of molecules essential for the protozoan parasite survival was developed using genome editing technology, thereby making it possible to select highly suitable target molecules for drug discovery. This result has been used in the project, “Target determination and exploratory research for discovery of new drugs against Chagas disease”.
+   Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+84
+
+Home > Annual Report > Business Review > Access to Health
+> Development of Pediatric Formulation for Schistosomiasis
+Annual Report 2019
+Development of Pediatric Formulation for Schistosomiasis
+Schistosomiasis is one of the most prevalent parasitic diseases in developing countries, notably in Africa and South America. The disease has a particularly high incidence among children. The existing “standard of care” treatment for schistosomiasis is praziquantel. However, at present, the group of infected preschool-age children, including infants and toddlers, is left untreated in public health
+programs due to lack of relevant clinical data and a missing appropriate child-friendly formulation of the drug. Young children cannot swallow the existing tablet because of its large size and bitter taste.
+Having set up a consortium with other pharmaceutical companies, research institutions and international non-profit organizations, Astellas is developing a pediatric formulation of praziquantel.
+The pediatric formulation newly developed by Astellas uses proprietary drug formulation technology to create a smaller, orally dispersible tablet of reduced bitterness that can be taken without water. The pediatric formulation has also been designed for manufacturing at reduced cost using simple production technology, yielding tablets that are stable even in hot and humid tropical climates. To facilitate production of materials for clinical trials and help build local pharmaceutical manufacturing capabilities, Astellas has transferred to consortium partners in Brazil and Germany the technology and expertise needed to develop the pediatric formulations.
+    After successful completion of Phase II clinical studies, the consortium program is currently preparing for Phase III clinical trials to gain registration and facilitate access to a novel orally dispersible tablet formulation for children. Astellas is committed to providing the consortium with all necessary technical expertise.
+*Consortium activities are also supported by grants from the Global Health Innovative Technology Fund, the Bill and Melinda Gates Foundation, and the European and Developing Countries Clinical Trials Partnership (EDCTP).
+    Newly developed pediatric formulation (top) and existing tablet (bottom)
+    Pediatric Praziquantel Consortium partners and project contributors
+©Global Health Innovative Technology Fund
+  85
+
+ This movie was created by GHIT Fund on July 2019
+   
+ Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+86
+※
+
+ Home > Annual Report > Business Review > Access to Health > Access Accelerated
+Annual Report 2019
+Access Accelerated
+   Astellas has participated in Access Accelerated*1 since its launch in January 2017. Access Accelerated is a global initiative aimed at improving access to non-communicable diseases (NCDs) prevention, diagnosis and treatment in low and middle income countries. More than 20 international pharmaceutical companies are partners in the program, working alongside organizations such as the World Bank, City Cancer Challenge, PATH, NCD Alliance and World Heart Federation.
+Since Access Accelerated was launched in January 2017, 90 programs are actively addressing NCDs prevention, treatment and care as collective actions in first 2 years.
+NCDs are any diseases not caused by human-to-human transmission of an infectious agent. Leading NCDs include cancer, cardiovascular disease, chronic respiratory disease and diabetes. Many NCDs are caused by unhealthy eating, lack of exercise, smoking or excessive drinking, and could be prevented by lifestyle improvement. NCDs are not just on the increase in developed countries, but the number of patients suffering from NCDs is also increasing in developing countries. The rising incidence of NCDs not only puts pressure on the healthcare budgets of developing countries, but also leads to economic losses when patients cannot work due to illness.
+Access Accelerated Website
+Link to Press Release released by Access Accelerated pdf 428KB
+Our Commitment
+     87
+)(
+
+ *This information describes Astellas’ support for the initiative as of January 18, 2017
+Link to Press Release released by Astellas pdf 292KB
+Astellas’ activities for Access Accelerated
+Under Access Accelerated*1, Astellas supports ACTION ON FISTULATM, a pioneering program which has transformed the lives of over 4,738*2 women in Kenya who are suffering with obstetric fistula. As part of this program, Astellas worked to present its activities and raise public awareness of obstetric fistula through various occasions.
+In 2017, Astellas launched a new initiative in India structured according to patients’ income levels, with the aim of improving their access to its anticancer products. Moreover, in 2018, Astellas supported City Cancer Challenge initiative at Cali city, Colombia. Astellas will continue to push ahead with activities that improve patients’ access to the prevention, diagnosis, and treatment of NCDs in low and middle income countries.
+*1 For details about Access Accelerated, please visit the following website:
+http://www.accessaccelerated.org/
+*2 As of 31st March 2019
+Achievements of Access Accelerated
+Access Accelerated annual reports introduce achievements of Access Accelerated. After its launch on January 18, 2017, 27 company programs were launched or extended in 2017 and 2018. ACTION ON FISTULATM, a program to transform the lives of women in Kenya with fistula, is introduced in this report.
+Access Accelerated Year One Report Access Accelerated Year Two Report
+Through participation in Access Accelerated, Astellas is helping to achieve the United Nations Sustainable Development Goal to reduce premature deaths from NCDs by one-third by 2030, in collaboration with various partners.
+       
+88
+)(
+
+ Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+89
+
+ Home > Annual Report > Business Review > Access to Health > ACTION ON FISTULATM
+Annual Report 2019
+ACTION ON FISTULATM
+ACTION ON FISTULATM was conceived, built and is run by the Fistula Foundation. It was started in 2014 by a grant given to the Fistula Foundation from an affiliate of Astellas, Astellas Pharma Europe Ltd. By 2020, ACTION ON FISTULATM aimed to help more than 4,500 patients in total to access fistula treatment. Since 2014, 4,738*1 surgeries have been carried out, transforming the lives of women in Kenya who are suffering with obstetric fistula*2. The Fistula Foundation and Astellas jointly funded the first phase of the program, which ran from 2014 to 2017.Astellas provided funding of €1.5 million (approximately 50% of the total) and the remaining was provided by the Fistula Foundation. In this phase, the program improved the lives of patients with obstetric fistula while simultaneously training doctors who would be able to provide surgical treatment in Kenya. The program also set up the Fistula Treatment Network to extend access to services, with 6 hospitals enrolled and providing fistula surgeries on a routine basis.
+The second phase of ACTION ON FISTULATM is scheduled to run from 2017 to 2020. Astellas has committed to continue supporting the Fistula Foundation for this phase. Astellas is funding €0.75 million (approximately 25% of the total) and the remaining was funded by the Fistula Foundation. In the second phase of the program, ACTION ON FISTULATM aims to build capacity to deliver ongoing treatment and provide surgeries to even more patients with obstetric fistula.
+Specifically, the program aims to increase the number of hospitals enrolled in the Fistula Treatment Network to 8 hospitals, train an additional 6 surgeons specializing in fistula, and train an additional 10 fistula nurses. In addition, ACTION ON FISTULATM wants to help fistula patients who have undergone treatment with emotional assistance, economic empowerment and employment support so that they can return to their communities. To this end, the program plans to establish 20 support groups that will be enrolled in the Fistula Treatment Network.
+*1 As of 31st March 2019
+*2 An obstetric fistula is a hole between the vagina and rectum or bladder that is caused by prolonged obstructed labor when emergency care is unavailable, causing fecal and/or urinary incontinence. Although it has been virtually eradicated in developed countries, the UNFPA estimates 3,000 new cases of obstetric fistula occur annually in Kenya. Women with obstetric fistula are often subject to severe social stigma due to odor, which is constant and humiliating,
+often driving the patients’ family, friends and neighbors away. Stigmatized, these women are also often denied access to education and employment and live in isolation and poverty.
+       90
+
+ Progress in ACTION ON FISTULATM
+Centers in the Fistula Treatment Network
+Kenyan counties reached
+Trained community outreach workers
+Conducted outreach activities
+Community members reached with fistula messages
+May 2014 – 31st March 2019
+   Patients successfully treated with reconstructive surgery
+  4,738 patients
+   Trained and certified doctors to the standard level of competency
+   9 Kenyan doctors
+ 6 centers
+47 counties
+350 outreach workers
+14,677 activities
+1,303,257 community members
+   FIGO-accredited fistula training center
+   Established Gynocare Women’s and Fistula Hospital in Eldoret, Kenya
+           A fistula survivor and advocate addresses patients at the Gynocare Women’s and Fistula Hospital in Kenya.
+    Fistula survivors participating in Beyond Fistula, a skills building and empowerment program offered to patients waiting for or recovering from surgery at the Gynocare Women’s & Fistula Hospital in Eldoret, Kenya.
+  Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+91
+)(
+
+ Home > Annual Report > Business Review > Social Contribution
+Annual Report 2019
+Social Contribution
+Policy on Social Contribution
+Astellas’ raison d'être is to contribute toward improving the health of people around the world through the provision of innovative and reliable pharmaceutical products. Our company Charter of Corporate Conduct further states that as good corporate citizens, we shall actively engage in charitable and other activities that benefit society. Astellas believes that we need to enhance our sustainability through earning trust from society for both Astellas and our products.
+Astellas aims to conduct all of our activities strategically to ensure they create sustainable, long-term benefit for our patients and communities around the world. Astellas will utilize our resources (e.g., people, skills, expertise) to implement our social contributions effectively. Astellas will partner with industry associations, charitable organizations and other stakeholders to contribute to addressing healthcare-related challenges that cannot be solved by a single entity. Astellas evaluates and measures the impact of our social contribution activities based on well-accepted, identifiable metrics and will modify and adjust future goals where appropriate. Astellas will report on our activities in an appropriate manner to our stakeholders.
+Based on the relevance to Astellas’ core business and societal expectation of Astellas, we will focus our resources for social contribution in three areas listed below in order of priority.
+1st priority: Addressing Access to Health issues
+2nd priority: Advancement of Medical Sciences
+3rd priority: Philanthropy/Community Development
+For further information on Policy on Social Contribution, please visit here.
+    Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+92
+
+ Home > Annual Report > Business Review > Social Contribution > AECEP Overseas Volunteer Program
+Annual Report 2019
+AECEP Overseas Volunteer Program
+Astellas has run a social contribution program called the Astellas Emerging Countries Empowerment Program (AECEP) since fiscal 2016.
+The AECEP is a program that allows Astellas employees to utilize individual specialist expertise, skills and experience to help address societal issues in emerging countries in partnership with local enterprises and non-governmental organizations (NGO). After completing a 1.5-month preparation period, employees volunteering as AECEP participants are assigned for a limited period of 3.5 months to work at a partner enterprise or NGO engaged in projects to develop solutions benefiting society in the recipient country.
+Partners are selected from among local enterprises and NGOs involved in addressing medical, health and safety issues or environmental problems. Gaining a valuable learning experience when addressing local social issues with committed leaders and community members, participants can also contribute to building and improving partners’ systems by leveraging their personal experience and abilities to help maximize the effectiveness of their activities. The reciprocal and equal nature of this relationship is the key characteristic of the AECEP in terms of contributing to society.
+In the year ended March 2019, the third year of the program, two employees were selected as participants. One was assigned to an organization in the Philippines that promotes human health and assists poor farming communities through the promotion of organic farming techniques. Overcoming unfamiliar conditions and language barriers, the participant organized cooking classes for local communities while helping to raise awareness of organic vegetables and expanding numbers of consumers.
+The other participant was assigned to an organization in Indonesia that runs reproductive health clinics and organizes related educational programs. These activities help diagnose and treat medical conditions early while contributing to disease prevention. Both participants received warm words of gratitude from members of their assigned organizations.
+      Indonesia: Astellas employee (far left) involved in reproductive health issues
+    Philippines: Astellas employee (far right) discussing promotion of organic farming with staff from local partner organization
+ 93
+
+ Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+94
+
+ Home > Annual Report > Business Review > Social Contribution > Support for Patients
+ Annual Report 2019
+Support for Patients
+Astellas conducts a variety of activities to provide assistance to patients fighting illnesses, and to their family members, on a global basis. Astellas supports the self-reliance and independent development of patients associations in Japan as “Starlight Partners Activities.”. As one aspect of that, Astellas provided approximately ¥6 million in activity funding to 29 organizations through a public application process in the year ended March 2019. Peer Support Training Session activities are held for a wide range of participants, including patients and their families. In these training sessions, activities include programs for participants to learn attentive listening skills, which enable peers who have faced the same issues or have experienced the same problems to serve as consulting partners to one another. In the year ended March 2019, training sessions were held in 5 locations across Japan (Fukui, Tokyo, Nagasaki, Hamamatsu and Osaka), and attended by 41 people from 25 organizations. Astellas also dispatched an instructor to the Peer Support Training Session that a patients association held in Kyoto with 24 people in attendance, and provided stationary to another 36 events that patients associations held.
+Astellas also supports local Ronald McDonald House Charities (RMHC) Chapters in the United States, helping the organization provide comfort and care to millions of families with ill or injured children who have to travel far from home for the care they need. Last year alone, RMHC helped families save over $930 million in out-of-pocket lodging and meal expenses, due in large part to more than 536,000 volunteers who provide services like meal preparation at Ronald McDonald Houses around the world.
+In the U,S., Astellas field-based employees have supported this organization for four years in a row, volunteering to cook for patients’ families staying at local Ronald McDonald Houses. These activities offer Astellas employees the opportunity to lead local volunteer programs. Employees are responsible for scheduling events, recruiting team members to participate, purchasing supplies and working with teams to prepare and serve meals. The Ronald McDonald House events have served as an engaging teambuilding experience that contributes to the organization’s activities to support patients and their families. In the year ended March 2019, more than 250 Astellas employees prepared and served 1,400 meals to patients’ families at 35 Ronald McDonald House events across the U.S. to comfort families caring for a sick child.
+In 2018, Astellas hosted its second annual Patient and Caregiver event in the U.S., a program that provides valuable insights into the patient and caregiver journeys, including challenges faced. Employees had the opportunity to learn from Astellas colleagues who are also patients and caregivers and interact with different patient organizations. As part of the event, more than 50 employees volunteered to create nearly 1,300 care kits for families staying at American Cancer Society’s Hope Lodges, free places for patients and caregivers to stay during cancer treatment, located throughout the U.S. The kits provide recipients with an inspirational card, games and snacks to help make the time at Hope Lodge more enjoyable.
+  Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+95
+
+Home > Annual Report > Business Review > Social Contribution > Astellas Global Health Foundation
+ Annual Report 2019
+Astellas Global Health Foundation
+The Astellas Global Health Foundation (AGHF), an international philanthropic organization, launched in November 2018 with the primary focus of improving access to health in underserved global communities.
+The AGHF is the result of the merger of three former philanthropic entities – the Astellas USA Foundation, the Astellas European Foundation, and the Astellas Asia-Oceania Foundation – into one organization. Since 2005, the three former philanthropic entities have collectively contributed nearly $25 million to charities and partners aligned with each foundation’s focus areas. The AGHF’s goal is to support some of the world’s most vulnerable populations in areas with high child mortality rates, low life expectancies, and insufficient access to health.
+Key areas of focus for the AGHF initially will be neglected tropical and communicable diseases, children’s health, and mental health in low- to middle-income countries where Astellas does not have a business presence. Some of the world’s most vulnerable populations can be found in Africa, Asia, and Central and South America – countries with high child mortality rates, low life expectancies, and challenged economies – so that is where the AGHF will primarily concentrate its attention.
+The AGHF has issued a Request for Proposal to several established non-profit partners who are making an impact on the health of the most underserved, low-income communities around the world. The AGHF is seeking opportunities to fund multiyear programs led by philanthropic organizations with a proven track record of addressing access to health within the organizations’ key categories and geographies of interest, as well as with robust methods of measuring the impact of their work.
+For more information, visit the AGHF website:
+https://www.astellasglobalhealthfoundation.org/
+   Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+ 96
+
+ Home > Annual Report > Business Review > Social Contribution
+> Group-Wide Volunteer Activities for Changing Tomorrow Day
+Annual Report 2019
+Group-Wide Volunteer Activities for Changing Tomorrow Day
+Astellas Group employees around the world are encouraging a diverse range of volunteer activities as part of Changing Tomorrow Day based on the themes of promoting healthcare and maintaining the environment, thereby contributing to their local communities. In the year ended March 2019, more than 5,600 employees participated.
+  Changing Tomorrow Day Held in the year ended March 2019
+ Region
+ Participants
+ Volunteering hours
+   Number of locations
+  Number or countries
+Japan
+Americas
+EMEA
+Asia & Oceania
+Total
+2,316
+2,617
+421
+281
+5,635
+2,578
+8,133
+2,279
+710
+13,700
+101 1
+52 4
+25 15
+7 6
+185 26
+      Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+97
+
+ Home > Annual Report > Business Review > EHS ; Environment, Health & Safety
+Annual Report 2019
+EHS ; Environment, Health & Safety
+In Search of EHS EXCELLENCE
+Astellas has embraced the sustainable enhancement of enterprise value as its corporate mission. To fulfill this mission, Astellas seeks to be a chosen and trusted enterprise by all stakeholders, including customers, shareholders, employees, and the global community. The Astellas Charter of Corporate Conduct contains the following principles on Environment, Health and Safety (EHS): We shall respect employees' human rights, individuality, and differences; promote diversity in the workplace; and provide a safe and rewarding work environment" and "Recognizing that harmony between the global environment and our business activities is a prerequisite to our corporate existence, we shall take proactive measures to conserve the global environment." These principles require employees to conduct themselves based on high ethical standards in EHS fields, among other areas.
+EHS Management
+Astellas' basic stance toward the environment as well as the health and safety of its employees is outlined in the Astellas EHS Policy. Moreover, Astellas is working organizationally and continuously toward achieving this stance as described in the Astellas EHS Guidelines. In addition, Astellas has set medium-term targets for the key priorities in its EHS Action Plan and is working to achieve those targets.
+Environment
+Astellas has set specific numerical targets related to climate change, water resources, waste disposal management and biodiversity as its environmental action plan, and implements initiatives continuously to achieve these.
+Please refer to the Environment section on the corporate website for details. (The parts of performance indicators have been assured independently by third party.)
+Occupational Health & Safety
+Astellas is working to reduce the severity rate of work-related injuries and carry out the risk assessments as part of its occupational health and safety action plan, and implements initiatives continuously to minimize work injuries through prevention of accidents and ensuring maintenance of safe work environments.
+Please refer to the Occupational Health & Safety section on the corporate website for details. (The parts of performance indicators have been assured independently by third party.)
+    98
+
+ EHS Report
+Please refer to the EHS Reports (Printer-friendly version) about Astellas’ EHS activities.
+  Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+99
+
+ Home > Annual Report > Financial Information
+Annual Report 2019
+ Financial Information
+  Financial Summary
+Review Astellas' consolidated business results, forecasts and financial data, etc
+Read More
+Consolidated Financial Statements and Footnotes
+Read More
+Business Results
+Financial results, announcement materials and other supplemental documents
+Read More
+    100
+
+ Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+101
+
+ Home > Annual Report > Financial Information > Financial Summary
+Annual Report 2019
+ Financial Summary
+Financial Highlights
+Find summaries of Consolidated Business Results and Forecasts.
+Read More
+Financial Data (Quarterly Data)
+Find quarterly financial information such as Statement of Income, Balance Sheet and Statement of Cash Flows.
+Read More
+Revenue by Region
+Find information about our sales broken out by region.
+Read More
+Financial Data (Annual Data)
+Find annual financial information such as Statement of Income, Statement of Financial Position, Statement of Cash Flows and Per share data.
+Read More
+Sales of Major Products
+Find information about sales of our Major Products.
+Read More
+         Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+102
+
+ Home > Annual Report > Corporate Data
+ Corporate Data
+Annual Report 2019
+  Current Share Status
+Basical information about current share holders
+Read More
+Subsidiaries & Locations
+List of Astellas' office locations and major subsidiaries
+Corporate Information
+Summary of Astellas' corporate profile
+Read More
+    Read More
+103
+
+  Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+104
+
+ Home > Annual Report > Corporate Data > Current Share Status
+Annual Report 2019
+Current Share Status
+Number of shareholders: 95,846 Common stock Authorized: 9,000,000,000 Common stock Issued: 1,888,823,175 Breakdown of Shareholders by Type
+(as of September 30, 2019)
+   105
+
+ Top ten (10) principal shareholders in the register of shareholders:
+    Name of shareholders
+   Number of shares held (Thousand)
+  Percentage of shares held (%)
+ 1
+ The Master Trust Bank of Japan, Ltd. (trust account)
+   195,854
+ 10.36
+2 Japan Trustee Services Bank, Ltd. (trust account)
+3 Nippon Life Insurance Company
+4 SSBTC CLIENT OMNIBUS ACCOUNT
+5 Japan Trustee Services Bank, Ltd. (trust account 7)
+6 State Street Bank and Trust Company 505001
+7 Japan Trustee Services Bank, Ltd. (trust account 5)
+8 JP Morgan Chase Bank 385151
+9 JP Morgan Chase Bank 385632
+10 State Street Bank and Trust Company 505103
+114,202 6.04
+64,486 3.41
+44,608 2.36
+43,333 2.29
+36,419 1.92
+35,239 1.86
+35,189 1.86
+34,120 1.81
+32,058 1.69
+                           Number of shares held are presented by discarding the numbers down to the thousand, and percentage of shares are presented by discarding the numbers down to the third decimal.
+ Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+106
+※
+
+Home > Annual Report > Corporate Data > Corporate Information
+ Annual Report 2019
+Corporate Information
+     
+Company Name
+Astellas Pharma Inc.
+Headquarters
+2-5-1, Nihonbashi-Honcho, Chuo-Ku, Tokyo 103-8411, Japan Tel. +81-3-3244-3000
+Headquarters Access Map (Google Maps)
+Headquarters Annex Access Map (Google Maps)
+Foundation
+1923
+Capital
+103,001 million yen (March 2019)
+Representative Director
+Kenji Yasukawa (President and Chief Executive Officer)
+   107
+
+ Employees
+16,243(Consolidated basis, March 2019)
+Business Description
+Manufacturing, marketing and import/export of pharmaceuticals.
+Organization Chart
+As of April 1, 2019
+Organization Chart (pdf 177KB)
+   Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+108
+
+ Home > Annual Report > Corporate Data > Subsidiaries & Locations
+Annual Report 2019
+Subsidiaries & Locations
+Office Locations
+Headquarters
+2-5-1, Nihonbashi-Honcho, Chuo-ku, Tokyo 103-8411, Japan Tel.:+81-3-3244-3000
+Access Map (Google Maps)
+Headquarters Annex Access Map (Google Maps)
+Takahagi Chemistry & Technology Development Center
+160-2, Akahama, Takahagi-shi, Ibaraki 318-0001, Japan
+Tsukuba Research Center
+21, Miyukigaoka, Tsukuba-shi, Ibaraki 305-8585, Japan
+Tsukuba Biotechnology Research Center
+5-2-3, Tokodai, Tsukuba-shi, Ibaraki 300-2698, Japan
+Yaizu Pharmaceutical Research Center
+180, Ozumi, Yaizu-shi, Shizuoka 425-0072, Japan
+Major Subsidiaries
+Japan
+Manufacturing base
+Astellas Pharma Tech Co., Ltd.
+Other
+Amgen Astellas BioPharma K.K. Astellas Green Supply,Inc.
+Americas
+The company holds business locations for R&D, manufacturing and sales & marketing in Americas under the name Astellas U.S. Holding.
+Holding company in North America
+Astellas US Holding, Inc.
+          109
+
+  Regional headquarters
+Astellas US LLC
+R&D bases
+Astellas Pharma Global Development, Inc.
+Astellas Institute for Regenerative Medicine (AIRM)
+Astellas Research Institute of America LLC
+Astellas Innovation Management LLC Astellas Venture Management LLC
+Sales bases
+Astellas Pharma US, Inc.
+Astellas Pharma Canada, Inc. (Canada)
+Astellas Farma Brasil Importaçáo e Distribuiçáo de Medicamentos Ltda. (Brazil) Astellas Farma Colombia SAS (Colombia)
+Other
+Astellas US Technologies, Inc.
+EMEA
+The company holds business locations for R&D, manufacturing and sales & marketing also in EMEA, under the name Astellas B.V.
+Holding company in EMEA
+Astellas B.V.
+Regional headquarters (Astellas EMEA operations)
+Astellas Pharma Europe Ltd.
+R&D and manufacturing bases
+Astellas Pharma Europe B.V. (R&D and manufacturing, Netherlands) Astellas Ireland Co., Limited (Development and manufacturing, Ireland)
+Sales bases
+Astellas Pharma Ges.m.b.H (Austria) Astellas Pharma B.V. (Belgium)
+Astellas Pharma s.r.o (Czech Republic) Astellas Pharma A/S (Denmark) Astellas Pharma S.A.S (France)
+Astellas Pharma GmbH (Germany) Astellas Pharmaceuticals AEBE (Greece) Astellas Pharma Kft. (Hungary)
+Astellas Pharma Co., Limited (Ireland) Astellas Pharma S.p.A. (Italy)
+Astellas Pharma B.V. (Netherlands) Astellas Pharma Sp.zo.o. (Poland) Astellas Farma Limitada (Portugal) JSC Astellas Pharma (Russia)
+Astellas Pharma d.o.o. (Slovenia)
+Astellas Pharma(Proprietary), Ltd. (South Africa)
+Astellas Pharma S.A. (Spain)
+Astellas Pharma A.G. (Switzerland)
+Astellas Pharma ilaç Ticaret ve Sanayi A.Ş. (Turkey)
+                          110
+
+  Astellas Pharma DMCC (United Arab Emirates)
+Astellas Pharma Ltd. (United Kingdom)
+Asia/Oceania
+The company holds sales & marketing and manufacturing functions in China, and sales offices in Hong Kong, Taiwan, South Korea, the Philippines, Thailand, Indonesia, India, Australia and Singapore.
+Sales and other bases
+Astellas Pharma China, Inc. (Sales and manufacturing, China) Astellas Pharma Hong Kong Co.,Ltd. (Hong Kong)
+Astellas Pharma Taiwan, Inc. (Taiwan)
+Astellas Pharma Korea, Inc. (Korea)
+Astellas Pharma Philippines, Inc. (Philippines)
+Astellas Pharma (Thailand) Co., Ltd. (Thailand)
+P.T. Astellas Pharma Indonesia (Indonesia)
+Astellas Pharma India Private Limited (India)
+Astellas Pharma Australia Pty Ltd. (Australia)
+Astellas Pharma Singapore Pte. Ltd. (Singapore)
+Astellas Pharma Malaysia Sdn. Bhd. (Malaysia)
+The Representative Office of Astellas Pharma Singapore Pte. Ltd. in Vietnam(Vietnam)
+               Copyright © 2017 Astellas Pharma Inc. All right Reserved.
+111

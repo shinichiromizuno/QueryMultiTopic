@@ -1,0 +1,28 @@
+IBIDEN’s Source
+Enriched Life and Core Technology Created by IBIDEN 1IBIDEN’s Source
+Basin of Providing Value
+River of Creating Value
+Governance Structure Embodying the IBIDEN WAY
+Financial and Corporate Data
+ We lead the global electronics field with state-of-the-art technology such as IC package substrates and printed wiring boards.
+Contributing SDGs
+■ FY2018 ratio of net sales
+39.8 %
+Electronics
+   Car Electronics
+The number of electronic components and sensors installed on automobiles have dramatically increased against a backdrop of advancements in analysis using big data and high-speed communication networks. Semiconductors used on all systems that control automobiles, IC package substrates to which these are installed, as well as motherboards on which those packages are implemented, are used widely as components for automobiles that require strict reliability.
+    Data Center
+A large number of microprocessors are used at data centers that process huge quantities of data. The demand for IC packaging substrates used in data centers is on the rise as more and more services are handling big data. IBIDEN supports the superior reliability of data centers with IC packaging featuring high- functionality and high-reliability.
+       Computer & Smartphone
+At the heart of computers, semiconductors are small chips with a size of only a few millimeters to a few dozen millimeters. IC package substrates are used to implement these semiconductors with techniques that allow the chips to function at 100% performance. Various electronic devices and peripheral equipment are incorporated in smartphones featuring a variety of functions. Thin printed wiring boards with many layers are used to bring out the capabilities of multiple electronic devices within limits on size and thickness.
+IC Package Substrate
+     Printed Wiring Board■ Core Technologies in Electronics
+IC Package Substrate
+Focusing on MPUs (micro processor unit) for personal computers and the Data Center, and GPUs (graphic processor unit) for AI and vehicle-mounted applications, we provide state-of-the-art IC packaging substrates. IC packaging substrate is an important component that functions together with IC chips. IBIDEN has always enhanced added values along with IC chip evolution.
+   IC package substrates
+IC Package Substrate for desktop PC IC Package Substrate for mobile PC
+Printed Wiring Board
+Focusing on high-end smartphones, we provide high-function and high-density printed circuit boards. A printed circuit board is an important component that supports the manufacturing of small and high-function products in line with the full-fledged dissemination of 5G. IBIDEN meets its customers’ needs using Modified Semi Additive Process (MSAP) which enables free circuit design and high-density wiring.
+ Printed Wiring Board for Smartphones
+7 IBIDEN Co., Ltd. Integrated Report 2019
+IBIDEN Co., Ltd. Integrated Report 2019 8

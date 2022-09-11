@@ -1,0 +1,57 @@
+Business
+Social Systems, Solutions and Service Business (SSB)
+Vision
+Mobility
+Domain Energy Management
+Corresponding SDGs
+Creating a Society in Which the People of the World Live in Safety, Security, and Comfort ~Achieving a Smart Society~
+The Social Systems, Solutions and Service Business (SSB) provides a range of systems that underpin the infrastructure of society.These systems include railway station systems (automated ticket gates, ticket vending machines, etc.), traffic and road management systems, accounting systems, IoT solutions (power and data protection, etc.), and energy management.This segment provides software-based solutions built on core technologies used by railroad, road operations, and other infrastructure companies.The SSB also constructs solutions through comprehensive maintenance services.Together with our customers, we contribute to building a better society. We confront the social issue of worsening labor shortages via social automation that utilizes IoT, AI, and other advanced technologies combined with our proprietary service and data platforms. Our aim is to create a smart society in which anyone can live in safety, security, and comfort.
+Managing Executive Officer OMRON Social Solutions Co., Ltd.
+Transport (rail, police)
+Automated ticket gates, ticket vending machines
+Traffic and road management systems
+Consulting
+Energy Lifestyle Services
+Value Chain Supporting Our Businesses
+Community
+Contact center
+Maintenance and Operations
+President and CEO
+Toshio Hosoi
+Issues Facing Japan’s Social Systems
+Japan’s declining labor base has triggered a variety of inconveniences in Japanese society. These inconveniences have become evident and more serious, including declines in transportation services, difficulties in maintaining the functions of smaller cities, and deteriorating social infrastructure. At the same time, social systems face a wider range of demands, including higher inbound tourism and heightened safety and security requirements related to disaster prevention and mitigation, etc.
+Social Systems, Solutions and Service Business Initiatives
+The SSB has identified four new business domains to confront social issues that will become all-the-more serious in the future. In addition to the fields of transport (rail, police) and energy, we are expanding into other fields of lifestyle services, aiming to create safe, secure, and comfortable lives for all. We are also striving to build autonomous regional communities as part of our overall efforts to solve social problems. The strengths of this business lie in consulting (industry knowledge), equipment and software development, design, and manufacturing, as well as maintenance and operation services. In other words, the SSB provides one-stop solutions for customers throughout Japan.*
+*A business methodology that categorizes operations flow by function, aiming to improve efficiency and competitiveness
+Social Systems, Solutions and Service Business: Four business Domains
+Equipment and Software Development Design
+Equipment and Construction Systems
+Energy management
+Uninterruptible power supply equipment (UPS)
+Standard services nationwide
+Accounting systems
+Social Systems, Solutions and Service Business Domains
+Vision StrategyBusinessGovernance Financial Info Corporate InfoNew Social Systems, Solutions and Service Business Initiatives Looking Ahead to 2030
+The Social Systems, Solutions and Service Business (SSB) is active in the four domains of transportation, energy, lifestyle services, and community. In the community domain, the SSB uses a storehouse of expertise to work with local governments, such as Maizuru City (Kyoto Prefecture), to launch initiatives for creating a smart society looking ahead to the year 2030. The genesis of this project was a suggestion from OMRON SINICX Corporation, an OMRON company facilitating open innovation.
+Case Study: Initiatives with Maizuru City
+Regional cities in Japan are seeing continuing declines in population. This means a shrinking revenue base for local governments, which makes providing satisfactory services to residents more difficult. To solve this problem requires regional cities become autonomous. By “autonomous,” we mean cities that make the most of their resources for their own betterment, that look for ways in which residents can enjoy physical and mental health, that offer help when needed, and that encourage residents achieve their own desires.
+Our efforts in Maizuru City (Kyoto Prefecture) are leading toward a cooperative, fulfilled society that utilizes IT to help each other. We believe that projects forming connections between people, between people and communities, and between communities and communities create closer relationships in
+which people look out for one another. In this case, we are developing a matching
+  system in which those requiring help with various aspects of daily life can connect to those willing to provide help.
+The key to success for this type of matching system is to tailor to the needs of the local community and environment, designing in trustworthiness guarantees and incentives. This is in contrast to general matching systems used in major metropolitan cities and overseas. The team formed by Maizuru and OMRON is current conducting local surveys and validation tests for the system. Many challenges exist in creating a new type of cooperative story that has no monetary objective. We believe that solving these problems one-by-one will help Japan’s regional cities achieve sustainable growth.
+NEXT Business Headquarters Project Leader
+Miki Yokota
+The Social Systems, Solutions and Service Business Vision of Japanese Local Government in 2030
+  Mutual Help Platform
+A Society of Mutual Help Through Matching
+A Fully Cashless Society
+Cashless
+Monitoring
+Protecting Cities Using Big Data and AI
+  Cooperation
+Renewable Energy
+Increasing Self-Sufficient Renewable Energy Use
+ An Autonomous Society
+    Youth Challenge
+Raising Youth Who Possess IT skills
+54

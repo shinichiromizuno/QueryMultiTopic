@@ -1,0 +1,202 @@
+Measures against global warming and climate change
+(Addressing TCFD recommendations)
+Concordia Financial Group believes that addressing global warming and climate change is an important priority and has endorsed the recommendations of the Task Force on Climate-Related Financial Disclosures (TCFD)* in December 2019. The Group recognizes the importance of disclosing information on climate change and will enhance the disclosure of information on climate change based on the disclosure framework of the TCFD recommendations.
+(*) Task Force on Climate-related Financial Disclosures (TCFD): A privately-led task force established by the Financial Stability Board (FSB) in December 2015 to encourage companies to disclose climate-related information.
+Status of response to TCFD recommendations
+Business Strategy for Value Creation
+ Matters reported and discussed at Board of Directors meetings (FY2020)1. Development of long-term KPIs
+Amount of sustainable and green finance executed, CO2 emission reduction targets
+2. Status of the Group’s SDGs initiatives
+Strengthening of SDGs initiative structure, and for TCFD disclosure, carbon-related assets status and scenario analysis consideration
+3. Managing climate change risk as a top risk
+4. Bank of Yokohama Head Office building conversion to renewable
+energy1. GovernanceThrough the SDGs Committee, which is chaired by the President, we formulate policies for addressing climate change, centrally managing progress and overseeing the status of initiatives at meetings of the Board of Directors.P50
+2. Strategy
+Transition risk and physical risk have been identified respectively, and physical risk has been addressed first in scenario analysis.
+The ratio of carbon-related assets to total loans is limited to 0.6%. (*1)
+We will strengthen the creation of business opportunities by providing finance to help customers improve their ability to adapt to climate change and solutions to support their transition to a decarbonized society.P50, 513. Risk managementRecognizing climate change risk as a top risk, we are working to build a comprehensive risk management system.
+We have developed policies for sectors that affect climate change and are reducing or avoiding environmental and social impacts through monitoring.P524. Indicators and TargetsWe have established the following indicators and targets as long-term KPIs. 1. Sustainable finance (green finance) target
+By FY2030
+Sustainable Finance - 2 trillion yen
+Of which, green finance - 1 trillion yen (*2)
+2. CO2 emission reduction and renewable energy related targets (1) By FY2030
+1 CO2 emission reduction target - 50% reduction (compared with FY2013) 2 Renewable energy electricity usage percentage - 60%
+(2) By FY2050
+1 Carbon neutral (*3)
+2 Renewable energy power usage percentage - 100%P53, 5449
+50
+(*1) Bank of Yokohama and Higashi-Nippon Bank loans as of March 31, 2021. From this fiscal year, overseas loan assets and contracted unrealized assets are included.
+(*2) Cumulative amount of the Group’s investments and loans executed from FY2019 to FY2030 used to finance environmental and social topics and that support or promote initiatives for the SDGs (Green finance is investments and loans that are used to finance environmental areas.)
+(*3) The amount of CO2 emissions minus the amount absorbed and the amount eliminated is zero (neutral).
+1. Governance
+We have established a Group SDGs Policy. An SDGs Committee chaired by the President holds concentrated responsibility for formulating and managing the progress of policies related to environmental and social initiatives, including climate change.
+The SDGs Committee’s deliberations are reported to and discussed by the Executive Committee and the Board of Directors, and the Board of Directors oversees the Company’s climate change initiatives.
+2. Strategy
+We are working to address global warming and climate change as a priority environmental and social issue from the perspectives of both risk and opportunity.
+Risk
+(1) Transition risk
+Transition risks include the risk of financial deterioration of business partners due to stricter regulations on greenhouse gas emissions or the introduction of a carbon tax, the risk of business partners’ businesses (particularly fossil fuels and electric power) becoming stranded assets due to technological advances associated with the transition to a low-carbon society, and the risk of damage to brand value due to insufficient global warming countermeasures or inability to respond to changes in consumer preferences.
+Anticipated main impact on the Group
+There is a possibility that credit-related expenses will increase due to deterioration in the financial condition of our business partners, the turning of their businesses into stranded assets, damage to their brand value, and other factors. In addition, our brand value may be damaged due to rumors about our global warming countermeasures and investments in fossil fuel-related industries.
+(2) Physical risk
+These include acute natural disasters such as flooding, which can be exacerbated by abnormal weather, and the risk of damage to buildings and business interruption due to chronic climate change, such as rainfall and changes in weather patterns.
+Anticipated main impact on the Group
+The Company’s head office and branches may be damaged by natural disasters, which may result in losses. In addition, credit-related expenses may increase as a result of financial deterioration, such as damage to collateral or a decrease in sales due to damage to customers’ company buildings or factories caused by flooding.
+(3) Scenario analysis
+With regard to physical risk, we are in the process of establishing a system for estimating the amount of increase in credit-related expenses for business loans and housing loans due to financial deterioration caused by damage to collateral properties or business interruption of customers in the event of
+a flood. Specifically, we estimate the cumulative impact until 2050, taking into account the increase in credit-related costs in the event of inundation indicated by the hazard maps, and the probability of such inundation occurring under the IPCC RCP (Representative Concentration Pathway) scenarios (“RCP2.6“: 2°C scenario, “RCP8.5“: 4°C scenario).
+We will study the estimation method for the transition risk after identifying the target industries.
+(4) Carbon related assets
+The value of carbon-related assets (electricity, energy, etc., but excluding loans for renewable energy, etc.) as a percentage of total loans is limited to 0.6%.
+* From this fiscal year, overseas loan assets and contracted unrealized assets are included.
+  Measures against global warming and climate change
+Business Strategy for Value Creation
+  Opportunities
+We have set new long-term KPIs for sustainable finance and green finance. In addition, we launched an investment trust targeting publicly traded companies that focus on SDGs management for corporate and individual customers with high sustainability orientation.
+By proactively engaging in dialogue with customers in order to improve their ability to adapt to climate change and transition to a decarbonized society, we will provide green finance for renewable energy projects and solutions to support customers’ transition to a decarbonized society, thereby expanding business opportunities. We will also strengthen our efforts to address the SDGs, including registration and certification systems, in collaboration with local governments.
+Sustainable Finance Lineup
+3. Risk management
+With regard to climate change risk (transition risk and physical risk), we first recognize physical risk as the top risk (occurrence of a natural catastrophe), taking into account the degree of impact and probability of occurrence, and are working to build a system for managing it within the framework of comprehensive risk management. (See Page 68.)
+We are working to construct a management system for credit risk, risk related to the Group’s tangible fixed assets, operational risk, etc., based on the impact of climate change risks on the Group’s loans.
+We have established a policy (sector policy) for investments and loans where the use of funds is likely to have a negative impact on the environment and society, and are working to reduce or avoid environmental and social impacts. Since FY2020 when the sector policy was established, we have not made any new investments or loans that fall under the sector policy.
+Our Sector Policy
+     Category
+   Products
+  Customers’ needs
+  Financial institutions
+  Sustainable finance
+   SDGs Friends Loan
+ Incorporate the SDGs into their business
+   Bank of Yokohama
+   <Hamagin> Private placement of SDGs medical and welfare support bonds
+Making a donation to an SDGs-related organization
+  Bank of Yokohama
+   <Hamagin> Loan with a special clause for waiver of principal in case of earthquake
+  Strengthen BCP as a countermeasure against earthquakes
+    Bank of Yokohama
+   Donation-based SDGs promotion loans
+Contributing to the achievement of the SDGs by making donations to local governments or other organizations that contribute to the promotion of the SDGs
+  Higashi Nippon Bank
+   Higashi-Nippon Bank Regional Enterprise Revitalization Fund
+ Working to revitalize the local economy
+  Higashi Nippon Bank
+        Green finance
+    SDGs Growth Fund Loan - “Kagayaki“
+  Using the Bank of Japan system to tackle growth areas
+    Bank of Yokohama
+   Foreign Currency Growth Sector Support Strategy Fund
+~ Foreign Currency “Kagayaki“
+Using the Bank of Japan system to tackle growth areas
+  Bank of Yokohama
+   SDGs sustainability linked loans
+ Promoting efforts to achieve the SDGs goals in a comprehensive manner to the outside world
+   Bank of Yokohama
+   Fund for solar power generation business and energy service company business
+ Working on solar power generation business and energy service company business using the Bank of Japan system
+   Bank of Yokohama
+   SDGs green loans/social loans
+ Limiting the use of funds to environmental improvement only, and appealing to the outside
+   Bank of Yokohama
+   <Hamagin> ESG interest subsidy loan
+ Using the Ministry of the Environment interest subsidy for capital investment having CO2 reduction effect
+   Bank of Yokohama
+  SDGs Eco-Loan (with interest subsidy)
+ Using the Ministry of the Environment interest subsidy for capital investment having CO2 reduction effect
+    Higashi Nippon Bank
+     Sector
+  Policy on Initiatives
+  FY2020 Monitoring Details
+  1. Coal-fired power generation business
+We will not, in principle, engage in new investments or loans for coal-fired power generation projects that are likely to have a negative impact on the environment.
+However, when considering exceptional measures, we will carefully consider each project’s background and characteristics, such as power generation efficiency and performance, impact on the environment, and impact on local communities, with reference to international guidelines etc.
+  There are no new investments or loans for coal-fired power generation.
+The balance of existing investments and loans is scheduled to be reduced to zero in FY2037.
+   2. Cluster bomb manufacturing business
+  New investments in and loans to companies that manufacture cluster munitions are prohibited, regardless of the use of the funds.
+   There are no investments or loans to businesses related to the manufacture of cluster bombs.
+   3. Palm oil plantation development business
+From the perspectives of conservation of forest resources and biodiversity and protection of human rights, we prohibit new investments and loans for those developments of palm oil plantations that may involve human rights violations such as illegal logging and child labor.
+In addition, investments and loans for palm oil plantation development will be made with careful attention to the status of certification by the RSPO(*1), the international certification for sustainable palm oil, as well as consideration for local communities and the environment.
+  There are no investments or loans for palm oil plantation development projects.
+   4. Forest harvesting projects
+  We make new investments and loans for forest harvesting projects with great care, taking into account whether they have received international certifications (FSC (*2), PEFC (*3) etc.) and the consideration given to local communities and the environment.
+  There are no investments or loans for large-scale forest harvesting projects.
+    51
+52
+(*1) Roundtable on Sustainable Palm Oil (RSPO): An organization that develops globally trusted certification standards to promote sustainable palm oil production and use.
+(*2) Forest Stewardship Council (FSC): A non-profit organization that operates an international forest certification system based on the principle of appropriate, socially beneficial, and economically sustainable forest management from the perspective of environmental protection.
+(*3) Programme for the Endorsement of Forest Certification (PEFC): An international umbrella organization that promotes examination of forest certification systems that have been individually developed in each country based on the Intergovernmental Process for Sustainable Forest Management, which covers 85% of the world’s forests, and that promotes mutual recognition of these systems.
+
+  Measures against global warming and climate change
+Business Strategy for Value Creation
+ 4. Indicators and Targets
+We have set long-term goals related to global warming and climate change, including sustainable and green finance and CO2 emission reduction targets.
+Sustainable Finance and Green Finance
+We have set a target of 2 trillion yen in sustainable finance by FY2030, including 1 trillion yen in green finance. The actual results by FY2020 are 1.0 trillion yen in sustainable finance, of which 0.2 trillion yen is green finance.
+Conversion of Bank of Yokohama Head Office Building Electricity to Renewable Energy
+As a concrete measure to reduce CO2 emissions through the use of renewable energy, in April 2021 we introduced Aqua de Power Kanagawa, which uses renewable energy generated at the Kanagawa Prefectural Hydroelectric Power Plant, and switched to renewable energy for the electricity
+used at the Bank of Yokohama Head Office Building. The introduction of this system will reduce annual CO2 emissions by 2,451 tons (equivalent to approximately 170,000 cedar trees).
+Achievements in Reducing CO2 Emissions(tco2e) 30,000. 25,000 20,000. 15,000 10,000. 5,000 0
+Bank of Yokohama Higashi Nippon Bank — Total
+  28,068
+0.8%
+27,848
+7.8%
+25,883
+12.3%
+24,625
+ 15.7%
+23,655
+19.8%
+22,523
+23.2%
+21,554
+24.6%
+21,170
+             FY 2013
+FY 2014
+FY 2015
+FY 2016
+FY 2017
+FY 2018
+FY 2019
+FY 2020
+Achievements in sustainable finance (cumulative total)
+Sustainable finance
+Green finance
+    (¥100 million)
+20,000 15,000 10,000
+5,000 0
+FY2020
+Sustainable finance progress rate
+FY 2019
+FY2020
+Green finance progress rate
+FY2020 •••
+20,000
+10,000
+   10,621
+  4,281
+1,177
+2,530
+ FY2030
+Amount of sustainable finance executed by FY2030
+¥2 trillion
+of which, 1 trillion yen for green finance
+Reduction in CO2 emissions
+In May 2021, we set a target to become carbon neutral by FY2050, and to reduce CO2emissions by 50% from FY2013 levels by FY2030. We are also promoting the use of renewable energy sources for our own electrical power, aiming for 60% renewable energy by FY2030 and 100% renewable energy by FY2050.
+ FY2030
+50% reduction in CO2 emissions
+Percentage of renewable energy
+60%
+FY2050
+Carbon neutral
+* The amount of CO2 emissions minus the amount absorbed and the amount eliminated is zero (neutral).
+Percentage of renewable energy
+100%
+(Reference) Main environment-related data (total of two banks)ItemUnitFY 2018FY 2019FY2020Greenhouse gas (GHG) Scope 1 (direct emissions) (*1)tCO2e958973901Greenhouse gases (GHG) Scope 2 (indirect emissions)
+tCO2e
+21,564
+20,581
+20,268Greenhouse Gas (GHG) Scope 3 (Business Travel)tCO2e807781819Greenhouse Gas (GHG) Scope 3 (Commuting)tCO2e1,6101,5621,466Greenhouse Gas (GHG) Scope 3 (Leased Assets Upstream)tCO2e825742590Total greenhouse gas (GHG) emissions (Scopes 1, 2)tCO2e22,52321,55421,170Total greenhouse gas (GHG) emissions (Scopes 1, 2, 3)tCO2e25,76624,64124,047Total Amount of energy used Converted to petroleumKL12,27712,26412,035Total amount of energy usedGJ475,859475,332466,430Amount of electricity used1000KWh42,70542,65141,77253
+54

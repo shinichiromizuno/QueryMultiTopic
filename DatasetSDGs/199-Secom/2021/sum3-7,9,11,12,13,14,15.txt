@@ -1,0 +1,104 @@
+Environmental InitiativesRelevant SDGs
+Central themes
+   Prevention of global warming
+     Response to the recommendations of the TCFD
+Summary
+  Evaluation and management of the progress of environmental conservation initiatives against environmental key management indicators
+Evaluation of risks and opportunities based on climate change scenario analysis and promotion of disclosureReduction of environmental impact across the supply chain
+Prevention of global warming
+We have established an environmental philosophy and basic environmental policy, in line with which we incorporate initiatives aimed at resolving environmental issues with the aim of achieving sustainable development. We evaluate and manage the SECOM Group’s progress in promoting these initiatives over the long term against seven major environmental management indicators.
+Efforts to grasp and reduce greenhouse gas emissions (Scopes 1, 2 and 3) and promote environment-friendly design
+Long-term targets
+Scope 1 and 2:
+Reduction of greenhouse gas emissions to zero by 2045
+Scope 3:
+Reduction of greenhouse gas emissions to zero by 2050
+Medium-term targets
+Scope 1 and 2:
+45% reduction in greenhouse gas emissions from the fiscal year ended March 31, 2019, by the fiscal year ending March 31, 2031
+Scope 3:
+40% reduction in greenhouse gas emissions from the fiscal year ended March 31, 2019, by the fiscal year ending March 31, 2031
+The above emissions reduction targets, formulated in May 2021, have been certified under the Science Based Targets initiative (SBTi), which seeks to drive climate action in the private sector. We have also joined the RE100 (for “Renewable Electricity 100%”), a global initiative, with the objective of transitioning fully to electricity generated using renewable energy by 2045.
+   Environmental management key performance indicators
+1. Greenhouse gas emissions (Scopes 1 and 2)
+2. Greenhouse gas emissions across the supply chain
+(Scope 3)
+3. Reduction of greenhouse gas emissions as
+against base year (%)
+4. CO2 emissions per unit of production (emissions
+intensity)
+5. Electricity used and percent accounted for by that
+generated using renewable energy
+6, Consumption of fuel by vehicles
+7. Industrial waste and resources with market value
+Scope 1: Direct emissions (including those from the combustion of gasoline by vehicles, use of diesel and use of kerosene)
+Scope 2: Indirect emissions (including those from the consumption of purchased electric power, cold and hot water, and steam)
+Scope 3: Other indirect emissions (those not covered in Scope 1 or 2, from the activities of other companies up and down the supply chain
+  54 SECOM REPORT 2021
+Greenhouse Gas Emissions: Actual Results and Medium- to Long-Term Targets
+(t-CO2)
+200,000 Base year 180,000
+160,000
+140,000
+120,000 100,000 80,000
+2019 2020
+(Actual) (Actual) Note: The market-based method used to calculate emissions.
+103,578
+2021 2031 2045 (Actual) (Target) (Target)
+(Fiscal years ended/ending March 31, except for 2045)
+  4.1% reduction
+    188,324
+ 183,920
+180,608
+ 45% reduction by the fiscal year ending March 31, 2031
+ Target for 2045: 0
+   Reduction of environmental impact across the supply chain
+We continue working to reduce greenhouse gases across our supply chain.
+Efforts to identify and reduce greenhouse gas emission (Scopes 1, 2 and 3)
+We request suppliers to calculate and report greenhouse gas emissions and water usage, among others, for products and services supplied to the SECOM Group.
+Efforts to promote environment-friendly design
+We have distributed green engineering guidelines to suppliers and work to eliminate harmful chemical substances, reduce consumption of electric power, conserve resources, extend the useful life of products and promote recycling.
+Response to the recommendations of the TCFD
+In July 2019, we declared our support for the Task Force on Climate-related Financial Disclosures (TCFD), pledging to proactively disclose information on the financial impacts of risks and opportunities associated with climate change on our future business activities in line with TCFD recommendations.
+In businesses such as security services, data center services and medical services, the ability to provide stable and uninterrupted services is critical. To maintain services and systems at an acceptable level, we have established a Risk Committee and assess risks from multiple perspectives, including scope of impact, scale, anticipated monetary cost of damage, urgency and frequency of occurrence, based on the results of Companywide risk analysis. For example, we are using a scenario that assumes we suffer damage due to a natural disaster to explore measures to minimize destruction and have created a management system whereby a report is made to the Board of Directors if the seriousness of damage warrants it.
+  Example of a System with a Reduced Environmental Impact
+HANKS IIIs Security System for Financial Institutions Consumption of
+electric power: –57% Volume: –55% Mass: –66%
+  We recognize that the price of fuel consumed by vehicles used in our security services business and climate change– related risks affecting our nonlife insurance and data center services businesses will increase, but we also understand that shifting customer needs will yield opportunities to expand demand for new services. Accordingly, we will promote strategies that seek to capitalize on opportunities while remaining mindful of the potential impact of risks on our operations.
+Note: The TCFD was established in 2015 under the auspices of the Financial Stability Board (FSB) with the goal of developing basic disclosure recommendations to provide information on the potential impact of climate change on their profitability and cash flows.
+ SECOM REPORT 2021 55
+
+ESG Initiatives SASB Index
+We have prepared a report under Sustainability Accounting Standards Board (SASB) guidance for the Professional & Commercial Services sector, which most closely aligns with the business of SECOM. This report can be accessed from the IR section of our corporate website.
+SECOM’s SASB Index
+Professional & Commercial Services Sector Sustainability Indicators   Topic
+Workforce Diversity & Engagement
+Code
+SV-PS-230a.2
+SV-PS-330a.1
+SV-PS-330a.3
+SV-PS-510a.2
+Description of policies and practices relating to collection, usage, and retention of customer information
+Percentage of gender and racial/ethnic group representation for (1) executive management and (2) all other employees
+Employee engagement as a percentage
+Total amount of monetary losses as a result of legal proceedings associated with professional integrity
+Accounting Metric
+   Data Security
+SV-PS-230a.1
+Description of approach to identifying and addressing data security risks
+  SV-PS-230a.3(1) Number of data breaches, (2) Percentage involving customers’ confidential business information or personally identifiable information, (3) Number of customers affectedSV-PS-330a.2(1) Voluntary and (2) involuntary turnover rate for employeesSV-PS-510a.1Description of approach to ensuring professional integrityProfessional Integrity
+       Topic
+Code
+Activity Metric
+Data*
+    Activity metrics
+SV-PS-000.A
+Number of employees by: (1) full-time and part-time
+(3) contract
+(1) Full-time employees:
+(3) Contract employees:
+14,602
+1,688(2) temporary(2) Temporary employees: 1,332   SV-PS-000.B
+Employee hours worked, percentage billable
+*Data for “Activity metrics” is for SECOM CO., LTD., and is as of March 31, 2021, or for the fiscal year ended March 31, 2021. Because billing for electronic security services, our principal business, is based on fixed monthly fees, “percentage billable” is not applicable.
+56 SECOM REPORT 2021

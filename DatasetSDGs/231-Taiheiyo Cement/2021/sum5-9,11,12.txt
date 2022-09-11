@@ -1,0 +1,104 @@
+Recycling Waste and Other Materials
+Relevant SDGs
+ Resource Recycling with Industries
+Electric Power Utilities
+We accept coal ash produced at coal-fired
+power plants and use it as a substitute for clay as
+a raw material in cement. In addition, we operate ash centers* to use more ash effectively. We also supply the power plants with limestone powder which is used to scrub the harmful sulfur oxides from the exhaust produced by the burning of coal. The reaction of the limestone powder with sulfur oxides forms by-product gypsum, which we make effective use of as a raw material for cement.
+*Ash centers are distribution sites that combine collection/transportation (transshipment and storage) and intermediate-processing (powder mixing) functions. They receive coal ash from coal-fired power plants and ensure a stable supply to our cement plants, while also supplying diverse products that meet user needs.
+Steelmakers
+In the iron and steelmaking process, impurities are removed from iron ore to make iron.
+We supply the limestone and quicklime used in the refining process. We also use blast furnace slag and steel slag, by-products that remain after the refining process, as raw materials for cement and as cement admixture.
+Construction Soil
+Traditionally this soil had been dumped into landfills. By making effective use of it as a cement raw material, we contribute to the conservation of natural resources and also help to prolong the life of landfills. We have also set up intermediary facilities that organically link sites where construction soil is produced to our nationwide plants, and strive to make them effective resources.
+Resource Recycling with Local Communities
+Most municipal waste is incinerated and the incinerator residue is buried in landfills, but it has become very difficult to find new landfill sites. Waste treatment has become a source of concern for Japan’s major city governments in particular, and the situation is expected to get worse. We have three systems for recycling municipal waste and strive to make effective use of such resources and resolve environmental issues.
+ Incineration Residues Recycling System
+A system for recycling municipal waste incineration
+ash (bottom ash and fly ash) as a raw material for ordinary Portland cement.
+ AK System
+A system for recycling household waste and
+general business waste as alternative raw materials and fuels for cement manufacture. The waste is preprocessed through biological breakdown (fermentation) using a waste recycling kiln.
+ Ecocement System
+Ecocement is a new type of cement made primarily
+from the municipal waste incineration residues. More than 500 kg of ash and other waste materials are used per tonne of Ecocement.
+Performance of Recycled-Waste-to- Cement System
+ GRI301-1, 2
+All of our directly operated cement plants in Japan recycle waste and byproducts into alternative raw materials and fuels for cement. This helps to prolong the life of landfills, prevent the depletion of natural mineral resources, limit greenhouse gas emissions and reduce emissions of pollutants into the atmosphere.
+In FY2021 we accepted a greater volume of wood chips, waste plastic, water treatment plant sewage sludge and ash, and municipal waste incineration ash. However, due to a decrease in the amounts of coal ash, blast furnace slag, by-product gypsum, unburned ash, dust, dust construction soil, and waste oil we accepted, the input of recycled waste and by-products was 6,108 thousand tonnes, a decrease of about 279 thousand tonnes on the previous fiscal year. This means we recycled 402.7 kg of waste and by-products per tonne of cement produced.
+Trends in Use of Waste and By-products per Unit
+ Main Waste and By-products Used in Cement
+ Plants (FY2021)
+Waste and By-products
+Total Amount (t)
+Non-consolidated
+Rate (kg/t-cement)
+125.6 71.9 33.0 33.6 24.6 10.9 6.7 4.9 12.0 43.5
+24.6
+9.5
+1.9 402.7 363.7 39.0 402.7
+Railway
+           Resource Recycling with Industries
+Coal ash 1,905,365
+Blast furnace slag 1,090,049
+By-product gypsum 500,474
+Unburned ash, dust 509,304
+Dirt and sludge 373,487
+Construction soil 164,597
+Waste oil 101,827
+Wood chips 74,343
+Waste plastic 181,953
+Other 659,987
+Water treatment plant 373,217 sewage sludge and ash
+Incineration residues from 144,810 municipal waste
+Municipal waste, etc. 28,617 Total 6,108,031 Raw material-related 5,516,164 Fuel-related 591,867 Total 6,108,031
+  Production
+Consumption (kg/t-cement) 500
+Steel Mill 400
+Non-consolidated
+     Thermal Power Plant
+Limestone powder
+Limestone powder
+404.2
+2017
+413.4
+2018
+409.4
+2019
+409.5
+2020
+402.7
+2021
+         Coal ash
+Ash Center
+Gypsum
+Slag, iron slag, blast furnace dust, etc.
+300 267.3 200
+100
+    Cement Plant
+0
+2001
+(FY)
+ Resource Recycling with Local Communities
+ Waste and By-products Used in Cement Manufacturing Processes
+   Portland Cement Plants
+Ordinary Portland cement
+Ecocement
+Raw mill
+Truck Ship
+ Municipal waste
+Incineration plant
+Incineration residues from municipal waste
+Ecocement Plant Ecocement System
+Incineration residues from municipal waste are recycled as raw materials for Ecocement
+AK System
+Municipal waste is recycled at cement plants as fuel and raw material for ordinary Portland cement.
+Incineration Residue Recycling System
+Municipal waste incineration ash is recycled at cement plants as a raw material for ordinary Portland cement.
+Limestone
+Various kinds of materials
+Rotary kiln
+Finish mill
+  Raw Material Preparation ProcessLimestone, iron waste, etc., are mixed together, dried and ground in a raw mill.Burning ProcessAfter preheating, the materials are burned in a rotary kiln. The resultant material is then rapidly cooled to form an intermediate product called clinker.Finishing ProcessA small amount of gypsum is added to the clinker and ground in the finish mill to produce cement.TransportationThe cement is then transported by ship, truck or railway freight car.
+   72
+73

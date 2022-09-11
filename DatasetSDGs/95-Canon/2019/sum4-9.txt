@@ -1,0 +1,60 @@
+    Supporting Industrial Innovation
+Canon is promoting sustainable economic growth by applying proprietary optical and image-processing technologies to manufacturing.
+   Addressing and Solving Important
+Social Issues
+Supporting constant innovation to adapt to changing conditions is essential to the realization of a sustainable society. Amid growing adoption of IoT, big data, AI and robot technologies as part of the so-called Fourth Industrial Revolution of broad technical change,
+there are increasing possibilities for personalized, made-to-order or customized products and services.
+Advancing the expansion of B-to-B operations as part of Phase V of its Excellent Global Corporation Plan, Canon aims to create new value by using proprietary optical and image-processing technologies developed over many years in the industrial machinery field.
+In semiconductor manufacturing, building on conventional lithographic approaches as high-end device manufacturing moves into the IoT era, Canon is aiming to establish nanoimprint technology to achieve semiconductor-device miniaturization at lower cost. Semiconductor chips, which are often likened to the heart of electronic equipment, are an essential part of modern life due to their presence in everyday equipment ranging from smartphones and PCs to televisions, air conditioners and automobiles.
+In line with the Society 5.0* vision promoted by the Japanese government, the key to a future sustainable society will be the use of data through innovative science and technology such as AI, IoT and robots.
+By enabling the manufacture of high-performance semiconductor chips for large-scale processing of big data, nanoimprint lithography technology can make
+a significant contribution.
+In other sectors, OLED Panel Manufacturing Equipment (Canon Tokki) and sputtering equipment (Canon ANELVA) are essential elements in supporting enriched consumer lifestyles. In addition, in the field of factory automation, we are accelerating collaborative efforts to develop system solutions in a bid to help increase industrial manufacturing productivity.
+Canon believes expanding business within this sector can contribute to the realization of SDG 9 to “build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation.” Besides promoting increased efficiency for existing industries, we also hope to foster sustainable economic growth by actively contributing to development of new industries.
+* Society 5.0 is the Japanese government’s vision for a new super-smart society in which economic and social development issues are addressed via the utilization of various data based on scientific and technical innovations such as AI, IoT and robots.
+Economic Growth Rates for Advanced Economies and Emerging Markets
+Advanced economies
+Emerging markets
+(%)
+6.0
+5.0 4.7 4.0
+3.0
+2.0 2.1 1.0
+0
+2014
+Source: IMF “World Economic Outlook, January 2019”
+Projected 4.9
+1.7
+  4.3
+2.3
+2015
+4.4
+1.7
+2016
+4.7
+4.6 4.5
+2.4 2.3
+2017 2018
+2.0
+   59 Canon Sustainability Report 2019
+Related SDGs
+2019 2020
+(Year)
+Management Basic Information Strategy
+Examples of Value Creation
+Value Creation
+Business Strategy Management CSR Reporting Third-Party Foundation Opinion / AssuranceTechnology Supporting Enriched Lifestyles
+As the brains of electronic equipment, semiconductor devices are essential parts in the IoT era when everything is linked to the Internet. This trend is driving the growth in demand for flash memory used in mobile devices and such applications for semiconductors as automobiles. Canon supplies semiconductor lithography equipment for semiconductor high-volume manufacturing.
+The functionality and memory capacity of semiconductor devices continue to rise as chip manufacturers adopt more complex circuit patterns and large-scale integration. Our focus is on the use of nanoimprint lithography,
+a ground-breaking technology for stamping circuit patterns onto wafers at high resolution rather than following the conventional lithographic approach. This will support process migration while also achieving significant reductions in manufacturing costs.
+Our semiconductor lithography equipment using nanoimprint technology is currently installed at leading chip manufacturer Toshiba Memory Corporation, where its suitability for mass-production purposes is being assessed.
+Nanoimprint semiconductor lithography equipment in use at Toshiba Memory
+Elsewhere, CANON ANELVA manufactures sputtering equipment for use in semiconductor production, based on high-vacuum thin-film process technology. The firm is also the world’s sole supplier of sputtering equipment for hard disk drive (HDD) head production. Moreover, equipment supplied by Canon ANELVA is helping to boost performance while dramatically reducing the cost of production for communications devices used in high-speed 4G and 5G networks.
+With demand for OLED displays on the rise, the OLED Panel Manufacturing Equipment developed and manufactured by Canon Tokki has become a critical component in production processes. Thinner than LCDs and capable of delivering brighter color, OLED displays are also expected to offer new functional possibilities, including curved or roll-up forms. Based on overwhelming technical superiority compared to rivals in the OLED Panel manufacturing field, Canon is working to create original value to respond to rising demand for OLED displays for use in smartphones, televisions and other products.
+OLED Panel Manufacturing Equipment developed and manufactured by Canon Tokki
+Technology Supporting Innovation
+in Manufacturing
+Canon is focusing efforts on the field of factory automation (FA), where demand has grown in recent years due to rising labor costs combined with labor shortages. Responding to these market trends, we are developing the Canon Industrial Imaging Platform as
+a system solution for shop floor visualization.
+By combining imaging technologies used in network cameras and industrial cameras with image-processing technology, we aim to support greater automation of production while helping to boost productivity. In 2018, we began collaborating with Siemens, a leader in factory floor digitalization and automation, and Toshiba Digital Solutions Corporation, an IT solutions developer for the manufacturing sector. Going forward, we plan to collaborate with varied partners to help automate production facilities and increase productivity.
+  Canon Sustainability Report 2019 60

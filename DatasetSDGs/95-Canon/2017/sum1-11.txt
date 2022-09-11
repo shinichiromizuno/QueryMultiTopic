@@ -1,0 +1,54 @@
+For Society Creating a Safe and Secure Society
+The Potential of Network Cameras that Contribute to
+Crime Prevention and Improve Convenience for People
+Issues and Approaches
+Apprehension over public safety and security is growing due to rapid changes in the social environment. In particular, the need to anticipate potential dangers and resolve them appropriately, and to accurately record incidents for use as evidence is ever rising. Compact, high-definition network cameras meet this need. In the era of IoT, which links numerous objects over the Internet, we are drawing steadily closer to a society wherein most products connect to the Internet and big data is used in a variety of forms. Due to
+the development of image analysis technologies for network cameras, as well, there is a growing trend to use such cameras in the fields of manufacturing and marketing, as well as crime prevention.
+In addition to its storehouse of core camera technologies, including optics, imaging sensors, imaging engines, and video analysis software,
+Canon is providing network cameras for disaster and crime prevention as well as surveillance worldwide leveraging the network controls and cloud-based services developed for its office equipment and the expertise of new Group members Axis, which offers image processing technologies, and Milestone Systems to offer video management software technologies. Canon is committed to advancing the development of network imaging solutions that can extract essential information from recorded images, with applications envisioned for a wide range of fields, including
+healthcare, nursing, education, transport and urban development.
+What’s more, Canon is stepping up development of technologies that take both security and privacy into consideration through such innovations as using ultra-high-sensitivity multi-purpose cameras for crime-prevention purposes and functions that display individuals as silhouettes, contributing to the realization of a safe and secure society.
+Related SDGs
+Ongoing Expansion in the Market for Network Cameras
+ 200,000 (Thousands of units) 160,000
+120,000
+80,000 40,000 0
+Compound average growth rate in network cameras
+      13 Canon Sustainability Report 2017
+2015
+2016
+2017
+2018
+2019
+26.3%
+2020 (Year)
+Source: “Video Surveillance Intelligence Service,” IHS Markit Technology (published December 2016). Data for 2016 are estimates; those for later years are forecasts.
+ 
+      Message from Management
+Relationship with SDGs
+Canon Group Business Operations
+CSR Reporting
+CSR Management Management Structure
+Growth Strategy and Sustainability
+GRI Guideline Implementation
+Activity Highlights
+Third-Party Opinion / Assurance
+     Creating Synergies with Axis, a Company with Superior Image Processing Technologies Canon has deepened its collaboration with Axis since the company joined the Group in 2015, including exchanges in all areas of operations, from product development and quality assurance to sales and marketing. The result of
+this union was the merging of Canon’s advanced optics and imaging technologies with Axis’ network image- processing technologies in our first jointly developed product, the AXIS Q1659. With high-performance
+sensors delivering 20 megapixels—nearly 10 times full-
+HD resolution, this network camera system can be used for a variety of purposes from wide-area to long-distance surveillance thanks to a selection of seven interchangeable lenses. We will promote the AXIS Q1659 for use in city surveillance systems as well as at such locations as airports and stadiums.
+Pursuing Further Technological Innovations— Strengthening Solutions
+The network camera market demands not only products but also solutions that record and analyze video. For example, Canon’s software, capable of counting up to 1,500 people in an image can be used to determine crowding in various facilities. This capability helps in allocating security personnel and in arranging evacuation and other safety measures. In addition, Canon is developing technologies that quickly search for a specific person from a video feed and continuously track that person throughout a multiple camera system. Canon is working closely with Milestone
+Systems, a video management software developer that joined the Group in 2014, to enhance their solutions.
+Meeting with an Axis employee on a business trip at Canon headquarters
+  Counting people using the People Counter Version 1.0 softwareApplications for Multi-Purpose Cameras
+Canon’s ME20F-SH multi-purpose camera features a proprietary 35mm, full-frame CMOS sensor with high sensitivity, enabling crisp, clean full- color image capture even in challenging low light conditions where it
+is difficult to distinguish the subject with the naked eye. This capability makes the camera ideal for a variety of settings, from monitoring and preventing natural disasters, and law enforcement to filming wildlife
+in its natural habitat, which had previously been difficult to record. In cooperation with the Tokyo Metropolitan Police
+Department at the Sumida River Fireworks Festival in
+July 2016, we used the ME20F-SH and were able to
+   verify the camera’s ability to capture images at night with the same brightness as in daytime by increasing its ISO sensitivity.
+ME20F-SH
+Image captured at the Sumida River Fireworks Festival Top of photo: Equivalent ISO sensitivity of 2,300; Bottom: Equivalent ISO sensitivity of 51,200*
+* From gain at the time of imaging, standards published in “CCTV Equipment Spec Regulation Methods (TTR-4602B),” issued by the Japan Electronics and Information Technology Industries Association (JEITA) were used to calculate ISO sensitivity (theoretical values when imaged under color/no storage/F1.2/30P/50IRE conditions)
+Canon Sustainability Report 2017 14

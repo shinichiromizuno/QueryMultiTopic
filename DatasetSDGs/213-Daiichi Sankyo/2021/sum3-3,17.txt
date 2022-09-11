@@ -1,0 +1,58 @@
+Materiality on Business
+ Creating Innovative PharmaceuticalsProviding a Stable Supply of Top-Quality Pharmaceutical ProductsProviding the Highest Quality Medical InformationImproving Access to Healthcare
+ Providing the Highest Quality Medical Information
+Materiality on Business
+Materiality on Business Foundations
+ Promoting Compliance ManagementCorporate Governance Aimed at Fulfilling Our MissionPromoting the Success and Development of a Diverse Range of People Who Create Our Competitive AdvantagesPromoting Environmental Management
+In the pharmaceutical industry in Japan, there have been issues of research misconduct related to clinical research and exaggerated advertising of pharmaceutical products since the late 2000s. We separated the medical affairs division, which is the information- generating function, from the sales division to ensure reliability, transparency, and objectivity.
+All drugs, no matter how excellent they are, have a risk of causing adverse reactions. In the process of expanding our business into the field of anti-cancer drugs, we will further strengthen our safety information management system. We objectively analyze safety information in Japan and overseas, provide information to healthcare professionals to promote the proper use of pharmaceutical products, and minimize the safety risk of patients.Reason for selectionPharmaceutical products can be used by healthcare professionals for the treatment of patients with confidence only when highly reliable safety and efficacy information are available, thereby overcoming healthcare challenges (and social challenges through it).
+As we provide many products in various fields, we provide safety and efficacy information.
+In the mid-term, we will generate new drug information in the oncology area, where information provision tailored to each patient’s condition is required, and provide it to healthcare professionals globally.Long-term targetProvide safety and efficacy information so that healthcare professionals can always use our products for the treatment of patients with confidenceChallenges for realizing materiality (toward FY2025 targets)Provision of highly useful pharmaceutical information in areas with high expertise/ individualityKPIsEvaluation of our approach to information provision from stakeholders including healthcare professionals
+FY2025 targetsImprovement of evaluation scores
+FY2020 results—
+Social value creationContribute to the enrichment of quality of life around the world
+Economic value creationIncrease revenue and profit, reduce/prevent the risk of declining corporate valueContribution to SDGs  To Generate Highly Useful Medical Information
+The Medical Affairs Division in Japan collects, analyzes, and evaluates information related to pharmaceutical products and generates and disseminates evidence to contribute to the treatment and maximize the value of our products. Specifically, we collect information on unmet medical needs and analyze and evaluate the collected information. We identify clinical questions existing in the real clinical setting through collecting, analyzing and evaluating the information on unmet medical needs and develop medical strategies to solve them. We perform clinical research activities based on the medical strategies and disseminate new evidence. Repeating this cycle of information collection, analysis and evaluation; and evidence generation and dissemination leads to improved value of the products.
+* Questions related to drug usage from patients or healthcare professionals
+Value creation scheme at medical affairs
+   Medical strategy
+   Evidence
+dissemination
+Research paper/presentations at scientific conferences Holding academic events
+Evidence
+generation
+Promotion of company-initiated clinical research
+Support for researcher-initiated clinical research
+Non-clinical research of commercial products
+Medical strategy
+Information
+collection
+Responding to KEE* (response to clinical research) Aggregation of information on scientific conferences and research papers
+Information
+analysis/evaluation
+Identification of clinical questions Formulation of medical strategy
+Strategy to identify clinical questions and execute “information generation/ dissemination activities” to respond to such clinical questions to enhance the value of our products and establish/strengthen our presence
+     23 Daiichi Sankyo Group Value Report 2021
+* Key External Experts
+                                 Evidence Generation and Dissemination in Oncology Fields with High Expertise and Individuality
+In order to enhance the capabilities to generate and disseminate evidence for Enhertu and other oncology products on a global scale, we will strengthen our functions global and Japan locally and engage in a range of medical activities.
+In collaboration with AstraZeneca, we have promoted activities in line with a global medical strategy to generate and disseminate evidence on breast and other cancers after the launch of Enhertu. Medical affairs is also in charge of publication strategy as part of information dissemination activities and effectively disseminates evidence through presentations at scientific conferences and publication of research papers. As the oncology medical practice continues to advance at a fast-moving pace, it is essential to collect information on treatments and competitive products. We are conducting several activities to contribute to maximizing the medical value of products from an early stage of research and development by enhancing these functions to collect, analyze, and evaluate information, as well as by strengthening cooperation with related functions.
+To help maximize the value of DXd-ADC pipelines and other products as a pharmaceutical company with competitive advantage in oncology, we develop cancer type-based medical strategies in addition to product-based medical strategies, and carry out relevant activities. In addition, we enhance the functions of medical science liaison (MSL)*1, real world evidence (RWE)*2, and companion diagnostics/biomarkers. Cooperating with related functions, we complement “Fast to Market strategies” (meaning strategies to obtain approval and launch a product in the shortest period of time) from a scientific and medical perspective. Through patient advocacy activities (such as support for patient groups) mainly outside Japan and the publication of patient-friendly manuscripts, we will also strengthen patient-centric information collection and evidence dissemination.
+*1 Conduct medical and scientific communication with external medical experts based on the latest scientific knowledge in the related disease area
+*2 Evidence from analysis of actual clinical data
+Provision of Safety Information through ILD Management
+Value Creation Story
+ Pharmacovigilance at Daiichi Sankyo
+CSPV : Clinical Safety & Pharmacovigilance
+Function responsible for safety information management and safety measures throughout the entire life cycle of products
+The Clinical Safety & Pharmacovigilance Unit, which is responsible for pharmacovigilance (PV) of the entire group, evaluates reported adverse events from clinical trials to post- marketing period, and develops and implements safety measures based on the evaluation results.
+For Enhertu, we identified Interstitial Lung Disease (ILD) as an “important identified risk”, and we continue to implement safety measures by developing guidelines for the management of ILD and the guide for physicians and patients participating in clinical trials for ILD education. After launching in several countries where Enhertu has already been approved including the United States and Japan, we have collected and evaluated patient information of ILD development, and have continued to provide related information to promote proper use to healthcare professionals, so that the risk of progression to severe disease would be reduced by early identification and intervention for ILD,
+     Non-clinical research
+Application Clinical trials for
+approval
+Manufacturing and marketingClinical Safety & Pharmacovigilance
+ The principle of PV in R&D based pharmaceutical companies starts with first in human (FIH) study.Development of a Clinical Study Data/Adverse Drug Reaction Search Tool (Safety Lake)
+With the launch of Enhertu, we are required to provide safety information with higher expertise/individuality. The information includes not only post-marketing data but also clinical study data. Traditionally, information provision took time, because safety management division staff responded to inquiries from healthcare professionals sent via MRs by searching through an enormous amount of clinical study information.
+In order to provide healthcare professionals with best safety information for patients faster, we developed a clinical study data/adverse drug reaction search tool (Safety Lake) utilizing an integrated data analysis platform and BI* tool and introduced it to Enhertu. Safety Lake enables more exhaustive search than before and faster information provision.
+*Business intelligence tool: a tool to support decision making and business operation through data analysis and its visualization
+Daiichi Sankyo Group Value Report 2021 24

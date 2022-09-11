@@ -1,0 +1,98 @@
+Social Responsibility
+■ Compliance structure
+The Bank formulated the Compliance Policies in order to clarify its stance on compliance and to ensure the effectiveness thereof. Further, the Bank established the Compliance Guidelines (Compliance Standards) to articulate specific guidelines and a code of conduct so that the executives and employees place importance on compliance, thereby ensuring the lawful conduct of business.
+Risk Management
+■ Strengthening of comprehensive risk management
+The operating environment surrounding financial institutions has significantly changed in recent years, exposing them to an unprecedented variety of risks. In this environment, financial institutions are required more than ever before to accurately identify, analyze and appropriately control risks.
+ From the viewpoint of increasing the soundness of management, the risks the Bank faces are assessed by category, and comprehensive risk management systems are established for self-control type risk management through comprehensive assessment, and by comparison and contrast with the Bank’s capital. At the same time, efforts are being made to improve risk management methods through means such as the enhancement of risk measurement techniques.Compliance Guidelines(Compliance Standards) 【Basic Direction】
+1. Ensure sound management and pay the utmost attention to sustaining the Bank’s credibility and its   ability to maintain smooth financing.
+ 2. Comply with laws and the code of corporate ethics and maintain fair and honest practices.
+3. Take a principled stand with regard to issues that threaten social order or public peace.
+4. Provide financial services that the region, customers, and society broadly trust and endeavor to achieve
+  sustainable development together with them as a good corporate citizen.
+5. Foster a flexible and constructive working environment conducive to the well-being of all employees.
+【Code of Conduct】
+1. We will comply with laws, ordinances, the Articles of Incorporation, the Rules of Employment, and   internal rules of the Bank.
+2. We will not force unfair transaction on our customers.
+3. We will not divulge confidential information of our customers or the Bank, or material information that   has not been made public.
+4. We will not neglect to provide reports required by laws, ordinances, and internal rules of the Bank,   or provide false reports.
+5. We recognize the public nature and the large social responsibility of the Bank and will devote ourselves   to our duties.
+6. We will not follow instructions or orders given by an individual that go beyond or deviate from the   authorities given to said individual.
+7. We will not engage in such conduct as will undermine the credibility or honor of the Bank.
+8. We will not do favors for our customers in violation of law, ordinances, or internal rules of the Bank. 9. We will not seek to make unfair profits by taking advantage of our duties or position.
+10. We will not borrow from or mediate for someone to borrow from our customers, other executives,   or other employees without legitimate reason.
+11. We will not engage in socially unacceptable entertaining or gift giving.
+12. We will make efforts to maintain order in the workplace.
+ We have implemented risk capital management as a specific framework for comprehensive risk management. Risk capital management is a management method where a risk capital budget, which represent risk tolerance, is allocated by risk category to each unit (domestic business units, funds and securities units, and other units), and the risks measured for each unit are monitored to ensure that they do not exceed their respective budgets. Risk capital management is also utilized to monitor whether the expected profits that are suitable for the risks taken are being secured.
+Risk management structure
+Independent Auditors         Administrative Risk Management
+Information Technology Risk Management
+Legal Risk Management
+Compliance Management Division
+Human Risk Management
+Personnel Division
+Tangible Asset Risk Management
+General Affairs Division
+Reputational Risk Management
+Risk Management Division
+Disaster and Other Contingency Risk Management
+Digital Strategy Division General Affairs Division Operations Management Division
+Compliance
+Compliance Management Division
+  Board of Directors
+Audit & Supervisory Committee Executive Committee/Directors and General Managers Liaison Committee/Compliance CommitteeDirectors Responsible for Each Type of Risk
+Directors Responsible for Compliance Capital management
+Risk Management Division
+ Comprehensive Risk Management
+ Credit Risk Market Risk Liquidity Risk Management Management Management
+Comprehensive Operational Risk ManagementRisk Management Division
+Outsourcing Risk Management
+ Operations Management Division
+Digital Strategy DivisionCompliance structure
+Head Office, Branches and Group Companies
+Audit & Inspection Division
+   Subsidiaries
+(Complaints, antisocial influences, money laundering)
+Compliance Monitor (Senior Auditor) (Dishonest actions, internal audits)
+(Risk management, disclosure)
+(Maintenance of discipline and work discipline)
+(General meeting of stockholders, traffic accidents)
+(Operational accidents)
+Compliance supervisors
+(Major Roles)
+Compliance-related education, inspection, monitoring and the like within each company
+Verification of the risk management system by the Audit & Inspection Division: The Audit & Inspection Division is the auditing unit for internal processes and asset status, and is independent of all business units. This division audits branches, Headquarters and Group companies through comprehensive audits focusing on the verification of internal management systems (financial facilitation, compliance, customer protection, governance and management, and risk management systems) and physical inspections with the primary aim of preventing illegality.
+Asset Assessment AuditCompliance Management Division
+Personnel Division General Affairs Division
+Audit & Inspection Division
+  General Planning & Coordination Division
+Headquarters and Branches
+Compliance promotion committees
+(Chaired by General Managers)
+  Operations Management Division 
+  Board of
+President = Director responsible for
+Compliance management
+Directors (Directors)
+compliance
+Compliance Manager
+(General Manager of Compliance Management Division) Chief Compliance Officer
+(Manager of Legal Affairs Section)
+Divisions and Main Branch: Compliance Officer
+Other:
+Compliance liaison officers
+  Development of business continuity systems in response to the occurrence of large-scale disasters
+The Bank has developed a Disaster Emergency Response Plan that clarifies the basic principles of action for times of emergency, such as earthquakes or other disasters and systems failures.
+ Under the Disaster Emergency Response Plan, we have worked
+to develop systems to ensure business continuity through the establishment of business continuity plans for continuing the minimum operations required to maintain the finance function, and to achieve the prompt resumption or recovery of this function, in the event that the Bank incurs sufficient damage that it becomes impossible to fulfill normal bank operations, due to an unforeseen disaster. In addition, in order to confirm the effectiveness of the Disaster Emergency Response Plan, we conduct regular disaster drills and business continuity drills and conduct revisions to make our preparations for disaster more robust in consideration of the damage caused by the Great East Japan Earthquake in an effort to strengthen the Bank’s crisis response capabilities.
+ Responding to increasing cyberattacks
+In order to respond to cyberattacks, which are becoming increasingly advanced and sophisticated on a daily basis, the Bank has established Cyber Security Management Regulations, and has implemented multi-layer technical measures, including the prevention of unauthorized intrusions and blocking of information leakage, as well as detection of malicious viruses.
+ In addition, the Bank has undertaken organizational measures such as drills and exercises that assume the occurrence of a cyberattack, and is continuously working to strengthen systems for swiftly responding to cyberattacks.
+Internal Audit
+ Compliance Committee (Chaired by President)Compliance Departments
+(Chaired by General Manager of Compliance Management Division)
+  Audit & Supervisory Committee (Audit & Supervisory Committee Members)
+45 THE 77 BANK INTEGRATED REPORT
+THE 77 BANK INTEGRATED REPORT 46
+Note: Compliance officers and compliance liaisons maintain their independence in the performance of their duties related to compliance and do not follow the instructions of higher-ranking individuals.
+                      

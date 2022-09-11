@@ -1,0 +1,142 @@
+Promotion of Financial Digitization (DX)
+Business Strategy for Value Creation
+We aim to diversify our services using digital technology by supplementing the needs for “things, people, and experiences” that are beyond financial needs, and by building a “regional ecosystem” to communicate with customers through connections “outside” of finance, including cashless and settlement services.
+Improved operational efficiency through data linkage and
+operations without handling cash
+Data entered by customers on the AGENT in-store terminal is automatically linked to the business system through API integration. As a result, it is possible to reduce the processing time for operations and customer service that was formerly performed manually.
+In addition, for procedures involving cash we are progressively installing “Quick Counter ATMs” at all branch counters, which allow customers to make their own deposits. Also, since April 2021, we have begun taking the processing of a wide variety of low-volume administrative work at all of our branches and consolidating it into the Business Support Office at the head office, and we are making steady progress in reducing workloads by promoting various measures to improve operational efficiency.
+paper reception
+paper
+issue of a voucher
+input
+confirmation confirmation
+paper storage
+reduction
+ Overview of Digital Strategy
+To achieve “digital transformation” that can respond to the growth of the Internet economy by utilizing digital technologies such as data collaboration platforms, we will move forward to reform traditional business operations (digital transformation of business operations) and to take on the challenge of new business domains (digital transformation of business models) in order to transform ourselves into a more convenient bank.
+Overview of Digital Strategy
+ Digital Transformation of Business ModelsCreation of new businesses and innovationInnovation in customer experienceDigital Transformation of OperationsBusiness process improvementBusiness value added improvement
+ Use of digital technology (e.g., data collaboration infrastructure)
+Reduction in work (FTE)
+Reduction (automation)
+     FY 2019
+156FTE
+FY 2020
+550 FTE
+FY 2021 (Plan)
+800 FTE
+FY 2022 (Target)
+FY 2019
+FY 2020
+FY 2021 (Plan)
+120FTE
+FY 2022 (Target)
+   20FTE
+65FTE
+ Digital Transformation of Operations
+Business process improvement
+Based on the “operational reforms using digital technology” set forth in the medium-term management plan, we are promoting fundamental reforms in branch administration (branch operation reforms). As a result, branches will be transformed into “places where customers can consult”, while at the same time we will reduce costs by improving operational efficiency through data linkage and operations without handling cash.
+Turning branches into a place for consultation
+The Bank of Yokohama has been introducing AGENT and completed the roll out to all branches in December 2020. By enabling customers to complete various transactions, such as opening a savings account or changing the items they have registered, using tablet terminals installed in the lobby,
+we have made each procedure paperless, shortened the waiting time for customers, and made the process stress-free. In October 2020, we added transactions such as bankcard applications and inheritance reception. By progressively expanding the range of transactions in the future, we will make it possible for customers to complete all transactions on their own using tablet terminals, turning the counters into a “place for consultation” for asset management, inheritance, etc.
+The Marketing Strategy Office, which was established within the Digital Strategy Department, is proactively involved in all promotional plans that come into contact with customers, and the marketing department takes the lead in promoting sales measures. We are also promoting initiatives that leverage the added value of data through finely-tuned communication based on analysis of customer behavioral data, such as using cutting-edge machine learning technology, to approach new customers with latent needs, and we are steadily achieving results.
+Behavioral data analysis as a starting point for communication
+Tsumitate-NISA
+In addition to promoting Tsumitate-NISA to clients who participated in asset formation seminars, we contribute to improving the performance of Tsumitate-NISA through communication by flexibly reviewing the content of the promotion based on client responses.
+Improvement of business value addedModification to the website as the customer sees itReview promotion content flexibly including customer responseFollow-up on asset building from motivation to execution
+1
+2
+3
+Follow-up with seminar participants and other customers with high interest in asset formation through non-face-to-face channels
+Number of applications for Tsumitate NISA
+(Transactions)
+1,000 FTE
+170FTE
+   45
+46
+Seminar
+Phone
+Application
+[Via smartphone]
+About 15 times
+49
+May-July 2020
+716
+August-October 2020
+May-July 2022
+Original plan value
+FY 2023
+ 800 FTE
+Original plan
+FY 2023
+     Completion of introduction of the “AGENT” next-generation sales branch tablet terminal to all branches
+70FTE
+   
+  Promotion of Financial Digitization (DX)
+Business Strategy for Value Creation
+  Communication using state-of-the-art machine learning technology
+Car loans and housing loans
+By proactively deploying digital marketing using mega-platformer cutting-edge machine learning technology, we are helping to improve the performance of car loans and home loans.
+Introduction of online management support platform
+In June 2020, the Bank of Yokohama launched the Bank of Yokohama Big Advance, an online management support platform that supports the expansion of sales channels via the Internet in an environment where non-face-to-face communication is required as a measure against infectious diseases. Higashi-Nippon Bank also offers the “Higashi-Nippon Big Advance”, and the Group is working together to support the expansion of customer transactions.
+Innovation in customer experience
+Cashless Payment Business
+Starting with the HamaPay smartphone settlement service, we will add value by adding functions to various cashless transactions and settlement services, and by collaborating with other companies, thereby improving customer convenience and promoting a cashless society.
+Car loan balance
+About 2 times
+235
+September 2018
+510
+September 2020
+(¥100 million)
+September 2022
+(¥100 million)
+April-September 2022Uncovering new customers by letting machines learn from sales dataDigital Transformation of Business Models
+  Example of an advertisement promoting applications for car loans
+Signed up user data Machine learning
+(no personal information) Finding the characteristics of users with high conversion rates and distributing web
+advertisements
+Web advertising
+               New HamaPay FeaturesHamaPay Touch Payment
+As a first among Japanese financial institutions, a prepaid card linked to a bank account can be issued instantly within
+a smartphone, and touch payment at ID member stores is supported.Mortgage loan execution amount [via web]
+76
+   Approx. 4times
+18 April-September 2019
+April-September 2020  “Kotora Project” small-lot payment platformReceipt of tax P2P money Expense and public dues transfer payment[Collaboration 1] Collaboration with ALSOK
+Major increase in the number of HamaPay member stores
+We began working with QR code payment services in August 2019. The number
+of HamaPay member stores increased dramatically through the provision of the multi-QR code settlement service.“HamaPay” smartphone payment serviceQR code payment
+Touch payment Payment notice settlement
+   Going cashless in local government
+Support for HamaPay invoice payment
+As a first in Kanagawa Prefecture, Isehara City’s tax and other payments are now supported by the HamaPay invoice payment service of the HamaPay smartphone payment service.
+(Store) 15,000
+10,000 5,000
+1,500 September 2019
+13,000
+September 2020
+ Payment slip sending
+[Collaboration 2] Collaboration with NetStars
+Trying to find room for collaboration with NetStars
+We developed an app for local governments that allows multiple payments using NetStars’ cashless payment system. We will continue to utilize these technologies to revitalize the local economy.
+  Creation of new businesses and innovation
+Digitization supportThe Bank of Yokohama has newly assigned a “Digital Advisor” within the Digital Strategy Department to propose optimal solutions to companies. The Digital Advisor will visit companies directly in collaboration with branch offices to identify digitization needs and provide solutions. In collaboration with the Bank of Yokohama Group’s think tank, the Hamagin Research Institute, and external specialist companies, we help our clients create new businesses and innovations by providing a wide range of consulting services, including business process improvement, support for the introduction of telework, data aggregation and analysis for the purpose of sales expansion, and introductions to IT personnel.
+Linkage between HamaPay and Kotora will ensure interoperability, improve customer convenience, and further promote cashless transactions.
+Hamagin App
+Against the backdrop of the growing cashless society, mobile apps have grown to become the most important channel, used by more than 500,000 people. In December 2020, the Hamagin App was renewed, and in addition to the existing balance inquiry function, many functions were added, such as transfers and pay-easy, making the app more convenient for customers to use. We will continue to evolve it into an “app that is close to customers’ lives”, that is convenient and reliable anytime, anywhere with a smartphone, without having to go to a bank or ATM.
+  Digitalization Challenges for SMEsResponse to the new coronavirus Responding to new ways of working Business Process Improvement Securing IT human resources
+Group Company
+ Headquarters departments
+External Expert Services
+client
+Linkage
+digital advisor
+proposalProposing the best services and solutions Bank of Yokohama
+External Expert Companies
+Hamagin Research Institute
+ Number of users of the Hamagin app (10,000)
+100
+  75
+    47
+48

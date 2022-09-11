@@ -1,0 +1,224 @@
+Industrial Automation Business (IAB)
+Domains
+Corresponding SDGs
+  With the vision to “bring innovation to manufacturing by automation, to enrich lives of people all over the world,” the Industrial Automation Business leverages OMRON technologies to create innovations in manufacturing. These innovations contribute to productivity advancements in the world’s manufacturing industry. Setting our unique innovative-Automation concept, our aim is to enrich the lives of people around the world by generating/making manufacturing innovations through our technologies and solutions based on the widest range of control devices in the industrial market.
+ Executive Vice President Company President, Industrial Automation Company
+Yutaka Miyanaga
+DigitalTransformation Needed Rapidly in Manufacturing Floors
+The environment surrounding the manufacturing industry has been undergoing great changes recently. This includes changes in needs in manufactured items and methods, manufacturing locations, and manufacturing personnel, as well as changes in seeds, such as artificial intelligence (AI), Internet of Things (IoT), robotics, and other technological innovations. To solve these challenges faced in manufacturing floors through innovations, OMRON came up with the unique innovative-Automation concept in 2016. By 2019, we had created more than 170 control applications highly integrated with software by making use of more than 200,000 industry-leading control devices. These control applications have been highly appraised by our customers.
+COVID-19 has posed unprecedented challenges to the manufacturing floor. Lockdown and travel restrictions implemented to contain the pandemic have caused stagnation throughout the supply chains of manufacturing industries, accelerating the shift from centralized mass production through globalization to local production for local consumption.
+In human-centered production floors, where social distancing is required, there are growing calls for diverse working styles, including remote work.
+As a result, there is a rapidly growing demand for digital transformation (DX) that uses digital technologies to realize the fundamental manufacturing principles, San Gen Shugi (principle of three realities), which focus on real sites, real objects and real situations.
+Solve New Challenges From the COVID-19 Crisis Leveraging innovative-Automation as a Partner for Manufacturing Floor Innovation
+As a company that has been involved in upstream processes of manufacturing for many years, OMRON regards it as its social responsibility to contribute to reducing the risk of spreading COVID-19, to ensure the safety of its employees, and to support work sites that play an essential role in securing sustainable urban and social activities. The new challenges facing manufacturing in the with- and post-COVID eras may also create good opportunities for further innovation leveraging innovative-Automation. Specifically, we can introduce automation to increase resilience in production, or we can apply digital technologies to engineering environments that are highly dependent on human resources, such as design and modification of production facilities and start-up and maintenance of facilities. In June 2020, amid the COVID-19 pandemic, OMRON released an AI-mounted image processing system that contributes to labor saving and automation in the field of visual inspection. This was followed in July with the launch of the robotic integrated controller that enables advanced synchronization of robots and control devices comprising production facilities, and achieves remote engineering at any time and place. These products represent value that can only be provided by OMRON, a company that possesses all the necessary automation devices, including sensors, motion technologies, robots, and safety devices that comprise facilities, and enables automation in a comprehensive manner. To continue with manufacturing innovations in the new world after the COVID crisis, we are working to build remote, online, and other forms of support systems that take into account the health and safety of our customers to the fullest. As a good partner for manufacturing floor innovation, OMRON remains committed to solving new challenges with our customers.
+33 OMRON Corporation Integrated Report 2020 Business
+Factory Automation
+ 
+                                Business Highlights
+Net Sales / Operating Income / Operating Income Margin
+Capital Expenditures / Depreciation and Amortization / R&D Expenses
+Net Sales (Billions of yen)
+Operating Income
+331.0
+Operating Income Margin (right axis)
+Capital Expenditures (Billions of yen)
+Depreciation and Amortization
+400.0 300.0 200.0 100.0
+352.8
+25.0 20.0 15.0 10.0
+5.0
+21.0
+9.3
+4.2 5.2
+23.3
+396.1
+391.8
+(%) 20
+10
+R&D Expenses
+20.0
+7.4 6.9
+   336.0
+18.7%
+74.0
+16.1%
+62.9
+18.2
+5.3
+4.0
+       14.3%
+47.9
+15.7%
+52.0
+15.2% 307.0
+53.6
+11.4%
+35.0
+16.4
+4.5
+6.9
+4.8
+000 15 16 17 18 19 20FY
+(Forecast)
+Fiscal 2019 Results and Fiscal 2020 Plan
+In fiscal 2019, although demand for capital investment in the digital industry remained low from the beginning of the fiscal year, signs of recovery were seen in the second half, with some investment in semiconductor-related businesses rebounding. On the other hand, demand in the automobile industry was limited as a result of restrained investment due to a decline in global new car sales. Combined with the impact of foreign exchange due to yen appreciation, among others, net sales decreased year on year. Due to the decline in net sales and the impact of foreign exchange, operating income decreased year on year.
+  In fiscal 2020, we continue to intensify our efforts to offer solutions for solving issues in manufacturing floors. In addition, we place focus on responding to the growing demand for automation and labor saving due to the impact of COVID-19. We expect that it will take time for a recovery to be seen in demand for capital investments in the automobile industry. In light of the continued challenging business environment described above, we forecast net sales for fiscal 2020 to be lower than the previous year. Due to the decline in net sales and the impact of yen appreciation, we forecast operating income to decrease year on year.
+Sales by Product
+Output + Robot
+Input
+Servo Motors and Drivers
+Logic
+Programmable Controllers
+Motion Controllers
+Mobile Robots
+FY2019 Net sales ¥352.8 billion
+53%
+15 16 17 18 19FY
+    12%
+35%
+Fiber Sensors
+Vision Sensors
+Safety Light Curtains
+        Progress of Sustainability Initiatives
+Social Issues to be Solved
+INPUT
+Number of employees: 9,791 R&D expenses: ¥20.0 billion Capital expenditures: ¥4.8 billion (Total of 37 Automation Centers/ 2 new PoCs)
+Fiscal 2020 Goals
+Safety Controllers
+    Labor shortages
+(shrinking labor force in developed countries and lack of skilled workers in emerging economies)
+Respond to increasingly advanced and diversified manufacturing processes
+New innovative-Automation products across four focus industries
+– Control technology for manufacturing innovation –
+ Fiscal 2019 Progress
+OUTPUT
+   Net sales: ¥352.8 billion
+Operating Income: ¥53.6 billion (Operating Income Margin: 15.2%)
+Created more than 170 control applications to realize innovative-Automation
+Created new values, including new production line “Cell Line Control System” where people and machines can cooperate
+Launched the autonomous mobile robot LD-250 and expanded automation applications
+Three partnerships for accelerating innovative-Automation
+Business
+OMRON Corporation Integrated Report 2020 34
+OUTCOME
+Improve productivity at manufacturing plants through innovative-Automation
+SDGs 8.2.1
+Increase added value in secondary industries through innovative-Automation
+SDGs 9.2.1
+
+                                Further Deepening innovative-Automation
+OMRON works to solve issues in manufacturing floors with the unique value creation concept, innovative-Automation. As the name suggests, “innovation” forms a key part of this concept. We have been involved deeply in our customers’ front-line operations and created an array of control applications highly integrated with software. We deliver these applications to customers in a wide range of industries around the world, including automobile, digital, and food businesses. The Automation Centers (ATCs) are production hubs for these control applications.
+The ATCs are intended to provide a place where our sales engineers and customers can simulate equipment for use on-site and test and demonstrate solutions for issues faced by the customers in their manufacturing floors. In January 2020, OMRON opened AUTOMATION CENTER TOKYO (ATC-TOKYO) in a highly accessible location in Shinagawa, Tokyo. ATC-TOKYO is our 37th global ATC. ATC-TOKYO is the world’s largest* ATC that simulates a manufacturing environment. At ATC-TOKYO, visitors can experience and verify AI, IoT, robotics, and other latest factory automation technology. With the ATC-TOKYO as our flagship base, more than 1,000 sales engineers support our customers in solving their issues around the world.
+Now, society is shifting focus from things to experiences (or services). Previous to this shift, we have been working on the manufacturing site data utilization service “i-BELT” since 2017. The service is intended to improve manufacturing productivity and quality. The i-BELT is a co-creative service that makes use of digital technology. With the i-BELT service, OMRON combines customers’ knowledge with our unique know-how that we have accumulated in control devices and software as a company well-versed in front-line manufacturing operations. In this way, we promote the transformation of our customers’ front-line operations through on-site survey, creation of an environment for data collection and visualization, ongoing analysis, and improvement suggestions. In November 2019, OMRON formed a partnership with Siemens for the open platform MindSphere® in order to solve challenges faced in globally diversified manufacturing floors. Through the partnership, OMRON is expanding the service area of i-BELT. OMRON’s strength lies in solving issues at the edge, and Siemens has the cloud-based IoT platform. Through the partnership between the two companies, we seek to make use of vast amounts of manufacturing floor data to raise the improvement levels of front-line operations in quality and quantity, as well as to solve issues across multiple manufacturing bases at a time.
+In September 2019, OMRON reached an agreement with NTT DOCOMO and Nokia for a joint demonstration using the fifth-generation mobile communications system (5G) in manufacturing floors.
+We combine NTT DOCOMO’s insight into communications technology, Nokia’s base-station platform knowledge, and our expertise in automation of manufacturing front-line operations to evaluate jointly the usefulness and potential of 5G with the aim of developing communications technology required in manufacturing floors of the future.
+* In terms of floor area among all of OMRON’s ATCs as of September 2020.
+     Intelligent Machine
+Machines That Learn and Evolve
+Craftsmanship
+High-Speed, High-Precision Fabrication Innovative Machine Control
+ Zero Equipment Failures
+Predictive Maintenance
+ innovative-Automation
+ Integration of Workplace and Office Integration of Equipment and Management Technologies
+ Sensory Inspection
+Replication of Human Senses
+ Mobile Robot
+Conveyor-Less Production
+ Intelligent Cell-Line
+Collecting, Storing, and Processing Data
+  35 OMRON Corporation Integrated Report 2020 Business
+Mechanized Cell-Line
+Harmonization with Machines
+
+                                Initiatives in Fiscal 2019 to Deepen innovative-Automation
+ World’s Largest Flagship Base of OMRON’s FA Technology “ATC-TOKYO”
+At ATC-TOKYO, customers can experience and test solutions that are tailored to challenges they face with technologies and applications created through an optimal combination of our more than 200,000 control devices. Adjacent to ATC-TOKYO is AUTOMATION CENTER TOKYO POC LAB (POC-TOKYO). At the POC-TOKYO, we perform work verifications with industrial robots, autonomous mobile robots, and other various robots; test equipment that customers have brought in; conduct demonstration tests simulating the customers’ operating environments; and provide technical training for introducing these devices. In this way, ATC-TOKYO provides customers with total support, giving them the chance to not only “experience” cutting-edge manufacturing technologies, but also “verify,” “learn skills for,” and “develop” devices.
+Comments from the General Manager of the Automation Center
+ATC-TOKYO
+  Manufacturing floors are entering a period of major transition, and is facing challenges relating to advances in manufacturing processes, high-mix low-volume production, and shortage of skilled workers. ATC-TOKYO works with customers to solve manufacturing challenges of the future by providing opportunities to experience the latest technology combining AI, IoT, robotics, and other cutting-edge technologies in a simulated manufacturing environment. Going forward, we will also work on new styles of solutions through digital transformation that combine reality with virtual reality.
+Japan
+General Manager, Automation Center
+Seki Yamazaki
+ Commencement of DemonstrationTrials on the Use of 5G in Factories in Cooperation with NTT DOCOMO and Nokia
+The trials by the three companies will test the usefulness and possibilities of 5G wireless communications, including high-speed, large-capacity, low-latency, and simultaneous multiple connections in factories. As a future application of 5G, we aim to realize layout-free production lines whereby high- mix low-volume production lines using autonomous mobile robots can be constructed freely. We will also provide operators with real-time coaching to support early mastery of skills by collecting and analyzing video data that capture the line of movement and physical movements of operators and giving them immediate feedback on differences from skilled operators. In this way, we aim to level of cooperative work between humans and machines.
+Comments from Our Partner
+5G is expected to be utilized in many industries, therefore NTT DOCOMO is working hard on promoting the introduction of 5G for wireless communication in manufacturing settings, as one of the most promising use cases. We are grateful for the chance to cooperate with OMRON and Nokia since fiscal 2019 in the examination and demonstration trials for the use of 5G in manufacturing floors. OMRON has extensive insight and expertise in factory automation devices, control technology, and manufacturing. OMRON is a very strong partner in solving the challenges faced by manufacturing industries.
+Through the collaboration, we would like to contribute to OMRON’s efforts to improve operating efficiency on manufacturing floors by taking advantage of the features of 5G, such as high speed, large capacity, low latency, and simultaneous multiple connections.
+ Analyzing operator movements
+ NTT DOCOMO, INC.
+Senior Vice President
+General Manager of 6G Laboratories Mr. Takehiro Nakamura
+Business OMRON Corporation Integrated Report 2020 36
+
+                                Contribute to Manufacturing Innovation in the With-COVID Era
+The spread of COVID-19 has had a major impact on the manufacturing industry. OMRON has continued to make efforts to ensure a stable supply and provide support in various ways through its global production network and sales/ service bases. These efforts include increasing the production of pharmaceuticals and other medical-related products that play an important role in anti-virus measures, starting up new facilities, supporting the production of food and other products indispensable for everyday life, and establishing production lines that avoid the “three Cs” (“closed spaces,” “crowded places,” and “close-contact settings”) on manufacturing floors.
+On the medical front, in particular, OMRON has supported the increased production of medical-related products such as medical face masks and gowns, which are in short supply, and antibody test kits for COVID-19. We have also begun to address new needs arising from COVID-19. One such example is a disinfecting robot mounted with an ultraviolet (UV) light irradiator using the autonomous mobile robot.
+The disinfecting robot takes advantage of its non-human characteristics, in particular, its immunity to pathogens, and is equipped with a UV light irradiator. It is operated by setting the locations, routes, and time for sterilization and disinfection, and has already been adopted at various facilities in more than 10 countries around the world, including Poland, France and Canada. OMRON helps reduce the burden on healthcare professionals and disinfecting personnel, and also helps prevent the risk of infection from spreading, by supplying the mobile robots to its partner, which develops disinfecting robots, and supporting their introduction.
+OMRON has pursued a new relationship of harmony between humans and machines based on its automation philosophy, “To the machine, the work of the machine; to humankind, the thrill of unfettered creativity.” No matter how automation technology advances, human’s flexibility and senses will never be surpassed by machines. There has long been a need for labor saving in production floors through the automation of assembly and inspection processes that are commonly performed by human resources. Following the outbreak of COVID-19, a new labor saving method is required to avoid the three Cs in human-centered manufacturing environments, such as cell lines. As a solution to meet this need, collaborative robots that work with human operators are attracting attention. Placing these collaborative robots between human operators makes it possible to avoid the three Cs on manufacturing floors, ensuring the safety of the operators while contributing to productivity at the same time. In this way, OMRON contributes to constructing manufacturing environments that can cope with the shortage of workers by ensuring optimal cooperation between humans and machines, even in the event of unforeseen circumstances such as COVID-19.
+Conventional human-centered manufacturing floor Manufacturing floor where humans and machines harmonize
+   37 OMRON Corporation Integrated Report 2020 Business
+
+                                Solve Social Issues in the With-COVID Era
+ Supporting the Increased Production of Antibody Test
+Kits for COVID-19
+With the increasing demand for antibody test kits for COVID-19, OMRON developed a robotic solution that connects a cutting machine and a packaging machine in cooperation with the equipment manufacturer, KRAUS-MASCHINENBAU. In just a few months, we built production lines to increase production at Senova Immunoassay Systems in Germany, which develops and produces test kits. OMRON has automated conventional manual production processes and achieved a significant increase in speed, contributing to increased production of test kits, for which there is increased demand.
+Employee Comments
+Antibody test kit for COVID-19
+  “We are pleased that we can use our technology to support the global efforts in the fight against the corona virus to a small extent. In times like these and in flexible production of the future, cooperation is the key. We are proud that we follow with this project the OMRON Principles: “to improve lives and contribute to a better society.”
+Jörg Krause, Germany Area Sales Manager
+ Automating Disinfection Work in Hospital with Mobile
+Robots
+At the Royal Hobart Hospital in Australia, medical staff had to carry large quantities of used medical equipment to a disinfection room, and the risk of contracting COVID-19 during this process was a cause for concern. In collaboration with A.E. Atherton & Sons, OMRON developed an automated solution for disinfecting medical equipment by linking disinfection equipment with the mobile robot. This solution reduces the risk of infection for medical staff, relieves them from hard labor, and contributes to creating a better working environment.
+Employee Comments
+Automated solution disinfecting for medical equipment
+  The automated disinfection process not only reduced the risk of injury from hard labor, but it also improved the work efficiency of hospital staff and contributed to a better working style. We were able to share the OMRON Principles with our partner and deliver Australia’s first solution.
+John Merret, Australia Business Development Manager
+ Preventing the Spread of Infection during Disinfection Work with
+a Disinfecting Robot Mounted with an Ultraviolet Light Irradiator
+In Poland, where COVID-19 is spreading, we focused on the disinfecting effects of ultraviolet rays. We have provided mobile robots to ControlTEC, a company developing disinfecting robots equipped with ultraviolet light irradiators, as part of our efforts to prevent the infection from spreading. The product is currently being used in public facilities, such as hospitals, schools, and hotels in Poland, reducing the risk of infection during disinfection work and contributing to the health and safety of healthcare professionals and others.
+Employee Comments
+Many companies have realized that automation can provide them with valuable support in coping with this COVID-19 challenge. It is thanks to OMRON’s Principle of solving social issues that we were able to come up with an optimal solution based on technology.
+Disinfecting robot mounted with an ultraviolet light irradiator
+  Jaroslaw Drzazga, Poland Field Sales Engineer
+Business OMRON Corporation Integrated Report 2020 38
+
+                                Innovative Products That Contribute to Post-COVID Manufacturing
+COVID-19 has brought major changes to manufacturing floors. Key to these changes is the massive transformation brought about by the latest digital technology, digital transformation (DX). We expect to see further diversification in the way people work, and acceleration in the automation of manufacturing front-line operations. OMRON has launched solutions for accelerating the digital transformation on production floors and the innovation of manufacturing. These solutions include an image processing system with defect detection AI to automate visual inspections, an autonomous mobile robot capable of carrying the heaviest class payload*1 in the world, and a robotic integrated controller that integrates and controls robots and control devices.
+The image processing system with defect detection AI makes use of the knowledge that OMRON has accumulated over more than 30 years in the field of visual inspection. Even an engineer with no expertise in AI can bring out the system’s high inspection performance by getting the system to learn from only about 10 images. The image processing system incorporates AI technology that reproduces “human sensibility” and “expert experience” in order to detect defects that up to now were difficult to detect with a machine without relying on human experience. This system contributes significantly to the automation of visual inspection, which will become more critical due to the shortage of labor.
+The autonomous mobile robot capable of carrying loads of up to 1,500 kg safely automates the transportation of heavy loads, such as large automotive components and voluminous pallet loads, that would have traditionally been moved using forklifts. In response to the increasing demand for labor saving in manufacturing floors, it can be used in combination with the mobile robot capable of transporting loads of up to 250 kg to automate monotonous and dangerous tasks and provide flexible and optimal autonomous transportation.
+The robotic integrated controller solves traditional challenges in manufacturing, including high-mix low-volume production, rapid start-up of production facilities, and shortage of skilled technicians, and contributes to promoting the digital transformation of manufacturing, such as remote and virtual operations, which are new needs that have emerged due to COVID-19.
+The robotic integrated controller is the world’s first*2 controller that makes it possible to control a robot and control devices with a single controller. This previously required separate controllers and software. Integrating ILOR+S*3, which are sensors, motions, robots, safety products—devices necessary for automation that comprise facilities— with a single controller makes it possible to control robots and peripheral mechanisms in real time and in full synchronization.
+This enables manufacturers to automate sophisticated and complex tasks, such as inspection and assembly, with robots. This is a value that can only be provided by OMRON, a company that possesses all the ILOR+S devices.
+In addition, we have made it possible to use the same programming language to control robots and machines, which used to be controlled with separate programming languages. This enables design and modification simulations for production facilities, and the remote start-up, adjustment, and maintenance of facilities, to be performed in a virtual environment.
+These products and applications automate tasks that previously had to be performed manually, and facilitate remote styles of engineering, based on the innovative-Automation concept. OMRON is also working to provide value through new methods of sales activities in real and remote environments by promoting digital transformation. We will remain committed to manufacturing innovation required in the post-COVID world by deepening innovative-Automation to solve challenges in manufacturing floors.
+   Image processing system with Autonomous mobile robots defect detection AI (Released in July 2020) (Released in June 2020)
+Robotic integrated controller (Released in July 2020)
+*1 As of July 2020 (comparison based on catalogue specs of autonomous mobile robots/internal survey)
+*2 Internal survey based on the status of patent applications and registrations as of November 2019
+*3 ILOR+S in an abbreviation for Input (input devices such as sensors), Logic (control devices such as controllers), Output (output devices such as motors), Robot, and Safety (safety devices to
+ensure the safety of equipment)
+39 OMRON Corporation Integrated Report 2020 Business
+
+                                innovative-Automation toTransform Conventional Perceptions of San Gen ShugiWorld’s First Robotic Integrated Controller That Enables Remote Manufacturing
+The robotic integrated controller makes it possible to manage robots and control devices with a single piece of software. This allows users to check the performance of all of the equipment before setting up the actual facility, check facilities in operation from a remote location, and repair and maintain facilities. For example, in the event of a problem in an overseas facility, a user can virtually check the facility from a remote location without actually visiting the location, and address the problem with members on-site. Toward a future characterized by advancements in remote work and other new styles of work, we will transform the conventional perceptions of San Gen Shugi in manufacturing with our robotic integrated controller and create new value based on the deepened innovative-Automation concept.
+Remote maintenance using simulations
+Online Support by Manufacturing Environment SpecialistTeam Serving as a Partner
+for Front-line Innovation
+Sales teams have also begun working to dramatically improve efficiency in resolving customer issues by utilizing digital technology. We have begun to deliver value that can only OMRON can provide as a company working together with customers to solve their issues. For example, we have introduced new forms of sales, including virtual ATC tours and online live communication with ATCs to test customer equipment remotely. In addition, we have utilized digital technology to explore new ways of solving customer issues by forming a global online team of experts in sales, development, ATC operations, production, and other sections from all over the world, with specialist skills and extensive experience. We will continue to take on the challenge of proposing the innovative-Automation concept through this specialist team, combining real-world and online support.
+   ATC Experts
+Provide innovative solutions with state-of-the-art FA technology and support
+     Tokyo/Kariya/Kusatsu
+Online Meeting Tools
+Development
+Solution support from a product development perspective
+     Customer
+    Sales
+Lead the specialist team to support customers
+in solving issues
+FAE
+Solution support from a production perspective, including efforts at in-house factories
+Support customers in building and deploying solutions tailored to issues specific to the manufacturing environment of each customer
+Issues Resolved Remotely by a Global Specialist Team
+Production
+Business OMRON Corporation Integrated Report 2020 40

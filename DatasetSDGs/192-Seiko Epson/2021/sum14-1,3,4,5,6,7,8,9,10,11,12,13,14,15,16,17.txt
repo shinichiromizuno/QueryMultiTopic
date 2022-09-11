@@ -1,0 +1,108 @@
+Epson CEO Message Corporate Vision Value Proposition Financial Value Creation Sustainability Integrated Report 2021 Strategies Strategy Management
+Realizing Responsible Supply Chains
+Value Creation Fact Data Platforms
+Epson Supplier Code of Conduct (RBA Code of Conduct)                      􏰌􏰋􏰊􏰊􏰉􏰈􏰋
+Supplier Guidelines
+The Epson Group Supplier Guidelines specify quality, price, and delivery requirements; compliance requirements, including trade control and security in the supply chain security; and environmental action requirements.
+The Supplier Code of Conduct (CoC), which is part of the guidelines, specifies labor, health and safety, environment, ethics, and management system requirements that are compliant with the RBA CoC. The RBA requires compliance with local laws as well as compliance with RBA standards when RBA requirements are stricter than local laws. Epson guarantees a certain level of management regardless of whether there are legal provisions in the country or region where the supplier resides, the strictness of requirements, or local labor customs. In January 2021, Epson revised the Supplier CoC to align it with the latest version of the RBA CoC. We notified all suppliers of the revised guidelines and had our major suppliers submit a letter agreeing to comply with the guidelines.
+Supply Chain CSR Strategy
+To live up to our Management Philosophy and Principles of Corporate Behavior, we have strategically established key long-term actions for supply chain CSR. We are approaching supply chain CSR from two broad angles, actions to ensure the human rights and safety of our suppliers’workers and actions to achieve sustainability. Through these actions, we will contribute to the SDGs.
+Supply Chain Overview
+Epson procures goods and services from around the world. Domestic procurement accounts for 42% of the spend and overseas procurement for 58%. Direct materials, which include raw materials and parts as well as outsourced production, account for 66%. Indirect materials, which include factory supplies, machinery and equipment, advertising, logistics, outsourced business processes, and temporary staffing, account for 34%.
+   Junichi Watanabe
+Managing Executive Officer
+Deputy General Administrative Manager, Production Planning Division
+Epson builds trusting relationships with its business partners around the world based on fairness, coexistence, and co-prosperity. We maintain high ethical standards and a social conscience, and we conduct our procurement and production activities in compliance with all laws, regulations, and rules in regions where we operate. We reduce the environmental impacts of our procurement activities while achieving stable and reasonable quality, price, and delivery. Epson is a regular member of the Responsible Business Alliance (RBA), a global coalition dedicated to corporate social responsibility (CSR) in global supply chains, and asks its suppliers to adhere to the same high ethical standards as Epson.
+The COVID-19 pandemic, which has disrupted logistics and contributed largely to a global chip shortage, has highlighted the growing importance of business continuity programs in the supply chain, and we are working closely with our suppliers to strengthen ours.
+Procurement Cost Breakdown
+Procurement
+Asia
+Americas
+Europe 6%
+15% 11%
+A B C D E
+Labor (Human Rights)
+Health & Safety
+Environment
+Ethics
+Management System
+ Actions to ensure worker rights and safety
+  Promoting decent work
+Ensuring work safety
+  Actions to realize a sustainable society
+Reducing environmental impact
+   Japan
+5%
+2% 2%
+ 63
+Direct materials
+Indirect materials
+42%
+Responsible mineral sourcing
+ 40%
+47%
+ 56%
+  45%
+29%
+  
+                Epson CEO Message Corporate Vision Integrated Report 2021
+Realizing Responsible Supply Chains
+Supplier Evaluation Program
+Value Proposition
+Financial Strategies
+Value Creation Sustainability Value Creation Fact Data Strategy Management Platforms
+Responsible Sourcing of Minerals
+Profits from the extraction and sale of minerals such as tin, tantalum, tungsten, and gold in conflict-affected and high-risk areas such as the Democratic Republic of the Congo and neighboring countries are used to fund armed groups and anti-government forces. Using minerals from these regions could potentially contribute to conflict and human rights abuses. Recognizing responsible mineral sourcing as an important societal issue, Epson joined the Responsible Mineral Initiative (RMI). We ask our suppliers to support our conflict-free mineral sourcing policy and to cooperate in surveys to identify smelters.
+To ensure that minerals used in Epson products are responsibly sourced, Epson conducts surveys in accordance with the OECD’s Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas. If a survey shows that it is not possible to verify that a mineral was sourced from a conflict-free smelter (CFS) certified under the RMI’s Responsible Minerals Assurance Program (RMAP), we try to mitigate
+risk by asking the supplier to
+change materials or change the
+source.    Epson’s supplier evaluation program consists of an indirect evaluation, which is based on information from a credit research agency, and four types of supplier self-evaluations: (1) a periodic evaluation of quality, cost, delivery, environment, and management systems; (2) a detailed CSR evaluation to evaluate compliance with the Epson Supplier Code of Conduct (RBA Code of Conduct); (3) an evaluation of the supplier’s ability to respond effectively to a fire or natural disaster; and (4) a safety management evaluation that assesses the response to risks such as fire and other emergency situations.
+The detailed CSR evaluation consists of a self-assessment questionnaire (SAQ) that major first-tier suppliers are asked to complete to check the state of Detailed CSR Evaluation
+compliance with the Epson Supplier Code of 100 Conduct (RBA Code of Conduct). Epson verifies SAQ answers by conducting on-site checks and audits. 80 Wealsosupportsuppliers’effortstoimprove. 60 In the 2020 fiscal year, Epson collected a
+5% 9%
+16% 37%
+    completed SAQ from 293 direct materials suppliers (497 sites). No supplier was judged to be high risk in terms of the overall evaluation or labor. Moreover, the percentage of low-risk suppliers increased to 91%, up 7 points from 2019.
+40 58% 20
+0
+84% 91%
+3TG Survey Results
+Number of identified smelters 1
+Number of CFS
+Total Tin 340 79
+FY2020
+Tantalum Tungsten Gold
+ Supply Chain Business Continuity Management (BCM)
+1 For information regarding the details of the smelters (→https://global.epson.com/SR/supply_chain_csr/img/smelter_list.pdf)
+ships, shipping containers, and chips due to increased product demand from people staying home. This makes it necessary to establish even more robust supply chains. We are thus working more closely with suppliers to address these types of issues and put in place preparations for both emergency and non-emergency times.
+Suppliers themselves complete an emergency response capabilities evaluation to assess their ability to
+2018 2019 2020 Low risk Medium risk High risk
+(FY)
+242
+55
+41 54 166 38 42 107
+Response rate 97% from suppliers
+    If an Epson production site should be damaged or disrupted, Epson’s first priority is to preserve lives and safety and then to secure product supply continuity so as not to inconvenience customers.
+In April 2021, to further improve resilience across the supply chain, we amended our Supply Chain BCM Guidelines, revised the anticipated period of production and procurement stoppages, accelerated distributed production, and put us in a position to continue supplying customers even in an emergency. The pandemic has caused the utilization rate of production sites to decline and has resulted in shortages of
+continuously maintain or restore the supply of parts in an emergency. They also complete a safety management evaluation to assess their handling of electricity and hazardous substances and their ability to recover from disruptions. Epson provides them with feedback and support for improvement, as needed.
+Evaluation of Resilience in Emergency
+FY2020
+2,170
+1,919 88%
+Evaluation of Safety Management
+Supply Chain BCM Procurement function
+FY2020
+2,134
+1,865 87%
+      Supplier function
+Supplier
+Production function
+Production sites
+Sales function
+Sales sites
+Customers
+Target Result
+Target Result
+ Logistics function
+Unit: Number of companies
+Unit: Number of companies
+ 64

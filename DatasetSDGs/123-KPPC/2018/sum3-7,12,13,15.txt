@@ -1,0 +1,103 @@
+ Environment Basic Philosophy
+The Company’s basic philosophy regarding the environment is to carry out businesses that help create a bright future for the global environment. We always conduct our activities in constant consideration of the corporate contribution to global environmental conservation through, for instance, the implementation of a comprehensive recycling-oriented business aimed at achieving a recycling-oriented society for efficient use of limited resources.
+    16 / KPP INTEGRATED REPORT 2018
+Environmental Management
+We construct, manage, operate and improve our system in accordance with the ISO 14001 environmental management standard. On the basis of the Environmental Policy, which is a commitment made by our management team, we have established an environmental management system in a bid to enhance environmental performance in line with business through the examination and evaluation of activities and results in separate departments. Whether the system is effective is checked in our annual internal audits as well as in the annual examination performed by an outside organization. Since acquiring ISO 14001 certification in 2002, we have been keeping ourselves certified in line with its updates.
+Initiatives to Reduce the Environmental Impact
+As a business operator using energy beyond a certain level prescribed in the Act on Rationalizing Energy Use, we fall under the scope of specified business operators and special consigners. We are aiming to reduce the environmental impact of our operations in a sustained manner.
+ Scope of Certification Application
+Registration Number: JP18/071544 Audit Organization: SGS Japan Inc. Scope of Application: Sales for paper, pulp, recovered paper, films, their peripheral materials and related machines
+Bases under the Scope of Application: Tokyo Head Office, Kansai Branch, Kyoto Sales Department of Kansai Branch, Chubu Branch, Kyushu Branch, Sendai Sales Department of Kita Nihon Branch and Sapporo Sales Department of Kita Nihon Branch
+Logistics Initiatives
+KPP is designated as a specified cosigner, a business with a high annual volume of freight transportation consigned in association with its business activities. We take measures and monitor the results regarding the reduction of energy consumption per basic unit by at least 1% on an annual average basis as requested by the Japanese national government with a view to the continuous reduction of the environmental impact of logistical operations. We continued implementing major priority measures including improving the ratio of direct transport, integrating stock and distribution facilities, and optimizing stock locations for reducing transport distances to delivery destinations. For fiscal 2017, our energy consumption per basic unit increased by 0.8% year on year, while our overall CO2 emissions from transport fell by 2.2% year on year. The annual reduction rate in energy consumption per basic unit averaged 2.4% in the past five years.
+Initiatives as a Business Operator
+KPP is designated as a specified business, which refers to a business operator whose total annual electricity and other energy consumption is 1,500 kiloliters or more in crude oil equivalents. We have been taking initiatives aimed at lowering energy consumption per basic unit by 1% on an annual average basis since 2013. For fiscal 2017, our energy consumption per basic unit dropped by 37.1% year on year, and our overall CO2 emissions also fell by 34.5% year on year. This was possibly due to the sale of some of the properties we owned. The annual reduction rate in energy consumption per basic unit averaged 13.6% in the past five years.
+Initiatives as a Business Operator (Per Basic Unit for Energy)
+Logistics Initiatives (Per Basic Unit for Energy)
+  Year-on-year 86.3%
+96.4%
+106.2%
+62.9%
+0.003124
+2016 2017 (Fiscal year)
+       2014 2015 2016
+2017
+(Fiscal year)
+2014 2015
+* Calculation method: crude oil equivalent (kiloliters) /
+annual sales volume (thousand tons) = Per basic unit for energy
+* Calculation method: crude oil equivalent (kiloliters) / net sales = Per basic unit for energy
+Energy consumption and CO2 emissions by business operators
+Crude oil equivalent (kiloliters) CO2 emissions (t-CO2)
+2014 2015 2016 2017 (Fiscal year)
+* The above figures are based on the crude oil equivalents (kiloliters) of the sums of electricity, city gas, LP gas and kerosene used annually in buildings we own (on a non-consolidated basis), which we report to the Ministry of Economy, Trade and Industry. The figures per basic unit are values obtained by dividing the crude oil equivalent (kiloliters) by annual net sales (millions of yen).
+* We adopt coefficients updated by the respective electric power companies each year as emission factors used as the bases for calculating CO2 emissions.
+CO2 Emissions Based on the Ton-Kilometer Method (t-CO2)
+2014 2015 2016 2017 (Fiscal year)
+* The above figures are figures we report to the Ministry of Economy, Trade and Industry on a non-consolidated basis in cases where the energy we have consumed for freight carriage as a cosigner amounts to 30 million ton-kilometers or more. Ton-kilometer is a unit for values obtained by multiplying the weight of each freight carriage (tons) by the distance traveled (kilometers). We adopt figures calculated by dividing the crude oil equivalent (kiloliters) by the annual sales volume (thousand tons) as our figures per basic unit.
+         KPP INTEGRATED REPORT 2018 / 17
+1.19
+1.15
+1.17 1.18
+12,470
+11,857
+11,838
+11,572
+0.004848
+0.004673
+0.004965
+3,912 1,879
+3,661
+1,821 1,821
+3,594
+2,355 1,180
+Solving Environmental Issues through its Businesses
+Aiming to Become a Comprehensive Recycling-Oriented Company
+With a view to increasing thermal recycling
+We are pushing ahead with the business of selling woodchips, pellets and other fuels for biomass power generation. For this purpose, we have invested in Biomass Power Technologies Inc., a company operating a biomass power generation business based in the city of Matsusaka in Mie Prefecture in September 2016. From the standpoint of a supplier, we are accumulating expertise in the renewable energy business and combustion data together with this power generating company. With a view to ensuring proper combustion in boilers and other equipment, we will concurrently undertake development efforts aimed at optimizing combustion management with the application of AI technologies. As a result, we will make a greater contribution in the area of thermal recycling as well.
+From this point on, we will expand the thermal recycling business through which we supply fuels based on wood resources and the like in addition to the paper-to-paper material recycling business through which we offer recovered paper and other recycled materials. We hope to strengthen our position as a comprehensive recycling-oriented company by expanding these two recycling circles.
+The Company’s basic stance is to make an environmental contribution in line with its business. We promote sales of products from materials that are confirmed as being compliant, and we work to expand business with material recycling
+and thermal recycling with a view to evolving into a comprehensive recycling- oriented company. We regard all these actions as environmental contributions that lead to the future of our planet.
+  Responsible Use of Wood Resources
+Checking the compliance of raw materials is vital for sales of paper materials as well as paper products. Connected to the supply chain, we aspire to supply products made of materials that are confirmed as being compliant from both an environmental and a social perspective, and to provide customers with greater reassurance. Forest certification programs encourage the continuous operation of forests around the world by combining appropriate forest management with the management of raw materials and products in the entire supply chain, from processing to distribution. We have acquired Chain of Custody certification, which accredits processing and distribution, from two leading forest certification authorities, namely the Forest Stewardship Council (FSC®) and the Programme for the Endorsement of Forest Certification (PEFC), and we are positively promoting sales of forest certified pulp and paper.
+The mark of responsible forestry
+Paper Raw Material Business
+Processes through which goods manufactured with forest resources as base materials reach consumers correspond to arteries when we liken them to the flow of blood. The processes through which consumed recovered paper is collected, transported and recycled into paper raw materials correspond to veins. We must ensure that goods circulate actively through these arteries and veins without stagnation in order to sustain a sound society through the conservation of resources and the reduction of waste. We play the role of the heart that governs the flows through arteries and veins. We sell approximately 2,130 thousand tons* of paper and paperboard and collect and sell around 1,310 thousand tons* of recovered paper each year. These figures are among the highest in Japan.
+* KPP’s non-consolidated operating results for fiscal 2017
+Pulp (Paper Raw Materials)
+KPP
+Paper Manufacturers
+KPP
+Pulp Manufacturers
+Paper-to-Paper Material Recycling
+Printing Companies
+Forests
+Ecomo Business to Expand the Recycling Circle
+The name of our business model, ecomo, reflects the concept of bringing (mottekuru in Japanese) eco. Ecomo is one of our businesses aimed at promoting the effective use of renewable resources. Town ecomo, one of our ecomo projects, is a system that enables users to bring old newspapers and magazines to recovered paper collection boxes installed in locations such as Supermarket etc.when they go shopping there, and receive shopping points that can be used at the stores in exchange for the waste based on its weight. Town ecomo makes recovered paper collection less burdensome for local governments. In addition, it is attracting attention as a new system that connects recovered paper, which has previously been incinerated because of the inability of community-based waste collection services to deal with it, with the circle of recycling. Town ecomo recycling boxes have been installed in 441 stores throughout Japan as of July 31, 2018. They contribute to local residents’ care for the environment. We also collect confidential documents in offices
+through special recycling
+boxes installed there, and
+shred these documents
+and reduce their volume
+with consideration given to
+security aspects through
+office ecomo, another
+of our ecomo programs
+aimed at recycling these
+documents safety and
+reliably.
+       KPP
+KPP
+        Consumers
+Offices and Homes
+Thermal Recycling
+Power Generation Facilities
+         Environmental Education
+To raise the environmental awareness of our employees, we began encouraging them to take the semiannual Certification Test for Environmental Specialists (Eco Test) organized by the Tokyo Chamber of Commerce and Industry in fiscal 2011. We increased the ratio of employees certified through this Test to our total workforce to 50% in fiscal 2015, one year ahead of the target of fiscal 2016 set in the Eco People 50 Plan.
+We will work continuously on environmental education for our employees.
+Percentage of Employees Certified through the Eco Test *AsofMarch31,2018
+Target
+50%
+Actual
+61.1%
+  18 / KPP INTEGRATED REPORT 2018
+KPP INTEGRATED REPORT 2018 / 19

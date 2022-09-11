@@ -1,0 +1,59 @@
+ Initiatives in
+Technology
+Shimizu will establish new research facilities and external alliances to accelerate the development of innovative technologies across Group businesses
+Policy under the Mid-Term Management Plan
+● Create innovative production and quality management sys- tems
+● Provide safe, secure, and sustainable communities
+● Strengthen the foundations for technological development
+(human resources, research facilities, external alliances, intel- lectual property strategy)
+Contributing to the achievement of SDGs through business activities
+  Overview of Activities
+Shimizu is actively working to improve produc- tivity and advance i-Construction that supports the lifestyles of people through community development and high quality infrastructure.
+As an industry leader in using robots for labor savings, we have already introduced and are op- erating construction robots at multiple jobs sites. We are also using AR, VR, projection mapping, and other advanced technologies to achieve ef- fective and consistent quality management.
+News Release
+December 2018
+Construction with Robots Part of High- rise Hotel Under Construction in Shin- Osaka
+-Construction Robots Transport Materials, Weld Steel Columns, and Attach Ceiling Panels- https://www.shimz.co.jp/en/ company/about/ news-release/2018/2018011.html
+TOPICS
+Pursuing Research and Development of Construction Robots Equipped with the Latest Technology
+The dramatic decline in the number of highly skilled technicians in the near future is a concern for the construction industry. This will require improvements in productivity and the working environment to recruit the next generation of workers. In response to these conditions, in 2016 Shimizu began development of Shimz Smart Site, a next-gen- eration construction production system that enables collaboration between human workers and robots. The Robotics Laboratory in the Institute of Technology developed autonomous control technology and will apply the learnings from the high-rise hotel job site in Shin Osaka to new job sites.
+Our robots are called buddies and we have developed them to be a companion that works alongside human workers. They include Robo-Carrier, a horizontal conveyor ro- bot, Autonomous-ELV automated transport
+system, Robo-Welder, a steel pillar welding
+ ¥12.5
+Future Initiatives
+To provide the value we are targeting in our long-term vision, we are focusing efforts on external alliances while enhancing internal technical capabilities, as well as on research and development and innovation to anticipates major changes in the future.
+Wind and water damage from typhoons and torrential rains has been a frequent occurrence in addition to earthquake damage. Demand for di- saster prevention and mitigation continues to rise.
+We will contribute to the realization of safe, secure, and resilient communities by effectively utilizing digital and other technologies in ad- dition to the technological expertise we have accumulated thus far.
+We are also working to develop technologies that will support inclusive communities. Such tech- nology includes building new highly productive workplaces that support workstyle reform, and equipping communities with pedestrian navigation systems and other voice navigation systems.
+To realize our goal of a sustainable society, we are working on advanced research and develop- ment based on technologies that improve pro- ductivity. These include adding to our prior work on smart grids, ZEB (Zero Energy Buildings), re- newable energy, hydrogen use and other energy systems, but also technologies that promotes the use of wood materials, an area in which Shimizu has an established track record.
+We will aim to continue to provide new technologies and create value by combining AI, robotics, and other advanced technologies with the fundamental construction technologies we have developed over many years.
+Advanced Earthquake Engineering Laboratory in the Shimizu Institute of Technology in Koto-ku, Tokyo
+Investment in research and development (consolidated)
+ billion
+(FY2018)
+robot, and Robo-Buddy, multi-purpose robots that installs ceilings and flooring. The robots receive work instructions from tablet devices and multiple robots work in concert while recognizing their positioning relative to each other and the working area.
+Number of patent applications:
+* BEMS: Building Energy Management System
+312
+Smart BEMS
+One Step Closer to Achieving Zero Emissions and Hydro- gen-powered Towns
+In July 2019, we began trial operation of the Hydro Q-BiC hydrogen energy system for use in buildings together with the National Institute of Advanced Industrial Science and Technology (AIST). The trial is being conducted in the administration building of the Koriyama regional wholesale market in Fukushima Prefecture.
+Hydro Q-BiC is an all-in-one system that combines efficient hydrogen manufac- turing technology powered by renewable energy, hydrogen storage and discharge technology using hydrogen storage alloy, and a Smart BEMS* optimal operating technology. The storage tank, which uses a newly developed hydrogen storage alloy, enables hydrogen to be compactly stored near the building and used safely. This is an important technology that can contribute to carbon-free buildings and city areas, developing resilient communities, and connecting with vehicles as an energy network in smart cities. We aim to commercialize it in FY2020.
+Robo-Buddy installing a ceiling
+  (FY2018)
+PV
+Surplus power Short-term
+Long-term
+ Power for building
+Grid Lighting / AC
+Power / heat for building
+   Battery
+ Make hydrogen
+Hydrogen generator
+Use Hydrogen storage
+HH
+Store
+Fuel cell
+Heat
+Hydro Q-BiC41 Shimizu Corporate Report 2019
+Shimizu Corporate Report 2019 42n

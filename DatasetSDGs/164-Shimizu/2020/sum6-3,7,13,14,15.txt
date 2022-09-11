@@ -1,0 +1,29 @@
+Engineering
+Contributing to the achievement of SDGs through business activities
+We are focusing on alternative energy, environmental cleanup, life sciences, and digital solutions to pro- vide carbon-free communities and safe, secure, and healthy living environments.
+Key Strategies of the Mid-Term Management Plan
+• Expand the EPC business* in the four core areas of energy, envi- ronment, production plants, and information technology
+• Enter new markets and diversity our revenue base
+Overview of Activities
+In alternative energy, Shimizu contributed to cleaner energy by building 75 wind turbines with a total generation capacity of 226 MW in fiscal 2019. In environment, we successfully verified our proprietary soil-washing technology in an experiment to decontaminate soil contaminated by dioxins in Vietnam.
+In production and logistics facilities, we combined plants and informa- tion to provide better solutions and expand the EPC business.
+Future Initiatives
+We will continue to strengthen our sales capabilities, competitiveness, and earning power in the four core areas. In the area of alternative energy, we are building the world’s largest SEP vessel, which will enable highly efficient, steady construction of ultra-large-scale wind turbines for offshore wind power, a market that shows future promise. We aim to secure top market share in offshore wind power, in addition to onshore wind power. In the environment area, we will work to further improve and diversify soil decontamination technology and will expand a wide variety of environmental cleanup businesses, such as onsite remediation and washing to reduce the amount of pollution in soil and groundwater and water decontamination. In the plant area, we will expand orders for turnkey projects by supporting higher efficiency and automation in advanced production facilities. In the information area, we will use AI and IoT to expand ICT system integration to match the facility’s purpose, the customer’s needs, and accommodate the new normal. Shimizu will also establish a global business base and expand in strategic areas, in addi- tion to our initiatives in next-generation energy, life sciences, advanced digital technology, ocean resources, and other new areas of engineering.
+Highly efficient automated SEP vessel (SEP: Self-Elevating Platform) equipped with the world’s largest carrying and crane capacity, capable of constructing ultra-large-scale offshore wind turbines (completed perspective)Providing AI-based Solutions
+Shimizu entered a capital and business alliance with EDGEMATRIX, Inc., a start-up company involved in the advance AI solution business, in August 2019. The two companies are working to manifest the synergies created to actively expand the use of AI.
+In March 2020, Shimizu installed an AI-equipped product inspection system in the Kobe plant of Rokko Butter Co., LTD. This is contributing to greater productivity in the food plant by reducing the labor required in the inspection process on the filling and packaging line.
+We have also installed two state-of-the-art systems in S.LOGI Niiza, a large logistics facil- ity under development in the city of Niiza. One system is an early fire detection system. This system uses AI to comprehensively analyze data obtained from various sensors and detect fire with a high degree of accuracy, which contributes of improving safety. The other system is a vehicle management and guidance system. This system uses AI to analyze images from monitoring cameras in the park-
+ing lot and provide information
+on open parking spaces and daily
+congestion forecasts on a portal
+site. This eases vehicle conges-
+tion and improves efficiency in
+the multi-tenant logistics facility.
+Production inspection at the Kobe plant of Rokko Butter Co., LTD.
+Soil Decontamination to Remove Dioxins in Vietnam
+In Vietnam, soil contaminated with dioxins from defoliants sprayed by the U.S. military during the Vietnam war are still causing serious health problems today. The Vietnamese government is aiming to decontaminate all soil nationwide by 2030. Shimizu performed a soil washing experiment on soil contaminated with dioxins together with a research institution that is part of the Vietnamese Ministry of National Defence. Processing by soil washing success- fully removed 95% of contaminants. Dioxin-contaminated soil was also rendered completely harmless by using heat processing on the residue from soil washing. Shimizu will expand its environmental improvement
+    business in decontamination of soil contaminated not only by dioxins, but also by heavy metals, pesticides, and other hazardous elements, in other areas. This will contribute to the economic development of Vietnam.
+News Release
+Soil washing plant to remove dioxins at Bien Hoa Airport in Vietnam
+Shimizu Complete Soil Washing Pilot Test on Dioxin Contaminated Soil at Bien Hoa Airport, Vietnam https://www.shimz.co.jp/en/company/about/news-release/2019/2019038.html
+Shimizu Corporate Report 2020 39 

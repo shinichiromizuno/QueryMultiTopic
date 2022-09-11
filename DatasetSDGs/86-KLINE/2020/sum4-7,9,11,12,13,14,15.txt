@@ -1,0 +1,29 @@
+Innovation
+Initiatives to introduce advanced technologies that create new value
+Initiative Improvement of operating safety and environmental performance by using Kawasaki Integrated Maritime Solutions
+Safety, environment, and quality are the foundation and the areas of strength of our business. Providing new value to our customers and society by improving them is a priority for “K” LINE. By constantly applying the expertise we have accumulated over many years of operation as well as by introducing new equipment and service technologies through collaboration with our customers and business partners, we strive to further reduce our environmental footprint and raise the quality of our services. Kawasaki Integrated Maritime Solutions is an integrated
+vessel operation and performance management with data collection device from each vessel. The system can be used for real time monitoring and analysis for ship propulsion performance and engine plant condition based on actual ship operational data. The optimum weather routing system then integrates this information with the latest meteorological data and ship performance model that has been created
+from actual operational data to calculate the recommendednavigation route for each vessel. This system enables us to visualize ship’s condition from various perspectives through the big data analysis. For example, the system helps earlier and accurate detection of an increase in fuel consumption due to a ship’s performance deterioration, giving us the ability to take preventive improvement measures. The optimum weather routing system also improves the environmental performance making it possible to reduce CO2 emissions while maintaining our ship and cargo safety standards.  Conceptual framework
+Display screen
+Message from a Team Member
+   I am engaged in the development and operation of this system, where I am pouring my knowledge and experience from eight years as a “K” LINE seafarer. I have put particular effort into creating the system structure and viewer design to find the best way to make the various types of analysis result easy to understand. I wanted to create an intuitive and effective interface especially for function of ship propulsion performance analysis that can be seamlessly used in the daily workflow of not just technical divisions including the Group’s ship management companies, but by business and operation divisions as well. We regularly hold explanatory meetings and propose new uses for this system as part of our goal to make the system easily operable by all “K” LINE employees. We are also constantly working to improve the system’s functionality and usability. I believe those enhancement improve our safety.28
+“K” LINE REPORT 2020
+Kyohei Noda
+Energy & Performance Management Team Advanced Technology Group
+For more effective use of Kawasaki Integrated Maritime Solutions throughout the Group
+   
+Initiative Introduction of Seawing, automated kite system utilizing natural energy
+  The Seawing automated kite system is mounted on the forecastle of the vessel and is unfolded by simple operation from the bridge under certain conditions of natural wind power and wind direction, and assists propulsion power
+of the vessel utilizing wind force effectively. A controlled
+flying kite can provide greater power than a fixed-sail device with the same surface area. The combination of air and sea technologies by bringing the aircraft flight control technology to ships and augmenting it using performance analysis
+by Kawasaki Integrated Maritime Solutions is leading to breakthrough innovations for ship performance. “K” LINE is also a member of the International Windship Association actively promoting the use of wind energy in the shipping industry.Seawing installation image
+Message from a Stakeholder
+“K” LINE is committed to cut emissions using wind
+   Vincent Bernatets
+Founder and CEO AIRSEAS SAS
+It is an honour and a great satisfaction to work alongside “K” LINE to contribute to the Society. Airseas is a young high-tech company combining aeronautical and maritime expertise, with the mission to reduce the environmental footprint of shipping. Our large Seawing automated kites allow to save 20% of fuel and related emissions in order to make the existing and future ships more eco-friendly.
+As a company, “K” LINE is taking the challenge of our disruptive technology to continue being a pioneer in maritime eco efficiency, in line with its history and values.
+We are glad we have built a trustful relationship with the “K” LINE team which motivates us even more to outperform: through our collaboration, we have the opportunity to integrate more of the operational context so as to further develop the Seawing benefits for “K” LINE.
+Overall, I see our two companies sailing hand in hand through prosperous winds of change to be market leaders!Initiative Government-supported launch of an LNG-fueled car carrier
+ “K” LINE placed an order for an LNG-fueled car carrier with Imabari Shipbuilding Co., Ltd. The order was made possible with support of the “Model Project for Maximize Reduction of CO2 Emissions from LNG fueled Vessels”, a joint project between the Ministry of the Environment and the Ministry of Land, Infrastructure, Transport and Tourism. The volume per calorific value of LNG is 1.7 times greater than that of heavy fuel oil and it begins to vaporize at about -161°C. LNG- fueled ships must therefore be specially designed to secure the storage space and control the pressure and temperature of LNG fueled tank. However, LNG’s benefits are substantial, as LNG fuel emits 25-30% less CO2 than heavy oil. LNG-fueled car carrier conceptual drawing
+“K” LINE REPORT 2020 29

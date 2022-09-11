@@ -1,0 +1,79 @@
+Mobility
+The goal of the Mobility domain is to achieve urban transportation (cars, trains, etc.) that is safe, stress- free, and comfortable. The businesses in this domain are the Automotive Electronic Components Business (AEC) and the Social Systems, Solutions, and Service Business (SSB).
+We pursue safety, convenience, and free traffic flow for automobiles and road traffic/social infrastructure systems through our automobile components, traffic and road management systems, and railway station management systems. OMRON will strive to provide the world with products and systems for a mobility society in which people around the world can live in a safe, secure, comfortable, and clean environment.
+Social Issues
+Increase in accidents involving senior citizens among advanced countries; more accidents, congestion, and environmental burden in emerging economies
+ Cars have made our lives more convenient. At the same time, however, we seem to find more and greater issues in mobility society every year. For example, advanced countries are experiencing an increase in the number of accidents caused by senior drivers (mistaking the accelerator for the brake; wrong-way driving on freeways, etc.) And it’s not just senior drivers; as many as 80% of automobile accidents are caused by human error. Clearly, something must be done. As emerging economies rapidly become motorized, accidents and congestion multiply. Automobile emissions place a heavier burden on the environment.
+To solve these problems, auto makers and others are working on automated driving and eco cars. These companies are engaged in improving road traffic and social infrastructure to realize the goal of a safer, more eco-friendly
+Value Provided
+Safe and secure urban development
+To solve the problems of mobility society, we must deal with cars, people, and traffic.
+In 2016, we developed the world’s first on- board sensor featuring driver sensing technology, which senses a driver’s condition in
+society. At OMRON, we are solving these problems through technology and innovations based on our years of experience in developing automotive components and traffic and road management systems.
+■ Number of Accidents Involving Senior Citizen Drivers
+400
+300
+200
+100
+0
+(Indexing 1993 at 100) 2013
+  1993
+% 322
+Increase Over 20 Years (Japan)
+  44 OMRON Corporation
+1995 2000 2005 2010 (year) (Source) National Police Agency (Police White Paper)
+real time. This technology prevents accidents caused by drivers who are not in a condition to continue driving. Developments here promise to assist safe driving, eventually leading to automated driving.
+     
+  One of our strengths is in technologies and products that provide optimal control of the flow of cars, traffic, and people. For example, our traffic and road management systems incorporate traffic sensing and automotive sensors that sense people and cars. This sensing and control coordinates traffic and roads, resulting in a safer, more comfortable mobility society. We can help alleviate traffic congestion by sensing car behavior and optimizing road and traffic control according to
+the conditions detected.
+OMRON is also deeply engaged in developing
+automotive electronic products to reducing CO2 emissions and environmental load. These products help us fulfill our goal of creating a sustainable, eco-friendly society.
+We aim to assist in the advancement of mobility society and preserve the global environment at the same time through our products and services.
+   Goals for Fiscal 2020
+   Net sales for main businesses in domain:
+¥1 50
+Sustainability Goals:
+● Creation of driving safety support systems/technologies (SSB)
+● Creation of 360-degree around-the-vehicle recognition technology for advanced driver
+assistance/automated driving (AEC)
+● Number of vehicles equipped with eco-friendly products: 10 million (AEC)
+ Automotive Electronic Components Business (AEC)
+billion
+Social Systems, Solutions and Service Business (SSB)
+¥80
+billion
+   Relevant Sustainable Development Goals
+Sustainable Cities and Communities
+■ Fiscal 2016 Sales by Product
+Power Window
+Affordable and Clean Energy
+Good Health and Well-Being
+      Automated Ticket Gates
+ 47
+Switches
+24
+Switches (Power Window Switches, Power Seat Switches, etc.)
+Electronic Power Steering Controllers
+%
+Motor Controllers
+(Electronic Power Steering Controllers, Power Sliding Door Controllers, etc.)
+ %
+Other (Software Development, etc.)
+  Other (Passive Entry/ Push-Button Engine Start Systems, Keyless Entry Systems, etc.)
+Automotive Electronic Components Business (AEC)
+29
+12
+29 Ticket Vending
+   %
+%
+Machines
+Public Transportation (Automated Ticket Gates, Ticket Vending Machines)
+5
+Road Traffic (Road Traffic Management Systems, etc.)
+%
+  54
+Engineering, Environmental Solutions
+Social Systems, Solutions and Service Business (SSB)
+   %
+%
+     Integrated Report 2017 45

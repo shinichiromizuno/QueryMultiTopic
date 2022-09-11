@@ -1,0 +1,146 @@
+The Environment
+Reducing Environmental Impact
+Preventing Environmental Pollution
+ GRI305-7
+Air Pollution
+Air pollutants generated from cement production are primarily NOx, SOx and dust in combustion
+gases emitted from cement kilns. To ensure the proper management of these substances we strive
+to reduce air pollutant emissions through measures such as installing equipment to continuously monitor emission concentrations, improving NOx reduction systems and installing bag filter equipment to capture dust emissions. Our target in this is to maintain our FY2011 emissions levels.
+In FY2021, emissions of NOx, SOx and dust were
+all lower than the figures for FY2011, our benchmark year. Furthermore, the level of SOx emissions was very low compared to the limit set under the Air Pollution Control Act.
+ Specific Emissions of Clinker for Selected Pollutants GCCA
+Water Contamination
+Most of the water discharged from our plants to public waters is cooling water and not polluted as defined in the Water Pollution Control Act. At our cement plants all water resources are reused as circulation water to minimize the impact of water discharge into public waters. Moreover, we are installing sedimentation tanks, water-oil separation tanks, oil film detectors, pH meters and suspended solid sensors on water discharge routes that connect to public waters.
+ Example of Water Circulation Flow at a Cement Plant
+Reducing Waste
+ GRI306-2
+Initiatives at Plants and Quarries
+Our cement plants and quarries reduce the amount of waste handled by disposal contractors by reusing waste from operations as material for cement production. We also endeavor to reduce waste that ultimately ends up in a landfill via measures such as the use of chromium-free kiln bricks.
+Relevant SDGs
+Appropriate Management of Chemical Substances
+ GRI306-2
+Pollutant Release and Transfer Register (PRTR)
+The PRTR Law requires that we report on equipment installed at our Kumagaya plant for the washing of municipal waste incineration ash. This washing process uses water, and our total discharge of dioxins and ferric chloride into public waterways are as shown below.
+ Reported Levels of Dioxins and Ferric Chloride
+ Volume of Waste to Landfill (t)
+100
+Emissions
+Management of PCB Waste
+Non-consolidated
+0.0 0.0 152 170
+       Percentage of clinker volume manufactured in a kiln equipped with continuous NOx measurement
+ Percentage of clinker volume manufactured in a kiln equipped with continuous SOx measurement
+ Percentage of clinker volume manufactured in a kiln equipped with continuous dust measurement
+Our special purpose subsidiary, Taiheiyo Service Corporation, recycles the company’s used copy paper for efficient use in-house. Approximately 340,000 sheets of A4 size paper were recycled in FY2021.
+Reference guidelines: “GCCA Sustainability Guidelines for the monitoring and reporting of CO2 emissions from cement manufacturing Ver. 0.1” GCCA
+(No. of machines)
+Rainwater
+Material and fuel yards, roads, buildings, etc., at sites
+Water recovery cistern
+Cooling water
+Gutters
+Cooling tower
+On-site power generation
+Sedimentation tank
+Oil film detectors, turbidimeters, pH meters
+Separation tank
+Stream channel
+Ocean
+80 60 40 20
+0
+0.0 170
+Emissions
+FY2019
+       551 2017 2018 2019
+13 2020
+27 2021
+(FY)
+We properly store and dispose of high and low concentrations of PCB waste in accordance with the Amendment to the Law concerning Special Measures for Promotion of Proper Treatment of PCB Wastes (revised in 2016), hereinafter referred to as the PCB Special Measures Law.
+For high-concentration PCB waste with an early disposal deadline as stipulated by the PCB Special Measures Law, we signed a processing contract with the Japan Environmental Safety Corporation (JESCO) in 2006 and have prioritized processing.
+Pollutants such as electrical ballasts stored at the Ofunato Plant, Fujiwara Plant and the former Kawara, Tosa and Osaka plants, as well as at the Chichibu quarry and branch office service stations, were processed in FY2021. Transformers and capacitors containing high- concentration PCB in the Kyushu, Chugoku and Shikoku area were processed before March 31, 2018. However, we have confirmed that two unprocessed capacitors still remain in that area. We have submitted a report
+to the prefectural governor about the two capacitors, and they are being stored appropriately until the local government decides on the disposal method for equipment that has passed its deadline for processing.
+Pollutants such as electrical ballasts stored at the Ofunato Plant, Kumagaya Plant, Saitama Plant and Chubu Hokuriku Branch service stations are scheduled for processing in FY2022.
+  (g/t-clinker) 1,500
+1,000
+500
+0
+NOx (left axis)
+SOx (right axis) Dust (right axis)
+(g/t-clinker) 150
+100
+50
+0
+Initiatives at Service Stations
+1,300
+62 47
+2011
+1,221
+78 80 67
+1,227
+1,282
+Service stations (SS) reduce the waste handled by waste disposal contractors by returning any residual cement that remains in silos after switching the cement products. Returned cement is recycled as raw material. In FY2021, the recycling rate was 80.3%, up 2.4% from the previous fiscal year.
+Monitoring Rate
+GCCA
+(FY)
+on contaminated ground by appointing an expert 100 consultant to undertake a soil history survey. We are 90 continuing to conduct drilling surveys, starting with 80 the higher-risk locations, to verify whether or not
+the soil is contaminated. Actions have been taken as 70 necessary based on the findings. 60 We are also working to eliminate the possibility 50
+89.1
+59.6 2017 2018
+(%) 100
+75 50 25
+0
+96.0 95.0 100.0 100.0 100.0 100.0 100.0 100.0 100.0 100.0 100.0 100.0
+77.9 65.7
+2019 2020
+80.3
+2021
+84.7 59.0
+2011 2017 2018
+84.2 84.0
+2019 2020
+83.3
+2021
+81.6
+1,197
+1,187
+ 2018
+2019
+2020
+(FY)
+In FY2001 Taiheiyo Cement evaluated the risks Recycling ratio associated with cement plants that may be sited (%)
+63
+30 27 30 20
+Seawater
+  39 2017
+42 2021
+Soil Contamination
+ of soil contamination via measures to prevent the leakage of wastewater from scrapyards or fluid from oil tanks, acid/alkali tanks, pipes and so forth.
+(FY)
+ Initiatives at Offices
+ Treatment of High-concentration PCB Waste
+Capacitors 0 2 0 2 0
+Reported Levels
+FY2020
+FY2021
+    Dioxins (mg-TEQ)
+ Ferric chloride (kg)
+    Non-consolidatedWasteStored in FY2020(as of March 31, 2020)NewTarget for FY2021Treated in FY2021Stored in FY2021(as of March 31, 2021)Treatment Scheduled for FY2022 Transformers
+Electrical ballasts
+Total
+0
+1,750
+1,750
+0
+355
+357
+0
+1,169
+1,169
+0
+936
+938
+0
+627
+627
+  76
+77

@@ -1,0 +1,57 @@
+  ESG: Underpinning Value Creation and Sustainable Growth
+Product Safety and Quality Assurance
+ Product Safety Initiatives
+We comply strictly with the chemical laws and regulations of Japan and the other countries in which we operate. Our stewardship of chemical substances encompasses health, safety, and environmental perspectives. We carefully man- age the distribution of chemical substances and extensively disclose safety information about our chemical products.
+Complying with Chemical Substances Laws and Regulations
+We are digitizing our systems to handle chemical substances laws and regulations. As well, we have constructed a domestic and overseas compliance structure that encompasses an SDS*1 production support system; in-house-developed chemical safety information; and U-CHRIP, a comprehensive database for managing safety and regulatory infor- mation about chemical substances. We accordingly seek to replace manual processes and a reliance on individual skills in handling compliance.
+The electrical and electronic device and automotive sectors are leading the way in green procurement*2, and as a supplier of raw and other materials we carefully monitor our offerings for harmful substances.
+Product Safety Initiatives
+U -CHRIP
+Registry Information
+•Registry information for each country
+Safety Information
+•Safety test reports •Registry documentation
+Access Permission Information
+Regulatory notices, etc. •Notices
+•Proof of registration •Licenses
+Companywide database
+Privilege management
+Web Interface
+Product safety staff, sales staff, etc.
+U-CHRIP
+Stepping Up Chemicals Management
+We supply local-language versions of SDSs and product labels for all products, complying with regulations in Europe, the United States, and around Asia to ensure the safe use of chemical products throughout the supply chain, and main- tain websites for key product SDSs. We also extensively supply safety information for testing and research applications, and have secured safe R&D environments at universities and other research institutions.
+Our sales and technical personnel obtain hazardous substances information on products through our SDS database to get handling and disposal information that they convey as needed to customers.
+Extensively Disclosing Safety Information
+We have amassed and extensively share safety information about our products, taking part in a program of the International Council of Chemical Associations (ICCA) and the Japan Challenge Program. Since fiscal 2011, we have participated in the Japan Chemical Industry Association (JCIA)’s voluntary chemical substance risk management activities while gathering and disseminating hazard information*3 and risk assessments.
+We participate in the ICCA’s voluntary Long-Range Research Initiative, which focuses
+on the effects of chemical substances on human health and the environment. We thereby support research at universities and other research institu- tions that includes developing new risk assessment methods and studying the safety of chemical substances for infants and the elderly.
+Transportation Safety
+We ensure the safe distribution of chemical sub- stances by preparing information that transporta- tion companies and their drivers can use in the unlikely event of an accident and by endeavoring to prevent such incidents and improve distribution quality.
+SDS SDS SDS
+    60
+Glossary
+U-CHRIP: UBE-CHemical Regulation Information Platform
+*1 Safety Data Sheet (SDS): Documentation containing hazard and toxicity information about chemical substances that manufacturers disclose when supplying chemical substances and products incorporating them.
+*2 Green procurement: Corporate purchases of raw materials, parts, and manufacturing facilities with minimal environmental footprints. *3 Hazard information: Information on the inherent risks of chemical substances.
+Quality Assurance
+AS9100 ISO9001 QMS IATF16949
+The UBE Group’s diverse businesses in Japan and overseas include chemicals, pharmaceuti- cals, construction materials, and machinery. Each undertakes quality assurance initiatives in line with its specific business needs to serve the needs of customers and to ensure safe and reliable supplies. Under the supervision of a director in charge, the Quality Management Department internally oversees the quality assurance operations of these businesses, thereby establishing a corporate internal control system.
+•Chemicals Company
+Regaining Trust by Steadily Implementing Measures to Prevent Issues from Recurring
+We rolled out our unified quality management system (QMS) in fiscal 2016. This had previously been overseen separately at three divisions and four domestic chemical factories. We also formu- lated and implemented measures to prevent quality check improprieties experienced in fiscal 2018 from recurring. We changed consciousnesses among managers and employees, changed our organizational structure, increased the number
+of inspectors, and reviewed internal rules. We
+will steadily implement measures to drive ongoing improvements and thereby regain stakeholder trust. The temporary termination of the overall scope of our ISO 9001 : 2015 certification was rescinded in October 2018, and we regained certi- fication for the Chiba area (Chiba Petrochemical Factory and UBE-MARUZEN POLYETHYLENE Co., Ltd.) in July 2019.
+In fiscal 2019, the Chemicals Company inte- grated the Pharmaceutical Division. To meet quality requirements specific to pharmaceuticals, we will remain committed to our Pharmaceutical Quality Policy through our proprietary pharmaceutical quality system.
+We will continue creating unique customer value while constantly improving our capabilities in keeping with a high awareness of quality assurance among all employees.
+•Construction Materials Company
+Maintaining Safe and Reliable Product Supplies This company looks after many of the Group’s companies. As well as engaging in cement, resource recycling, and energy businesses, it supplies a range of social infrastructure products in Japan and overseas, including ready-mixed concrete, magnesia and calcia, and construction material products.
+This company’s Quality Assurance Depart- ment handles product quality assurance and safety and pursues manufacturing from customer perspectives to maintain safe and reliable product supplies.
+The Company Quality Committee endeavors to prevent improper quality inspection practices from recurring by disseminating corporate quality measures to all divisions and Group companies, overseeing progress. Quality and product safety audits at Company business sites and Group companies confirm that everything is working well. It is through such efforts that we constantly strive to improve quality and product safety sys- tems and build trust with customers and society.
+•Machinery Company
+Providing Products and Services That Satisfy Customers and Build Trust
+This business develops a diverse lineup of products from a customer-centric perspective. We provide products and services across various fields, both in Japan and overseas, including molding machines, industrial machinery, and bridges. While pursuing technological innovation, we are determined to consistently provide safe and reliable products
+and services that satisfy customers and build trust. At the same time, we will continue to strengthen our quality management system through efforts to cultivate people who can ensure compliance with business-related laws, regulations, and standards.
+Quality Policies
+Page 9 of the 2019 Integrated Report Supplementary Infor- mation (Environment and Safety) presents the quality policies of our in-house companies.
+  61

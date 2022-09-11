@@ -1,0 +1,158 @@
+Group Vision 2030Three Focal Fields3
+Energy and Environmental Solutions Working toward the stable generation of clean energy Quickly achieve
+a stably powered, carbon-neutral society at low cost
+Kawasaki’s Solutions to Social Issues
+•We will provide decarbonization and electrification solutions that leverage our wide-ranging technologies •and energy and transportation systems to address global warming.
+Building on our track record (e.g., liquefied hydrogen tanks and liquefied hydrogen containers at the JAXA Tanegashima Space Center) and pioneering technological development of a CO2-free hydrogen supply chain (production, transportation, storage, and utilization), we will coordinate with rapidly advancing hydrogen proj-
+•ects around the world to improve costs and transportation volumes, helping realize a carbon-neutral society.
+With the global advance of transportation electrification and electricity supply infrastructure develop- ment, we will lead the shift to electric and hybrid technologies in motorcycles and other transportation equipment and systems, helping realize a carbon-neutral society.
+ Developing a Hydrogen Supply Chain
+ Steps Toward Expanding Hydrogen Use and Transport Volumes
+Hydrogen-related businesses are increasingly being looked at as powerful potential tools in eliminating carbon emissions. The Kawasaki Group has been advancing R&D in this area for a decade, working to produce hydrogen cheaply and develop a hydro- gen supply chain. Scaling up our current technology demonstrations, we expect to realize a commercial demonstration supply of approximately 28,000 tons per year in 2025 and a commercial supply of approximately 225,000 tons per year by 2030.
+Commercialization
+Supply volume
+225,000 t/y
+Expansion in Hydrogen Use
+Several projects related to the use of hydro- gen are currently in progress at Kawasaki. •Development of hydrogen gas engines in •the marine sector
+Participation in the development of •hydrogen-powered aircraft
+Leading the development of liquefied hydrogen fuel tanks, hydrogen fuel supply systems and other core technologies
+In light of the expected expansion in the use of hydrogen across industrial fields, we have established the Hydrogen Strategy Division within the Head Office to coordi- nate our hydrogen-related businesses and advance a wide range of initiatives leverag- ing Group technologies.
+ANSWERS
+Realizing a Carbon-Neutral Society: The Global Acceleration of Hydrogen Energy Development (Japanese only) https://answers.khi.co.jp/ja/energy-environment/20210731-j02/
+   Liquefied hydrogen supply chain
+Energy Solution & Marine Engineering Company
+Hydrogen power generation
+Hydrogen valves
+Precision Machinery & Robot Company
+HQ Hydrogen Strategy Division
+Fuel cell rolling stock
+Kawasaki Railcar Manufacturing Co., Ltd.
+Hydrogen vehicles
+Kawasaki Motors, Ltd.
+     Production
+Hydrogen production and liquefaction
+Transportation Liquefied hydrogen carrier
+Technology demonstration
+Scale
+Commercial demonstration
+Supply volume
+28,000 t/y
+(provisional value)
+Further Development of Hydrogen-Related Products and Businesses
+                   Hydrogen jet engines Aerospace Systems Company
+ Storage Liquefied hydrogen tank
+Utilization
+Hydrogen power generation and mobility
+2025
+         Carbon Recycling
+20 Kawasaki Report 2021
+Kawasaki Report 2021 21
+2020 up 2030
+Electrification
+Reducing CO2 Emissions through Product-Based Contributions
+   Kawasaki promotes the separation, capture, utilization, and storage of CO2 emitted by power stations and manufacturing plants. We are building a pilot-scale test facility at Kansai Electric Power’s Maizuru Power Station, where we will begin demonstration testing of CO2 capture in fiscal 2022.
+In light of the changing social environment, Kawasaki will accelerate the shift to electric and hybrid technologies in its transporta- tion equipment and systems while reinforc- ing coordination within the industry.
+More than 90% of the CO2 emitted during the life cycles of our products is released during post-sale product use. To promote the reduction of CO2 emissions during product use, since 2014 we have operated the Kawasaki-brand Green Products system, an ISO 14021-compliant internal system for certifying environmentally friendly products. Products that meet our proprietary standards related to boosting the environmental performance of the products themselves and reducing the envi- ronmental impact caused by associated manufacturing processes are registered under the system.
+As of the end of fiscal 2020, the number of registered Kawasaki-brand Green Products stood at 61. We have also established rules for calculating CO2 emissions reductions through product-based contributions in order to quantify the contribu- tions of such products to the mitigation of global warming.* Calculations based on these rules showed that Kawasaki products sold in fiscal 2020 (mainly Kawasaki- brand Green Products) reduced CO2 emissions by about 24.0 million tons.
+*For details about calculation rules, please refer to p. 67.
+Transportation 2.5
+Aerospace Systems 2.7
+ Reduction of CO2 emissions through product-based contributions by business (million t-CO2)
+24.0 million t-CO2
+(fiscal 2020)
+   5.3
+Precision Machinery & Robot
+13.4 Energy System & Plant Engineering
+Group Vision 2030
+  Promoting Environmental Management
+Kawasaki established the Kawasaki Global Environmental Vision 2050 in 2017. To achieve this vision, we advance concrete initiatives according to environmental management activities plans formulated every three years. An over- view of the 10th plan (fiscal 2019–2021) and progress in fiscal 2020 is shown below.
+Disclosure in Line with the Recommendations of the Task Force on Climate-related Financial Disclosures
+Strategy
+Based on the 2°C scenario and 4°C scenario of the Intergovernmental Panel on Climate Change and related scenarios (from the International Energy Agency and elsewhere), Kawasaki has conducted scenario analyses of its industrial plant business, with a target year of 2030. Going forward, looking at the entirety of the Group’s businesses, we will advance further analyses of businesses likely to be highly impacted by climate change and study the financial impact on them in quantitative terms.
+    Kawasaki Global Environmental Vision 2050
+10th Environmental Management Activities Plan
+   Waste processing
+2°C scenario
+4°C scenario Fossil fuels
+•Steps toward the widespread adoption of hydrogen will advance and its production cost will decrease (focus on hydrogen carriers using methods of transportation and storage other than liquefaction, such as using organ-
+•ic hydrides or ammonia)
+Demand for CO2 capture (such as Kawasaki CO2 Capture, “KCC”) for power generation and other industries will growHydrogen and CO2 capture  Kawasaki’s response
+We determined that Kawasaki’s businesses will be resilient, based on the countermeasures shown in the diagram below.CO2 FREE
+Waste FREE
+Harm FREE
+•Aim for zero CO2 emissions in business activities
+(FY2019–FY2021 plan)
+Reduce CO2 emissions per unit of net sales by 20% from the fiscal 2013 level (FY2021 target)
+Target CO2 emissions per unit of net sales: 233 t-CO2/billion yen (FY2019– FY2021 average)
+Maintain ratio of direct-to-landfill waste to total waste generation at less than 1% (non-consolidated)
+Reduce environmental risk while operating factories with respect for biodiversity
+Progress (FY2020)
+226t-CO2/billion yen
+•Promoted the use of renewable ener-
+gy (installed solar power generation facilities produced by Kyocera and Century Tokyo Leasing at the Seishin Works)
+•Landfill disposal rate of 0.4% •Confirmed water resource risks
+•Maintained proper management of •harmful chemical substances
+Properly manage green spaces at plants, etc.
+•Waste incineration and waste-to-energy power demand will not decrease •Future regulatory tightening could limit CO2 emissions from waste incineration
+•
+main power source in 2030 (after 2030, LNG demand may also fall)
+Vision of the Future (2°C Scenario) and Countermeasures
+•Waste incineration and waste-to-energy power demand will not decrease
+•
+levels
+Hydrogen and CO2 capture will not be
+widely adopted
+While it will take more time to recoup invest- ment in hydrogen and CO2 capture, Kawasaki will be able to maintain business continuity based on its current technology portfolio.
+•Provide products and services that greatly curb CO2 emissions
+ •Aim for zero waste emissions in busi- •ness activities
+Thoroughly enforce conservation and the recycling of water resources
+•Aim for zero harmful chemical sub- •stance emissions in business activities
+Develop business with respect for biodiversity
+•
+Coal and gasoline demand will fall, but liquefied natural gas (LNG) will be a
+Fossil fuel demand will remain at current *For details about environmental management, please refer to the Kawasaki Environmental Report 2021.
+The Kawasaki Group’s Initiatives to Achieve Carbon Neutrality
+2030          The Kawasaki Group is studying measures to reduce CO2 emissions from its business processes. We plan to announce our CO2 emission reductions target for 2030 at a later date.
+KCC1
+(under development)
+2021 (now)
+Waste processing
+Zero-Emission Plant
+Waste-to-energy power generation
+Renewable energy
+Hydrogen use
+Kawasaki Advanced Stoker System
+Waste pit and gas burner
+KCC1
+Hydrogen liquefaction systems and tanks
+Hydrogen and CO2 capture
+       Reducing CO2 emissions at Group plants
+Heat
+Onsite power generation facilities (hydrogen power generation)
+Hydrogen and CO2 capture
+Hydrogen liquefaction systems and tanks
+Business continuity
+Gas duct Cement plant CKK2
+      Waste processing
+      Electricity
+Kawasaki Advanced Stoker System
+Waste pit and gas burner
+Gas duct Cement plant CKK2
+GTG3
+Fossil fuels
+GTG3
+Gas reforming plant
+      LNG tanks
+Material handling systems (stackers, reclaimers, FDCs4)
+Ash treatment facilities for coal-fired thermal power
+Fossil fuels
+Businesses shrink
+Fossil fuels
+GTG3
+LNG tanks
+Material handling systems
+4 (stackers, reclaimers, FDCs )
+Ash treatment facilities for coal-fired thermal power
+         1. Kawasaki CO2 Capture 2. Conch Kawasaki Kiln system 3. Gas to gasoline plant 4. Flow dynamics conveyors
+      22 Kawasaki Report 2021
+Kawasaki Report 2021 23

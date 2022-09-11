@@ -1,0 +1,48 @@
+Business Overview by Segment Semiconductor Materials Contributing to technological innovations for a smart society and the mobility sector based on our global CS structure.
+Segment performance for fiscal 2019
+Revenue
+49,824 million yen (up 2.0% year on year) Business profit
+7,684 million yen (down 3.9% year on year)
+Director, Senior Managing Executive Officer
+Sumitoshi Asakuma
+A look back at fiscal 2019
+A worldwide slump in the semiconductor market has persisted since the latter half of 2018, and just when demand was showing signs of recovering at the end of 2019 the coronavirus pandemic struck. However, we were ultimately able to increase revenue, partially as a result of the initiatives we had previously been addressing, including expanding our market share and developing new use cases. Conversely, with respect to business profits our profit margins deteriorated and profits fell as a result of the steep rise in procurement costs for certain raw materials.
+By building globally same quality assurance structure maintaining top share in global markets for more than 30 years
+Since the 1980s, we have captured the top share in global markets with our semiconductor encapsulation materials that insulate and protect semiconductor devices, and we have maintained this position for more than 30 years since then. At present, in addition to encapsulation materials we also supply a number of products that are crucial for semiconductor manufacturing processes, including photosensitive coating resins for semiconductor wafers, substrate materials for semiconductor packages, and die bonding paste. These are used in a variety of different sectors, such as in telecommunications equipment like PCs and smartphones, as well as in automobiles, consumer electronics, industrial machinery, and more. To meet the needs of our customers all around the world, we have established structures that integrate manufacturing, sales, and R&D in different regions spanning from Japan (Fukuoka) to China (Suzhou), Singapore, and Taiwan (Kaohsiung). Through this, we have established a quality assurance structure offering a uniform level of quality between our bases. In addition, with "Customer Satisfaction (CS) is the foundation for everything" as our business policy, we emphasize activities whereby we offer proposals from the customer's viewpoint. We have also established open laboratories that allow us to undertake development in an integrated manner together with customers in our various locations in Asia, as well as Europe and the United States, and work to faithfully and rapidly reflect the needs of our customers in products.
+Striving to expand competitive advantage with a view towards next generation and augment production capacity in growth areas
+We are working to create new markets that offer value which contributes to smart societies in the future based on the
+▶ Main products
+Epoxy resin molding compounds for encapsulation of semiconductors
+Epoxy resin molding compounds for encapsulation of semiconductors
+Liquid resins for semiconductors
+“LαZ” substrate materials for semiconductor packages
+    Sumitomo Bakelite Co., Ltd. Integrated Report 2020
+30
+ 
+    Primary SDGs▶ SWOT for Semiconductor Materials BusinessStrengths
+Weaknesses
+· World's top share for the product group, including semiconductor encapsulation materials
+· Global business structure integrating with R&D, manufacturing, and sales forces · Advanced materials, processes, and evaluation technology
+· Trust relationships established with customers around the world· Susceptibility to market conditions
+· High dependence on specific productsOpportunitiesThreats
+· Electrification of automobiles and advancement of making automobiles EVs · Advances in IoT and 5G (Fifth-Generation Mobile Communications System) · Expansion of smart society (energy saving) and environmental orientations
+· Growing demand for telecommunications equipment due to the increase in people working from home· Heightened uncertainty about future due to US-China trade frictions, etc. · Intensifying competition for main products
+· Rising raw material prices due to Chinese environmental regulations
+material technologies we have cultivated to date and our strong relationships of trust with our customers. As for our Mid-term Business Targets, we are working to boost the competitive advantage of our encapsulation materials and expand production in growth areas by means of expanding our business with highly integrated devices and in the mobility sector.
+For example, in the in-vehicle encapsulation material sector, in addition to conventional semiconductor devices, we have also positioned materials for fixing motor magnets for hybrid and electric vehicles (EVs), direct molding materials for electric control units (ECUs), and materials for power module as strategic products, and will continue to actively deploy these. In April 2020, we launched the Mobility Materials Sales Department within our Sales Division, thereby setting in place a sales promotion structure. For the future, our aim is to situate in-vehicle encapsulation materials as a second pillar of our business after our semiconductor encapsulation materials. We have set forth a target for sales in the in-vehicle encapsulation materials market of 12 billion yen by fiscal 2025.
+In addition, in January 2020 we established the Next e-Axle Market Promotion Project Team to set our sights even farther ahead in the future of mobility. Electric axles are pivotal devices providing the driving force for
+industry, government, and academia. It also aspires to promptly achieve electric axles that are small, light-weight, low-vibration and low-noise, and highly efficient by making them out of resin. In the field of highly integrated devices, we are working to enhance our lineup in response to the advent of IoT and 5G (fifth generation mobile communications systems). We are making advances in developing forward-looking products that include cutting-edge packaging materials (mold underfill materials*1 and granule type encapsulation materials for compression molding), low dielectric constant materials for 5G, and materials that can directly act as antennas on the surface of encapsulation materials. To supply goods to the Chinese market, where 5G-related demand is growing, we plan to increase production capacity at our subsidiary company in Suzhou, China. For the future, our aim is to expand our market share worldwide by further promoting initiatives that place CS first and ensuring our competitive
+advantage.
+*1 Encapsulation materials to enable one-step process both to fill in the gap between the
+substrate and semiconductor device (underfill) and encapsulate semiconductor devices (over-molding). They offer the advantages of reducing the cost and man-hours spent in assembling semiconductor packages.
+   hybrid and electric vehicles that integrate together a motor, inverter, and gear box. This project aims to manufacture prototypes and perform proof-of-concept experiments together with experts and engineers from
+Materials for fixing motor magnet
+Direct molding material for ECU
+TOPIC
+Materials for power module
+ Starting production of the in-vehicle encapsulation materials in Europe, where the automotive industry originated
+ The electrification of vehicles is spreading worldwide based around the keyword "CASE."*2 To meet the rising demand from the mobility sector in Europe, our Group will introduce a new manufacturing line for in-vehicle epoxy resin encapsulation materials at Vyncolit in Belgium. The assumption is that its main products will be the materials for fixing in place motor magnets used on electric and hybrid vehicles, as well as the direct molding materials for ECUs that provide electronic controls for engines, transmissions, and so forth. The aim is to have it begin production in early 2022.
+*2 This is a keyword representing next-generation moving vehicles that is an acronym of the words: Connected, Autonomous, Shared, and Electric.
+Vyncolit
+ Sumitomo Bakelite Co., Ltd. Integrated Report 2020
+31

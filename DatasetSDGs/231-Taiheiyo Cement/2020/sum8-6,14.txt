@@ -1,0 +1,46 @@
+The Environment
+Appropriate Use of Water Resources GRI103-2, 3 Closely Related SDGs
+  Water Risk Analysis
+Status of Water Consumed   GCCA
+(Unit: 1,000 m3)
+ GRI303-1FY2016
+FY2017
+FY2018
+FY2019
+FY2020
+Surface water13,7177,5058,1306,5215,626Ground water
+18,329
+16,232
+16,370
+16,884
+18,656Industrial water3,0372,9833,0953,2513,325Other00000
+Total freshwater withdrawal (I)35,08326,71927,59626,65627,607Total seawater withdrawal148,836146,097149,056149,776147,372Total withdrawal183,918172,816176,652176,432174,979Total freshwater discharge (O)
+13,871
+12,964
+12,294
+12,167
+13,674Total seawater discharge (O)148,836146,097149,056149,781147,377Total discharge162,707 159,061 161,350 161,948161,051Total freshwater used (I-O)21,212 13,755 15,302 14,48913,933According to the results of the water risk analysis conducted using the Water Risk Filter*, the
+average score for the total basin risk for all our plants (weighted average taking into account the cementitious production volume) was 2.8 (the maximum score is 5.0, with a higher score indicating a greater risk). The highest total basin risk score
+was 3.5, higher than that of the previous year. The volume of cement produced at the plant with the highest score accounted for about 15% of the production volume of all the plants. However, when we analyzed conditions at that plant, no imminent issues were identified.
+*This is a water risk mapping tool developed by the World Wide Fund for Nature and used to evaluate impacts on businesses related to water scarcity, flooding, drought, seasonal variation, physical water quality risks, regulatory risks, etc.
+Guidelines: “GCCA Sustainability Guidelines for the monitoring and reporting of water in cement manufacturing Ver. 0.1”
+Appropriate Use of Water Resources
+GRI203-1, 303-1, 2, 3, 4, 5, 306-1, 413-1
+At present there are no foreseeable specific concerns regarding water resources that may be raised by local communities. We therefore remain focused on reducing the amount of water withdrawal from the perspective of improving production efficiency. Also, we will continue to contribute to promoting the appropriate use of water resources for local communities by maintaining close communication with them.
+As for Taiheiyo Cement Philippines, it supplies clean water to local communities in the Philippines from a well drilled by the company.
+Fresh Water Withdrawal per Unit of Production   GCCA 9. 淡水取水原単位Status of Water Consumption
+GRI303-1, 2, 3, 4, 306-1
+  Most of the water used at our cement plants is for the cooling of production equipment, exhaust gas and in-house power generators. Therefore, the water discharged from the plants is mostly cooling water, which is not polluted as defined in the Water Pollution Control Act. Our plants near the ocean
+use seawater to cool in-house power generation equipment. We circulate and reuse all freshwater at these facilities (except for household wastewater) in order to reduce water withdrawal and prevent water pollution by the discharged water.
+The total withdrawal of freshwater for FY2020 was about 27.61 million m3 and the total seawater withdrawal for the same year was about 147 million m3. The seawater was used to cool in-house power generation equipment at our plants near the ocean and then released back into the sea after use. The amount of freshwater discharged was approximately 13.67 million m3, meaning that about 13.93 million m3 of freshwater was used at the plants. However,
+it is not used as a raw material input but for the cooling of equipment so is consequently released into the atmosphere through evaporation.
+In FY2020 we withdrew 0.817 m3 of freshwater (withdrawal per unit of production) to produce 1 tonne of cement. Moreover, there was little change in our water consumption efficiency.
+(m3/t-cementitious)
+1.0 0.760 0.833
+0.5
+0 2016 2017
+0.835 0.806
+2018 2019
+0.817
+2020 (FY)
+        72 TAIHEIYO CEMENT REPORT 2020

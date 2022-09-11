@@ -1,0 +1,39 @@
+Business
+  Automotive Electronic Components Business (AEC)
+Vision
+Domain
+Corresponding SDGs
+Contributing to a Seamless Relationship Between People and Automobiles in the Future Car Society
+The Automotive Electronic Components Business (AEC) provides products aimed toward a safe, secure, and comfortable car society. The mission of the AEC is to contribute to a seamless relationship between people and automobiles through our in- vehicle products. We provide car electronics essential for advanced automotive functionality. Looking to the car society of the future, the AEC continues to develop manufacturing capabilities that will let us play a role in a more safe, secure, comfortable, and clean mobile society for people around the world.
+Managing Executive Officer OMRON Automotive Electronics Co. Ltd.
+  President and CEO
+Katsuhiro Wada
+ Social Issues to be Solved by the Automotive Electronic Components Business
+Automobiles have spread throughout the world as a convenient form of transportation. This convenience, however, comes at a cost. One is a rising number of deaths due to traffic accidents. Here, OMRON and others are developing technologies related to safe driving assistance. Another issue is the increasing number of deaths in emerging economies attributable to respiratory diseases resulting from automotive emissions.
+CASE: Connected, Autonomous, Shared/Service, Electric is a trend leading to the next-generation mobility society. The development of CASE offers new value in terms of product configuration, value chain, and the ideal form of business model. At the same time, we are seeing this industry evolve, including accelerated collaboration, selection and concentration, forays into different industries, and changing business formats.
+CASE
+Connected Autonomous Shared/Service Electric
+       51
+Mobility
+Vision StrategyBusinessGovernance Financial Info Corporate InfoAn Evolution in Manufacturing for Self-Driving and Automotive Electrification
+To raise our contribution to safety, security, and environmental friendliness, we focus on products vital to connected and electric-based driving based on the four industry changes called for under CASE (Connected, Autonomous, Shared/Service, Electric). We have two particular strengths here: Active safety for automated driving and power supply control for electrification.
+We deploy advanced forward-recognition technologies in the field of advanced driving support and other areas of active safety to help make automated driving a reality. We incorporate on-board driver protection technologies that determine whether a driver is concentrating on driving, and we are developing products and services for advanced sensing inside and outside the vehicle. In this way, we create new value in driving support and safety.
+Our power supply control products use DC/DC voltage converters capable of high-efficiency power conversion used in electric vehicles. This is one way in which we meet customer requirements for the new mobility society.
+Our ultra-high-efficiency power units increase the performance of electric vehicles and environmentally friendly devices to convert DC voltage efficiently.
+An Innovative Production Model Line for Eco-Friendly DC/DC Converters
+DC/DC converters are an essential component for electric vehicles. Compared to other products manufactured at OAE( Omron Automotive Electronics), DC/DC converters are relatively large and heavy with a large number of components. These products are also very complex to assemble. Production line design was extremely challenging given the customer requirements for stable high quality.
+  To overcome these challenges, we chose to pursue a new production model line concept rather than attempt full automation. This concept incorporated an optimal relationship between human and machine, a production line producing only quality products, and non-stop production. Our ongoing efforts to meet these challenges has led to co-creation in our production technologies, leading to innovative production model lines and greater appreciation by our customers.
+Nothing great is ever achieved without taking on challenges. We had the courage to take the first step and to keep believing in our job, all the while maintaining a steady focus on the OMRON Principles and the needs of society. Our insistence on involving other parties was on key leading to the success of this large, global-scale project.
+Mobility 3.0 is an Engine Driving the Future
+Production Control Office Production Technology Division
+Kazuya TanakaAiming for a zero-accident, clean car society, OMRON will continue to pursue evolution in electronics and technologies closely linked with vehicles.
+OMRON continues to evolve our Sensing & Control technologies and manufacturing capabilities. These technologies and capabilities include sensors for advanced driving support and self-driving control, used to prevent automobile accidents, as well as motor and voltage control components for improved fuel efficiency. We are taking on the challenge to create a mobility society that is safe, secure, comfortable, and environmentally friendly.
+Safer, More Secure, More Comfortable, and Cleaner Mobility
+       Reduced Congestion
+Zero Accidents
+Reduced Environmental Impact
+  Mobility Society
+ Stress-Free (no accidents, no congestion) Urban Mobility
+Balancing the Development of the Car SocietyWith the Global Environment
+ OMRON’s Goals for Mobility Society
+52

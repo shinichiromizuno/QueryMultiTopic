@@ -1,0 +1,34 @@
+Integrated Report 2021 Strategies
+Strategy
+         Microdevices Supporting the Five Areas of Innovation
+Contribute to the development of smart communities with crystal and semiconductor solutions enhanced with our efficient, compact and precision technologies
+      Goal
+ COVID-19 has accelerated the arrival of IoT, 5G, advanced drive-assistance systems (ADAS), and other technologies for a smart society, and demand is expected to grow in the future. At the same time, the pandemic has caused upheaval in demand and supply chains. Microdevices underpin the creation of a smart society, and customers demand both high performance and a more stable supply.
+Epson’s strength lies in the fact that we can (1) provide high-precision oscillators and sensors built using Epson’s own temperature-stable crystals and ICs; (2) provide compact timing devices with advanced processing technology; and (3) design and fabricate semiconductors, enabling us to provide a stable supply. We aim to capitalize on these strengths and achieve sustainability and enrich communities by helping to advance the frontiers of industry, including social infrastructure, and by contributing to improvements in living through advances in high-speed, high-capacity communications and the mobility environment.
+We are focusing on strengthening product competitiveness in areas where future growth is expected. In existing areas, meanwhile, we are building more efficient and flexible production systems, as well as product platforms.
+We must therefore rapidly identify market trends, invest in research activities with external partners, and pioneer the development of key component technologies to strengthen competitiveness. We will also speed up the development of technologies that we lack by actively seeking to collaborate with others who have knowledge in the field.
+Semiconductors support Epson’s five innovation strategies and will help to increase the value of our finished products. We will help to meet the ongoing robust demand for semiconductors with a steady supply of products by solidifying production at each step of the value chain.
+As needs switch from products to experiences, Epson will create value by providing experiences rooted in strong products.
+• Support high-speed, high-capacity communications infrastructure by providing precision products with an optimal match between Epson’s crystals and ICs
+• Support IoT infrastructure by providing compact timing devices manufactured using the best crystal and semiconductor fabrication technology
+ Nobuyuki Shimotome
+Executive Officer
+Chief Operating Officer, Microdevices Operations Division
+Fiscal 2020 Summary
+In the quartz business, consumer and industrial demand for products such as IoT communications modules remained strong. We built production lines that can be flexibly retooled for different items depending on demand. We also provided remote assistance for the installation of production equipment and facilities overseas and started up operations on schedule to meet increased demand.
+The semiconductor business operated stably throughout the year and met robust demand but was unable to fully meet the sudden increase in demand.
+Total microdevices revenue and profit increased year on year.
+High-speed, high-capacity communica- tions infrastructure
+The Internet of Things (IoT)
+Mobility
+Higher finished product value
+• Contribute to the efficiency & productivity of vehicles and construction & agricultural machinery with accurate positioningBusiness Area / Objectives
+Societal Issues / Business Environment
+• The rapid expansion of 5G
+• Increased demand for miniaturized timing devices due to the spread of IoT
+• Safety
+• Higher efficiency & productivity • Reduction of CO2 emissions
+• Societal issues that innovations will solve
+Epson’s Strengths / Value Proposition   • Contribute to the spread of electric vehicles and reduce CO2
+ • Increase the value of Epson finished products • Supporting innovation43
+  

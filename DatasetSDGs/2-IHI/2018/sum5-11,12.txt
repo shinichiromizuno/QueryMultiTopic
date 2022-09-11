@@ -1,0 +1,59 @@
+Special Feature Resolving Social Issues through Business (1) 
+        
+Tackling an aging social infrastructure 
+Quickly and carefully injecting new life into social infrastructure 
+        
+Roads are vital to the quality of life and economic activity. Much of Japan’s social infrastructure was developed when the nation experienced high economic growth in the 1960s and 1970s. Given that some of this infrastructure exceeds 50-year life planned life spans, such aging poses serious social issues. There have also been maintenance issues with some younger infrastructure. A tragic outcome was the December 2012 collapse of concrete ceiling panels in the Sasago Tunnel that killed nine people. It is increasingly important in Japan and even overseas to upgrade infrastructure to prevent such catastrophes from recurring. 
+In the next decade, around 30% of Tokyo’s Metropolitan Expressway will be more than 50 years old. Around a million vehicles a day travel along the network, making construction very challenging. The daily traffic volume of large vehicles is around five times greater than that on general roads in Tokyo’s 23 wards. As a result, cracks have increased in decks supporting expressway bridges, and 
+steel decks and girders are incurring more fatigue damage. Over the next 10 years or so, expressways and bridges around Japan will undergo upgrades and repairs at an estimated cost of ¥4 trillion. Around ¥1.6 trillion has 
+Reconstruction of Shiodome Viaduct on Yaesu route of Tokyo Metropolitan Expressway 
+been earmarked to replace decks. In fiscal 2017, the IHI Group won an order to replace the deck Kawabata Viaduct deck on the Central Nippon Expressway Company’s Odawara-Atsugi Road. 
+Bridge age distribution 
+Bridge age distribution (number of bridges) 
+High economic growth period 
+6,000 5,000 4,000 3,000 2,000 1,000 
+46,562 160,884 
+=30% of bridges 
+180,000 150,000 120,000 90,000 60,000 30,000 
+    
+Others Mixed structure bridge Prestressed concrete bridge Reinforced concrete bridge Steel bridge Cumulative total 
+        
+Average number of years since bridges constructed during Japan’ s high economic growth period: 45 
+ 
+00 90 80 70 60 50 40 30 20 10 
+(1943) (1963) (1983) (2003) Number of years since construction 
+Source: Ministry of Land, Infrastructure and Transport and Tourism 
+
+33 IHI Integrated Report 2018 
+Cumulative number of locations 
+Number of bridges 
+(2011) 
+Slashing construction periods for large replacement projects 
+We undertook a major project from 2011 through 2014 to reconstruct the Shiodome Viaduct on the Yaesu route of the Tokyo Metropolitan Expressway. It was a challenge on this congested section of the road to minimize closures without compromising quality and safety. The project involved removing all of the bridge girders in a single overnight operation in view of safety and location considerations. 
+We then installed new ones. We shortened installation and reduced road closures by using the large block batch erection method. This entails assembling bridge girders at the site and lifting sections with modular transporters above intersections. 
+This process enabled us to complete the project in 17.5 months, 2.5 months faster than planned. We received the Tanaka award from the Japan Society of Civil Engineers in 2014 in recognition of this achievement. 
+Project handling decks with complex structure 
+We rebuilt the deck of the Tsunakigawa Bridge on the Tohoku Expressway in 2012 through 2014. The bridge is near the Sendai-Miyagi Interchange, opening in 1975. The reinforced concrete deck had suffered considerable corrosion from aging, increased heavy vehicle traffic, and the application of de-icing salts in winter. Maintenance had entailed adding concrete to the top of the deck and repairing parts of the pavement. We replaced the deck in 
+view of repairs becoming more frequent recently. The bridge has a complex structure because of a nearby interchange. Deck replacement also necessitated imposing traffic restrictions as the bridge crosses a national highway. Other complications to the project were the engineering challenges and the mandate for replacement work to be only at nights. We tackled the engineering by replacing the bridge’s conventional reinforce concrete deck with a precast prestressed concrete (PCa) one that could work with complex linear shapes. We developed a light PCa deck and lines to connect deck slabs and ensure compactness to quickly undertake construction. We completed the project within the allotted time despite the nocturnal nature of the work. 
+Laying the PCa deck 
+Strategy 
+Creating Value for Businesses and Society 
+Challenge 
+Resolving Social Issues through Business 
+ESG Management 
+The Foundation for Sustainable Growth 
+Data Section 
+    
+Road bridge structure 
+Pavement 
+Deck 
+Leveraging Japanese technology to ensure long service lives 
+Our outstanding partial bridge replacement and deck repair technologies are designed to deliver long service lives for existing infrastructure. Even for facilities with just a few years of service left if nothing is done, we can extend lifespans for decades through proper repairs and reinforcements. Another benefit is that unlike with new construction, we can more quickly use existing resources, conserving them and energy. 
+The aging of infrastructure is set to peak in North America, with renovation demand similarly rising in Japan. Asia, Africa, and other emerging markets are pushing ahead with building bridges and other social infrastructure that will ultimately need renovations. We accordingly look to accelerate overseas business development by drawing on the technology and knowhow we have cultivated in Japan. We will quickly undertake top-quality infrastructure innovations to contribute to transport safety and security the world over. 
+  
+Waterproof layer 
+Crossbeams 
+Pier 
+   
+Note: The deck spreads the weight of vehicles crossing the bridge to the girders and piers. (Source: Tohoku Regional Bureau of Ministry of Land, Infrastructure and Transport and Tourism) 
+IHI Integrated Report 2018 34 

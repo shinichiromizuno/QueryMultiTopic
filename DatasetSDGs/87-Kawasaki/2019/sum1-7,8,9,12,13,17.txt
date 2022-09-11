@@ -1,0 +1,71 @@
+Big data analysis
+Sensing AI
+Horizontal application of technological advances (synergies)
+Goal for the MTBP 2019FY2018 resultsHydrogen Energy Supply ChainInitiating Demonstration Project Aimed at Establishing
+a Hydrogen Supply Chain Spanning Japan and Australia
+Despite its significant potential, brown coal has largely been underutilized as it ignites easily when dried, making it difficult to transport safely. Latrobe Valley, in Victoria, Australia, boasts an abundant reserve of brown coal. This deposit is only five meters below the ground and is estimated to contain enough fuel to power all of Japan for 240 years at current usage levels. Solutions capable of converting brown coal into hydrogen can make this underutilized resource usable.
+Kawasaki is working with partner companies toward demonstration under its Hydrogen Energy Supply Chain (HESC) Project to produce hydrogen from Latrobe Valley brown coal, liquefy it and transport it to Japan. The first hydrogen produc- tion and transportation testing is scheduled for 2020 to 2021.
+Latrobe Valley, Australia
+  Smart Community Technology Development Project Utilizing
+Hydrogen Cogeneration System1 on Kobe Port Island
+To demonstrate cogeneration employing hydrogen-fueled gas turbines, we established a cogeneration system utilizing a 1MW hydrogen- and natural gas-fueled turbine on the site of the former Kobe Minatojima Clean Center. We conducted this project with support from NEDO’s2 Subsidy to Industrial Technology Development Expense under a Specific Theme (fis- cal 2015 to 2018) program in cooperation with Obayashi Corporation, Kobe City and a number of major companies based in the Kansai area. The project’s results set the global precedent for hydrogen-fueled cogenera- tion systems that provide electricity and heat in an urban area.
+1. A general term for systems that provide electricity and heat
+2. NEDO: New Energy and Industrial Technology Development Organization
+  Hydrogen cogeneration system
+Hydrogen
+Hydrogen-fueled gas turbine
+Electricity HeatSupported fuels
+ Hydrogen  Natural gas Connecting Hydrogen Production and Consumption Sites
+Kawasaki Hydrogen Road
+Hydrogen emits no CO when combusted and can be easily produced from a variety of raw materials. Hydrogen is 2
+therefore a highly promising source of clean energy, capable of helping counter global warming and resource depletion—two major environmental problems—if it can be
+Creating Clean Energy
+As it aims to contribute to the development of a hydrogen- powered society, Kawasaki Heavy Industries is pursuing its goal of becoming a supplier of comprehensive system packages associated with hydrogen transportation infrastructure by 2030 via the provision of hydrogen loading and unloading facilities, liquefaction systems, carrier ships and gas turbines. To achieve this goal, we are working with partner companies to develop key hydrogen supply chain technologies. These tech- nologies include those associated the production of hydrogen from brown coal in Australia, with the aim of taking advantage of this underutilized resource, as well as technologies that pro- duce hydrogen in combination with renewable energy genera- tion processes and hydrogen liquefaction technologies. With regard to the transportation of hydrogen, our large-capacity carrier ships are expected to play an essential role along with our loading and unloading facilities. Furthermore, we will sup- port the storage of liquefied hydrogen as well as hydrogen
+utilization via power generation employing gas turbines opti- mized for this fuel.
+Applying CO2 capture and storage (CCS) technologies at the production stage when obtaining hydrogen from fossil fuels enables the use of hydrogen as a source of clean energy by controlling CO2 emissions all the way from production to utiliza- tion. Once established, the hydrogen supply chain that Kawasaki is building will be able to stably supply large quantities of clean energy while considerably reducing CO2 emissions. We have ini- tiated the construction of facilities for the demonstration of this supply chain. We have also successfully completed demonstra- tion testing of heat and electricity supply via pure hydrogen combustion as well as water electrolysis hydrogen production.
+  made widely available as a fuel for vehicles or power gener- ation. Kawasaki’s accumulated technological and Group capabilities enable it to provide the key equipment for
+a seamless hydrogen supply chain encompassing pro- duction, transportation, storage and utilization.
+Utilization
+  Leveraging this strength, we are developing and commercializing new hydrogen infrastructure tech- nologies. By doing so, we are working to create
+an affluent society through the safe, affordable and stable supply of hydrogen.
+Production
+-253°C: Realizing Extreme Cold
+Large-scale hydrogen-fueled power generation requires a large quantity of hydrogen. Kawasaki Heavy Industries is the first in Japan to develop an industrial hydrogen liquefaction system that employs only domestic technologies. In addition to producing hydrogen from brown coal, an underutilized resource, we have made it possi- ble to easily handle a large volume of hydrogen by using cryogenic (-253°C) liquefaction to reduce its bulk.
+Example Initiative
+Renewable energy
+Production
+Electric energy
+Production
+Production
+Fossil fuels with CCS
+Production
+  Production
+Hydrogen energy
+Transport, storage and utilization
+• Complete the demonstration of a hydrogen supply chain spanning Japan and Australia
+• Initiated the construction of loading and unloading facilities for supply chain • demonstration
+Succeeded in operating cogeneration facilities that employ the mixed combustion of
+natural gas and hydrogen as well as purely hydrogen-fueled cogeneration facilities in • urban areas in Kobe
+Completed the demonstration of wind-powered water electrolysis hydrogen produc- tion (a “power-to-gas” process that utilizes surplus renewable energy to produce and store hydrogen) in Hokkaido A demonstration plant installed on Kobe Port Island
+     Transportation
+Reduction in Volume to 1/800
+Hydrogen produced overseas from underutilized resources is liquefied at -253°C to reduce its bulk to one eight-hundredth its volume as a gas. To transport this hydrogen safely and efficiently, we are developing the world’s first liquefied hydrogen carrier ship.* The demonstration ship is scheduled for completion in 2020, with plans for larger versions down the line.
+* The Demonstration Project for Establishment of Mass Hydrogen Marine Transportation Supply Chain Derived from Unused Brown Coal subsidized by New Energy and Industrial Technology Development Organization (NEDO)
+Storage
+2,500 m3 Liquefied Hydrogen Storage Tank
+The development of storage tanks and trans- portation containers for liquefied hydrogen is essential to promoting the utilization of hydro- gen in Japan. Kawasaki Heavy Industries boasts a long track record in the handling of liquefied hydrogen used as rocket fuel. Currently, we are striving to develop the larg- est liquefied hydrogen storage tank in Japan, which will boast vacuum insulated walls and
+Utilization
+100% Hydrogen-Fueled Power Generation
+With the aim of commercializing power generation gas turbines that reduce environmental burden, we devel- oped a unique combustion method employing a mix of 40% natural gas and 60% hydrogen. Furthermore, we developed technology for freely adjusting the fuel mix, anywhere from 100% natural gas to 100% hydrogen, without interrupting the power supply. We completed the demonstration of this technology at our facility on Kobe City’s Port Island.1 Going forward, we aim to develop a dry-combustion gas turbine for purely hydrogen-fueled power generation to reduce NOx emissions. To this end, a new demonstration project,
+launched in fiscal 2019, is now under
+way at the Port Island facility.2
+1. The Smart Community Technology Development Project Utilizing Hydrogen Cogeneration Systems subsidized by NEDO: The project succeeded in the world’s first cogeneration solely via hydro- gen combustion in an urban area in April 2018
+2. The Development and Demonstration Project for Low-NOx Hydrogen-fueled Gas Turbine Combustion Technology subsidized by NEDO
+a capacity of 2,500 m3.*
+* The Demonstration Project for Establishment of Mass Hydrogen Marine Transportation Supply Chain Derived from Unused Brown
+Coal subsidized by NEDO
+        24
+Kawasaki Report 2019
+Kawasaki Report 2019 25
+Example Initiative
+ 

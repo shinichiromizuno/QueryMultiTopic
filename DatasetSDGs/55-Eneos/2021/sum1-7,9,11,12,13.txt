@@ -1,0 +1,122 @@
+Progress of Second Medium-Term Management PlanBusiness-Specific Strategies
+Energy Business
+Improving the efficiency of base businesses and developing growth businesses
+Business Environment and Basic Policies
+     Business Environment
+Related SDGs
+  Our Strengths
+• Competitive crude oil procurement through production optimization tools
+• Unified sales systems for nationwide network of approximately 13,000 service stations in Japan • Nationwide network of 12 refineries and plants in Japan
+• Global supply network for lubricants
+• Production capacity for petrochemicals with a strong presence in global markets
+• High-performance materials technology (highly heat resistant resins, optical films, etc.)
+• Portfolio of renewable energy businesses, including solar, wind, and biomass, using idle land
+  Risks
+• Dealing with declining domestic demand for petroleum products due to population decline and the growth of eco-friendly cars
+• Gaining an edge over highly cost-competitive, large-scale overseas refineries
+• Initiatives for the shift to decarbonization, which are rapidly progressing worldwide
+Opportunities
+• Rising demand for petroleum and petrochemical products in emerging countries, mainly in Asia
+• Rising demand for clean energy, including renewable energy • Growing expectations and interest in next-generation energy
+  Basic Policies of Second Medium-Term Management Plan
+ 1 Generate ongoing cash flow by strengthening the competitiveness of base businesses
+2 Pursue selective investment to develop and strengthen growth businesses and optimize the business portfolio
+3 Strengthen the business foundation
+Progress of Second Medium-Term Management Plan
+ Base Businesses
+Strengthening International Competitiveness with Production/Supply System Rationalization and DX
+To build an internationally competitive production and supply system for stable supply, in October 2020, refining was ceased at the Osaka Refinery of Osaka International Refining Company, Limited, a joint venture with PetroChina International (Japan) Co., Ltd., and relocated to the Chiba Refinery in December the same year. Furthermore, we decided to cease production at the Chita Plant around October 2021 and plan to decommission part of the
+facilities at the Negishi Refinery around October 2022.
+We established an “optimizers room” at our head office to centrally manage information for supply chain optimization. In addition, we are moving ahead with verification trials for autono- mous AI-driven operations of certain facilities at our plants, and we introduced a digital twin for pursuing further sophistication of
+facilities management through simulations in a virtual space.
+21 ENEOS Holdings, Inc. | ENEOS REPORT Integrated Report 2021
+To Our Stakeholders
+Contents / Editorial Policy and Disclosure Media Framework / Part I Part II Financial and ENEOS Group Philosophy Value Creation Story ESG Management Corporate Data
+ Ota Katsuyuki
+Representative Director, President ENEOS Corporation
+ Developing and Strengthening Growth Businesses
+Petrochemicals
+Pursuing Development of Chemical Refineries and Entering the Derivatives Field
+We are pursuing the development of chemical refineries by transforming refineries to produce more chemicals through measures such as strengthening alliances in industrial complex- es. At the Kashima Industrial Complex in Ibaraki Prefecture, we have finalized plans for a joint venture business with Mitsubishi Chemical Corporation to produce oil from waste plastic. In this arrangement, chemical recycling facilities with an annual capaci-
+Materials
+Acquisition of Elastomers Business
+After thoroughly reviewing the acquisition and expansion of a technology-based business that will become a core component of the materials business, we decided to acquire JSR Corpora- tion’ s elastomers business, which includes the manufacture and sale of synthetic rubber, and signed an acquisition agreement in
+Next-Generation Energy Supply and Community Services
+ty of 20,000 tons will be constructed at Mitsubishi Chemical’s Ibaraki Plant, located in the complex, with commercial opera- tions slated to begin in fiscal 2023.
+We are also examining making inroads into the high-value-add- ed derivatives business and expanding it internationally. As part of this effort, we are exploring the commercialization of a new ENB manufacturing facility in Saudi Arabia.
+May 2021.
+JSR will establish a new company and transfer its elastomers
+business to the new company by splitting it. ENEOS will then acquire all the shares of the new company and make it a wholly owned subsidiary around April 2022.
+Building the ENEOS Platform and Supply Chain for CO2-Free Electricity, Hydrogen and Fuels
+As a long-term initiative, we are building a supply chain for CO2-free electricity, hydrogen and fuels.
+In May 2020, we began commercial operations at the Muroran Biomass Power Plant, Japan’ s largest biomass power plant. We also commenced operations at three new mega solar power plants in Japan using idle land and participated in solar as well as onshore and offshore wind power generation projects across Japan. We started verification trials on a virtual power plant (VPP) that uses an energy management system (EMS) to control a storage battery system and our own power generation facilities as part of our efforts to build a system that can supply CO2-free electricity in a stable manner.
+In Japan, we opened four new hydrogen stations. We also participated in multiple projects that evaluated commercial viability and technological development of and conducted verification trials for building a future supply chain that can supply hydrogen made from inexpensive CO2-free energy produced overseas to Japan in a
+stable manner. Furthermore, we moved ahead with technological development to build a supply chain that can procure fuels made from inexpensive CO2-free energy produced overseas.
+To build the ENEOS Platform, we are now exploring opportunities in community services as well as the mobility and lifestyle support businesses. To contribute to appealing and sustainable community development through collaboration with community partners, we concluded a basic agreement with Shizuoka Prefecture and Shizuo- ka City for the promotion of next-generation energy and community development in the Sodeshi area of Shimizu, Shizuoka City.
+In the mobility business, we are continuing with verification trials for ENEOS Car Share and commenced the nationwide rollout of ENEOS Car Lease using our service station network. In the lifestyle support business, we began the rollout of ENEOS Laundry, which operates laundromats under the ENEOS brand, and began providing laundry and shopping services for consumers in certain communities.
+ Strengthening the Business Foundation
+Human Resources System Reforms and Active Introduction of Digital Technology
+To ensure each and every employee can maximize their capabili- ties, we are working to foster a vibrant, energetic corporate culture that inspires creativity and motivates employees to take on chal- lenges. As part of this effort, we are pursuing human resources development and improvements in mechanisms for personnel evaluation and compensation, as well as workstyle reforms. Spe- cifically, we are examining a personnel evaluation system driven by
+ability and performance instead of seniority, and compensation more in line with job responsibilities and performance.
+We have actively introduced digital technologies in all aspects of our business activities and are working to combine them into complex solutions. In this way, we will increase the efficiency of our base businesses and create innovative new products and services.
+ENEOS Holdings, Inc. | ENEOS REPORT Integrated Report 2021 22
+ 
+Progress of Second Medium-Term Management Plan
+   Close-up 1
+Contribution to a Decarbonized and Recycling-Oriented Society
+Building a Supply Chain for CO2-Free Electricity, Hydrogen and Fuels
+ As part of our efforts to build a supply chain for CO2-free electricity, we are working to establish an energy supply platform utilizing an energy management system (EMS) that optimally controls renewable energy, whose output varies based on weather conditions, using storage batteries and electric vehicles (EV).
+For this EMS, we are aiming for commercialization in fiscal 2022 based on the results of the first-ever VPP verification trial at service stations in Japan. We are now exploring additional possibilities after signing a basic agreement with Shizuoka Prefecture and Shizuoka City, where one of our refineries was formerly located, to build an energy supply platform.
+In terms of renewable energy, we are accelerating busi- ness expansion with the goal of increasing our total genera- tion capacity in Japan and overseas to more than 1 GW by fiscal 2022. To this end, in fiscal 2020 we continued expanding our portfolio of mega solar power plants using idle land and started commercial operations at the Muroran Biomass Power Plant, the largest such plant in Japan.
+With an eye toward increasing future generation capacity, we decided to join a solar power generation proj- ect in Ako District, Hyogo Prefecture, the Mutsu Ogawara Onshore Wind Farm in Kamikita District, Aomori Prefec- ture, and the wind power projects offshore of Happo Town and Noshiro City in Akita Prefecture and offshore of Goto City in Nagasaki Prefecture. We are also working on distributed power source development, and launched the ENEOS Zero Setup Cost Solar Service in fiscal 2020.
+We are also expanding initiatives for renewable energy outside of Japan, and decided to participate in solar power generation projects in Australia and the United States. The solar power generation project in Australia shows promise for the manufacture of CO2-free hydrogen.
+To achieve a mass supply of inexpensive CO2-free hydrogen from overseas, we are working on develop- ment initiatives for proprietary technologies and a broad range of verification trials through alliances. Our propri- etary Direct MCH® technology simplifies the process of manufacturing methylcyclohexane (MCH), a carrier of hydrogen, from renewable energy, which is expected to greatly lower costs. We already established the technolo-
+gy during the research and development stage, so going forward we plan to conduct large-scale verification trials.
+In terms of CO2-free hydrogen manufactured over- seas, we are working to build a hydrogen supply chain where we can import to our refineries and use our hydro- gen stations as community hubs for supplying CO2-free hydrogen to customers in a stable manner.
+We are moving ahead with various initiatives utilizing a broad range of alliances, including collaboration with Saudi Aramco and a review of hydrogen supply derived from hydroelectric power generation in Malaysia. As part of our efforts to build a CO2-free hydrogen supply system in Japan, we are supplying hydrogen to Woven City, a demonstration city operated by Toyota Motor Corpora- tion, and participating in a demonstration project for hydrogen manufacture and supply using renewable ener- gy in Kitakyushu City.
+CO2-free fuels, made by combining hydrogen derived from renewable energy and CO2, can be used without modification in existing engines and the fuel supply infra- structure, and we are now working to build a supply system for these fuels. Utilizing the ultra-high-speed AI-driven molecular simulator co-developed with Preferred Networks, Inc., we are now developing manu- facturable catalysts at a higher efficiency in order to streamline the manufacture of CO2-free fuels.
+In addition, looking toward rising demand for bio jet fuel in the future, we are conducting a commercialization review of sustainable jet fuel manufacturing using waste, including waste plastics, as part of our efforts to build a supply system for CO2-free fuel.
+Diagram of Japan’s First VPP Verification Trial at Service Stations
+VPP system
+EMS
+EMS EMS
+       23 ENEOS Holdings, Inc. | ENEOS REPORT Integrated Report 2021
+
+To Our Stakeholders
+Contents / Editorial Policy and Disclosure Media Framework / Part I Part II Financial and ENEOS Group Philosophy Value Creation Story ESG Management Corporate DataEnergy Business
+  Close-up 2
+We are now exploring a route charging business using our nationwide network of some 13,000 service stations, considered an ENEOS strength, basic charging services in homes through a tie-up with ENEOS Denki* power supply, and the expansion of related services such as EV leasing, sharing and main- tenance, which includes possible collaboration with other companies.
+In July 2021, we established the EV Business Development Department to pursue business expan- sion through a focused approach to exploring business opportunities in EVs, in anticipation of broad adoption of EVs in the future.
+* “Denki” means “electricity” in Japanese.
+Contribution to a Decarbonized and Recycling-Oriented Society
+Initiatives for EV-Related Services
+     Basic charging
+Route charging
+EV charging
+Mobility business
+Basic charging business
+(mainly for households)ENEOS DenkiRenewable energy plan
+      network business
+(EVs)
+EV maintenance Pursue installation of quick chargersCollaboration with other companies
+ ENEOS Car Share
+ENEOS Car Lease
+   Provide used batteries as storage batteries
+Batteries
+  Close-up 3
+Initiatives to Strengthen and Grow the Materials Business
+Acquisition of Elastomers Business
+ JSR Corporation’s elastomers business supplies mate- rials that are essential to mobility industries and contrib- ute to reduced environmental impacts. Solution polymerization styrene-butadiene rubber (SSBR), JSR’s main elastomers product, offers the highest per- formance in the industry and is indispensable as a raw material for treads on fuel-efficient and high-perfor- mance tires.
+The integration of ENEOS’s technology-based businesses throughout the value chain, from petro- leum to materials, and JSR’s elastomers business will generate synergies including cost reduction and enhanced product development capability.
+In the materials business, we will concentrate resources on the development and commercialization of high-performance materials, using this elastomers business as a focal point, as we seek to quickly estab-
+lish a worldwide business and presence as a manufac- turer of high-performance materials.
+Main products
+Broad product lineup with synthetic rubber for tires (SSBR, etc.) as its main product
+All-purpose synthetic rubbers and specialty synthetic rubbers ...Automotive tires, automotive
+components, etc.
+Thermoplastic elastomers
+...Shoe soles, adhesives, etc.
+Emulsions and raw materials for functional chemicals
+...Paper coating agents, construction
+materials, etc.
+    ENEOS Holdings, Inc. | ENEOS REPORT Integrated Report 2021 24

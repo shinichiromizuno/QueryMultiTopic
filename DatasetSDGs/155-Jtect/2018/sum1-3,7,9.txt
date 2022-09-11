@@ -1,0 +1,152 @@
+   Steering business
+Steering business sales / Net sales (FY2017)
+49.4%
+Mid-term Plan
+To maintain our No.1 global share position, JTEKT has established three major points of our mid-term plan aimed at firmly retaining 25% of overall market share.
+Expansion of the rack assist type EPS business
+• Expand sales of high power DP-EPS/RP-EPS in line with the shift to EPS for medium to large-sized vehicles.
+• Development of an RP-EPS system equipped with a lithium ion capacitor as an auxiliary power source to apply EPS to large vehicles with certainty.
+Improved EPS cost competitiveness
+• In addition to existing cost reduction activities, concentrate efforts on optimization of purchasing cost through In-house production of major parts (MCU) and reduction of manufacturing cost through automation of production.
+R&D considering autonomous driving
+• Promote development of a steer-by-wire steering system in preparation for the realization of autonomous driving.
+Progress in FY2017
+Launch of global RP-EPS production
+• After commencing mass production in Japan in December 2016, also commenced mass production in North America in FY2017. Plan to start production in China in the future (Dec. 2019).
+Strengthening of business foundation
+• Through consolidation with Indian company, Sona Koyo Steering Systems, (currently JTEKT India LTD.), we have strengthened our presence in the Indian market.
+• Through making Fuji Kiko a wholly-owned subsidiary, we have strengthened our system response ability, including those related to manual columns.
+Establishment of a software development base considering the autonomous driving era
+• Establishment of JTEKT IT Center Akita Corporation as a software development base.
+Expansion of areas for EPS application
+• Development and mass production of "I-EPS", electric power steering for multi-purpose vehicles used in the agricultural field in North America for carrying loads or transportation
+(adopted on Kubota's UTV "RTV-XG850").
+Solutions for social issues (from the perspective of SDGs)
+SHAPING A BETTER FUTURE
+Steering business reaction force unit
+clutch
+ With the No.1 share in the world, steering is our flagship business. This business is already contributing to the improvement of the environment (energy-saving), safety and conve- nience through offering electric power steering (EPS) primarily for passenger vehicles. With the No.1 share in the world, steering is our flagship business.
+In FY2017, we strengthened our rack assist type EPS lineup and realized a full lineup from column type to rack parallel and dual pinion type. In FY2018, we will mature our rack parallel and dual pinion type, and concentrated our efforts on sales expansion and continue refining our steering business to support our No.1 global share status. As we head towards an era of autonomous driving, JTEKT will apply and propose the technologies we have cultivated in the EPS area not only to passenger vehicles, but also to commercial vehicles, in order to continue contributing to the realization of a safer and more comfortable automotive options.
+steering unit
+ General Chief of Steering Systems Business Headquarters
+Hirofumi Matsuoka
+Linked steer-by-wire systemssteering unit
+reaction force unit
+   Linkless steer-by-wire systems
+ description of business
+Offering a steering device that shares the "turning function" which is one of the basic functions of a car.
+Offering the column assist type (mainly column type EPS - hereinafter C-EPS) and the high-power rack assist type (rack parallel type EPS, dual pinion type EPS - hereinafter RP-EPS, DP-EPS)
+      C-EPS
+Strengths
+Presenting a full lineup of EPS products
+• By incorporating C-EPS, RP-EPS and DP-EPS in our major product lineup, JTEKT offers EPS products for practically all sizes of passenger vehicles.
+Global supply system
+RP-EPS
+DP-EPS
+Business environment analysis
+Advancement to EPS for large vehicles due to society's increasing demands for fuel efficiency
+• We anticipate the further popularization of EPS to achieve greater fuel efficiency in large vehicles.
+Intensification of C-EPS cost competitiveness
+• Cost competitiveness will intensify from here on due to advancement in the commoditization of products and participation by Chinese manufacturers, etc. in the C-EPS market.
+Changing needs due to the expansion of autonomous driving
+• We predict that steering-related needs will change in the context of autonomous driving.
+Opening ceremony of JTEKT IT Center Akita Corporation
+I-EPS
+( intermediate assist type EPS)
+   • In addition to producing DP-EPS in Japan, China, America and Europe, as well as RP-EPS in Japan, China and America, we have also established a production base in Morocco, Africa set to commence mass production in 2020.
+Technological capabilities realizing ongoing safety and security
+• Supporting realization of a society free of road accidents through autonomous driving
+• Contributing to the greater fuel efficiency of cars, including not only passenger vehicles, but also commercial vehicles
+• Establishment of global development bases and nurturing of developers to contribute to enhanced technological capabilities in each country
+  • Steering systems are a major safety component and JTEKT
+has produced high-quality, high-performing steering
+systems for decades. F SUV
+HPS/H-EPS
+Shift to EPS for large vehicles
+DP/RP-EPS
+C-EPS
+  • As a result, we have earned the place of No.1 in global E P-UP share. DC
+AB
+2018
+2025
+      35 * C-EPS is a registered trademark of JTEKT Corporation. * RP-EPS is a registered trademark of JTEKT Corporation. * DP-EPS is a registered trademark of JTEKT Corporation.
+* I-EPS is a registered trademark of JTEKT Corporation. 36
+   Driveline business
+Driveline business sales / Net sales (FY2017)
+10.1%
+Mid-term Plan
+With the aim of exponentially advancing our position as a driveline system supplier, we will accelerate strengthening of our system development capabilities and engage in product development for vehicle electrification (EV, FCV, etc.).
+Strengthen development of driveline systems
+Our products have been held in high regard at vehicle test drive sessions in cold regions and we have improved our ability to make system proposals through dialogue with customers.
+By evolving from a module supplier to a system supplier and responding to all development processes as a system, we will endeavor to further improve our ability to present proposals to customers.
+SHAPING A BETTER FUTURE
+Driveline business
+  The Driveline Systems business offers products for the automotive industry such as drive shafts, propeller shafts, ITCC, Torsen and oil pumps. In FY2017, we engaged in activities to strengthen our business foundation such as thorough cost-reduction activities and front-loading activities.
+In FY2018, we will escalate these activities as businesses and pave the way to further growth. Through the energy-saving, improved travelling safety and other benefits provided by our driveline parts, we will contribute to the creation of a safer society for people.
+Cold region test drive event (Sweden)
+ Driveline
+• Strengthen product appeal such as weight reduction, low loss and rigidity optimization.
+AWD system
+• Contribute to weight reduction and higher fuel efficiency through integration with differential gear, improved responsiveness, size reduction, etc. Developments to strengthen product appeal, such as E-AWD systems which utilize JTEKT's strengths.
+Hydraulic system
+• Promote higher efficiency of electrical oil pumps (small, lightweight, high flow volume, high output) responding to applications emerging as a result of vehicle electrification/series development
+Parts for FCV(Valve, pressure-reducing valve)
+• Full-scale mass production of parts for FCV and future expansion of areas including trucks, rail and vehicles for industrial machines.
+Progress in FY2017
+Driveline
+• New series development, thorough cost competitiveness.
+AWD system
+• Began equipping FF vehicles with Torsen Type-B as a product that achieves a safer and more comfortable driving experience.
+• Development of Torsen for small trucks capable of performing in harsh operating conditions.
+Hydraulic system
+• Began mass production of oil pumps (internal gear/parallel type) which are smaller and higher efficiency, for use with the latest AT.
+4WD Actual vehicle planning performance   performance
+Powertrain
+planning evaluation
+4WD system 4WD planning performance
+General Chief of Driveline Systems Business Headquarters
+Takumi Matsumoto
+DL planning NV planning
+evaluation
+ Unit planning
+Unit Unit design evaluation
+Element Module design evaluation
+Element/unit prototype
+   description Offer driveline products for vehicles, torque control device (TCD), hydraulic unit, valve
+unit for fuel cell vehicles (FCV), etc.
+of business
+RrJTEKT's strengthsHydraulic Technology
+Motor cooling,
+reduction gear lubrication
+TCD
+(improve travelling performance)
+Utilization of
+the lithium ion capacitor
+ Lithium ion capacitor
+Invertor
+ M
+      Drive shaft
+Strengths
+An attractive product in
+a No.1 global share position
+• Torque-sensitive limited-slip differen- tial(TORSEN)
+• Intelligent torque controlled coupling (ITCC)
+Broad technology lineup
+Possess core technologies relating to the "travelling" of vehicles including torque management, gear machining, hydraulic systems, tribology and coating.
+Next generation ITCC
+Business environment analysis
+Electrical oil pump
+E-AWD image
+Next-generation torsen (Diff-lock attached)
+Demonstrates high durability in harsh environments, carrying heavy loads or travelling on muddy roads
+   An increase of new needs in accordance with advancements in electrification and autonomous driving
+• A shift in conventional products from advanced countries to newly emerging countries.
+• JTEKT will need to respond to the electrifica- tion trend moving forward, requiring ongoing technological advancement for the mid-to-long term.
+• Expand the role of TCD (torque control device) that supports the safe and comfortable turning and stopping of vehicles.
+Torsen for small truck
+  Solutions for social issues (from the perspective of SDGs)
+• Contributing to the realization of a safer automotive industry by producing high-quality, innovative parts that enhance automobile turn and stop capabilities.
+• Offering driveline systems that create higher fuel-efficiency cars
+• Contributing to the sustainable development of an industry overall by providing products that respond to the needs of EVs
+     37 * ITCC is a registered trademark of JTEKT Corporation. * Torsen is a registered trademark of JTEKT Corporation.
+38

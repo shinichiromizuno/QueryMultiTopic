@@ -1,0 +1,63 @@
+Energy Management
+ Our energy management domain advances the adoption of renewable energy to reduce CO2 emissions and build a society in which people live in comfort. We work with our partners to promote the use of power conditioners and storage battery systems for the benefit of a clean environment.The OMRON Environmental Solutions Business (under corporate headquarters) and Omron Field Engineering Co., Ltd. (maintenance and services subsidiary of Omron Social Solutions Co., Ltd.) are the two entities through which we conduct most of our environmental business.An Expanding Renewable Energy Market
+While industrial activity has made our modern lives much more convenient, this same activity has given rise to increasing levels of CO2 and other greenhouse gases. Today, we face the risk of major environmental damage and economic loss. The government of Japan has set targets to increase the use of energy from renewable sources from 15 percent (fiscal 2015) to 24 percent by the year 2030. Forecasts estimate the use of solar power will double, from 3.3 percent to seven percent in that same time frame. OMRON is doing our part to promote renewable energy and reduce greenhouse gases through power conditioners and storage batteries used in connection with solar power systems.
+Japan’s Future Energy Structure
+ Production Capacity
+Solar Power 3.3%
+Renewable Energy 15%
+Renewable Energy 22% to 24%
+Double Solar Power
+   Solar Power 7%
+           2015
+2030
+Nuclear Energy 20% to 22%
+Thermal Energy 56%
+Fiscal
+Year
+(Source) Ministry of Economy, Trade and Industry, isepFiscal 2020 Targets and Fiscal 2017 Progress
+ Fiscal 2017 Progress
+ProgressToward Sustainability Goals
+Cumulative shipped capacity of solar power/storage battery systems: 8.0GW
+Fiscal 2020 Targets
+Sustainability Goals
+Cumulative shipped capacity of solar power/storage battery systems: 11.2GW
+Build the energy resource aggregation business using solar pv/storage systems (Japan)*  Applicable SDGs
+Affordable and Clean Energy
+Climate Action
+ 54
+* Target added
+ Fiscal 2017 Highlights
+A New Use Case for Solar Power Systems
+A new trend in solar power system adoption is taking hold. Solar power systems have had challenges gaining traction among local governments due to costs and maintenance issues. NTT Smile Energy*1, however, has come up with a novel solution. Rather than installing solar power systems in public facilities and charging electricity usage fees, the company has introduced a service for local governments to pay rent on solar power installations. This service makes it
+Free School Solar Power Installation Project
+possible to supply electricity to local governments, which can be used as autonomous power during power outages. Where does OMRON come in? We supply the power conditioners for these systems, the preferred choice based on our track record in the field. In this way and many others, OMRON is committed to spreading the use of renewable energy, as we work with partners to develop new service models.
+*1
+NTT Smile Energy is a joint venture funded by OMRON and NTT West Corporation, established in June 2011.
+Electricity Electricity Sales
+Equipment Design, Construction, Operation, Maintenance
+ Solar Power Conditioner Installation
+Local Government
+Autonomous Power Supply
+Emergency
+Shelter
+Solar Power System Installation
+Rooftop Usage Fees Depreciable Asset Tax
+Disaster shelter with autonomous power Greater rent and tax revenues
+Higher renewable energy adoption
+ Equipment Owner/ Operator
+NTT Smile Energy
+        Construction Costs ContractorLooking to the Near Future
+Building a Power Aggregation Market Using Solar Power and Storage Batteries
+More companies around the world are embracing the international RE100*2 initiative, adopting renewable energy for the transition to a low-carbon society. Demand for renewable energy is rising in Japan, just as in many regions, requiring aggregation of electricity and effective controls. OMRON is leveraging our strengths in equipment installation, servicing, and maintenance to create an aggregation business that bundles electricity from solar power systems with controls and intelligently networked equipment.
+*2 RE100 is an international initiative supported by companies committed to using 100% renewable power.
+Energy Providers
+Resource Aggregators
+Partnership
+Partnership Partnership
+Company B
+   Control of Bundled Company
+Equipment (Electric Power) Remotely
+A
+Power Company Consumers
+Offices, Stores, Factories, Apartment Buildings, Houses, Housing Complexes, Outdoor Equipment
+55

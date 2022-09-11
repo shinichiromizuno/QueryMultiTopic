@@ -1,0 +1,61 @@
+Technology Development and Digital Strategy
+Shimizu will establish new research facilities, develop human resources, and implement an intellectual property strategy to accelerate the devel- opment of innovative technologies across Group businesses. We are also pursuing a digital strategy to reform business models and workstyles through the use of a digital platform.
+Contributing to the achievement of SDGs through business activities
+Key Strategies of the Mid-Term Management Plan
+[Technology Development]
+• Create innovative production and quality management systems
+• Provide safe, secure, and sustainable communities
+• Strengthen the foundations for technological development (human
+resources, research facilities, external alliances, intellectual property strategy)
+[Digital Strategy]
+• Grow existing businesses and accelerate creation of new businesses by utilizing the latest information and communications technology to respond flexibly and swiftly to changes in the external environment
+• Establish a global digital platform using the latest technology to accommodate diversity in lifestyles and working styles
+    Overview of Activities
+Shimizu is actively working to improve productivity and advance i-Con- struction that supports the lifestyles of people through community development and high quality infrastructure. Advances in construction robots are being achieved daily and we are accelerating the introduc- tion of these robots at job sites as the front runner in the industry. Shimizu has achieved results in technology development. We received an award from the Architectural Institute of Japan in 2019 for Zero- Shrink concrete and in 2020 for CW-QUIC quality control technology for the pilings that support buildings and other structures.
+As part of our digital strategy, we are working to build a digital platform consisting of a data management platform, human resources skilled in digital technology, networks, and an infrastructure environ- ment to accelerate growth of existing businesses and creation of new businesses. We are standardizing the methods for linking data from sales to maintenance and preservation and integrating this with con- struction summary data, mainly for building construction projects in Japan. We are focusing on collecting and accumulating data on con- struction results and other information together with data on business characteristics, and building a digital management platform.
+Future Initiatives
+Shimizu aims to establish innovative production and quality manage- ment systems using IoT, AI, and robotics, mainly as part of Shimz Smart Site. Shimizu is working to develop technologies that are a step above the rest. To accomplish this, we are working to enhance technology for safety and security aimed primarily at response to the increasing intensity and types of disasters. Shimizu is also accelerating develop- ment of new workplaces that are at the forefront of workstyle reform and development related to the environment and energy. To realize a society in which no one is left behind, which is asserted in the sustain- able development goals (SDGs), we are also putting effort into inclu- sive technologies. We are currently working on the plans for Shiomi Innovation Center (tentative name) and also intend to build a research facility aimed at innovations in construction robots, structures, materi- als, and other aspects of production.
+Through our digital strategy, we are working to improve synergies between businesses and speed up business creation. We will accom- plish this by building a digital platform and sharing information among the construction business, non-construction businesses, and affiliated companies within the Group. Shimizu will also pursue digitalization of all operations through more widespread use of devices for telecommuting and speeding up the process of going paperless in approval and payment processes to support the environmental aspects of workstyle reform.
+  44 Shimizu Corporate Report 2020TOPICSIntroduction of Slim Fire-Resistant Wood and Shimz Hy-wood Technologies for Wooden Structures
+The use of wood in medium and large-sized fire resistant buildings other than public buildings is expected to increase with stronger implementation of the Act for Promotion of Use of Wood in Public Buildings. Shimizu will also promote greater use of wooden structures that employ new technologies. We introduced Slim Fire-Resistant Wood, which is made of wood and fire-resistance components, and the Shimz Hy-wood construction method for wooden struc- tures in the construction of the Chayagasaka company housing (in Chikusa-ku, Nagoya) owned by Shimizu in July 2020. Although we used a large volume of wooden materials, 220 m3 in total, we succeeded in building a fire-resistant wooden structure that met the structural and fire-resistance performance requirements for modern buildings.
+Slim Fire-Resistant Wood has a thin fire-resistant layer inserted between wooden mate- rials. It is used for wooden columns and beams and makes it possible to achieve both fire resistance and efficient space design. Shimz Hy-Wood is a wooden hybrid frame construction method that uses technology that makes it possible to connect and integrate a wooden struc- ture with a steel frame. This construction method provides superior earthquake resistance and workability and makes it possible to control the spread when a fire breaks out.
+Integration of Construction Project Data and Operating Innovations in the Construction Production Process
+Shimizu optimized the entire operating system, which had been optimized for each process such as sales stage to design, quoting, procurement, construction, and maintenance, and linked them to a common project code. We are building a project database that supports the efficient accumulation and use of data on improved accuracy of building information and preservation activities, and data on after service. This will make it possible to achieve dramatic innovations in the construction
+     production process, not just in our company, but through col- laboration with customers and subcontractors.
+To explain in greater detail, this will enable data to be obtained rapidly and simultaneously, so it will be possible to improve the quality of operations through strict risk manage- ment and operating the PDCA cycle at the upstream stage of a project. Moreover, the use of linked data from multiple operat- ing systems makes the transition from what is optimal for one part to what is optimal for the whole and improves the efficiency of the entire project. This can improve productivity. The ability to use project information safely anywhere, at any time is also leading to workstyle reform.
+Design
+Sales
+Quotes & procurement
+Construction
+Maintenance and operation
+ Management information Data on construction progress Payment data
+BIM data
+CIM data
+Subcontractors
+Quotes
+Sales Quality
+Design
+Procurement Environment
+Construction
+Cost Safety
+Maintenance
+Accounting Building
+Frontline support
+Computer graphics
+Management information Data on construction progress Payment and approval data EV operating data
+Monitoring camera data
+Shimizu Group
+    Building Shimz Digital Design Enhancement (DDE) Platform
+Shimizu is building a BIM system that integrates the design and build process using of data over the entire building lifecycle from planning and basic design to construc- tion and facility management.
+We built Shimz DDE and are systematically operating it to deploy advanced computational design techniques in all design divisions company-wide to add greater value in the planning and basic design stage. Designers can use the various tools in Shimz DDE to create value-added design proposals supported by data.
+Building this platform has dramatically expanded the scope of things considered when creating a design proposal. It can add even greater value than proposals by highly skilled designers. This naturally enables us to provide buildings that exceed the expectations of our customers. We also accumulate the company’s design expertise in Shimz DDE in the form of 3D data and will pass this on to the next generation as shared organizational knowledge.
+Environmental simulation
+Management
+Conceptual diagram of data management platform
+Safety and environment
+  Structural simulation
+Programming
+Planning support function
+Equipment simulation
+Regulatory checking function
+Shimizu Corporate Report 2020 45

@@ -1,0 +1,3824 @@
+IHI Integrated Report 2020 
+   
+
+Management Philosophy 
+経営理念 
+Contribute to the development of society through technology 
+Human resources are our single most valuable asset 
+IHI Group Vision 
+The IHI Group seeks to solve the various environmental, industrial, social, and energy related problems of the 21st century, through using engineering expertise to focus on “Monozukuri” technology. In striving towards these goals, IHI is becoming a global enterprise offering the safety and security for the benefit of both the environment and humanity. 
+    
+  
+	.	01  Management Philosophy and IHI Group Vision  
+	.	02  Contents and Editorial Policy  
+Value Creation Strategy 
+03 Message from the Chairman 05 Message from the President 09 Value Creation Process 11 Value Creation Story 
+19 Our Businesses 21 Business Overview 
+Editorial Policy 
+Contents 
+23 Group Management Policies 
+25 Financial Strategy 
+Foundation for Sustainable Growth 
+Data 
+43 Financial Summary 45 Non-Financial Summary 49 Consolidated Financial Statements 53 Corporate Data 
+   
+This report is issued as a communication tool to convey particularly important information regarding fundamental initiatives that support the policies, strategies, and businesses of IHI. Please visit the websites below for more detailed information. 
+On the Cover 
+We have taken a minimalist approach to the design of our front cover. It features our logo set against a white background, with the color white meant to evoke the concepts of “beginnings,” “future,” and “limitlessness,” and so express the IHI Group’s commitment to a new departure. 
+In FY2020, we will look ahead to the post-pandemic world, and reexamine the IHI Group under the new president as we move forward in our transformation as we work to further enhance our corporate value. 
+27
+31
+33
+35
+37
+41
+Cultivating Human Resources as Change Drivers Corporate Officers Messages from Outside Officers Corporate Governance 
+Risk Management Addressing Climate Change 
+ 
+Financial: https://www.ihi.co.jp/en/ir/ Non-Financial: https://www.ihi.co.jp/csr/english/ 
+ 
+Message from the Chairman 
+
+With our technologies and culture of taking on challenges, we will work to solve the most pressing issues of the new era. The IHI Group’s mission is to support people’s prosperity, safety and security. 
+Tsugio Mitsuoka 
+Chairman of the Board and Chief Executive Officer IHI Corporation 
+3 
+The IHI Group conducts its business activities guided by the two tenets of its Management Philosophy: “Contribute to the development of society through technology” and “Human resources are our single most valuable asset.” 
+Since its founding as a shipbuilder in 1853, IHI has continuously developed original technologies for each era, and contributed to the development of society by providing products and services that are the foundation of daily life. 
+Our unwavering mission is to support prosperity, safety and security for people worldwide by solving the social issues of each era through the tireless pursuit of monozukuri (“manufacturing”), advanced engineering capabilities and technological excellence that have been passed down to us, and the achievements and trust that they have led to. 
+
+We will respond to a rapidly changing social environment 
+and further accelerate our transformation. 
+Today, society and values are undergoing significant change; in particular, as regards sustainability. One such change is the move toward decarbonization in response to global warming and the increasing frequency of extreme weather events worldwide. To ensure sustainable development in the future, there is a need for diverse solutions adapted to the different industries that support people’s lives in each country and region. It is still too early to accurately gauge the full impact of the COVID-19 pandemic. Nevertheless, it will reshape the very structure of society. 
+We have been working to transform our business model and operational structure based on our long-term approach: Tackle social and customer issues with customers and create new value. 
+Amid these environmental changes, I believe we should return to our original purpose as a company and rethink our businesses. 
+We will put the IHI Group back on a growth track 
+under a new management structure. 
+In June 2020, I became Chairman of the Board and CEO, and Hiroshi Ide was appointed President and COO. Mr. Ide, my successor, has broad vision on a global scale, agility and outstanding communication skills, 
+along with experience, particularly in overseas sales in the energy field and including as managing director of an overseas subsidiary. 
+In the face of this period of rapid change, we have appointed as president someone who has the sensitivity to understand what goals we should set and what we should do to support the sustainable growth of society. By strengthening our business execution framework, we will further advance our strategic allocation of resources, and complete the transformation of our business structure as early as possible. 
+Under a new leadership structure and with the determination to transform the IHI Group, the entire management team is committed to putting the Company on a new growth track. We will show the world once again the true value of our relentless pursuit of monozukuri and our advanced engineering capabilities. 
+4 
+With the DNA of contributing to society and a changed mindset, we will transform ourselves to pursue a new growth track. 
+Hiroshi Ide 
+President and Chief Operating Officer 
+IHI Corporation 
+ 
+Message from the President 
+ 
+5 
+Management that is fully prepared to transform IHI 
+I was appointed chief operating officer in April 2020, and president and representative director in June. In a business environment that is changing significantly, I have braced myself for taking on the responsibilities of president, and am fully prepared to transform the IHI Group. 
+Previously, I worked in overseas sales in the energy field and as managing director of a subsidiary in Singapore. I became vice president of the Resources, Energy & Environment Business Area three years ago, and president last year. Since the Paris Agreement was adopted in 2015, there have been increasing calls to shift to a carbon-free recycling-oriented society to achieve social sustainability. Having worked in the energy field for many years, I feel strongly that the IHI Group must urgently transform to ensure its future. My duty as president is to align the various businesses of the whole Group with its long-term approach—“Tackle social and customer issues with customers and create new value”—without letting up on the reforms of the last three years. I am determined to change everything that should be changed, even in businesses that currently seem to be doing well, to continue on our path of transformation. 
+
+
+Changing our mindset to become a lean, flexible and agile company 
+First, I will work to change our mindset to become a lean, flexible and agile company. This means being a company that swiftly reacts to and takes action on the issues it faces, including those of customers. To that end, every employee needs to be highly responsive in sensitively perceiving and acting on changes in society, customers and the people we work alongside. This will be the starting point for all that follows. 
+As such a company, what do we need to do to transform? We will carry out reforms that cover all aspects of our operations, including human resource development, quality, safety, technology development and proposals to customers. As a company with a long history, we tend to think of the future as an extension of the past. Of course, it is true that we have been able 
+to create socially useful businesses because of the achievements of our predecessors, and I have great respect for that. To achieve further sustainable growth, however, we must evolve into a company that can respond quickly while asking ourselves how we should transform. Just as the large dinosaurs became extinct because they were unable to adapt to changes in the natural environment, we cannot survive simply by remaining massive and heavy. Like the mammals that adapted to changes, we need to become lighter and more agile. 
+When I became managing director of one of our Group companies in Singapore, I was the only Japanese person among employees of many different nationalities, and there was a sense that they were waiting for me to show them what I could do. I took action by creating a management policy that reflected my intention to transform the company, and by 
+communicating the policy with perseverance until it was shared by all the employees. At the same time, whenever a problem occurred, I made sure that I reacted immediately and that we moved together to solve it. Over time, this approach led to more active communication, and employees started to ensure that I was kept in the loop about small risks they noticed in their daily work, and began taking me to visit local customers. In my responsibilities as president of IHI, I aim to take the same approach. I will continue to value dialogue with our various stakeholders, while pursuing a lean, flexible and agile management style. 
+Getting started on restructuring our business to respond to the social changes brought on by COVID-19 
+The COVID-19 pandemic is one of our major external challenges. In immediate terms, there are delays in new investment in infrastructure and facilities and equipment, and the pandemic is having a significant impact on results for civil aero engines in particular, due to the sharp decline in passenger demand and deteriorating business conditions for airlines. On the other hand, new needs have arisen, such as extension of the service life of existing equipment and enhancement of production efficiency. As featured in Group Management Policies 2019 (see page 23), I believe lifecycle businesses are the answer to these issues. Such businesses provide comprehensive support for operation throughout the equipment lifecycle, thereby giving customers confidence in using our infrastructure and equipment over a long period. 
+
+6 
+
+In our Group Vision, we seek to “offer the safety and security for the benefit of both the environment and humanity.” Even amid the current pandemic, climate change is having an enormous impact on society. We believe this is a social issue that we should address, and we will contribute to both mitigation and adaptation. With societal demands regarding safety and security, including health, becoming stronger, we have reaffirmed that providing the infrastructure for people to live with peace of mind must be our purpose. Although the COVID-19 pandemic is ongoing, the IHI Group will not change its direction. However, in view of the changing social and 
+industrial landscape, we will not restrict ourselves to our current business areas as we restructure our business portfolio to incorporate future growth businesses. 
+Refining our technologies and human resources and sharing a healthy sense of urgency to advance with frontline operations 
+The most important resources for fulfilling the IHI Group’s long-term approach are our technologies and our people. The technological strength, human resource power and relationships with customers cultivated over our 167-year history are foundations we must continue to cherish. 
+Human resources are essential to a company’s vitality. In light of the increasingly diverse nature of society, we are rethinking how we nurture talent and whether we should change our approach to recruiting. For IHI, which provides prosperity, safety and security to the global community, diversity and inclusion is a critical theme. This is because “prosperity” is a subjective value that differs completely depending on the country, region and individual. Can an organization without any diversity in racial background, gender and age group really provide that? The answer is no. 
+“Contribute to the development of society through technology” is one of the tenets of our Management Philosophy, and our social mission. As the speed of change accelerates, our ability to respond quickly to society’s needs will be key. How can we sharpen and apply our technological 
+ 
+7 
+
+strengths, and who should we form partnerships with? We must be more flexible in our thinking about our technologies, and not insist on doing everything ourselves. 
+Additionally, we are reinforcing quality assurance, safety and compliance based on the principles of Sangen-Shugi (“three realities”) from the viewpoint of risk management. Sangen-Shugi espouses taking action after taking a close look at the genba (“actual site”), genbutsu (“actual thing/ service”), and genjitsu (“reality”). It is the departure point for all our businesses. Furthermore, a healthy sense of urgency is important to 
+properly managing risk. Nevertheless, if management simply preaches a sense of urgency from the top down, the desired effect may not be forthcoming because frontline workers may have difficulty picturing specific risk factors and feel anxious about the future. For that reason, it is important to create opportunities for bridging that gap through dialogue about what employees are thinking in their respective posts. If management shows employees in concrete terms the direction they should face and outlines the situations that could occur, their worries will turn into a healthy sense of urgency. They will then be able to take precise measures on the front lines to make sure that risks do not materialize. 
+The IHI Group has a long history of striving to build industries and infrastructure in concert with the development of society. That DNA has been passed down to the Group today, and we have a firmly rooted culture of wishing to work for and with society, which includes being first on the scene to repair infrastructure during times of disaster. This culture is not something that can be created overnight; it is a strength that has been shaped by the steady, sincere efforts of employees over the years. When I was in charge of energy plants overseas, I saw first-hand how a power plant was built where there was nothing; the electricity went on, people came, and a new town sprang up around it. I am proud and happy that I was able to participate in that moment of history as a part of the IHI Group. 
+Going forward, as a manager that forges new paths, I will work with employees to pass on this unique DNA and dedicate my efforts to building the IHI Group into an enterprise that society can continue to rely on. 
+
+Safety patrol 
+8 
+
+Value Creation Process 
+   
+External Changes 
+IHI Group’s Key Assets 
+Solutions and Sustainable Growth Foundation 
+      
+Our strength 
+Problem-solving capability supported by concentration of diverse technologies 
+FY2019 
+¥38.1 billion 
+  
+R&D expenses 
+Technology 
+Contribute to the development of society through technology 
+ 
+Accelerating trend away from CO2 and fossil fuels 
+       
+Rapid diffusion of digital technology 
+      
+Lean and flexible 
+Flexible response to environmental changes 
+Human Human resources are our 
+Resources 
+Our strength Globally connected teamwork 
+FY2019 
+28,964 
+     
+single most valuable asset 
+      
+Employees (consolidated) 
+Foundation for sustainable growth 
+Environment 
+Reduce environmental impact 
+p. 27– 
+Society 
+Materialize an affluent society 
+  
+9 
+Urgent action on disaster prevention, disaster risk reduction and national resilience plan in response to frequent disasters 
+Business model transformation 
+ 
+Transform to create new value 
+  
+COVID-19 economic crisis 
+s 
+e 
+u 
+s 
+s 
+i 
+l 
+a 
+i 
+c 
+o 
+s 
+I 
+d 
+f 
+e 
+n 
+o 
+t 
+i 
+f 
+e 
+y 
+r 
+e 
+c 
+a 
+u 
+s 
+w 
+t 
+o 
+a 
+e 
+r 
+B 
+s 
+’ 
+c 
+h 
+a 
+l 
+l 
+e 
+n 
+g 
+e 
+s 
+t 
+P 
+h 
+h 
+r 
+r 
+g 
+o 
+u 
+u 
+o g 
+o 
+i 
+s 
+r 
+d 
+v h 
+h 
+e 
+t 
+m 
+e 
+c 
+i 
+o 
+e 
+s 
+v 
+e 
+u 
+r 
+g 
+t 
+n 
+v l 
+s 
+u 
+e 
+l 
+l 
+i 
+a f 
+d 
+a 
+l e 
+h 
+n 
+c 
+a 
+c 
+e 
+v 
+s 
+l 
+e y 
+t 
+o 
+S 
+c 
+c 
+u 
+d 
+l 
+e 
+o 
+r 
+p 
+
+ 
+IHI Group’s Value Creation Story 
+Value Offered to Society 
+Prosperity, safety and security 
+     
+Realizing a Carbon-Free Society 
+p. 13 
+     
+Resources, Energy & Environment 
+Contribute to carbon-free and recycling societies by providing optimal integrated solutions for each region and customer 
+Social Infrastructure & Offshore Facilities 
+Contribute globally and across lifecycles to materialize safe and secure social infrastructure, centered on bridges and tunnels 
+Industrial Systems & General-Purpose Machinery 
+Contribute to industrial infrastructure progress by thoroughly optimizing operational lifecycles with customers 
+Aero Engine, Space & Defense 
+Leverage advanced technology to open new vistas for air transportation, defense systems, and space utilization, and help materialize social affluence and safety 
+Governance 
+Principled corporate management 
+Creating Prosperity in Daily Life 
+Disaster Prevention and Risk Reduction 
+p. 15 
+              
+p. 17 
+Creating new value needed for social sustainability 
+Group Management Policies 2019 Target for 10 years hence 
+    
+¥2 trillion in net sales 
+Operating margin that consistently exceeds 10% 
+  
+10 
+
+Value Creation Story 
+ 
+
+Increase in CO2 in atmosphere 
+ 
+
+For Prosperity, Safety and Security 
+Under our Group Vision, we seek to “offer the safety and security for the benefit of both the environment and humanity.” We believe that the key social issue we should tackle is climate change, a factor in weather disasters that are becoming more frequent and larger in scale. We are approaching solutions from both mitigation and adaptation perspectives to realize prosperity, safety and security. 
+      
+Rising temperatures 
+Top 10 Countries/Territories in Terms of Absolute losses (Billion US$) 1998–2017 
+Climate change 
+Frequent weather disasters 
+                
+■ High income ■ Upper-middle income ■ Lower-middle income ■ Low income 
+Earthquake 
+Flood 
+Germany 
+57.9 
+Storm 
+France 
+43.3 
+Italy 
+56.6 
+Flood 
+China 
+492.2 
+Storm 
+USA 
+944.8 
+Increase in economic losses from weather disasters 
+The chart to the left shows economic losses from weather disasters as reported in Economic Losses, Poverty and Disasters 1998-2017 issued by the UN Office for Disaster Risk Reduction (UNDRR) (formerly the United Nations International Strategy for Disaster Reduction (UNISDR)) in 1998. 
+In the 20 years from 1998 to 2017, natural disasters claimed the lives of 1.3 million people worldwide and resulted in economic losses of $2,908 billion (approximately ¥330 trillion). About 77%, or $2,245 billion, of those losses can be attributed to climate change-related disasters, an increase of 2.5 times compared with the previous 20 years. 
+Source: Economic Losses, Poverty & Disasters 1998-2017, Centre for Research on the Epidemiology of Disasters (CRED), United Nations Office for Disaster Risk Reduction (UNDRR) 
+      
+Japan 
+376.3 
+Earthquake and tsunami 
+Storm 
+Puerto Rico 
+71.7 
+   
+11 
+Flood 
+Storm 
+
+India 
+79.5 
+Thailand 
+52.4 
+Mexico 
+46.5 
+Flood 
+
+
+IHI Group’s Solutions 
+Mitigation 
+Reduction of CO2 emissions 
+Realizing a Carbon-Free Society p. 13 
+
+CASE STUDY 1 
+CASE STUDY 2 
+One of the largest biomass power plants in the prefecture begins commercial operation in Kagoshima City 
+IHI Terrasun Solutions launches energy management services business in North America 
+
+Creating Prosperity in Daily Life p. 15 
+
+CASE STUDY 1 
+CASE STUDY 2 
+Enabling safe and clean air transport with electrification of aircraft 
+Bio-jet fuel manufactured from microalgae receives international standards certification 
+    
+Adaptation 
+Preparedness for the effects of climate change 
+Disaster Prevention and Risk Reduction p. 17 
+
+CASE STUDY 1 
+CASE STUDY 2 
+Rehabilitation of three bridges in Bangladesh to improve safety and extend service life 
+Simple remote control system Robo QS used in disaster recovery work 
+
+12 
+
+
+Value Creation Story 1 Mitigation of Climate Change (Part 1) 
+      
+Realizing a Carbon-Free Society 
+Social Issue 
+The IHI Group contributes to the realization of a carbon-free recycling-oriented society by reducing CO2 emissions throughout the value chain in the energy and industrial sectors. 
+Solutions 
+The IHI Group works to reduce CO2 emissions throughout the value chain not only by reducing emissions from its own business activities, but also by providing technologies, products and services that help customers reduce emissions. 
+
+The Emissions Gap Report 2018 issued by the UN Environment Programme (UNEP) warned that unless greenhouse gas emissions are reduced by 7.6% annually from 2020 to 2030, achieving the goal of the 2015 Paris Agreement will not be attainable. 
+The movement to switch from conventional to renewable energy resources is accelerating as a powerful measure for decarbonization. It is predicted that photovoltaic power generation will become the number-one energy supply source among all means of power generation by 2040. 
+To ensure the stable use of renewable energy, electricity supply and demand control systems as well as efficient battery storage systems will be needed. 
+ 
+Energy creation 
+• Use of hydrogen, ammonia and biomass fuels • Carbon capture, utilization and storage (CCUS) • Promotion of renewable energy use through 
+Energy consumption 
+• Optimization of logistics • More efficient and energy-efficient 
+manufacturing processes • Electrification of vehicular turbochargers 
+energy management 
+Domestic resources 
+  
+Biomass 
+Renewable energy farms 
+CO2 
+Distributed energy supply Large cities Regional energy supply 
+Carbon-neutral 
+Bio-carbon CO2 recycling 
+Distributed thermal power 
+Energy, fuels and 
+feedstocks Biomass chemical plants 
+Biomass 
+Hydrogen carriers derived from renewable energy 
+Overseas resources 
+   
+
+Global Power Generation Capacity 
+(GW)(GW) 
+5,000 5,000 4,000 4,000 3,000 3,000 2,000 2,000 1,000 1,000 
+SustSauinsatabilneablePhotPohvotlotaviocltpaoicwpeorwer StateSdtaPteodlicPieoslicies genegreantieornat(iPoVn)(PV) 
+  
+ScenSacreionario 
+DevDeleovpemloepnmtent ScenSacreionario 
+WinWdind 
+NatuNraltugrasl gas 
+HydHroydro 
+CoalCoal 
+OtheOrtrhenrerwenaebwleasbles 
+NucNleuacrlear 
+BattBerayttsetroyrasgtoerage 
+       
+13 
+2030 20302040 2040 
+Oil Oil 
+By introducing low-carbon and carbon-free technology throughout the value chain, we aim to achieve a 50% reduction in customer CO2 emissions by 2035. 
+Value Offered to Society 
+ 
+2000 20002010 20102020 20202030 20302040 22004108 2018 Source: World Energy Outlook 2019, International Energy Agency (IEA) 
+
+
+CASE STUDY 1 
+One of the largest biomass power plants in the prefecture begins commercial operation in Kagoshima City 
+Annual reduction in CO2 emissions 
+Approx. 200,000 
+
+In January 2019, Nanatsujima Biomass Power LLC, which was established by IHI and eight investment-partner companies, started commercial operation of the Nanatsujima Biomass Power Plant in Kagoshima City, Kagoshima Prefecture. 
+Its power generation capacity is 49 MW, equivalent to the annual energy consumption of approximately 77,000 ordinary households. Based on the provisions of the Act on Special Measures Concerning Procurement of Electricity from Renewable Energy Sources by Electricity Utilities, all the power the plant generates will be sold to Kyushu Electric Power Co., Inc. for a 20-year period. 
+The plant uses three types of fuel: palm kernel shell, wood pellets and timber from forest thinning. Generating power with carbon-neutral biomass is expected to lead to a reduction in CO2 emissions of about 200,000 tons per year compared to conventional fossil energy resources. Use of timber from forest thinning (from Kagoshima Prefecture) contributes to sustainable forest cultivation. 
+Investment-Partner Companies 
+IHI Corporation, Tokyo Century Corporation, Kyudenko Corporation, Kagoshima Kairiku Unso Co., Ltd., Shimadzu Ltd., Nangoku Corporation, Nippon Gas Co., Ltd., The Kagoshima Bank, Ltd., Kyuden Mirai Energy Company, Incorporated 
+tons 
+  
+CASE STUDY 2 IHI Terrasun Solutions launches energy management services business in North America 
+Nanatsujima Biomass Power Plant 
+320 
+
+The importance of solar power generation and other renewable energy in the fight against climate change is receiving increasing global attention. In order to effectively generate renewable energy, which varies in output depending on the weather and time of day, a sophisticated energy management system and energy storage system will be an integral part of dispatchable energy. 
+IHI Terrasun Solutions, Inc. is expanding an energy management services business for effective use of renewable energy in North America. Based on advanced hardware and software, as well as data analysis technology, IHI Terrasun Solutions provides support for 
+maximizing customer profit not only in the design and construction stages, but throughout the project lifecycle. 
+In the project executed in FY2019 with Convergent Energy + Power Inc., IHI Terrasun Solutions delivered a solution that utilizes the electricity pricing system for the peak-shaving market in Ontario, Canada by discharging battery during peak periods, and substantially reduces electricity costs to end-customers. 
+With this and other projects, IHI Terrasun Solutions now has a total of more than 320 MWh of energy storage installed and contracted, and expects to reach 600 MWh in FY2021. 
+Total installed capacity of projects in North America 
+MWh 
+ 
+Project in Sarnia, Ontario (Battery Energy Storage System) 
+14 
+
+
+Value Creation Story 2 Mitigation of Climate Change (Part 2) 
+   
+Creating Prosperity in Daily Life environmental performance. 
+The IHI Group will contribute to reduction of CO2 emissions and enable 
+safe and clean air transport with a new aircraft system that improves 
+Solutions 
+The IHI Group is taking a multifaceted approach to reduction of CO2 emissions from aviation. This includes lighter aero engine components, electrification of aircraft and aero engines, development of algae biofuel, and support for operational optimization through digital twins. 
+ 
+Electrification 
+• Autonomous air- cooling system 
+• Engine embedded electric machine 
+• Metering-integrated fuel-feeding electrification Schematic diagram of aero engine 
+(image) 
+• Support optimization of aircraft operation with digital twin simulation 
+Operating data 
+Prediction 
+Sensors and diagnosis 
+Value Offered to Society 
+We will contribute to the achievement of a 50% reduction in net aviation CO2 emissions from 2005 levels by 2050, the goal set by the International Air Transport Association (IATA), while facilitating the smooth and economical flow of people and goods. 
+Lighter weight and higher heat resistance 
+
+• Carbon fiber reinforced plastics (CFRP) fan cases and fan blades 
+• Ceramic matrix composite (CMC) turbine blades* 
+* Conducting joint research in JAXA’s En-Core Project (FY2018–2023) 
+Bio-jet fuel 
+• Production of bio-jet fuel using oil extracted from fast-growing microalgae 
+Fan cases 
+  
+Forecast of CO2 Emissions from International Aviation and Conceptual Illustration of Emissions ReductionTargets 
+(Mt-CO2) 
+2,000 1,800 1,600 1,400 1,200 1,000 
+800 600 
+2010 2020 Source: Ministry of Land, Infrastructure, Transport and Tourism 
+(Sept. 20, 2016 press release) 
+Digital twins 
+  
+15 
+If no measures are taken 
+Market-based mechanism 
+Use of biofuels 
+Reduction with use of alternative fuels and market-based mechanism 
+Reduction with new technologies and operational improvements Microalgae 
+  
+
+2020 level 
+2030 2040 
+Social Issue 
+In the aviation industry, while demand for air transport is falling due to the COVID-19 pandemic, the industry continues to regard the implementation of climate change countermeasures as an issue it should prioritize. 
+According to a survey by the Japan Aircraft Development Corporation, the annual amount of CO2 emitted by international air transport is 560 million tons (figure for 2016), which is estimated to be approximately 1.7% of the 32.8 billion tons of CO2 emitted worldwide. 
+In terms of CO2 emissions from international aviation, the general assembly of the International Civil Aviation Organization (ICAO) established a global goal of carbon- neutral growth from 2020 onwards. 
+ 
+s 
+t 
+n 
+e 
+m 
+e 
+v 
+o 
+pr 
+m 
+li 
+s 
+l 
+na 
+e 
+io 
+d 
+o 
+at 
+m 
+er 
+p 
+w 
+e 
+O 
+n 
+of 
+Adoption 
+
+
+  
+CASE STUDY 1 Enabling safe and clean air transport with electrification of aircraft 
+Cooling system for power electronics 
+Electric fuel system 
+Air conditioning and cabin pressurization control system 
+ 
+One global-scale climate change goal is the reduction of CO2 emissions from aircraft. The IATA has set the target of reducing net aviation CO2 emissions by 50% from 2005 levels by 2050. Achieving that will require not only conventional technological improvements, but all-new aircraft systems that radically improve environmental performance while maintaining safety and economic efficiency. 
+IHI launched the MEAAP (More Electric Architecture for Aircraft and Propulsion) project in 2012 with domestic aviation-related companies, and is conducting research and development aimed at practical application in the 2030s. 
+The biggest challenge is development of a large-capacity electric motor-generator that can handle the necessary 
+increase in power consumption. IHI is developing an engine embedded electric machine,1 which achieved a rated output of 250 kW in ground tests in February 2020. In May 2020, we completed the world’s first successful evaluation test of an air cooling system for 100 kW-class power electronics.2 In addition, we will optimize the system by linking it with electrification of the fuel system and the air conditioning and cabin pressurization control system, which are currently under development. 
+IHI will further develop advanced technologies and aims to establish a new position in the aircraft industry, and thereby better contribute to mitigation of climate change through total energy management of aircraft. 
+Engine embedded electric machine 
+ 
+1. A motor-generator with excellent heat resistance that connects directly to the engine to provide the large amount of electric power needed by an electrified aircraft. It is mounted inside the tail cone of the engine. 
+2. A clean, efficient cooling system for cooling power electronics (semiconductor- based electronic power conversion and control systems) that uses cabin air, which is typically emitted as exhaust outside the aircraft, instead of a conventional cooling system that uses cooling water, etc. 
+  
+CASE STUDY 2 Bio-jet fuel manufactured from microalgae receives international standards certification 
+Cultivation 
+Sunlight 
+Photosynthesis 
+CO2 
+Drying 
+Dry algae 
+Extraction 
+Algal oil 
+Reformation 
+Built-in systems for cabin air-conditioning and for engines 
+      
+To reduce CO2 emissions related to air transport, there is a worldwide need for development of renewable alternative aviation fuels. IHI, under the consignment from the New Energy and Industrial Technology Development Organization (NEDO), is undertaking a project to develop technology for stable production of bio-jet fuel from fast-growing microalgae (hyper-growth Botryococcus braunii).3 
+The project, which started in FY2017 has seen the progression of algal culture tests in Kagoshima Prefecture, Japan and Saraburi Province, Thailand targeting future commercialization. We have also been developing an integrated process for reforming oil extracted from the 
+algae to manufacture fuel. We are the first Japanese corporation to apply for and 
+obtain ASTM D7566 Annex 7 standardization approval. Fuel that conforms to this standard can be mixed as is with existing fuels, meaning that engines and fuel supply infrastructure would need no modification. 
+Based on the progress of this technology development, we aim to quickly begin commercial production of bio-jet fuel. In FY2020, we plan to supply our fuel for use in the aircraft of domestic regular airline routes for commercial demonstration flights. 
+3. Strain owned by GGT Corporation 
+Pilot-scale test facility in Thailand 
+
+Bio-jet fuel 
+
+16 
+
+
+Value Creation Story 3 Adaptation to Climate Change 
+   
+Disaster Prevention and Risk Reduction 
+The IHI Group contributes to urban development that enables residents to continue living in safety and security through its solutions for providing infrastructure that is resilient to damage from increasingly frequent weather disasters caused by climate change. 
+Flood 
+3,148 
+
+Storm 
+2,049 
+
+Earthquake Extreme temperature Landslide Drought Wildfire 
+Volcanic Mass 
+
+43.4% 28.2% 
+7.8% 5.6% 5.2% 4.8% 3.5% 
+99 
+563 405 
+378 
+347 
+254 
+movement (dry) 
+12 
+Source: Economic Losses, Poverty & Disasters 1998-2017, Centre for Research on the Epidemiology of Disasters (CRED), United Nations Office for Disaster Risk Reduction (UNDRR) 
+17 
+activity 
+1.4% 0.2% 
+Solutions 
+The IHI Group minimizes damage from climate change through various measures, such as appropriate maintenance and management of infrastructure to preserve its resilience, and use of climate data to control dams and water gates. We also help to restore everyday life following a disaster within a short period of time through our products and services. 
+  
+Protection through resilience 
+• Infrastructure maintenance and management 
+Response to disasters 
+• Meteorological observation systems 
+• Remote control of dams and water gates 
+• Rainwater storage and infiltration tanks 
+• Drainage canals 
+High-pressure radial gate 
+Value Offered to Society 
+Quick restoration 
+• Emergency bridge (TRIAS) • Simple remote control 
+system (Robo QS) 
+  
+Bridge deck replacement work 
+TRIAS 
+We help to reduce the number of people affected and economic losses from weather disasters. 
+Social Issue 
+Climate change is increasing the frequency and intensity of natural disasters. 
+According to a report by the United Nations Office for Disaster Risk Reduction (UNDRR), there were 7,255 natural disasters worldwide within the 20 years from 1998 to 2017, and 91% of them were climate-related. Moreover, among disasters associated with climate change, such as floods, storms, drought and heat waves, damage from floods and storms is particularly heavy, and the number of such disasters increased 2.2 times compared with the previous 20 years. 
+Numbers of Disasters per Type 1998–2017 
+単位:件) 
+ 
+( 
+
+ 
+CASE STUDY 1 Rehabilitation of three bridges in Bangladesh to improve safety and extend service life 
+
+IHI Infrastructure Systems Co., Ltd., an IHI Group company, formed a joint venture with Obayashi Corporation, Shimizu Corporation and JFE Engineering Corporation for the construction and rehabilitation of bridges in Bangladesh. The project was completed in January 2020. 
+National Highway 1, which connects the capital city of Dhaka with the major port city of Chittagong, is an important artery in the economic activity of Bangladesh. In recent years, worsened congestion due to increasing traffic, damage and deterioration of existing bridges had become issues. 
+To solve these issues, a project to rehabilitate the Kanchpur, Meghna and Gumti bridges and construct second bridges 
+parallel to the existing bridges was carried out. Measures to prevent scouring,* enhancement of seismic resistance, and other upgrades were implemented. These improved the safety performance and extended the lives of the existing bridges, while enabling them to accommodate rapidly increasing traffic demand. This project was financed through a Japanese Official Development Assistance (ODA) yen loan. 
+The IHI Group will continue its contribution to ensure the 
+safety and security of societies through construction of 
+social infrastructure. * Erosion of soil around the foundation due to rain, wind and waves 
+Completion of the new Meghna Bridge (existing bridge on left, new bridge on right) 
+Robo QS (simple remote control system) installed in backhoe 
+
+CASE STUDY 2 Simple remote control system Robo QS used in disaster recovery work 
+ 
+At the sites of landslides caused by typhoons and heavy rains, which have recently become increasingly frequent in Japan, fast work is required to prevent the damage from spreading. Due to the risk of secondary disasters, it is necessary to operate construction machinery remotely from a safe location, but the high cost of special construction machinery for use in disasters limits the number of machines that can be deployed. 
+To solve this problem, IHI has developed and launched Robo QS, a remote control system for construction machinery, together with Fujita Corporation and the Kyushu Technology Office of the Kyushu Regional Development Bureau of the Ministry of Land, InfrastructureTransport andTourism. 
+Robo QS is fitted to the driver’s seat of general-purpose backhoes to enable unmanned operation via remote control. Installation is very simple, and manual operation is also possible without removing the device. Currently, Robo QS has been deployed to the Kyushu Regional Development Bureau, and to the Chugoku Technology Office of the Chugoku Regional Development Bureau, and is being used at disaster recovery sites. 
+Awards Received for Robo QS 
+FY2017 JapanConstructionEngineers’AssociationAward 
+FY2019 TheRoboticsSocietyofJapan,TechnicalInnovationsAward 
+18 
+
+ Our Businesses
+     ■ Resources, Energy & Environment
+■ Social Infrastructure & Offshore Facilities
+■ Industrial Systems & General-Purpose Machinery
+■ Aero Engine, Space & Defense
+■ Other and adjustments
+Note: Sum of percentages for all segments may not total 100%, as figures are rounded to the nearest 100 million yen.
+Other 4%
+Aero Engines 31%
+Net Sales by Business
+(FY2019)
+¥18.6 billion 1%
+¥327.7 billion 24%
+Boilers  7% Power Systems  6% Plants  4% Nuclear Power  2%
+Other  5% Bridges/Water Gates  6%
+Urban Development  1% Other  4%
+Vehicular Turbochargers  11% Parking  4% Rotating Machinery  3%
+    ¥480.8 billion 35%
+¥1,386.5 billion
+¥406.4 billion 29%
+  ¥152.8 billion 11%
+       Other 6%
+Transport Machinery
+Thermal and Surface Treatment  3%
+  2%
+  Social Infrastructure & Offshore Facilities
+Bridges
+IHI was the first private company engaged in bridge- building in Japan (Miyako Bridge in Yokohama, 1883). We engineer, fabricate, construct and maintain bridges and expressways in Japan and around the world.      Water Gates
+We build water gates for controlling water flow of dams and rivers, thereby supporting hydropower generation, flood control and water utilization.
+Tunnel Boring Machines
+We provide machines with rotating cutters that excavate tunnels for subways, roads and other engineering works. We are also Japan’s leading supplier of automatic assembly systems for tunnel interior segments.
+Construction achievements
+Over 12,000 bridges
+Construction
+achievements
+Over 4,000 projects
+Domestic share
+44%
+     Resources, Energy & Environment Boilers
+Our boilers efficiently combust various fuels to supply steam for power generation and production processes. Furthermore, we are working to eliminate chemical substances in flue gas and reduce CO2 emissions.
+Domestic share of ultra-supercritical pressure boilers
+35%
+Diverse lineup
+2MW to 50 MW
+Service network
+13 countries
+      Power Systems
+For land use, we supply gas turbines, gas engines and diesel engines. For marine use, we supply small to large engines for large vessels and high-speed boats.
+Global Plant Engineering
+Jurong Engineering provides design, procurement, construction and maintenance for overseas projects in fields including power generation, petroleum, chemicals and steelmaking.
+          19
+  
+ Orders Received by Business
+(FY2019)
+Order Backlog by Business
+(FY2019)
+Net Sales by Region
+(FY2019)
+ ¥19.8 billion 1%
+¥316.9 billion 23%
+¥26.6 billion 2%
+Asia ¥123.8 billion 9%
+China ¥90.6 billion 7%
+North America ¥364.6 billion 26%
+      ¥420.1 billion
+31%
+¥1,373.9 billion
+¥420.1 billion 31%
+¥493.6 billion 34%
+¥1,462.0 billion
+¥521.2 billion 36%
+Japan ¥723.5 billion 52%
+¥1,386.5 billion
+Overseas 48%
+¥196.9 billion 14%
+ ¥190.8 billion 13%
+¥229.6 billion 15%
+Central & South America ¥9.0 billion
+1%
+  Other ¥6.3 billion
+Europe
+¥68.6 billion 5%
+Aero Engine, Space & Defense
+Civil Aero Engines
+Leveraging our proprietary technologies, we participate in global joint development projects of various types of civil aero engines (small to extra-large), as well as develop and supply engine modules and parts for these projects. We also perform maintenance and repair on engines, thereby supporting aero engines throughout their lifecycle.
+Aero Engines for Japan’s Ministry of Defense
+As a general contractor, we oversee the development and production of many aero engines used by Japan’s Ministry of Defense. In particular, we are involved in all engine models for fighter jets in Japan. Moreover, we facilitate the efficient operation of aircraft through engine maintenance and technical support.
+Rocket Systems and Space Exploration
+We develop and manufacture the solid rocket booster and turbo pump that are core components of the engine for the H3, Japan’s mainstay rocket, and oversee the development and manufacture of the Epsilon rocket. In addition, we are engaged in development in the space exploration sector, including satellite data usage.
+Share of global long shaft market
+No. 1
+Domestic share
+No.1
+Epsilon rocket launch success rate
+100%
+                Industrial Systems & General-Purpose Machinery
+   Vehicular Turbochargers
+World share
+20%
+Domestic share of elevator parking systems
+42%
+Domestic cumulative
+deliveries of general-
+purpose turbo compressors
+9,600 units
+  Our turbochargers harness exhaust gas energy to increase airflow and thereby engine output. They improve fuel efficiency and environmental performance by reducing engine displacement in vehicles, etc.
+Parking Systems
+Since installing Japan’s first tower parking in 1962, we have continued to provide various parking systems suited to urban needs, including tower parking, underground parking, and ramp parking systems.
+Compressors
+Compressors are an essential utility for factories. They pressurize air or other gases for storage in tanks and supply to equipment. Our lineup addresses a variety of needs, including those relating to energy conservation, maintenance reduction, and ecology.
+             Courtesy of JAXA
+  20
+  
+ Resources, Energy & Environment
+  Business Overview
+ Summary
+We create eco-friendly products and services that supply energy essential to industrial development and an enriched life. We are moving forward with initiatives for a sustainable, CO2-free society.
+Improving infrastructure is essential for people and societies across the world. Going forward, we will continue to support safe and secure infrastructure using the technical skill and strong sensibility developed through our many years of achievements.
+We provide various solutions, including logistics systems, compressors, and vacuum thermal treatment equipment. We take a multi-dimensional approach to support the future of manufacturing, spanning products, technology, and systems.
+Whether developing and manufacturing next-generation engines or rockets, we are paving the way for the future of aerospace, using our organizational and technical skills to pursue the latest in global innovations.
+External Environment
+The movement to respond to climate change and the world’s shift towards a carbon-free society are accelerating. Accordingly, the issues facing society and our customers are becoming more diverse.
+Energy management for the diffusion of renewable energy and distributed power sources, as well as for stable energy supply, is also strongly required.
+In Japan, the increasing severity of disasters in recent years and aging infrastructure are fueling the needs to upgrade resilience and extend longevity.
+Overseas, our concession businesses, which encompass
+every stage from design and construction to operation and maintenance, are expanding, and we are carrying out road and railway construction projects, including bridges and tunnels.
+There is a concern that conditions, including the global market slowdown in the automotive industry, which started with China, the associated slump in related components industries, and the prolonged stagnation of economic activity brought on by the spread of COVID-19 pandemic, will have a significant impact on this business area, especially on our automotive-related businesses.
+The sharp decline in air travel demand due to the COVID-19 pandemic has affected sales of aero engines and spare parts.
+Many aircraft with IHI engines are newer models, which will be given priority when carriers restart operations, and therefore a relatively early recovery of profits can be expected in areas such as maintenance and the sale of spare parts.
+Opportunities and Risks
+       Social Infrastructure & Offshore Facilities
+Industrial Systems & General-Purpose Machinery
+Aero Engine, Space & Defense
+Opportunities
+Risks
+Opportunities
+Risks
+Opportunities
+Risks
+Opportunities
+Risks
+• Increasing energy demand in emerging countries
+• Increasing demand for clean energy due to tightening of regulations
+• Increasing demand for distributed energy
+• Increasing demand for power-source adjustment due to adoption of renewable energy • Increase in companies expanding into Asia
+• Shrinking market for fossil fuel power generation equipment
+• Differences in regional characteristics and entering new countries
+• Increasing demand for extension of service life and greater resilience as measures for aging infrastructure and disaster resistance
+• Increasing project sizes aimed at achieving greater infrastructure investment efficiency
+• Increasing demand for new construction in Asia due to growing needs for electricity, flood control and water
+utilization, in tandem with population growth
+• Increased outsourcing of operation and maintenance work to private sector due to labor shortages
+• Increasing demand for excavation to construct subways in urbanizing ASEAN, the Middle East, and Turkey, etc. • Increasing demand for tunnels for flood prevention and rainwater collection
+• Greater competition due to reduced domestic demand for new infrastructure
+• Worsening profitability of large projects overseas due to legal and regulatory reform, political instability and
+economic downturns
+• Reduced profitability of large projects due to intense competition • Expansion into global markets by Chinese manufacturers
+• Increasing demand for vehicular turbochargers to downsize engines and lower environmental impact • Increasing demand due to ongoing urbanization in Southeast Asia and China
+• Desire for machines with high energy efficiency due to heightened environmental awareness
+• Increasing needs for efficient logistics facilities due to the expansion of e-commerce
+• Increasing interest in traceability that takes into account hygiene
+• Shrinking market for turbocharged vehicles due to vehicle electrification
+• Commoditization of vehicular turbocharger market
+• Decreasing number of cars owned in Japan
+• Intensification of competition with foreign manufacturers, particularly those from emerging nations • Decreasing needs for new construction due to weak market appetite for capital expenditure
+• Expansion of maintenance business through a network of engine manufacturers • Launch of full-scale development of future fighter planes and engines
+• Transfer of logistical support services to the private sector
+• Overseas transfer of defense equipment
+• Increase in rocket demand due to higher demand for small satellite launches • Expansion in satellite data usage market
+• Downward pressure on expenditure for domestically made defense equipment due to increased transnational procurement between governments
+• Intensified competition in the rocket launch sector • Intensified competition of satellite data business
+         21
+
+ Net Sales
+(Billions of yen)
+Operating Profit
+Orders Received and Order Backlog
+Capital Expenditure and Depreciation
+Net sales decreased due to a delay in project progress in the Boilers Business and absent contributions from the progress of large-scale projects in the Plants Business in FY2018.
+(Billions of yen)
+Operating profit increased due to an improvement in the decline in profitability of the previous fiscal year in the Plants Business, offsetting the effects of a decrease in sales in the Boilers Business and a decline in profitability in the Power Systems Business.
+(Billions of yen)
+900
+600
+378.0
+300
+Orders received
+Orders received increased as a result of booking a large-scale overseas project in the Boilers Business, despite a decrease in orders in the Plants Business.
+(Billions of yen)
+6 5.0 4.6
+       600
+400 200
+490.4
+2017
+10
+0
+-10
+4.7
+2019
+13.4
+5.2
+5.8
+5.2
+      377.0
+2018
+143.1
+3.3
+2018
+14.2
+648.5
+4.0
+ 327.7
+2019
+152.8
+523.1
+2018
+521.2 316.9
+2019
+4 2
+(Billions of yen)
+       -14.8
+285.5
+      (Billions of yen)
+Net sales increased in the Bridges/Water Gates Business, offsetting a decrease in the Shield Systems Business.
+(Billions of yen)
+Operating profit decreased
+due to the decrease in
+sales in the Shield Systems 240 Business, offsetting an
+increase in sales in the 180 Transport Systems Business. 120
+Order backlog
+191.6 196.9
+Orders received increased as a result of booking large-scale overseas projects in the Bridges/ Water Gates Business.
+(FY)
+2017
+(FY)
+2017
+(FY)
+2017
+Capital expenditure
+2018 2019 (FY) Depreciation
+       200
+150 100
+(Billions of yen)
+459.0
+2017
+(Billions of yen)
+600
+463.7 450
+300 150
+20
+15
+(Billions of yen)
+163.9
+206.1
+229.6
+11.7
+9 6.8
+6
+  154.5
+13.9
+12
+7.7
+          124.4
+50 5 60 3
+6.0 5.9 3.8
+     10
+    2017
+2018 2019 (FY)
+441.0
+2018 2019 (FY)
+492.2 480.8
+2018 2019 (FY)
+2017
+2018 2019 (FY) 2017 2018
+Orders received Order backlog
+Operating profit decreased (Billions of yen)
+23.1 due to a decrease in 474.0 458.9
+2019
+2019 (FY) Depreciation
+(FY)
+2017 2018
+           480
+360 240 120
+406.4
+Net sales decreased due (Billions of yen) to the downturn in the
+Vehicular Turbochargers 25
+Business and the Thermal 20 18.9 and Surface Treatment 15
+Business, in addition to the
+effect of the transfer of the 10 Small Power Systems 5 Business in FY2018.
+2017
+Net sales decreased in (Billions of yen) aero engines for Japan’s 60.1 Ministry of Defense. 60
+sales in the Vehicular 480 420.1
+Orders received declined due to a decrease in orders in the Vehicular Turbochargers Business and the Thermal and Surface Treatment Business, despite the booking of large-scale projects in the Transport Machinery Business.
+Orders received decreased in aero engines for Japan’s Ministry of Defense, the Civil Aero Engines Business and the Rocket Systems and Space Exploration Business.
+Capital expenditure
+(Billions of yen)
+16 12.8 12 9.9
+13.4
+10.8 12.1 12.4
+2018 2019 (FY) Depreciation
+        Turbochargers Business 360 11.4 and the Thermal and
+Surface Treatment Business. 240 161.0 180.3 190.8 120
+2018 2019 (FY) 2017 2018 2019 Orders received Order backlog
+8 4
+(Billions of yen)
+50
+40 30 20 10
+          (FY)
+2017
+Capital expenditure
+   Operating profit in the Civil (Billions of yen)
+Aero Engines Business 562.6 declined due to the effect 600 533.0 494.3
+493.6
+2019
+42.7
+22.0
+17.5
+         46.4 40.3 of making the inspection 463.8 420.1
+31.7
+35.0
+            40 20
+450 maintenance business and 300
+to increased program
+costs among other factors, 150 despite positive outcomes
+2018 2019 (FY) in cost-saving initiatives 2017 2018
+for the new engine. Orders received Order backlog
+process stricter in the
+  16.0
+    2017
+2017
+(FY)
+2017
+Capital expenditure
+2018 2019 (FY) Depreciation
+   22
+
+   Group Management Policies
+ Outline and Progress of Group Management Policies 2019
+ The IHI Group formulated its Group Management Policies 2019, a three-year plan that was launched in FY2019.
+In Group Management Policies 2019, the IHI Group defined its approach to contributing to social sustainability from a long-term perspective in light of a changing social environment.
+To realize that objective, we have positioned the three years of the plan as a time for tackling the issues facing society and customers head-on, reorganizing our businesses, and transforming ourselves into an enterprise that creates new value.
+Review and Assessment of the First Year of Group Management Policies 2019
+  Long-Term Approach
+Tackle social and customer issues with customers and create new value
+Group Management Policies 2019
+Key initiatives
+Made progress in solution proposals, developing operation and maintenance businesses, and upgrading post-construction maintenance proposals and aftermarket business
+Began full-scale expansion of lifecycle businesses in Asia-Pacific region
+Made progress in business restructuring to achieve optimal allocation of resources, such as through business integrations and centralization of functions
+Leveraged IoT for business process reform and
+made progress with smart factory initiatives
+Made progress in collaborating with domestic and overseas customers and partners to create new business models
+Made some progress in developing technologies and businesses in each business area
+Remaining issues
+Generating higher added value in lifecycle businesses by reinforcing internal and external collaboration
+Accelerating and expanding lifecycle businesses overseas
+Improving cash flows
+Accelerating shift of resources to profit-making businesses
+Accelerating product and business commercialization
+Stepping up exploration of prospective businesses from a value chain perspective
+        Three initiatives
+Strengthen business foundations
+Build a robust operational structure
+Accelerate preparations for tomorrow
+Accelerate aftermarket business development with customers from lifecycle perspectives
+Create a lean and flexible operational structure
+Transform our business model to create value
+Focusing on overall lifecycles, we will align closely with customers’ operations, accelerate development of aftermarket business, and help customers find solutions for their most pressing issues.
+We will optimally allocate resources, such as employees and funds, to growth areas and other strategic areas, and
+build a corporate structure that is resilient to change.
+To help realize social sustainability, we will accelerate our transformation to a business model that generates new forward-looking value.
+Strengthen business foundations
+Build a robust operational structure
+Accelerate preparations for tomorrow
+             Cultivate human resources as change drivers
+   Safety and quality
+Risk management
+   23
+Reform businesses in earnest to tackle social and customer issues
+
+    Key Challenges
+1 Determine post-pandemic business direction
+• Identify and predict changes in society and values, as well as industry and market trends, and determine the direction for each business
+• Quickly revitalize and reorganize businesses requiring countermeasures
+2 Create growth businesses
+• Create key future businesses and pursue sustainable growth
+• Concentrate resources on promising areas
+ Long-term approach
+ • Direction indicated in Group Management Policies 2019
+• Three reform initiatives
+   Changes in the Business Climate
+• COVID-19’s impact has fundamentally reshaped the
+IHI Group’s business environment.
+• The pandemic is transforming the social and economic landscape, making change- responsive management vital.
+Establish business structure that can overcome changes in the business climate
+• Shift resources to respond flexibly to business climate changes • Streamline operations through business process reforms
+4 Improve cash flows and strengthen financial position
+• Strengthen cash flow generation and manage assets to secure funds for investment and build a solid financial position
+  Pandemic response
+ • Establish a leaner corporate structure to withstand changes in the business climate
+3
+  Sustainable business portfolio
+ • Consider the business portfolio for the post-pandemic social and economic situation
+  FY2020 Initiatives
+Under Group Management Policies 2019, the medium-term management plan now in its second year, we are aiming to create new value and to contribute to social sustainability by working with our customers to tackle social and customer issues from the perspective of product lifecycles.
+In addition, the COVID-19 pandemic has led to changes in values and altered social and consumer behavior. Consequently, restructuring of corporate business operations and
+the progress of digitalization are expected to accelerate. Under the approach set forth in Group Management Policies 2019, we will reassess how to respond to the new normal as a sustainable company, ascertain our business direction and promote structural reforms and portfolio management.
+The COVID-19 pandemic is having a significant impact on the performance of the Civil Aero Engines Business, as sales of engines and spare parts have fallen due to the sharp decline in passenger demand and deteriorating business conditions for airlines. In the automotive industry, despite expectations of an early recovery in the Chinese market, sales in the Vehicular Turbochargers Business are also projected to decrease due to the decline in global automotive demand and suspension of production operations of auto manufacturers.
+Taking these conditions into account, we have reexamined the current medium-term
+management plan,* and will work on formulating the next plan.
+* A revision to the management policies was announced on November 10, 2020:
+Presentation on Financial Report of 2Q, 2020 “Project Change”
+ 24
+Check the progress of current medium-term management plan (announcement planned in second half of FY2020)
+Next medium-term management plan
+
+ Financial Strategy
+   Takeshi Yamada
+Executive Vice President Senior Executive Officer
+Anticipating changes in the business environment, we will reconfigure our business portfolio and work to enhance the Group’s overall investment efficiency.
+We invested in growth business areas, particularly the Aero Engine, Space
+& Defense Business Area.
+In Group Management Policies 2019, our medium-term management plan, our aim was to strengthen cash generation, and to use that cash to transform our business model in order to solve social issues, thereby enhancing the IHI Group’s corporate value. However, we were unable to avoid a short-term decline in production efficiency in the Aero Engine, Space & Defense Business Area, which requires a large amount of working capital, as we took corrective steps following the inadequate inspection case in the Civil Aero Engine Maintenance Business that occurred in 2019. Consequently, cash generation was unsatisfactory.
+As a result of our efforts to correct this issue and prioritize safety and quality in everything we do, productivity generally recovered to its previous level. However, moving into FY2020, the Civil Aero Engines Business is being significantly impacted by movement restrictions related to the COVID-19 pandemic. Our efforts to improve cash flows will continue, but in the short term, our main focus will be on securing liquidity using diverse financing sources.
+In the current medium-term management plan, we planned to generate sufficient cash by balancing profitability and efficiency, and to use that cash to make growth investments of ¥420 billion over the three years. That comes to an average of ¥140 billion per year. Our investments in FY2019 did not reach the scale we expected because we are executing investments only after screening and other assessment of the anticipated investment effect. About
+70% of investments were allocated to businesses positioned as growth businesses, particularly the Aero Engine, Space & Defense Business Area.
+We will transform our corporate structure while minimizing the impact of COVID-19.
+The COVID-19 pandemic has led to a steep decline in sales, mainly in the Civil Aero Engines Business, and significant deterioration will be unavoidable not only in profits, but also in cash flows. In response, we have implemented countermeasures in the short term, including the securing of financing to ensure liquidity on hand, partial freezing and/or reduction of investments, and reduction of total cost/fixed cost. The short-term partial freezing and/or reduction in investments mean that narrowing down the businesses to which we should allocate resources will be even more important.
+Consequently, to achieve Group Management Policies 2019, we also need to swiftly advance the review of our business portfolio and corporate structure based on the assumption of a “with-COVID-19” scenario. First, after building a business continuity framework that ensures the safety of employees by thoroughly reviewing work systems and business processes, we will work toward the early recovery of the Civil Aero Engines Business and accelerate the transformation of our business model with a focus on ESG. In addition, we will flexibly allocate cash generated through reduction of working capital, as well as human resources to businesses where we have a strong competitive edge. In this allocation of resources, we will emphasize
+  25
+
+ the growth potential and profitability of businesses and investment efficiency, balanced with contribution to solutions for the issues facing customers and society. We plan to revise the targets of Group Management Policies 2019 to reflect the results of our consideration of these factors.
+Based on our cross-shareholding policy, we sold all our holdings of seven stocks and part of our holdings of two stocks.
+As a general rule, we look to reduce cross-shareholdings after having engaged in suitable dialogue with the issuing company. However, we may hold shares in strategic partners for business alliances, joint research and development, or other forms of collaboration, for the purposes of pursuing medium- to long-term growth and increased corporate value. Based on this policy, the Board of Directors reviews all cross shareholdings every year to verify the economic rationality of continuing to hold them. In FY2019, of the 57 cross-held stocks (including 26 stocks contributed to
+the retirement benefit trust), we sold all of our holdings in seven stocks and part of our holdings in two stocks.
+We strive to pay stable dividends with a target consolidated dividend payout ratio of 30%.
+Our shareholder return policy of distributing stable dividends with a target consolidated dividend payout ratio of 30% remains unchanged. For FY2020, however, it is difficult to rationally calculate the impact of the COVID-19 pandemic on our consolidated results at present, and whether we will have adequate funds for dividends at the end of the fiscal year is not certain. Therefore, we have regrettably decided to forgo the interim dividend for this period. We have yet to make a decision on the year-end dividend, as we need to give further consideration to the forecasts of results.
+We aim to solve social issues through the initiatives of Group Management Policies 2019.
+Due to the COVID-19 pandemic, the IHI Group is being buffeted by changes in the business environment unlike anything previously experienced. However, we will continue to operate while protecting the health of employees,
+and by implementing the initiatives described in Group
+R&D Expenses, Capital Expenditure and Depreciation
+Management Policies 2019* we will help to solve social
+issues and enhance corporate value while meeting the
+expectations of stakeholders.
+* A revision to the management policies was announced on November 10, 2020:
+Presentation on Financial Report of 2Q, 2020 “Project Change”
+Performance (Consolidated)
+  
+FY2017
+FY2018
+FY2019
+Operating profit
+ ¥72.2 billion ¥82.4 billion
+ ¥60.7 billion
+ Operating margin
+4.5% 5.6%
+4.4%
+ ROIC1
+  7.7% 8.7%
+  5.7%
+ Debt-to- 2 equity ratio
+0.92 0.93
+1.38
+ ROE3
+  2.6% 11.8%
+  3.8%
+ Equity to total assets
+19.9% 21.0%
+18.7%
+ CCC4
+  83 days 97 days
+   120 days
+  Dividends
+ Interim: ¥3 per share Year-end: ¥30 per share (after a consolidation
+of common stock)
+  ¥70 per share
+(¥30 interim and ¥40 at year-end)
+  ¥50 per share
+(¥30 interim and ¥20 at year-end)
+      Operating Margin, ROIC and ROE
+Cash Flows
+(%)
+12
+9
+6
+3
+(Billions of yen)
+90
+60
+30
+59.2
+44.8
+74.3
+48.0
+80.6
+53.8
+(Billions of yen)
+120
+80
+40
+0
+-40
+-80
+115.2
+14.5
+-61.3
+-75.8
+2019 (FY)
+1. (Operating profit + Interest and dividend income) after tax ÷ (Owners’ equity + Interest-bearing liabilities)
+2. Interest-bearing liabilities ÷ Net assets
+3. Profit attributable to owners of parent ÷ (Average of owners’ equity at end of
+previous fiscal year and end of current fiscal year) 4. (Working capital ÷ Net sales) × 365 days
+        5.7
+4.4
+3.8
+2019 (FY)
+38.6
+36.5
+38.1
+        ● Operating margin
+● Cash flows from operating activities
+● Free cash flow ● Cash flows from financing activities
+2014
+2015
+● ROIC
+2016
+● ROE
+2017
+2018
+2017
+2018
+2019 (FY)
+2017
+2018
+R&D expenses
+Capital expenditure
+Depreciation
+● Cash flows from investing activities
+Note: The calculation method for capital expenditure and depreciation changed from FY2019. Figures for FY2018 show restated amounts according to the FY2019 calculation method.
+26
+
+ Cultivating Human Resources as Change Drivers
+   Basic Approach to Human Resources Management
+Based on the tenets of its Management Philosophy, “Contribute to the development of society through technology” and “Human resources are our single most valuable asset,” the IHI Group works to develop and secure professionals as its most important management resource.
+IHI has made diversity part of its human resources strategy, and strives to provide workplace environments where diverse individuals are empowered to reach their full potential.
+The Attributes We Seek in Change Drivers
+In Group Management Policies 2019, we seek to contribute to social sustainability from a long-term perspective by enhancing both customer value and the IHI Group’s corporate value. To achieve these goals, we will develop talent capable of driving our business transformation by responding flexibly and swiftly to changes in the business environment.
+Based on our Management Philosophy and the IHI Group Vision, we formulated the Group Human Resource Management Policy as our basic policy for talent development. The policy defines our “ideal human resources” and identifies five qualities—“integrity and trust,” “for customers and society,” “innovation and creation,” “teamwork,” and “world- class professional”—as the values that all IHI Group employees should embody. We reflect these values in employee recruitment, development and evaluation.
+World-class Professional
+People who not only have world- class capabilities in their fields of responsibility, but can practically apply their abilities to produce results and continuously strive for further growth.
+Teamwork
+People who can collaborate with diverse stakeholders and at the same time make maximal use of their abilities to fulfill the shared Management Philosophy, Group Vision, and objectives, both as a team and as members of the
+IHI Group.
+For Customers and Society
+People who through their work are able to bring prosperity, safety, and security to our clients, society, the Earth, and humankind, and at the same time endeavor to contribute to continuing this development.
+Innovation and Creation
+People who can think on their own to identify, take on and overcome issues for the purpose of creating new value through the use of
+new technical skills, technologies and ideas.
+Integrity and Trust
+People who earn trust by fulfilling job responsibilities, and by conducting themselves according to higher standards in addition to norms and rules, alongside three principles: genba, genbutsu, genjitsu.*
+* The real place, the real thing and the real situation. This includes seeing, hearing and feeling for oneself, being proactive, and visiting customers and work sites.
+  Ideal Human Resources
+   27
+   
+  Treat people with a commitment to integrity and trust
+I think it is important to think of work as much more than just an assigned task, and to go about it with a sincere desire to help others as a fellow human being.
+That feeling will always come through to the other person. Build a good relationship, then good work will follow.
+Personnel
+Personnel Group, Human Resources Division, IHI
+Joined IHI in FY2014
+Patcharaporn Leknoi
+Manufacturing
+Panel Manufacturing Group, Manufacturing Department, Aioi Works, Boilers Business Unit, Resources, Energy & Environment Business Area, IHI
+Joined IHI in FY2018
+Tomomi Nagase
+Design
+Airfoil Parts Design Engineering Group,
+Civil Engine Engineering Department, Civil Aero Engine Division, Aero Engine, Space & Defense Business Area, IHI
+Joined IHI in FY2004
+Takaya Kato
+Personnel
+Manager, Administration Division, Business Support, IHI
+Joined IHI in FY2005
+Kazuyoshi Yogo
+Finance
+Cost Accounting & Control Group, Finance & Accounting Division, IHI
+Joined IHI in FY2015
+Daehoon Jeong
+       Our “ideal human resources” represent the work values IHI Group employees share and uphold in their work.
+VOICE
+We aim to grow as professionals by keeping these five qualities in mind as we work.
+Think first about what you can do for customers and society
+My job is to weld the pipes that make up boilers. Normally, I have very few opportunities to hear from customers directly, but knowing that the
+finished product is being put to good use gives me pride that my welding is of service to society. Working with pride changes how you look at each
+job and provides the inspiration to do even better.
+Pursue the creation of new value by tirelessly striving for innovation and creation
+When attempting to create something new, it is important to also talk outside the division with people in other business areas or external parties. Establishing connections across the Company is a way to encounter ideas and ways of thinking that may not have otherwise
+occurred to you, and new combinations will be created.
+Act while coordinating with others and thinking about teamwork
+The IHI Group has about 29,000 employees. In that context, we should think about what we want to accomplish, and how we want to contribute
+to realizing the vision of the Company and the division. When the position of each person is clearly defined, our relationships as part of one Company-
+wide team will grow stronger.
+Aim high as a world-class professional
+            I joined IHI after studying business administration, with a major in English and Japanese, at a university in South Korea. Of course, I encountered various
+differences at the Company, such as in its practices and philosophy. Whenever I felt a difference, I would dig deeper on my own with a spirit of inquiry to discover its root
+causes. I think that kind of proactive attitude leads to world-class professionalism.
+28
+  
+ Diversity and Inclusion
+To achieve our goal of “cultivating human resources as change drivers,” it is important to organically link activities such as recruitment, training and assignment, evaluation, remuneration and promotion, and ensure that they are functioning effectively.
+Moreover, the growth of employees is a collaborative endeavor between the employee and the Company, with the employee making efforts to grow through his or her daily work, and the Company providing opportunities to connect those efforts to growth.
+The IHI Group clearly defines human resource development responsibilities for employees and responsibilities for the Company, as well as the roles of supervisors, departments and HR divisions in providing development opportunities. Furthermore, development is supported through the formulation of educational frameworks and training curricula, as well as a unique development path for each person in the workplace.
+ Overview of Talent Development
+IHI Group Education and Training Programs
+(As of March 16, 2020)
+ Management Training
+Professional Training
+Training by Level and Position
+Global Human Resource Training
+Diversity
+Open Lecture
+                 Senior Management
+Senior Executive Program
+ Training for Newly Appointed Officers at Affiliated Companies
+           Executive Manager Program
+    Training and assignment
+Promotion
+Evaluation
+Remuneration
+Organization
+Operations and systems
+Recruitment
+General Managers
+Executive Manager Program at Affiliated Companies
+              Business Leader Program (Advanced)
+Middle Management Training
+          Section Managers
+Manager Training
+         Assistant Managers
+   Senior Employees
+Business Leader Program (Basic)
+Leader Training
+Foreman Training
+         Middle Level Employee Training
+Assistant Foreman Training
+        Junior Employees
+Third-year Employee Training
+Second-year Employee Training
+Technical Leader Training
+        Orientation Training
+for New Employees Basic Technical Skills Training
+ Corporate culture
+ Selective Training
+ Education by Level and Position
+ Elective Training
+29
+Junior Employees
+Senior Workplace Employees Leaders
+Managers
+External Training (Executive and Liberal Arts Training, Cross Industry Exchanges, and Study Abroad Programs)
+Education by Job Category and Department Instructor Training
+Global Human Resource Training Global Leader Training (Overseas Appointment, etc.) (On-site University Program)
+Business English Lessons
+Overseas Appointment Training and Language Lessons
+Professional Engineering Training Professional Quality Training Production Management Training Project Training for Product Development Data Analyst Training Design Strategist Training
+Work-life Balance Training (Child/Nursing Care)
+External Training (Senior and Section Management Training for Women and Cross Industry Exchanges)
+Open Lectures (Management Skills) Open Lectures (Business/Technical Skills, etc.)
+Open Lectures (English/Global Communication and Cultural Competency)
+
+   CASE STUDY 1 Introduction of Career Development Program (CDP)
+In 2019, IHI introduced a Group-wide Career Development Program (CDP) that tailors to the needs of each employee. This program encourages independent career development, accelerated growth, and lifelong learning.
+For the program to work effectively, it is important to bring out employee motivation and workplace vitality through interviews and coaching by supervisors. Therefore, IHI provides training to supervisors to continually enhance their coaching skills.
+CASE STUDY 2 Selection and Development of Management Talent to Lead Change
+To carry out our business transformation, management talent to lead change will be essential. The IHI Group is taking a number of steps to that end, including succession planning for systematic development of successors, job grading to measure responsibility with a common yardstick across the Group, and identifying successor candidates among younger employees.
+Effective from FY2020, we have revised the employee compensation system. This system will ensure that the right people are in the right positions throughout the Group, and that we are able to actively select, develop and promote capable and motivated employees.
+   Empowering all employees to fulfill their potential
+    Through the formulation of individual career plans, employees take an active role in thinking about their own career development.
+Provide options for lifelong learning with learning opportunities tailored to growth objectives.
+Interviews and coaching by supervisors accelerate growth and boost motivation and enthusiasm.
+Bring out the abilities and growth of each employee by giving them opportunities to acquire a range of experiences and different viewpoints.
+Initiatives to Develop Management Talent to Lead Change
+Introduction of CDP
+Encourage independent career development, accelerated growth, and lifelong learning through interviews and coaching by supervisors
+Identify successor candidates from younger employees to develop a talent pool
+Measure responsibility of each position with a common yardstick across the Group, and utilize it in talent development and compensation
+Systematically develop successors for key posts within the Group
+          CDP
+Early identification of high-potential employees
+Job grading regulations
+Succession planning
+            Systems
+ 30
+t
+n
+e
+r
+m
+p
+o
+t
+l
+o
+t
+e
+p
+p
+I
+n
+v
+o
+p
+t
+e
+e
+r
+u
+v
+d
+s
+i
+r
+u
+w
+r
+r
+e
+e
+s
+e
+e
+a
+r
+r
+n
+a
+a
+d
+c
+C
+i
+c
+o
+a
+c
+h
+i
+n
+g
+s
+e
+T
+t
+i
+r
+n
+a
+i
+t
+n
+i
+n
+p
+g
+e
+o
+h
+w
+o
+r
+G
+
+ Corporate Officers
+ Directors
+ Name
+Position at the Company
+Reasons for nomination
+Attendance at Board of Directors meetings in FY2019
+Period in office
+     Tsugio MITSUOKA Chairman of the Board
+   Hiroshi IDE President
+Nomination Chairperson
+   Takeshi YAMADA Executive Vice President
+Remuneration
+   Tomoharu SHIKINA Executive Vice President
+   Masafumi NAGANO Director
+Remuneration
+   Kouichi MURAKAMI Director
+ Name
+Position at the Company
+Reasons for nomination
+Attendance at Board of Directors meetings in FY2019
+Period in office
+     Takeshi KAWAKAMI Director
+   Yasuhiro SHIGEGAKI Director
+   Taketsugu
+FUJIWARA
+Outside Director Remuneration Chairperson
+Nomination Independent
+   Kazuhiko
+ISHIMURA
+Outside Director
+Remuneration Nomination Independent
+   Yoshiyuki
+NAKANISHI
+Outside Director
+Remuneration Nomination Independent
+   Chieko
+MATSUDA
+Outside Director
+Nomination Independent
+  Tsugio Mitsuoka has led IHI Group management since April 2016. He has actively carried out the selection and concentration of business operations and the transformation of the business model in response to the changing business environment. He has also built stronger earnings foundations for the Group by bolstering risk management and ensuring compliance. Since April 2020, he has been working to further strengthen corporate governance as Chairman of the Board. We believe his abundant experience and insight as a corporate manager will be utilized in the management of the IHI Group.
+Hiroshi Ide has accumulated a great deal of knowledge mainly in the overseas marketing division for the Energy Plant Business. As Managing Director of an overseas subsidiary and subsequently as the manager responsible for a business area, he has formulated business strategies and carried out business operations with a long-term perspective for the realization of a carbon-free recycling-oriented society. Since April 2020, he has led the IHI Group management as Chief Operating Officer. We believe his abundant international experience, accomplishments, and insight will be utilized in the management of the IHI Group.
+Takeshi Yamada has accumulated a great deal of knowledge mainly in the finance and accounting field as well as corporate planning, and led the Group’s finance and accounting. Since April 2019, he has worked on Group financial strategies and improvement in the financial condition as Executive Vice President. We believe his high level of insight into overall Group business management will be utilized in the management of the IHI Group.
+Tomoharu Shikina has accumulated a great deal of knowledge in the aero engine technology development field. He has been responsible for managing the global Aero Engine, Space & Defense Business and strived to grow the business. We believe his abundant accomplishments, experience, and insight will be utilized in the management of the IHI Group.
+Masafumi Nagano has accumulated a great deal of knowledge mainly in human resources. He has worked on business model transformation centering on the lifecycle business in the Industrial Systems & General-Purpose Machinery Business. Since April 2020, he has been involved in planning management strategies, drawing on his experience in both corporate and business divisions. We believe his extensive experience, accomplishments, and insight will contribute to the growth of the IHI Group.
+Kouichi Murakami gained experience in the research and development of materials as well as overall technological management in technology and intelligence integration. After being the manager responsible for a business division, he has led the technology and intelligence integration as well as engaged in creating new businesses, drawing on his high level of insight across all technologies. We believe his extensive experience, accomplishments, and insight will be essential for the growth of the IHI Group.
+18
+6
+years
+Since June 2020
+3
+years
+4
+years
+2
+years
+2
+years
+Takeshi Kawakami has accumulated a great deal of knowledge mainly in the bridge design and construction divisions. He served as the manager responsible for many domestic and overseas projects, and subsequently as the president of a company formed through IHI acquisitions of major operations in Japan, which engages in the Bridges/Water Gates Business. He has strived to grow the social infrastructure-related business within the Group. We believe his abundant accomplishments, experience, and insight will contribute to growth in the Social Infrastructure & Offshore Facilities Business Area and across the IHI Group as a whole.
+Yasuhiro Shigegaki has accumulated a great deal of knowledge mainly in technology and intelligence integration. In addition to having served as the chairman of the board of an overseas entity that IHI acquired in the Thermal and Surface Treatment Business, he has actively pursued global expansion by leading domestic and overseas Group companies engaged in related businesses to achieve growth. We believe his extensive experience, accomplishments, and insight will contribute to the growth of the IHI Group, including the Industrial Systems & General-Purpose Machinery Business.
+Taketsugu Fujiwara gained extensive experience and broad insight at the helm of a general chemicals manufacturer, where he implemented diversified management. We aim to have these qualities reflected in IHI management, and acknowledge his proven ability in management oversight and monitoring functions from an independent perspective.
+Kazuhiko Ishimura gained extensive experience and broad insight at the helm of a comprehensive materials manufacturer. We aim to have these qualities reflected in IHI management, and acknowledge his proven ability to perform management oversight and monitoring functions from an independent perspective.
+Yoshiyuki Nakanishi has gained extensive experience and broad insight as the corporate manager of a global chemical manufacturer by implementing various measures to respond to changes in the business environment. We aim to have these qualities reflected in IHI management, and expect him to carry out management oversight and monitoring functions from an independent perspective.
+Chieko Matsuda has gained abundant knowledge in business strategy and finance strategy through her research and studies, and broad insight through her experience as an outside officer of several companies. We aim to have these qualities reflected in IHI management, and expect her to carry out management oversight and monitoring functions from an independent perspective.
+— Since June 2020
+— Since June 2020
+out of 18 (100%)
+   —
+18
+17 5
+(94%) years
+   18
+18 3
+(100%) years
+— Since June 2020
+— Since June 2020
+out of 18 (100%)
+out of 18
+  out of 18 (100%)
+out of 18
+  18
+out of 18 (100%)
+  18
+out of 18 (100%)
+   Remuneration Independent
+Remuneration Advisory Committee Member Nomination Nomination Advisory Committee Member
+Officer satisfying Article 436-2 of the Securities Listing Regulations of the Tokyo Stock Exchange and IHI’s Independence Criteria for Outside Officers
+31
+
+ Audit & Supervisory Board Members
+Taizo Suga has accumulated a great deal of knowledge mainly in the finance and accounting field since joining IHI. He was appointed as the President and Chief Executive Officer of IHI ASIA PACIFIC PTE. LTD. We believe his high degree of specialist knowledge in financial management and wide ranging business experience in overall business management will be utilized in the effective auditing of the IHI Group.
+Takashi Niimura has accumulated a great deal of knowledge in the sales and marketing field since joining IHI. As the manager responsible for supervising domestic and overseas branches and affiliated companies, he has carried out sales strategies from a Companywide perspective, while globally expanding operations and managing risks according to the situation in each country. We believe his abundant accomplishments, experience, and insight will be utilized in the effective auditing of the IHI Group.
+Tomomi Yatsu has accumulated extensive experience and insight in responding to various corporate challenges as an attorney at law and a certified public accountant and has been carrying out the auditing functions of IHI management from an independent perspective.
+13
+Executive Officers
+Tsugio MITSUOKA
+Chief Executive Officer
+In charge of Business Relating to Internal Audit and Risk Management
+Hiroshi IDE
+Chief Operating Officer President of Resources, Energy & Environment Business Area
+Takeshi YAMADA
+Senior Executive Officer
+Assistant to the President,
+In charge of Group Finance & Accounting
+Tomoharu SHIKINA
+Senior Executive Officer
+Assistant to the President, President of Aero Engine, Space & Defense Business Area,
+In charge of Business Relating to Public Relations and Investor Relations, Procurement and Information Management,
+In charge of Group Business Process Platform
+Masafumi NAGANO
+Managing Executive Officer
+In charge of Business Relating to Corporate Planning and Human Resources and Labor, In charge of Group Safety and Health
+Kouichi MURAKAMI
+Managing Executive Officer
+General Manager of Technology & Intelligence Integration, In charge of Group Engineering, In charge of Business Relating to New Corporate Businesses
+Kazuki AWAI
+Managing Executive Officer
+In charge of Business Relating to Administration, Legal and CSR In charge of Group Compliance
+Yoshinori KAWASAKI
+Managing Executive Officer
+Vice President of Industrial Systems & General-Purpose Machinery Business Area
+Yutaka KUNISADA
+Managing Executive Officer
+General Manager of Solution & Engineering and New Corporate Businesses Headquarters
+Takeshi KAWAKAMI
+Managing Executive Officer
+President of Social Infrastructure & Offshore Facilities Business Area,
+In charge of Monozukuri System Strategy, and Group Quality Assurance
+Yoshinori KOMIYA
+Managing Executive Officer
+General Manager of Intelligent Information Management Headquarters
+Yasuhiro SHIGEGAKI
+Managing Executive Officer
+Vice President of Industrial Systems & General-Purpose Machinery Business Area
+Shunichi TAKAYANAGI
+Executive Officer
+Vice President of Social Infrastructure & Offshore Facilities Business Area
+Mitsutoyo YOSHIDA
+Executive Officer
+General Manager of Project Risk Management Division
+Masato SHIDA
+Executive Officer
+General Manager of Human Resources Division
+Hideo MORITA
+Executive Officer
+Vice President of Aero Engine, Space & Defense Business Area
+Kouji TAKEDA
+Executive Officer
+Vice President of Resources, Energy & Environment Business Area,
+President of IHI Plant Services Corporation
+Tetsuji FUJIMURA
+Executive Officer
+Vice President of Aero Engine, Space & Defense Business Area
+Kiyoshi NIHEI
+Executive Officer
+General Manager of Global Marketing & Sales Headquarters and Vice President of Industrial Systems & General-Purpose Machinery Business Area,
+In charge of Group Operations
+Noriko MORIOKA
+Executive Officer
+Deputy General Manager of Solution & Engineering and New Corporate Businesses Headquarters
+    Attendance at Board of Directors meetings / Audit & Supervisory Board meetings in FY2019
+   Name
+Position at the Company
+Reasons for nomination
+Period in office
+      Taizo
+SUGA
+Standing Audit & Supervisory Board Member
+18
+out of 18 (100%)
+   3
+years
+Since June 2020
+18 3
+ 13
+out of 13 (100%)
+    Takashi
+NIIMURA
+Standing Audit & Supervisory Board Member
+   ―
+    Tomomi
+YATSU
+Outside Audit & Supervisory Board Member
+Independent
+out of 18 (100%)
+    out of 13 (100%)
+years
+    Toshio
+IWAMOTO
+Outside Audit & Supervisory Board Member
+Remuneration Independent
+Toshio Iwamoto has gained extensive experience and broad insight as a corporate manager. We expect him to strengthen corporate governance and use these qualities and his independent perspective in IHI management auditing functions. Given that IHI is engaged in transforming its business model, we believe he will utilize his extensive IoT knowledge and experience in system development and other operations.
+Aiko Sekine has accumulated abundant experience and insight as a
+representative of an auditing company and the Chairman and
+President of JICPA. We expect these qualities and her independent
+perspective to be reflected in the management auditing functions.
+Although she has not been involved in company management, we ― believe she will adequately execute her duties as an outside Audit &
+Supervisory Board member.
+14 1
+year
+Since June 2020
+out of 14* (100%)
+    10
+out of 10* (100%)
+    Aiko
+SEKINE
+Outside Audit & Supervisory Board Member
+Independent
+     * Shows attendance at Board of Directors meetings/Audit & Supervisory Board meetings held after appointment as Audit & Supervisory Board member.
+  32
+
+ Messages from Outside Officers
+  Taketsugu Fujiwara
+Outside Director
+Career background: Mr. Fujiwara is currently a special advisor of Asahi Kasei Corporation, where he previously held the posts of president and representative director, and vice chairman. In providing advice and recommendations to IHI’s management, he draws on his extensive experience and broad insight from implementing multifaceted management.
+  Pushing for further transformation driven by the conviction of IHI’s beliefs
+Promoting Change with Strong Determination under the New Management Structure
+Since my appointment as an outside director, I have exchanged opinions and offered advice and suggestions on initiatives for business structure reforms. IHI is truly a leader of the heavy industry that has underpinned Japan’s postwar growth. Because of its history and eminence, changing its culture and business model is no easy matter. Nevertheless, top management has maintained strong determination in its commitment to change since Chairman Mitsuoka’s time as president. Now I believe that IHI will be able to take its reforms a step further through President Ide’s energy and vitality.
+Accelerating Change in Governance
+The Board of Directors has changed. Directors who also have executive roles have come to express opinions in a supervisory capacity, and I feel that the separation of execution and supervision is effective. I also get a sense that IHI is moving toward autonomous governance—for example, risks are brought up not only by outside directors but also from within the Company.
+Responses to misconduct are not left to frontline staff, but are handled at the management level. In the response to inadequate inspection practices in the Civil Aero Engine Maintenance Business, frontline employees themselves thought of and proposed actions for improvement. In addition, organizational changes were made to put a person in charge of consulting with rule makers to establish rules at the management level.
+I am chairperson of the Remuneration Advisory Committee. For FY2020, we debated how the impact of COVID-19, which existing mechanisms are unable to take account of, should be reflected in remuneration.
+In order to allow for factors specific to FY2020, we clarified issues to address through dialogue between the President and other officers, and made it so that responses to those issues will be evaluated and reflected in remuneration.
+Sustainable Growth through a Well-Substantiated Renewal
+Due to the impact of COVID-19, the global business landscape has shifted dramatically, and created a situation where nobody has the right answers. Rather than being fenced in by the past, President Ide and the executive team will forge new paths by communicating their values to stakeholders, heeding how stakeholders respond, and taking quick action.
+IHI has carried out the job of “building society” by applying the shipbuilding technologies on which it was founded to branch out into bridges, power plants and other businesses. The Aero Engines Business in particular has expanded and grown into a key earnings driver. With this business as a cornerstone, I think IHI needs to accelerate its transformation by taking a fresh look at what it does well, based on its technologies and the trust it has built.
+In further deepening discussions at Board of Directors meetings, I will do my utmost to ensure that IHI carries out a well-substantiated renewal.
+   33
+
+  Toshio Iwamoto
+Outside Audit & Supervisory Board Member
+Career background: In his audit work at IHI, Mr. Iwamoto draws on his abundant experience and broad insight gained while serving as CEO and director in charge of the Financial Segment at NTT DATA Corporation.
+  Strengthening risk management and being flexible and adaptable to changes in the business climate
+Impressions after One Year as an Audit & Supervisory Board Member
+My first encounter with IHI goes back more than a quarter-century. NTT DATA’s head office was built on land owned by IHI, so I used to watch the new ship launching ceremonies of the shipbuilding works of Ishikawajima- Harima Heavy Industries, as the Company was known at the time. I was appointed as an Audit & Supervisory Board Member one year ago, but my impression of IHI has not changed—I still see it as a very serious company. IHI has a well-established reputation for its technological strengths, and the Company has consistently earned trust through its integral role in the building and maintenance of the social infrastructure, while evolving technologies to meet the demands of the times, from shipbuilding to energy and aero engines.
+I believe management is the art of adapting to the business environment. Society will always change. It is important to assess the implications from a business management perspective, and then transform what the company does accordingly. That includes responding to the current pandemic. The president is the one who holds the key to corporate management and his or her primary job is to set the direction for the company. The timing for IHI’s appointment of a new president comes amid the tumultuous situation created by the COVID-19 pandemic. Nonetheless, I am rooting for President Ide.
+Measures for Continuing Growth and Advancement
+The Company has two main challenges to address for future growth. First is the active exchange of technologies and human resources across business divisions. One can find a silo mentality at every company,
+but I think having a long history can make it especially hard to cross organizational boundaries.
+Second is the strengthening of risk management. Currently, under the leadership of Chairman Mitsuoka, the Board of Directors receives regular reports on risks that have materialized. That is certainly a good thing. However, dealing with an event such as corporate misconduct or a quality problem after it occurs is only risk response. Risk management entails looking at the overall value chain to predict what could happen, and then taking proactive measures. It is this area where further improvement is needed.
+Advancing Digital Transformation and Globalization through Practical Advice
+My role as an outside Audit & Supervisory Board member is to audit operations in the Company’s strategic business areas based on two perspectives. The first is digital transformation. Such transformation will become increasingly important in streamlining business activities and enhancing the sophistication of products and services. The second is global management. A company that sells products to customers abroad is merely an “international company,” but that does not make it a “global company.” To be a global company in the truest sense, the Group must establish management systems suited to each country and region, while sharing a common set of values.
+I will fulfill my duties by providing practical advice based on my management background at a tech company and contribute to the IHI Group’s development.
+   34
+
+ Corporate Governance
+ Corporate Governance Initiatives
+Basic Views
+Our corporate governance system improves management efficiency as a way to fully leverage our unique capabilities and in turn ensure sustainable growth and maximize corporate value. As a means to this end, we have separated management supervision and business execution functions, which heightens the efficiency and aptness of internal decision-making and lays a foundation to draft and put internal rules into practice. This approach ensures proper business conduct throughout the entire Group.
+IHI is consistently enhancing corporate governance to earn long-standing trust and support from all of our stakeholders, including shareholders.
+We strive to further corporate governance according to the following basic policies.
+(1) Respect shareholder rights and ensure equal treatment
+(2) Strive to maintain proper working relationships with all of our shareholders, including stakeholders
+(3) Proactively disclose accurate corporate information, ensure transparency, and remain accountable to our stakeholders
+(4) Clarify roles and responsibilities of the Board of Directors and Audit & Supervisory Board to enable members to fulfill management, audit, and supervisory functions
+(5) Engage in constructive dialogue with shareholders whose investment policy aligns with medium- to long-term shareholder interests
+Overview of Corporate Governance Structure
+The Company has an Audit & Supervisory Board, which comprises Audit & Supervisory Board members who audit the duties executed by directors. The Board of Directors makes decisions related to all important matters concerning the management of the Company and the Group, in addition to
+supervising directors in their business execution. Outside directors, who are elected from among individuals with extensive experience and broad insight gained at the helms of management or with a high degree of specialist knowledge and diverse experience, participate in the Board of Directors’ decision-making process, offer advice and make recommendations independently of managers who handle business execution.
+Business Execution Framework
+The Company introduced its Executive Officer System to strengthen decision-making and supervisory functions of the Board of Directors, as well as to improve efficiency of business execution. The Company appoints executive officers by resolution of the Board of Directors.
+Remuneration Advisory Committee and
+Nomination Advisory Committee
+The Remuneration Advisory Committee determines the suitability and objectivity of the officer remuneration brought before it by the Board of Directors. This six-person committee comprises three outside directors (one of whom is the chairperson), one outside Audit & Supervisory Board member, the director in charge of human resources, and the director in charge of finance and accounting.
+The Nomination Advisory Committee oversees and advises the Board of Directors on appropriate officer nominations. This five-person committee comprises the President (who is the chairperson), and four outside directors.
+Corporate Governance Structure
+Policies Relating to Appointment of Officers
+We have defined “Ideal Officer Attributes.” Furthermore, we have drafted the Independence Criteria for Outside Officers in accordance with the Tokyo Stock Exchange Independent Officer Requirements to ensure the independence of outside directors and outside Audit & Supervisory Board members. The Board of Directors has formulated a basic policy to appoint corporate officers who can best ensure sustainable growth and enhance medium- to long- term corporate value throughout the IHI Group according to these ideal attributes and the Independence Criteria for Outside Officers.
+Evaluation of Board Effectiveness
+The Board of Directors has been conducting evaluations of its performance annually in principle since FY2015 to further its effectiveness. The Board of Directors evaluation (self-assessment) carried out in FY2019 once again verified the effectiveness of the Board of Directors.
+However, we were able to identify several new risk factors from a broader view, including a need to strengthen oversight and monitoring of business execution and prevention of the spread of COVID-19. IHI affirmed these measures will deepen discussions and further enhance the effectiveness of the Board of Directors.
+          Delegation
+ Audit & Supervisory Board (Audit & Supervisory Board Members)
+Delegation Audit
+Delegation Audit
+Board of Directors (Directors)
+Management Monitoring/Supervisory Functions
+ Consultation Recommendation
+Remuneration Advisory Committee Nomination Advisory Committee
+     Report
+Delegation of Authority
+Business Execution Functions
+Audit
+Instruction
+Report
+ Chief Executive Officer (CEO) Chief Operating Officer (COO)
+Management Committee
+   Accounting Auditors
+Executive Officers
+Headquarters and Operations/ Group Companies
+ Internal Audit Division
+    35
+General Meeting of Shareholders
+
+ Policies and Procedures in Determining Officer Remuneration
+Policy on Determination of Remuneration for Officers
+Officer remuneration provides powerful motivation for IHI officers to achieve specific management goals by encouraging business execution founded in the Management Philosophy, Group Vision, and Group Management Policy for the purpose of fostering sustainable growth and increasing medium- to long-term corporate value of IHI. A fixed salary is merely one part of officer remuneration. IHI also sets appropriate performance-based bonuses
+Calculation Method for Incentives
+linked to fiscal performance in addition to performance-based share remuneration tied to corporate value and medium- and long-term performance. This incentivizes officers to demonstrate a sound entrepreneurial spirit.
+Procedures for Determining Remuneration
+IHI determines the remuneration for directors and executive officers through deliberation and recommendations from the Remuneration Advisory Committee with the final decision made by the Board of Directors. This process ensures fairness and objectivity.
+Remuneration of Outside Directors and
+Audit & Supervisory Board Members
+IHI provides only a fixed amount to outside directors that takes their duties into account. We also provide only a fixed salary to outside Audit & Supervisory Board members based on their duty to oversee business execution throughout the entire IHI Group. IHI determines the specific amount of remuneration together with the Audit & Supervisory Board.
+ We calculate incentives using consolidated ROIC and consolidated operating margin as performance evaluation indicators as these are important management indicators under Group Management Policies 2019.
+Results for FY2019 Remuneration
+Details of Director and Audit & Supervisory Board Members Remuneration
+(Millions of yen)
+565 108
+673 (75)
+ Category
+Number of people remunerated
+Total remuneration by type
+Total remuneration
+Basic remuneration
+Performance- based share remuneration
+Performance- based bonuses
+   Remuneration type Form of Payment amount calculation method remuneration
+            Performance-based share remuneration (medium- to long- term incentives)
+Stock
+ Cash
+Number of issued shares
+In the case of representative director
+= × (
+In the case of directors
+= × (
+× 50/100)
+×50/100+
+Performance- based share remuneration
+Performance- based bonus
+Consolidated ROIC
+Current net profit attributable to owners of parent
+Consolidated operating margin
+0–150% 0–200% 0–200%
+Maximum: 13%
+Basic points corresponding with job title ranking
+= × 1/2
+Variable from 0 to around 150
+Level of accomplishment at end of performance evaluation period (upcoming 3 business years)
+Directors
+Audit & Supervisory Board Members
+Total (outside officers)
+12 434
+6 108
+18 542 (8) (75)
+117 12
+— —
+117 12 (—) (—)
+        Amount of monetary payment
+= ( Number of confirmed points1
+- Number of issued shares
+× 50/100 +
+×30/100+
+) ×
+Note 1: Annual remuneration for directors is capped at ¥1,090 million, annual amount for Audit & Supervisory Board members is capped at ¥120 million.
+Note 2: The table includes one director and one Audit & Supervisory Board member who retired at the conclusion of the Ordinary General Meeting of Shareholders held on June 20, 2019.
+Thus, the figures are different from the figures as of March 31, 2020
+(11 directors and five Audit & Supervisory Board members).
+Note 3: Indicated remuneration amounts are rounded down to the nearest unit.
+Targets, Results, and Other Data of Performance Evaluation Payout Rates
+margin of the said business area is used.
+Performance evaluation payout rate corresponding with current net profit attributable to owners of parent2
+×
+Performance evaluation payout rate corresponding with consolidated ROIC
+×
+Percentage obtained by dividing the months of enrollment by 12
+Current market price of IHI shares on the day rights are finalized
+1. 1 confirmed point is equivalent to 1 IHI share.
+         Type of remuneration
+Performance evaluation indicator
+Margin of performance evaluation payout rate
+Target
+Results
+Performance evaluation payout rates
+Performance-based bonuses
+(annual incentives)
+Cash
+Performance- based bonuses
+Standard payment amount corresponding with titles and positions
+Performance evaluation payout rate corresponding with consolidated operating margin2
+     Performance- based bonuses
+Standard payment amount corresponding with title and position
+Performance evaluation payout rate corresponding with current net profit attributable to owners of parent2
+Performance evaluation payout rate corresponding with consolidated operating margin2,3
+Payout rate based on individual performance evaluation2
+×20/100)
+Target:
+10% 5.7% 50% Minimum: 3.5%
+ 2. Variable from 0 to around 200
+3. In the case of a director overseeing a business area, the performance evaluation payout rate corresponding with the consolidated operating
+FY2020 adds cash flows (consolidated cash flow and consolidated cash flow of business areas in charge) as a performance evaluation indicator with the aim of securing future investment funds and building a solid financial base. The consolidated cash flow is the sum of cash flows from operating activities and investing activities.
+¥60.2 billion ¥12.8
+¥45.2 billion billion 0%
+Maximum:
+Target:
+Minimum: ¥30.2 billion
+Maximum: 8.0% Target: 6.0% Minimum: 4.0%
+ 3.6% 0%
+   36
+
+ Risk Management
+ Risk Management Initiatives
+Policies
+The IHI Group considers and engages in risk management as one of the top material issues of management.
+The basic objectives of risk management are ensuring business continuity, ensuring the safety of executives, employees and their families, protecting managerial resources, and maintaining public trust. We manage risk in accordance with the following action guidelines based on the Basic Code of Conduct for the IHI Group.
+1. Ensure the continuity of the IHI Group’s business operations.
+2. Improve the public reputation of the IHI Group.
+3. Protect the IHI Group’s managerial resources.
+4. Avoid jeopardizing stakeholders’ interests.
+5. Achieve recovery from damage as soon as possible.
+6. Take responsible action when an issue arises.
+7. Meet public requirements regarding risks.
+Risk Management Structure
+The IHI Group established the Risk Management Conference chaired by the CEO as a body to review policy initiatives, annual plans, corrective measures and other matters important to overall risk management.
+We formulated the IHI Group Key Risk Management Policies to prioritize risks that need to be addressed. Each IHI division and Group company worldwide moves forward with independent risk management in accordance with these policies.
+Some risks though are common throughout the entire IHI Group. Therefore, the Group Risk Management Unit made up primarily of head office divisions shares information and provides training to take advantage of expert knowledge and support risk management activities of each Group division. The Internal Audit
+Division also strives to secure a suitable level of risk management by assessing the readiness and progress of the Group risk management structure.
+Risk Management Structure
+Key Risk Management Policies
+       Board of Directors
+ Risk Management Conference Chairperson: CEO
+ Head Office Divisions
+Presidents of Business Areas
+Risk Management Group
+ General Managers of Business Unit*
+ Group Risk Management Unit
+Internal Audit Div. Legal Div.
+Human Resources Div. Technology & Intelligence Integration
+Group Risk Management Unit supports the identification and management of risks across the Group.
+.........
+.........
+Divisions Affiliated companies
+Divisions
+Affiliated companies
+Divisions
+Affiliated companies
+General Managers of Business Unit*
+Divisions
+Affiliated companies
+* Business Units are affiliated with Business Area.
+    Full List of Risk Management Activities
+1. Thoroughly implement and strengthen safety management
+2. Strengthen compliance
+3. Reform quality and operation systems
+4. Respond to changes in management environments and competitive environments, and promote environmental management
+5. Properly respond to risks associated with the execution of global strategy
+6. Transition to robust project implementation and risk management structures
+7. Ensure information security
+8. Develop adequate Business Continuity Plans (BCP) in case of disasters/accidents
+9. Ensure the appropriateness of large-scale investments
+10. Improve operational productivity through workstyle reforms and build workplaces where diverse human resources can actively participate
+11. Prevent leaks of confidential business information, personal information, and vital technical information
+12. Maintain and improve trusting relationships with stakeholders
+13. Implement thorough measures against harassment
+14. Promote further improvement of diversity
+15. Promote education on human rights and activities to raise awareness
+   37
+Key Risk Management Policies in FY2020
+Today, the business environment around the IHI Group is changing significantly. To accelerate business transformation while responding to the significant change, IHI must thoroughly identify the risks accompanied by the ever-evolving business climate, strengthen rapid response capabilities, and spearhead uncompromising risk management through the PDCA cycle. This understanding is the basis on which we formulated and are implementing the Key Risk Management Policies.
+Key Themes
+1. Evolve compliance program
+2. Settle quality assurance framework
+3. Enhance risk management for important business risk
+ 
+ Measures in Response to the COVID-19 Pandemic
+Basic Approach
+The IHI Group understands that responding to various situations including states of emergency is vital as an organization that supports social infrastructure. Therefore, we ensure business continuity of the Group.
+We responded to the COVID-19 pandemic by urgently setting up a Crisis Management Headquarters led by the President as chief. As we continue our business activities, the Headquarters takes the steps necessary to prevent the spread of the virus by prioritizing the health and safety of our customers as well as officers and employees and their families above all else.
+Initiatives
+Providing a Work System to Prevent Infection
+Administrative departments have increased the ratio of employees that work from home. Our works and other production bases have taken steps to reduce the risk of infection as much as possible when commuting and while at work. These measures include fewer on-site staff, alternative work schedules, and encouraging employees to commute using personal vehicles rather than public transportation. IHI also checks on the health of not only officers and employees but also their families every day and takes measures such as instructing employees that may be infected to not attend the workplace.
+Securing Items for Infection Prevention
+We have even secured stable procurement routes for masks, alcohol-based disinfectants, and other items for infection prevention to distribute and stockpile at each site.
+Establishing Work Environment Guidelines
+Division-specific guidelines to prevent infection have been formulated for offices, works, construction sites and other workplaces.
+• Avoid the 3Cs (closed spaces, crowded places and close-
+contact settings) at workplaces and work sites (rules including
+two-meter distancing)
+• Install transparent acrylic panels and use face shields
+   38
+  Helping to Prevent the Spread of Infection through IHI’s Businesses
+   1
+Launched FeverCheck® for Temperature Screening
+IHI Inspection & Instrumentation Co., Ltd. has launched FeverCheck®, which measures body surface temperature distantly. Using AI to accurately identify human faces, the system can measure the body surface temperature of multiple people simultaneously without contact, and automatically notifies the operator when it detects someone with an abnormal body temperature.
+At offices, factories, schools, hotels, airports, event sites and other public places, the system efficiently screens the temperatures of people walking by without the need to stop them. This reduces the risk of infection through contact, thereby contributing to sustainable social activity while preventing the spread of the virus.
+IHI Agri-Tech Corporation has developed and launched medical devices and public health equipment (air cleaning and sterilization/deodorization equipment) that use ozone gas.
+IHI Agri-Tech recently developed and launched a simple negative-pressure isolation tent as a quarantine space that can be used in conjunction with ozone-related products. This isolation tent is now being used in hospitals, nursing homes and other facilities where there are an insufficient number of negative-pressure rooms.
+While strengthening the production system, production of these high-performance ozone-related products is being ramped up to meet demand in controlling the spread of COVID-19.
+2
+Developed and Ramped Up Production of High- Performance Ozone-Related Products with Air Purification and Disinfection/Deodorization Functions
+     eZ-100 air purifier
+Portable air purifier
+FeverCheck® in use
+ 
+ Quality-Related Compliance Initiatives
+The IHI Group strives for sound compliance founded on the Basic Rules of Compliance for IHI Group and other guidelines. These activities are conducted not only to address legal compliance but also to respond to the needs of society with a full grasp of the ever-changing values and expectations of society.
+IHI Group Code of Action and IHI Group Quality Declaration were newly established to ensure that the entire IHI Group practices uncompromising compliance as a basic rule in light of inadequate inspection in the Civil Aero Engine Maintenance Business in 2019. We also conducted Quality & Compliance Training and follow-up support to nurture an even greater awareness about compliance in all IHI Group directors, officers and employees.
+We will continue to ensure uncompromising compliance and prevent recurrence by finding the root causes of quality issues in an effort to rebuild trust.
+Strengthening Quality Assurance and Quality Management Systems
+The IHI Group established the IHI Group Quality Committee as a Group-wide committee on quality. The Committee deliberated and drafted important quality policies as well as promoted activities with the officer in charge of overall Group Quality Assurance as chair. The members are made up of the presidents of business areas, executives in charge of quality for business areas, and executives of head office divisions.
+Creating Workplaces Where Everyone Has a Voice
+Our president and other senior management visit worksites to engage in a dialogue where top management and employees have an equal standing for an active exchange of ideas.
+In FY2019, we launched Quality Assurance (QA) teams made up of members from design, technology and quality departments at our plants in Japan to address any problems or issues faced on-site. IHI promotes ideal workplaces where employees can work in good health by solving problems from a Quality Assurance (QA) rather than Quality Control (QC) perspective based on communication and facts about the situation unique to each site.
+Quality Improvement Promotion System
+    Chief Operating Officer (COO)
+  IHI Group Quality Committee
+Chairperson: Officer in Charge of Overall Group Quality Assurance Secretariat: Monozukuri System Strategy Planning
+ Business Areas
+President of Business Area Executive in Charge of Quality
+General Manager of Quality Assurance Division
+  Number of Compliance Training Participants
+IHI and subsidiaries in Japan
+IHI and subsidiaries in Japan
+IHI and subsidiaries in Japan
+Affiliated companies overseas
+IHI and subsidiaries in Japan
+Affiliated companies overseas
+—
+72
+27,866
+1,774
+18,164
+1,214
+Business Units/Affiliated Companies
+General Manager of Business Unit/President of Affiliated Company Executive in Charge of Quality
+General Manager of Quality Assurance Division
+    Item
+ Officer Training
+Scope of Data
+FY2019
+  Line Manager Training
+      Quality & Compliance Training
+IHI Group Code of Action
+1. We truly understand and will comply with any and all applicable rules.
+2. We do not engage in any wrongdoing.
+3. We respect human rights.
+4. We make safety and quality for our customers a top priority.
+5. We enter into fair and legitimate transactions.
+6. We never impair the safety of ourselves or our colleagues.
+7. We strictly manage and control information.
+8. If we discover an issue, we report it immediately.
+IHI Group Quality Declaration
+We, the IHI Group shall:
+1. Always put quality first.
+2. Continue improving quality via Sangen-Shugi and communication.
+3. Listen sincerely to issues, swiftly take action and share accurate information.
+4. Provide quality assurance through compliance with rules and working appropriately.
+5. All strive for the satisfaction of our customers.
+   e-Learning
+Japan
+ Overseas
+  39
+
+ Report on Large-Scale Project Risks
+Project Risk Management for Large-Scale Projects
+The Project Risk Management Division was established in April 2017 following extensive losses on large-scale overseas projects from FY2014 through FY2016. The division has been strengthening the risk management system in collaboration with the risk management groups of each business unit.
+To minimize project risks, the division performs pre-order and pre-investment reviews, and monitors projects that are under way. Present and former employees who are knowledgeable about IHI businesses, as well as outside experts, are appointed as certified reviewers, and conduct thorough, multifaceted reviews. In addition, given that some projects can take as long as four or five years, interim reviews timed to significant milestones are conducted to assess whether initial targets are being met.
+Embedding Risk Management into the Corporate Culture
+The number of major downside events occurring in large-scale projects has been declining. Lessons learned are being incorporated into the risk management framework, and those lessons are now at the stage of being embedded as part of the IHI Group’s corporate culture.
+In FY2019, IHI took measures to prevent recurrence of downside events, including systematizing project risk management expertise and developing more practical training that incorporates case studies.
+Impact of COVID-19 on Projects
+To date, there have been no instances of the COVID-19 pandemic having a significant impact on the execution of projects. However,
+at certain overseas construction projects, restrictions on the movement of construction personnel, the temporary withdrawal of locally stationed Japanese staff and other effects have arisen, and we are therefore monitoring these situations carefully. On the front lines of projects, measures are being taken to minimize the impact on work, such as establishing online management systems that enable prompt and safe communication with customers at the site.
+Number of Downside Events on Large-Scale Projects
+  (%)
+100 80 60 40 20
+6.4% decrease
+         2015
+2016
+40.8% decrease
+2017
+60.5% decrease
+2018
+52.9% decrease
+2019 (FY)
+    Business Areas
+Planning & Management Department, Risk Management Group
+• Detailed investigation of large-scale project orders • Monitoring and follow-up of projects
+• Review and monitoring of large-scale investments
+Project Risk Management Division
+Note: Graph shows the number of downside events that resulted in a significant discrepancy between estimated and actual costs on large-scale projects subject to monitoring.
+       Check
+Support
+Collaboration
+Check
+Support
+Operating Profit Initial Targets and Results
+(Billions of yen)
+100 80 60 40 20
+   Feedback for review process (Strengthening review function)
+ Order review function
+Collaboration
+Investment review function
+     Business Unit
+       Plan
+Do
+ Check
+Action
+Project Accounting Audit Group
+• Monitoring of large-scale project orders (profit/loss appropriateness investigation)
+Project Execution Audit Group
+• Pre-order review and post-order monitoring
+(project execution soundness) for large-scale projects
+Project Judging Group
+• Pre-order review for large-scale projects
+• Quantitative appraisal of risks pertaining to large
+onshore orders (risk metrics)
+Investment Judging & Monitoring Group
+• Review large-scale investment cases
+• Monitor large-scale investments under way
+Monitoring results
+(Risk factors)
+     Project planning
+Project implementation
+   Risk identification
+Monitoring
+Adjustment
+ Increase solution conditions
+ 2015 2016 2017 2018
+2019 (FY)
+Initial targets Results
+40
+
+ Addressing Climate Change
+ Initiatives to Address Climate Change
+Approach
+Climate change has an enormous social and economic impact and is a vital social issue for companies to address in order to realize sustainability. The IHI Group sees climate change as one important management issue and is doing everything possible to combat it.
+Our products and services strive to reduce CO2 emissions throughout the entire lifecycle. We monitor the environmental impact from business activities at our plants, offices and other business establishments to help us reduce CO2 emissions.
+In May 2019, the IHI Group became a signatory to the Task Force on Climate-related Financial Disclosures (TCFD) by resolution of the Board of Directors. This framework plays a role as a tool to formulate strategies able to strengthen risk management and cultivate business opportunities.
+TCFD Initiatives
+In FY2019, the IHI Group conducted simple scenario analyses of four business domains with a significantly large impact on climate change: the Energy Business, Vehicular Turbochargers Business, Bridges/Water Gates Business, and the Civil Aero Engines Business.
+The first step set (1) a carbon-neutral world as the highest transition risk and (2) a world greatly impacted by climate change as the highest physical risk in our own independent scenarios drafted with reference to external scenarios drafted by the International Energy Agency (IEA) and Intergovernmental Panel on Climate Change (IPCC). The second step identified risks and opportunities for all four business domains. The third step assessed the impact on each business. The fourth and last step drafted countermeasures according to our findings.
+    1. Main Risks and Countermeasures Shared Across All Businesses
+IHI Group Scenarios
+(1) A carbon-neutral world
+This scenario presents a world where society at large shifts to mitigate climate change to stop all greenhouse gas emissions.
+(2) A world greatly impacted by climate change
+This scenario presents a world that needs to adapt to the physical impact to directly confront drastic devastation by natural disasters.
+Risks, Opportunities and Countermeasures
+IHI divides the risks and opportunities identified for each of the four business domains and the countermeasures into two categories: 1. Risks, opportunities, and countermeasures shared across all businesses, and 2. Risks, opportunities, and countermeasures specific to each business.
+Countermeasures set to address the two extreme worlds anticipated by these IHI scenarios enhance the resilience of IHI Group businesses against future risks.
+Reduce costs in business activities through efficient production and distribution as well as the proper management of energy consumption
+Concentrate investments in technological development while staying acutely aware of policies, technologies, markets, and other social trends
+Actively draft and promote business plans that always anticipate multiple business scenarios to adapt to dramatic changes in market structures
+Disseminate easy-to-understand information about products and services that can help both mitigate and adapt to climate change
+Incorporate the response to climate change into the business continuity plans of plants and offices to ensure the safety of officers and employees and strengthen the supply chain
+ (1) Transition risks and countermeasures for a carbon-neutral world
+Category
+ Main topics
+ Main countermeasures and transitioning to opportunities
+ Policies, laws and regulations
+Technologies Markets Reputation
+Acute/Chronic 41
+Introduction of carbon taxes, stronger industrial waste regulations, rising costs accompanying the adoption of renewable energy and energy-efficient equipment, etc.
+Rising costs for research and development to realize carbon-neutral products and services, failed technological development, etc.
+Declining demand for products and services with high CO2 emissions, etc.
+Lost opportunities due to poor evaluations of our response to climate change, declining social credibility, etc.
+Ceased business activities due to damaged offices and plants caused by typhoons, floods, or other natural disasters, etc.
+            (2) Physical risks and countermeasures in a world greatly impacted by climate change
+Category
+ Main topics
+ Main countermeasures
+    
+ 2. Main Risks, Opportunities, and Countermeasures Specific to Each Business (Four Main Business Domains)
+Risks
+Opportunities
+Main countermeasures
+Risks Opportunities
+Main countermeasures
+1. Technologies for carbon dioxide capture, utilization and storage (CCUS).
+2. Electric vehicles
+PHEV: Plug-in hybrid electric vehicles HEV: Hybrid electric vehicles
+FCV: Fuel cell vehicles
+• Declining demand for aircraft due to carbon-neutral requirements and standardization of alternative high-speed means of transportation
+• Increasing demand for the development of aircraft engines supporting carbon-neutral requirements and more opportunities for applications of electrification of engines and utilization of advanced material technologies
+• Early commercialization of electric engines and advanced technologies such as advanced composites
+• Suspension of production due to disrupted supply chains caused by frequent severe weather
+• No opportunities unique to this business
+• Strengthen supply chains
+ (1) Risks, opportunities and main countermeasures in a carbon-neutral world
+Energy Business
+Vehicular Turbochargers Business
+Bridges/Water Gates Business
+Civil Aero Engines Business
+    • Declining demand for large fossil fuel power generation equipment
+• Declining demand for combustion engine vehicles unable to address carbon-neutral requirements and falling demand for existing turbochargers
+• Increasing procurement costs (carbon tax, etc.) for materials with high CO2 emissions (concrete, steel, etc.)
+         • Increasing demand for fuel conversion, carbon capture and storage (CCUS)1 and other decarbonization technologies
+• Increasing demand for regulated power supplies, storage energy, and Power-to-X to provide a stable energy supply as renewable energy becomes the standard
+• Potential to secure market competitiveness and leverage an increase in demand for turbochargers by being first to market with new turbocharger products (electric products in addition to existing models) for carbon-neutral electric vehicles (PHEV, HEV, FCV, etc.)2
+• Increasing demand for roads (bridges and tunnels) to provide a more efficient transportation network
+• Increasing demand for railway construction due to expansion of railway systems overseas
+       • Rapidly deploy carbon-neutral technologies to society
+• Promote technological development to stabilize the energy supply
+• Expand the lifecycle business through remote monitoring and other Internet of Things (IoT) technologies
+(2) Risks, opportunities and main countermeasures in a world greatly impacted by climate change
+Energy Business
+• Rapid development and commercialization of turbochargers for electric vehicles that comply with carbon-neutral requirement trends
+Vehicular Turbochargers Business
+• Achieve labor savings and remote operation through the promotion of digital transformation
+• Shorten construction schedules and reduce labor costs through improvements to construction methods
+Bridges/Water Gates Business
+Civil Aero Engines Business
+    • Extreme delays due to on-site construction stoppages or disasters caused by frequent severe weather
+• Suspension of production due to disrupted supply chains caused by frequent severe weather
+• Extreme delays due to on-site construction stoppages or disasters caused by frequent severe weather
+         • Contributing in early recovery of equipment damaged in severe weather
+• Increasing demand for digital technologies to promote labor savings and remote operation
+• No opportunities unique to this business
+• Increasing demand to build robust national infrastructure
+• Contributing in early recovery of infrastructure damaged in severe weather
+         • Expand the lifecycle business through remote monitoring and other Internet of Things (IoT) technologies
+• Strengthen supply chains
+• Expand business beyond lifecycle business with wider perspective to include disaster prevention business
+• Create technologies and systems that contribute to maintenance, disaster prevention, disaster mitigation, and quick recovery of infrastructure
+     42
+
+ Data
+ Financial Summary
+IHI Corporation and consolidated subsidiaries / For respective fiscal years ended March 31
+             FY
+Key financial highlights
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+            (Billions of yen)
+   1,373.9
+1,386.5
+60.7
+(12.9)
+(28.5)
+32.2
+12.8
+ 38.1
+80.6
+53.8
+ 1,740.7
+488.1
+353.7
+ 28,964
+    Orders received
+Net sales
+Operating profit
+Share of profit (loss) of entities accounted for using equity method Total non-operating income
+Ordinary profit
+Profit attributable to owners of parent
+R&D expenses
+Capital expenditure1
+Depreciation1
+Total assets
+Interest-bearing liabilities
+Net assets
+Employees 24,890
+970.4 1,200.9 1,242.7 1,187.2 47.1 61.3 0.4 0.3
+1,269.6 1,221.8 43.3 0.6
+(1.6) 41.7 23.8 30.0 53.5 41.1
+1,338.1 345.2 258.4 26,915
+162.58 1,708.36 40.00
+125.7 99.4 295.9 700.8
+312.3 114.7 318.7 299.4
+43 3.5 4.6 1.8 9.8
+1.34 18.7
+1,225.6 1,256.0 42.1 4.3
+(5.9) 36.2 33.3 30.2 55.0 41.7
+1,364.2 353.8 299.2 26,618
+228.14 1,970.77 50.00
+147.1 93.0 246.2 769.7
+321.5 117.8 382.5 338.4
+39 3.4 4.5 2.5
+12.4 1.18 21.1
+1,458.9 1,304.0 53.2 5.3 0.0 53.2 33.1 33.5 54.5 40.4 1,496.3 357.8 362.5 27,562
+225.13 2,236.81 60.00
+212.7 152.2 253.7 685.4
+344.0 150.3 397.8 406.0
+47 4.1 5.3 2.3
+10.5 0.99 23.1
+1,664.3 1,455.8 63.2
+(1.7)
+(6.7) 56.5 9.0 37.0 63.9 43.2 1,690.8 410.6 359.5 28,533
+58.84 2,240.31 60.00
+270.8 171.0 316.2 697.8
+415.3 188.6 411.7 434.8
+52 4.3 5.8 0.6 2.6
+1.14 20.5
+1,605.3 1,539.3 22.0 1.1
+(12.3) 9.7 1.5 41.6 50.8 46.7 1,715.0 374.5 333.3 29,494
+9.90 2,061.63 30.00
+336.1 139.9 320.9 742.4
+452.4 168.1 404.7 500.2
+52 1.4 2.3 0.1 0.5
+1.12 18.6
+1,389.8 1,486.3 47.3
+(3.5) (25.3) 22.0
+5.2 35.5 52.7 46.6 1,692.8 371.9 337.6 29,659
+33.98 2,060.33 0.00
+319.8 116.1 321.5 728.9
+427.3 157.7 411.6 471.9
+51 3.2 5.0 0.3 1.6
+1.10 18.8
+1,505.0 1,590.3 72.2
+(33.0) (50.8) 21.4
+8.2 38.6 59.2 44.8 1,633.4 322.2 350.2 29,706
+53.71 2,103.22 60.00
+350.7 132.6 324.7 782.3
+490.4 154.5 459.0 463.7
+51 4.5 7.7 0.5 2.6
+0.92 19.9
+1,399.2 1,483.4 82.4 4.1
+(16.7) 65.7 39.8 36.5 67.3 42.9
+1,664.5 355.0 381.6 29,286
+258.53 2,263.12 70.00
+326.4 102.2 284.9 769.9
+377.0 143.1 441.0 492.2
+48 5.6 8.7 2.4
+11.8 0.93 21.0
+(14.1) (9.9) 33.0 51.4 17.3 29.7 25.5 29.2 37.5 86.3 38.2 38.2
+                      1,412.4 1,361.4 432.0 373.3 227.0 253.6
+                        Per share data
+Basic earnings per share2 Book value per share3 Annual dividends per share
+118.51 1,446.63 20.00
+26,035
+202.94 1,623.33 30.00
+126.1 90.8 295.1 675.2
+(Yen)
+   84.21
+2,195.96
+50.00
+              Net sales by region
+United States
+Europe 70.3 Asia and other 315.1 Japan 718.1
+139.2
+(Billions of yen)
+   363.9
+68.6
+230.5
+723.4
+              Net sales by business segment
+Resources, Energy & Environment
+Social Infrastructure & Offshore Facilities Industrial Systems & General-Purpose Machinery Aero Engine, Space & Defense
+Percentage of overseas sales Operating margin
+ROIC (return on invested capital)4 ROA (return on assets)5
+ROE (return on equity)6 Debt-to-equity ratio (times)7 Equity to total assets
+— 306.4 — 122.4 — 282.2 — 273.7
+42 43 3.8 5.2 4.8 6.2 1.2 2.1 8.6 13.2
+1.90 1.47 15.0 17.5
+(Billions of yen)
+   327.7
+152.8
+406.4
+480.8
+                        Financial indices
+(%)
+            48
+4.4
+5.7
+0.8
+3.8
+1.38
+18.7
+            43
+
+               FY
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+             Balance sheet information
+(Billions of yen)
+    Current assets
+Non-current assets
+Total assets
+Current liabilities
+Provision for construction warranties, Provision for loss on construction contracts Non-current liabilities
+Total liabilities
+Shareholders’ equity
+Total net assets
+Total liabilities and net assets
+Cash flows from operating activities Cash flows from investing activities Cash flows from financing activities Change in interest-bearing liabilities Free cash flow8
+1. The calculation method for capital expenditure and depreciation changed from FY2019.
+2. Profit attributable to owners of parent ÷ Average number of shares outstanding during period
+3. Net assets ÷ Total number of shares outstanding
+External Evaluation
+941.7
+470.6 1,412.4 758.1
+35.7 427.1 1,185.3 204.6 227.0 1,412.4
+76.7 (62.7) (1.8)
+4.9 13.9
+853.4
+508.0 1,361.4 691.1
+47.2 416.6 1,107.8 234.6 253.6 1,361.4
+95.5 (77.7) (25.9) (58.7) 17.7
+844.3
+493.7 1,338.1 689.6
+44.7 389.9 1,079.6 254.3 258.4 1,338.1
+24.7 (37.7) (38.5) (28.1) (12.9)
+814.7
+549.4 1,364.2 665.4
+40.4 399.5 1,064.9 282.7 299.2 1,364.2
+74.3 (61.0) (3.1)
+8.6 13.3
+901.2
+595.1 1,496.3 726.2
+43.8 407.5 1,133.8 332.2 362.5 1,496.3
+39.2 (62.2) 11.3
+4.0 (23.0)
+1,053.7 637.1 1,690.8 795.9
+65.3 535.3 1,331.2 313.5 359.5 1,690.8
+63.5 (74.6) 33.4 52.8 (11.0)
+1,100.5 614.5 1,715.0 882.7
+97.5 498.9 1,381.6 305.8 333.3 1,715.0
+95.3 (35.5) (47.5) (36.1) 59.8
+1,073.8 618.9 1,692.8 876.2
+85.2 478.9 1,355.2 309.9 337.6 1,692.8
+65.3 (28.9) (21.9)
+(2.6) 36.4
+993.4
+640.0 1,633.4 811.6
+80.9 471.6 1,283.2 313.2 350.2 1,633.4
+99.0 (47.9) (57.3) (49.7) 51.0
+987.8
+676.6 1,664.5 823.1
+69.1 459.7 1,282.8 343.4 381.6 1,664.5
+46.4 (79.2) 16.4 32.8 (32.8)
+1,076.0
+664.7
+            1,740.7
+            909.0
+62.6
+478.0
+            1,387.0
+            329.2
+            353.7
+            1,740.7
+              Cash flow statement information
+(Billions of yen)
+   14.5
+(75.8)
+115.2
+133.0
+(61.3)
+            4. (Operating profit + Interest and dividend income) after tax ÷ (Owners’ equity + Interest-bearing liabilities)
+5. Profit attributable to owners of parent ÷ (Average of total assets at end of previous fiscal year and end of current fiscal year)
+6. Profit attributable to owners of parent ÷ (Average of owners’ equity at end of previous fiscal year and end of current fiscal year)
+7. Net interest-bearing liabilities ÷ Net assets
+8. Cash flows from operating activities + Cash flows from investing activities
+  S&P/JPX Carbon Efficient Index
+The S&P/JPX Carbon Efficient Index selected the IHI Group as a brand satisfying environmental information disclosure and carbon efficiency (carbon emissions per unit of revenue) standards according to their constituent selection and weighting process.
+  Kurumin Certification
+The Minister of Health, Labour and Welfare recognized IHI Corporation as a company that supports child raising and granted us the Kurumin certification.
+  Eruboshi Certification
+The Minister of Health, Labour and Welfare certified IHI Corporation as an Eruboshi Company (2nd level) for excellence in efforts to promote the participation and advancement of women in the workplace.
+  Health & Productivity Companies 2020 (White 500)
+The Ministry of Economy, Trade and Industry and the Nippon Kenko Kaigi (Japan Health Council) launched the White 500 program to recognize excellence in employee health management from a corporate management standpoint.
+The White 500 program recognized ten IHI Group companies as Health & Productivity Companies in 2020.
+ Resilience Certification
+The IHI Group renewed the Resilience Certification acquired in 2016 with the aim of improving its business continuity as a company that supports social infrastructure. Resilience Certification is a certification system of the Association for Resilience Japan based on the guidelines for the certification of organizations contributing to national resilience. This certification certifies business operators that endorse the ideas of strengthening national resilience published by the Cabinet Secretariat’s National Resilience Promotion Office and proactively work to ensure their business continuity.
+  PRIDE Index Gold Award 2019
+work with Pride (wwP) awarded IHI the PRIDE Index 2019 Gold Award, its highest honor, for the second consecutive year. The goal of the PRIDE Index is to help build working environments friendly to LGBT and other gender minorities. wwP recognized IHI Corporation because of its human resources policies for LGBT, launch of a consultation desk, expansion of an ally program, and training to promote greater understanding about gender minorities.
+ 44
+
+ Non-Financial Summary
+      Material issue
+ Governance – Principled Corporate Management –
+FY2016
+             Corporate governance
+Corporate governance
+Average attendance rate of outside Audit & Supervisory
+Board members
+Number of law violations / Number of guidance cases
+Expenditure to organizations
+Number of Compliance Hotline reports
+Number of compliance training participants
+Patents held by region
+Board of Directors meetings (%)
+Audit & Supervisory Board meetings (%)
+Competition laws
+Anticorruption laws
+Laws/regulations relating to PR activities
+Political organizations (millions of yen)
+Economic organizations (millions of yen)
+Other major industry organizations (millions of yen)
+Compliance Hotline reports
+Officer Training
+Line Manager Training
+Quality & Compliance Training (Japan)
+Quality & Compliance Training (Overseas)
+e-Learning (Japan)
+e-Learning (Overseas)
+Patents in Japan
+Patents overseas
+IHI 92.3
+IHI 93.0
+IHI and consolidated 0 subsidiaries
+IHI and consolidated
+subsidiaries 0
+IHI and consolidated 0 subsidiaries
+IHI 10
+IHI 41
+IHI 55
+1 218
+96.0 92.6
+100 100
+0 0
+0 0
+0 0
+10 10
+42 48
+55 101
+209 238
+50 47
+83 75
+— —
+— —
+18,020 18,234
+1,261 1,126
+3,915 4,120
+2,598 3,047
+3.0 2.9
+Average attendance rate of outside directors
+Board of Directors meetings (%)
+IHI
+96.2
+95.3
+98.6
+98.1
+       100
+   100
+          10
+  56
+0
+ 0
+ 0
+     120
+   Compliance
+Legal compliance
+239
+  Risk management
+Information security
+Intellectual property protection
+Information security measures
+Information security measures level evaluation (out of five) (score)
+IHI 4,157
+IHI 2,744
+IHI and consolidated — subsidiaries
+Theme
+Index
+Scope of data
+IHI and subsidiaries in Japan
+IHI and subsidiaries in Japan
+IHI and subsidiaries in Japan
+Overseas subsidiaries
+IHI and subsidiaries in Japan
+Overseas subsidiaries
+55
+73
+—
+—
+18,859
+1,392
+Results
+    FY2017
+FY2018
+FY2019
+       —
+   27,866
+ 1,774
+  1,214
+72
+   18,164
+    4,150
+  3,502
+   3.2
+   1. IHI and affiliated companies in Japan in FY2016. IHI, affiliated companies in Japan, and some affiliated companies overseas (USA and Brazil) in FY2017. IHI, affiliated companies in Japan, and some affiliated companies overseas (USA, Brazil, Asia Pacific, China, and Korea) in FY2018 and FY2019.
+45
+
+       Material issue
+Theme
+   FY2017
+FY2019
+   Society – Materialize an Affluent Society –
+          Consolidated number of employees
+Number of employees (IHI)
+All employees
+Total turnover rate
+Response ratio (%)
+Number of new graduate hires
+Number of mid-career hires
+IHI and consolidated subsidiaries
+29,659 29,706 29,286
+8,630 8,256 8,011
+7,625 7,245 6,994
+1,005 1,011 1,017
+11.6 12.2 12.7
+14.5 14.8 14.9
+14.8 15.1 15.1
+12.2 12.5 13.2
+3.9 4.0 4.3
+1.4 2.0 2.0
+5.8 5.7 7.4
+87.6 90.9 91.7
+288 245 155
+248 210 135
+40 35 20
+13.9 14.3 12.9
+153 29 78
+2.14 2.03 2.21
+84 87 84
+1.0 1.1 1.0
+20 23 22
+1 3 4
+6 16 24
+66 68 74
+2.5 2.6 2.8
+0.7 0.8 0.8
+1.8 1.8 2.0
+28,964
+   7,741
+   6,730
+   1,011
+   13.1
+    15.8
+   Managing human resources
+Number of employees
+Average years of service
+Turnover rate
+Employee-awareness surveys
+Employment
+Male
+Female
+Ratio of female employees (%)
+Male
+Female
+Rate of retirement due to personal reasons (%)
+Turnover rate within 3 years of joining the company (%)
+Male
+Female
+Female recruitment rate (%)
+IHI
+IHI
+IHI
+IHI
+IHI
+IHI
+IHI
+IHI
+IHI
+IHI
+IHI
+IHI
+IHI
+IHI
+IHI
+IHI
+IHI
+IHI
+IHI
+16.0
+   14.5
+    3.5
+   2.0
+  6.8
+   Recruitment ratio of people with disabilities (%)
+Re-employment rate of employees at retirement age (%)
+Index
+Scope of data
+and affiliated companies
+Results
+  FY2016
+FY2018
+      91.4
+   153
+  123
+  30
+  19.6
+  37
+  2.39
+  81
+  Diversity and inclusion
+Ratio of employees from abroad (%)
+Local managers at overseas sites
+Number of female officers
+Number of female managers
+1.0
+  23
+   3
+  19
+  Gender diversity
+Ratio of female officers (%)
+Ratio of female managers (%)
+Ratio of female general managers (%)
+Ratio of female section managers (%)
+China, Singapore, and USA
+IHI
+IHI
+IHI
+IHI
+IHI
+IHI
+83
+  3.0
+  0.8
+  2.2
+   46
+
+       Material issue
+Theme
+Index
+Scope of data
+Results
+     FY2016
+FY2017
+FY2018
+FY2019
+         161
+  779
+  132
+  Work-life balance
+Human resource development
+Employees with reduced work hours
+Employees who have taken childcare leave
+Employees who have taken parental leave
+Percentage of employees who return to work after parental leave (%)
+Employees who have taken nursing care leave
+IHI
+IHI
+IHI
+IHI
+IHI
+IHI
+IHI
+IHI and affiliated companies in Japan
+IHI and affiliated companies in Japan
+IHI and affiliated companies in Japan
+IHI and affiliated companies in Japan
+IHI and affiliated companies in Japan
+IHI and 34 affiliated companies
+IHI and 34 affiliated companies
+IHI and 34 affiliated companies
+IHI and 34 affiliated companies
+IHI and 34 affiliated companies
+IHI and 30 affiliated companies
+IHI and 30 affiliated companies
+IHI and 34 affiliated companies
+IHI and 30 affiliated companies
+IHI and 30 affiliated companies
+IHI and 30 affiliated companies
+IHI and 30 affiliated companies
+IHI and 6 consolidated subsidiaries
+IHI
+4
+149
+674
+89
+100
+11
+16.50
+23.90
+3,300
+112,000
+5,800
+46,000
+17.4
+70
+90
+0.9
+2.1
+29
+0.33
+1.31
+—
+68 (1)
+41 (0)
+0 (0)
+27 (1)
+159
+677
+111
+100
+18
+17.63
+22.90
+2,900
+101,000
+5,800
+44,000
+16.7
+69
+91
+0.9
+1.6
+28
+0.57
+1.64
+—
+87 (1)
+52 (0)
+4 (0)
+31 (1)
+158
+689
+113
+100
+6
+18.36
+22.50
+3,300
+112,000
+6,200
+47,000
+16.7
+70
+96
+0.9
+1.7
+28
+0.26
+1.11
+0.165
+55 (0)
+28 (0)
+4 (0)
+23 (0)
+99.2
+  7
+  Average annual paid vacation days taken
+Monthly average overtime (hours)
+Stratified training
+Open lectures
+Participants
+Training hours
+Participants
+Training hours
+19.40
+  21.10
+   3,276
+  106,208
+  3,343
+  25,073
+  21.8
+   Diversity and inclusion
+Average annual training hours per employee2
+Participation rate of medical check-ups (%)
+Participation rate of stress checks (%)
+Absenteeism (employees who take three or more months of leave) (%)
+Presenteeism (employees with restricted hours) (%)
+71
+  94
+  1.0
+  1.6
+  27
+  Occupational health and safety
+Labor-management partnership
+Social contribution activities
+Smoking rate (%)
+Lost time injuries frequency rate
+Total injuries frequency rate
+Rate of occupational diseases
+Occupational accidents3
+Employee union membership rate
+Number of labor complaints received
+Employees3
+Temporary employees3
+Partners3
+Membership rate (%)
+73 74 73
+0.40
+  1.49
+  0.165
+  71 (0)
+  42 (0)
+  4 (0)
+  25 (0)
+   73
+    Corporate citizenship
+Social contribution expenses (millions of yen)
+0
+206
+0 0
+331 635
+519
+0
+    2. Calculated from stratified training and open lectures. FY2019 also includes Quality & Compliance Training.
+3. Figure inside parentheses indicates fatal incidents.
+4. IHI and affiliated companies in FY2016 and FY2017. IHI and consolidated subsidiaries in FY2018 and FY2019.
+47
+
+       Material issue
+Theme
+Index
+Scope of data
+Results
+     FY2016
+FY2017
+FY2018
+FY2019
+         Environment – Reduce Environmental Impact –
+          CO2 emissions (t-CO2)
+IHI and consolidated subsidiaries
+IHI and consolidated subsidiaries
+IHI and consolidated subsidiaries
+IHI and consolidated subsidiaries
+IHI and consolidated subsidiaries
+IHI and consolidated subsidiaries
+IHI and consolidated subsidiaries
+IHI and consolidated subsidiaries
+IHI and consolidated subsidiaries
+IHI and consolidated subsidiaries IHI and consolidated subsidiaries
+IHI and consolidated subsidiaries
+IHI and consolidated subsidiaries
+IHI and consolidated subsidiaries
+IHI and consolidated subsidiaries
+IHI and consolidated subsidiaries
+IHI and consolidated subsidiaries
+IHI and consolidated subsidiaries
+IHI and consolidated subsidiaries
+IHI and consolidated subsidiaries
+IHI and consolidated subsidiaries
+IHI and consolidated subsidiaries
+316,914 330,162 329,602
+— — 80,032
+— — 249,570
+21.3 20.8 22.2
+6,015 6,087 5,828
+— — —
+— — —
+— — —
+— — —
+40.5 38.3 39.3
+A– B B (Leadership) (Management) (Management)
+30,531 28,691 29,010
+— — —
+— — —
+4,169 3,776 4,182
+— — —
+— — —
+— — —
+— — —
+0 0 0
+0 0 0
+0 0 0
+254,227
+   CO2
+Energy
+External evaluation
+Waste
+Water
+Compliance with environmental laws and regulations
+Costs to reduce environmental impact
+Scope 1 (t-CO2)
+Scope 2 (market-based) (t-CO2)
+64,724
+   189,502
+   CO2 emissions intensity5 (t-CO2/100 million yen)
+18.3
+    Energy consumption6 (TJ)
+2,468
+   Climate change
+Fuel consumption (TJ)
+Electricity consumption (TJ)
+Steam consumption (TJ)
+Renewable energy used (TJ)
+1,044
+   1,398
+   0
+   26
+   Energy consumption intensity5 (TJ/10 billion yen) Evaluation of CDP climate change
+Waste generated (tons)
+Toxic waste generated (tons)
+Amount recycled (valuable resources) (tons)
+17.8
+        B (Management)
+   27,564
+  164
+  61,799
+   Circular economy
+Environmental protection
+Water withdrawal7 (1,000 m3)
+4,251
+  Public water (1,000 m3)
+Industrial water (1,000 m3)
+Groundwater (1,000 m3)
+Rainwater, rivers, lakes, etc. (1,000 m3)
+750
+  868
+  1,948
+  685
+   Significant environmental accidents
+Major violation of environmental laws/regulations
+Number of cases IHI paid fines, penalties, etc.
+Investments (millions of yen)
+Expenditures (millions of yen)
+IHI 864
+IHI 73
+713 696
+79 143
+0
+  0
+  0
+   652
+  78
+   5. Net sales as the denominator.
+6. Changed the method of calculating energy consumption since FY2019.
+7. Changed from amount of water consumption to amount of water withdrawal since FY2019.
+48
+
+ Consolidated Financial Statements
+Consolidated Balance Sheet
+Cash and deposits
+Notes and accounts receivable – trade Securities
+Finished goods
+Work in process
+Raw materials and supplies
+Other
+Allowance for doubtful accounts
+Total current assets
+Buildings and structures, net Machinery, equipment and vehicles, net Land
+Leased assets, net
+Construction in progress
+Other, net
+Total property, plant and equipment
+Goodwill
+Software
+Other
+Total intangible assets
+Investment securities Deferred tax assets
+Net defined benefit asset Other
+Allowance for doubtful accounts Total investments and other assets Total non-current assets
+Total assets
+(Millions of yen)
+(Millions of yen)
+         ASSETS
+ Current assets
+ Property, plant and equipment
+March 31, 2020
+ 147,228
+403,832
+18,417
+289,277
+137,848
+83,410
+(4,024)
+154,217
+76,183
+96,579
+26,288
+11,706
+32,522
+112,440
+60,410
+(1,255)
+21
+7
+LIABILITIES
+Current liabilities
+Notes and accounts payable – trade Short-term loans payable Commercial papers
+Current portion of bonds
+ 94,951 377,695 — 23,084 276,238 142,588 77,351
+(4,043) 987,864
+137,156 76,697 99,217 15,962 10,100 28,262
+367,394
+10,032 18,060 5,992 34,084
+117,967 116,802 31 41,763
+(1,376) 275,187 676,665
+1,664,529
+290,043 111,785 — 20,000 88,520 7,384 157,546 28,089 47,968 21,212 1,079 Other   49,483
+Accrued expenses
+Income taxes payable
+Advances received
+Provision for bonuses
+Provision for construction warranties Provision for loss on construction contracts Other provision
+  Non-current assets
+1,076,009
+Total current liabilities
+Bonds payable
+Long-term loans payable
+Lease obligations
+Deferred tax liabilities for land revaluation Net defined benefit liability
+Provision for loss on business of subsidiaries
+and affiliates
+Other provision
+Other 72,067
+Non-current liabilities
+Total non-current liabilities Total liabilities
+Capital stock
+Capital surplus
+Retained earnings Treasury shares
+Total shareholders’ equity
+Valuation difference on available-for-sale securities Deferred gains or losses on hedges
+Revaluation reserve for land
+Foreign currency translation adjustment Remeasurements of defined benefit plans
+Total accumulated other comprehensive income Subscription rights to shares
+Non-controlling interests
+Total net assets
+Total liabilities and net assets
+459,728 1,282,837
+107,165 53,410 184,092
+(1,170) 343,497
+1,063 (190)
+5,321
+2,808 (3,319) 5,683
+659 31,853 381,692 1,664,529
+March 31, 2019
+823,109
+30,000 175,813 14,307 4,953 160,244
+1,212 1,132
+March 31, 2020
+262,587
+185,600
+56,000
+10,000
+88,082
+6,012
+151,790
+26,672
+42,759
+19,929
+1,141
+58,433
+ 909,005
+50,000
+159,223
+22,089
+4,950
+166,193
+1,249
+1,068
+73,259
+     Intangible assets
+NET ASSETS
+Shareholders’ equity
+478,031
+ 1,387,036
+107,165
+51,780
+186,170
+ (15,899)
+  Investments and other assets
+397,495
+7,456
+19,837
+4,869
+ 32,162
+63,514
+Accumulated other comprehensive income
+329,216
+(679)
+(252)
+5,321
+(2,067)
+(5,164)
+  (2,841)
+    235,116
+533
+26,838
+  664,773
+  353,746
+  1,740,782
+  1,740,782
+    49
+March 31, 2019
+
+ Consolidated Statement of Income
+Net sales
+Cost of sales
+Gross profit
+Selling, general and administrative expenses Operating profit
+Interest income
+Dividend income
+Share of profit of entities accounted for using
+equity method
+Foreign exchange gains
+Reversal of accrued expenses for compensation
+for damage
+Other income
+Total non-operating income
+Interest expenses
+Share of loss of entities accounted for using
+equity method
+Foreign exchange losses
+Burden share of losses for delayed construction
+of SPB tanks
+Other expenses
+Total non-operating expenses
+Ordinary profit
+Gain on sale of non-current assets
+Gain on transfer of intellectual property assets Gain on transfer of equity interest of subsidiaries
+and associates
+Gain on insurance claims
+Gain on sales of shares of subsidiaries and
+associates
+Gain on transfer of business Total extraordinary income
+Loss on valuation of investment securities Impairment loss
+Total extraordinary losses
+Profit before income taxes Income taxes – current Income taxes for prior periods Income taxes – deferred
+Total income taxes
+Profit
+Profit attributable to non-controlling interests Profit attributable to owners of parent
+Consolidated Statement of Comprehensive Income
+(Millions of yen)
+(Millions of yen)
+        April 1, 2018 to March 31, 2019
+  1,483,442 1,205,713 277,729 195,241 82,488
+913 1,133
+4,108 5
+— 5,199 11,358
+3,227
+— —
+6,679 18,191 28,097 65,749
+— —
+— —
+4,199 1,108 5,307
+— 1,610 1,610 69,446 16,925 4,304 2,977 24,206 45,240 5,351 39,889
+Profit
+Valuation difference on available-for-sale securities
+Deferred gains or losses on hedges
+Revaluation reserve for land
+Foreign currency translation adjustment
+Remeasurements of defined benefit plans, net of tax
+Share of other comprehensive income of entities accounted for using equity method
+Total other comprehensive income Comprehensive income
+Comprehensive income attributable to owners of parent
+Comprehensive income attributable to non-controlling interests
+45,240
+(808) (163) (12) (605)
+(3,612)
+(443) (5,643)
+39,597
+34,405 5,192
+April 1, 2019 to March 31, 2020
+1,386,503
+1,131,775
+April 1, 2018 to March 31, 2019
+April 1, 2019 to March 31, 2020
+       Other comprehensive income
+  254,728
+  193,931
+   Non-operating income
+60,797
+703
+1,168
+1,340
+ 3,334
+    3,963
+12,991
+2,083
+16,054
+—
+—
+ Non-operating expenses
+6,545
+—
+Comprehensive income attributable to
+18,050
+(1,741)
+(75)
+(6,183)
+(2,031)
+—
+590
+ (9,440)
+ 8,610
+4,487
+4,123
+    35,091
+  Extraordinary income
+32,251
+4,409
+3,837
+2,200
+1,108
+236
+  Extraordinary losses
+11,790
+4,836
+—
+426
+  5,262
+  38,779
+  14,970
+5,759
+ 20,729
+—
+   18,050
+  5,238
+  12,812
+  50
+
+ Consolidated Statement of Changes in Equity
+April 1, 2018 to March 31, 2019
+Balance at beginning of period Changes of items during period
+Dividends of surplus
+Profit attributable to owners of parent
+Purchase of treasury shares
+Disposal of treasury shares
+Change in ownership interest of parent due to transactions with non-controlling interests
+(Millions of yen)
+April 1, 2019 to March 31, 2020
+Changes of items during period
+(Millions of yen)
+ Shareholders’ equity
+ Capital stock
+Capital surplus
+Retained earnings
+Treasury shares
+Total shareholders’ equity
+ Shareholders’ equity
+Capital stock
+Capital surplus
+Retained earnings
+Treasury shares
+Total shareholders’ equity
+ Balance at beginning of period
+ 107,165
+53,410
+184,092
+(1,170)
+343,497
+   107,165
+53,406 153,564
+(879)
+(424) 133
+(291) (1,170)
+24,824
+313,256
+(9,267) 39,889 (424) 133
+4
+(126) 32
+30,241 343,497
+350,217
+(9,267) 39,889 (424) 133
+4
+(126) 32
+1,234
+31,475 381,692
+     Dividends of surplus
+ (10,816)
+(10,816)
+Profit attributable to owners of parent
+12,812
+12,812
+ Purchase of treasury shares
+ (14,851)
+(14,851)
+Disposal of treasury shares
+ 4
+122
+126
+Change in ownership interest of parent due to transactions with non-controlling interests
+ (1,634)
+(1,634)
+Net increase from newly consolidated subsidiaries
+82
+82
+ Reversal of revaluation reserve for land
+ —
+Net changes of items other than shareholders’ equity
+ Total changes of items during period
+—
+(1,630)
+2,078
+(14,729)
+(14,281)
+ Balance at end of period
+ 107,165
+51,780
+186,170
+(15,899)
+329,216
+     Net decrease from newly consolidated subsidiaries
+Reversal of revaluation reserve for land
+Net changes of items other than shareholders’ equity
+Total changes of items during period Balance at end of period
+— 107,165
+(9,267) 39,889
+4
+(126) 32
+4 30,528 53,410 184,092
+559 11,345
+      Accumulated other comprehensive income
+Subscription rights to shares
+Non- controlling interests
+Total net assets
+ Valuation difference on available- for - sale securities
+Deferred gains or losses on hedges
+Revaluation reserve for land
+Foreign currency translation adjustment
+Remeasure- ments of defined benefit plans
+Total accumulated other comprehensive income
+ Accumulated other comprehensive income
+Subscription rights to shares
+Non-con- trolling interests
+Total net assets
+Valuation
+difference on available- for-sale securities
+Deferred gains or losses on hedges
+Revaluation reserve for land
+Foreign currency translation adjustment
+Remeasure- ments
+of defined benefit plans
+Total accumulated other comprehensive income
+ Balance at beginning of period
+1,063
+(190)
+5,321
+2,808
+(3,319)
+5,683
+659
+31,853
+381,692
+ Changes of items during period
+ Dividends of surplus
+ (10,816)
+Profit attributable to owners of parent
+ 12,812
+Purchase of treasury shares
+(14,851)
+ Disposal of treasury shares
+ 126
+Change in ownership interest of parent due to transactions with non-controlling interests
+(1,634)
+ Net increase from newly consolidated subsidiaries
+82
+ Reversal of revaluation reserve for land
+ —
+Net changes of
+items other than shareholders’ equity
+(1,742)
+(62)
+—
+(4,875)
+(1,845)
+(8,524)
+(126)
+(5,015)
+(13,665)
+ Total changes of items during period
+(1,742)
+(62)
+—
+(4,875)
+(1,845)
+(8,524)
+(126)
+(5,015)
+(27,946)
+ Balance at current period
+ (679)
+(252)
+5,321
+(2,067)
+(5,164)
+(2,841)
+533
+26,838
+353,746
+   Balance at beginning of period
+Dividends of surplus
+Profit attributable to owners of parent
+Purchase of treasury shares
+Disposal of treasury shares
+Change in ownership interest of parent due to transactions with non-controlling interests
+Net decrease from newly consolidated subsidiaries
+Reversal of revaluation reserve for land
+Net changes of
+items other than shareholders’ equity
+Total changes of items during period
+Balance at current period
+2,034
+(286)
+5,359
+3,679
+792
+ Changes of items during period
+          (971)
+(971) 1,063
+96
+96 (190)
+(38)
+(38) 5,321
+(871)
+(871) 2,808
+(3,878) (5,662)
+(3,878) (5,662) (3,319) 5,683
+(133)
+(133) 659
+7,029
+7,029 31,853
+   51
+
+ Consolidated Statement of Cash Flows
+Profit before income taxes Depreciation
+Depreciation and amortization on other Impairment loss
+Increase (decrease) in allowance for doubtful accounts Increase (decrease) in provision for bonuses
+Increase (decrease) in provision for construction warranties Increase (decrease) in provision for loss on
+construction contracts
+Increase (decrease) in net defined benefit liability Interest and dividend income
+Interest expenses
+Foreign exchange losses (gains)
+Loss (gain) on sales of short-term and
+long-term investment securities
+Loss (gain) on valuation of short-term and long-term investment securities
+Share of loss (profit) of entities accounted for using equity method
+Loss (gain) on sales or disposal of property, plant and equipment Loss (gain) on transfer of intellectual property assets
+Loss (gain) on transfer of business
+Loss (gain) on sales of shares of subsidiaries and associates Loss (gain) on transfer of equity interest of
+subsidiaries and associates
+Gain on insurance claims
+Decrease (increase) in notes and accounts receivable – trade Increase (decrease) in advances received
+Decrease (increase) in advance payments
+Decrease (increase) in inventories
+Increase (decrease) in notes and accounts payable – trade Increase (decrease) in accrued expenses
+Decrease (increase) in other current assets
+Increase (decrease) in other current liabilities
+Decrease (increase) in consumption taxes refund receivable Other, net
+Subtotal
+Interest and dividend income received
+Interest expenses paid
+Proceeds from insurance income
+Income taxes paid
+Net cash provided by (used in) operating activities
+(Millions of yen)
+(Millions of yen)
+         Cash flows from operating activities
+April 1, 2018 to March 31, 2019
+April 1, 2019 to March 31, 2020
+  69,446 53,200 8,413 1,610
+(587) 2,161
+(5,505)
+(6,517) 909
+(2,046) 3,227 21
+(37) 540
+(4,108) 3,728 —
+(664) (4,199)
+—
+— 25,842
+(19,507) (7,611) (14,794) (15,813)
+178 (8,715) (5,374) (3,309) (1,243)
+69,246 2,520
+(3,179) —
+(22,185) 46,402
+Decrease (increase) in time deposits
+Purchase of short-term and long-term investment securities Proceeds from sales and redemption of short-term and
+long-term investment securities
+Purchase of property, plant and equipment and intangible assets Proceeds from (payments for) sales or disposal of property,
+plant and equipment and intangible assets
+Proceeds from transfer of intellectual property rights Proceeds from transfer of business
+Purchase of shares of subsidiaries resulting in change in
+scope of consolidation
+Proceeds from transfer of equity interest of subsidiaries resulting in change in scope of consolidation
+Decrease (increase) in short-term loans receivable Payments of long-term loans receivable Collection of long-term loans receivable
+Decrease (increase) in other investments (Decrease) increase in other non-current liabilities Other, net
+Net cash provided by (used in) investing activities
+Net increase (decrease) in short-term loans payable Net increase (decrease) in commercial papers Proceeds from long-term loans payable Repayments of long-term loans payable
+Proceeds from issuance of bonds
+Redemption of bonds
+Proceeds from sales and leasebacks
+Repayments of lease obligations
+Decrease (increase) in treasury shares
+Payments made to trust account for acquisition of treasury shares Purchase of treasury shares of subsidiaries
+Cash dividends paid
+Proceeds from share issuance to non-controlling shareholders Dividends paid to non-controlling interests
+Payments from changes in ownership interests in subsidiaries
+that do not result in change in scope of consolidation
+Net cash provided by (used in) financing activities
+Effect of exchange rate change on cash and cash equivalents Net increase (decrease) in cash and cash equivalents
+Cash and cash equivalents at beginning of period
+Increase in cash and cash equivalents from consolidation of
+non-consolidated subsidiaries
+Decrease in cash and cash equivalents resulting from exclusion of subsidiaries from consolidation
+Cash and cash equivalents at end of period
+(652) (18,272)
+7,081 (64,195)
+(393) —
+2,834 (1,003)
+— 188
+(1,147) 37
+(9,739) 5,968 13
+(79,280)
+36,733 — 52,614
+(58,186) —
+— 1,459
+(6,709) (5) (419) (1) (9,241)
+3,855 (3,623)
+(14) 16,463 1,743
+(14,672) 107,323
+523
+(566) 92,608
+38,779
+57,659
+7,497
+426
+(102)
+(1,265)
+(4,913)
+(1,162)
+2,447
+(1,871)
+3,963
+(244)
+722
+5,544
+12,991
+ (2,734)
+(3,837)
+2,107
+(3,826)
+1,737
+(16,877)
+—
+(236)
+(2,200)
+(1,108)
+(31,439)
+(4,845)
+2,139
+(8,704)
+(23,024)
+(10,418)
+(7,042)
+1,058
+3,253
+35
+Cash flows from investing activities
+Cash flows from financing activities
+April 1, 2018 to March 31, 2019
+April 1, 2019 to March 31, 2020
+529
+(23,182)
+6,469
+(66,351)
+6,614
+1,898
+7,352
+84,004
+56,000
+47,055
+(49,527)
+30,000
+(20,000)
+—
+—
+(38)
+(22)
+248
+(11,707)
+2,303
+(9)
+ (75,896)
+436
+(5,276)
+(14,490)
+(361)
+(10,791)
+1,299
+(3,084)
+(1)
+  31,369
+—
+    115,264
+  (1,301)
+  52,577
+  92,608
+  14,510
+     145,484
+299
+—
+   52
+
+  Corporate Data(As of March 31, 2020)
+  Name
+Head office
+President and COO
+Founded
+Incorporated
+Capital
+Employees (consolidated)
+Works
+Branches in Japan
+Overseas representative offices
+Group companies
+Securities code
+Stock exchange listings
+Share unit
+Total number of authorized shares
+Outstanding shares
+Shareholders
+Fiscal year
+General shareholders’ meeting
+Record date for year-end dividend
+Record date for interim dividend
+Shareholder registry administrator/ Special account managing institution
+IHI Corporation
+Toyosu IHI Building, 3-1-1 Toyosu, Koto-ku, Tokyo 135-8710, Japan Tel: +81-3-6204-7800
+Hiroshi Ide
+December 5, 1853
+January 17, 1889
+107.1 billion yen
+28,964
+6
+8
+14
+In Japan: 65
+(47 subsidiaries, 18 affiliates) Overseas: 151
+(128 subsidiaries, 23 affiliates)
+7013
+Tokyo, Nagoya, Sapporo, Fukuoka
+100
+300,000,000
+149,019,280
+(not including 5,660,674 treasury shares)
+77,076
+April 1 to March 31 of following year
+June of each year
+March 31 of each year
+September 30 of each year
+Sumitomo Mitsui Trust Bank, Limited 1-4-1 Marunouchi, Chiyoda-ku,
+Tokyo 100-8233, Japan
+(Contact for mail or telephone correspondence)
+Sumitomo Mitsui Trust Bank, Limited Stock Transfer Agency Business Planning Department 2-8-4 Izumi, Suginami-ku, Tokyo 168-0063, Japan
+0120-782-031 (toll-free in Japan)
+Global Network
+18
+❶ ❷
+19
+       ❸
+❹
+12
+❾ 24 ❽
+1020 11
+21 14 1322
+1615
+Regional Headquarters and Companies
+Americas
+15 IHI Americas Inc.
+16 IHI (CANADA) LTD.
+17 IHI do Brasil Representações Ltda.
+Europe
+18 IHI Europe Ltd.
+19 IHI ALPHA Automotive Technologies LLC
+Asia-Pacific
+20 IHI ASIA PACIFIC PTE. LTD.
+21 IHI (Shanghai) Management Co., Ltd.
+22 IHI Taiwan Corporation
+23 IHI ENGINEERING AUSTRALIA PTY. LTD. 24 IHI (HK) Ltd.
+Unspecified 3% (976)
+Resources, Energy & Environment
+24% (6,812)
+❺
+              ❻
+❼
+                                17
+              23
+       Overseas Representative Offices
+   ❶ Paris
+❷ Algeria
+❸ Rome
+❹ Istanbul ❺ Moscow ❻ Dubai
+❼ New Delhi
+❽ Bangkok
+❾ Hanoi
+❿ Kuala Lumpur ⓫ Jakarta
+⓬ Beijing
+⓭ Taipei
+⓮ Seoul
+                                   Employees by Business Area
+                All employees
+28,964
+Other 7% (2,014)
+                 Aero Engine, Space & Defense
+23% (6,684)
+Industrial Systems & General-Purpose Machinery
+35% (10,079)
+Social Infrastructure & Offshore Facilities
+8% (2,399)
+                 53
+Note: The number of employees is the number of officially employed individuals, including those seconded to the IHI Group from other companies and excluding Group employees seconded to other companies.
+Temporary workers represent less than 10% percent of employees and are therefore not included.
+
+ Major Shareholders
+The Master Trust Bank of Japan, Ltd. (Holder in Trust)
+Japan Trustee Services Bank, Ltd. (Holder in Trust)
+The Dai-ichi Life Insurance Company, Limited
+Trust & Custody Services Bank, Ltd. as trustee for Mizuho Bank Retirement Benefit Trust Account re-entrusted by Mizuho Trust and Banking Co., Ltd.
+Japan Trustee Services Bank, Ltd. (Holder in Trust 5)
+State Street Bank And Trust Company 505001
+IHI Kyoeikai
+Sumitomo Life Insurance Company
+Japan Trustee Services Bank, Ltd. (Holder in Trust 9)
+IHI Employee Stock Ownership Association
+12,330 8.27
+10,770 7.22
+5,406 3.62
+4,597 3.08
+2,937 1.97
+2,882 1.93
+2,677 1.79
+2,262 1.51
+2,233 1.49
+2,214 1.48
+IHI Stock Performance and Average Daily Trading Volume
+(Yen)
+7,000 6,000 5,000 4,000 3,000 2,000 1,000
+2,100 1,800 1,500 1,200
+900 600 300
+ Name
+  Number of shares held (thousand shares)
+  Shareholding ratio (%)
+                                        00
+          (Thousands of shares)
+75,000 50,000 25,000
+4/2010 3/2011
+3/2012 3/2013 3/2014
+3/2015 3/2016 3/2017
+3/2018 3/2019
+3/2020
+                                                  IHI share price (yen: left axis)  ■ Average daily trading volume (thousands of shares: left axis)   TOPIX (right axis)
+           Notes: 1. Number of shares held and shareholding ratios are rounded down.
+2. Shareholding ratios are calculated excluding treasury shares (5,660,674 shares).
+Shareholder Composition
+The Company conducted a consolidation of common stock on a 10 for 1 basis on October 1, 2017.
+Data regarding share price and average daily trading volume prior to the consolidation of common stock is calculated on the basis of the consolidation having been implemented.
+ Financial instrument brokers
+60 shareholders/ 5,409,425 shares
+3.63%
+Foreign individuals and corporations
+609 shareholders/ 40,941,847 shares
+27.47%
+Other Japanese corporations
+846 shareholders/ 5,544,070 shares
+3.72%
+Individuals and others
+75,477 shareholders/ 35,433,679 shares
+23.77%
+Financial institutions
+83 shareholders/ 61,690,259 shares
+41.39%
+  Main Content
+Integrated Reporting
+Latest Information
+      Social, environmental
+      Note: Due to rounding, the total percentage may not add up to 100%.
+About IHI Integrated Report 2020 Scope
+IHI Corporation and its major Group companies
+Period
+This report covers FY2019, which began on April 1, 2019 and ended on March 31, 2020. However, information prior to and after this period may also be included.
+Guidelines
+• International Integrated Reporting Framework, International Integrated Reporting Council
+• GRI Sustainability Reporting Standards, Global Reporting Initiative
+Inquiries
+Please contact us via the inquiry form on the IHI website. https://www.ihi.co.jp/en/contact/
+Cautionary Statement
+This report contains facts, both past and present, about the IHI Group, as well as forward-looking projections based on our current management plans and policies. These forward-looking projections are made with the information available at the time and are based on numerous assumptions, and are subject to changes in the business environment and operations. Actual results may differ materially from the forecasts.
+Guide to Disclosure
+Framework for Sustainability Information Disclosure
+In response to the requests of stakeholders, the IHI Group discloses information through multiple media.
+Website Sustainability https://www.ihi.co.jp/csr/english/
+Website
+Investor Relations (IR) https://www.ihi.co.jp/en/ir/
+Economic
+Integrated Report
+IHI
+Susta nab l ty
+Data Book 2020
+Sustainability Data Book
+• Securities Report
+• Corporate Governance
+Report
+ 54
+
+ Corporate Planning Division
+Toyosu IHI Building, 1-1, Toyosu 3-chome, Koto-ku, Tokyo 135-8710, Japan TEL: +81-3-6204-7800 FAX: +81-3-6204-8608
+URL: https://www.ihi.co.jp/en/
+This report is made with FSC®
+(Forest Stewardship Council®) certified paper.
+90310-001-00-2010-30000FXSS (CK696)

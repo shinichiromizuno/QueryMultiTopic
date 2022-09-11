@@ -1,0 +1,86 @@
+     Management Approach
+Underpinning the activities of the Sumitomo Rubber Group is the question “What can tires contribute to the global environment?”. To this end, it is developing environmentally friendly products with a focus on three areas—fuel efficiency, raw materials and resource saving. While the environment surrounding the automobile industry is facing drastic changes, the Group is pushing forward with development of environmentally friendly products based on its “ENASAVE technology” that allows for “even higher environmental performance.”
+Environmentally Friendly Product Development Themes
+Fossil resource-free materials
+Making
+Reduce (weight-savings and wear resistance)
+Raw materials
+Discarding
+Recycle & reuse (ease of retreading)
+Fuel efficiency (lower rolling resistance)
+Using
+Safety and comfort (grip, braking and
+quietness)
+    Fuel efficiency
+  Resource saving
+ What Can Tires Contribute to the Global Environment?
+45 Sumitomo Rubber Group Report 2019
+Developing Environmentally Friendly Products
+The Group is working to develop environmentally friendly products, and these efforts have included completing “ENASAVE 100” the industry’s first 100% fossil resource-free tire that makes no use of fossil resources in 2013.*
+Sumitomo Rubber Industries announced, at the “45th Tokyo
+Motor Show 2017,” a new technology development concept
+“SMART TYRE CONCEPT” to develop tires delivering safety
+performance and environmental performance simultaneously and
+at a higher level anticipated to be
+required in the mobility society of the
+future.
+(For more details, please refer to page 23 “Advancing Our SMART TYRE CONCEPT.”)
+ENASAVE 100
+* Since synthetic rubber has become the main type (Company’s research)
+Pursuing “Safety and Comfort,” “Economy” and “Quality”
+Quality Management System
+The Group’s quality management system is structured based on ISO 9001 and IATF 16949* automotive quality management system standards.
+Both tire factories in Japan and overseas completed the transition from ISO/TS 16949 to IATF 16949 by August 2018.
+*IATF 16949: Automotive Quality Management System Standard which replaced ISO/TS 16949.
+Improving the Software Technology for “SENSING CORE,” the Next Generation
+Safety Technology
+“SENSING CORE” is a technology that senses and avoids dangers due to road surface and tires in advance, by detecting road surface conditions including slipperiness, tire abrasion, load on each tire, air pressure, etc., and using that data to provide the vehicle with feedback. The algorithm has repeatedly been improved since it was introduced in May 2017, making it possible to detect slipperiness of the road surface in a broader range of driving conditions, contributing to greater driver safety and fewer unforeseen accidents.
+With the aim of commercializing the technology by 2020, we will look to apply the technology,
+Creation of Airless Tires That Eliminate
+the Need for Flat Tire Repairs and
+Air Pressure Monitoring
+The Company is currently working on development of the airless tire technology “GYROBLADE,” a technology composing the “SMART TYRE CONCEPT.”
+The fact that no air is filled in “GYROBLADE” eliminates the need for flat tire repairs and tire pressure monitoring, while improving safety. In addition, the tire contributes to resource and energy savings as spare tires will no longer be necessary. As the airless tire is more prone to heat buildup compared to pneumatic tires, it is equipped with rubber used in fuel efficient tires that provides highly controlled heat generation. In addition, the tire is produced using the High-Precision Metal Core Type Manufacturing System “NEO-T01” that has placed focus on “ultra-high
+TOPICS
+accuracy” in tire manufacturing technology. As exemplified by such facts, the tire is a state-of-the-art technological marvel of the Company. Black sidewalls used in pneumatic tires are replaced with resins for the airless tire, allowing liberal use of colors.
+The Company is committed to working on research and development aiming for earlier commercialization of “GYROBLADE” that
+overturns concepts of
+conventional tires.
+      Vibration Control Dampers Using High Damping Rubber Were Adopted for the Kumamoto Castle Tower
+Vibration control dampers made by the Company were adopted for seismic retrofitting work currently in progress on the Kumamoto Caster Tower.
+The Company’s vibration control dampers employ high damping rubber developed with cutting-edge technology acquired while creating car race tires. The viscoelastic dampers absorb tremors by instantaneously transforming the energy of earthquakes into heat. This high damping rubber is also used in “MIRAIE” ,vibration control system for wooden houses, and demonstrated its features in the 2016 Kumamoto Earthquake.
+Installation of vibration control dampers
+Distinguishing Features
+of the Company’s Vibration Control Dampers
+Resistant to earthquake tremors and swaying due to high wind
+They are effective against major earthquakes, subsequent aftershocks, and wind-caused swaying in everyday life.
+Can be installed in small spaces
+Although they are compact, the dampers sufficiently control vibrations.
+Resistant to repeated tremors
+They are effective for repeat aftershocks because of the stability of the rubber.
+No maintenance required
+It is not necessary to conduct maintenance over the long term. Outstanding durability makes it perfect for earthquakes.
+    Tire-sensing Technology “SENSING CORE” Received the “Tire Technology of the Year”
+The tire-sensing technology “SENSING CORE” received the “Tire Technology of the Year,” which is given to outstanding cutting-edge technology, at the “Tire Technology International Awards for Innovation and Excellence” held within the “Tire Technology Expo* 2019” in Hanover, Germany.
+This is the third time the Company received the award, having won it for the “4th Generation Run-Flat Tire Technology” in 2010 and the new material development technology “ADVANCED 4D NANO DESIGN” in 2017.
+This award shows that both the Company’s pioneering initiatives, which are not limited to tire manufacturing, and the realization of that technology were highly rated, while the environment surrounding the automobile industry is facing drastic changes. The Company will continue to move forward with
+the development of technology and contribute to
+the development of a mobility society that is safe
+and places little burden on the environment.
+ * Held annually in Europe since 2001, the “Tire Technology Expo” is an expo for announcing and exhibiting technology related to tire manufacturing, etc. Tire manufacturers, material manufacturers, public research institutes, and other parties announce research results, and awards are granted to outstanding technologies.
+VOICE
+Aiming to Contribute to Safe and Reliable Mobility Society
+Awards ceremony
+   predict tire damage, etc., and recommend safe routes by analyzing information on slippery locations, and contribute to the development of a mobility society.
+Tire Road Pressure Conditions
+Since announcing SENSING CORE as a more evolved “Deflation Warning System (DWS*) technology in 2017, we have examined its performance improvement and application of the technology, conducted the joint test with OE and given presentations at exhibitions both in Japan and overseas to spread information on the technology.
+Technology to sense a car’s surroundings is considered a necessary and indispensable technology for the next-generation mobility society, in which there will be
+greater use of autonomous driving and sharing.
+As a tire manufacturer, we are promoting the development of the technology with an eye toward commercialization so that we can contribute to the creation of safe and reliable mobility society by always ascertaining
+the state of tires and notifying cars and drivers.
+* Deflation Warning System
+Yusuke Maeda, Planning Department, Automotive System Division
+  Tire Load
+Sensing Core Image
+Tire Wear
+ Sumitomo Rubber Group Report 2019 46

@@ -1,0 +1,3 @@
+Cashless Settlement via Advanced Devices
+Kaga Electronics teamed up with Netstars Co., Ltd. and the Japan Amusement Industry Association to develop a multi-payment settlement system using a smartphone for arcade amusement machines, a first in Japan. In the past, it was standard for coins to be used in amusement arcades, but the introduction of this system allows people to play games without cash using payment apps that employ a QR code or barcode.
+Shifting to a cashless system leads to a reduction in expenses laid out to collect and manage money, which is a real benefit for amusement facilities that face a shortage of labor. A cashless system also provides an environment in which tourists visiting Japan can easily enjoy playing games.

@@ -1,0 +1,80 @@
+Value Creation
+  Introduction of state-of-the-art equipment
+Introduction of low carbon energySpecial feature
+IC Package Plant with Enhanced Production Capacity Ready for the Upcoming 5G and ICT Era
+In the semiconductor market, the progress of 5G and advances in ICT are expected to accelerate digitalization and cloud migration mainly in business activities and, as a part of such trend, the growth of data center market and increased demand for image analysis for on-board devices are anticipated. As a result, further demand and more complex specifications are forecast for high-function IC packages. In view of this situation, IBIDEN decided to make the following capital investments in addition to the capital investment of ¥70 billion in total which was announced in November 2018. By responding to these demands steadily, we will strive to establish a solid position in the field of high-function IC packages and continuously grow our Electronics Operation while making active contributions to the promotion of digital innovations that will enrich our daily lives and economic activities.
+  Capital Investment Outline (Plan)
+  1 Investment details
+Investment in the capacity increase, updating, and promotion of next- generation compatibility of IC package substrate production equipment (Phase two investment)
+Ogaki Central Plant (2nd Building), etc.
+¥60 billion (Total of the investment to be made between FY2020 and FY2022; ¥130 billion together with the amount for the phase one investment)
+The plan is to start operating the Plant’s renewed facilities successively as they are completed from the end of FY2020 with mass production starting from FY2021.
+2 Investment amount
+  3 Location
+4 Period of operation310
+360 10
+5 80
+80
+68
+77
+90 85
+Targeted Management Indicators
+Utilization of IT and digital technologies
+facility
+Labor savings by automated guided vehicles
+ Sales target of the Electronics Operation in FY2022
+Net sales of ¥220 billion
+Operating income ratio
+of over 15%
+We will develop our Electronics Operation into a business that will drive the realization of our Medium-Term Management Plan with the aim of achieving ¥220 billion in net sales and operating income ratio of over 15% in FY2022 by successfully making the largest capital investment in our history and starting operation of the renewed facilities successively as they are completed from the end of FY2020.
+ 400
+  165
+190
+220
+ Introduction Value Creation ESG Management
+Financial and Corporate Data
+In our Ogaki Central Plant, not only will we introduce cutting-edge equipment, but also proactively introduce new solutions in energy, security and other aspects to promote sustainable business operations in order to make it into an environmentally and socially responsible plant.
+By contributing to the realization of a sustainable society through provision of sustainable plants, IBIDEN will continue proactively contributing to digital innovations that will enrich society.
+  Sales increase
+in the Electronics
+Output 15,000kW
+CO2 emission reduction by approximately 36%
+Gas engine cogeneration system
+To minimize GHG emissions, we are promoting the introduction of a high efficiency gas engine cogeneration system (15,000kW in total.)
+By introducing electricity generation using gas engines, we can achieve the high power generation efficiency of 49.5% and reduce GHG emissions by approximately 40% compared to the emissions when using electricity purchased from power companies. In addition, we established an environment in which the energy used by production equipment can be constantly monitored in efforts to realize business operations that use an optimal amount of energy to carry out production activities.
+(*Comparison of 0.3kgCO2/kWh CO2 emission coefficient of gas engine power generation with 0.472kgCO2/kWh general emission coefficient of electric power companies [based on the values released by the Ministry of the Environment and Ministry of Economy, Trade and Industry of Japan in January 2020] )
+1.66 Times Productivity Increase in Target Processes
+Automated Guided Vehicle (AGV)
+To automate low-added-value operations and allow onsite workers to concentrate on high-added-value work processes, we introduced an automated transfer system with OHT 1 and AGV 2 for labor savings.
+By automating the transfer of materials and work in process between processes and plants formerly conducted manually by workers, we will strive to reduce costs and create a safer work environment. We will also establish automated transfers according to priority based on processing data by linking transfer systems to an IT system in order to achieve zero time loss due to waiting, thereby contributing to the realization of a highly efficient production system.
+1 OHT : Overhead Hoist Transfer
+2 AGV : Automated Guided Vehicle
+7.3 Double the global rate of improvement in energy efficiency
+8.2 Achieve higher levels of economic productivity through diversification, technological upgrading and
+innovation
+9.4 Upgrade infrastructure and improve industries to make them sustainable, with increased resource-
+use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes
+Operation by
+    Panoramic View of Ogaki Central Plant
+(compared to FY2018)
+High density ultra-fine wiring process
+The progress of 5G and ICT has realized high-speed communication and increased data capacity, and as a result, compatible package substrates have become larger in size and have a higher count of layers. To meet such demand, we need to boost our production capacity to ensure high quality and high efficiency.
+A new production building called Cell 5 being built in our Ogaki Central Plant features a high level of cleanness that incorporates the concepts of semiconductor plants and introduces cutting-edge processing technologies and processes ahead of its time. The highly competitive Cell 5 will become a plant capable of producing high density package substrates with many layers at stable quality.
+Fully-networked
+Smart manufacturing system
+For the maximization of production efficiency, stabilization and enhancement of product quality, and cost reduction, we utilize ICT for networking all equipment information.
+Currently, we are accumulating not only information on production equipment abnormalities and production results but also data linking the operation information of equipment and product quality (output) with processing information (input) in order to produce more advanced data analysis that will enable us to make improvements faster.
+We are aiming for the derivation of optimal solutions with the introduction of AI in the future.
+¥100 billion   (Billions of yen) 500
+  400 300 200 100
+291.1 295.9
+72.7 75.4
+102.5 88.4 116 132.2
+FY2018 FY2019
+(Results) (Results) (Forecast)
+New products
+Other
+Ceramics
+Electronics
+ 25 IBIDEN Co., Ltd. Integrated Report 2020
+IBIDEN Co., Ltd. Integrated Report 2020 26

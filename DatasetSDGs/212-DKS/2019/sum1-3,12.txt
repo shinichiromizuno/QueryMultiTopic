@@ -1,0 +1,78 @@
+   Quality and Safety Management
+Quality Assurance/Quality PolicyOur Company established its Quality Policy and Quality Assurance Management Regulations in 1995. Providing high-quality, safe and reliable products based on quality assurance (QA), we are working to realize improvements in customer satisfaction.1.We establish quality-related management standards for each department that cover the entire process, from product planning to customer service through design/development, manufacturing and sales. Through the appropriate operation of such standards, we strive to provide high-quality products that are safe and reliable, maintain and improve product quality, and provide quality assurance for our customers.
+2.To effectively bring about quality assurance functions throughout the entire Company, we establish and maintain a quality management system.
+3.All our employees must observe this basic concept of quality assurance and carry out tasks in accordance with the Quality Assurance Management Regulations.
+Quality Policy
+ Quality Control System
+As a chemicals manufacturer, we are committed to the maintenance and improvement of product quality using ISO 9001 as a basic tool in our quality management system. We execute PDCA cycles to provide products and services that comply with customer requirements as well as with laws and regulations. We work on day-to-day activities̶such as production control, corrective measures and preventive actions relative to nonconformities (such as complaints/abnormalities), audits, change control and training̶and devise improvements by conducting continuous reviews of the management system. While aiming to improve customer requirement satisfaction levels, we are promoting the further integration of ISO and business activities.
+ ● QC System Diagram Management Committee
+RC Promotion Conference
+Quality Assurance (PL) Meeting
+QMS Committee
+ Business Headquarters
+Quality Assurance Department
+Production Control Headquarters  R&D Department
+Production Department
+Quality Control Section
+  Product quality review meetings at each production base
+(General Manager of) Branch  Procurement & Logistics Center
+Sales Department
+Quality Assurance (QA) System
+We view QA as fundamental to our business, and as we keep our Quality Policy in mind, we continue to promote QA activities from product design/development, manufacturing and sales to customer service through each relevant department. Having established a QA Department, independent from the Business Headquarters, R&D Headquarters and Production Control Headquarters, in April 2018, the Department is charged with taking the lead role in supervising quality assurance and in overall coordination between our departments, while working on the establishment and strengthening of the QA system. In line with the diversifying customer demands and the heightened requirements for product quality from a social perspective, we remain committed to working to ensure product safety and quality, as well as trying to prevent quality-related issues before they arise.
+● QA System Diagram
+   General Manager of Quality Control Department
+Chairman CEO
+ Management Committee
+  Director i/c Environment, Safety & QA
+  34 DKS REPORT 2019
+Managers of Quality Control Sections at Yokkaichi, Ohgata, Shiga
+Quality Assurance (PL) Meeting QMS Committee   Director i/c Business Headquarters
+Executive General Managers of Business Divisions
+Director i/c R&D Headquarters
+Director i/c Production Control Headquarters
+  General Manager of Corporate R&D Department
+ General Managers of Sales Departments
+General Managers of R&D Departments
+General Managers of Production Departments
+  Product Safety (chemical substance management from design development)We have in place a product development system based on our environmental and safety philosophy, which is centered on“contributing to the sustainable development and realization of happy societies by considering human health, safety and environmental preservation throughout the life cycle of each product, from development to scrapping.”Ensuring compliance with laws and regulations related to chemical substances in Japan and overseas, we formulate chemical substance management rules, conduct the appropriate management of chemical substances, and undertake design and development that as far as possible considers the environmental impact. We are also promoting the building of a system that enables the appropriate relaying of information on the chemical substances contained in our products and information on applicable laws and regulations throughout our supply chains.
+● Product Safety Mechanism Search & Investigation
+Required Quality Planning
+● Investigation of technological information
+● Investigation of laws and regulations
+Design & Development
+Product Design
+● Realization of quality
+● Safety confirmation
+● Environmental impact assessment
+● Investigation of conformity with applicable laws and regulations
+● Investigation of raw materials
+Research & Preproduction
+● Production technology review
+● Product evaluation (safety/packaging)
+● Compliance with applicable laws and regulations
+● Environmental impact assessment
+● Securing of raw materials
+● Creation of SDS and technical documents
+Commercial Production (Product Sales)
+● Quality control
+● Response to improvement requests ● Provision of product information ● Regulatory compliance
+● Environmental conservation
+● Securing of distribution safety
+ Customers & Local Communities
+   Securing of Product Safety
+Process Safety and Disaster Prevention
+   Process Review
+Commercial Production Review
+  Occupational/Process Safety & Disaster Prevention
+Stable Supply
+  Technical Service
+ Compliance with Chemical Substance Laws and Regulations
+ With the goal of obtaining the latest information and enacting management measures to ensure compliance, we continue to monitor trends in not only domestic laws such as the Act on the Evaluation of Chemical Substances and Regulation of Their Manufacture, etc., the Industrial Safety and Health Law, the Food Hygiene Law, and the Poisonous and Deleterious
+Substances Control Law but also the Export Trade Control Order in regard to products for export, and overseas laws and regulations, including those dealing with conflict minerals and rules regarding the registration of chemical substances. We also focus on the sharing of information by using groupware to transmit outlines of revisions to laws and regulations.
+Provision of Product and Technical Information
+ Our products are utilized in a variety of industrial fields, and we provide product and technical information tailored to the characteristics of each product and service. We always respond to requests and inquiries from our customers quickly, adequately and in good faith. We also provide information on hazardous materials to ensure safe handling, including that relative to product properties, applicable laws and regulations, transportation, handling methods and emergency measures by means of safety data sheets (SDS). We provide information using chemSHERPA, an information transfer scheme for chemicals contained within products throughout the supply chain. We also promote product labeling and issue
+SDS related to compliance with the Globally Harmonized System of Classification and Labelling of Chemicals (GHS) and compliance with local regulations for exports to the United States, Europe and Asia. We have continuously updated our SDS and labeling to remain in compliance with the revised Act on the Evaluation of Chemical Substances and Regulation of Their Manufacture, etc., and the Industrial Safety and Health Law, as well as the Poisonous and Deleterious Substances Control Law. When introducing our products, we not only focus on close communication with our customers through daily business meetings but also disseminate information through brochures and technical documents.
+Efforts to Reduce Complaints/Nonconforming Products
+ Because we position quality-related nonconformity (complaints/deviation) as an important issue for securing quality, we check any appearance of nonconformity, determine the cause and verify the corrective action and its effectiveness to prevent reoccurrence. We also attempt to handle any product complaints we have received quickly, adequately and in good faith. Information on complaints and nonconformity is managed centrally via the Company’s intranet, and we implement appropriate measures to prevent any similar recurrences of nonconformity by the
+involvement of peer groups. In addition to our efforts aimed at preventing the reoccurrence of nonconformity, we conducted a review of our system and made improvements, the priority issue being to respond to our customers with speed and the appropriate measures whenever such an event occurs. In the years to come, we will continue to strive to improve customer satisfaction by focusing on being imaginative and creative while promoting ongoing efforts to reduce nonconformity and prevent any recurrence should an incident arise.
+ DKS REPORT 2019 35

@@ -1,0 +1,53 @@
+ Digital Business
+The value provided by digital business is geared towards achieving SOMPO’s Purpose
+Seeking to foster the security, health, and wellbeing of customers and help achieve the SDGs, we make full use of digital, AI, and data analysis technologies to provide new customer value in various ways. These include promoting behavioral change through risk visualization, improving quality of life (QoL) through various health support initiatives, and furthering the advancement of women.
+  New Mid-Term Management Plan
+  Vision of the new MTMP
+New digital technology businesses
+RDP
+Real data collaboration with other companies
+SOMPO new business real data
+Solutions going beyond the boundaries of insurance
+       SOMPO Light Sompo Palantir Vortex AUX Technologies
+Japan
+SOMPO’s Strengths
+ABEJA
+    Leading player in insurance and nursing care businesses
+20 million insurance customers
+We will target business expansion spearheaded by SOMPO Light Vortex (our core digital business compa- ny established in July 2021), Sompo AUX (BtoB auction business), and Palantir Technologies Japan (established in November 2019 as a joint venture between Sompo Holdings and Palantir Technologies Inc.).
+Through digital transformation, SOMPO Light Vortex seeks to clearly define the Group's vision of what it wants to be and the society it wants to create from a long-term perspective, as well as the issues and solutions that must be overcome to achieve this vision. Starting with the healthy aging field, it also offers new products and ser- vices utilizing digital technology with the aim of providing new value to customers and society as a whole.
+Sompo AUX engages in the auction and sale of acci- dent-damaged vehicles, with an annual volume of 50,000
+  100,000 60,000 Know-how/
+nursing care employees data network user data
+Nursing SOMPO care PF existing real data
+Disaster preven- tion PF
+ vehicles taken in by the Group alone. It is expanding its business with a view to handling non-accident-damaged vehicles in the future.
+Palantir Technologies Japan uses the knowledge of Palantir Technologies Inc.—a global big data analytics company with an advanced platform for data-driven busi- ness operations and decision-making—to accelerate the Group’s efforts to solve social issues in Japan.
+We aim to develop the digital business into a pillar
+of revenue through alliances with U.S.-based Palantir Technologies Inc., as well as ABEJA, which has an excellent track record in AI and data analysis, and other companies, and by using strategic investments to find quality startups. We will also use real data obtained from the digital business to expand the functions of our RDP.
+ Target Profile
+Insurance provides peace of mind through the payment of benefits when unexpected events occur, such as accidents and illness. Through the digital transformation of society, however, we aim to prevent these unexpected events and mitigate accidents, disasters, and illness, and thus can create a world of security, health, and wellbeing that does not require insurance.
+Strengths, Opportunities and Risks
+  Strengths
+• Real data obtained from business activities (20 million people in insurance business; 100,000 people in nursing care business)
+• Technical capabilities and network of strategic partners, such as Palantir and ABEJA, that excel in data analysis and AI applications
+• Global R&D system (Tokyo, Silicon Valley, Tel Aviv)
+• Rigorous recruitment of external talent (executives, business development, engineers, data scientists, UI/UX
+designers)
+• Track record of verification tests using advanced digital technologies
+Opportunities
+• Growing need for increased productivity in all industries due to decline in active workforce and scarcity of diverse and specialized human resources
+• New business opportunities using real data in a “connected society” through IoT, CASE, smartification, etc. • Adapting best digital transformation practices from overseas to the Japanese market
+Risks
+• Emergence of new players and business models unfettered by boundaries of ownership, use, industry, or business category (characterized by development of sharing economy)
+• Emergence of new risks, such as cyber attacks, new infectious diseases, and intensification of natural disasters
+• Excessive competition to attract digital talent (difficulty in securing and training talent) Specific strategies in the new MTMP
+Create ecosystem of digital solutions
+We will develop products that solve the daily issues of our customers in collaboration with startups with cutting-edge technologies, then refine those products to expand their functions, and finally collaborate with other companies to create an ecosystem. In these ways, we will build a theme-specific solution platform that contributes to people’s security, health, and wellbeing. SOMPO Light Vortex will establish a customer-driven solution development system and will start working on the healthy aging field as its first digital solution challenge.
+SOMPO Light Vortex
+Lv.3
+Create ecosystem through alliances
+Lv.2 Expand functions
+Lv.1 Launch products       142
+Sompo Holdings, Inc. Integrated Annual Report 2021
+Sompo Holdings, Inc. Integrated Annual Report 2021 143

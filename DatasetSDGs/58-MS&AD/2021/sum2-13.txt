@@ -1,0 +1,73 @@
+ Strat CSV x DX: Case 3
+TCFD Support
+ Social Impact
+Number of sites analyzed by Jupiter Intelligence
+ • Companies can understand in advance potential damage caused by natural disasters to their factories and offices.
+• Strengthening capability to respond to huge accumulated risk from natural disasters.
+• Risks of investment and loan portfolios can be understood at financial institutions.
+• Sophisticated business decisions (location and supplier selection, portfolio review, disaster prevention measures, etc.) can be made based on climate change factors, leading to improved resilience for society as a whole.
+Economic Impact on the Group
+Growth rate
+of contracted consultations in the field of climate change
+6,110 sites
+(Between July 2020 and end of June 2021)
+ Year-on-year increase of approximately
+• By providing support related to key management issues, medium- to long-term relationships with client companies are strengthened, helping to further dealings such as with insurance, services, and consulting.
+• Expanding insurance market owing to synergies with insurance sales.
+• Increased number of underwriting/product development and services in light of climate change risks, and more sophisticated natural disaster risk management in the MS&AD Insurance Group.
+• Through our impressive track record, enhancing the reputation of the Group and resulting in growth in consulting-related outsourcing
+70%
+(FY2020)
+Providing services that assess impacts of natural
+Creation of Business Opportunities
+Rollout of one-stop services including support for natural disaster countermeasures in Asia, where the risk of flooding is high
+disaster risk associated with climate change to
+ support corporate information disclosure
+In recent years, natural disasters, such as droughts and large-scale floods, have occurred frequently all over the world, greatly impacting corporate activities. Under these circumstances, the Task Force on Climate-Related Financial Disclosures (TCFD) established by the Financial Stability Board (FSB) recommends that companies disclose climate-related risks as part of their financial information.
+Companies are expected to assume a number of different climate change scenarios and explain how resilient their businesses, strategies and financial plans are. As such, MS&AD InterRisk Research Institute & Consulting has partnered with Jupiter Intelligence of the United States,
+a company in which MS&AD Ventures invests, to develop a service that
+  analyzes and assesses the impact of intensifying climate change on companies based on future scenarios.
+Total global GDP impacted by river flood damage at a frequency of once-in-10 years in 2030
+$17 trillion
+Estimated that half of this will occur in Asia, especially China
+and India
+ Social Issues
+Actualization and Further Intensification of Climate Change Risks
+• There are concerns about the actualization of climate change risk and its further intensification.
+• The TCFD Recommendations, which require companies and financial institutions assess, manage, and disclose future climate change risks, are rapidly becoming mainstream. In scenario analysis, it is necessary to consider the physical risks, such as natural disasters that will likely be exacerbated by the impact of climate change, as well as various implications to business due to the transition to a zero-carbon society (transition risks).
+• Recently, an increasing number of companies are conducting quantitative impact assessments using carbon pricing assumed for each scenario, but for physical risks, with the exception of some financial institutions, there are only a limited number of detailed quantitative assessment cases based on climate change models.
+Number of institutions (worldwide) supporting TCFD recommendations
+Solutions
+Climate-Related Information Disclosure Support in Collaboration with Startups
+• Collaboration between MS&AD InterRisk Research Institute & Consulting and Jupiter Intelligence, an expert in climate models.
+• Jupiter Intelligence’s system analyzes the risk of natural disasters, such as floods and storm damage, with a high level of accuracy (90m x 90m) all over the world.
+• The needs of companies with assets, manufacturing bases, and supply chains in Asia, where the risk of flooding due to climate change is highest, will expand.
+• Offering services other companies cannot by providing a one-stop service up to support for on-site natural disaster countermeasures.
+• By expanding from analysis of business sites to assessments of value chains, it will be possible to provide new services.
+• The scope of assessment indicators will increase due to improved model accuracy in Jupiter Intelligence's technology and the formation of a loan portfolio valuation scheme for financial institutions that
+• Through the Group’s services, Sumitomo Mitsui Banking Corporation discloses information in line with TCFD recommendations with sophisticated climate change scenario analysis. Climate change scenario analysis methods using AI technology may spread widely to Japanese companies as the basis for future information disclosure.
+• •
+According to future temperature rise scenarios, AI simulations are conducted from 2020 to 2100 in five-year increments to predict maximum wind speeds in storms and flood depths.
+Estimated economic damage caused by flooding is also calculated using information held by MS&AD InterRisk Research Institute & Consulting. This supports corporate information disclosures in line with TCFD recommendations.
+utilize technology.
+(World Resource Institute 2020 Report)Climate Change Impact Assessment Service for TCFD
+ Customer Data
+• Latitude and longitude of the site to be assessed
+• Asset value and number of floors in assessing the financial impact of flooding
+ River floods and coastal floods
+Assesses flood depth and financial impact
+ Assesses maximum wind Storm speeds or probability of
+exceeding a certain wind speed
+ Heat wave
+Assesses the average number of days per year when the maximum temperature exceeds 35 degrees CelsiusAssessment • Risk trends, overall and by site report • Financial impact of flood disasters, etc.
+ 1,400 1,200 1,000
+800 600 400 200
+0
+Operating companies
+Financial institutions
+Global Assessment of the Impact of Climate Change
+on Natural Disaster Risk
+Our climate risk forecasting tool, Global Climate Score, is the most comprehensive and scientifically accurate service. It incorporates all of the world’s best scientific climate models to forecast impacts for the requirements of customers around the world.
+Most companies in the world continue to operate without an accurate picture of the climate change risks that affect them. Using this service is a huge step forward in terms of changing the management process. We have already heard from our customers that they are now able to predict risks more accurately.
+ 89 MS&AD INSURANCE GROUP HOLDINGS
+MS&AD INSURANCE GROUP HOLDINGS 

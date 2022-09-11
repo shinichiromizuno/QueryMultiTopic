@@ -1,0 +1,192 @@
+Review of Operations
+SHAPING A BETTER FUTURE
+  Steering Business
+JTEKT applies technologies cultivated in electric power steering (EPS) to contribute to the realization of a safer and more comfortable car society and autonomous driving.
+• Supporting realization of a society without traffic accidents through autonomous driving
+• Contributing to the greater fuel efficiency of vehicles, not only passenger vehicles but also commercial vehicles
+• Establishment of global development bases and nurturing the development of human assets to contribute to enhanced technological capabilities in each country
+Maintain top share in steering and continue to be the No. 1 & Only One as a top runner of advanced steering technologies such as ADAS*6
+ Hirofumi Matsuoka
+General Chief of Steering Systems Business Unit
+Solutions for social issues (from the perspective of the SDGs)
+Medium-term policies
+ Description of business
+Providing steering systems, which assume the basic vehicle function of “turning.” The main product lineup includes column assist-type EPS*1 and rack assist-type EPS*2 that provide EPS for a variety of automobiles, from passenger cars to large commercial vehicles.
+J-QuAD DYNAMICS image
+Integrated control for autonomous driving
+   Value created in fiscal 2018
+Strengthening development of software for autonomous driving
+• Established J-QuAD DYNAMICS Inc., a joint venture company for system development of integrated control for autonomous driving, gathering the Toyota Group’s technical knowledge of autonomous driving and vehicle motion control.
+EPS application area expansion
+• Developed EPS (intermediate assist-type EPS*3) for multipurpose vehicles used for agricultural, off-road, and other applications
+With the No. 1 market share, JTEKT will leverage its knowledge as an expert of “steering feeling” to contribute to the provision of comfortable driving, safety, and security.
+Research and development of advanced technologies for realizing autonomous driving
+• Establish JTEKT IT Center Akita Corporation as a software development site to strengthen electronic control technologies and create local employment opportunities
+• Expand software development site to the Higashi-Kariya Plant for integrated development of the V-shaped process*7, from system requirements to evaluations. Further strengthen development resources by expanding overseas offshore sites and increasing efficiency.
+• Contribute to a comfortable driving and zero traffic accident society through technologies that support autonomous driving, hands-on detection*8, and steering authority transfer systems*9
+Improve EPS cost competitiveness
+• Improve procurement flexibility through in-house production of MCU*10, optimize costs, and further reduce costs by reducing production costs through line automation
+• Develop next-generation column assist-type EPS through innovative cost reductions that take advantage of regional characteristics and collaborate with Group companies to increase competitiveness and expand market share in developing countries that are growing
+Strengthen global project management system
+• Promote global standardization in design, production, and management.
+• Establish cross-functional management systems for each project to efficiently develop and
+produce globally competitive products
+Steering angle, steering torque
+Steering authority Transfer control Sensor
+Brakes
+Steering
+Sensor
+    Sensor information
+JTEKT’s steering development base
+Software development
+Manual steering
+(Assist control)
+Autonomous steering (Angle control)
+ ・Expanded sales to agricultural and construction vehicles that will be autonomous in the future Rack assist-type EPS business expansion
+Intermediate assist-type EPS
+JTEKT IT Center Akita Corporation
+Akita
+Sayama Nara
+      • To strengthen the global supply system further, we set up production sites for dual pinion-type EPS in four regions (Japan, China, North America, and Europe) and rack parallel-type EPS in three regions (Japan, China, and North America).
+1. EPS where the motor responsible for the assist is attached to the column
+2. EPS where the motor responsible for the assist is attached around the steering rack
+3. EPS where the motor responsible for the assist is attached to the intermediate shaft
+4. EPS where the motor responsible for the assist is attached around the rack bar with two pinion shafts
+5. EPS where the motor responsible for the assist is attached parallel to the rack bar
+Higashi-Kariya Office
+ JATJ rack parallel-type EPS line-off ceremony
+Started mass production of rack parallel-type EPS at JATJ in China (January 2019)
+6. Advanced Driving Assistant System: Advanced driving assistance system to support comfortable driving and prevent accidents
+7. Development model showing correspondence between
+development and testing processes within system development 8. EPS sensor detects driver operation intention
+9. Technology that converts steering power safely and accurately
+by harmonizing operation intention between the system and
+driver
+10.Motor integrated computer unit
+Higashi-Kariya
+HanazonoNet sales and operating income ratio
+Sales ratio
+Steering share
+10 20
+  Net sales
+Operating income ratio
+Fiscal 2018
+Domestic: 30%
+Strengths
+Fiscal 2018
+30
+26%
+ Focus
+Social contributions in public transport and logistics fields through autonomous driving and precise docking controls
+JTEKT is conducting research in conjunction with venture companies and universities on the practical application of autonomous driving and precise docking control technologies*11 required for next-generation transportation systems. We aim to help resolve social issues in public transportation and logistics by providing safety and security while eliminating driver shortages.
+Wheelchair boarding Truck platooning image (± 40–20 mm width, stop)
+11. Control that automatically stops a bus or small transportation vehicle at a predetermined location (such as a bus stop) with a high degree of accuracy
+  Global Topics
+Global top share in power steering, further expansion of supply system
+In order to promote sales growth in India, where the market is expected to expand, we are increasing the number of production sites. In addition, a production site was built in Morocco to establish a business site in North Africa. We aim to start mass production in 2020.
+Bird’s-eye view of the JAMO Plant
+  JIN inaugural ceremony
+(Billions of yen) 800
+600 400 200
+(%) 10
+5
+Overseas: 70%
+(%) 0
+JTEKT
+Company A Company B Company C
+               00 (FY ) ’16 ’17 ’18Business environment analysis
+• Accelerating efforts to realize an autonomous driving society
+• Emerging market growth and severe EPS competi- tion
+• Globalization of projects and sophistication of customer requirements
+Number of automobiles manufactured in China, ASEAN, and India
+• • •
+One out of every four cars in the world is equipped with JTEKT steering
+Expanding business for Japanese customers as well as European customers
+Column assist-type EPS, dual pinion-type EPS, and rack parallel-type EPS in the main product lineup, which can provide EPS to all passenger cars
+ (Millions) 50
+40 30 20 10
+0 ’18
+No. 1 share
+    China
+ASEAN
+India
+Utilizing these three strengths, JTEKT will contribute to the realization of a car-oriented society where everyone
+ 33
+34
+Wide customer base
+can move safely, securely, and comfortably
+Abundant lineup
+ ’19
+’20
+’21
+’22
+’23
+’24
+ Review of Operations
+SHAPING A BETTER FUTURE
+  Driveline Business
+Through the energy-saving, improved travelling safety, and other benefits provided by our driveline parts, we will contribute to the creation of a safer and more secure society. We will also contribute to the enjoyment of driving through vehicle torque control.
+•Contributing to the realization of a safer automotive industry by producing high-quality, innovative parts that enhance automobile turn and stop capabilities
+• Contributing to the realization of cars with higher fuel efficiency through the provision of highly efficient drive parts
+• Contributing to the sustainable development of the industry as a whole by providing products that meet the needs of EVs
+ Takumi Matsumoto
+General Chief of Driveline Systems Business Unit
+Solutions for social issues (from the perspective of the SDGs)
+Medium-term policies
+ Description of business
+Providing driveline products for vehicles, torque control devices (TCDs), hydraulic systems and valve units for fuel cell vehicles (FCVs), etc., related to the basic vehicle function of “driving.”
+With the aim of exponentially advancing our position as a driveline system supplier, we will accelerate strengthening of our system development capabili- ties and engage in product development for vehicle electrification.
+ Value created in fiscal 2018
+Development of a drive shaft providing outstanding high-efficiency and quietness
+• Development of highly efficient and quiet drive shaft that contributes to fuel economy and quietness in anticipation of the era of autonomous driving and vehicle electrification.
+In the future, we will expand the size deployment of this drive shaft and support the realization of cars with better fuel efficiency.
+Received an order for a new application product for the era of vehicle electrification
+• Received an order for the first motor cooling electric oil pump (EOP) in Europe in anticipation of the era of vehicle electrification.
+Going forward, JTEKT will contribute to sustainable development of the automotive industry through the increase in EVs, specifically with the start of production in Europe, where demand for EVs is expected to increase.
+Sales launch of new-function vehicles equipped with JTEKT products
+• Sales launch of RAV4 with Toyota Motor’s “Dynamic Torque Vectoring AWD”*1 function equipped with ITCC*2.
+Going forward, we will continue to contribute to further improving the environmental and safety performance of vehicles by improving vehicle fuel efficiency, driving stability, and running performance through the provision of products with new technologies.
+Drive shafts
+Strengthen development of driveline systems
+• Evolution from conventional modules to system suppliers not only to propose individual products to customers but also to propose driveline systems themselves.
+Work to further improve proposal capabilities to promptly propose systems to customers
+Strengthen engineering sales capabilities
+• Establish a system to anticipate market trends in each region, including CASE*4, and conduct strategic global promotions based on market trends.
+Through this promotion system, we will strengthen our engineering sales capabilities so that we can carry out proposal activities that exceed customer expectations.
+Strengthen global foundation
+•The demand for automobiles is rising mainly in developing countries, and the global development and production system will be strengthened to meet the demand in each country. Establish a system to provide products that meet the needs of customers in each region in an
+optimal system
+4. Acronym that stands for Connected, Autonomous, Shared, and Electric
+Winter test
+Torsen Type B
+JTEKT Automotive South Carolina
+    Motor-cooling EOP
+      Net sales and operating income ratio
+Ratio of sales by product
+Sales ratio
+(Billions of yen) 200
+150 100 50
+(%) 10
+5
+Other
+Hydraulic systems
+Overseas: 26%
+Net sales
+Operating income ratio
+Fiscal 2018
+Drivelines
+AWD systems
+Strengths
+Fiscal 2018
+Domestic: 74%
+1. Intelligent Torque Controlled Coupling: A mechanism that detects the difference between front and rear wheel rotation and achieves optimal front and rear wheel torque distribution by electronic control
+2. The rear wheel torque is controlled independently on the left and right sides, and during 2WD driving, the rotation of the rear wheel drive system is stopped and loss is greatly reduced.
+Dynamic Torque Vectoring AWD
+   Focus
+Product lineups compatible with
+EV, HV, ICE*5, and all other vehicles
+Up to now, we have deepened and enhanced our drive shaft and hydraulic system product lineups and strengthened our development capability for various vehicles. As a result, our ability to propose functions and systems required by customers has been improved. Going forward, we will continue to develop high-performance products, expand driveline products that offer outstanding rigidity and quietness, hydraulic systems with smaller and lighter products in line with vehicle specifications, and AWD with electrification-compatible products in an effort to strengthen Only One proposals that leverage our strengths.
+5. Internal combustion engine: Machine that generates power through the internal combustion of fuel
+ Global Topics
+Strengthening global response capabilities, from development to production
+In tandem with the development of production systems in North America and the ASEAN region, which are our overseas market targets, we will promote human resources development to accelerate application and software development. At the present, we are enhancing development personnel in Japan, and in order to retain human resources in each region overseas we will strengthen human resources development and retention to meet the needs of the coming era, including enhancements to technical center functions and alliances with other companies.

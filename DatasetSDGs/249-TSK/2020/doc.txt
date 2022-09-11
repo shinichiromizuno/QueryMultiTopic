@@ -1,0 +1,2625 @@
+            
+  Corporate Policy
+For more than a century since our founding in 1905, our Company has consistently responded to the needs of society and the people living within it through the provision of our technologies. Specifically, we have been offering systems and plant facilities which serve as foundations for industry, water and wastewater facilities essential to our daily life, as well as environmental protection facilities.
+We plan to continue to advance our technologies still further in line with our corporate policy: to make contribution to the society, the company will dedicate to the industry development and environmental protection by making advantage of its leading edge technology.
+Additionally, through environmental technologies, we will help combat global warming, a serious issue the entire global community faces.
+1. To make contribution to the society, the company will dedicate to the industry development and environmental protection by making advantage of its leading edge technology.
+Primarily targeting satisfaction of market demand, the company will provide best products and services possible to customers.
+While adhering to originality and vitality-based sustainable development, the company is proud to be a profitable enterprise that deserves the loyalty of its staff.
+Tsukishima Kikai, contributing to the world with environmental technologies.
+ 1.
+1.
+    Contents
+1.About Tsukishima Kikai
+Top Message 3 About Tsukishima Kikai 7 History and Development of Tsukishima Kikai 9 Tsukishima Kikai’s Value Creation Process 11 Tsukishima Kikai’s Strengths 13
+3.Value Creation Results
+Financial Highlights 23 Non-financial Highlights 25 Water Environmental Business 27 Industrial Business 33 International Business Development 37 R&D 39
+4.Business Foundation
+Corporate Governance 41 Compliance 42 Executive team 43 Risk management 44
+5.Financial Data
+Consolidated Financial Data 45 Consolidated Balance Sheets 47 Consolidated Statement of Income 49 Consolidated statements of comprehensive income 50 Consolidated Statement of Cash Flows 51
+Company Profile 53 Editorial Policy 54
+About the cover
+The cover presents images of water and vegetation, symbolic of the recycling-based society we seek to achieve, in addition to our Company’s equipment and technologies that help realize this society.
+  Tsukishima Kikai Group
+Integrated Report 2020
+TSUKISHIMA KIKAI CO., LTD.
+                     2.Value Creation Strategy
+Medium-term Management Plan Strategies for Promoting ESG Activities Promoting ESG Activities
+15 19 21
+  Terminology
+EPC:Engineering, Procurement, and Construction of plants and machinery
+O&M(Operation and Maintenance ):After-sales services including operation management, repairs, and parts supply
+P F I ( Private Finance Initiative ) : Method for efficiently providing public services, using private sector funding and expertise in the design, construction, maintenance, and operation of public facilities and other projects
+DBO(Design Build Operate):Business method similar to PFI under which the public sector is responsible for raising funds while the private sector handles design, construction, and operation
+         1 / Integrated Report 2020
+Integrated Report 2020 / 2
+
+ Message from the Chairman
+ We promote the sustainable progress of society by contributing to the world through environmental technologies, based on our corporate policy of contributing to society through technology.
+ About Tsukishima Kikai Value Creation Strategy Value Creation Results Business Foundation Financial Data
+ Medium-term management plan built on the two pillars of fortifying the business foundation and promoting growth strategies
+   A message to our stakeholders
+At Tsukishima Kikai, our company has built our businesses through the design, manufacture, and sale of machinery
+and plants that support industry, water purification and sewage treatment facilities that help create comfortable water environments, and environmental and energy-related facilities. In addition, by combining the technological capabilities and wealth of operation management expertise we have built up over the years, we have developed and deployed state-of-the- art business models in Japan, including production of solid fuel from sewage sludge, a biomass resource, and electrical power generation using digestion gases.
+The business environment in which we operate has experienced dramatic changes in recent years, keeping pace with globalization. Environmental issues, including frequent natural disasters around the world, are emerging as growing threats. Business models are undergoing rapid transformation, driven by technological advances and the digital revolution, including artificial intelligence (AI) and the
+The medium-term management plan that took effect in April 2019 is based on the two basic policies of fortifying the business foundation and promoting growth strategies. P15
+Our roots lie in the manufacture of machinery. While this business remains our core strength, we have been active with strategic business development above and beyond, including the construction industry for plant construction, provision of maintenance and management services for machinery and plants, and serving as a business operator. We identify areas such as after-sales services, including plant maintenance and management, as important elements of our growth strategy, since they typically deliver more stable revenue. Based on these measures, we made steady progress in FY2019 by securing a wealth of orders received, setting a new record for net sales at 100.3 billion yen, surpassing the 100-billion yen level for the first time in our history. We also set new records for all profit accounts, including operating income of 8.1 billion
+A new start for Tsukishima Kikai
+In April 2020 Yoshiyuki Fukuzawa took office as President & CEO. While President Fukuzawa is responsible for business execution, I am responsible for strengthening corporate governance in the Group as a whole, from an oversight perspective. I am also responsible for increasing the Group’s overall capabilities by monitoring joint efforts between management and individual worksites.
+Amid dramatic changes in the business environment, to identify changes accurately, respond to the needs of the times, and realize value creation and sustained growth, we must implement swift and appropriate decision-making and
+yen, ordinary income of 8.5 billion yen, and net income of 5.7 billion yen. Thus, in the first fiscal year of the medium- term management plan, we achieved numerical targets for all accounts other than net sales.
+At the same time, in light of the rapid changes underway in society, we are prompted by a sense of urgency to reflect on the potential need to revise the ways in which we operate our businesses. Our management plan calls for workstyle reforms and we have built a system such as remote work, even after the lifting of the state of emergency in Japan in response to COVID-19, 50-70% of head office employees continue to work from home under a system that enables smooth business operations.
+We believe changing ourselves at an accelerated pace based on this sense of urgency will give us competitive strengths for the society of the future.
+business execution. In 2019, for the purpose of enhancing and strengthening our corporate governance structure, we established the Nomination and Remuneration Advisory Committee, chaired by an outside Director, to increase the independence, objectivity, and transparency of decisions
+on matters such as the appointment and remuneration of Directors. We have also revised the executive compensation system and adopted a system of stock compensation with restrictions on transfer while making progress on sharing value with stakeholders.
+Internet of things (IoT).
+A part of corporate missions is to contribute to society by
+providing, through its business activities, solutions to various challenges—global warming, for example. Amid growing interest in the environment, society, and governance (ESG) and the Sustainable Development Goals (SDGs), we must pursue increased corporate value by linking our businesses to social issues.
+We will continue to contribute to the world through environmental technologies based on our corporate policy of drawing on technologies to contribute to society through industrial development and environmental protection.
+I ask our stakeholders for their continuing understanding and support.
+Chairman & Representative Director
+Kazuhiko Yamada
+Toward further growth in corporate value
+  3 / Integrated Report 2020
+Integrated Report 2020 / 4
+In FY2019, the first fiscal year of the current medium- term management plan, we set new record highs in both net sales and all profit accounts. However, a look at the external environment in FY2020 shows rapidly growing uncertainty
+in the global economy, due to the overwhelming influence
+of the COVID-19 pandemic in addition to US-China trade friction. While no clear signs of a resolution for COVID-19 are apparent, the entire Group must tackle these challenges as a team united.
+Furthermore, the seriousness of various social issues
+is growing on a global scale. These issues include climate change, as evidenced by warming temperatures and frequent torrential downpours, as well as issues related to plastic waste, aging populations, and low birth rates. It is precisely at such times of growing uncertainty that opportunities emerge to apply the technologies we have accumulated
+over many years. We are firmly resolved to further increase corporate value and to achieve sustained growth by providing technologies and services that contribute to solving social issues.
+
+ Message from the President & CEO
+ Based on our advanced technologies and the concept of local production for local consumption of energy, we will continue to help build a global recycling-based society by supporting industrial development as a leading company in environment and energy.
+ About Tsukishima Kikai Value Creation Strategy Value Creation Results Business Foundation Financial Data
+ Toward further business expansion
+ While the outlook for the future is uncertain due to the impact of COVID-19, we expect the Water Environmental Business to remain strong in light of equipment demand related to aging water infrastructures in Japan. In our overseas businesses, an area included as one of our growth strategies, we believe our sewage sludge treatment business in China, with locations in Shanghai and elsewhere, will gradually get on the right track.
+In the Industrial Business, in light of growing international concerns about plastic waste, we expect that volumes of
+waste treated in Japan will grow and this will lead to growth in waste treatment facility projects. We also expect lively business in equipment related to the manufacture of lithium ion secondary batteries, one of our key focus areas.
+In the next medium-term management plan, areas such as the development of the logistics facility at the former Ichikawa Factory site as part of strategic investment efforts, waste treatment facility renovations at affiliate company, and increased productivity of the relocated Muroran Factory will contribute to revenue.
+ The society Tsukishima Kikai seeks to create
+ Based on the two main pillars of the Water Environmental Business and the Industrial Business, Tsukishima Kikai pursues its business activities in the construction and operation management of water purification and sewage treatment facilities and industrial plants in the chemical, iron & steel, foodstuffs, and environmental and energy-related industries. Because we engage in such a wide range of businesses, the number of stakeholders involved is very large, covering a broad range of customers from national and local governments to various private-sector companies.
+This year marks the 115th anniversary of our founding that we started as a manufacturer of sugar refining machinery. Through involvement in the sugar refining process, we acquired our core technologies in the areas of filtration, crystallization, centrifugal separation and drying. We have grown by deploying these technologies in the chemical and iron & steel industries.
+These efforts were driven by our founding spirit of contributing to the promotion of the chemical, metal refining, and other industries in order to help modernize industrial machinery by implementing the domestic production of machinery and equipment for various industries with our technologies developed in the sugar refining industry as
+a starting point, when most of which were imported from overseas in those days.
+In the water environment business, Issues raised by
+pollution grew increasingly severe in Japan during the
+period of rapid economic growth that followed World War
+II. In response, we applied our core filtration and drying technologies to resolve environmental issues, thereby venturing into the field of water purification and sewage treatment in which we have achieved major progress. In recent years, we have also focused on the renewable energy business, seeking not just to improve the water environment, but to help establish a recycling-based society.
+In the Industrial Business, we have accumulated an enviable track record both in Japan and around the world in equipment for waste liquid and solid waste treatment for environmental protection. Today, we’re also focusing on equipment related to the production of secondary batteries, products that will help realize a low-carbon society.
+The water and energy field are an important aspect of the infrastructure supporting the nation and is expected to deliver stable business continuity. In the face of frequent natural disasters, these expectations grow ever stronger. While countries around the world face significant economic and societal challenges, we will continue to contribute to providing solutions to social issues by maintaining and strengthening trust-based relationships with stakeholders of our businesses. Through the provision of optimal technologies and services, we will meet the expectations of people living around the world.
+Our business environment is changing on a global scale, resulting in growing uncertainty, due to factors such as US- China trade friction. At the same time, there is increasing interest in topics related to ESG and the SDGs, including responding to climate change and other environmental issues and strengthening corporate governance.
+Most of our current businesses contribute to the “E” (environment) component of “ESG,” because we have heavily invested in developing applications of our core technologies accumulated since our founding in the water environment field. Japan has identified the stable supply of energy as an important policy area and we believe supporting our country and local communities through a safe and stable supply of renewable energy also broadly refers to contributing to the “S” (social) component of “ESG,” in addition to the “E” component. We must consider how best to give back to society from our standpoint as a business, using our technologies. We seek to be a business capable of delivering technologies and services to people who share this perspective.
+Tsukishima Kikai aims to contribute to building a recycling-based society using our technologies based on the concept of local production for local consumption. We see this as establishment of resource recycling in the broad sense, fusing the water cycle and the cycle of energy and other resources. For example, in the Water Environmental Business, a wastewater treatment plant purifies water before returning
+it to the sea. The sludge generated in the purification process is used to generate energy, which is returned to the local community. We believe our involvement in numerous business domains will help us establish such large-scale resource recycling and contribute to the building of a recycling-based society in the true sense.
+Based on this expansive vision, the Tsukishima Kikai Group will create social value and increase corporate value while building business models balancing environment and energy and contributing to the realization of a recycling-based society.
+President & CEO
+Yoshiyuki Fukuzawa
+5 / Integrated Report 2020
+Integrated Report 2020 / 6
+
+ About Tsukishima Kikai
+Recycling-based Society that Tsukishima Kikai Seeks to Create
+Tsukishima Kikai seeks to build a recycling-based society by departing from the traditional economic system based on mass production and consumption. To do so, the Company will contribute to establish a cyclical system which realizes that the use of resources leads to value creation and local economic development while reducing environmental impact, by making effective use of
+About Tsukishima Kikai Value Creation Strategy Value Creation Results Business Foundation Financial Data
+limited energy and other resources. The Company believes that its technologies and services make the establishment of the system possible and it can contribute to the building of a sustainable society.
+            Factory
+Water cycle P33
+Waste treatment
+Waste
+  Acid recovery
+Safe and reliable water supply
+from waste acid
+Recycling waste acid as an industrial raw material
+Local communities
+Recycling by-product sludge
+ P35
+Power generation from waste heat
+Lessening environmental impact through proper waste treatment Recovering energy through power generation from waste heat
+Plants Water
+P27-32 purification plant
+       Iron & Steel plant
+Acid
+Electricity
+Cycle of energy and resources
+Potting soil
+Fuel
+   P35
+Fertilizer production while preventing air pollution
+Sludge
+   Producing ammonium sulfate from exhaust gas
+Fertilizer
+Electricity
+Power plant
+Water supply
+Realizing a sustainable
+water infrastructures
+Preserving water infrastructures (water supply and sewage systems) and securing sound water environments
+                 Secondary batteries
+Facilities related to manufacture of secondary batteries
+Electricity
+P25、36 Adopting solar power generation on
+Fields
+Electricity
+Fertilizer
+Returned as electric power (Local production for local consumption)
+    P36
+Digestion gas power generation
+Digestion tank
+Release into rivers
+Conversion to bio-fuel (carbonization)
+   Drying Sludge
+P27-32
+sewerage
+Local community
+   Providing materials for environmentally-friendly lithium ion secondary batteries
+Solar power generation
+Biomass
+(Food residue, night soil)
+ unused land owned by Tsukishima Kikai and affiliate companies
+      7 / Integrated Report 2020
+Integrated Report 2020 / 8
+Contributing to sustained
+industrial growth
+Delivering industrial machinery, plants, and services that meet needs
+ Building rewarding workplaces with respect for human rights
+Cultivating diverse human resources, creating comfortable workplace environments
+Promoting and expanding clean energy to address climate change
+Deploying clean energy technologies and business to help prevent global warming
+Improving the quality of technologies and services and securing safety control
+Improving engineering and production efficiency, developing technologies that meet customer needs, and upgrading risk management
+Strengthening governance and ensuring thorough compliance
+Strengthening corporate governance and ensuring thorough compliance
+Sewage treatment plant
+Contributing to a comfortable water environment and to public health Producing renewable energy from sewage sludge to return to society
+ Water cycle
+Rivers
+Evaporation
+
+About Tsukishima Kikai
+History and Development of Tsukishima Kikai
+Tsukishima Kikai has contributed to the progress of industrial machinery in Japan throughout its 115-year history. We continue to be a part of solutions to global environmental challenges as a leading company in the plant business.
+About Tsukishima Kikai Value Creation Strategy Value Creation Results Business Foundation Financial Data
+    Business expansion
+Expanding into the chemical and iron & steel fields
+ Contributing to the modernization of industrial machinery
+We contributed to the modernization of Japanese industry by growing our business through advancing into fields such as textiles, fertilizer, and paper pulp.
+     Expanding into the environmental field
+Expanding into the field of water and sewage
+ Supporting to improve the environmental infrastructure in response to pollution problems
+As adoption of waterworks and sewage systems grew, volumes of sludge also increased. As sludge disposal shifted from landfill to treatment, we boasted the top market shares in dehydrating of service water sludge and drying and incineration of sewage sludge.
+Business development in the
+ environmental and energy fields
+Expanding into new domains
+ Providing comfortable water environments and clean energy, and high and efficient quality industrial machinery
+As environmental destruction due to causes such as climate change and water pollution has been a growing concern, we have contributed to society by applying our accumulated technologies to the fields of the environment and energy.
+ Founding
+Domestic production of industrial machinery
+ Contributing to the domestic production of industrial machinery, when most of which were imported
+We were among the first companies to succeed in domestic production of machinery for the foodstuffs and chemical industries, at a time when Japanese industry relied on machinery imported from overseas.
+     19 0 5
+Founded as Tokyo Tsukishima Kikai Seisakusho
+Sugar refining business (Our original business)
+19 1 5
+Success in the domestic production of sugar refining equipment
+Refining crystallization, filtration, and other technologies and responding to sophisticated needs.
+Taking on the challenges of state-of-the-art technologies
+Crystallization, fine particle production, etc.
+Vortex flow crystallizer
+Deployment into the fields of the environment and energy Environmental R&D investment in FY2019: 847 million yen
+           Acquired technologies in areas such as crystallization, separation, and drying.
+Centrifuge for sugar refining (used to separate sugar crystals)
+We have delivered more than 1,000 sets worldwide.
+1931 Success in the domestic production of equipment for producing fertilizer (ammonium sulfate)
+Horizontal belt filter
+Efficiently filters and purifies particles. Used for resins and battery materials.
+Double-propeller (DP) crystallizer
+Tsukishima Kikai is Japan’s leader of crystallization technology, and this model is representative of its crystallization line up.
+Exhaust gas desulfurizer
+Removes pollutants to combat escalating air pollution while utilizing byproducts.
+1960s-70s
+Rapid economic growth, pollution problems
+        Industrial
+2006
+Started operation of Japan’s first PFI business in the waterworks/
+sewage systems field (Samukawa Water Service Co.)
+Melting kiln system
+Digestion gas power generation facility
+  Business
+(Chemicals, iron & steel, etc.)
+     Water Environmental Business (Water purification and sewage treatment )
+Large industrial dryer (Steam tube dryer)
+Vertical filter press
+Greatly reduces the water content of sludge at water purification and sewage treatment plants across Japan.
+1959
+Sewerage Act enacted
+Sewage coverage at the time: 10% or less
+Sewage sludge dryer
+Dryer designed for a wide range of conditions and properties.
+Deployed overseas as well as in Japan.
+1967
+Waste liquid combustion facility
+Sewage sludge-to-fuel facility
+   9 / Integrated Report 2020
+Integrated Report 2020 / 10
+Our founding spirit
+Contributing to industrial promotion in areas such as the chemical industry and refining of metals from the foundations of our start in the sugar industry, through the domestic production of industrial machinery and equipment largely imported up to that time.
+1900
+Rise of modern industry
+1930s-40s
+Industrial development
+Basic Act for Environmental Pollution Control enacted
+Leveraging core technologies developed and refined since the time of the founding in new domains.
+ We deployed our crystallization, separation, and drying technologies accumulated in the sugar refining field in the areas of chemicals and iron & steel.
+ We deployed our filtration, drying, and incineration technologies accumulated in industrial fields in sludge treatment of water purification and sewage treatment plant.
+  Based on the belief that advanced technologies and proprietary manufacturing expertise are critical to strengthened its own production facilities and enhanced its research facilities.
+sustainably creating value and supplying the best products that satisfy social needs, Tsukishima Kikai has
+Tokyo Factory
+The Tokyo Factory started as a small factory with about a dozen of employees.
+1935 Started operation at    the Tsurumi Factory
+With Japanese industry shifting from light industry to heavy industry, we built the Tsurumi Factory to expand and modernize our production facilities.
+1976 Started operation at    the Ichikawa Factory
+With its modern manufacturing equipment, the Ichikawa Factory was built to meet the demand for larger-sized products.
+2019 Started operation at   2020
+      the Muroran Factory Manufacturing functions
+were shifted to the Muroran Factory, equipped with state-of-the-art machinery, in order to further improve production efficiency.
+R&D Center
+   Toward the next growth stage
+Expanding business domains
+Values we have created Business activities Bases of value creation
+
+About Tsukishima Kikai
+Tsukishima Kikai’s Value Creation Process
+About Tsukishima Kikai Value Creation Strategy
+Value Creation Results Business Foundation Financial Data
+    Business environment
+Tsukishima Kikai’ s businesses
+Tsukishima Kikai’s strengths
+Core technologies
+Starting with technologies in areas such as crystallization, distillation, filtration, and drying acquired in the sugar refining field at the time of our founding, we have developed various core technologies over our 115-year history of manufacturing and engineering. ▶P13
+Value delivered through business activities
+      Manufacturing capital
+・Internal factories for producing major products
+・Affiliate companies handling  plant construction
+・Affiliate companies handling  operation management
+・Structure enabling cooperation with manufacturing sites to achieve improvements based on rapid identification of customer needs
+ Intellectual capital
+・A 115-year           manufacturing history
+・620 granted patents
+・R&D facilities and joint      research structures with     universities
+・Expertise in making       proposals for equipment     and processes that meet     customer needs
+・Expertise with after-sales    service
+・R&D costs: 1,126 million    yen (FY2019)
+※ Including 847 million yen    invested in R&D related to  the environment 
+ Human capital
+・Experienced researchers,    engineers, and sales      personnel
+・Nomination and        Remuneration Committee
+ Social capital
+・Trust-based relationships    with customers, suppliers,  and municipality
+Contributing to the      treatment of approx.      one-third of total       wastewater in Japan on a sewage volume basis  Operation & maintenance for about 100 water purification and sewage treatment facilities across Japan
+・Strong presence in the     overseas markets in which
+we operate
+ Natural capital
+・Biogas power generation  from sewage sludge
+・Solar power generation
+       Water Environmental Business
+ ● Manufacture, sales, operation management, and business management of the water purification and sewage treatment facilities for domestic and overseas markets.
+Water purification
+Filter press used to dehydrate water from sludge at water purification plants.
+Sewage system (wastewater treatment)
+Air diffuser installed to supply air to microbes used in sewage purification.
+Energy creation
+Fuel conversion equipment used to convert sewage sludge into fuel.
+Sewage system (sludge treatment)
+Next-generation sludge incineration system featuring high levels of energy conservation performance and greenhouse gas reductions.
+      Climate change
+Distillation
+Main businesses
+▶P27
+▶P33
+    Water pollution
+ Market needs
+Responding to global warming
+【Japan】
+Addressing aging domestic water infrastructure amid falling population
+【Overseas】 Water
+infrastructure development in emerging markets with rising living standards
+Machinery and plants designed to meet higher efficiency and lower staffing requirements
+Tsukishima Kikai’s core technologies
+Centrifugal separation
+Supporting industrial development and contributing to build a recycling-based society worldwide as a leading company in the environment and energy fields
+▶P20 Tsukishima Kikai’s materiality
+● Realizing sustainable water infrastructures
+● Contributing to sustained  industrial growth
+● Promoting and expanding clean energy to address climate change
+● Improving the quality of technologies and services and securing safety control
+● Building rewarding workplaces with  respect for human rights
+● Strengthening governance and     ensuring thorough compliance
+Filtration
+Drying
+Crystallization
+      Storage
+Measuring & mixing
+   Incineration
+Value chain
+     Industrial Business
+ ● Manufacture and sales of industrial equipment and plants (for the chemical, iron & steel, and foodstuffs industries) and environmental and energy-related equipment and the waste treatment business for domestic and overseas markets.
+Chemicals
+Steam tube dryer broadly used worldwide in resins, chemicals, and other fields.
+Foodstuffs
+Fully automatic batch type centrifuge used in sugar refineries around the world.
+Iron & Steel
+Highly seismic-resistant gas holder used to store gas generated by steel converters and other equipment.
+Environment, energy
+Waste liquid combustion system used to treat waste liquid discharged from factories.
+      11 / Integrated Report 2020
+Integrated Report 2020 / 12
+Value chain that realizes integrated handling from development and design through maintenance and repairs. ▶P14
+Providing the world with high quality water environments and contributing to the development of resilient water infrastructures.
+● Sewage sludge-to-fuel  conversion
+ (Japan’s leading market share) Converting sewage sludge into solid fuel and using the resulting fuel cuts greenhouse gas emissions by approx. 84,000 t-CO2/year.
+● Digestion gas power  generation
+ (Top market share in Japan for
+projects built and operated by the private sector) Total power generating capacity of the business in which digestion gases are purchased and used to generate power for sale through the feed-in tariff system is approximately 14,600 kW (equivalent to enough power for approx. 24,500 ordinary households).
+Net sales (FY2019): 52.2 billion yen
+ Aging water infrastructure
+ Increasing number of natural disasters
+ Successfully used in chemical and foodstuffs and steelmaking industries essential to people.
+● Our steam tube dryers hold roughly 50% share of the global market for dryers for polyester raw materials (terephthalic acid).
+● We help build a recycling-based society through waste treatment, recycling, and other activities.
+● Our waste liquid combustion systems hold a roughly 70% share of the Japanese market.
+● We help promote and expand clean energy through lithium ion secondary batteries and other products.
+● We deliver integrated engineering from precursors through active materials in lithium ion secondary battery cathode material production.
+Net sales(FY2019): 48.1 billion yen
+  Low birth rates/aging population
+   Develop ment
+Design Procurement
+Marketing Planning
+Engineering
+O&M
+After-sales service
+    Technological innovation
+EPC
+     Growing awareness of human rights
+EPC +
+O&M
+Business management
+Manufac turing Const ruction
+Operation & Maintenance repair
+ Governance and compliance
+
+About Tsukishima Kikai
+Tsukishima Kikai’s Strengths
+Tsukishima Kikai’s core technologies
+Tsukishima Kikai’s value chain
+One of the Group’s strengths is our value chain that delivers integrated business management in areas such as PFI/DBO businesses, which combine facility construction with long-term maintenance and waste treatment—all based on
+We acquired core technologies in areas like crystallization, filtration, centrifugal separation, and drying as part of our foundational efforts in sugar production processes. From those foundations, we have developed new applications for
+expanding business domains. These core technologies are used in equipment related to secondary battery production, an area of our special focus in recent years.
+the expertise we have built up in after-sales service (O&M), in addition to engineering (EPC) and manufacturing since our founding.
+■ Development We maintain an integrated structure for handling all processes related to our core technologies, ranging from lab testing to bench testing and analysis.
+■ Marketing and planning We propose processes and equipment suited to customer needs and prepare basic equipment design.
+■ Design and procurement We handle design for orders received and procurement of equipment.
+■ Manufacturing Our main products are manufactured at the Muroran Factory. Our proprietary manufacturing expertise makes it possible to rapidly incorporate improvements into our products.
+■ Construction We have a proven track record in construction in Japan and overseas. Our affiliate companies have the advantage in plant construction for incineration equipment and other projects.
+We handle contracted operation & maintenance for about 100 water purification and sewage treatment facilities across Japan.
+In some cases, in addition to operation & maintenance, we provide services such as securing the electricity required for water purification and sewage treatment facilities and purchasing chemicals used in water and sludge treatment.
+Based on our expertise accumulated over many years in engineering (EPC) and after-sales service (O&M), we deploy PFI/DBO businesses that combine facility construction and long-term maintenance in the water purification and sewage treatment fields. In the waste treatment field, we contribute to environmental protection activities through our waste treatment and energy creation businesses.
+About Tsukishima Kikai Value Creation Strategy Value Creation Results Business Foundation Financial Data
+   Development Engineering (EPC)
+Manufacturing ( Mono-zukuri )
+After-sales service (O&M )
+Business management (EPC+O&M)
+   Solid-liquid separation through filtering media
+Deployed widely from water purification and sewage treatment to batteries and other industrial fields
+Separation and condensation of substances with different boiling points
+Crystallization of target ingredients from solution
+Producing high quality crystals featuring uniform grain for applications ranging from chemicals to foodstuffs to fertilizer
+Double-propeller (DP) crystallizer
+Centrifugal separation
+Holding proven track records in solid-liquid separation for a wide range of applications from sugar to sludge
+Fully automatic batch type centrifuge
+Centrifuge
+Mass and volume measurement and mixing
+Realizing high-precision measurements and homogenization and providing systems that combine hardware (machinery) with software (automation).
+Mixer
+  Deploying proprietary fillers boasting high levels of durability and separability
+    Filter press
+Horizontal belt filter
+Packing
+Distillation
+Development (R&D Center)
+Tsukishima Kankyo Engineering Ltd./Tsukishima Machine Sales Co., Ltd./ DAIDO CHEMICAL ENGINEERING CORP./TSK Engineering (Thailand) Co., Ltd.
+        Drying by liquid evaporation
+Providing highly energy efficient equipment to meet product quality requirements in the treatment of a wide range of substances
+Steam tube dryer
+Inclined disk dryer
+Liquid and gas storage
+Dry seals enable high seismic resistance.
+Filtration
+Crystallization
+       Drying
+Tsukishima Kikai’s core technologies
+Centrifugal separation
+ Manufacturing (Muroran Factory)
+Muroran Factory/PRIMIX Corporation/BOKELA GmbH (Germany)/ SANSHIN KOGYO Co., Ltd.
+     Storage
+Measuring & mixing
+     Incineration
+  Tsukishima Technology Maintenance Service Co., Ltd.
+ Incineration of sewage sludge and waste
+After-sales service (operation & maintenance)
+Business management (SUN ECO THERMAL Co., Ltd.)
+            Digestion gas holder
+Gas holder for iron & steel industry
+Providing efficient energy-saving incineration systems in Japan and overseas.
+Next-generation sludge incineration system
+Waste liquid combustion system
+Powder handling
+SUN ECO THERMAL Co., Ltd./Samukawa Water Service Co., Ltd./ Owari Water & Energy Co., Ltd.
+ 13 / Integrated Report 2020
+Integrated Report 2020 / 14
+
+ Value Creation Strategy
+Medium-term Management Plan
+Message from the officer in charge
+The business environment in which the Group operates is on the verge of dramatic changes prompted by factors affecting industrial structures on a global basis, such as growing awareness of the need to protect the global environment, changes in the energy supply and demand structure, and advances in AI and other digital technologies.
+In response to these conditions, seeking to achieve sustained growth and further increase our corporate value, the Group has formulated a medium-term management plan based on the fundamental policies of fortifying the business foundation and promoting growth strategies. Through these initiatives, we intend to increase our corporate value still further.
+   Senior General Manager, Corporate Management Division Director Managing Executive Officer
+Jun Kawasaki
+ About Tsukishima Kikai Value Creation Strategy Value Creation Results Business Foundation
+Financial Data
+Basic policy 1. Fortifying the business foundation
+ Increasing core earning power
+Through exacting and effective management of individual projects and construction cost reductions, we plan to improve profitability and strengthen revenue foundations.
+In the area of strengthening manufacturing functions, we are working with Japan Steel Works to improve productivity. These efforts include starting the Muroran Factory in April 2019. We resolve to strengthen this alliance, leveraging the expertise of both companies to make our products more competitive.
+Strengthening joint efforts Groupwide
+To strengthen joint efforts with Group member companies, we are making progress on joint sales activities and joint
+use of resources. In addition to strengthening the Group’s governance and compliance structures, we plan to take steps to ensure efficient integrated Group management.
+Muroran Factory
+First shipment ceremony
+    Overview of the medium-term management plan Basic policies of the medium-term management plan
+Sustained growth in the Water Environmental Business and the Industrial Business are essential to increasing Group corporate value. The basic policies for the period covered by the medium-term management plan are to fortify our business foundation and to promote growth strategies.
+Basic policy 2. Promoting a growth strategy 
+Advancing workstyle reforms
+We are advancing workstyle reforms through efforts that include Groupwide human resource development, remote work, and staggered shifts as part of efforts to strengthen the foundations that support business development.
+   1. Fortifying the business foundation 
+ Restructuring the business foundation to increase core earning power
+■ Increasing core earning power
+■ Strengthening joint efforts Groupwide ■ Advancing workstyle reforms
+  2. Promoting a growth strategy
+ Expanding business domains and reforming business models from long-term perspective
+■ Expanding the energy and environmental businesses and  strengthening the after-sales service business
+■ Expanding overseas businesses
+   Targets under the medium-term management plan
+Expanding the energy and environmental businesses
+We resolve to expand our main energy and environmental domains.
+In the Water Environmental Business, in addition to refining energy conservation technologies, we plan to move forward in developing energy creation processes to generate energy from carbon-neutral sewage sludge, thereby helping to combat global warming.
+In the Industrial Business, we plan to enhance environmental businesses, including waste liquid and solid waste treatment. In addition, we plan to strengthen the business of lithium ion secondary batteries, which are expected to see widespread use.
+Expanding our overseas businesses
+We anticipate future growth in our overseas businesses. In the Water Environmental Business, we plan to strengthen sales of equipment and plants for water purification
+and sewage treatment, targeting not just Asia, where demand for water infrastructure
+is growing in pace with economic growth, but also European markets. In the Industrial Business, we will enhance sales of various types of industrial equipment and plants in Asia, Europe, and other markets through joint efforts with overseas affiliates.
+Strengthening the after-sales service business
+Sewage sludge treatment facility (China)
+Chemical plant (Malaysia)
+In FY2021, the final fiscal year
+of the medium-term management plan, we will target consolidated net sales of 110 billion yen, consolidated operating income of 8 billion yen, and net income of 5.4 billion yen. Since our industry is based on receipt of orders and susceptible to fluctuating business results, we will target overall operating income of at least 20 billion yen over the three-year period of the plan. Our target for return on equity (ROE) is 7% or more.
+Consolidated operating income (billion yen)
+   15 / Integrated Report 2020
+Integrated Report 2020 / 16
+90 80 70
+FY2019
+Medium-term management plan
+FY2021 targets
+revenue from “Promoting a growth strategy” revenue from “Fortifying the business foundation”
+In both our businesses, the Water Environmental Business and the Industrial Business, we plan to transform our business models and revenue structures by continuing to strengthen maintenance, repair work, and other after-sales service activities. We will strive to optimize our operations by integrating the Group’s expertise with AI and IoT technologies. In the Water Environmental Business, we will deploy further sales activities for life cycle businesses, including comprehensive O&M contracts and PFI/DBO businesses to ensure stable operation and maintenance of aging water infrastructures.
+Operating income 8 billion yen Net income  5.4 billion yen ROE targe 7% or more
+revenue from existing businesses
+* Comprehensive O&M: Comprehensive operation and maintenance, including repair work and supply of chemicals and other consumables, in addition to facility operation            and maintenance
+* PFI/DBO:PFI (Private Finance Initiative) is a method for efficiently providing public services, using private sector funding and expertise in the design, construction,       maintenance, and operation of public facilities and other projects.
+FY2021
+      DBO (Design Build Operate) is a business method similar to PFI under which the public sector is responsible for raising funds while the private sector handles design, construction, and operation.
+
+Value Creation Strategy
+Advancing continued strategic investment
+Proactive investments in R&D, M&A activities, and backbone systems as in the previous medium-term management plan will be continued to move ahead.
+1
+The bayside location of the city of Ichikawa, where the Ichikawa Factory was located, offers remarkable access to transportation and is currently the focus of high demand for logistics facilities. We plan to develop a logistics facility at this site in the role of property owner. Mitsui Fudosan Co., Ltd., which brings a demonstrated track record in developing logistics facilities, will operate the business. Construction began in August 2020 and the facility will be slated to begin operating around spring in 2022.
+2
+With the closure of the Ichikawa Factory, we relocated the Tsukishima Kikai laboratory, which was previously located adjacent to the Ichikawa Factory, to Yachiyo city, Chiba Prefecture. The new facility opened as the R&D Center in January 2020.
+In addition to renovating the facilities, enhancing development and testing functions, and strengthening R&D functions, the new R&D Center features an enhanced showroom designed to showcase Group technologies.
+3
+SUN ECO THERMAL, a Tsukishima Kikai consolidated subsidiary located in Kanuma city, Tochigi Prefecture, handles general and industrial waste treatment. It is currently renovating its facilities to achieve further reductions in environmental impact and to renew aging equipment. The first stage of the renovation work involved the renovation of the incineration equipment for general waste and the adoption of high efficiency waste heat power generation, and the renovated facilities started up in October 2020. In addition
+to addressing aging equipment, this renovation project will improve waste treatment efficiency and increase available based on the mixed incineration of industrial waste and general waste.
+4
+In May 2020, we made PRIMIX Corporation a subsidiary. Founded in 1927, PRIMIX has carved out a solid position as a manufacturer specializing in high-speed dispersion equipment. It was the first company in Japan to develop a high-speed disperser and
+is backed by a proven track record serving customers in Japan and around the world across a wide range of fields including pharmaceuticals, chemicals, cosmetics, foodstuffs, and batteries. Adding PRIMIX to the Group brought access to new technologies in
+the field of dispersion, which will improve our competitive strengths in the field of crystallization, in which the mixing process plays a key role. PRIMIX technologies for contamination-free sanitary solutions in pharmaceuticals and cosmetics will also expand our technological domains. Other PRIMIX strength includes the dispersion process in the latter stages of electrode material production with secondary battery manufacture-related equipment. This strength will add expertise in electrode material production equipment
+in areas such as cathode active materials, one of our priorities, and allow marketing in cooperation with PRIMIX.
+Financial strategies
+The Group has identified the following financial strategies to support sustained growth based on the medium-term management plan:
+1 Fundraising policy
+In principle, the Group uses cash flow from operating activities and funds on hand as working capital and funding for regular
+capital investment and R&D. It also raises funds externally for large-scale capital investments, M&A activities, or other goals that
+exceed cash flow. The Group seeks to establish an optimal capital structure* under which it makes effective use of external funding
+while monitoring capital costs.
+* An optimal capital structure refers to a structure in which capital costs are optimized through a balance between the capital elements of a stock company of outside capital (loans) and equity capital optimized for the company concerned, in light of ratios, details, breakdowns, and other considerations. This keeps capital costs to a minimum.
+2
+Since plant construction is a major Group business, we have established the following financial discipline to ensure the stability of our financial foundations, including maintaining an equity ratio of approx. 50%:
+ Logistics facility development
+Strategic investment
+Total
+20
+billion yen
+About Tsukishima Kikai Value Creation Strategy Value Creation Results Business Foundation Financial Data
+   Logistics Facility (rendering)
+ Relocation of the laboratory (opening the R&D Center)
+Financial discipline
+     Expanding the waste business
+*D/E ratio:Interest-bearing debt/equity
+R&D Center
+(1)Equity ratio
+Approx. 50%
+(2)D/E ratio* 0.5or less
+  3
+While maintaining the financial discipline,
+the Group aims to target returns to shareholders at total payout ratios of 30-50%. We seek to meet shareholder expectations through stable yet flexible returns, duly reflecting financial conditions, business results, future business prospects, and strategic investments. In FY2019, to improve capital efficiency and enhance returns to shareholders, we acquired 700,000 shares of treasury stock.
+ Policy on returns to shareholders
+■ Returns to shareholders
+(FY)
+(3)Cash on hand and deposits
+Securing twice monthly turnover
+  2016
+2017
+2018
+2019
+Net income attributable to owners of the parent
+2.2 billion yen
+2.9 billion yen
+5.0 billion yen
+5.7 billion yen
+Dividends paid
+750 million yen
+750 million yen
+980 million yen
+1,050 million yen
+Dividends per share / year
+17 yen
+17 yen
+22 yen
+24 yen
+Total payout ratio (consolidated)
+34.5%
+25.6%
+19.6%
+33.3%
+ROE
+3.7 %
+4.7 %
+7.6%
+8.5%
+ Implementing proactive M&A activities
+Waste treatment facility
+PRIMIX Corporation
+LABOLUTION® emulsification and dispersion testing equipment
+   17 / Integrated Report 2020
+Integrated Report 2020 / 18
+
+Value Creation Strategy
+Strategies for Promoting ESG Activities
+The social conditions under which we do business
+Tsukishima Kikai’s materiality
+Tsukishima Kikai has identified as materiality issues that should be addressed as special priorities in the future. We will strive to resolve these social issues through our businesses in the future.
+While global economic progress has enriched our lives, environmental issues ranging from global warming to pollution and depletion of water resources and droughts and flooding due to extreme weather have grown increasingly severe. Japan, as well, is experiencing increasingly severe natural disasters, including typhoons and torrential downpours, alongside various other issues, including a labor shortage due to low birth rates and an aging population, as well as diversity initiatives lagging behind international community standards.
+Under such conditions, through the Paris Agreement, adoption of the Sustainable Development Goals (SDGs), and other measures, the international community is beginning
+to work together to find solutions to global challenges.
+Risks and opportunities
+During the postwar period of rapid economic growth, Japan experienced various pollution problems nationwide, resulting in serious damage. At the time, based on our corporate policy of contributing to society through industrial development and environmental protection based on optimal technologies, the Tsukishima Kikai Group made major contributions to environmental protection by the development of environmental infrastructures through activities applying technologies accumulated since our founding in the environmental field. The Tsukishima Kikai Group sees environmental issues not merely as challenges, but as significant business opportunities.
+In the Water Environmental Business, we are striving to address global warming, considered a pressing issue around the world, by generating power from sewage sludge and by converting sludge to fuel, which makes effective contributions to countering global warming, both businesses of which are intended to reduce carbon dioxide emissions. We are also deploying next-generation sludge incineration systems, with outstanding performance in energy conservation and restraining greenhouse gas emissions. In the Industrial Business, we are striving to improve energy efficiency of individual industrial machinery, while deploying technologies for manufacturing the
+As members of society, companies, too, bear the social responsibility to deliver solutions to social challenges and contribute to building sustainable societies.
+The Tsukishima Kikai Group makes significant contributions to moderating the environmental impact of infrastructure projects by deploying, according to the needs
+of each country, plants and equipment to address global warming and protect water resources. We also provide maintenance services to support sustainable infrastructures resilient to natural disasters. Based on our belief that these activities make major contributions to solving social issues, we will continue to fulfill our social responsibilities into the future through business growth.
+materials for lithium ion secondary batteries used in electric vehicles.
+Since water supply and sewage systems are examples
+of social infrastructures essential to our daily lives, they
+are expected to preserve their functions by ensuring rapid recovery in the event of facility damage due to typhoons or torrential downpours. Tsukishima Technology Maintenance Service, which is responsible for operation and maintenance
+of water purification and sewage treatment facilities within
+the Tsukishima Kikai Group, supports social infrastructure by helping emergency response and rapid recovery in response to disasters. In addition, SUN ECO THERMAL, which participates in the waste treatment business, supports waste treatment, including the treatment of disaster waste resulting from typhoons.
+As a group of companies that has been engaged in delivering solutions to social issues from early times, the Tsukishima Kikai Group will continue proactively to address issues such as global warming and natural disasters with a keen sense of urgency, seeing them both as major challenges for Tsukishima Kikai’s businesses and as new business opportunities.
+Materiality
+Activities through FY2019
+● Expanding sales of next-generation sewage sludge  incineration systems
+● Advancing joint public-private partnership for efficient use of  sewage sludge and drainage treatment at water purification  plants
+● Expanding projects related to sewage sludge treatment in  China (Serving as the sole joint venture representative from Japan     and establishing a maintenance structure)
+● Deploying water purification and sewage treatment facilities  in Vietnam and other Asian markets
+Medium-/long-term targets
+● Equipment renovations and efficient operation
+and maintenance to contribute to the sustained   
+ development of the aging water infrastructure in    Japan
+● Developing and promoting water infrastructure  systems with low environmental impact
+● Deploying water infrastructures and supplying  safe water in Asia and Europe
+● Developing and promoting equipment and       processes to contribute to highly efficient       production processes
+● Expanding overseas businesses by strengthening  EPC capabilities
+● Business expansion and advancing into new      business domains based on M&A activities
+● Developing and promoting equipment and       processes for energy conservation and energy     creation to realize sustainable societies
+● Deploying biomass utilization businesses to realize  reductions in greenhouse gas emissions and local    production for local consumption of energy
+● Improving business efficiency and customer    satisfaction by optimizing and monitoring      operation of equipment and processes using AI  and IoT technologies
+● Enhancing manufacturing functions and      improving productivity through alliances and    partnerships
+● Enhancing BCP content and implementing drills
+● Promoting the development of workplaces     where employees can work with motivation and  pride and achieve a sound work-life balance
+● Strengthening Groupwide internal control systems ● Fostering awareness of compliance among all  employees
+● Promoting diversity management
+About Tsukishima Kikai Value Creation Strategy Value Creation Results Business Foundation Financial Data
+     Realizing sustainable water infrastructures
+Preserving water infrastructures (water
+supply and sewage systems) and securing sound water environments
+Contributing to sustained industrial growth
+Delivering industrial machinery, plants, and services that meet needs
+Promoting and expanding clean energy to address climate change
+Deploying clean energy technologies and business to help prevent global warming
+Improving the quality of technologies and services and securing safety control
+Improving engineering and production efficiency, developing technologies that meet customer needs, and upgrading risk management
+Building rewarding workplaces with respect for human rights
+Cultivating diverse human resources, creating comfortable workplace environments
+Strengthening governance and ensuring thorough compliance
+Strengthening corporate governance and ensuring thorough compliance
+● Expanding overseas EPC projects, centered on Asia      (Thailand)
+● Expanding sales of waste liquid and solid waste treatment    systems that reduce environment impact
+● Promoting sales activities in cooperation with overseas     affiliates in Asia and Europe
+● Expanding technologies and business domains through  M&A activities
+● Promoting the utilization of sewage sludge energy
+ (Sewage sludge-to-fuel conversion, digestion gas power generation)
+● Domestic and oversea sales growth in equipment related to  lithium ion secondary battery production
+● Enhancing R&D in the clean energy field  (Opening the R&D Center)
+● R&D on equipment and processes using AI and IoT       technologies (Industry-academia partnerships)
+● Enhancing manufacturing functions (relocating manufacturing functions)
+● Drawing on overseas design functions to improve business    efficiency
+● Formulating a business continuity plan (BCP)
+● Advancing workstyle reforms
+ (System design for staggered shifts, remote work, and free      address workspaces)
+● Strengthening governance systems
+  (Rebuilding Group internal control systems, reviewing related     rules)
+● Revising the Corporate Action Guidelines, modifying     corporate ethics helpline operations
+       19 / Integrated Report 2020
+Integrated Report 2020 / 20
+
+Value Creation Strategy
+Promoting ESG Activities
+The Tsukishima Kikai Group pursues its business activities based on the corporate policy of contributing to the world through environmental technologies and has established an ISO 14001-compliant environment management system in accordance with the following Environment Policy:
+Environment Policy
+Tsukishima Kikai Co., Ltd., engaged in business activities covering everything from designing to construction of chemical plants and environmental equipment, aims at becoming a “leading company in creating a new type of recycling-oriented society” through establishing, based on our corporate philosophy, the following Environment Policy which controls company-wide environmental activities, so that we can recognize and evaluate influences on the global environment, and see to it that the next generation can enjoy a better global environment.
+When conducting business, Tsukishima Kikai is to comply with the following:
+1. At all stages from designing to procurement/production, construction, test operation, operation after delivery, and disposal of equipment, we will fully recognize/evaluate the influence our products/equipment and activities may bring to the environment, and try, to the extent that it is economically and technically possible, to continuously improve our environment management system and prevent pollution.
+2. Tsukishima Kikai will establish environmental objectives and targets, and promote an environment management system for achieving such objectives and targets. Based on the implementation results, we will review the environmental objectives and targets. As for the environmental objectives and targets, priority is to be given to the following matters:
+(1)Promotion of resource saving and energy saving related to products/equipment, and examination/recommendation of   contamination prevention;
+(2)Technological development/sales of environmentally-friendly equipment;
+(3)Reduction of wastes, promotion of recycling, and prevention of contamination at construction sites; and (4)Energy saving and reduction of wastes at offices.
+3. Tsukishima Kikai will comply with applicable environment-related laws and regulations as well as other requirements that we have agreed upon.
+4. Tsukishima Kikai will provide all employees with education/training opportunities on the environment management system, in an effort to keep everyone informed about it and carry it out.
+In order to promote the above-described Environment Policy, Tsukishima Kikai appoints the Officer in Charge of Quality Assurance to be the Environment Management System Control Manager, delegating control responsibility and authority to him/her regardless of any other responsibility. This Environment Policy is to be made available to the general public by request.
+About Tsukishima Kikai
+Value Creation Strategy
+Value Creation Results
+Business Foundation
+Financial Data
+  Response to COVID-19
+Currently, the novel coronavirus (COVID-19) pandemic spreading worldwide is exerting a profound influence
+on social and economic activities. The Ministry of Land, Infrastructure, Transport and Tourism of Japan states that
+it may be possible to significantly reduce the risk of infection, as with similar SARS coronaviruses, through sewage treatment processes and chlorination (according to the April 10, 2020 notice, “Information Concerning the Novel Coronavirus”). The Tsukishima Kikai Group possesses expertise on air diffusers essential to sewage-treatment aeration tanks and operation management of wastewater treatment plants. We will continue to contribute to securing safe and sustainable water infrastructures by providing plants, equipment, and services, including operation and maintenance of sewage treatment plants. The COVID-19 pandemic has made it difficult to dispatch supervisor for commissioning of equipment delivered overseas. Operational instructions for the sewage sludge treatment facility delivered to Shanghai, China were provided remotely by staff working from home in Japan.
+Tsukishima Kikai Group ESG measures
+Initiatives of Tsukishima Technology Maintenance Service Co., Ltd.
+In response to the significant damage caused by typhoons and torrential downpours across Japan in recent years, Tsukishima Technology Maintenance Service, which handles the operation and maintenance of water purification and sewage treatment facilities within the Tsukishima Kikai Group, provides emergency response support and aid to ensure rapid recovery to maintain water purification and sewage treatment functions. In September
+2015, when a levee on the Kinugawa River gave away and a pumping station in Joso city, Ibaraki Prefecture halted, Tsukishima Technology Maintenance Service responded with its 24-hour emergency support structure and worked for quick recovery. The company also provided emergency support
+in response to severe damage to sewer systems in Chiba city
+following Typhoon Faxai in September 2019.
+  To strengthen its capacity to respond to emergencies, Tsukishima Technology Maintenance Service has formulated a business continuity plan (BCP) and performs annual drills to improve its ability to implement the BCP. It contributes to recovery activities and civic life after major disasters through disaster prevention agreements concluded with nearly 20 municipalities.
+As part of efforts to improve management efficacy, Tsukishima Technology Maintenance Service has acquired ISO 45001 certification for its occupational health and safety management system and ISO 55001 certification for its asset management system.
+Initiatives of SUN ECO THERMAL Co., Ltd.
+In 2016, SUN ECO THERMAL, which engages in the businesses of waste treatment and power generation, concluded a disaster cooperation agreement with its home Kanuma city. Following damage to the city due to Typhoon Hagibis in October 2019, SUN ECO THERMAL accepted disaster waste generated in the city for treatment (approx. 150 t of submerged tatami mats and approx. 50 t of plastic waste) and provided a temporary storage place.
+In ordinary times, SUN ECO THERMAL carries out social contribution activities alongside the community, including free acceptance of waste agricultural vinyl sheets no longer needed by local farmers and cleanup activities on nearby roads.
+BCP drills
+ Acceptance of disaster waste in Kanuma city
+        ISO 14001 certificates
+21 / Integrated Report 2020
+Integrated Report 2020 / 22
+1. Applicable standard/certification   ISO 14001:2015/JAB, UKAS
+2. Applicable sites
+  Tsukishima Kikai Co., Ltd.,
+  and Tsukishima Business Support Co., Ltd.
+3. Certification body
+  Bureau Veritas Japan Co., Ltd.
+4. Date of expiry
+  September 30th, 2023
+
+Value Creation Results
+Financial Highlights
+About Tsukishima Kikai Value Creation Strategy Value Creation Results Business Foundation Financial Data
+(100 million yen) Water Environmental Business Industrial Business
+(100 million yen) Water Environmental Business Industrial Business 78 81
+ (Includes the businesses of PFI, DBO, and digestion gas power generation using FIT system.)
+1200 100
+batch type 1,000 centrifuges for
+100.3
+billion yen 1, 2 0 0
+billion yen
+Approx. locations
+Data by segment
+Industrial Business Net sales: 48.1billion yen (48%)
+Large-scale industrial dryers
+Water Environmental Business Net sales: 52.2billion yen (52%)
+  ▪Overview of FY2019
+Profit/loss In FY2019, the first year of the medium-term management plan, net sales exceeded 100 billion yen for the first time since our founding thanks to steady progress on orders already awarded. In terms of profit and loss, revenue growth led to new record highs in all accounts: operating income, ordinary income, and net income.
+   Trends in net sales
+100.3
+Trends in operating income
+billion yen 8.1
+Approx.
+50
+%
+Company net sales
+100
+Market share for steam tube dryers for terephthalic acid use
+Delivered Fully automatic more than
+Number of water purification and sewage treatment facilities for which we handle operation and maintenance under contract
+      1000 978 1,003
+851 80
+800 699 434 481 60
+600 285 389
+sugar refining
+sets in Japan and overseas
+Personnel involved in operation and maintenance
+  38 31 29 38 43
+ 44 40 35 15
+(up 2.5 billion yen from Approx.
+persons
+  40 200 414 462 522 20
+the previous year)
+   400 544
+0 2016 2017 2018 2019 (FY)
+Steady progress with high backlog volumes led to a record high for to consecutive years.
+4
+Water liquid combustion
+Domestic market share:
+Numbers of PFI and DBO contracts secured in the water supply and sewage system businesses
+   0 2016 2017 2018 2019 (FY) Revenue growth and profitable construction projects led to a new record high.
+systems
+Approx.
+70
+%
+16
+(based on Tsukishima Kikai research)
+/78 (based on Tsukishima Kikai research)
+ Operating income
+Ordinary income
+Profit attributable to owners of the parent
+8.1billion yen
+Up 300 million yen from the previous year
+8.5billion yen
+Up 400 million yen from the previous year
+5.7billion yen
+Up 700 million yen from the previous year
+ Trends in ROE
+(%) 10
+8
+6
+4 3.7 2
+1
+2016
+8.5%
+Trends in ROA
+4.4%
+    7.6 4.7
+8.5
+2019
+(%)
+5
+4
+3
+2
+1 2016
+4.4 3.8
+      Orders received
+Net sales
+Operating income
+(100 million yen) 500
+400 300 200 100
+0
+  (100 million yen) 500
+400 300 200 100
+0
+440
+392
+2018 2019 (FY)
+     481
+434
+     2018 2019 (FY)
+ (100 million yen) 40
+30 20 10
+0
+  40
+ 38
+    2018 2019 (FY)
+    Orders received
+Net sales
+Operating income
+(100 million yen) 800
+600 400 200
+0
+636
+423
+   (100 million yen) 600
+400 200 0
+2018 2019 (FY)
+    522
+2018 2019 (FY)
+544
+   (100 million yen)
+50
+40
+30
+20 38 10
+0
+43
+      2018 2019 (FY)
+   2.5 2.0
+    Equity ratio
+51.5%
+D/E ratio
+(%)
+60 50 40
+0
+56.9 54.6
+2016 2017
+(Times) 0.20
+0.15
+0.20
+2017
+2018
+(FY)
+2017 2018
+2019 (FY)
+0.19
+0.19
+Net income growth led to ROE of 8.5%, exceeding the medium-term management plan target of 7%.
+Net income growth resulted in ROA of 4.4%.
+     51.0
+2018
+51.5
+2019
+0.15 0.11
+      We secured a roughly 50% equity ratio. 23 / Integrated Report 2020
+Integrated Report 2020 / 24
+(FY)
+0.10 2016
+We maintain a D/E ratio of no more than 0.5, an indicator of the financial discipline.
+2017
+2018 2019 (FY)
+
+Value Creation Results
+Non-financial Highlights
+Environmental data
+Greenhouse gas emissions CO2 emissions
+Social data
+Number of female managers and Number of managers
+female manager ratio
+( t/year) Greenhouse gas emissions from the Tsukishima 4000
+234
+801
+221
+860
+217
+867
+their ratio to all managers (Persons) 400
+(%) 4.0
+About Tsukishima Kikai Value Creation Strategy Value Creation Results
+Business Foundation
+Financial Data
+     8 9 11
+11
+11
+  2.3
+341
+ 2.6
+342
+ 3.2
+332
+ 3.3
+326
+ 3.3
+319
+Kikai Group’s main sites totaled 3,045 t/year. We 3500 214
+99
+188
+Both the number of female managers and their 350
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0 2019 (FY)
+female manager ratio
+     will continue to strive to reduce greenhouse gas 3000
+ratio to all managers are steadily increasing. We 300
+    emissions. 2500 2000
+will continue improving systems that support the 250
+    ECO THERMAL Co., Ltd. contributes to creating 0.4 renewable energy through use of a solar power
+Waste generated (the head office)
+Waste generated at the head office was 152 t / year. Since paper accounted for nearly 70% of total waste generated, we began shifting to paperless in September 2019 in meetings of internal committees and the Executive committee as part of our efforts to reduce waste generation.
+25 / Integrated Report 2020
+generation facility (750 kW) installed by the
+improvements for unused land within its site. 2015
+0.2 company taking account in part of environmental 0.0
+2018
+1500 1000
+success of women in the workplace by enhancing 200 150
+  * Figures announced annually by our power suppliers are used as emission factors.
+* The main sites consist of the following four locations: Tsukishima  Kikai head office and factory, head office building of Tsukishima  Technology Maintenance Service Co., Ltd. (TTMS, a major Group  subsidiary), and Yachiyo Technical Center.
+Energy use
+Energy use at the Tsukishima Kikai Group’s main sites fell to 1,454 kL/year (converted to crude oil equivalents), significantly lower than that in the previous year, since the operation of certain energy- consuming equipment was discontinued with the relocation of production functions from the Ichikawa Factory to the Muroran Factory.
+We will continue to strive to conserve energy.
+Use of renewable energy
+500 747
+732
+career support through interviews and employee 100 satisfaction surveys, among other measures. 50
+    0
+Head office
+0
+0.6
+2,405
+2,687
+2,653
+2015 2016 2017 2018 2019 (FY)
+2015
+2016
+2017
+2018
+2,587
+2,026
+ Factory
+TTMS head office
+Yachiyo Technical Center
+* Tsukishima Kikai (non-consolidated) Men Women * Includes only regular, full-time managerial positions(including managers without duties
+of a managerial post).
+  Energy use converted to crude oil equivalents
+Numbers of employees taking Number taking childcare leave Percentage returned to the workplace after childcare leave childcare leave and percentages (Persons) 100 100 100 100 100 (%)
+(kL /year) 2000
+1500 1000 500 0
+returning to the workplace 5 100
+    3
+ 4
+2
+ 3
+2
+1
+     For both men and women, all employees 4280 who take childcare leave return to the workplace 360 following the leave. We have also made steady
+progress in encouraging men to take childcare 240
+       1,829
+1,802
+1,681
+1,649
+1,454
+ leave. 1220 00
+    2015
+2016
+2017
+2019 (FY)
+0.80
+2019 (FY) Waste generated per employee
+2015 2016 2017 2018 2019 (FY) * Tsukishima Kikai (non-consolidated) Men Women Percentage returning to the workplace after childcare leave
+  Share of solar power use at the head office
+2018
+0.78
+Occupational health and safety
+Tsukishima Kikai provides biannual safety training for all engineers to ensure safe, secure,
+and accident-free workplaces at construction and manufacturing sites and elsewhere. We hold special (on-site) training on specialized topics once every three months for tasks involving risk of oxygen deficiency or presence of hydrogen sulfide, tasks requiring full-harness safety belts, and the handling of low-voltage electricity.
+■ Health and safety training
+(%)
+  Number of trainees
+Number of sessions
+Internal health and safety training
+754 persons
+10 times
+Special training on tasks involving the risk of oxygen deficiency or presence of hydrogen sulfide
+72 persons
+4 times
+Tasks requiring full-harness safety belts
+238 persons
+4 times
+Special training on the handling of low-voltage electricity
+15 persons
+1 time
+Special training of workers handling dioxins
+13 persons
+1 time
+Solar panels installed on the roof of the head 1.0 0.82 office building (8.8 kW) produce about 0.8% of the 0.8
+    power used by the head office building.
+In addition, consolidated subsidiary SUN
+0.81 0.82
+2016 2017
+(t / year) 180
+160 140 120 100
+80 60 40 20
+0
+    Waste generated at the head office
+Number of workplace accidents
+(t / year/person)         
+0.32 0.35
+   0.20
+0.22 130.8
+0.25
+0.26
+0.30
+0.25
+0.20
+0.15
+0.10
+0.05
+0.00
+We conduct semiannual workplace patrol 8 inspections to inspect and improve workplace 6 environments and solicit and post safety slogans for 4 safety week to improve safety awareness among
+Throughout the organization, pursuant to
+Companywide health and safety policies established
+by the Central Health and Safety Committee, we
+strive to prevent accidents by sharing information (Accidents) on workplace accidents, in addition to implementing 12 quarterly inspections and evaluations and making 10 improvements as necessary.
+               117.7
+145.5
+141.8
+152.4
+12
+   6
+8
+6
+   2015 2016 2017 2018 2019 (FY) Waste generated at the head office Waste generated per employee
+employees. 24
+As a result of these efforts, the number of 0 workplace accidents has been on the decline.
+2015 2016 2017 2018
+2019 (FY) Integrated Report 2020 / 26
+
+ Value Creation Results
+ Water Environmental Business
+Major customers: Municipalities and private companies in Japan and overseas
+  Senior General Manager, Water Environmental Business Division Senior Managing Executive Officer, Representative Director
+Keita Takatori
+Message from the officer in charge
+Tsukishima Kikai’s technologies and services are used in the water purification equipment that provides a stable supply of safe, delicious drinking water and the sewage treatment equipment that helps create comfortable water environments. Member companies of our Group deploy ecofriendly waste treatment businesses.
+Drawing on strengths related in particular to the treatment of sludge generated from water purification and sewage treatment processes, we deliver machinery for effective treatment of sludge and equipment for putting it to effective use. In addition, we provide the operation and maintenance and chemical supply services essential to the continuing operation of water supply and sewage systems which are important social infrastructures. In recent years, we have supplied equipment and plants to sites around the world. Our efforts will continue to help preserve the global environment.About Tsukishima Kikai Value Creation Strategy Value Creation Results
+Business Foundation
+Financial Data
+FY2019 results
+Domestic water infrastructure investments in FY2019 remained relatively steady. The number of joint public-private partnership, including comprehensive O&M, PFI, and DBO, was on the increase. The Tsukishima Kikai Group undertook sales activities for water purification and sewage treatment facility renovation projects, PFI, DBO, and other joint public-private partnership, and O&M contract renewals in Japan. Overseas we strived to develop new water purification and sewage treatment facility construction projects.
+As a result, the Water Environmental Business in FY2019 recorded orders received of 42.3 billion yen (down 34% from the previous year), net sales of 52.2 billion yen (down 4% from the previous year), and operating income of 4.3 billion yen (up 14% from the previous year).
+Orders received were expected to decline at the start of the year due to a rebound from the large-scale orders received in the previous year, and we were able to maintain projected levels. Net sales declined slightly due to delays in Tsukishima Kikai machinery and equipment construction as a result of prior delays in civil engineering processes of which Tsukishima Kikai could not have control. Operating income increased due to improvements in construction profitability.
+A rendering of drainage treatment facility at Sengari Water Purification Plant in Kobe city (water purification plant drainage treatment facility DBO project)
+A rendering of sewage sludge-to-fuel conversion facility at Matsugashima Wastewater Treatment Plant in Ichihara city (sewage sludge-to-fuel conversion DBO project)
+  Main services in the Water Environmental Business
+Trends in net sales (100 million yen)
+Trends in operating income (100 million yen)
+50 40 30 20 10
+0
+     1
+Plants and equipment 
+600 500
+400 300 200 100
+0
+2016
+        We deliver plants such as of incinerators as well as dehydrators, dryers, and other equipment. Our main lines of equipment are designed and largely produced in-house. We have logged one of Japan’s best track records in the area of sludge treatment.
+2 Operations and maintenance (O&M)
+This business provides services consisting mainly
+of operation and maintenance for water purification and sewage treatment facilities on an annual basis, repair work of equipment, and supply of parts and chemicals.
+3 Life cycle business
+Under a business model based on long-term contracting and the Tsukishima Kikai Group’s expertise in technologies and operation and maintenance, we engage in joint public- private partnership such as PFI and DBO initiatives that combine facility construction and long-term (15-20 years) operation and maintenance. We also offer comprehensive O&M services and digestion gas power generation using the feed-in-tariff system.
+27 / Integrated Report 2020
+2017
+2018
+2019
+(FY)
+2016 2017 2018
+Trends in net sales (100 million yen)
+2019 (FY)
+2019 (FY)
+2019 (FY)
+2019 (FY) Integrated Report 2020 / 28
+Sludge incinerator for wastewater treatment plant use (next generation sludge incineration system)
+Wastewater treatment plant operators’ room
+Dehydrator for water purification plant use (filter press)
+Facility maintenance
+Plants and equipment
+Drainage treatment PFI project at the Samukawa Water Purification Plant in Kanagawa Prefecture (Japan’s first water supply/sewage system PFI project)
+200 150 100
+50 0
+Sewage sludge-to-fuel conversion system
+Trends in net sales (100 million yen)
+414
+462
+We received orders for products such as next-generation sludge incineration systems for sewage treatment plants.
+250 200 150 100
+50 0
+544
+522
+31
+29
+38
+43    197203
+122
+145Digestion tanks for sewage treatment plants and next-generation sludge incineration systems contributed to net sales.
+Operations and maintenance (O&M)
+We received orders for operation and maintenance of water purification and sewage treatment facilities and repair work on sewage sludge incinerators, water treatment machinery for water purification plants, etc.
+Life cycle business
+We received orders for DBO projects for drainage treatment facilities at water purification plants and for sewage sludge-to-fuel conversion facilities. Sewage sludge-to-fuel conversion facilities and several comprehensive O&M contracts contributed to net sales.
+
+About Tsukishima Kikai Value Creation Strategy Value Creation Results Business Foundation Financial Data
+ The costs associated with sludge treatment account for a large share of maintenance and management costs for small and medium-sized sewage treatment plants, putting pressure on local government finances. In response to the need for low cost and sludge volumes reduction technologies to gather sludge at small and medium-sized sewage treatment plants and the Ministry of Land, Infrastructure, Transport and Tourism of Japan sought technologies under a project targeting the development of innovative sewage technologies, and our technology has been chosen from among the public.
+The Group’s proposal will reduce fossil fuel consumption by using heat from sewage sludge while cutting sludge treatment costs. Facility design and construction will
+take place in Muroran city, Hokkaido in FY2020, and
+■ Building regional resource recycling-based societies
+demonstration test is set to start in FY2021. By installing
+a dewatering and drying system and biomass boiler at a small or medium-sized sewage treatment plant, we will verify reductions in sludge treatment costs by using heat inside the sewage treatment plant and reducing sludge volumes. Additionally, sludge from nearby sewage treatment plants, wood, and other local biomass resources will be used to establish a wide-area regional recycling model.
+In addition to promoting effective use of sewage sludge at small and medium-sized sewage treatment plants, Tsukishima Kikai will establish wide-area systems for reducing lifecycle costs as part of efforts to build regional resource recycling- based societies.
+Dewatered sludge
+Dryer
+Dried sludge
+Combustion ash
+In urban areas that generate large volumes of sewage sludge, incineration of sewage sludge is conducted using mainly fluidized-bed incinerators. This requires the use of large blowers to inject air from beneath the fluidized bed (sand). Next-generation sludge incineration systems supply air inside the incinerator using energy from the incinerator’s exhaust gas, with no need for blowers, providing power savings of 40-60% compared to previous systems. In addition, they
+■ Next-generation sludge incineration system
+Combustion exhaust gas
+reduce emissions of dinitrogen monoxide (N2O), a greenhouse gas generated in sewage sludge incineration with a global warming potential (GWP) of approx. 300 times that of CO2
+by 50% due to high combustion efficiency. As described above, we are steadily accumulating proven technologies offering outstanding performance for energy conservation and greenhouse gas reductions. We have received 11 orders for these systems.
+         Moisture
+Dewatered sludge
+Incinerator
+Air
+Compressor
+Turbocharger
+Transmits rotational force of turbine blades to compressor blades
+Exhaust
+Turbine
+Eliminates need for fans (induced draft fans) to draw exhaust gas from the incinerator.
+Compressed air
+Draws in air from the center through blade rotation and compresses air through centrifugal force generated by rotation.
+Eliminates need for blowers (fluidizing blowers) to inject air into the incinerator.
+Core of system
+Rotates blades by combustion exhaust gas
+      Sewage
+      Sludge
+Dehydrated sludge
+Reducing use of fossil fuels through sewage sludge-to-fuel systems
+  We are also involved in the business of reducing greenhouse gases by cutting use of fossil fuels by using sewage sludge as a carbon neutral solid fuel, for which we have received eight orders to date. Once the ordered systems are all start-up, this will lead to reduction of coal use of approx. 20,000 t/year from production of approx. 38,000 t/
+year of solid fuel. Combining the portion corresponding to the adoption of the sludge-to-fuel systems at sewage treatment plants with that from reduced use of coal through use of solid fuel, this leads to a greenhouse gas emission reduction of approx. 84,000 t-CO2/year, equivalent to emissions from approx. 24,000 ordinary households.
+  Nearby sewage treatment plants   Sewage treatment plant
+  Dewatering equipmentWastewater treatment
+Digestion tankBiomass boilerRegional biomass
+Effective use
+■ Sludge-to-fuel business
+Sewage sludge
+    Sewage treatment plants
+ Research project
+Research for demonstration of low-cost sludge reduction technology using biomass boilers to contribute to the wide-area linkage of small and medium-sized sewage treatment plants
+Joint partners
+Tsukishima Kikai Co., Ltd., Nippon Steel Cement Co., Ltd., Takasago Thermal Engineering Co., Ltd., Muroran city, and Muroran Institute of Technology
+Demonstration location
+Ranto Sewage Treatment Plant (Muroran City, Hokkaido)
+Demonstration period
+Starting FY2020
+Stable long-term recycling system
+Sewage sludge-to-fuel system
+Reduces emissions of N2O with a GWP of approx. 300 times that of CO2 by
+50%
+  Reduction in coal use:
+approx.
+20,000
+t /year
+Reduction in greenhouse gas emissions:
+approx. 84,000t-CO2/year
+Sewage sludge fuel
+(Coal alternative)
+Sewage sludge pellets
+      29 / Integrated Report 2020
+Integrated Report 2020 / 30
+
+We are currently deploying a 20-year power generation business involving the purchase of carbon neutral digestion gas from municipalities, generated through methane fermentation of sewage sludge, and the sale of electricity using the feed-in-tariff (FIT) system, allocating the revenues from power sales to cover the costs of digestion gas fees and investment in power generation equipment. We are a pioneer in this business model, securing the top share of the Japanese market with a track record of 17 projects. The total generating capacity to date is approx. 14,600 kW, equivalent to the power consumed by approx. 24,500 ordinary households.
+
+As the time approaches to renovate Japan’s aging water supply and sewage system infrastructure, strengthening earthquake resistance and preparing for frequent torrential downpours and other natural disasters are urgent priorities. On the other hand, as the number of personnel involved in the water purification and sewage treatment continues to decline due to Japan’s decreasing workforce, it is essential to maintain the water supply and sewage system infrastructure, a major social infrastructure, through public-private partnerships while using private sector expertise and capital.
+Tsukishima Kikai’s life cycle business includes PFI and DBO projects that integrate construction with long-term maintenance, as well as multiyear comprehensive O&M contracts. We were among the first companies involved in joint public-private partnerships, such as the drainage treatment PFI project at the Samukawa Water Purification Plant in Kanagawa Prefecture, Japan’s first water/sewage PFI project. We now have many years of experience and expertise in this area.
+Tsukishima Technology Maintenance Service Co., Ltd., which handles operation & maintenance at some 100 of water purification and sewage treatment facilities across Japan, is socially responsible for ensuring such facilities continue to function to the extent possible even in the event of emergencies. Tsukishima Technology Maintenance Service has formulated a risk management plan for normal times
+and business continuity plan (BCP) to improve its capacity to respond to emergencies, and it carries out periodic drills related thereto. The company also maintains the structure needed
+to stockpile emergency supplies and equipment (e.g., food, generators) and dispatch personnel, equipment, and supplies to affected sites in the event of an emergency.
+As part of efforts to automate everyday site operations
+and reduce labor requirements, the company has established an intensive monitoring center that supervises multiple sites simultaneously and introduced the use of smart technologies in on-site work. In one example, site workers wear smart glasses to share high-resolution audio-visual data with engineers at the head office to ascertain status details. Providing workers on site with support through audio-visual communication enables fast and effective response, even in remote locations.
+
+To help resolve water environmental issues around the world, we deliver equipment and plants meeting the needs of each country. With the domestic water supply and sewage system market focused on renovation projects, we believe expanding overseas is essential to the growth of our Water Environmental Business. Alongside economic growth, demand for water infrastructures is growing in the major cities of China and Southeast Asia. As a specialist in sludge treatment, we have seen growing demand for our services due to the need to treat sewage sludge—previously disposed of by landfill— generated as a result of increasing access to and use of sewage treatment.
+We have delivered more than 20 sludge dryers to the China market, and we are the only Japanese firm with a track record in dryers and incinerators in this market. Our operations in China are conducted through a joint venture (JV) with local Chinese firms, and we are also the only Japanese firm in China with experience as a lead JV partner in this field. In April 2019, with business in China growing, we established a joint venture with a local firm to establish a maintenance structure, and we now operate both sales and maintenance structures in China. We also have experience of construction in Vietnam,
+where demand is growing for sewage treatment with expanding adoption of water supply systems, and we have constructed several wastewater treatment plants in this market. We
+have also delivered machinery and equipment used at water purification plants in Bangladesh, another area associated with growing adoption of water supply systems.
+To improve water environments worldwide, Tsukishima Kikai will continue to provide equipment and plants suited to the needs of each country.
+
+ Value Creation Results
+ Industrial Business
+Major customers: Private sector firms, engineering          companies, waste processors
+  Senior General Manager, Industrial Business Division Director , Managing Executive Officer
+Naoya Fujita
+Message from the officer in charge
+The Industrial Business is active in the chemicals, iron & steel, and foodstuffs
+fields, as well as in the field of environment and energy. In the chemicals field, among other products, we supply the equipment used to manufacture various intermediary petrochemical products that serve as raw materials such as resins essential to our
+daily lives. In the iron & steel field, our engineering technologies are used for exhaust
+gas treatment and the storage of gases generated by blast furnaces, among other applications. In the foodstuffs field, we deliver separation and crystallization technologies developed and refined in sugar refining processes since our founding. In the field of the environment and energy, we deliver equipment for waste liquid and solid waste treatment, as well as the equipment used to manufacture component materials for lithium ion secondary batteries, for which demand has been growing in recent years. In the future, we will continue to contribute to building industrial foundations that enrich our daily lives.        Main services in the Industrial Business
+40 35 30 25 20 15 10
+5 0
+as chemicals, iron & steel, and foodstuffs, we engaged in sales activities targeting various types of plant and equipment, including dryers, centrifuges, filtration equipment, and gas holders, as well as equipment related to the manufacture of secondary batteries, both in Japan and overseas. As a result, in FY2019, we received orders from domestic and overseas customers for equipment related to the manufacture of secondary batteries, automated weighing and transportation equipment for powder raw materials, dryers, and gas holders for steelmakers. Major contributions to net sales came from chemical manufacturing equipment for chemicals companies and equipment for the manufacture of functional food for foodstuffs companies.
+Incineration
+We pursued sales activities targeting domestic and overseas customers for waste liquid combustion systems, incineration facility for industrial and other solid waste, and exhaust gas treatment system.
+Major orders received in FY2019 included those for waste liquid combustion system for chemicals companies. Other equipment such as exhaust gas treatment system for waste treatment facilities and hydrochloric acid recovery systems also contributed to net sales.
+Operation and maintenance (O&M)
+Both orders received and net sales were strong for the O&M business, which supplies replacement parts for plants and equipment we have delivered in the past.
+Waste treatment
+This business collects waste, primarily in the Kanto area. Net sales are trending up, buoyed by stable demand for both general and industrial waste.
+1
+2017 2018
+2016 2017
+2018
+Operation and maintenance (O&M)
+About Tsukishima Kikai Value Creation Strategy Value Creation Results Business Foundation Financial Data
+FY2019 results
+The FY2019 domestic business environment presented uncertain future prospects due to the impact of US-China trade friction and slowing overseas demand as a result of COVID-19, along with slowing manufacturing. Internationally, similar factors applied pressure on corporate business performance, generating cause for special attention to the risks of a global economic slowdown.
+Orders received in the Industrial Business in FY2019 were 39.2 billion yen (down 11% from the previous year). Net sales were 48.1 billion yen (up 11% from the previous year).
+Trends in net sales (100 million yen)
+500 400 300 200 100
+Operating income was 3.8 billion yen (down 6% from the previous year).
+Comparisons to the previous fiscal year show orders received declined due to delays and cancellations of certain projects at the end of the fiscal year attributable to COVID-19. Net sales grew, thanks to steady progress in projects for which orders had already been received in fields like chemicals and foodstuffs. While operating income was down this fiscal year as a rebound from the previous year’s highly profitable projects, we secured a gross income on sales in the 20% range.
+0 2016
+285
+389
+434
+2019 (FY)
+To capture demand for capital investment and renovation in fields such
+2019 (FY)
+2019 (FY)
+2019 (FY)
+2019 (FY)
+2019 (FY) Integrated Report 2020 / 34
+481
+Trends in operating income (100 million yen)
+4
+15
+40
+38
+ Plants and equipment
+  Our plants are backed by an extensive track record in Japan and worldwide. In the field of the environment and energy, we work on equipment and plants for exhaust gas treatment and the manufacture of lithium ion secondary batteries. Typical equipment includes large-scale industrial dryers for drying terephthalic acid, a raw material for polyester fibers, and high moisture coal. We also build and repair waste incinerators and supply high-speed mixers.
+2 Incineration
+We supply treatment facilities for waste liquid and solid waste generated by factories. We hold a domestic market share of 70% for waste liquid combustion systems, which we also deliver overseas. We have a track record in the delivery of Japan’s largest solid waste treatment facility.
+3
+Plants and equipment
+Trends in net sales
+(100 million yen) 300
+     200 100 0
+2016 2017
+2018
+2018
+2018
+2018
+ 171
+259
+279
+313
+ Large-scale industrial steam tube dryer
+Waste liquid combustion system
+Chemical plant
+Solid waste treatment facility
+Trends in net sales (100 million yen)
+100 80 60 40 20
+0 2016 2017
+Trends in net sales (100 million yen)
+70 60 50 40 30 20 10 85
+47 54
+71
+     65727056  We supply replacement parts and other supplies for plants, equipment, incineration facilities, and other equipment which we have delivered.
+4
+0 2016 2017 Trends in net sales
+  Waste treatment
+(100 million yen) 15
+     Our businesses also include intermediary treatment of general and industrial waste and power generation using waste heat. We
+are also involved in solar power generation.
+* Starting in the fiscal year ending March 2021, this business segment will be moved from the Industrial Business to the Water Environmental Business, from the standpoint of  linking sewage sludge as a community resource with waste treatment.
+33 / Integrated Report 2020
+
+Petrochemical products are used across a wide range
+of applications involving resins, films, and mechanical products. The waste liquid generated in petrochemical plants manufacturing raw materials for such products is difficult
+to treat using standard wastewater treatment methods, creating demand for special treatment. We hold leading shares of the domestic and international markets for waste liquid combustion systems used to treat this waste liquid, holding a 70% share of the Japanese market. With broad and expanding demand for petrochemical products into the future, particularly in rapidly growing emerging markets, we will continue to focus on sales expansion for the waste liquid combustion systems both in Japan and around the world.
+
+Both people’s daily lives and industrial activities generate a wide range of solid waste, generating in turn demand for
+its proper treatment. Solid waste treatment facility can be used to treat a diverse range of solid waste, including plastic waste and sludge. Melting kilns can efficiently and safely treat a wide range of waste, including medical waste, glass shards, and other difficult to recycle waste, PVCs, waste oil, and waste liquid, by melting them together. They also contribute to building a recycling-based society by making it possible to recover rare metals from the melt residue.
+
+Hydrochloric acid recovery and concentration systems are used to recover hydrochloric acid as industrial raw material from exhaust gas produced in the incineration of waste containing chlorine that is difficult to burn, such as vinyl chloride monomer (VCM) and plastic waste. We have developed and refined these systems since the 1960s, delivering more than 100 systems to date to customers
+in Japan and around the world. We expect to apply these technologies in various areas, including plastic waste treatment, a growing issue worldwide.
+DAIDO CHEMICAL ENGINEERING CORP. deploys acid recovery systems for use by manufacturers of electronic components, iron & steel, and chemicals. While acids such as hydrochloric acid, sulfuric acid, nitric acid, hydrofluoric acid, and boric acid are used repeatedly in production lines, as their impurity content increases, they become unusable and must be disposed of as waste. Recovering reusable acids through the process of concentration, crystallization, and dialysis of waste acid liquids and then returning them to production lines can help reduce waste liquid volumes and waste emissions.
+
+We have various exhaust gas treatment technologies that help prevent air pollution. For example, such technologies enabled a rational process of generating ammonium sulfate, a leading fertilizer ingredient, through contact between exhaust gas containing ammonium generated from steel mill coke ovens and sulfuric acid, by balancing environmental protection with effective use of exhaust gas components.
+
+Lithium ion secondary batteries are used to power EVs and other eco-friendly vehicles and to store renewable energy.
+We deliver equipment used to manufacture cathode active materials, which impact on the performance of lithium ion secondary batteries, as well as anode materials and electrolytes in Japan and overseas. Our cathode material manufacturing equipment employs our core crystallization, filtration, drying, weighing, and mixing technologies developed since our founding. We have a track record in a wide range of production areas from precursors through active materials. We are also capable of handling integrated engineering including wastewater treatment equipment.
+
+Asia has experienced remarkable growth in recent years, with certain areas undergoing rapid industrialization. Cases involving transplanting (i.e., installing overseas production functions already present in Japan) by Japanese firms, in which we help domestic customers advance overseas, are increasing.
+Our overseas affiliates are primarily responsible for sales activities in their local markets, and the Thai affiliate TSK Engineering (Thailand) Co., Ltd. has both sales and engineering functions, with total staffing of around 80 people. This subsidiary handles the entire series of engineering operations, from sales to design and construction.
+Through these initiatives, we intend to contribute to social progress and an improved standard of living in Asia.
+
+Active in the waste treatment business, SUN ECO THERMAL Co., Ltd. contributes to renewable energy generation through the installation of a solar power generation facility (750 kW) as part of environmental improvements for unused land at its site.
+
+ Value Creation Results
+International Business Development
+We have developed our business in overseas markets since our founding in 1905. We were involved in the construction of a sugar refinery in Taiwan in 1908. In the years since then, we have expanded into Southeast Asia. Since opening a sales affiliate in Singapore in 1986, we have accelerated our global development in Southeast Asia, Europe, and other regions. Over the past decade, we have delivered products to 35 countries around the world.
+Continuous melting and purifying equipment (4C process*) for PDCB production plant (US)
+* 4C process: counter current cooling crystallization and purification process
+● Water and sewage field ● Chemicals field
+Waste liquid combustion Polymers Korea Co., Ltd. (South Korea)
+Bisphenol A (BPA) manufacturing facility (South Korea)
+Bisphenol A (BPA) manufacturing facility (Taiwan)
+Dryers for manufacturing terephthalic acid (Canada)
+Submerged clarifier for water purification plant (Bangladesh)
+Seawater flue
+gas desulfurization system(Thailand)
+type centrifuges for Waste liquid combustion system (Philippines) sugar factory (Thailand)
+Dryers for manufacturing terephthalic acid for Reliance Industries Ltd. (India)
+Solid waste incineration facility (Vietnam) Surfactant manufacturing facility (Vietnam)
+Solid waste incineration facility (Malaysia) Foodstuffs manufacturing facility (Malaysia)
+Alumina manufacturing facility for P.T. Indonesia Chemical Alumina (Indonesia)
+Fully automatic batch type centrifuges for sugar factory (Indonesia)
+About Tsukishima Kikai Value Creation Strategy Value Creation Results
+Business Foundation Financial Data
+Coal dryer for POSCO (South Korea)
+● Iron & steel field ● Foodstuffs field
+● Environment- related field
+ Value Creation Results
+R&D
+Senior General Manager, Research & Development Division Managing Executive Officer
+Hiroyuki Yokomaku
+Message from the officer in charge
+Ever since our founding, we have applied our core technologies in areas such as crystallization, drying, and incineration to industrial fields ranging from chemicals to iron & steel, foodstuffs, and the environment and energy, as well as water environmental fields such as water supply and sewage systems.
+In today’s business environment, amid progressing globalization, digital technologies such as AI and IoT are advancing rapidly, driving changes in business models. Under such conditions, we will take on R&D themes with an eye toward the future by selecting and concentrating core technologies to ensure our sustained growth.
+    About Tsukishima Kikai Value Creation Strategy Value Creation Results Business Foundation Financial Data
+FY2019 results
+In FY2019, we worked on development related to energy, a key theme in our medium-term management plan. In the Water Environmental Business, we worked on processes
+for creating energy from sewage sludge. In the Industrial Business, we worked on the development of technologies related to secondary batteries and pursued technological developments related to AI and IoT to improve process efficiency and reduce labor requirements.
+One major development related to R&D was the relocation of the Company’s research facility. Previously located next to the Ichikawa Factory, the research facility was relocated to
+Yachiyo city, Chiba Prefecture, along with the closure of the Ichikawa Factory. Renamed the R&D Center, the facility began operating in January 2020.
+With this move, we have strengthened our R&D functions by installing new equipment and enhancing development
+and testing functions. We plan to establish new processes
+by continuing to improve the core technologies accumulated over the years. In addition, the R&D Center features a Group showroom that presents our technologies, by using videos and a display of models.
+   The Tsukishima Kikai Group’s strengths in R&D
+Showroom
+R&D Center
+The Tsukishima Kikai Group’s R&D efforts include activities ranging from laboratory experiments to pilot experiment
+using equipment to collect the data needed for selection of equipment and processes and structures for analysis and evaluation Customers can attend experiments from the testing stage, after which we perform rapid assessment of the data collected and then incorporate the findings into equipment specifications.
+Illustrated below is the flow from development to commercialization. Studies focus not just on such specific devices as filters, dryers, but on entire systems. In areas related to lithium ion secondary batteries, for example, we can perform integrated verification and make proposals on comprehensive engineering and equipment used in processes ranging from crystallization to filtration and drying.
+ On receiving a customer request, we collect basic data through
+laboratory experiment. The R&D Center operates laboratories tailored
+Basic study
+Laboratory experiment
+Scale up
+Pilot experiment
+Evaluation
+Analysis, evaluation Recommendation
+Future topics and FY2020 strategies
+to specific core technologies, including filtration, crystallization, and
+drying, each with its own specialized testing equipment. At this stage,
+we assess basic performance, invite customers to make their own
+evaluation and ascertain the applicability. Laboratory experimentation (filtration)
+Based on data obtained from laboratory testing, we collect upscaling
+data using pilot experiment testing equipment, such as various dryers
+and filtration equipment installed permanently inside the laboratory
+building for indoor experiment area and other facilities. With customers present in some cases, we confirm results and advance Pilot experiment
+experimentation. equipment (drying)
+The obtained samples are quickly analyzed in an analysis room and evaluated with operational data. We propose optimal facility designs and solutions by using structural analysis, simulations, and other analytical tools.
+As we advance the development of equipment and processes, it is essential to fuse the equipment and processes with AI, IoT, and other digital technologies. Since our current in-house knowledge in the digital field is insufficient, we must form alliances with other companies and universities with relevant technologies.
+In April 2011, we concluded a comprehensive partnership
+agreement with the Muroran Institute of Technology. Since then, we have partnered with the Institute in internships, doctoral programs for working adults, and other activities. In AI and IoT field, we will strive to optimize our processes and equipment operations by applying AI, machine learning, and model prediction controls based on real-world data, an area in which the Institute offers considerable expertise.
+Indoor laboratory building
+Analysis room
+        Muroran Institute of Technology
+AI, machine learning, and model prediction controls
+Preprocessing Machine Inference learning
+i
+Data Information Knowledge Intelligence Visualization
+         39 / Integrated Report 2020
+Integrated Report 2020 / 40
+Delivery, operation
+Evaluation
+Tsukishima Kikai Co., Ltd.
+A wealth of technical expertise
+Water purification and sewage treatment facilities, industrial plants
+(Dryers, centrifuges, etc.)
+Efforts to improve operation efficiency
+  
+Business Foundation
+Corporate Governance
+Basic concepts
+As a company with a board of corporate auditors, Tsukishima Kikai has established a transparent, fair, and swift decision-making structure, whereby the board of directors makes decisions regarding the execution of business operations and oversees the performance of the duties
+of directors while the board of corporate auditors audits
+the performance of the duties of directors. We also strive
+to make the board of directors still more effective through
+About Tsukishima Kikai Value Creation Strategy Value Creation Results Business Foundation Financial Data
+improvements based on the results of periodic surveys of directors and corporate auditors.
+In addition, in accordance with its basic policy on the development of internal control systems, the Company maintains and operates such systems, continually assesses and improves their efficacy in business activities, and ensures thoroughgoing compliance.
+Assessing the efficacy of the board of directors
+ We make efforts to enhance board deliberations to make the Board meeting more effective and improve corporate
+Main survey content
+Results of assessment
+Training of outside officers
+To deepen their understanding of the Company, outside officers receive training, including tours of factories and sewage treatment plants and explanations of R&D initiatives.
+Compliance
+FY2019 compliance initiatives
+The compliance management structure is subject to periodic internal audits by the internal audit sections, primarily the Internal Auditing Department. In addition, to ensure the propriety of Company business operations, a preventive (defense) structure consisting of business divisions (the first line of defense), administrative sections (the second line), and the internal audit sections (the third line) has been established as part of the governance and risk management structure.
+Future topics and responses
+In October 2018, Tsukishima Technology Maintenance Service Co., Ltd. (the "Subsidiary") was subject to an on-
+site inspection by Japan Fair Trade Commission (the "Commission") regarding a suspected violation of the the Act on Prohibition of Private Monopolization and Maintenance
+of Fair Trade in connection with a project involving the operation management of a drainage treatment facility of a water purification plant ordered by the Tokyo Metropolitan Government. In July 2019, Tsukishima Technology Maintenance Service received the orders of a cease and desist and a surcharge payment from the Commission. The company has improved its organization in accordance with the cease and desist order and paid the surcharge. Based on this experience, we are striving to prevent similar incidents
+value. Surveys are carried out to verify the efficacy of the Board meeting.
+  ■ The board meeting has been assessed as effective in general.
+■ While the structure of the board meeting and information provision to executives were assessed as appropriate, some points to improved were apparent regarding internal control systems and dialogue with shareholders and investors.
+■ To improve efficacy still further, we will continue with executive training, enhance deliberations within
+the board meeting on dialogue with investors and other parties, and develop a structure to improve monitoring of Groupwide internal controls and risk management.
+  Corporate policy
+Tsukishima Kikai Group Corporate Code of Conduct—Our Five Commitments Tsukishima Kikai Group Corporate Action Guidelines
+ Appointment, dismissal Reporting
+General meeting of shareholders
+Promoting lively debates at board meeting
+Since the provision of advance information is essential to vigorous board deliberations, efforts are made to promote lively debates at board meeting through early distribution of documents and prior explanations of agenda items.
+To prevent compliance violations, the Tsukishima Kikai Group Corporate Helpline has been established to prevent and identify any acts that violate laws, regulations, and other standards. Helpline reports are handled by outside attorneys and Company full-time corporate auditors, as well as a contracted specialized agency independent from the Company.
+by restructuring our internal control systems, establishing the Compliance Committee, providing retraining on the Act on Prohibition of Private Monopolization and Maintenance of Fair Trade, and improving our sales manuals.
+In addition, in FY2019, we carried out an employee awareness survey through an external specialized agency
+to ensure objectivity. This survey addresses employees’ engagement as a performance indicator and eight topics, such as rewarding work and leadership, as leading indicators. We are analyzing the survey results to improve employee engagement and study internal control measures. We plan to deploy measures based on the results of analysis, striving to improve employee engagement and strengthen governance and compliance structures.
+Appointment, dismissal
+Appointment, dismissal
+Supervision Dismissal Appointment
+Auditing, reporting
+3 Board of corporate auditors One internal and two outside members
+ 1
+Board meeting
+   Accounting auditor
+Reporting
+Five internal and three outside members
+    Auditing
+Consultation Advising
+2 Nomination and Remuneration Advisory Committee
+One internal and three outside members
+ Cooperation
+Representative directors
+ Internal audit sections
+4 Executive
+ committee
+Directors, executive officers
+ Affiliate Management Section
+ Individual business divisions
+    Cooperation
+Instructions
+Reporting
+Instructions
+Reporting
+Cooperation Instructions
+Reporting
+Instructions
+Supervision Guidance Support
+Reporting
+Cooperation
+Reporting
+   Director in charge of corporate ethics
+ 5
+Tsukishima Kikai Group Compliance Committee
+   Auditing
+Auditing
+Auditing, assessment, recommendations
+ Compliance promotion sections
+Instructions
+ 41 / Integrated Report 2020
+Integrated Report 2020 / 42
+Supervision Guidance Support
+Subsidiaries
+■ Structure of the board meeting  ■ Operation of the board meeting  ■ Duties of the board meeting ■ Corporate ethics and risk management  ■ Dialogue with shareholders
+ Risk Management Committee
+  1 Board meeting
+Outside directors are appointed to strengthen
+management objectivity and transparency. Chosen from candidates with a wealth of management experience and knowledge and strong legal expertise, outside directors advise on all aspects of management.
+4 Executive committee
+Composed of directors with executive authority, the Executive committee, which meets weekly in principle, deliberates on reported important matters related to the management of the Company and its subsidiaries. Standing corporate auditors also attend and offer opinions. The committee submits and/or reports to the board of directors on matters with the potential to significantly affect management.
+3 Board of corporate auditors
+The corporate auditors seated on the board
+meeting to audit the performance of the duties of directors. To maintain checks and balances to the board of directors and ensure their independence, outside auditors are appointed, drawn from those with a wealth of knowledge and experience, CPAs, and other candidates.
+2 Nomination and Remuneration Advisory Committee
+A majority of the members of this advisory body to
+the board of directors are outside directors. Based
+on appropriate participation and advising by outside directors, it deliberates on matters such as the selection of candidate directors and the state of the remuneration systems for directors and actual remuneration. It met five times during FY2019.
+5 Tsukishima Kikai Group Compliance Committee
+Intended to strengthen the Group’s corporate governance structure, the committee consists of the President and CEO (the chairperson), the director in charge of corporate ethics (the vice chair), and directors (responsible
+for compliance) from individual subsidiaries. It strives to improve efficacy in aspects such as organizations and structures, rules and regulations, and education.
+
+Business Foundation
+Executive team
+Risk management
+Basic concept
+The Tsukishima Kikai Group Risk Management Rules set forth the Group’s basic concept, structure, and procedures for responding to risks.
+Chairman & Representative Director
+Senior Managing Executive Officer, Representative Director
+Director Managing Executive Officer
+Outside Director
+Kazuhiko Yamada
+Joined the Company
+General Manager, Corporate Management Planning Department/ General Manager, Information Systems Department
+Director of the Company.
+Senior Managing Director, Representative Director of the Company
+President & CEO, Representative Director of the Company
+Chairman, Representative Director of the Company (present position)
+Keita Takatori
+Joined the Company.
+Senior General Manager, Environmental Business Dept. of the Company
+Senior General Manager, Corporate Management Planning Dept. of the Company
+Executive Officer of the Company
+Corporate General Manager, Water environmental Business Division of the Company (present position)
+Director of the Company
+Senior Managing Executive Officer, Representative Director of the Company (present position)
+Jun Kawasaki
+Joined the Company.
+General Manager, TBR Promotion Sec. of the Company
+General Manager, Secretary Sec. of the Company Senior General Manager, Personnel and Administration Dept. of the Company Senior General Manager, Corporate Management Planning Dept. of the Company
+Executive Officer of the Company Managing Executive Officer of the Company (present position)
+Corporate General Manager, Corporate Administration Division of the Company (present position)
+Director of the Company (present position) President and CEO, PRIMIX Corporation (present position)
+Michiyoshi Mazuka
+Joined Fujitsu FACOM Co., Ltd.
+Joined FUJITSU LIMITED.
+Member of the Board and Head of East Japan Sales Business Unit, FUJITSU LIMITED Chairman and Representative Director, FUJITSU LIMITED
+Chairman, President and Representative Director, FUJITSU LIMITED
+Chairman and Representative Director, FUJITSU LIMITED
+Chairman and Director, FUJITSU LIMITED Advisor and Director, FUJITSU LIMITED Outside Director, NIPPON CONCRETE INDUSTRIES CO., LTD. (present position) Advisor, FUJITSU LIMITED
+Outside Director, AMADA HOLDINGS CO., LTD. (currently AMADA CO., LTD.) (present position)
+Senior Advisor, FUJITSU LIMITED
+Outside Director of the Company (present position)
+President & CEO, Representative Director
+Yoshiyuki Fukuzawa
+Joined the Company.
+Senior General Manager, Research & Development Dept. of the Company
+Senior General Manager, Solution Technology Dept. of the Company
+Executive Officer of the Company
+Corporate General Manager, Research & Development Division of the Company Director of the Company
+President & CEO, Representative Director of the Company (present position)
+Naoya Fujita
+Joined MITSUI & CO., LTD.
+President and Chief Executive Officer, Bussan Packaging Service Co., Ltd.
+President and Chief Executive Officer, Retail System Service Co., Ltd.
+General Manager of Retail Business Division, Food Products & Services Business Unit, MITSUI & CO., LTD.
+Managing Executive Officer of the Company (present position)
+Director of the Company (present position)
+Corporate General Manager, Industrial Business Division of the Company (present position)
+Takeshi Odagi
+Completed Judicial Apprenticeship Training program. Registered as an attorney, Joined ISHII Law Office
+Partner of ISHII Law Office (present position)
+Outside Statutory Auditor, TOKYO ROPE MFG. CO., LTD. (present position)
+Outside Director of the Company (present position)
+Norio Katsuyama
+Joined Nippon Steel Corporation. (currently NIPPON STEEL CORPORATION)
+Director, Nippon Steel Corporation
+Executive Vice President and Representative Director, Nippon Steel Corporation
+Representative Director and President, Nippon Steel & Sumikin Chemical Co., Ltd. (currently NIPPON STEEL Chemical & Material Co., Ltd,)
+Director, Member of the Board and Senior Advisor, Nippon Steel & Sumikin Chemical Co., Ltd.
+Senior Advisor, Nippon Steel & Sumikin Chemical Co., Ltd.
+Outside Director of the Company (present position)
+About Tsukishima Kikai Value Creation Strategy Value Creation Results Business Foundation Financial Data
+       ■ Risk management structure
+Chairman ; President & CEO (Representative Director)
+The risk management structure under the Risk Management Rules is led by the Risk Management Committee, chaired by the President & CEO.
+   Director Managing Executive Officer
+Risk Management Committee
+Reporting, instructions
+Related parties in section where risk occurs
+Major themes of corporate risks in FY2019
+Cooperative sections
+     Corporate Management Planning Department
+ Internal Auditing Department
+ Information Systems Department
+ Treasury Department
+ Public Relations Office
+      43 / Integrated Report 2020
+Integrated Report 2020 / 44
+April 1969 July 1999
+June 2000 June 2003
+June 2005 April 2020
+April 1988 July 2004
+October 2008
+June 2009 April 2018
+June 2018 April 2019
+Outside Director
+    Outside Director
+April 1990 July 2004
+April 2006
+April 2013 April 2018
+June 2019 April 2020
+  The major corporate risks faced by the Group are listed below.
+Regarding business risks, the Water Environmental Business faces the risk of changes in public works projects affecting its business performance. The Industrial Business faces the risk of impact on business performance attributable to trends in customer capital investments in response to the global economic downturn resulting from prolonged US-China trade friction and COVID-19. In addition, due to COVID-19, orders may be delayed until the next fiscal year due to developments such as temporary suspension of work on construction projects currently underway.
+・ ・
+・Accidents and disasters in facility construction and   manufacture of equipment
+・The nature of the Group’s businesses (e.g., materials prices,  design changes during construction, defects after delivery)
+Main initiatives and future responses
+・
+Chair
+・President & CEO
+Members
+・Director in charge  of risk management
+・Executive Officers
+ April 1987
+November 2002
+July 2012
+January 2016
+April 2017
+June 2017 April 2018
+Demand and market conditions (business risks)
+Risks related to business expansion overseas (e.g., foreign exchange, political instability)
+Other risks (e.g., stock price fluctuations, retirement benefit   obligations, laws and regulations, large-scale disasters)
+Secretariat
+・ Legal Department ・Administration
+ Department
+・ Personal Department
+  April 1992 December 2003
+January 2006 April 2010
+April 2014
+April 2015 April 2017
+April 2019
+June 2019 May 2020
+April 1970
+April 1980 June 2011
+June 2017
+       ■ Withregardtobusinessrisks,werespondedtothetemporarysuspensionofoperationsduetoCOVID-19through measures to minimize risks, assigning the highest priority to ensuring the safety of employees and related parties. These measures include having Group employees work from home.
+■ Ofrisksrelatedtooverseasbusinessexpansion,weseektominimizetheimpactofexchangeratefluctuationsthrough hedge transactions, such as forward exchange contracts.
+■ Byitsnature,theGroup’sbusinessrevolvesaboutproductiontoorder.Incertaincases,actualcostsmaydifferfrom quoted costs due to prices of materials procured, demand conditions, and rising subcontracting costs after order receipt. Facility construction also poses the risk of unanticipated costs due to design changes or reworking during construction.
+ As part of efforts to fortify our business foundation, a basic policy specified in the medium-term management plan, we strive to minimize risks based on the comprehensive management of individual projects and efforts to reduce construction costs.
+April 1968 April 1971 June 2001
+June 2008
+September 2009
+April 2010
+June 2012 June 2014 June 2015
+June 2016
+April 2018 June 2018
+April 1975
+June 2005 June 2011
+June 2013
+June 2016
+June 2017 June 2020
+
+Financial Data
+Consolidated Financial Data
+About Tsukishima Kikai
+Value Creation Strategy
+Value Creation Results
+Business Foundation
+Financial Data
+ (Unit:million yen)
+ 2011/ 3
+ 2012/ 3
+ 2013/ 3
+   2014/ 3
+ 2015/ 3
+ 2016/ 3
+ 2017/ 3
+ 2018/ 3
+ 2019/ 3
+ 2020/ 3
+ 87,161
+78,002
+84,150
+79,552
+66,794
+80,263
+74,429
+111,963
+107,632
+81,497
+ 88,859
+ 94,381
+ 98,664
+  107,000
+ 98,155
+ 85,335
+ 89,903
+ 116,771
+ 126,635
+ 107,800
+ 65,042
+  72,480
+  79,866
+    71,216
+  75,639
+  75,758
+  69,862
+  85,095
+  97,768
+  100,333
+ 2,420
+3,256
+4,419
+5,001
+5,273
+5,485
+3,508
+4,430
+7,796
+8,051
+ 2,505
+ 3,555
+ 4,688
+  5,202
+ 5,739
+ 5,527
+ 3,842
+ 4,759
+ 8,136
+ 8,459
+ 1,282
+  1,822
+  2,369
+    3,986
+  3,344
+  3,055
+  2,169
+  2,940
+  4,996
+  5,696
+ 812
+1,135
+1,478
+5,776
+1,597
+1,861
+2,627
+2,336
+12,762
+8,283
+ 1,421
+  1,277
+  1,064
+    921
+  1,057
+  1,230
+  1,306
+  1,435
+  1,397
+  1,645
+ 945
+953
+1,165
+1,102
+1,109
+1,059
+1,050
+1,185
+1,086
+1,126
+ 84,315
+ 89,261
+ 92,095
+  98,688
+ 105,002
+ 99,753
+ 106,630
+ 117,958
+ 131,991
+ 128,340
+ 44,718
+ 46,655
+ 50,344
+  55,734
+ 58,966
+ 58,729
+ 61,257
+ 65,104
+ 68,425
+ 67,356
+ 44,718
+  46,456
+  50,053
+    55,334
+  58,418
+  58,079
+  60,715
+  64,452
+  67,356
+  66,069
+ 5,181
+ 4,489
+ 4,049
+  3,659
+ 4,921
+ 3,940
+ 6,028
+ 9,060
+ 12,912
+ 12,696
+ 33,254
+34,562
+36,262
+39,580
+42,140
+44,161
+45,528
+47,707
+51,946
+56,536
+ 3,497
+ 2,623
+ 5,091
+  746
+ △704
+ 2,948
+ 11,970
+ △643
+ 6,691
+ 3,641
+ △470
+  △1,178
+  2,593
+    1,130
+  △4,854
+  △1,803
+  △1,980
+  △3,747
+  △8,747
+  △8,047
+ △1,293
+△1,450
+△1,254
+△1,244
+△904
+△2,078
+1,384
+2,334
+3,171
+△2,931
+ 3,027
+  1,445
+  7,684
+    1,876
+  △5,558
+  1,145
+  9,990
+  △4,390
+  △2,056
+  △4,406
+ 16,108
+16,294
+22,865
+23,661
+17,420
+17,578
+28,878
+27,101
+28,139
+20,856
+ 45,625
+ 45,625
+ 45,625
+  45,625
+ 45,625
+ 45,625
+ 45,625
+ 45,625
+ 45,625
+ 45,625
+ 15
+ 15
+ 15
+  17
+ 17
+ 22
+ 17
+ 17
+ 22
+ 24
+ 52.0
+ 36.6
+ 28.2
+  19.0
+ 22.6
+ 31.5
+ 34.5
+ 25.6
+ 19.6
+ 33.3
+ 28.82
+  40.93
+  53.24
+    89.57
+  75.25
+  69.82
+  49.31
+  66.51
+  112.53
+  130.28
+ 1,004.58
+1,043.67
+1,124.50
+1,243.27
+1,337.97
+1,323.93
+1,376.67
+1,454.87
+1,513.45
+1,526.25
+ 2.9
+ 4.0
+ 4.9
+  7.6
+ 5.9
+ 5.2
+ 3.7
+ 4.7
+ 7.6
+ 8.5
+ 53.0
+  52.0
+  54.3
+    56.1
+  55.6
+  58.2
+  56.9
+  54.6
+  51.0
+  51.5
+ 0.12
+ 0.10
+ 0.08
+  0.07
+ 0.09
+ 0.07
+ 0.11
+ 0.15
+ 0.20
+ 0.19
+ 2,189
+ 2,190
+ 2,175
+  2,191
+ 2,175
+ 2,308
+ 2,356
+ 2,523
+ 2,537
+ 2,556
+         Business results
+Orders received
+Backlog of orders received
+Net sales
+Operating income
+Ordinary income
+Profit attributable to owners of the parent Capital expenditure
+Depreciation
+R&D costs
+Total assets
+Net assets
+Equity capital
+Interest-bearing liabilities
+Retained earnings
+Cash flow from operating activities Cash flow from investing activities Cash flow from financing activities Free cash flow
+Cash and cash equivalents at end of period Number of shares issued
+Dividends (yen)
+Total return ratio (%)
+Earnings per share (EPS) (yen)
+Book value per share (BPS) (yen) ROE (%)
+Equity ratio (%)
+D/E ratio (times)
+Employees (persons)
+        Financial position
+Cash flow
+Share information
+Management indicators
+Major non-financial indicator
+                     45 / Integrated Report 2020
+Integrated Report 2020 / 46
+
+Financial Data
+Consolidated Balance Sheets
+(Unit:million yen)
+(Unit:million yen)
+About Tsukishima Kikai
+Value Creation Strategy Value Creation Results
+Business Foundation
+Financial Data
+  2019/3
+2020/ 3
+   23,022
+ 41,653
+ 3,607
+ 11
+ 5,636
+ 472
+ 1,971
+ △186
+ 76,189
+ 8,744
+ 6,434
+ 11,713
+ 1,774
+ 4,703
+ 299
+ 33,670
+ 184
+ 715
+ 899
+ 14,243
+ 160
+ 2,105
+ 1,936
+ △864
+ 17,581
+ 52,151
+ 128,340
+  2019/3
+2020/ 3
+   15,745
+ 5,693
+ 122
+ 766
+ 551
+ 754
+ 7,377
+ 2,444
+ 943
+ 528
+-
+  592
+-
+  5,567
+ 41,087
+ 5,000
+ 6,808
+ 893
+ 210
+ 281
+ 5,426
+ 601
+ 674
+ 19,896
+  6,646
+ 5,537
+ 56,536
+ △2,145
+ 66,575
+ 1,189
+ △3
+ △347
+ △1,344
+ △505
+ 1,286
+ 67,356
+ 128,340
+     Assets
+Current assets
+Liabilities
+   Cash and time deposits
+Notes and accounts receivable
+Electronically recorded monetary claims-operating
+Marketable securities
+Work in process
+Raw materials and supplies
+Other current assets
+Allowance for doubtful accounts
+Total current assets
+Buildings and structures (net)
+Machinery and equipment (net)
+Land
+Lease assets (net)
+Construction in progress
+Other assets (net )
+Total property, plant and equipment
+Goodwill
+Other assets
+Total intangible assets
+Investments in securities
+Long-term loans receivable
+Deferred income taxes
+Other assets
+Allowance for doubtful accounts
+Total investments and other assets
+22,215
+41,320
+1,847
+6,058
+7,703
+334
+1,448
+△256
+80,671
+3,909
+5,513
+11,710
+1,111
+4,525
+245
+27,017
+271
+788
+1,059
+19,996
+173
+1,998
+1,952
+△878
+23,242
+51,319
+Current liabilities
+Notes and accounts payable
+Electronically recorded obligations
+Short-term loans payable
+Current portion of long-term loans payable
+Lease obligations
+Accrued income taxes
+Advances received
+Reserve for bonuses
+Reserve for warranties
+Reserve for losses on construction
+Reserve for losses on transfer
+Provision for demolition and removal
+Provision for loss on guarantees
+Other current liabilities
+Total current liabilities
+Bonds payable
+Long-term loans payable
+Lease obligations Deferred tax liabilities
+Reserve for retirement payments to officers
+Net defined benefit liability
+Asset retirement obligations
+Other long-term liabilities
+Total long-term liabilities
+Common stock
+Additional paid-in capital
+Retained earnings
+Treasury stock
+Total shareholders’ equity
+Net unrealized gains or losses on available-for-sale securities
+Deferred gains or losses on hedges
+Foreign currency translation adjustment
+Remeasurements of defined benefit plans
+Total accumulated other comprehensive income
+17,361
+5,387
+215
+770
+272
+1,815
+6,592
+2,475
+1,157
+603
+452 -
+52
+5,702
+42,860
+5,000
+6,927
+642 1,836
+292
+4,780
+620
+605
+20,704
+6,646
+5,484
+51,946
+△601
+63,476
+5,527
+△10
+△378
+△1,260
+3,879
+1,069
+68,425
+                                    Long-term assets
+Long-term liabilities
+Net assets
+Shareholders’ equity
+Accumulated other comprehensive income
+Non-controlling interests
+Total net assets
+                       Investments and other assets
+Total long-term assets
+Total assets
+131,991
+Total liabilities and net assets
+131,991
+             47 / Integrated Report 2020
+Integrated Report 2020 / 48
+
+Financial Data
+Consolidated Statement of Income
+Cost of sales 77,509
+Gross profit 20,259
+Selling, general and administrative expenses 12,462
+  Estimate and design expenses 1,168
+  Loss on sales and desposal of property, plant and equipment 14
+  Impairment losses 1,060
+  Loss on valuation of investments in securities 523
+  Transfer expenses 1,406
+  Other expenses 154
+Profit before income taxes 7,701
+Total income taxes 2,262
+  Current income tax 2,514
+  Deferred income tax, etc. △251
+Profit 5,438
+Profit attributable to non-controlling interests 442
+Profit attributable to owners of the parent 4,996
+(Unit:million yen)
+(Unit:million yen)
+About Tsukishima Kikai
+Value Creation Strategy
+Value Creation Results
+Business Foundation
+Financial Data
+  2019/3
+2020/ 3
+  100,333
+ 79,866
+ 20,466
+ 12,414
+ 1,094
+ 4,987
+ 19
+ 519
+ 298
+ 45
+ 465
+ 822
+ 4,161
+ 8,051
+ 631
+ 85
+ 435
+ 38
+ 71
+ 223
+ 84
+ 25
+ 8,459
+2,097
+22
+ 10
+ 82
+   2,068
+29
+  0
+  2019/3
+2020/ 3
+  2,027
+ 819
+ 654
+ 269
+ 26
+ -
+ 256
+ 8,529
+-
+ 0
+  2,660
+ 2,453
+ 207
+ 5,869
+ 172
+ 5,696
+     Net sales
+97,768
+Extraordinary losses
+  Provision for demolition and removal
+  Restructuring expenses
+  Loss related to the antitrust law
+3,158 -
+- -
+                      Officers’ remuneration and employee salaries, benefit, bonuses,    and welfare expenses
+5,017
+        Provision for allowance for doubtful accounts 117
+  Provision for bonuses 534
+  Retirement benefit expenses 227
+  Provisions for Directors’ retirement benefits 34
+  Travel and transportation expenses 544
+  Depreciation 654
+  Other expenses 4,162
+Operating income 7,796
+Non-operating income 644
+  Interest income 84
+  Dividends received/Dividends income 403
+  Equity in earnings of affiliates 28
+Consolidated statements of comprehensive income  (Unit:million yen)
+Profit 5,438
+Total Other Comprehensive Income △1,611
+  Net unrealized gains or losses on available-for-sale securities △874
+  Deferred gains or losses on hedges △19
+  Foreign currency translation adjustment △63
+  Remeasurements of defined benefit plan △652
+  Share of other comprehensive income of associates accounted △0   for using equity method
+Comprehensive income (breakdown) 3,827
+  Comprehensive income attributable to owners of the parent 3,392
+  Comprehensive income attributable to non-controlling interests 435
+                                          Other
+127
+   Non-operating expenses 304
+  Interest paid 80
+  Guarantees 34   Foreign exchange losses -
+  Tax and dues 41
+  Other expenses 149
+Ordinary income 8,136 Extraordinary income 2,723
+  Gain on sales of property, plant and equipment 2,721
+  Gain on sales of investment in securities 1
+  Other income
+                                  -
+     49 / Integrated Report 2020
+Integrated Report 2020 / 50
+2019/3
+2020/ 3
+  5,869
+ △4,323
+ △4,338
+     7
+ 90
+ △84
+ 1
+ 1,545
+ 1,311
+ 234
+ 
+Financial Data
+Consolidated Statement of Cash Flows
+(Unit:million yen)
+(Unit:million yen)
+About Tsukishima Kikai
+Value Creation Strategy Value Creation Results
+Business Foundation
+Financial Data
+  2019/3
+2020/ 3
+  8,529
+ 1,645
+-
+  86
+ △31
+ △6
+ △75
+ △211
+ △75
+ △441
+ 592
+ △52
+ 522
+ △521
+ △2,068
+84
+ △38
+ △2
+  △2,108
+256
+  771
+ 1,911
+ △1,326
+ △812
+ 6,629
+ △3,439
+529
+ △77
+  3,641
+  2019/3
+2020/ 3
+  △7,045
+ 35
+ △315
+ △2,033
+ 3,435
+ △8
+ △2,696
+ 579
+ △8,047
+ 122
+ △207
+ 900
+ △1,023
+ -
+ △475
+ 193
+ △1,743
+ △1,105
+ △17
+ 425
+ -
+ △2,931
+ 53
+ △7,283
+ 28,139
+ 20,856
+       Profit before income taxes 7,701
+△11,543
+2,878
+△178
+△46
+13
+△57
+△127
+315
+△8,747
+130
+△169
+-
+△1,092
+5,000
+△478
+287
+△0
+△756
+△16
+Proceeds from sales and leasebacks
+Other △36
+ Depreciation and amortization
+Impairment loss
+1,397
+1,060
+Purchase of property, plant and equipment
+Proceeds from sale of property, plant and equipment
+Purchase of intangible fixed assets
+Purchase of investments in securities
+Proceeds from sale and redemption of short-term and long-term investment securities
+Purchase of shares of subsidiaries
+Other expenditures
+Other proceeds
+Net cash provided by (used in) investing activities
+Proceeds from short-term loans payable
+Repayments of short-term loans payable
+Proceeds from long-term loans payable
+Repayments of long-term loans payable
+Proceeds from issuance of bonds
+Repayments of lease obligations
+Proceeds from sales of treasury stock
+Additions of treasury stock
+Dividends paid
+Dividends paid to non-controlling interests
+   Amortization of goodwill 86
+Increase (decrease) in accrued bonus to 135 employees
+     Net defined benefit liability
+Increase (decrease) in allowance for doubtful accounts
+△63
+128
+Cash flows from investment activitie
+   Increase (decrease) in reserve for warranties 259
+ Increase (decrease) in reserve for losses on construction
+Increase (decrease) in reserve for losses on transfer
+Increase (decrease) in provision for demolition and removal
+Increase (decrease) in provision for loss on guarantees
+53
+452
+-
+52
+           Cash flows from operating activities
+Increase (decrease) in net defined benefit 238 liability
+Interest and dividend income △487
+Interest expenses 80
+Equity in (earnings) losses of affiliates △28
+     Loss (gain) on sales and disposal of property, plant and equipment
+Loss (gain) on sales of investments in securities
+Loss (gain) on valuation of investments in securities
+(Increase) decrease in notes and accounts receivable
+△2,707
+△1
+523 △4,688
+Cash flows from financing activities
+          Increase (decrease) advances received 253
+(Increase) decrease in inventories △964
+304
+     Increase (decrease) in notes and accounts payable, trade
+3,293
+  Other 971
+Net cash provided by (used in) financing activities
+3,171
+△77 1,037 27,101 28,139
+   Subtotal
+Interest and dividend income received
+Interest expenses paid
+Income taxes paid
+Net cash provided by (used in) operating activities
+7,746
+511
+△70
+△1,496
+6,691
+Effect of exchange rate change on cash and cash equivalents
+Net increase (decrease) in cash and cash equivalents
+Cash and cash equivalents at beginning of period
+Cash and cash equivalents at end of period
+             51 / Integrated Report 2020
+Integrated Report 2020 / 52
+
+Company Profile
+Company information
+Company Profile
+Editorial Policy
+ Social and economic conditions in Japan and worldwide are becoming increasingly uncertain due to COVID-19. Under these circumstances, we decided to publish this Report, the Group’s first Integrated Report, in light of our responsibility to shareholders, investors, and all other stakeholders, seeking to clarify our strategies and the roles we should play to guide the Company and our partner suppliers through these difficult circumstances
+The structure of this Report, as our first Integrated Report, is intended to provide a brief overview of the Group’s businesses and to communicate our future goals in
+a clear manner. We have positioned this Report as a tool for constructive dialogue. We intend to continue improving this Report through the incorporation of valuable feedback from stakeholders.
+In preparation of this Report, we referred to the International Integrated Reporting Framework of the International Integrated Reporting Council (IIRC) and the Guidance for Collaborative Value Creation issued by the Ministry of Economy, Trade and Industry of Japan.
+Jun Kawasaki
+Senior General Manager, Corporate Management Division
+    Company name
+        
+President & CEO
+Tsukishima Kikai Co., Ltd. TSUKISHIMA KIKAI CO., LTD.
+ Yoshiyuki Fukuzawa
+1August 1905
+3-5-1 Harumi, Chuo-ku, Tokyo, Japan 6,646 million yen  
+Total issued shares
+(As of March 31, 2020)
+45,625,800 shares
+    Founded Address Capital
+     
+Number of shares per unit 100 shares
+Employees     2,556 (consolidated)
+       592 (non-consolidated) Stock code  6332 (First Section, Tokyo
+      Stock Exchange: Machinery)
+   Japan
+Tsukishima Kikai head office
+   Overseas
+Europe BOKELA
+    Mumbai
+CHINA Hanoi
+THAILAND MALAYSIA
+SINGAPORE Jakarta
+TAIWAN
+ Hiroshima Fukuoka
+Sapporo Muroran (Factory)
+Sendai
+Tokyo (Head Office) Yachiyo (R&D Center)
+Nagoya Yokohama
+Osaka
+  Okinawa
+Consolidated subsidiaries, equity-method affiliates
+Consolidated subsidiaries (Japan):10 companies
+Offices, representative offices
+Offices (Japan):13 locations
+    ■ Tsukishima Technology Maintenance  Service Co., Ltd.
+■ SUN ECO THERMAL Co., Ltd.
+■ Tsukishima Kankyo Engineering Ltd. ■ Samukawa Water Service Co., Ltd. ■ Tsukishima Machine Sales Co., Ltd.
+■ Tsukishima Business Support Co., Ltd. ■ DAIDOCHEMICALENGINEERINGCORP. ■ Owari Water & Energy Co., Ltd.
+■ SANSHIN KOGYO Co., Ltd.
+■ PRIMIX Corporation
+■ Head Office
+■ Tokyo Branch
+■ Osaka Branch
+■ Sapporo Sales Branch ■ Sendai Sales Branch
+■ Yokohama Sales Branch ■ Nagoya Sales Branch
+■ Hiroshima Sales Branch
+■ Fukuoka Sales Branch
+■ Okinawa Sales Office
+■ Kansai Office (Industrial  Sales Dept., Industrial  Business Division)
+■ Muroran Factory
+■ Yachiyo Technical    
+Note on prospects
+This Report includes forward-looking statements
+which present numerous potential risks, uncertainties, and assumptions. The contents of this Report, both explicit
+and implicit, may differ substantially from actual figures and conditions. We advise readers not to make decisions based
+Period covered by this Report
+Consolidated subsidiaries(international):3companies
+■ TSK Engineering (Thailand) Co., Ltd.
+■ TSK Engineering China Co., Ltd. (China)
+ Center (R&D Center) Representative offices (Overseas): 4 locations
+solely on these statements.
+In addition, the Company is not obligated to update or
+revise the information provided in this Report in the event of any future developments.
+  ■ BOKELA GmbH (Germany) Equity-method affiliates (Japan):9companies
+■ Hanoi Representative Office (Vietnam)
+■ Jakarta Representative Office (Indonesia) ■ Europe Representative Office (Germany) ■ Mumbai Representative Office (India)
+Affiliates (Overseas): 3 locations
+■ Tsukishima Engineering Malaysia Sdn. Bhd. ■ Tsukishima Engineering Singapore Pte. Ltd. ■ TSK Engineering Taiwan Co., Ltd.
+ ■ Edogawa Water Service Co., Ltd.
+■ Biocoal Plant Service Co., Ltd.
+■ Biocoal Hiroshima West Co., Ltd.
+■ Biocoal Kumamoto South Co., Ltd. ■ Biocoal Osaka Hirano Co., Ltd.
+■ Biocoal Yokohama South Co., Ltd.
+■ Biocoal Kyoto Rakusai Co., Ltd.
+■ Biocoal Fukuoka Mikasagawa    Co., Ltd.
+■ Hybrid Chemical Co., Ltd.
+This Report covers the period April 1, 2019 – March 31, 2020. Where appropriate, information from before or after this period may be referenced.
+   53 / Integrated Report 2020
+Integrated Report 2020 / 54
+
+      
+
+

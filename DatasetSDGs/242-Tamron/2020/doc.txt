@@ -1,0 +1,2670 @@
+      英語版 オンプロダクト-ミニラベル 英語版(印刷スペースが無い場合)
+Integrated Report
+2020
+   for the Year Ended December 2019
+       
+                                            Tamron Products Creating Excitement and Peace of Mind
+   Tamron creates excitement and peace of mind in society through a range
+of optical products
+Drone lenses
+                    Teleconferencing lenses
+              Traffic surveillance camera lenses
+Surveillance camera lenses
+Factory automation and machine vision lenses
+          Lenses for medical use
+      Automotive lenses
+Lenses for SLR cameras
+Interchangeable lenses for mirrorless cameras
+Compact digital camera lenses Lenses for video cameras
+            Infrared camera modules
+ Contents
+Introduction
+01 Tamron Products Creating Excitement and Peace of Mind
+03 Message from the President & CEO 07 The Value Creation Process
+09 Tamron’s Value Creation Story
+Management Strategy
+11 Business Development
+13 Risks and Opportunities
+17 State of Progress on
+the 2020 Mid-term Management Plan
+01 Tamron Integrated Report 2020
+Editorial Policy
+Tamron publishes an integrated report as an important tool for communicating with shareholders, investors and other stakeholders. The report contains information on management strategies, finances, human resources and the environment strategies as a way to share details of Tamron’s sustainability and growth potential. In compiling this report, we have referenced the Guidance for Collaborative Value Creation from the Ministry of Economy, Trade and Industry, and the International Integrated Reporting Framework from the International Integrated Reporting Council (IIRC).
+This report covers the period from January 1, 2019 to December 31, 2019
+(including some information that falls outside the above period)
+The report concerns the 10 companies of the Tamron Group
+(including Tamron Co., Ltd.)
+* Please refrain from reproducing the images or other information contained in this report without permission.
+Tamron’s Information Framework
+      Individual Strategies
+19 Financial Strategy
+21 Strategies by Segment
+21 Photographic Products
+23 Surveillance / FA
+25 High Priority / New Business
+29 Human Resource Strategy 31 Environmental Strategy
+Corporate Governance
+33 Management Structure 35 Corporate Governance
+Data
+37 Financial and Non-financial Highlights 37 Financial Highlights
+39 Non-financial Highlights
+40 External Recognition
+41 Consolidated Financial Statement
+45 Company Profile / Shareholder Information
+46 Group Network
+Financial Information
+Reference website: https://www.tamron.com/ir/
+ Securities Report (PDF)
+  Financial Statements (PDF)
+IR Information (Web)
+Integrated Report (Booklet, PDF)
+Non-financial Information
+Reference website: https://www.tamron.com/csr/
+  Corporate Governance Report (PDF)
+ ESG Databook (PDF)
+  CSR Information (Web)
+Tamron Integrated Report 2020 02
+
+ Message from the President & CEO
+  Achieving sales and profit growth
+for three consecutive periods
+Following the path of light to the future of a 100-year company
+Shiro Ajisaka
+President & CEO Tamron Co., Ltd.
+State of Progress on the Mid-term Management Plan
+Our mid-term management plan (2018-2020) is now in its final year. Working from our 2017 results as a starting point, we set the goals of achieving a 10 billion-yen increase in net sales to 72 billion yen and operating income growth of at least 1.5x to 6.6 billion yen, along with an ROE of at least 9%. We launched the plan with the aim of reaching 65 billion yen in net sales and operating income of 5.9 billion yen in 2019, the second year of the plan.
+The pillars of the strategy we developed for the mid- term management plan were expanded sales for industrial applications such as surveillance cameras and automotive lenses, and improved profitability in the core Photographic Products Business. During those two years, profitability in the Photographic Products Business improved better than expected, and in terms of profit and ROE, we achieved our target figures for 2020 a year ahead of schedule. However, the outlook for achieving our target net sales has become more difficult due to various factors, including a much higher yen than the expected exchange rate, a greater-than-expected slump in the DSLR camera market, and a large deviation from expected results for B-to-C operations in the drone market.
+In light of these developments, with 2020 being the last year of the mid-term management plan, we will maintain the high earnings structure in the Photographic Products Business achieved over the first two years while striving to boost profitability in the surveillance camera and factory automation segments which represent another pillar of our operations.
+Business Outlook
+Tamron is one of the few optical manufacturers capable of integrated operations covering everything from design to production and sales. Based on our belief that “business opportunities lie in the solutions to social issues,” we grow in step with society by creating products utilizing our strength in optical technologies. Tamron’s core interchangeable lens business has been among the first to analyze customer needs and reflect that insight in product planning amid a contracting market and the ongoing shift to mirrorless. By specializing in mirrorless lenses and expanding our lineup, we will boost our market share and grow sales, even under severe market conditions.
+In the area of surveillance and factory automation, we will take proper advantage of the robust demand for security such as urban surveillance that combines facial authentication and other forms of AI, along with the firm demand for solutions such as factory automation and machine vision due to the push for sophistication and streamlining in manufacturing. This is one way Tamron is broadening its base to target industrial applications that are showing signs of growth. Based on the reform theme of “globalization of sales, production and R&D” I announced when assuming the post of president and our policy of “rebuilding the R&D process,” in addition to existing development efforts in Japan, we have developed a wide-ranging R&D process that includes China and outsourcing. We will strive to effectively
+utilize this R&D process, achieve differentiation with high added- value products, increase the speed of development and reduce costs, in an effort to maintain our competitiveness even in this harsh competitive environment.
+The automotive camera market, in addition to gaining support due to legislation requiring vehicles to be equipped with cameras, is also at a turning point in anticipation of autonomous driving, and its high growth rate is continuing. At the same time, we are in the midst of an era of technological innovation that includes increasingly sophisticated systems. Accordingly, we are actively investing in the development of elemental technologies such as heat resistance in an effort to establish our position in the industry.
+In a society with an increasingly aging population, we also see major business opportunities in products for minimally invasive medical treatment to ease the burden on patients. In April, we newly established the Medical Device Development Depts.as an organization dedicated to the medical business. While sales are still small, we are looking to meet the demands of the medical field for products that are smaller with higher quality and resolution to develop it into a key business in the future.
+Securing Human Resources to Developing a Pleasant Workplace Environment
+to Enhance Competitiveness
+Tamron’s most important management resource is its people, and I believe the employees currently working here form an immensely talented group of human resources. Looking to the future, however, we recognize the importance of hiring even more talented engineers while accepting and utilizing people with different ideas, perspectives and values regardless of nationality, gender, age or other attributes, in order to enhance our corporate value to “create emotion and security with light and contribute to realizing a spiritually rich society.” In addition, creating a workplace environment in which employees can fully harness their abilities will enhance our corporate competitiveness. As one of those efforts, we have set the task of developing the potential of female employees. In 2015, we opened the in-house preschool Tamron Kids to help employees strike a balance between work and raising children. Some employees based the decision to join Tamron on the availability of Tamron Kids, and the percentage of female managers at Tamron has risen three points from 7.8% in 2014 to 10.9% in 2019. This year we were recognized for our strategic efforts to manage the health of employees and certified for the first time as a company practicing outstanding health and productivity management.
+  Review of the Fiscal Year Ended December 2019
+Looking at the management environment for 2019 in terms of our core business in the digital camera market, in the area of interchangeable lens cameras we saw robust performance among full-frame mirrorless cameras, although the overall market suffered a contraction due to a significant slump in DSLR cameras, particularly entry-level models. Interchangeable lenses experienced a similar contraction, while the market for compact digital cameras also continued to shrink. Meanwhile, the industrial camera market, which includes surveillance and automotive cameras and lenses, continued its growth trend despite the effects of trade friction between the US and China and slumping consumer demand in China.
+Even in this market climate, we posted strong operating results for fiscal 2019, with net sales of 63.285 billion yen (up 2.4% year on year) thanks to increased sales in the core Photographic Products Business and Commercial/Industrial-use Optics Business. On the profit side, thanks to cost reductions and a higher percentage of new products in our lineup of Tamron-branded interchangeable lenses, the gross profit margin improved 2.9% year on year, representing a significant increase in gross profit on sales. Consequently, we posted operating income of 6.982 billion yen (up 28.7%) and net income of 5.33 billion yen (up 23.1% year on year). As a result, we managed to achieve increased sales and profits for the third
+year running and recorded our highest ever net income.
+By segment, in the Photographic Products Business we achieved increased sales and profits, with net sales of 46.175 billion yen (a 1.2% year-on-year increase) and operating income of 8.635 billion yen (up 21.4%). Own-brand models generated strong sales of full-frame mirrorless interchangeable lenses to drive a significant increase in profits, but due to stagnant sales, primarily related to existing products for DSLR cameras, there was a fall in sales. On the other hand, sales from orders for OEM lenses were strong, leading to increased
+sales of these products.
+In the Optical Components Business, sales of lenses for
+compact digital cameras declined due to the shrinking market and sales from orders for drone lenses were also stagnant, leading to net sales of 2.739 billion yen (a 20.3% fall from the previous year). However, we did manage to increase profits and posted operating income of 137 million yen (up 69.3% year on year).
+In the Commercial/Industrial-use Optics Business, which consists of surveillance camera and automotive lenses enjoying continued growth, sales of surveillance camera lenses in China and general sales of camera modules were strong. Combined with higher sales of automotive lenses for sensing functions, we produced double-digit growth in both sales and profits, with net sales of 14.37 billion yen (up 12.8% year on year) and operating income of 994 million yen (a 22.3% increase).
+  03 Tamron Integrated Report 2020
+Tamron Integrated Report 2020 04
+
+ Message from the President & CEO
+ ESG Strategy
+Environment
+With a reduction of 3.5% in 2019, we failed to reach our goal of reducing CO2 emissions by 3.8% compared to 2016 levels on a unit sale basis, but I still believe that being able to reduce CO2 on an absolute basis was a major achievement.
+Based on the SDGs and the Paris Agreement, an international framework to address climate change issues, countries around the world are strengthening efforts to tackle climate change. There is also a growing recognition that climate change poses a major issue to corporate growth due to the uptick in abnormal weather phenomena such as localized torrential rains and typhoons.
+For its part, Tamron is also considering strategies and measures towards the realization of a decarbonized society based on a recognition that our own sustainable growth lies in a sustainable society. In addition to the energy conservation- focused reduction activities we have pursued to date, we will also work to cut CO2 emissions through the introduction of renewable energies. Furthermore, Tamron will also direct efforts to reducing waste, protecting water resources and solving the issue of plastic pollution of the oceans.
+Society
+Due to the globalization of management, we recognize it is necessary to not only address environmental issues but to also
+Corporate Philosophy
+With its firm commitment to developing high-quality, innovative and technologically advanced products that satisfy customer needs, Tamron is securing a leading position in the worldwide optical industry. Our primary objective is to sustain strong corporate growth based on a high level of customer satisfaction achieved
+by providing superior products at the right price, thus also contributing to the prosperity
+of our shareholders and employees.
+Brand Message New Eyes for Industry
+take action on various social issues including human rights, labor and information leaks. Accordingly, since 2007 Tamron has continued to support the ten principles of the UN Global Compact. Important CSR issues that concern Tamron and require action are reflected in our management plans as part of efforts to develop solutions.
+Through our core business in digital cameras, we are also aware of the power that recorded video and still images have to move people, bring them comfort and enrich their minds. Tamron seeks the myriad issues and needs around the world as business opportunities, and based on the desire to “create emotion and security with light and contribute to realizing a spiritually rich society,” we will take on the challenge of various businesses in the years ahead.
+- Surveillance camera lenses
+By providing high-performance surveillance camera lens to address the rise in urban crime, we help create a safe and secure society and aim to develop this field into the second pillar alongside our Photographic Products Business.
+- Automotive lenses
+By providing lenses for the latest autonomous driving technology of Lidar and other automotive lenses, we work to expand the scale of our business while helping solve social issues such as traffic accidents and increasing traffic congestion.
+- Lenses for medical applications
+With the aging of society said to be picking up speed in Japan and even China, we will help reduce the burden on patients and the medical professionals performing procedures by providing medical-grade lenses that enable minimally invasive actions.
+- Drone lenses
+By encouraging the widespread adoption of drone lenses used in agriculture and a range of fields for measurement and surveillance, we aim to offer solutions to the jobs people cannot perform while expanding sales.
+Governance
+Since I assumed the post as president in 2016, I have worked to strengthen our governance and clarified our approach to corporate governance through the Corporate Governance Guidelines.
+Tamron has appointed two external directors, one of whom is female. As this will allow us to incorporate opinions and recommendations from an expert and independent perspective, it will lead to better decision making. To ensure that the external directors can adequately fulfill their roles, Board of Directors meeting materials are distributed to them in advance, and we proactively implement initiatives to ensure they have a deep understanding of Tamron, such as conducting training and plant tours when they are appointed. In addition to establishing a Nominating Committee and Compensation Committee, we have made steady progress on governance reforms including reductions to the number of directors and the introduction of
+a stock compensation scheme linked to business performance. As a part of efforts to thoroughly enforce compliance- oriented management, we have also worked to enhance our internal reporting system. In addition to regular internal routes and mechanisms to handle internal reporting, in 2019 we also established an outside reporting hotline to offer a route that is
+independent from management.
+Shareholder Return
+In terms of shareholder return, we aim to maintain a stable payout ratio of around 35% in the form of dividends based on business performance. In the period under review, we issued annual dividends of 68 yen per share, an 8-yen increase over the previous year. This represents a record annual dividend for Tamron. While taking into account R&D and capital investment in an effort to strengthen its management structure and develop new businesses based on a long-term view, Tamron also holds to the basic policy of continuing the stable return of profits to shareholders.
+Towards Becoming a 100-Year Company
+As a group of optical specialists, Tamron provides lenses to various industrial fields to fulfill its mission of providing excitement, peace of mind and trust to industry, society and people’s lives. Today there is a growing need to “measure” things across every aspect of industry, and we recognize that this is a business environment in which we can even better utilize the wide-ranging expertise making up the core of the optical, mechanical design and production technologies we have established over the years.
+In November 2020, Tamron will also reach its milestone 70th anniversary. As we pursue the fields of our existing businesses in greater depth and enter new business areas in recognition of the opportunities afforded by the SDGs, we will continue venturing forward over the next decade and on the way to becoming a 100-year company. To enhance the level of our contributions to society and to become the kind of company that society needs, we will create the “new eyes for industry” in unique Tamron style and strive to enhance our corporate value. Expect great things for the future of the Tamron Group.
+Shiro Ajisaka
+President & CEO Tamron Co., Ltd.
+     05 Tamron Integrated Report 2020
+Tamron Integrated Report 2020 06
+
+  The Value Creation Process
+We regard various social issues as management opportunities, create economic and social value, and contribute to the realization of a sustainable society.
+   Business Activities
+Output
+Photographic Lenses
+Surveillance and FA Lenses
+Automotive Lenses
+Drones Lenses
+New Businesses
+Outcome
+Creation of Economic Value
+   Recognizing risks and opportunities, identifying materiality
+Changing external environment
+Society
+- Improving smartphone functionality
+- Rise in urban crime
+- Increase in traffic accidents
+- AI-driven society
+- Aging population
+- Security incidents
+- Workstyle reforms
+- Diversity
+Environment
+- Climate change
+- Resource depletion
+- Plastic pollution in the oceans
+- Chemical contamination Governance
+- Falsified quality
+and safety information
+- Bribery and corruption
+- Industrial accidents
+- Failure of governance
+Strengthening the foundations supporting value creation
+P15-16
+   Materiality (Medium-term Management Policies)
+   Net Sales
+65.5 billion yen
+2020
+     Operating Income
+7.0 billion yen
+    Photography- related Fields
+Operating Income Margin
+10.7
+  Strengths
+High-precision optical technologies
+Areas of Focus
+      Corporate Philosophy
+- -
+- -
+-
+Optical design High Mechanical magnification
+P11-12 P21-28
+Creation of Social Value
+design
+Coatings Smaller size
+Production
+technologies Reduced
+Surveillance / Factory Automation- related Fields
+Test plates
+weight
+Priority Fields / New Fields
+(As of February 7, 2020) *
+%
+     Medium-term Management Plan
+(2018 to 2020)
+P17-18
+  Invested Capital (2019)
+    07 Tamron Integrated Report 2020
+Tamron Integrated Report 2020 08
+Foundations Supporting Value Creation (Key CSR Issues)
+Human resource strategy Environmental strategy Corporate governance
+* Due to the extreme uncertainty caused by the worldwide spread of COVID-19 coronavirus infections, on April 28, 2020, Tamron decided to revise the results forecast that was announced on February 7, 2020, leaving it undecided for the time being. Tamron will announce a new forecast when it becomes feasible.
+A society in which people can feel excitement
+A society in which people can live in security
+A healthy society
+A society with work fulfillment
+A society
+with a sustainable earth
+2% Reduction in CO2 Emissions
+(compared with 2015 levels)
+  Financial Capital
+Net Assets
+54.5 billion yen
+ Manufacturing Capital Capital Investment 3.1 billion yen
+ Human Capital
+Employees
+4,609
+ Intellectual Capital
+R&D Expenses
+5.2 billion yen
+ Social Capital
+Countries and Regions with a Tamron Sales Presence Approx. 70 countries and regions
+ Natural Capital
+Electric Energy Usage
+77.877 million kWh
+    P29-30 P31-32
+Check the following site for more information.
+https://www.tamron.com/csr/
+P33-36
+ We challenge the possibilities of light to help realize a fulfilling society
+
+                               Tamron’s Value Creation Story
+Over 70 years, Tamron has grown with society
+and peace of mind
+Company History Becoming a global company providing products around 1950 1952 1958 1969 1970 1979 1982
+and continued to create excitement
+the world
+1984 1995 1997 2005 2006 2012 2017
+ Taisei Optical Equipment Manufacturing is founded
+Taisei Optical Equipment Manufacturing Inc. is established
+The Tamron brand is registered as a trademark
+The Hirosaki Plant
+is constructed
+* Expanding to a total of three plants with the later construction of production sites within Aomori Prefecture
+Company name is changed to Tamron Co., Ltd.
+Sales subsidiary is established in the United States
+Sales subsidiary is established in West Germany
+Registered
+with the Japan Securities Dealers Association for over-the-counter trading
+Bronica Co., Ltd. is acquired
+Production subsidiary in China is established
+Sales subsidiary in
+China is established
+* Expanding to seven Group companies through the subsequent establishment of overseas sales subsidiaries
+Net sales
+Listed on the 1st section of the Tokyo Stock Exchange
+Production subsidiary in Vietnam is established
+Toumeigiken Co., Ltd. is acquired
+     2014
+Net sales top
+70 billion yen
+Tamron achieves record high net income of
+5.3 billion yen in 2019
+         Members of the Urawa Plant at the time
+Hirosaki Plant
+Plant in Foshan, China
+2001 over 30 billion yen 2003 over 50 billion yen 2002 over 40 billion yen 2004 over 60 billion yen
+                     Learn more about Tamron’s history from its founding on the Tamron website.
+1984
+Net sales top
+20 billion yen
+10 billion yen
+1980
+   https://www.tamron.com/70th/
+1950
+1981
+Net sales top
+     Widespread
+adoption of
+digital cameras
+Compact digital camera lenses drive sales
+Expansion period of interchangeable lenses for DSLR cameras Sales growth due to creative photographic lenses
+          1960
+1970
+1990
+2000
+2010
+2017
+Sale of drone lenses is started
+2019
+Sale of lenses for medical use is started
+Product History Developing a wide range of products through technologies
+to develop high precision in lenses
+ 1950
+Manufacture
+of cameras and binocular lenses is started
+1957
+The T mount interchangeable lens mount for SLR cameras is developed
+* World-first
+1966
+Production of master test plates, ultra-precision lenses and prisms is started
+1966
+The Tamron Adapt-A-Matic range of lenses is developed
+1981
+6x zoom video camera lens is developed
+1986
+Varifocal lenses for CCTVs are developed.
+* Industry-first
+1992
+The AF28-200mm (71D) all-in-one zoom lenses for SLR cameras is released*
+2006
+Sale of lenses for mobile phones is started
+2008
+Sale of automotive lenses is started
+2016
+Sale of compact camera modules is started
+2018
+                  09 Tamron Integrated Report 2020
+Tamron Integrated Report 2020 10
+Master test plates
+Ultra-precision lenses that serve as the standard for all optical lenses. For more than half a century, skillful techniques have been handed down by successive craftspeople, making Tamron one of the few optical manufacturers able to craft master test plates even today.
+Widespread adoption of
+video cameras begins
+VTR-equipped cameras and video camera lenses developed to coincide with the widespread uptake of compact video cameras enjoy brisk sales. These products accounted for 50% of sales at the time.
+The beginning of all-in-one zoom lenses
+The original model for the all-in-one zoom lens was a rounded piece of graph paper the size of a cigarette packet (The world’s smallest and lightest in the world at the time). Starting with this first product, Tamron has made successful advancements with greater focal distances, more compact and lighter designs and new mounting mechanisms, establishing Tamron’s position as the go-to manufacturer of all-in-one zoom lenses.
+    
+ Business Development
+Using the profits earned from the mature photographic products market and the stable growth market for surveillance and factory automation as capital, Tamron aims to allocate management resources to new and high-growth markets, namely automotive, drone and medical-use lenses to scale up its business.
+Composition of Sales (by Business)
+                                                                                                              Commercial / Industrial-Use Optics
+23%
+Medical
+Automotive
+         Surveillance, factory automation,
+   etc. 2019
+Net Sales of Own 63.3 Brand
+  Drones DSC / VC
+   Leveragin
+  billion yen
+OEM
+a l
+ch c
+ark ds.
+         Drones
+ Optical Components
+4%
+Photographic Products
+73%
+Domestic: Approx.
+30%
+32%
+63.3 billion yen
+North America
+13%
+   We
+have
+g Tamron’s
+diameter lenses and thin film we will contribute to progress invasive medic procedures.
+Optica
+      Composition of Sales (by Region)
+Other regions
+3%
+2019
+Net Sales of
+Japan
+we are working on
+ co
+mpact,
+  solve issues no
+al
+l Co
+developed
+photography, primarily sector. In anticipation of de drones, a field expected to
+high-performance
+t possible
+strengths
+mponents
+lenses
+for
+the develop
+with
+in very small
+technologie in minimally-
+lenses
+for
+the consumer mand for industrial grow in the future,
+human vision.
+aerial
+ment of
+to help
+s,
+High-growth
+A
+ut
+omo
+P26-27
+tive
+and
+Market
+Surveillance
+FA-related
+P23-24
+fields
+importance of high-perform
+our
+and
+Tam cam
+sophisticated precision
+secure driving society.
+ron continually develops er enses whi ater to
+Together
+used
+in
+with machine vision
+helping to develop a
+industrial
+a
+optics technologies,
+ Medical
+Market
+we will contribute to the
+developmen
+pplications,
+t of a safe
+ Surveillance,
+factory automation, etc.
+surveillance nee
+m et
+camera lenses
+ Stable Growth
+we
+are
+ safe
+and
+secure society.
+          Small
+Sales Volume
+     Photographic
+Products
+L
+a
+rg
+e
+   DSC / VC
+  Mature Market
+Photographic Product
+   Asia
+34%
+ Using techniques and expertise cultivated over many years combined with state-of-the-art
+  technol
+ optic
+  with
+ to
+al
+ogies, Tamron
+lens
+increasi
+the development
+units
+will develop
+designed
+ngly high resolutions, contributing
+of film
+culture.
+and
+for image sensors
+su
+pply
+    Europe
+18%
+Mature
+  Market
+DSC / VC
+Own Brand / OEM
+In addition
+to interchangeable lenses for
+DSLR cameras, in recent years
+developed compact, lightweight lenses for mirrorless cameras as well. Our lenses, which feature excellent rendering performance
+combined
+with
+lightweight, compact form,
+experiences
+ to the
+de
+through
+good
+t of a
+Tamron has
+operability in
+create
+video and contribute
+velopmen fulfilling society.
+  Overseas: Approx.
+70%
+ Low
+moving
+a
+P21-22
+s Field
+   11 Tamron Integrated Report 2020
+Tamron Integrated Report 2020 12
+Business
+P
+New
+ortfolio
+High-growth
+High
+Commercial / Industrial-Use
+Automotive
+Optics
+ Market
+Me
+dical
+P28
+Market
+Drones
+P27
+With advancements in autonomous
+addition to conventional applications in the visual spectrum, a growing proportion of automotive cameras are used for sensing, increasing the
+ance lenses. Through
+driving,
+in
+Market Growth Rate
+
+ Risks and Opportunities
+Risk Management System
+The political and economic conditions surrounding Tamron, along with the broader business environment, are changing with each day. Tamron implements risk management and controls risks based on both aspects, namely the risks that need to be prepared for to ensure Tamron’s sustained growth, as well as growth opportunities themselves.
+We recognize a wide range of risks as key management issues. The CSR Committee, which is chaired by the president and comprises all officers and managers of division as members, deliberates and makes decisions about Tamron’s basic policy on risk response and other important matters. The committee
+Key Risks and Opportunities
+●Key Risks ●Key Opportunities ・Sales strategy specializing in
+interchangeable lenses for mirrorless cameras
+・Expanding sales in the growing market for industrial lenses
+・Actively investing in new businesses
+・Properly responding to fluctuating demand in each region and controlling production
+・Setting CO2 emissions reduction
+targets in formulating the Environmental Vision 2050, and strengthening related initiatives
+・Action and continual improvement
+based on business continuity planning (BCP) in Japan and overseas
+・Ascertaining and responding to risks
+and opportunities based on analyses of the 2°C scenario and 4°C scenario
+・Quality assurance inspections before product shipments
+・Handling the overwriting of firmware after shipping
+・Creation of new businesses through the Opto-Science R&D Center
+・Open innovation between industry, academia and government
+・Strategies aimed at the full-scale commercialization of medical products
+・Engaging in analysis and discussion
+in the Management Meeting and Board
+of Directors from a range of perspectives including market trends, strategy, acquisition prices and potential risks
+・Building and improving quality
+assurance systems compliant with ISO9001, ISO13485 and IATF16949
+・Taking action and preventing release when quality defects occur
+・Job-specific hiring, positional and
+grade systems, systems to solicit positional applications internally
+・Creating a comfortable workplace environment by promoting a healthy work-life balance and diversity
+・Promoting health and productivity management
+・Developing information security systems
+・Implementing management based on an information security policy
+・Continually monitoring the global
+political, social and economic climate to analyze the impact in relation to corporate activities
+・Development of work-at-home and telework environments
+・Action and continuous improvements through business continuity planning (BCP) in Japan and overseas
+・Determination and promotion of policies by the Compliance Committee
+・Disseminating and ensuring observance of the Compliance Code of Conduct
+also reports to the Board of Directors as appropriate. Risks and opportunities recognized as key management issues are implemented through the “Basic Policies and General Principles” of the mid-term management policy and through the management plans of each division. Each division then builds a management system to perform administration of the policies. In terms of CSR, important issues are recognized as priority CSR issues. For these, we set management targets and monitor our progress on the issues periodically through quarterly CSR Committee meetings.
+     Board of Directors
+ Supervision of risk response
+  CSR Committee
+ Determines priority risks and opportunities, makes decisions concerning policy and important matters, checks progress
+(including priority CSR issues and climate change risks)
+    Deliberation
+Reporting
+Determination
+Ascertaining and determining priority risks and opportunities
+   Reflected as “Basic Policies and General Principles” (materiality) in the mid-term management policy
+Materiality +
+Key CSR Issues
+Reflected in the management plans of each division
+Management Plan
+Implementation and management in the policies of each division
+Policy management in each division (PDCA)
+* Check the section on “Business & Other risks to learn more about priority risks and opportunities. (URL: https://www.tamron.com/ir/management/management_04.html)
+Assessment of importance in terms of both the effects on society and the impact on Tamron
+        13 Tamron Integrated Report 2020
+Tamron Integrated Report 2020 14
+Risk Factors
+Key Risks / Key Opportunities
+Response Methods
+  ・Shrinking digital camera market
+・Reliance on Photographic Products Business
+・Reliance on specific customers
+● Expanding contraction of the digital camera market due to increasing functionality of smartphone cameras
+● Reliance on Photographic Products Business
+● Reliance on specific customers
+● Growth in the mirrorless camera market
+● Growth in the industrial camera market
+     ・Product supply and demand
+● Fluctuating product prices, too much or too little inventory
+    ・Climate change
+● Damage to corporate value through inability to respond to the shift to a decarbonized society
+● Impact on production activities due to damage to plants in Japan or overseas
+● Burden from carbon taxes and renewable energy purchase costs
+● Increased order opportunities due to responding to decarbonized society at an early stage
+     ・Risks unique to the interchangeable lens business
+● Defects due to improper matching between lenses and cameras
+     ・Rapid technological innovation
+・Investment in new businesses
+・Investment in M&A activities, etc.
+● Decline in competitiveness when the development of cutting edge technologies or their application in products is not advanced as scheduled
+● Obtaining growth opportunities through the development of revolutionary technologies
+     ● Failures to investment in R&D and capital investment for new businesses
+● Failures to establish business alliances or acquire companies to strengthen business
+● Actively tackling M&A activities utilizing a robust financial structure
+● Building the foundations of growth through new management resources acquisitions
+ Internal environment
+  Importance assessment
+       External environment
+・Product quality and safety
+・Information security
+● Damage to brand value due to declining product quality or defects
+     ・Securing human resources
+● Impact on new hires and continuing employment due to intensifying competition to hire and retain talented human resources
+● Obtaining growth opportunities by hiring and retaining the employment of talented human resources that fit the mold of the ideal employees Tamron is looking for
+     ● Leaking of corporate information and personal information due to damaged information system functions caused by computer viruses and the like
+    ・Geopolitical risks
+ ・COVID-19 coronavirus infections, etc.
+● Experiencing various impacts due to global political, social and economic trends
+   ● Impact on the safety of employees due to the spread of coronavirus infections, and various impacts on business activities
+      ・Compliance
+● Damage to corporate value due to corporate behavior that violates laws or diverges from social normal, such as infringements upon intellectual property rights, bribery, and so on
+   
+ Risks and Opportunities
+Materiality (Basic Policies and General PrinciplesoftheMid-termManagementPolicy) Tamron regards materiality to achieve sustained growth together with society as an important matter in the formulation of business strategy and the decision-making process, and has
+incorporated this into its mid-term management policy.
+When addressing these material issues, there are “Key CSR Issues” representing individual issues related to the environment, society and governance in order to mitigate risks
+and take advantage of opportunities.
+・We will enhance our marketing, product planning and sales capabilities, provide products that respond to market trends and customer needs to excite customers, and work to expand our business through increased market share and other approaches with sales strategies adapted for each market.
+・By enhancing marketing efforts directed at solving social issues and engaging in collaborative creation including M&A activities, we will aim to grow our existing businesses while expanding into business fields by developing new “eyes for industry.”
+・In addition to developing elemental technologies focused on our core competency in optical technologies, we will pursue R&D in new technological fields and focus on a horizontal specialization (including collaboration between industry, academia and government) such as collaborative creation.
+・We will accelerate the global expansion of our existing businesses, capture demand in the markets of developing countries with top priority placed on strengthening our position in Asian market, strive to boost profitability and bolster our operating foundations.
+・To respond to severe changes to the external environment, we will reinforce our global development structure, work to shorten lead times from development to mass production, and deliver new products that cater to customers in each market in a timely fashion.
+・We will build a global structure of efficient production across three regions, and with the Fourth Industrial Revolution in mind, pursue further productivity improvements and cost reductions by way of automation, labor saving and personnel saving with the introduction of smart factories.
+・To contribute to the realization of a sustainable global environment, we will reduce greenhouse gas emissions as part of measures to combat climate change while also promoting the recycling of resources.
+・We will promote improved work-life balance and diversity, foster the development of human resources, and develop workplace environments in which all employees can demonstrate their full potential.
+・We will strengthen corporate governance to improve the effectiveness of strategies and tactics, and achieve sustained growth.
+The Direction of Sustained Growth: Together With Society
+   Creating new businesses
+    Materiality
+Key CSR Issues
+Mid-Term Management Policy (Basic Policies and General Principles)
+Creating new value by solving social issues
+   ❶ Creating excitement and peace of mind
+       Steady growth of existing business fields
+Strategic investment through the allocation of revenue from core businesses and management resources
+Improving business revenue
+Providing excitement through still images and video
+ ❷ Creating new light
+   ・Contributing to social issues through business
+     ❸ Business structural reforms
+(improved productivity)
+         ❹ Contributing to
+a sustainable earth
+・Reducing CO2 emissions ・Recycling resources and
+reducing waste
+・Environmentally friendly design
+・Reducing harmful chemical substances
+・Water management
+2019
+Future
+  Enhancing social value by contributing to decarbonized society and other efforts
+      ❺ Empowering employees
+・Human resource development
+・Developing comfortable workplace environments and promoting diversity
+・Fostering the development of the next generation
+ Initiatives focused on the future based on materiality
+      ❻ Developing the foundations of trust and sustained growth
+・Expanding the disclosure of nonfinancial information
+・Enhancing product quality and safety management
+・Promoting CSR procurement
+・Preparing for major disasters
+・Enhancing internal reporting systems
+・Improving the governance system
+   Business expansion for industry to contribute to security in society
+Creating new possibilities in optics and achieving early full-scale commercialization
+Boosting productivity, empowering employees and contributing to governance reform and the global environment
+    15 Tamron Integrated Report 2020
+Tamron Integrated Report 2020 16
+Achieving sustained growth through business structural reform
+Size of business
+Growth businesses and new businesses Core businesses Society
+
+ State of Progress on the 2020 Mid-term Management Plan
+Tamron’s mission lies in contributing to the development of a fulfilling society in which all people experience excitement and peace of mind through its corporate activities.
+To achieve that society, Tamron has been working on a three-year mid-term management plan ending in FY2020 that aims to further enhance corporate value.
+State of Progress on the Mid-Term Management Plan (2018 - 2020)
+Historical Sales & Targets
+■ Photographic Products Business ■ Commercial/Industrial-use Optics Business ■ Optical Components Business ■ Operating Income  ● Operating Income Margin
+  Mid-Term Management Plan (2018 - 2020)
+  Basic Policy of the 2020 Mid-term Management Plan
+Reinforce operating foundations by achieving record level profits through improved profitability
+ROE Net Sales
+(billion yen)
+80 60 40 20
+Operating Income (billion yen)
+8 6 4 2
+      5.8%
+8.6%
+10.1%
+ Financial Targets
+Net Sales Operating Income
+¥72.0B. ¥6.6B.
+Operating Income Margin
+9.2% ROE More than 9%
+  Non-Financial Targets 2% reduction
+in CO2 emissions
+Obtaining outstanding health and productivity management company certification
+ 7.0
+63.3
+2.7
+14.4
+11.0%
+9.0%
+More than 9%
+72.0
+5.5 6.6
+17.5
+     P15-16
+Improving corporate value
+Contributing to
+a sustainable society
+・Enhance proposal-based sales activities
+・Create pull-demands and increase repeat customer rate
+・Reinforce functions of Product Planning Dept. (from product planning to launch)
+・Establish mechanism to feed market needs to product planning
+・Expand territories covered by US subsidiary
+・Initiate R&D for CCTV Lens in China factory
+・Establish a production system built around the three core
+production sites in Japan, China and Vietnam, while pulling the Vietnam Plant into the black
+・Start full-scale operation of Opto-Science R&D Center ・Increase efficiency in R&D process
+・Build partnership with external organization ・Selection and concentration of resources ・Leverage alliances and M&A
+・Flatter & slimmer organization structure
+・Review HR evaluation system
+・Efforts to improve productivity in each dept.
+・Promote energy saving and consider introducing renewable
+energies
+・Concentrate on new products for the full frame and mirrorless markets
+・Improve own brand gross profit margin and streamline business operating costs
+・Achieve differentiation with high value-added products ・Develop a wide-ranging development structure (Japan, China
+and outsourcing)
+・Strengthen sales capabilities in the expanding Chinese market ・Speed up development by shortening development lead times
+・Enhance autonomous driving-related products such as lenses for sensing cameras
+・Reduce costs by increasing the automation rate of production equipment
+・R&D investment and capital investment to develop underlying technologies
+・Consider joint ventures, M&A activities and so on
+・Acquire quality standards towards full-scale commercialization
+60.8
+3.4
+11.8
+4.2
+       Agendas for Transformation
+Agendas for Transformation
+Basic Policy by Segment
+      Agenda
+Reinforce Sales & Marketing
+New Business Development
+Policy
+・Enhance Marketing Functions ・Proposal-Based Sales Activities
+・R&D Investment in Future Business ・Shorten R&D L/T
+00
+* Due to the extreme uncertainty caused by the worldwide spread of COVID-19 coronavirus infections, on April 28, 2020, Tamron decided to revise the results forecast that was announced on February 7, 2020, leaving it undecided for the time being. Tamron will announce a new forecast when it becomes feasible.
+Measures
+FY2017 Financial Results
+FY2018 Financial Results
+1 USD = 110.45 JPY 1 EURO = 130.38 JPY
+FY2019 Financial Results
+1 USD = 109.04 JPY 1 EURO = 122.06 JPY
+Revised 2020 Plan
+(as of February 7, 2020) *
+1 USD = 107 JPY 1 EURO = 120 JPY
+2020 Mid-Term Management Plan (Announced in 2018)
+1 USD = 110 JPY 1 EURO = 130 JPY
+   ・Innovative & Exciting Product Planning
+    ・Re-Organize Sales Network / Re-Organize Manufacturing Process
+  Customer Values
+Achieved target operating income, operating profit margin and ROE a year ahead of schedule due to improved profitability
+   Globalization of Sales, Production, & R&D
+Main Achievements and Issues
+Achievements
+Issues
+    Re-Building of R&D Process
+  Quantitative Results
+・ 2020 target values were far exceeded in terms of profit and ROE. Targets were reached a year earlier than expected (2019 operating income of 7 billion yen, operating profit margin of 11.0%, ROE of 10.1%)
+・ Obtained outstanding health and productivity management company certification
+Qualitative Results
+・ Achieved a large increase in the number of new own brand interchangeable lens products released, and achieved big hits in the mirrorless market
+・ Boosted profitability by generating higher gross profit margins on own brand interchangeable lenses and controlling costs
+・ Shifted to increased revenue from surveillance camera lenses in the Chinese market
+・ Launch of the module business and full-scale commercialization
+・ Expanded sales of automotive lenses for sensing applications
+・ Revised personnel systems and raised awareness of productivity improvements
+・ Flattened and slimmed Tamron’s organization structure
+・ Formulated an environment vision
+Quantitative Issues
+• Achieving the net sales target of 72 billion yen is expected to be difficult
+2019 sales: 63.3 billion yen ⇒ target value revised to 65.5 billion yen
+• Continued non-attainment of CO2 emissions reduction target
+Qualitative Issues
+• Responding to significant appreciation of the yen compared to the expected exchange rate
+• Shrinking digital camera market
+• Handling the mature B-to-C drone market
+• Developing new businesses
+• Allocating management resources to high growth areas on a priority basis
+    ・Operational & Capital Partnership with External Organization
+      Corporate Management
+・Organizational & HR System Restructuring ・Enhance Corp. Governance
+・Contribution to the transition to decarbonized
+society
+    Basic Policy by Segment
+P21-28
+ Segment
+ Photographic Products (Mature Market)
+Basic Policy
+・Prioritize profitability improvements without assuming major sales growth
+Measures
+        Surveillance /
+Factory Automation (Stable Growth Market)
+・Expand the base of industrial products and establish a business structure through both lens units and modules
+      Drone and Automotive Lenses (High Growth Market)
+・Actively invest management resources to expand the size of the business
+     Medical and Other Fields (New Markets)
+・Create new business candidates and lay the groundwork for commercialization
+in the medical field
+   17 Tamron Integrated Report 2020
+Tamron Integrated Report 2020 18
+61.8
+3.4
+12.7
+5.4
+7.0
+65.5
+1.7
+18.6
+       45.3
+5.8%
+45.6
+8.6%
+46.2
+45.2
+10.7%
+49.0
+9.0%
+ Achieving
+a fulfilling society
+Materiality
+
+ Financial Strategy
+The Tamron Group will balance ensuring a robust financial structure with high capital efficiency, and follow a basic policy of strategically allocating management resources to improve corporate value through business strategy.
+Strategically allocating management resources by balancing robust financial structure with high capital efficiency
+The Tamron Group pursues management that maintains an awareness of capital costs and places an emphasis on capital efficiency. In the mid-term management plan, we have set the goal of raising ROE that was 5.8% in 2017 to at least 9% in 2020, exceeding the cost of capital (estimated at 7%), and have undertaken various initiatives with this in mind.
+   (1) Robust financial structure
+We have implemented future-oriented R&D and capital investment for sustained growth while making preparations for flexible strategic investments (including M&A and alliances, etc.) and considering risk tolerance. Under these conditions, we aim to have at least two-thirds of our total assets comprised of owned capital and ensure sufficient liquidity on hand of two or three months. We have developed a financial structure that maintains financial health with a D/E ratio of 0.1x or less.
+(2) Capital investment
+We will actively pursue capital investment that contributes to improved corporate value. In addition to investment in new models and high-precision equipment, we are investing automation, streamlining, energy-saving production equipment, and other systems to boost productivity and improve business operations.
+Over the three-year period from 2018 to 2020, we plan to make cumulative capital investments worth around 10 billion yen, and we are managing the investment amounts made in each fiscal year to fall within the range of operating cash flow.
+(3) R&D investment
+As a global optical manufacturer, investment in R&D is essential to maintain and improve high-level technologies, as well as to contribute to social needs and produce innovation from a long- term perspective.
+Over the three-year period from 2018 to 2020, we plan to make R&D investments worth around 15 billion yen, representing an increase of at least 20% over the previous three years from 2015 to 2017. On a fiscal year basis, up to 2015 these investments amounted to around 5% of sales, but this has been gradually raised to at least 8% of sales in 2019.
+(4) Shareholder return and capital policy
+We will steadily link growth investment to profit growth, work to increase earnings per share (EPS), target a dividend payout ratio of around 35% as the allocation of profits based on business performance, and position the continuation of stable shareholder return as our basic policy.
+In addition, in light of developments such as market conditions, financial status and capital efficiency, we will also implement capital policy including the acquisition of treasury shares on a flexible basis.
+Initiatives to raise ROE
+ROE= × × (composition)
+    Main Initiatives
+• Thoroughly managed and reduced inventory assets, etc.
+• Shortened the cash conversion cycle (CCC)
+• Execution of flexible capital policy
+         Results (2017 ⇒ 2019)
+・ Gross profit margin: 34.0% ⇒ 38.3%
+・ SG&A expense ratio excluding R&D expenses: 20.4% ⇒ 19.0%
+・ Improved non-operating profit/ loss, reduced effective rate of duty
+• Months of stock turnover: 2.1 months ⇒ 1.8 months
+• CCC: 147 days ⇒ 128 days
+• Annual dividend:
+50 yen ⇒ record high of 68 yen
+       ● 2020: Further improvements to capital efficiency and financial leverage through capital policy (also contributing to EPS)
+ Implemented acquisition of treasury shares (March 2020)
+・Percentage of total number of issued shares: 18.87%
+・Acquisition amount: 8.9 billion yen
+* Through acquisition of stock by the asset management firm of the founding family
+ Improving corporate value through both business strategy and financial strategy
+● 2019: Major achievements in profitability, and degree of progress on capital efficiency
+Change in Balance Sheet
+     19 Tamron Integrated Report 2020
+Tamron Integrated Report 2020 20
+Business strategy
+Financial strategy
+(billion yen)
+   70
+   60
+   50
+   40
+   30
+   20
+   10
+0
+Cash & Deposits
+Profitability
+Net Income Net Sales
+Cash & Deposits
+Asset Efficiency Net Sales Total Assets
+Financial
+Leverage
+Total Assets Net Assets
+       Improved profitability
+・ Reduced development and production costs
+・ Reduced operational costs
+Improved asset efficiency
+Enhancing shareholder return and executing capital policy
+   • Ongoing shareholder return based on a dividend payout ratio of around 35%
+     Analyze, evaluate and determine the business portfolio
+• Improve profitability through the selection and concentration of businesses
+• Revise and reduce operational costs
+• Obtain new growth engines by pursuing existing
+businesses in depth and expanding into adjacent fields
+of business
+• Beef up capital investment and engage in M&A activities
+   Analyze and evaluate finances, and determine an optimal capital structure
+• Secure funding for growth investment and strategic investment
+• After taking risk tolerance into consideration, maintain a robust financial structure and optimize the level of cash and deposits
+• Achieve stable shareholder return based on profits
+• Execute a flexible capital policy
+  Liabilities
+Liabilities
+ Cash & Deposits
+Liabilities
+     Assets other than cash and deposits
+Net Assets
+Assets other than cash and deposits
+Net Assets
+Assets other than cash and deposits
+Net Assets
+   Improving corporate value
+   Strike a balance between growth potential and efficiency to achieve a corporate structure capable of sustained growth
+• Controlling and downsizing assets other than cash and deposits
+• Creating cash flow and enhancing net assets by improving profitability and shortening CCC
+• Optimization of cash and deposits level • Downsizing of net assets through
+shareholder return and capital policy
+End of 2018
+End of 2019
+2020
+(after implementing the above initiatives)
+
+  Strategies by Segment
+ Photographic Products
+With a focus on everyone who takes pictures, Tamron will take on the challenge of developing advanced lenses that live up to the passionate desire to take better photos and contribute to the development of a fulfilling society.
+Related SDGs
+ Summary of Business Results
+Operating Income / Operating Income Margin
+(billion yen / %)
+Net Sales
+■ Own-brand ■ OEM 46.8 45.3 45.6
+19.5 17.0 17.0
+2016 2017 2018
+(billion yen)
+46.2
+18.4
+2019
+■ Operating Income 
+● Operating Income Margin
+8.64
+Sales Composition by Region (Own Brand)
+Other regions 18%
+Russia, India
+3%
+China 10%
+Japan 12%
+Europe 30%
+United States
+27%
+      5.82
+7.11
+      4.03
+2016
+2017 2018 2019
+ 27.3
+28.3
+28.6
+27.8
+8.6
+12.8
+15.6
+18.7
+  Own Brand Initiatives and Future Policy
+In the mature market of the Photographic Products segment, instead of pursuing significant growth in sales, we will position improved profitability as the basic policy of the mid-term management plan. In terms of specific strategies, we are releasing new own brand products specifically designed for the stable full-frame interchangeable lens market and the growing mirrorless lens market. By expanding and improving our lineup in this way, we are working to increase gross profit margins while streamlining business operating costs. In line with this basic policy, in 2019 we released five new models including three mirrorless models, with own brand products accounting for around 60% of the new models released since 2018. As a result, we managed to raise gross profit margin and also improved operating profit margin from 8.6% in 2016 to 18.7%.
+Moving forward, we will continue to launch new products for the mirrorless market in anticipation of ongoing growth. We aim to raise the percentage of mirrorless sales, which was just 10% in 2018, to over 60%, and will strive to maintain expanding sales and a highly profitable structure.
+By pursuing these initiatives in the segment, we will not only aim for business growth but will also take on the challenge of developing advanced lenses and contribute to the realization of a fulfilling society.
+    Products Offered
+ Lenses for interchangeable lens cameras (DSLR and mirrorless cameras)
+ Production Methods
+Own brand products / OEM products
+ Delivery Destinations
+ Electronics retail stores, online electronics retailers (own brand products), major camera manufacturers (OEM products)
+ Users
+ Consumers
+Segment Characteristics
+Interchangeable Lens Camera Market
+ 20% decline year on year
+ Interchangeable Lens Market
+12% decline year on year
+APS-C: 23% decline year on year Full Frame: 6% decline year on year
+ Compact Digital Cameras
+ 18% decline year on year
+    429.0
+370.1
+356.9
+297.3
+   98%
+2%
+90%
+60%
+Value Creation Initiatives
+   In response to the market trend towards mirrorless, Tamron has seized upon customer demands for compact, lightweight lenses with the development of the A056 (70-180mm). While the focal range of lenses in this category is generally 70-200mm, by shortening the focal length at the telephoto end by 20mm to 180mm, we achieved a 45% weight reduction over the previous model.*
+* Comparison with the A025 (70-200mm)
+                                                 2019 Overview
+Market Situation
+Interchangeable Lens Camera Market Environment
+(billion yen)
+41% decline year on year
+4% increase year on year
+  ■ Mirrorless ■ DSLR
+  578.3
+149.3 149.4
+2015 2016
+578.3 569.7
+221.4 272.4 286.0
+2017 2018 2019
+ 519.5
+464.4
+178.4
+  2019 Results
+In 2019, despite growth in mirrorless products, sales declined particularly among existing products for DSLR cameras due to a cooling market environment. As a result, sales of Tamron- branded products fell 3% year on year. However, thanks to strong sales from OEM orders, sales in the OEM category rose 8% over the same period.
+Due to Tamron-branded products accounting for a higher
+Future Strategy
+For Tamron-branded products, we plan to continually release new products at the speed of around five models a year. Especially in light of the market’s shift to mirrorless, all of the new products released in 2020 will be for mirrorless. In January, we released the F050, the third in our series of fixed focal lenses, and in May, we released the A056 telephoto zoom lens for full-frame mirrorless cameras. With the release of the A056, we have assembled a series of three lenses which are compact, lightweight and carry a sense of unity covering the wide-angle, standard and telephoto focal lengths. Accordingly, we will pursue further sales increases for these products.
+percentage of new products, operating income rose significantly, up over 20% year on year. Operating income on net sales also improved from 17.6% the previous year to 18.7% in 2019 due to higher gross profit on net sales and reduced SG&A expenses. Particularly the A036 standard zoom released in May 2018 and the A046 wide-angle zoom released in July 2019 become hit products that remained back-ordered throughout the year, contributing to the increase in operating income on net sales.
+  Percentage of Tamron-branded Mirrorless Products
+ 21 Tamron Integrated Report 2020
+Tamron Integrated Report 2020 22
+■ Mirrorless ■ DSLR
+2017
+40%
+10%
+2018 2019
+
+  Strategies by Segment
+  Surveillance / FA
+To cater to a diverse range of needs in people’s lives and industry, Tamron is actively working to develop technologies and to enhance and expand its lineup, contributing to the development of a safe and secure society and improved efficiency in industry.
+Related SDGs
+ Summary of Business Results
+Operating Income /
+Operating Income Margin
+(Commercial/Industrial-use Optics Business)
+(billion yen / %)
+■ Operating Income 
+● Operating Income Margin 0.99
+Net Sales
+■ Surveillance / FA  ■ Automotive Lenses
+(billion yen)
+14.4
+3.5
+2019
+Sales Composition
+by Application (Surveillance / FA)
+      10.8
+1.9
+2016
+11.8 12.7
+2.3 2.6
+2017 2018
+0.73
+2016
+0.83 0.81
+2017 2018 2019
+Camera modules 10%
+Teleconferencing 20%
+FA 10%
+Surveillance 60%
+         8.9
+9.5
+10.1
+10.9
+6.8
+7.0
+6.4
+6.9
+   Initiatives and Future Policy in the Surveillance / FA Segment
+In the Surveillance / FA segment, a stable growth market, the basic policy of our mid-term management plan will be to maintain and ensure competitiveness while expanding sales in the industrial market. Over the past several years, despite the rise of Chinese lens manufacturers, business opportunities for Tamron have continued to expand in step with growing demands for high-performance, high-quality products. By launching new products in response to this trend, we will aim to achieve our highest ever net sales.
+Based on the above policy, in 2019 we began selling lens units and worked to reinforce our business structure with the full-scale launch of the camera module business. As a result, net sales rose 7% year on year to 10.9 billion yen, and we managed increased sales in the stagnant Chinese market in addition to steady sales in developed countries.
+In 2020, we will strive to enhance our technological level in the surveillance field to accommodate increasingly diverse needs including urban surveillance, while in the area of factory automation, we will enhance and expand our product lineup to increase sales.
+Looking ahead, we will offer surveillance cameras designed for sophisticated facial recognition and lenses for factory automation equipment enabling the streamlining of industrial operations, contributing to a safe and secure society and improved industrial efficiency while expanding the scope of business utilizing optics.
+    Delivery Customers
+ Major camera manufacturers and machine tool procedures from around the world, including the United States, Europe, South Korea, Taiwan and China.
+* Tamron establishes deep ties with major manufacturers, ascertains demand and promotes joint ventures.
+ Our Strengths
+• We possess the technologies to design and manufacture compact lenses with focal distances that offer high magnification
+• We have enhanced our lineup with units that incorporate accessories and modularization with cameras
+ Related Social Issues
+  Developing a safer and more secure society is a challenge common to various countries, and the surveillance market is expanding around the world.
+ Segment Characteristics
+Trends
+ Despite trade frictions between the United States and China and decreased demand in the Chinese market, growth has continued.
+ Demand for the Surveillance Segment
+ Market needs have become increasingly diverse due to regional characteristics, and security demands including urban surveillance are on the rise.
+  Value Creation Initiatives
+  Among high-power zoom lenses for surveillance cameras, Tamron has implemented the improvements described on the right in terms of product miniaturization and cost reductions.
+In 2020, we will continue to purpose the possibilities of technology to simultaneously produce lenses of different shapes from a single mold in an effort to achieve even greater cost reductions.
+(1) Introduced a multi-group control method to hold the entire length in place for stowing in the camera housing. (2) Reduced costs while maintaining high performance by
+actively introducing plastic lenses
+                                                 2019 Overview
+Market Situation
+Net Sales of Camera Modules
+0.5
+0.1
+2017 2018
+(billion yen)
+1.0
+2019
+    2019 Results
+In 2019, we pursued development based on an efficient two-pronged development structure adapted for different applications due to the expanding number of models developed and wide range of demands in terms of performance and cost. We developed high-end, high-performance products in Japan, and high-volume products with strict cost controls at our plant in China, as part of efforts to shorten development lead times.
+Future Strategy
+In conjunction with efforts to enhance and expand the lineup of highly competitive products, we will prioritize the initiatives described on the right.
+Moving forward, we will pursue joint ventures with leading camera manufacturers around the world, strive to develop products that capture the needs of the market early on, and continue to deliver appealing products.
+* SWIR: Acronym for short wave infra-red, referring to light falling roughly between 0.7 and 2.5 μm in wavelength.
+We also released one model of a camera module that integrates the camera and lens unit. This has enhanced the added value of our products and is leading to
+higher unit prices.
+The MP2030M-GS camera module
+1. Improved technical level including better resolution to deal with higher definition and reduced ghosting and color bleed in anticipation of the era of 4K and 8K
+2. Expanding the scope of business utilizing optics
+Lenses for SWIR*: Main applications are for livestock and meat inspection, agricultural produce inspection
+and determining liquid contents
+Lenses for infra-red cameras: Mainly used for thermometry
+   23 Tamron Integrated Report 2020
+Tamron Integrated Report 2020 24
+
+  Strategies by Segment
+High Priority / New Business
+We will take advantage of our strengths in high-precision optical technologies to help create a safe and secure automotive society.
+We will also provide high-precision optical devices in new fields including medicine and drones to help realize a fulfilling society and improve the efficiency of industry.
+  High Priority / New Business Initiatives and Future Policy
+Automotive Lenses
+In the high-growth market for automotive lenses, our basic policy for the mid-term management plan is to enhance our ability to respond to customer demands by securing development capacity, and to actively invest in R&D and capital.
+Based on the above policy, in 2019 we achieved increased sales of at least 30% year on year due to aggressive efforts to sell automotive lenses for sensing cameras.
+To respond to rising demands for high thermal resistance, in 2020 we will continue to work on the development of elemental technologies such as plastic lenses and heat resistant coating. In addition, for sensing applications, we will concentrate on the development of lenses for automotive cameras used for ADAS*1 and products for LiDAR*2 with the aim of continuous sales growth.
+Looking ahead, Tamron will provide high added-value products as the key devices supporting autonomous driving to contribute to the realization of a safe and secure automotive society.
+Medical
+The medical segment is an area of business expected to experience future growth. In 2019, we commenced the mass production of optical devices to achieve increased sales, and have also steadily gained business for new projects. In 2020, we will strengthen partnership ties with customers and work to reinforce our development systems. Tamron will provide high-precision optical devices in preparation for full-scale sales growth from 2021 onwards.
+Drones Lenses
+In the drone segment, we have positioned growth in the size of the business through active resource investment as the basic policy of our mid-term management plan. While plans for development projects slated for 2019 were canceled, we maintained sales of more than one billion yen. In 2020, we will strive to bolster development systems and proposal-based sales efforts to respond to customer needs with a sense of speed. As an optical manufacturer, we will work to achieve differentiation on the technology and quality fronts, further the development of a fulfilling society, and contribute to the improved efficiency of industry.
+*1: ADAS is the acronym for Advanced Driver Assistance System. This is a collective term for automotive systems that utilize vehicle-equipped radar, cameras and various sensors to provide support enabling safe vehicle operation.
+*2: LiDAR is the acronym for Light Detection and Ranging. LiDAR has recently attracted attention as one of the key items for achieving the autonomous driving whose development is being actively pursued by numerous companies.
+       Automotive Lenses
+  Autonomous Driving Level
+Level 1
+Driver assistance
+  Level 2
+Partial automation
+Timing for Practical Application
+      8.9
+9.5
+10.1
+10.9
+65%
+60%
+Level 3
+Conditional automation
+ Level 4
+High automation
+ Level 5
+Full automation
+ Product Features
+ • As our products relate to people’s safety, high levels of durability and heat resistance are required. Because of this, we work with customers for 3-4 years on development, and since sales are made over the long term, it is easier to forecast orders.
+ Related Social Issues
+ • Traffic fatalities are increasing in emerging countries.
+• The Japanese government is promoting the widespread adoption of autonomous driving technologies.
+  Segment Characteristics
+Trends
+In addition to support from legislation, such as requiring all cars to be fitted with cameras, we are in a period of transition to autonomous driving, and a high level of growth in the market is set to continue.
+ Autonomous Driving-related Market
+  There are growing demands for products catering to sensing applications and LiDAR to achieve autonomous driving.
+                                                  Summary of Business Results
+Net Sales (billion yen) ■ Surveillance, factory automation, etc.
+Related SDGs
+Map of Autonomous Driving Levels
+Already implemented
+Already implemented
+Around 2020 2025 - 2030 Timing not set
+Outlook for the Automotive Camera Market (Tamron Estimates)
+     ■ Automotive Lenses
+Sales Composition by Application (Automotive Lenses)
+■ View Cameras ■ Sensing  ■ Lighting
+ 10.8 1.9
+2016
+11.8 12.7
+14.4
+3.5
+2019
+15% 20%
+2018
+10%
+30%
+2019
+2.6
+2017 2018
+2019 Overview
+Market Situation
+(million vehicles)
+170
+55% increase compared with 2018 levels
+2023
+2.3
+            110
+2018
+130
+18% increase compared with 2018 levels
+2019
+ 2019 Results
+expand the size of business operations in overseas markets. Additionally, in an effort to set our technology apart from the competition, we developed a high heat-resistant plastic lens element that maintains performance across a wide temperature range from -40°C to 125°C, something not possible with regular lens plastics.
+contribute to the realization of a safe and secure automotive society. We will also continue with steady efforts aimed at automation and reducing production loss to boost profitability.
+In 2019, net sales increased 34% year on year to 3.5 billion yen, primarily due to sales growth in automotive lenses for sensing. Operating income also rose due to the effects of increased sales, combined with the cost-reducing effects of higher productivity.
+In 2019, we strengthened our team of sales personnel to
+Future Strategy
+Moving forward, we will actively pursue the development and sale of lenses for ADAS and LiDAR as the key devices in 360° sensing systems ahead of the transformation in automotive society due to autonomous driving. In doing so, we will
+ 25 Tamron Integrated Report 2020
+Tamron Integrated Report 2020 26
+
+ Strategies by Segment
+    Value Creation Initiatives
+★★
+Medical
+Summary of Business Results
+Related SDGs
+   In anticipation of the coming autonomous driving-based society, Tamron is working on the development of a range of automotive lenses.
+The lenses used in automotive cameras largely fall into two categories, those for visibility cameras such as rear view cameras, and those for sensing cameras applied to ADAS and autonomous driving to recognize lane markers, monitor the driver and perform other functions. Other automotive lenses include those used for headlights.
+To date, Tamron has supplied lens for applications denoted by the ★ mark in the diagram on the right. Moving forward, we will also focus on developing automotive lenses for new applications towards the realization of an autonomous driving society in the future.
+Headlight Lenses
+(light dispersion)
+★
+Sensing Camera Lenses
+(vehicle spacing control, front collision avoidance, etc.)
+Sensing Camera Lenses
+(pedestrian detection, vehicle spacing control, front collision avoidance)
+Lens for Cameras that Visually Recognize the Surrounding Area (side view)
+Sensing Camera Lenses
+(passenger detection)
+ Net Sales
+■ Drones Lenses ■ Medical 1.3
+(billion yen)
+1.2
+0.1
+2019
+  Market Characteristics
+ • Manufacturers supplying components face relatively low barriers to entry
+• Resilient to economic fluctuations
+ Related Social Issues
+ • Improved quality of medical care Medical devices related to minimally invasive procedures*, particularly in medical procedures such as diagnosis, examination and surgery, have started to be introduced.
+* Minimally invasive procedures are medical procedures that take a reduced (less invasive) toll on a patient’s body.
+       0.6 0.6
+2017 2018
+2019 Overview
+Segment Characteristics
+  Sensing Camera Lenses (lane-keeping detection)
+Sensing Camera Lenses
+(driver monitoring)
+★
+Rear View Camera Lens (rear view)
+1.3
+1.1
+   Drones Lenses
+Related SDGs
+Outlook for
+the Drone Market
+Market Situation
+Future Strategy
+2019 Results
+  Trends
+Due to the advance of extreme population aging and the increase in middle income groups, the market is on track for long-term expansion.
+ Medical Device Market
+  The annual growth rate of the medical device market has hovered at around 6% (2015 to 2019)
+    Product Applications
+ Consumer Use (Filming, enthusiast use)
+Industrial Use (Transportation, agriculture, surveying, inspection, etc.)
+ Market Configuration
+ The market is an oligopoly made up of several major companies.
+Tamron supplies lenses directly to these major drone manufacturers.
+ Related Social Issues
+ • Ensuring distribution in lightly- populated areas
+• Improving productivity in livestock and agriculture, collecting various observational data for disaster prevention purposes
+    Segment Characteristics
+  2019 Overview
+Market Situation
+Future Strategy
+While lower sales are expected in 2020, we will strengthen cooperative ties with major drone manufacturers and strive to enhance speed and cost competitiveness to meet customer needs. In the future, in addition to consumer applications
+2019 Results
+78
+2017 2018
+12
+2019
+(billion USD)
+27
+2022 (forecast)
+In 2020, we will implement market research and customer development focused not only on Japan but also Europe and North America. From a medium-to-long-term perspective, we
+Sales of component parts for endoscopes which entered mass production from 2018 grew, generating sales of 60 million yen in 2019. A major factor behind the increase was the acquisition of orders for standalone lenses in addition to lens component parts handled to date, owing to the strengthening of partnerships with customers.
+will develop technological capabilities, customer adaptability as well as quality and safety management capabilities.
+Value Creation Initiatives
+Tamron is pursuing the following initiatives targeting the evolution of minimally invasive
+procedures.
+1. The development of high precision thin film technology ideal for ICG fluorescence imaging*
+2. The development of very small diameter lens polishing technologies ideal for the observation optical systems typical in endoscopes.
+Both of these initiatives represent efforts to elevate the machining technologies cultivated since our founding to respond to the needs of the times. In 2020 we will pursue further research on the way to achieving practical utilization.
+* ICG (indocyanine green) fluorescence imaging: With this imaging technique, medical CCD cameras pick up the near infra-red radiation emitted when ICG binds to alpha-1 lipoprotein in the blood, allowing blood vessels and other biological tissue to be observed. As ICG fluorescence imaging has very few side effects, is minimally invasive and simple, in recent years it has been applied across various fields of medicine, with widely reported utility.
+0 1
+2 3
+4 5
+6 7
+8 9 (mm)
+  Due to factors including a model under development being cancelled and poor sales of existing models, net sales fell 200 million yen year on year to 1.1 billion yen. The impact from reduced sales was minimized to secure an increase in operating income.
+we will actively work on the development and sale of lenses for industrial drones that simplify surveying, inspection and surveillance.
+ Consumer Use
+ Growth will be blunted due to turned growth cycle
+ Industrial Use
+ Expansionary trend (35% increase compared with 2018 in 2019)
+    27 Tamron Integrated Report 2020
+Tamron Integrated Report 2020 28
+
+    Human Resource Development
+Related SDGs
+By strengthening the potential of human resources and developing the workplace environment to realize our corporate philosophy, we will build an organization
+in which employees can succeed.
+Work-Life Balance and Diversity
+Tamron pursues a number of initiatives with the aim of achieving a healthy work-life balance for its employees.
+We believe it is crucial to develop support systems that help employees achieve a balance between raising children and work. As a part of these efforts, Tamron Kids Day-Care Center has been established in parallel with our head office, and is available to the local community as well as employees.
+Parents’ observation day
+Day-care times cover an extra hour on each side of working times, with extensions also available. Day-care for sick children is also supported. Due to the opening of the in-house day-care center, the number of employees awaiting vacancies at local day-care centers has decreased, allowing employees to return from childcare leave earlier.
+One hundred percent of female Tamron employees in Japan who have had a child have made use of leave before and after childbirth and the parental leave systems and subsequently returned to work. Employees can make use of the reduced working hours scheme until up to the end of April when their child is in the fourth year of elementary school.
+Japan requires companies to maintain a 2.2% hiring ratio for people with disabilities, and in FY2019 Tamron again exceeded this ratio at 2.5%. Through these initiatives, Tamron has met the standards set forth in the Act on Advancement of Measures to Support Raising Next-generation Children, and had also been awarded the “Kurumin Mark,” which is given to companies that promote a childcare-friendly workplace. Tamron has also been certified as a “Platinum +” company practicing diverse work styles as part of the Saitama Womenomics Project being promoted in Saitama Prefecture, where our head office is located.
+Health and Productivity Management
+Tamron promotes health and productivity management based on its policy of “endeavoring to protect the lives, mental health and physical wellbeing of employees.” By striving to develop a workplace in which employees can engage in fulfilling work in good physical and mental health, we believe employees will be able to demonstrate their full potential and allow Tamron to deliver products and services that provide society with excitement and security.
+In terms of initiatives to promote mental and physical health, we commission outside contractors to conduct mental health diagnoses for all permanent and non-permanent employees twice a year (implementation rate of 95.7% in August 2019). Employees undergoing the diagnoses include those dispatched overseas. Additionally, for each age group, job type and division, we identify issues in terms of management, workplace unity and job satisfaction, brief the Management Meeting based on a report compiled each time, and endeavor to make improvements.
+In recognition of these efforts, in 2020 Tamron was certified under the 2020 Certified Health & Productivity Management Organization Recognition Program (Major Corporation Category) for the first time.
+Moving forward, we will continue to promote health and productivity management to advance the health of all employees, who represent the driving force behind the growth of Tamron.
+Improving productivity
+Tamron conducts operations with an awareness of productivity. In the Productivity Improvement Project, we reviewed the way working hours are used with the aim of improving the speed and quality of the work performed.
+Additionally, based on the policy that “work an hour less and achieve even more than before: therein lies progress in how people work,” for 2020 we have set the goal of reducing company-wide overtime by 10% compared with the previous year. If we aim to make bold reductions to overtime hours all at once, this could place an increased burden on employees and have a negative effect on deliverables. With the aim of steadily enhancing productivity a little at a time, we have set the clear-cut numerical target of a 10% year-on-year reduction. Each week we utilize RPA to send automated emails to all employees who use PCs to inform them of their overtime hours for the same month in the previous year and their cumulative overtime hours in the current month. This is designed to raise their awareness of their own working hours and productivity.
+Basic Approach
+To realize our corporate philosophy, it is necessary to build an organization in which each employee can demonstrate their full potential while striving to boost productivity. To develop an organization in which employees can excel, Tamron works to “strengthen the potential of human resources” by making improvements to the workplace environment such as promoting a healthy work-life balance, diversity and health & productivity management, and through improvements to personnel systems such as human resource development and personnel evaluations.
+Tiered and occupation-specific training
+We conduct tiered training from employee induction training all the way to senior managers, and also offer occupation-specific training to enhance specialization in technical or administrative job types.
+For occupation-specific training aimed at engineers, we start with courses on technical basics and branch out to courses on various technical themes including basic optics, optical measurement technologies and analysis technologies. The courses can be voluntarily attended by employees from outside a division that the training is designed for, providing opportunities for engineers to acquire a broad range of knowledge related to Tamron technologies and allowing the addition of new training that caters to employee needs as the occasion dictates. In this way, Tamron maintains a high level of job motivation among staff and endeavors to enhance the environment that cultivates talented human resources.
+Personnel evaluations
+Post Qualification System
+and the Evaluation Process
+In April 2019, we revised the previous occupational grading system and introduced a positional grading system for management-level employees. The positional grading system determines grades and compensation based on positional classifications (positions) according to the level of responsibility and difficulty to be fulfilled as required by management, irrespective of seniority or ability. Based on the positions defined for each grade, goals appropriate for those positions are set at the beginning of each period. Feedback is provided through daily business duties through the period, and at the end of the period the employee’s achievements are evaluated to determine their compensation. Through this system, employees themselves set goals that include challenges and innovation appropriate to their position, build a consensus with their supervisor, and go through the process of evaluation at the end of the period. In keeping with this system, supervisors support the daily growth of their subordinates to maximize their potential, and links these advancements with human resource development.
+Employees who have developed a degree of occupational skills are offered two career tracks under the positional grading system, the “manager course” or “professional course.” In this way, each individual can attain a working style that fits their aptitude and intentions.
+   Achieving
+our corporate philosophy
+   Employee empowerment
+ Demonstrating capabilities
+ Improving productivity
+  Strengthening the potential of human resources
+ Human resource development
+ Personnel evaluations
+ Improvements to
+the workplace environment
+   Work-life balance
+Diversity
+Human Resource Development
+Job-specific hiring
+People with dreams who continue to take on challenges ̶ these are the kinds of people we want to work together with at Tamron.
+At Tamron, we recruit human resources by first clarifying what department, what job and what kind of work we will allocate to people, and this applies to new graduate hires in addition to mid-career recruitment. This approach not only avoids situations where an employee ends up assigned to work that is different from what they imagined once they enter the company, but also reflects the emphasis placed on individual career plans. We believe this is very important to ensure that employees will continue to be passionate about their jobs and demonstrate their potential.
+Health & productivity management
+  29 Tamron Integrated Report 2020
+Tamron Integrated Report 2020 30
+
+      Environmental Strategy
+Related SDGs
+To build a fulfilling society, Tamron formulated Environmental Vision 2050, which outlines the long-term direction of Tamron’s environmental initiatives.
+Climate Change-Related Information Disclosure (Responding to TCFD Recommendations)
+Our Approach to Climate Change
+In response to the TCFD recommendations*, Tamron has conducted an analysis of a scenario with a sustainable global temperature rise of 1.5°C in 2050, and revised the associated risks, opportunities, activities, systems and other aspects. With a renewed recognition that it will be necessary to aim for a global temperature rise of 1.5°C to ensure the sustained growth of Tamron, we have determined that fundamental revisions to our strategies, indicators and targets are needed. This led to the formulation of Environmental Vision 2050. Moving forward, Tamron will tackle measures to compact climate change based on Environmental Vision 2050.
+* TCFD Recommendations: A disclosure framework announced by the Task Force on Climate-related Financial Disclosures for investors to appropriately evaluate organizations’ climate-related risks and opportunities
+Governance
+Tamron recognizes various risks including climate change as important management issues. The CSR Committee, which is chaired by the president, deliberates and makes decisions about Tamron’s basic policy on risk response and other important matters. Systems are in place to report important matters to the Board of Directors to enable suitable supervision. Information decided on by the CSR Committee is also reflected in management plans.
+P13
+Strategy
+When climate change becomes apparent, social issues will develop, and as these progress to economic effects, business risks and opportunities will emerge. Tamron recognizes the risks and opportunities it faces based on the following table. It will also be necessary to contribute to worldwide initiatives as part of the shift to decarbonized society to ensure the sustained corporate activities of Tamron. Given this, in July 2020 Tamron will establish Environmental Vision 2050 and work to help create a sustainable earth by reducing CO2 emissions by 80% by the year 2050.
+Physical Risks
+❶ Impact on production activities from manufacturing to sales due to damage to plants in Japan and overseas
+Transitional Risks
+❶ Damage to corporate value through inability to respond to the shift to a decarbonized society
+❷ Risingburdenofcarbontaxesandrenewable energy purchase costs
+❶ Increaseddemandforteleconferencing cameras as measure to deal with interruptions to public transportation
+1.5°C Target Scenario
+In a world with a 1.5°C global temperature rise, it is expected that (1) renewable energy costs will rise, and (2) carbon taxes will be introduced To achieve the 2050 target, we have set the goal of reducing CO2 emissions by 30% compared to 2015 levels by the year 2030, but to achieve this, the purchasing of renewable energy will be essential. As renewable energy is more expensive than conventional sources of power, it will impart a financial impact. Costs are expected to rise by up to 4.5 yen per kWh from current levels. In addition, to achieve sustained growth in production volume moving forward, Tamron expects its annual power consumption to rise from the current 77 million kWh to 117 million kWh by the year 2030. In this case, our costs would increase by a total of around 160 million yen per year. Furthermore, if a carbon tax was introduced in Japan, China or Vietnam, where we maintain production facilities, we estimate that our taxes would amount to 240 million yen based on the IEA’s SDS 2025 scenario (carbon taxes predicted to be 6,000 yen / t-CO2 in developed nations and 4,000 yen / t-CO2 in developing nations). However, Tamron will try to reduce its carbon tax burden by introducing renewable energies and cutting carbon volume through energy conservation.
+Risk Management
+Tamron views opportunities and risks associated with climate change as one of the important perspectives to be considered when formulating its business strategy. The CSR Committee also revises the analysis and evaluation of opportunities and risks based on the changing external environment.
+Indicators and Targets
+Target CO2 emissions from Tamron’s corporate activities have been defined in Environmental Vision 2050. Each year, we will report on target values and past results as we move towards achieving these goals. Moreover, in addition to direct emissions (Scope 1) and indirect emissions from energy purchases (Scope 2), we are also considering the prospect of calculating and setting reduction targets for indirect emissions (Scope 3). Check the Tamron website for data on CO2 emissions.
+https://www.tamron.com/csr/
+2019 Environmental Targets and Results
+3.8% reduction in CO2 emissions compared with 2016 levels
+3.5% reduction in CO2 emissions compared with 2016 levels
+Reduction activities focused on energy conservation only
+Reducing total energy consumption through energy conservation while shifting to reduction with a focus on the introduction of renewable energies
+Environmental Vision 2050
+In light of trends in climate change due to global warming in recent years, Tamron has formulated Environmental Vision 2050. To build a fulfilling society, we will engage in activities
+to achieve three visions, a decarbonized society, a resource recycling society and a society that exists in harmony with nature.
+ Environmental Vision 2050
+We recognize that global environmental issues affect all of humanity. We will strive to reduce environmental impact, conserve the environment, and contribute to the development of
+a sustainable society that exists in harmony with the environment.
+  Mission Our vision 2050 Target 2030 Target
+Fulfilling society
+Decarbonized society Resource recycling society Society in harmony with nature
+● Policies and measures to achieve a decarbonized society
+・Promote energy savings and reduce CO2 emissions generated by air conditioning equipment
+and the product manufacturing process ・Promote the introduction of renewable energies
+● Policies and measures to achieve a resource recycling society
+・Work to reduce and recycle waste, and contribute to the reduction of ocean plastic pollution
+(business sites: reduce waste plastic, products: use recycled materials for packaging plastics and reduce volume) ・Work to reduce water consumption and recycle water
+● Policies and measures to achieve a society in harmony with the environment ・Strive to preserve biodiversity through coordination and collaboration with local communities ・Endeavor to reduce harmful chemical substances and implement appropriate management
+        Reduce CO2 emissions by 80% (compared with 2015 levels)
+Reducing waste Reducing ocean plastics pollution Appropriate water management
+Reducing harmful chemical substances Preserving biodiversity
+  Reduce CO2 emissions by 30% (compared with 2015 levels)
+  Activities carried out every fiscal year
+Setting of annual targets and activities according to the key CSR issues
+ Risks
+    Opportunities
+     Unit sales basis
+Target
+ Results
+ Cause of the reduction shortfall
+ Future Measures
+     Examples to reduce waste plastics to lessen ocean plastic pollution
+   Many of Tamron’s products employ plastic housings to reduce weight. However, finding ways to use the plastic runner materials produced during the molding process has proved challenging. To address this, we now manufacture the rear caps for our digital camera interchangeable lenses from a recycled material that uses 100% runner matters, and have successfully reduced the waste plastics generated at our business sites. From 2010 to 2019, this has saved 171 tons (enough for 7.75 million rear caps) cumulatively.
+      31 Tamron Integrated Report 2020
+Tamron Integrated Report 2020 32
+
+ Management Structure
+Board of Directors
+1 Shiro Ajisaka President & CEO
+Member of Nominating Committee
+and Member of Compensation Committee
+2 Shogo Sakuraba Corporate Vice President
+Optical Design & Engineering R&D Unit,
+Integrated Core Technology R&D Unit and Opto-Science R&D Center
+3 Masayuki Abo Corporate Vice President
+Production Management & Administration Unit, Core Technology & Engineering R&D Unit
+4 Koji Masunari
+Managing Director
+Industrial Optics Business Unit and Compliance
+5 Yasuki Kitazume Managing Director
+Administrative Management Unit, Internal Control and Risk Management
+6 Hiroshi Otsuka
+Managing Director
+Corporate Business Planning & Administration Board, Legal & IP Management Board, CSR Implementation & Administration and Investors Relations
+Audit & Supervisory Board Members
+12 Tsutomu Tezuka Full-Time Corporate Auditor
+Member of Nominating Committee
+and member of Compensation Committee
+13 Takashi Hirayama Outside Independent Officer
+Full-Time Corporate Auditor
+(Outside Corporate Auditor, Independent Officer) Member of Nominating Committee
+and member of Compensation Committee
+Activities of Outside Officers
+7 Shenghai Zhang Managing Director
+Mold & Tooling Technology Center
+and overseas manufacturing subsidiaries
+8 Makoto Otani Director
+OEM Component Business Unit
+and Quality Control & Assurance Supervision Unit
+9 Tomohide Okayasu Director
+Imaging Products Business Unit
+and Product Development Management & Administration Unit
+10 Yuichi Sato Outside Independent Officer
+Director (Outside Director, Independent Officer) Chairperson of Nominating Committee
+and member of Compensation Committee
+11 Harumi Katagiri Outside Independent Officer
+Director (Outside Director, Independent Officer) Member of Nominating Committee
+and chairperson of Compensation Committee Supervisory officer at MORI TRUST Sogo Reit, Inc. Outside director at Japan Asia Investment Co., Ltd.
+     Director
+Name
+Yuichi Sato
+Activities in 2019 (Attendance Rate)
+14 Tadahiro Tone
+Corporate Auditor (Outside Corporate Auditor)
+15 Masaya Nara Outside Independent Officer Corporate Auditor
+(Outside Corporate Auditor, Independent Officer)
+Outside
+      Director
+     Harumi Katagiri
+  89 715131012
+For details including brief profiles on directors and corporate auditors, please refer to the Securities Report or “Board of Directors” section, both of which can be found on the Tamron website.
+[Securities Report]
+https://www.tamron.co.jp/ir/library/library_03.html
+[Board of Directors]
+https://www.tamron.com/ir/cg/cg_03.html
+Attended all 18 Board of Directors meetings held during the fiscal year.
+He has made appropriate remarks based on his wealth of experience as an executive director and vice president of Saitama University.
+Attended all 18 Board of Directors meetings held during the fiscal year.
+She has made appropriate remarks based on her professional knowledge and experience as a certified public accountant.
+He attended all 14 Board of Directors meetings and all 10 Audit & Supervisory Board meetings held since taking office. He has made appropriate remarks based on his wealth of business experience at financial institutions and the knowledge and experience of serving as an auditor or working in the audit departments of other companies.
+Attended 17 of the 18 meetings of the Board of Directors and all 15 of the Audit & Supervisory Board held during the fiscal year.
+He has made appropriate remarks based on his wealth of business experience at financial institutions and his knowledge and experience as a corporate manager.
+He attended all 14 Board of Directors meetings and all 10 Audit & Supervisory Board meetings held since taking office.
+He has made appropriate remarks based on his professional knowledge and experience as a lawyer and his knowledge and experience as a director and corporate auditor of other companies.
+         3 542111
+614
+   33 Tamron Integrated Report 2020
+Tamron Integrated Report 2020 34
+Category
+ Corporate Auditor
+Takashi Hirayama
+   Corporate Auditor
+Tadahiro Tone
+   Corporate Auditor
+Masaya Nara
+  
+ Corporate Governance Basic Policy
+Ever since the company was first established, we at Tamron have sought to forge good relationships with all stakeholders, achieve sustainable growth and enhance corporate value in line with our management philosophy.
+In support of those goals, we have adopted the basic approach of ensuring fair and transparent management practices while developing a highly effective corporate governance system that seeks to improve the speed and efficiency of decision making and business execution.
+Compliance with the Corporate Governance Code
+Through the continual improvements to our corporate governance system, we implemented all of the principles found in the Corporate Governance Code prescribed by the Tokyo Stock Exchange. We have also established Corporate
+System Overview
+Tamron is a company with corporate auditors and includes a Board of Directors that functions as a body to make important decisions and supervise the execution of operations, as well as an Audit & Supervisory Board as an auditing body that is independent of the Board of Directors. Tamron also appoints multiple independent external directors possessing a wealth of knowledge, expertise and independence and has set up a Nominating Committee and Compensation Committee as advisory bodies to enhance supervisory functions.
+To the Board of Directors, Tamron appoints 11 directors (two of whom are external directors), including one foreign director and one female director, as well as 4 corporate auditors (three of whom are external auditors).
+Governance Guidelines that summarize our approach to corporate governance. The guidelines are available on the Tamron website.
+Election/ dismissal
+Board of Directors Effectiveness Assessment
+To self-assess the overall effectiveness of the Board of Directors, each year Tamron makes revisions to pertinent questions based on external changes such as corporate governance revisions and Tamron’s own governance measures, surveys all directors and corporate auditors by way of a questionnaire, and accepts
+individual opinions as needed.
+Based on the results of the assessment, the Board of Directors
+deliberates over analysis, assessment and improvement measures, makes revisions to matters including the composition, size, compensation system and operating methods of the Board of Directors, and strives to improve its effectiveness.
+Major Initiatives to Enhance Corporate Governance and Progress on Improvements
+ Category
+ 2016
+  2017
+  2018
+  2019
+ 2020
+  Officer Composition and Compensation
+   • Established a Nominating Committee and Compensation Committee
+• Appointed a foreign national as a director
+     • Considered the size and composition of the Board of Directors
+• Established standards concerning the independence of outside officers
+    • Reduced the number of directors by three
+• Appointed a female director
+• Revised the compensation system and introduced a stock compensation scheme
+    • Considered the size and composition of the Board of Directors
+   • Reduced the number of directors by one
+   Other
+   • Began effectiveness assessment by conducting a questionnaire among officers
+    • Considered compliance with items of the Corporate Governance Code not yet in compliance
+    • Reduced the number of Board of Directors meetings
+• Complied with all principles of the Corporate Governance Code
+• Established Corporate Governance Guidelines
+  • Increased opportunities for medium-to-long- term discussion
+• Improved methods and timing for providing materials in advance
+   <Planned>
+Revise the structure of the management philosophy and consider the framework of the long- term vision, next medium- term management plan, and so on.
+    Corporate Governance Structure
+ General Meeting of Shareholders
+ Election/ dismissal
+Audit
+Election/ dismissal
+Coordination Coordination
+Officer Compensation
+Compensation for company officers at Tamron comprises “basic compensation,” which is a form of fixed compensation, “short- term incentive compensation,” which is a kind of performance- linked monetary compensation based on factors such as business performance in a single fiscal year, and “medium-to-long-term incentive compensation,” as a kind of performance-linked stock-based compensation. As well as linking a considerable percentage of compensation to company performance, the
+Compensation System
+performance-linked stock-based compensation aims to clarify the links between business performance, share prices and the compensation of directors, and raise the motivation of directors to contribute to medium-to-long-term improvement in business performance and corporate value. Compensation for external directors and corporate auditors consists only of the basic compensation.
+  Board of Auditors
+(Corporate Auditors and Independent Auditors)
+Accounting Auditor
+   Audit
+      Nominating Committee
+ Board of Directors (Directors and External Directors)
+ Compensation Committee
+  Types of Compensation
+Percentage
+Policy and Process for Determining the Method of Calculation
+Fixed
+ Basic Compensation (Monetary compensation)
+ Approx. 60%
+ In light of each person’s position, level of contribution, levels in the industry or other companies of the same size and business performance, etc., compensation is determined by the Board of Directors following a review by the Compensation Committee chaired by an external director.
+ Variable
+ Short-term Incentive Compensation (Monetary compensation)
+     Approx. 20%
+   Medium-to-long Term Incentive Compensation (Stock-based compensation)
+     Approx. 20%
+   • Points are granted based to each person’s position, business performance, and so on, in accordance with the Share Issuance Regulations established by the Board of Directors. Stocks in Tamron are issued through a trust based on the number of points.
+• The level of medium-term management plan achievement such as ROE is also assessed.
+      President & CEO
+       CSR Committee Compliance Committee
+Management Meeting
+Each department/subsidiary
+Coordination
+Internal Audit
+Internal Audit Supervision Board
+   Assessment Indicators, etc.
+ Assessment Item
+Assessment Indicator
+Assessment Weighting
+ President
+Directors assigned to business units
+Other directors
+Company-wide performance
+Consolidated net sales
+ 20%
+ 70%
+10%
+70%
+15%
+70%
+Consolidated operating income
+   50%
+   25%
+  30%
+ Performance of assigned business units
+ Assessment of business performance
+-
+   35%
+  25%
+ Individual assessment
+   Assessment of individual strategic goals
+ 30%
+       Assessment Item
+ Board of Directors
+Nominating Committee and Compensation Committee
+To enhance the independence and objectiveness of Board of Directors functions concerning the nomination, appointment and dismissal of directors, we have established a Nominating Committee and Compensation Committee, each of which are chaired by an outside director and whose membership comprises a majority of outside officers (outside directors and corporate auditors).
+Management Meetings
+Tamron has established management meetings attended by directors and full-time corporate auditors to discuss and consider issues related to management and the execution of duties, and to quickly respond to the changing management environment.
+Meetings of the Board of Directors are held once a month, in principle, attended by all Directors and Corporate Auditors, for reviewing the execution of duties by the Directors and deciding on important issues as set forth in the basic policy of the company and the Companies Act.
+Audit & Supervisory Board
+Meeting once a month in principle, the Audit & Supervisory Board audits the process of decision making by the Board of Directors and the execution of duties by Directors, by attending the Board of Directors meetings and checking approval documents.
+All directors
+* Assessment of medium-term business performance
+   35 Tamron Integrated Report 2020
+Tamron Integrated Report 2020 36
+* Assessment of business performance in a single fiscal year
+Company-wide performance
+Assessment Indicator
+Assessment Weighting
+  Consolidated net sales
+20%
+   Consolidated operating income
+50%
+  ROE
+30%
+   
+ Financial and Non-financial Highlights Financial Highlights
+  Status of Profit and Loss
+Net sales Operating income Ordinary income
+Financial Position
+Net assets
+Cash and deposits
+Liabilities with interests
+Status of Cash Flow
+Cash flows from operating activities
+Free cash flow
+Per-Share Information (yen)
+EPS
+Dividend
+Major Indicators
+Gross profit on net sales
+EBITDA Margin
+2013
+68,452 5,233 5,196
+47,087 14,297 5,714 9,602 (88) 3,561
+2014
+73,621 6,076 6,200
+51,995 15,915 4,098 6,208 3,856
+140.14 50
+32.0% 13.4% 7.8% 74.4% 1.7 1.3 2,429 3,699
+2015
+71,946 4,554 5,140
+49,001 14,192 4,035 6,214 3,662
+153.98 60
+31.5% 11.4% 8.0% 74.2% 2.1 1.2 2,478 4,052
+2016 2017
+59,903 60,496 2,361 4,246 2,855 4,100
+47,321 49,940 16,030 19,431 4,063 3,145 6,537 7,661 3,997 5,487
+57.19 109.51 55 50
+31.6% 34.0% 9.6% 12.9% 3.1% 5.8%
+77.7% 78.2% 2.0 2.1 1.1 1.3
+2,484 2,425 4,002 4,111
+2018
+61,815 5,424 5,877
+50,852 22,438 2,998 7,523 5,321
+167.80 60
+35.4% 13.9% 8.6% 78.6% 2.1 0.8 2,047 4,373
+EBITDA
+Profit attributable to owners of parent
+Inventories
+Cash flows from financing activities
+D/E Ratio (times)
+PER (times)
+R&D expenses on net sales
+2009
+49,892 2,295 2,263
+32,929 11,887 6,396 3,727 1,897
+23.41 40
+28.6% 12.5%
+2010 2011
+56,650 58,507 5,456 5,687 5,476 5,702
+33,996 36,134 10,996 12,773 6,528 6,330 3,562 8,030 553 3,351
+134.40 138.61 50 50
+33.5% 33.5% 15.4% 15.3% 11.0% 10.9% 67.8% 69.6%
+1.7 1.8
+1.4 1.4 3,102 4,386 3,292 3,304
+Depreciation
+3,654 3,365 3,562
+2012
+64,353 5,503 5,377
+             14,255
+6,258
+642
+            7,051
+(801)
+4.7%
+0.19
+40.4
+5.5%
+18,958
+8,749
+3,689
+8,109
+(890)
+11.2%
+0.19
+12.6
+5.8%
+19,625
+8,944
+3,804
+9,007
+(4,679)
+(1,486)
+11.2%
+0.18
+13.4
+5.6%
+20,545
+8,685
+3,894
+40,805 10,822 5,475 3,736
+12,363
+(3,824)
+(2,363)
+9.8%
+0.13
+17.2
+5.4%
+20,941
+8,674
+3,197
+11,055
+(6,041)
+(1,324)
+8.5%
+0.12
+21.9
+4.7%
+23,568
+9,888
+3,846
+69,906
+10,536
+(2,351)
+(3,009)
+9.2%
+0.08
+17.0
+5.0%
+22,642
+8,209
+4,048
+66,035
+12,875
+(2,552)
+7.6%
+0.08
+14.6
+5.6%
+18,901
+5,726
+60,910
+10,100
+(2,540)
+4.5%
+0.09
+33.9
+3,365
+6.7%
+20,596
+7,808
+2,838
+63,868
+10,473
+(2,174)
+6.6%
+0.06
+22.1
+6.8%
+21,905
+8,588
+4,330
+(2,202)
+9.1%
+0.06
+9.4
+7.1%
+Million yen
+2019
+ Gross profit
+63,285
+24,229
+6,982
+9,649
+7,403
+5,330
+          Total assets
+47,391
+50,120
+51,898
+58,058
+64,704
+1,482
+    64,704
+10,811
+54,539
+69,297
+28,384
+9,388
+2,643
+                           Cash flows from investing activities
+(1,829)
+(3,008)
+10,925
+(2,863)
+8,062
+(1,923)
+                    Dividend Payout Ratio
+1,199.58
+1,238.45
+1,316.33
+1,486.52
+1,715.37
+1,894.14
+(5,219)
+1,890.45
+(1,524)
+1,825.62
+(2,351)
+1,926.65
+(1,861)
+      BPS
+1,976.05
+207.13
+2,119.33
+            ROE 1.9%
+141.86 50
+31.9% 13.5% 10.1% 70.3%
+2.3
+1.6 3,656 3,492
+(Million yen)
+2,666
+116.48 50
+30.6% 12.7% 7.3% 72.8% 1.9 1.5 6,130 3,217
+R&D Expenses
+Shareholders' equity ratio
+Inventory turnover (months)
+PBR (times)
+Capital Investment, Depreciation and R&D Expenses
+69.5% 1.7 0.8 1,774 2,753
+11.0%
+78.7%
+68
+ Ordinary Income Margin
+ROA
+170.9%
+4.6%
+4.5%
+37.2%
+9.6%
+9.7%
+36.1%
+9.7%
+9.7%
+35.2%
+8.6%
+8.4%
+42.9%
+7.6%
+7.6%
+35.7%
+8.3%
+8.4%
+39.0%
+6.3%
+7.1%
+96.2%
+3.9%
+4.8%
+45.7%
+7.0%
+6.8%
+35.8%
+8.8%
+9.5%
+32.8%
+             Operating Income Margin
+38.3%
+11.0%
+15.2%
+11.7%
+10.1%
+0.05
+1.8
+12.2
+1.2
+                          Capital investment R&D expenses
+* EBITDA = Operating income + Depreciation
+Depreciation
+Capital Investment
+2,478 2,484
+(Million yen)
+3,171
+■ R&D expenses ● R&D expenses on net sales
+(Million yen)
+5,263
+Management Indices
+● ROE ● ROA
+11.0%
+3,963
+3,292
+3,257
+3,182
+3,440
+3,812
+3,654
+3,562
+3,164
+3,171
+2,666
+5,263
+8.3%
+                    3,164
+4,052 4,002
+4,111 4,373
+       2,425
+2,047
+ 2015 2016 2017 2018 2019
+2015 2016 2017 2018 2019
+2015 2016 2017 2018 2019
+2015 2016 2017 2018 2019
+37 Tamron Integrated Report 2020
+Tamron Integrated Report 2020 38
+8.3%
+8.0% 7.6%
+9.1%
+      5.6%
+6.7%
+6.8%
+7.1%
+ 4.5% 3.1%
+8.6% 5.8%
+6.6%
+10.1%
+
+ Financial and Non-financial Highlights
+External Recognition
+Non-financial Highlights
+Tamron strives to be a company that limits its impact on the environment and is highly productive, where a diverse range of human resources can succeed.
+ Certification Marks
+Name
+Overview of Recognition
+ CO2 Emissions
+■ Head office ■ Aomori ■ Foshan ■ Vietnam ● Unit Sales Basis (t-CO2 / sales [millions of yen])
+(t-CO2)
+43,247 0.683
+2019
+Waste Volume and Recycling Rate (t) ■ Head office ■ Aomori ■ Foshan ■ Vietnam
+● Industrial Waste Recycling Rate (Japan)
+SOMPO Asset Management
+SOMPO Sustainability Index
+S&P Dow Jones Indices, Japan Exchange Group
+S&P/JPX Carbon Efficient Index
+Ministry of Economy, Trade and Industry
+2020 Certified Health & Productivity Management Outstanding Organizations Recognition
+(Major Corporation Category)
+Ministry of Health, Labour and Welfare
+Kurumin Mark
+Ministry of the Environment and Global Environmental Forum
+Excellence Award (Environmental Reporting Category) from the Environmental Communication Awards
+Nihon Keizai Shimbun
+Nikkei Smart Work Management Survey: 3 Stars
+Nikkei Keizai Shimbun
+Nikkei SDGs Management Survey: 4 stars
+Toyo Keizai
+TOYOKEIZAI CSR Ranking: AAA
+Saitama Prefecture
+Sai-no-Kuni Plant
+Saitama City
+Leading-edge Companies Certification
+The SOMPO Sustainability Index is a index consisting of about 300 stocks with excellent ESG. Tamron has been selected for investment by the fund since 2012.
+An index that focuses on the state of environmental information disclosure and carbon efficiency levels to determine weightings among the companies that make up the index. Tamron is included as one of the companies making up the index.
+The program aims to promote health and productivity management by selecting enterprises engaged in outstanding health and productivity management and introducing them to investors that emphasize improvements to corporate value from a long-term perspective. Tamron was certified as a 2020 Health & Productivity Management Outstanding Organization in the Major Corporation category.
+The Kurumin Mark is a program under the Act on Advancement of Measures to Support Raising Next-Generation Children to certify childcare supporting companies that have passed a review that includes items on the development of an environment conducive to taking childcare leave and support for balancing work with childcare. Tamron has been certified for the Kurumin Mark since 2015.
+The Environmental communication Awards are awarded to excellent environmental reports (CSR reports, etc.). The scheme is designed to encourage companies to engage in initiatives related to environmental management and environmental communication. Tamron won the award for its 2019 CSR Report, marking the fifth time it has received the award.
+The survey examines companies in four areas, namely “human resources,” “innovation,” “market development,” as well as the “management fundamentals” required for the sustainable development of a company. Tamron received a 3-star rating in 2019.
+The SDGs Management Survey assesses companies across four categories, namely SDGs strategy and economic value, social value, environmental value and governance, and examines how this translates into enhanced corporate value through contributions to problem solving and enhanced governance. Tamron received a 4-star rating in 2019.
+The rating scheme evaluates companies on 16 major items across the four areas of human resource utilization, environment, corporate governance and social performance. In 2019 Tamron received a AAA ranking.
+The scheme designates plants exhibiting exceptional technical and environmental achievements as partners in the development of a richer Saitama Prefecture. Tamron has been designated since 2007.
+The scheme to certify companies developing research and development-oriented production exhibiting superior creativity and innovation in Saitama City. Tamron has been certified since 2009.
+Tamron Integrated Report 2020 40
+   45,814 42,432
+2015 2016
+44,114 43,492
+2017 2018
+2,080
+98.6%
+2015
+1,933
+97.6%
+2016
+2,052
+98.2%
+2017
+1,946 1,990 97.4% 97.6%
+2018 2019
+       0.637
+  In 2019, CO2 emissions fell 3.5% compared with 2016 levels on a unit sales basis, and total emissions declined 1% compared with 2018. Tamron has thoroughly implemented energy saving measures and is pursuing the introduction of renewable energy at some sites.
+Percentage of Female Managerial Staff
+In 2019, total waste volume increased 2% compared with 2018, and the industrial waste recycling rate was 97.6% in Japan. Waste plastics were reduced due to improvements in process methods, and 3Rs were promoted through measures including the reuse of recycled materials for components.
+Employment Rate for Disabled Persons
+       2015 2016
+2017 2018 2019
+2015 2016
+2017 2018 2019
+In 2019, we largely met our target figure, with 10.85% of female managerial staff.
+(The percentage among female employees in Japan is 20%)
+We will continue to appropriately evaluate talented employees and appoint them as managerial staff accordingly.
+In 2019, the rate was 2.49%, meeting the target of 2.3%. (The statutory employment rate is 2.2%)
+Tamron will continue to develop a comfortable working environment for a diverse range of people.
+* Japan
+Operating Income per Employee (Million yen) 1.4
+ * In Japan: section manager and higher
+Net Sales per Employee
+(Million yen)
+13.1
+̶
+̶
+   11.3
+2016 2017
+1.1
+0.708
+0.729
+12.9 12.8
+0.704
+  10.53%
+10.66%
+10.18%
+10.85%
+10.04%
+2.42%
+2.15%
+2.56%
+2.49%
+0.9
+2.31%
+         In 2019, this figure rose 3% compared with 2018.
+As a key related market, the digital camera market is experiencing harsh conditions, but we continue to ensure increased sales in the Photographic Products business, and the significant increase in sales from the Commercial / Industrial-Use Optics business also contributed to the rise.
+* Calculated based on the average number of employees at the end of the previous period and end of the period under review.
+In 2019, this figure rose 29% compared with 2018.
+Along with productivity improvements, we are implementing a policy of prioritizing profitability over sales volume.
+* Calculated based on the average number of employees at the end of the previous period and end of the period under review.
+2018 2019
+0.4
+2016
+2017 2018 2019
+   Check the Tamron website for details. https://www.tamron.com/csr/ 39 Tamron Integrated Report 2020
+ 
+ Consolidated Financial Statement Consolidated Balance Sheets
+Assets
+Current assets
+Cash and deposits
+Notes and accounts receivable - trade Inventories
+Other
+Total current assets
+Non-current assets
+Property, plant and equipment Buildings and structures Machinery, equipment and vehicles
+Tools, furniture and fixtures
+Land
+Construction in progress
+Total property, plant and equipment
+Intangible assets
+Investments and other assets
+Investment securities
+Other
+Total investments and other assets
+Total non-current assets
+Total assets
+Liabilities
+Current liabilities
+Accounts payable - trade Short-term loans payable Accrued expenses Income taxes payable Other
+Total current liabilities
+Non-current liabilities
+Long-term loans payable
+Retirement benefit liability
+Other
+Total non-current liabilities
+Total liabilities
+Net assets
+Shareholders’ equity
+Capital stock Capital surplus Retained earnings Treasury shares
+Total shareholders’ equity
+Accumulated other comprehensive income
+Valuation difference on available-for-sale securities Foreign currency translation adjustment
+Other
+Total accumulated other comprehensive income
+Total net assets
+Total liabilities and net assets
+Consolidated Statements of Income
+  Million yen
+  2018 December 31, 2018
+22,438 13,407 10,811
+1,143
+47,801
+5,261 4,434
+1,796
+1,155 625
+13,274
+632
+2,336
+659
+2,995
+16,903
+64,704
+3,782 2,531 3,026
+551 1,661
+11,553
+467
+1,452
+379
+2,299
+13,852
+6,923
+7,432 34,561
+(483)
+48,433
+561 1,924
+(67)
+2,418
+50,852
+64,704
+2018
+From January 1, 2018 to December 31, 2018
+2019 December 31, 2019
+ Net sales 61,815 Cost of sales 39,910
+Gross profit 21,905
+Selling, general and administrative expenses
+Advertising expenses 896 Promotion expenses 721 Provision of allowance for doubtful accounts 4
+Salaries and bonuses 4,251
+Retirement benefit expenses 126
+Share-based compensation expenses 83 Technical research expenses 4,361
+Other 6,036
+Total selling, general and administrative expenses 16,481
+Operating income 5,424
+Non-operating income
+Interest income 79
+Dividend income 66
+Foreign exchange gains 184
+Rent income 12
+Subsidy income 67
+Other 174
+Total non-operating income 584
+Non-operating expenses
+Interest expenses 44
+Foreign exchange losses - Loss on retirement of non-current assets 34
+Loss on abandonment of inventories 20
+Other 31
+Total non-operating expenses 131
+Ordinary income 5,877
+Extraordinary income
+Gain on sales of investment securities 85
+Total extraordinary income 85
+Profit before income taxes 5,963
+Income taxes - current 1,382
+Income taxes - deferred 250
+Total income taxes 1,633
+Profit 4,330
+Profit attributable to owners of parent 4,330
+Consolidated Statements of Comprehensive Income
+         28,384
+    12,907
+    9,388
+    982
+ 51,662
+                                                          4,902
+    4,035
+     2,328
+     1,165
+    1,073
+ 13,505
+ 698
+      2,864
+     566
+ 3,431
+ 17,634
+ 69,297
+                                                          60
+            -
+            12
+                 219
+                 236
+   621
+               44
+            12
+           53
+            15
+           76
+  3,660
+    2,418
+    2,857
+    1,019
+    2,343
+ 12,299
+    201
+       7,403
+                       -
+       -
+   7,403
+   1,815
+           257
+  225
+     1,365
+     868
+ 2,458
+ 14,758
+   2,072
+        5,330
+        5,330
+       Million yen
+  6,923
+    7,432
+    38,336
+    (483)
+ 52,208
+  2019
+From January 1, 2019 to December 31, 2019
+                Profit
+Other comprehensive income
+Valuation difference on available-for-sale securities Deferred gains or losses on hedges
+Foreign currency translation adjustment Remeasurements of defined benefit plans, net of tax
+Total other comprehensive income
+Comprehensive income
+Comprehensive income attributable to
+Comprehensive income attributable to owners of parent
+2018
+From January 1, 2018 to December 31, 2018
+4,330 (285)
+-
+(1,289) (117)
+(1,692)
+2,637
+2,637
+5,330
+                    359
+         (1)
+  920
+    1,399
+    9
+ 2,330
+ 54,539
+ 69,297
+          (525)
+              79
+       (87)
+   5,242
+              5,242
+   41 Tamron Integrated Report 2020
+Tamron Integrated Report 2020 42
+Million yen
+2019
+From January 1, 2019 to December 31, 2019
+ 63,285
+    39,056
+ 24,229
+     764
+    594
+    43
+     4,340
+     147
+     112
+    5,248
+     5,995
+ 17,246
+ 6,982
+      92
+  
+ Consolidated Financial Statement
+Consolidated Statements of Changes in Net Assets
+Consolidated Statements of Cash Flows
+  Million yen
+ 2018
+Balance at beginning of current period
+Changes in items during period Dividends of surplus
+Profit attributable to owners of parent Purchase of treasury shares
+Net changes of items other than shareholders' equity
+Total changes in items during period
+Balance at end of current period
+Balance at beginning of current period Changes in items during period
+Dividends of surplus
+Profit attributable to owners of parent Purchase of treasury shares
+Net changes of items other than shareholders' equity Total changes in items during period
+Balance at end of current period
+2019
+Balance at beginning of current period Changes in items during period
+Dividends of surplus
+Profit attributable to owners of parent
+Purchase of treasury shares
+Net changes of items other than shareholders' equity
+Total changes in items during period Balance at end of current period
+Balance at beginning of current period Changes in items during period
+Dividends of surplus
+Profit attributable to owners of parent
+Purchase of treasury shares
+Net changes of items other than shareholders' equity
+Total changes in items during period Balance at end of current period
+Million yen
+From January 1, 2018 to December 31, 2018
+Shareholders’ equity
+Capital surplus Retained Treasury shares
+7,432 31,527 (53) 45,829
+2018
+From January 1, 2018 to December 31, 2018
+2019
+From January 1, 2019 to December 31, 2019
+        Capital stock
+6,923
+-
+6,923
+earnings
+Total shareholders’ equity
+Cash flows from operating activities
+Profit before income taxes 5,963 Depreciation 3,164 Increase (decrease) in retirement benefit liability 155 Increase (decrease) in provision for share benefits 83 Interest and dividend income (146) Interest expenses 44
+Settlement received -
+Loss (gain) on sales of investment securities (85)
+Loss on retirement of property, plant and equipment 34 Decrease (increase) in notes and accounts receivable - trade (65)
+Decrease (increase) in inventories (697)
+Increase (decrease) in notes and accounts payable - trade 608 Increase (decrease) in accrued expenses (8)
+Other, net (207)
+Subtotal 8,841
+Interest and dividend income received 146
+Interest expenses paid (44)
+Settlement package received -
+Income taxes paid (1,419)
+Net cash provided by (used in) operating activities 7,523
+Cash flows from investing activities
+Proceeds from redemption of securities -
+Purchase of property, plant and equipment (2,154)
+Purchase of intangible assets (125)
+Purchase of investment securities (2)
+Proceeds from sales of investment securities 147
+Payments of loans receivable (2)
+Collection of loans receivable 8
+Other, net (72)
+Net cash provided by (used in) investing activities (2,202)
+Cash flows from financing activities
+Net increase (decrease) in short-term loans payable (16)
+Proceeds from long-term loans payable 400
+Repayments of long-term loans payable (518)
+Purchase of treasury shares (429)
+Cash dividends paid (1,296)
+Other, net (1)
+Net cash provided by (used in) financing activities (1,861)
+Effect of exchange rate change on cash and cash equivalents (452)
+Net increase (decrease) in cash and cash equivalents 3,006
+Cash and cash equivalents at beginning of period 19,431
+Cash and cash equivalents at end of period 22,438
+          7,403
+                                                                  44
+ -
+(1,296) 4,330
+3,034
+(429)
+(429)
+(1,296) 4,330
+(429)
+-
+2,604
+           (47)
+ 7,432 34,561 (483) 48,433
+           -
+            Accumulated other comprehensive income
+53
+              Valuation difference on available-for- sale securities
+846
+(285)
+(285)
+561
+Capital stock
+Foreign currency translation adjustment
+3,214
+(1,289)
+(1,289)
+1,924
+Remeasurements of defined benefit plans
+49
+(117)
+(117)
+(67)
+Million yen
+Total accumulated other comprehensive income
+4,110
+-
+-
+-
+(1,692)
+(1,692)
+2,418
+Total net assets
+49,940
+(1,296)
+4,330
+(429)
+(1,692)
+912
+50,852
+Total shareholders’ equity
+184
+           1,278
+                                                                                        From January 1, 2019 to December 31, 2019
+                  Capital surplus
+Shareholders’ equity Retained
+earnings
+Treasury shares
+        6,923
+ 7,432
+ 34,561
+ (483)
+ 48,433
+          (1,555)
+  (1,555)
+     5,330
+  5,330
+      (0)
+ (0)
+       -
+ -
+  -
+  3,775
+  (0)
+  3,774
+ 6,923
+ 7,432
+ 38,336
+ (483)
+ 52,208
+                                                     Accumulated other comprehensive income
+            Valuation difference on available-for- sale securities
+Deferred gains or losses on hedges
+Foreign currency translation adjustment
+Remeasurements of defined benefit plans
+Total accumulated other comprehensive income
+Total net assets
+                    561
+ -
+ 1,924
+ (67)
+ 2,418
+ 50,852
+            -
+ (1,555)
+      -
+ 5,330
+      -
+ (0)
+   359
+ (1)
+ (525)
+ 79
+ (87)
+ (87)
+ 359
+  (1)
+  (525)
+  79
+  (87)
+  3,686
+ 920
+ (1)
+ 1,399
+ 11
+ 2,330
+ 54,539
+                           43 Tamron Integrated Report 2020
+Tamron Integrated Report 2020 44
+2,666
+    (31)
+    112
+    (153)
+    8
+    (131)
+     642
+ 12,029
+ 152
+     (44)
+     47
+     (1,259)
+ 10,925
+      300
+     (2,580)
+     (222)
+     (317)
+     -
+     (2)
+     2
+     (42)
+ (2,863)
+      (11)
+     -
+     (341)
+     (0)
+     (1,555)
+     (14)
+ (1,923)
+ (193)
+ 5,946
+ 22,438
+ 28,384
+ 
+ Company Profile / Shareholder Information As of December 31, 2019
+Group Network
+Head Office
+Tamron Co., Ltd.
+1385 Hasunuma, Minuma-ku, Saitama-shi, Saitama 337-8556, JAPAN
+Founded / Incorporated
+Founded: November 1, 1950 Incorporated: October27,1952
+Capital
+6,923 million yen
+Employees
+4,609 (consolidated), 1,060 (non-consolidated)
+Breakdown of Employees (consolidated)
+Distribution of Shares by Owner
+To ensure that it can respond flexibly to the needs of customers, Tamron has developed a global structure engaged in everything from R&D to planning, design, manufacturing, sales and customer support.
+Securities Firm 2%
+Other Corporation 12%
+Individuals and Others
+23%
+Status of Major Shareholders
+TAMRON USA
+TAMRON Europe
+TAMRON Russia
+   Financial Institution
+39%
+Foreign Shareholders
+24%
+TAMRON China
+   TAMRON Hongkong
+        TAMRON France
+TAMRON India
+Foshan Plant, China
+Vietnam Plant
+ Name
+Number of Shares (Thousands)
+Percentage of Shares Held
+       Male
+44% 56%
+Male / Female Ratio
+Stock Overview
+Europe America 2% 1%
+Japan 23%
+Asia
+74% Regional Composition
+New Well Co., Ltd.
+Sony Corporation
+Japan Trustee Services Bank, Ltd. (trust account)
+Saitama Resona Bank Limited
+The Master Trust Bank of Japan, Ltd. (trust account)
+Nippon Life Insurance Company
+GOVERNMENT OF NORWAY
+Japan Trustee Services Bank, Ltd. (trust account 9)
+THE BANK OF NEW YORK MELLON 140044
+Japan Trustee Services Bank, Ltd. (trust account 5)
+4,898
+3,129
+1,763
+1,122
+1,002
+580
+551
+468
+371
+325
+18.89
+12.07
+6.80
+4.33
+3.86
+2.23
+2.12
+1.80
+1.43
+1.25
+Hirosaki Plant Namioka Plant
+Osaka Sales Office
+Female
+  ● Head Office
+● R&D Centers
+● Production Sites ● Sales Sites
+2
+4
+9
+Head Office
+                    Number of shares issued:
+Number of shares per unit: 100 shares
+Number of shareholders:
+Stock Exchange
+Main Functions and Characteristics
+25,950,000 shares 4,054 shareholders
+    First section, Tokyo Stock Exchange Securities Code: 7740
+Balance Date
+December 31
+Manager of the Register of Shareholders
+Sumitomo Mitsui Trust Bank, Limited
+2-8-4 Izumi, Suginami-ku, Tokyo, 168-0063, Japan
+Head Office R&D Centers
+Production Sites
+• Optical design, mechanical design, electronics and software design, etc. • Mold manufacturing, plastic injection molding
+• Research and development into the improvement of base technologies
+• Research and development related to product development in new fields
+            • Lens processing, plastic molding, metal processing, assembly, etc.
+• Tamron’s plants in Japan (Aomori Prefecture) function as mother plants providing manufacturing
+      Sales Sites
+technologies to Tamron’s large-scale production sites at the Foshan Plant in China and the Vietnam Plant. • This production structure spread across three sites around the world allows Tamron to handle various
+manufacturing tasks from small lot production to mass production.
+• In addition to seven overseas sales companies, Tamron has developed networks with sales centers and distributors in various regions.
+• We also provide after-sales support through this network.
+ 45 Tamron Integrated Report 2020
+Tamron Integrated Report 2020 46
+
+  Tamron Co., Ltd.
+Corporate Business Planning & Administration Board
+1385 Hasunuma, Minuma-ku, Saitama-city, Saitama 337-8556 Japan Tel. +81-48-684-9114
+Fax. +81-48-683-8282
+E-mail: e-report@tamron.co.jp
+Website: https://www.tamron.com/
+1C
+1C
+オンプロダク
+ Published August 2020
+4C
+ト-スタンドードタイプ
+     英

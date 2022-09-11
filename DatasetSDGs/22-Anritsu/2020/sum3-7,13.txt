@@ -1,0 +1,36 @@
+ESG Highlights
+Tackling Climate Change
+Targeting About 30% Private Generation of Renewable Energy through Anritsu Climate Change Action PGRE 30
+Anritsu Corporation has formulated “Anritsu Climate Change Action PGRE 30 (hereinafter “PGRE 30”*1)” as a new initiative for reducing greenhouse gas emissions. PGRE 30 will directly reduce greenhouse gas emissions through the use of renewable energy. Private generation of renew- able energy ratio accounted for 0.8% of the Anritsu Group’s electricity consumption*2 in FY2018 and we will raise this to about 30% by around 2030.
+In FY2019, due to the addition of 57kW of solar panels in the Atsugi premises in January 2020 the ratio of private power generation reached 0.9%. In September 2020, 1,100 kW of solar panels will be installed in the United States and as a result, in FY2020 the private power genera- tion ratio is expected to be 4.3%.
+PGRE 30 is Anritsu’s ambitious attempt to exceed Ja- pan’s 2030 renewable energy target of 22% to 24% (7% of which is from solar generation).
+Target 7.2 in Goal 7 of the Sustainable Development Goals (SDGs) promotes increasing substantially the share of renewable energy in the global energy mix by 2030. PGRE 30 is Anritsu’s own unique contribution to directly expand- ing the use of renewable energy by introducing the solar
+U.S. We believe this initiative will help to achieve the goals and targets in the SDGs.
+Background to the Approach
+As a countermeasure to the problems of climate change and man-made global warming, the Paris Agreement (COP21) was formulated in 2015 with the goal of reducing greenhouse gas emissions to ensure that the rise in average temperatures does not exceed 2°C compared to pre-indus- trial levels. This approach was set as a key issue within the SDGs adopted by the UN that same year.
+Anritsu submitted its plan to reduce greenhouse gas emissions to the Science-Based Target (SBT) initiative*3 and it was approved in December 2019 as a plan matching pro- posed reduction scenarios based on IPCC*4 climate science.
+The Anritsu Group’s greenhouse gas emission reduction targets that received SBT approval are as follows.
+• Scope 1 & 2: Reduce greenhouse gas emissions by 30%
+compared to FY2015 levels by FY2030
+• Scope 3: Reduce greenhouse gas emissions connected to
+the use of products and services purchased and products sold by 30% compared to FY2018 levels by FY2030
+Although the purchase of renewable energy credits/cer- tificates (RECs) was also considered for implementing this plan, we formulated PGRE 30 with a focus on generating renewable energy in-house as part of our initiatives for realizing the SDGs.
+*1 PGRE 30: “PGRE” refers to Private Generation of Renewable Energy and “30” refers to the target of 30% Private Generation of Renewable Energy by around 2030.
+*2 Electricity consumption of AT Techmac Co., Ltd. is excluded because it is not a whol- ly-owned subsidiary.
+*3 SBT initiative
+A joint initiative encouraging companies to set reduction targets that are in line with scientific knowledge to ensure that the rise in average temperatures does not exceed 2°C, or if possible 1.5°C, compared to pre-industrial levels.
+*4 IPCC
+Abbreviation of Intergovernmental Panel on Climate Change.
+        Solar power generation facility under construction at Morgan Hill
+panel that will be con- sumed by the Anritsu Group’s principal busi- ness sites—Atsugi in Kanagawa, Japan, Koriyama in Fukushima, Japan, and Morgan Hill, California, in the
+Private Generation of Renewable Energy Ratio30.0
+2030 (Target)(%)
+30
+20
+10
+0
+0.8 0.9
+(FY) 2018 2019
+4.3
+2020 (Prospect)  42
+ANRITSU CORPORATION

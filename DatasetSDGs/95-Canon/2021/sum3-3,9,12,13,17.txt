@@ -1,0 +1,33 @@
+Business Strategy
+Medical Group
+We are reinforcing Canon’s medical diagnostic imaging equipment/systems businesses by incorporating IoT, AI and other digital technologies and advances in biotechnology. We are also making comprehensive Group’s resources to enter the field of in vitro diagnostics, including testing equipment such as test reagents.
+ Competitive Advantages of the Medical Group
+• Over a century of knowledge in the medical field and partnerships with healthcare professionals
+• Canon’s diverse range of proprietary imaging and manufacturing technologies
+• Global sales/service network over 150 countries/regions
+ Basic Rationale on Value Creation
+Amid rapid aging of populations globally, rising healthcare costs and the growing threat posed by infections such as COVID-19, the demand for healthcare continues to increase rapidly and there is greater interest in promoting better health and in disease prevention. Canon supplies healthcare professionals with a diverse range of products and services of high utility value across the fields of diagnostic imaging, healthcare IT and in vitro diagnostics. Leveraging the distinguished history and related expertise of Canon Medical Systems, which joined the Canon Group in 2016, this business also draws on various collaborative partnerships with universities and medical institutions across each phase from R&D and manufacturing to sales and customer service. Research collaboration with such as Japan’s National Cancer Center aimed at creating innovative next-generation systems and a joint research program to apply deep learning technology to MRI imaging with Kumamoto University and the University of Bordeaux is ongoing.
+The business activities are rooted in Canon’s corporate philosophy of kyosei and the Canon
+Medical Systems management slogan Made for Life and this creates new value. In addition, we are looking to maximize synergy by creating original high-value-added products based on utilizing Canon’s imaging technology to enhance CT and MRI diagnostic imaging systems.
+Canon’s efforts in this field contribute to the achievement of SDG 3 (Good Health and Well- being), SDG 12 (Responsible Consumption and Production) and SDG 13 (Climate Action), as well as to SDG 9 (Industry, Innovation and Infrastructure) through new advances in medical technology. Canon’s active promotion of joint development and open innovation programs with partners in the public and private sectors – including universities, medical institutions and business partners – also contributes to the achievement of SDG 17 (Partnerships for the Goals).
+Related SDGs
+         19 Canon Sustainability Report 2021
+ Phase V Review
+The most significant development in Phase V was when Canon Medical Systems joined the Canon Group in 2016. This move transformed the Group’s business portfolio by expanding the medical business, which at the time was one of Canon’s leading new businesses. Since the acquisition, a platform for creating synergies has been completed and efforts are focused on expanding the business through the integration of sales networks.
+In 2020, the final year of Phase V, equipment sales and installation activities were restricted by the
+Business Strategy in Phase VI
+Business opportunities
+• Digital transformation as IoT, AI and other technologies applied to healthcare
+• Advances in genetic and other biotech fields and regenerative medicine
+• Development of products and services to help prevent the spread of COVID-19 and other infections
+Over the medium to long term, we expect to grow profits based on the sustained demand for medical equipment and diagnostic imaging support services. Specific initiatives for mainstay products (CT/MRI/
+ultrasound diagnostic equipment) include efforts to lower costs further through production reforms, such as the development of platforms fully utilizing Canon’s superior production technology, greater use of modular components and a shift toward more automation of assembly and in-house manufacturing of components.
+We will focus on applying the performance of Canon products by applying photographic technologies to CT and MRI scanning. With IoT, AI and other aspects of the DX revolution starting to appear on the frontline of healthcare, our aim is to grow sales not only in Japan, but also in Europe, the US and emerging markets by making Canon products more competitive using diagnostic solutions and image analysis application. We are also looking to grow our healthcare IT systems business based on existing products to integrate medical information in ways specific to individual physicians or the diagnostic setting, and a solution to assist in the interpretation of radiographic images to support prompt and appropriate treatment of emergency patients.
+COVID-19 pandemic. In collaboration with Nagasaki University, we developed a commercial rapid genetic testing kit employing the fluorescent LAMP method for use in testing for COVID-19. We also expanded our range of products to prevent the spread of infectious disease with the launch of a qualitative antigen test kit developed jointly with Yokohama City University. Demands for imaging and diagnostic equipment increased despite the interruptions to sales activities and disruption of supply chains, resulting in only a slight decline in sales from 2019 levels.
+Risks
+• Loss of sales opportunities and supply chain disruption caused by the COVID-19 pandemic
+• Preferential policies for locally manufactured products for medical devices
+• Delayed development of global market presence
+In addition, we are focused on biotechnology, which is a field driving medical progress. We are harnessing Group resources to make a full-scale entry into in vitro diagnostics, including peripheral areas such as diagnostic reagents. In regenerative medicine, we are also pursuing a joint research with Kyoto University’s Center for iPS Cell Research and Application, with the aim of developing high-quality iPS cell lines for autograft use by the year 2025.
+Alongside these initiatives, we continue to conduct joint research with leading global universities to help develop Canon’s global presence in the medical field.
+        Canon Sustainability Report 2021 20

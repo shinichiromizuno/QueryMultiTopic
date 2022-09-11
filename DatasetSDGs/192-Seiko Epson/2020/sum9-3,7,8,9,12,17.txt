@@ -1,0 +1,19 @@
+ Microdevices Supporting the Four Areas of Innovation
+Microdevices
+    Vision
+Epson will provide traction for the development of smart communications, power, transportation and manufacturing solutions with advanced Epson quartz timing and sensing solutions and
+low-power semiconductor solutions.
+   Nobuyuki Shimotome
+Executive Officer
+Chief Operating Officer, Microdevices Operations Division
+Value Creation
+Provide traction for smart societies by contributing to 5G networks, self-driving cars, and other next-generation infrastructure with extraordinarily accurate timing devices.
+Use Epson’s low-power and control technologies to provide low-power solutions that reduce finished product power consumption.
+Help to make products smaller by reducing device size.
+ Quartz is an extremely frequency-stable material. Epson exploits this feature to expand a lineup of crystal devices that are used in consumer products such as smartphones, as well as in infrastructure and automotive applications that require exceptional accuracy and reliability. Epson also serves a wide range of industries by providing timing devices, such as crystal units, oscillators, and real-time clock modules, and sensing devices, such as gyro-sensors and inertial measurement units (IMUs).FY2019 Review
+Quartz business: Consumer and industrial crystal device sales were subdued chiefly due to U.S.-China trade friction, yet revenue increased year on year owing to strong mobile, network, and automotive demand.
+Semiconductor business: We enjoyed firm inside, outside, and foundry demand.
+FY2020 Actions
+Analyze and accelerate the execution of strategies and actions based on risks and opportunities during and after the pandemic.
+Quartz business: Expand sales in new growth areas such as IoT, 5G, and ADAS and strengthen cost competitiveness in existing areas.
+Semiconductor business: Strengthen the business by increasing production efficiency and reducing total costs.We also develop and provide low-power LCD controllers, microcontrollers, application-specific integrated circuits (ASICs), LCD drivers, and other differentiated Epson semiconductor products for use in industrial products and automotive equipment. Business and market conditions are challenging right now because of COVID-19, but there are factors that we expect to drive device demand higher, such as higher demand for network equipment as telework becomes standard practice and more active investment as companies seek to increase automation and manufacturing efficiency. We will continue to assess the effects of COVID-19 as we work toward the realization of our vision.

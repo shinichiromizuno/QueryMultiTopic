@@ -1,0 +1,51 @@
+Environmental Strategy
+Related SDGs
+To build a fulfilling society, Tamron formulated Environmental Vision 2050, which outlines the long-term direction of Tamron’s environmental initiatives.
+Climate Change-Related Information Disclosure (Responding to TCFD Recommendations)
+Our Approach to Climate Change
+In response to the TCFD recommendations*, Tamron has conducted an analysis of a scenario with a sustainable global temperature rise of 1.5°C in 2050, and revised the associated risks, opportunities, activities, systems and other aspects. With a renewed recognition that it will be necessary to aim for a global temperature rise of 1.5°C to ensure the sustained growth of Tamron, we have determined that fundamental revisions to our strategies, indicators and targets are needed. This led to the formulation of Environmental Vision 2050. Moving forward, Tamron will tackle measures to compact climate change based on Environmental Vision 2050.
+* TCFD Recommendations: A disclosure framework announced by the Task Force on Climate-related Financial Disclosures for investors to appropriately evaluate organizations’ climate-related risks and opportunities
+Governance
+Tamron recognizes various risks including climate change as important management issues. The CSR Committee, which is chaired by the president, deliberates and makes decisions about Tamron’s basic policy on risk response and other important matters. Systems are in place to report important matters to the Board of Directors to enable suitable supervision. Information decided on by the CSR Committee is also reflected in management plans.
+P13
+Strategy
+When climate change becomes apparent, social issues will develop, and as these progress to economic effects, business risks and opportunities will emerge. Tamron recognizes the risks and opportunities it faces based on the following table. It will also be necessary to contribute to worldwide initiatives as part of the shift to decarbonized society to ensure the sustained corporate activities of Tamron. Given this, in July 2020 Tamron will establish Environmental Vision 2050 and work to help create a sustainable earth by reducing CO2 emissions by 80% by the year 2050.
+Physical Risks
+❶ Impact on production activities from manufacturing to sales due to damage to plants in Japan and overseas
+Transitional Risks
+❶ Damage to corporate value through inability to respond to the shift to a decarbonized society
+❷ Risingburdenofcarbontaxesandrenewable energy purchase costs
+❶ Increaseddemandforteleconferencing cameras as measure to deal with interruptions to public transportation
+1.5°C Target Scenario
+In a world with a 1.5°C global temperature rise, it is expected that (1) renewable energy costs will rise, and (2) carbon taxes will be introduced To achieve the 2050 target, we have set the goal of reducing CO2 emissions by 30% compared to 2015 levels by the year 2030, but to achieve this, the purchasing of renewable energy will be essential. As renewable energy is more expensive than conventional sources of power, it will impart a financial impact. Costs are expected to rise by up to 4.5 yen per kWh from current levels. In addition, to achieve sustained growth in production volume moving forward, Tamron expects its annual power consumption to rise from the current 77 million kWh to 117 million kWh by the year 2030. In this case, our costs would increase by a total of around 160 million yen per year. Furthermore, if a carbon tax was introduced in Japan, China or Vietnam, where we maintain production facilities, we estimate that our taxes would amount to 240 million yen based on the IEA’s SDS 2025 scenario (carbon taxes predicted to be 6,000 yen / t-CO2 in developed nations and 4,000 yen / t-CO2 in developing nations). However, Tamron will try to reduce its carbon tax burden by introducing renewable energies and cutting carbon volume through energy conservation.
+Risk Management
+Tamron views opportunities and risks associated with climate change as one of the important perspectives to be considered when formulating its business strategy. The CSR Committee also revises the analysis and evaluation of opportunities and risks based on the changing external environment.
+Indicators and Targets
+Target CO2 emissions from Tamron’s corporate activities have been defined in Environmental Vision 2050. Each year, we will report on target values and past results as we move towards achieving these goals. Moreover, in addition to direct emissions (Scope 1) and indirect emissions from energy purchases (Scope 2), we are also considering the prospect of calculating and setting reduction targets for indirect emissions (Scope 3). Check the Tamron website for data on CO2 emissions.
+https://www.tamron.com/csr/
+2019 Environmental Targets and Results
+3.8% reduction in CO2 emissions compared with 2016 levels
+3.5% reduction in CO2 emissions compared with 2016 levels
+Reduction activities focused on energy conservation only
+Reducing total energy consumption through energy conservation while shifting to reduction with a focus on the introduction of renewable energies
+Environmental Vision 2050
+In light of trends in climate change due to global warming in recent years, Tamron has formulated Environmental Vision 2050. To build a fulfilling society, we will engage in activities
+to achieve three visions, a decarbonized society, a resource recycling society and a society that exists in harmony with nature.
+ Environmental Vision 2050
+We recognize that global environmental issues affect all of humanity. We will strive to reduce environmental impact, conserve the environment, and contribute to the development of
+a sustainable society that exists in harmony with the environment.Mission Our vision 2050 Target 2030 Target
+Fulfilling society
+Decarbonized society Resource recycling society Society in harmony with nature
+● Policies and measures to achieve a decarbonized society
+・Promote energy savings and reduce CO2 emissions generated by air conditioning equipment
+and the product manufacturing process ・Promote the introduction of renewable energies
+● Policies and measures to achieve a resource recycling society
+・Work to reduce and recycle waste, and contribute to the reduction of ocean plastic pollution
+(business sites: reduce waste plastic, products: use recycled materials for packaging plastics and reduce volume) ・Work to reduce water consumption and recycle water
+● Policies and measures to achieve a society in harmony with the environment ・Strive to preserve biodiversity through coordination and collaboration with local communities ・Endeavor to reduce harmful chemical substances and implement appropriate management   Reduce CO2 emissions by 80% (compared with 2015 levels)
+Reducing waste Reducing ocean plastics pollution Appropriate water management
+Reducing harmful chemical substances Preserving biodiversity Reduce CO2 emissions by 30% (compared with 2015 levels)
+  Activities carried out every fiscal year
+Setting of annual targets and activities according to the key CSR issuesRisksOpportunities Unit sales basis
+TargetResultsCause of the reduction shortfallFuture Measures  Examples to reduce waste plastics to lessen ocean plastic pollution Many of Tamron’s products employ plastic housings to reduce weight. However, finding ways to use the plastic runner materials produced during the molding process has proved challenging. To address this, we now manufacture the rear caps for our digital camera interchangeable lenses from a recycled material that uses 100% runner matters, and have successfully reduced the waste plastics generated at our business sites. From 2010 to 2019, this has saved 171 tons (enough for 7.75 million rear caps) cumulatively.31 Tamron Integrated Report 2020
+Tamron Integrated Report 2020 32

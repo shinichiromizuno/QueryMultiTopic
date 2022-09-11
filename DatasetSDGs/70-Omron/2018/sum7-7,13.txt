@@ -1,0 +1,49 @@
+Environment
+ Introducing OMRON Carbon Zero*1
+We believe that building an environment for a sustainable society is part of improving lives and contributing to a better society, as stated in the OMRON Principles. In support of this ideal, we pursue initiatives under our Green OMRON 2020 environmental vision.
+In July 2018, we set new environmental targets under OMRON Carbon Zero, aligned with the recent Paris Agreement and the SDGs. Our target is to reduce Scope 1 and Scope 2*2 greenhouse gas emissions to zero by fiscal 2050. Our interim goal is to reduce emissions 32 percent (vs. Fiscal 2016) by fiscal 2030. Backcasting from these targets, we have
+set a fiscal 2020 goal to reduce emissions by four percent. We are even starting to consider reducing Scope 3*3 gas emissions in the near future. OMRON has announced that it will set its greenhouse gas emissions reduction target based on scientific grounds for the SBTi*4.
+We has built a global framework to achieve our environmental targets, and we are adopting energy conservation and renewable energy practices across our organization. At the same time, we are moving forward with projects that use the expertise developed in our renewable energy businesses in our own company.
+*1 OMRON Carbon Zero: a term used to gain recognition for OMRON’s efforts for the reduction of greenhouse gas emissions.
+*2 Scope 1 and Scope 2: Direct greenhouse gas emissions from the use of fuels at our company (Scope 1) and indirect greenhouse gas emissions
+resulting from the use of electricity and heat purchased by our company (Scope 2).
+*3 Scope 3: Greenhouse gases emissions from our company’s value chain.
+*4 SBTi: Science Based Targets Initiative. International initiative recommending science-based medium- and long-term targets to reduce greenhouse
+gas emissions.
+Greenhouse Gas Emissions Reduction Targets
+Target
+Greenhouse Gas Emissions Reduction Activities
+ Reduction (%)
+Fiscal 2016 (Reference Year)
+0
+25
+50
+75
+100
+Fiscal 2020
+Fiscal 2030
+32% Reduction
+Fiscal 2050
+100% Reduction
+(CO2/kWh)
+Renewable Energy
+Electricity Usage
+CO2 Reduction
+Energy Conservation
+(kWh)
+Energy Conservation and Renewable Energy Usage
+       Energy Conservation
+Upgrade equipment (high- efficiency equipment)Pursue ongoing energy conservation activities  4% Reduction
+   Renewable EnergyAdopt renewable energy sources (for self-consumption)Procure renewable energy
+Purchase tradable green certificatesCO2 Emissions
+   ProgressToward Environmental Sustainability Goals
+Fiscal 2020 Goals/KPIs
+Fiscal 2017 Performance   Reduce Greenhouse Gas Emissions*5
+Achieve four percent reduction in greenhouse gas emissions
+(vs. fiscal 2016 SBT conformity)*6
+Environmental contribution*7 greater than CO2 emissions at production centers
+*5 New goals incorporating sustainability targets for greenhouse gas emissions from the Green OMRON 2020 environmental vision
+*6 Target added
+*7 Environmental contribution: CO2 emissions reduced through the use of OMRON energy saving, storage, and generation products and services
+Environmental contribution of 659k tons of CO2 saved vs. 204k tons of CO2 emissions from production centers
+61

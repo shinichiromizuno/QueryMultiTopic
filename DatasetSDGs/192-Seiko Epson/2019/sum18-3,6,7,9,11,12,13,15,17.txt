@@ -1,0 +1,183 @@
+Value Creation Infrastructure
+          57
+Epson Group Integrated Report 2019
+Achieve Sustainability in a Circular Economy
+   Motonori
+Okumura
+Managing Executive Officer
+General Administrative Manager, Production Planning Division
+Message from Top Management
+Climate change and global warming are greatly impacting society and are a serious problem for Epson too. To find a solution, Epson is working proactively to improve the environmental performance of our products and lower emissions of greenhouse gases (GHG) in the value chain. This is in keeping with Environmental Vision 2050 (a statement of what we hope to be in 2050) and the Epson 25 Corporate Vision Environmental Statement (a path to the year 2025 as an intermediate step). Epson’s efficient, compact, and precision technologies are the heart of this effort. In September 2018, we established long-term science-based targets for reducing GHG emissions. These targets were reviewed and approved by the Science Based Target initiative (SBTi). The global tide is moving toward decarbonization and a circular economy. Epson is responding by using more renewable energy and creating prod- ucts and services that can contribute to our customers’own efforts. This is how we use constant innovation to fulfill our responsibilities as a manufacturer.
+ Climate-Related Issues: Risks and Opportunities
+The Task Force on Climate-related Financial Disclosures (TCFD) released its final report in June 2017. The TCFD encourages businesses to publicly disclose their medium- to long-term risks and opportunities related to climate change as financial information. Epson takes this as a call to develop resilient management and corporate health, able to adapt to all sorts of transitions in the face of climate change with impacts of a scope and scale we cannot predict.
+The following table outlines Epson’s climate risks and opportunities as based on our understanding of the TCFD’s final report. This outline is the basis for our infor- mation disclosure.
+Climate-Related Risks and Opportunities
+Category Description
+Contribute to the expansion of business opportu- nities and to global sustainability through open innovation.
+Expand sales opportunities by quickly complying Opportunity with product regulatory and eco label require-
+ments with low-carbon products and services.
+Enhance the company’s reputation and secure human resources by ambitiously responding to climate change and through appropriate informa- tion disclosures and communications.
+Loss of sales opportunities due to delays in com- plying with product energy-efficiency regulations and eco label requirements.
+Transition Increased operating costs resulting from penal- risk ties imposed against energy consumption and
+        Physical risk
+greenhouse gas emissions.
+Reputational damage if information disclosures and communications do not satisfy societal expectations.
+Impact on operations due to increasingly severe weather changes caused by climate change (disruption of factory operations or supply chains).
+      How Epson is Working for a Sustainable Society
+Epson was founded in 1942 in a natural setting, in Suwa, Japan.Harmonious co-existence is our cornerstone. Even as we expanded globally, our culture of respect for the environment never wavered. In 1988 Epson became the world’s first enterprise to announce it would eliminate ozone-depleting chlorofluorocarbons (CFCs) from its operations. Past and present, Epson has always set high goals for its environmental initiatives. We revised Environmental Vision 2050 in 2018 in line with our aim of making Epson an indispensable company that is committed to sustainability, as stated in the Management Philosophy.
+We remain engaged with the problems faced by our customers and communities as we work for a sustainable society, starting with meeting the SDGs by 2030. Through our business, we will keep creating uniquely Epson environmental value.
+    Environmental Vision 2050
+Epson's vision is to become an indispensable company that uses its efficient, compact and precision technologies to achieve sustainability in a circular economy.
+Actions
+● Reduce the environmental impacts of our manufacturing processes, products and services.
+● Advance the frontiers of industry and establish recycling systems through open and unique innovation.
+● Contribute to international environmental initiatives.
+    Epson 25 Corporate Vision Environmental Statement
+Contribute to the development of a sustainable society by leveraging efficient, compact and precision technologies to reduce the environmental impact of products and services across their life cycles.
+   Established Environmental Vision 2050
+Second Environmental Benchmark Year Established General Environmental Action Plan
+Environmental Benchmark Year CFC-free Declaration
+Established Group Environmental Policy
+Global Environmental Concern
+Global warming
+Water and soil pollution
+Depletion of resources
+Revised Environmental Vision 2050
+Climate change
+Paris Agreement Renewable energy Decarbonization
+Epson’s SDGs from an environmental perspective
+(as of June 2019)
+Corporate value
+ESG investing Value chain TCFD
+    Resources & waste
+Water resources Circular economy Marine plastics
+   Approach Leading up to 2050
+  To achieve the environmental vision by 2050, we have been setting milestone targets while working to bridge the gap needed to reach them. We seek to leverage our original efficient, compact and precision technologies to reach these milestones and reduce environmental impacts across the value chain, including through our business activities and improved product environmental performance. By offering products and services that enable new business processes, we aim to provide outstanding customer value in both economic and environmental terms.
+Epson Group Integrated Report 2019 58
+Societal demand
+Value Proposition Value Creation Strategy Value Creation Infrastructure Fact Data
+
+          Value Creation Infrastructure
+ Reducing the Environmental Impact of Business Activities
+Material Balance (FY2018)
+Epson consumes resources and, in the process of conducting business activities across the life cycles of its products and services, emits GHGs and other emissions to the air, land, and water. We are working to assess the environmental impacts of our business activities across the value chain in an effort to reduce our impacts. Although our water usage rose slightly over the previous year, we largely met our targets in FY2018. We will continue to provide energy- and resource-efficient products in our quest to achieve our business profit-based scope 3 emissions reduction target, which assumes growth and is linked to Epson 25 management indicators.
+ Epson’s Business Activities
+Targets and Achievements*3
+   Input
+Output
+GHG emissions -15%
+Water usage +0.3%
+Waste emissions -1.4%
+PRTR substance emissions
+-43%
+VOC emissions -8.8%
+Scope 3
+Per unit of business profit*1
++6.5%
+Reduction of scopes 1, 2 Target: -19% by FY2025 compared to BM value (BM: 592 thousand t-CO2e)
+Reduction of usage
+Target: BM value or less
+3 (BM: 8,324 thousand m )
+Reduction of emissions Target: BM value or less (BM: 34.4 thousand t)
+Reduction of emissions Target: BM value or less (BM: 5.7 t)
+Reduction of emissions Target: BM value or less (BM: 184 t)
+Reduction of per unit of business profit
+Target: -44% by FY2025 compared to BM value (BM: 3.4)
+  Products shipped 184,000 t
+    Fuel
+29%
+Ground water
+9%
+Scope 1
+25%
+7,455
+thousand m3
+Waste emissions
+34.0
+thousand t
+  Energy
+1,183,769
+MWh
+GHG emissions
+502,084
+t-CO2e
+Water discharge
+Electric power
+71%
+Municipal water
+91%
+Renewable energy
+137,405
+MWh
+Recycled water
+1,548
+thousand m3
+Scope 2
+75%
+  Water
+8,351
+thousand m3
+Raw materials
+218
+thousand t
+Rivers
+40%
+Waste
+11%
+Sewerage
+60%
+Recycled
+89%
+   Products collected 21,000 t Transportation 6%
+Capital goods 8%
+Activities through value chain
+Other 8% Scope 3
+GHG emissions
+PRTR substance emissions 3.3 t VOC emissions 168 t
+Per unit of business profit*1 3.6
+Environmental contribution*2 8,909 t-CO2e
+3,263
+thousand t-CO2e
+ Procurement of raw materials
+35%
+Use of products
+43%
+  *1 Scope 3 (categories 1 and 11) GHG emissions per unit of business profit (unit: thousand t-CO2e/100 million yen)
+*2 Estimate of GHG emissions avoided by third parties: The emissions avoided by replacing laser printers with Epson inkjet printers are calculated based on electricity
+use (flow base approach). This is different from the actual reduction amount.
+*3 Actual reductions and targets against FY2017 results are used as benchmarks. Figures in parentheses are benchmark values.
+   59
+Epson Group Integrated Report 2019
+Third-Party Verification Report
+We have the Japan Quality Assurance Organization (JQA) conduct a third-party verification of our calculations of GHG emissions to ensure their reliability. Our FY2018 GHG emissions (scopes 1, 2, and 3) and energy use data were verified as having been measured and calculated accurately, and a GHG verification report was obtained. (Scope 3 includes Categories 1 and 11.)
+
+Increasing Use of Renewable Energy
+Epson has an SBTi-approved target of reducing scopes 1 and 2 GHG emissions by 19% by 2025. In FY2018, we achieved a 15% reduction in GHG emissions since the base year FY2017 through site energy-saving initiatives. Some 70% of the reduction, or about 63,000 tons, came from long-term contracts to purchase low-carbon electric- ity, primarily hydroelectric power in Japan. This boosted our percentage of renewable energy to about 12%. Outside Japan, we already use renewable energy for the electricity used in production sites in the United Kingdom and the United States (Portland) and head office buildings of sales companies in Europe (Germany, Italy, Spain, and the Netherlands). Besides those, a new factory in Thai- land features a large array of solar panels and is prepar- ing to start operating them.
+Epson will keep using the best power for each region and taking steps like production innovation to lower GHG emissions.
+Use of Renewable Energy Globally
+Reducing Waste Ink
+Epson Engineering (Shenzhen) Ltd., a printer production site in China, previously treated all waste ink from its printing inspection processes as industrial waste. The amount of waste and the high cost of treating it had become a challenge. The factory undertook to reduce waste ink by implementing a combined waste ink con- centration system and microbial processor, a solution that was already in use in an Indonesian factory. As a result, about half the waste was restored to quality good enough it could be sent to the sewer and the other half could be recycled as concentrated liquid and sludge. That reduced waste ink by 481 tons per year and low- ered yearly processing costs by about ¥30 million.
+In addition, waste ink remaining after printing inspection is collected in a tank and gets a quality check (for foreign matter, viscosity, etc.), sent through filters, and reused.Liquid waste reduction (yearly)Monetary value of benefit (yearly)Ink concentration481 t¥29,990,000Reuse56 t¥17,750,000 ■ Solar power system ■ Use of solar heat China
+■ Solar power system
+■ Use of geothermal & solar heat ■ Low-carbon electricity
+Japan
+  ■ Solar power system
+■ Low-carbon electricity Philippines, Thailand, Singapore
+■ Low-carbon electricity
+U.S.
+   ■ Solar power system
+■ Low-carbon electricity U.K., Germany, Italy, Spain, Netherlands
+ ■ Low-carbon electricity
+Australia
+* Onsite equipment, power purchase agreement, and/or certificate purchasing
+1
+2 3
+Building Biopores
+A hole is dug and a special pipe (10 cm wide, 100 cm long) is inserted. It has many holes on its sides to allow water to pass.
+IEI pours organic waste (such as kitchen waste or fallen leaves) into the pipe.
+IEI checks biopore effectiveness. (soil enrichment, etc.)
+  Preserving Water Resources and Reducing Organic Waste
+Jakarta, the capital of Indonesia, is struggling with land subsidence cause by flooding in the rainy season and groundwater shortages when it is dry. P.T. Indonesia Epson Industry (IEI), a large-scale printer production site, has introduced biopores, holes in the ground where rain can infiltrate. This solution has gained a lot of attention as something even households can do. In FY2018, IEI put biopores in 260 spots on its premises. These allow about 8,400 liters of rain to go into the ground every year. They also help prevent flooding and the pooling of water where mosquitoes breed. Additionally, fallen leaves and other organic waste can go into the biopores, which enabled IEI to reduce waste by 272 kg. The organic matter turns into compost, which enriches the soil.
+IEI plans to continue installing biopores until it has them in 779 spots total, and to extend the initiative outside its premises.
+IEI employee digs hole for a biopore; a biopore in the ground
+      Epson Group Integrated Report 2019 60

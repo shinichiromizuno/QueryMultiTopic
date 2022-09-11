@@ -1,0 +1,3117 @@
+ CORPORATE REPORT 2019
+ Introduction
+Editorial Policy
+Period Covered by the Report:
+Organizations Covered by the Report:
+Reference Guidelines:
+Issuance:
+Next Issuance Scheduled:
+From April 1, 2018, to March 31, 2019 (However, in some cases, activities before and after the coverage period are also included in this report.)
+Companies subject to consolidation of the KYOWA EXEO Group
+(However, in some cases, KYOWA EXEO CORPORATION’s non-consolidated data are used instead of consolidated data.)
+GRI “Sustainability Reporting Standards” ISO26000 “Guidance on social responsibility” July 2019
+July 2020
+KYOWA EXEO CORPORATION has been selected to be part of the MSCI Japan ESG Select Leaders Index and the MSCI Japan Empowering Women Index (WIN), both of which are offered by MSCI Inc.
+*1. MSCI Inc. (“MSCI”) is a provider of an extensive range of financial services, including the calculation of stock indexes and portfolio analysis.
+*2. The selection of KYOWA EXEO CORPORATION to be part of the above-men- tioned MSCI index, as well as the use of the logo, trademark, service mark and index name of MSCI, does not indicate MSCI’s or its affiliates’ support, guarantee and/or promotion of KYOWA EXEO CORPORATION. The MSCI index is an exclusive asset of MSCI. MSCI, the MSCI index name and the MSCI logo are the trademarks or service marks of MSCI or its affiliates.
+1 Corporate Report 2019
+Building a better,
+brighter future together
+Total ICT Solutions: Contributing to the Realization
+of a Brighter Future by Bringing People Together
+and Forming Connections with Society
+*ICT is an acronym for Information and Communications Technology.
+
+ Notice on forward-looking statements:
+Corporate Governance Compliance
+Risk Management
+Involvement in the Environment
+This Corporate Report 2018 contains forward-looking state-
+ments such as the future business performance of KYOWA
+EXEO. As these statements are based on the information
+available at the time of the preparation of this report, the
+actual results might differ materially from the content de-
+scribed or suggested therein due to various factors. As this
+corporate report is not intended for the purpose of solicit- 58 ing investment, all users of this report are advised to
+undertake decisions concerning investment at their own discretion.
+The figures stated in units of ¥100 million and ¥1 million are rounded down.
+KYOWA EXEO CORPORATION
+http://www.exeo.co.jp/overseas/index.html 29-20, Shibuya 3-chome, Shibuya-ku, Tokyo 150-0002, Japan
+CONTENTS
+About KYOWA EXEO
+3
+5 Milestones of the KYOWA EXEO Group
+21
+23 25
+Special Feature 1
+Special Feature 2
+Globally Extending the EXEO Quality
+Opening the Way to the Future by Utilizing Digital Technology
+Consolidated Financial Highlights
+Greetings /
+Message from the President
+7
+13 Business Overview
+Special Features
+KYOWA EXEO Group’s
+Corporate Value Creation Process
+27 KYOWA EXEO Group and SDGs
+29 CSR Concept
+31 Results and Plans of Major CSR Initiatives
+Management Systems
+33 36 37
+39
+43 Financial Section 57 Stock Information
+Board of Directors
+Environmental Management
+Corporate Report 2019 2
+
+      About KYOWA EXEO
+ Corporate Philosophy:
+Cultivating Technological Capabilities, Seeking
+Affluence and Contributing to Society
+The corporate philosophy of the KYOWA EXEO Group, which is the basic guideline for our corporate social responsibility, includes cultivating technological capabilities, seeking affluence and contributing to society. The corporate philosophy clearly answers the question: “Why does the KYOWA EXEO Group exist?” The ut- most ground for existence is the Group’s technological capabilities. Throughout its existence, the Group has aimed to be a corporate group that always anticipates and pursues better technologies at the forefront of leading-edge technologies. The technological capabilities cultivated through these efforts will help create more affluent living environments for people. The Group intends to be a valuable enterprise by contributing to society through activities in the pursuit of state-of-the-art technologies.
+  Corporate Data
+ Company Name Established Paid-in Capital Stock Listing Representatives
+Net Sales
+Number of Employees
+KYOWA EXEO CORPORATION
+May 17, 1954
+¥6,888 million (as of April 1, 2019)
+First Section of the Tokyo Stock Exchange Fuminori Kozono, Cairman
+Tetsuya Funabashi, Vice President Tsutomu Ota, Representative Director
+¥423.7 billion (consolidated)
+¥279.0 billion (non-consolidated) (as of March 31, 2019)
+13,151 (consolidated)
+3,804 (non-consolidated) (as of March 31, 2019)
+Head Office
+West Japan Head Office
+Number of Business Offices
+Major Banks
+Independent Auditor
+29-20, Shibuya 3-chome, Shibuya-ku, Tokyo TEL: +81-3-5778-1111 (switchboard)
+URL: http://www.exeo.co.jp
+2-10, Uchihonmachi 2-chome, Chuo-ku, Osaka TEL: +81-6-6350-4057
+Branch offices: 15 Sales offices: 21
+Mizuho Bank, Ltd., Sumitomo Mitsui Banking Corporation, MUFG Bank, Ltd.
+Seiyo Audit Corporation
+Overseas Bases
+Philippines
+MG EXEO NETWORK, INC.
+Thailand
+EXEO ASIA COMPANY LIMITED
+Singapore
+EXEO GLOBAL Pre. Ltd.
+  Business Bases (As of July 1, 2019) Domestic bases:( Branches/ Offices)
+ Head Office West Japan Head Office
+15 Branches
+21 Sales Offices Shizuoka Office
+Mie Office Gifu Office Wakayama Office Matsuyama Office Kochi Office Yamaguchi Office Shimane Office
+  Hokkaido Branch Tohoku Branch Ibaraki Branch Chiba Branch Minami Kanto Branch Koshin Branch Tokai Branch Kansai Branch
+Kyoto Branch Hyogo Branch Hokuriku Branch Shikoku Branch Chugoku Branch Kyushu Branch Okinawa Branch
+Iwate Office Yamagata Office Fukushima Office Niigata Office Nagano Office Ibaraki Office Chiba Office Saitama Office
+Kumamoto Office Kitakyushu Office Nagasaki Office Oita Office Minami-Kyushu Office
+Bases of Five Major Consoli- dated Subsidiaries
+EXEO TECH CORPORATION Daiwa Densetsu Corporation C-CUBE Corporation
+Seibu Electric Industry Co., Ltd. NIPPON DENTSU CO., LTD.
+  Consolidated Financial and Non-financial Highlights
+ Orders received (¥Billion)
+Net sales (¥Billion)
+Operating income (¥Billion)
+Profit attributable to owners of parent (¥Billion)
+Net Sales by Segment (2018)
+SYSTEM SOLUTIONS ¥73.4 billion
+424.3
+325.0
+2017 2018
+495.0
+2019 (plan)
+423.7
+2018
+495.0
+2019 (plan)
+31.7
+2018
+32.0
+2019 (plan)
+40.2
+       312.6
+2017
+25.6
+2017
+17.9
+2017
+21.8
+17.3%
+Urban infrastructure ¥108.6 billion
+25.6%
+    Telecommunications Infrastructure ¥241.6 billion 57.1%
+    3 Corporate Report 2019
+2018 2019 (plan)
+Note: The figures are rounded to the first decimal place.
+
+         Strength of the KYOWA EXEO Group
+Drawing on the Group’s strengths of “Total Process,” “Total Solution” and “Nationwide Expansion,” we continue to pro- vide high-quality services to meet diversifying customer needs through the concerted Group-wide power.
+ 1
+From Planning to Maintenance
+Total process coverage (end-to-end process management) Planning and development Construction Operations and maintenance
+Optical-fiber networks
+Networks
+Mobile (LTE-Advanced)
+Civil engineering, Reduction of above-street wiring
+NI solutions, SI solutions
+Renewable energy (solar power facilities), Eco business (wood biomass boilers) Electric and air-conditioning facilities for large buildings, data centers, etc. Home ICT, smart house
+One-stop construction services across Japan · Multiple-carrier migration and migration compatibility
+                  2
+Group of Professionals Who Are Acquainted with Every Kind of Technology
+Support Nationwide
+3
+   1 Total Process
+We respond to customers’ needs with one-
+stop services from planning and development to construction, operation and maintenance, which are sustained by high engineering and technological capabilities.
+2 Total Solution
+We meet diversified customers’ needs by fully
+drawing on the latest technologies in a wide variety of fields such as telecommunications, civil engineering, electricity, network integration (NI) and system integration (SI).
+3 Nationwide Expansion
+We are prepared to meet every kind of
+customer need, which can be covered by our operating bases and Group compa- nies located throughout the nation.
+  Business Fields
+Target portfolio
+(FY16–FY20Medium-TermManagementPlan)
+   Number of days of paid leave taken per employee (Note 1)
+13.3 13.3
+Turnover rate for employees with up to three years of service (%) (Note 1)
+Number of female management executives (Note 1)
+Ratio of female management 14 executives
+Number of new graduates employed (Note 1)
+Number of employees with IT-related expert qualifications (Note 1)
+270 280
+Number of serious accidents (Notes 1 and 2)
+CO2 emissions (t-CO2) (Note 1)
+6,536 6,572 6,524
+12.6
+14
+Female 16
+Male 14 15 73 80
+System Solutions Network Integration
+System Integration
+Urban infrastructure
+Telecommunications facilities Electricity supply
+Urban civil engineering Environmental engineering
+Urban 25%
+Telecommunications Infrastructure
+Network engineering Access engineering Mobile engineering
+System Solutions
+Telecommunications Infrastructure
+64%
+54% FY20
+System Solutions
+21%
+Telecommunications Infrastructure
+  13%
+Urban infra- structure
+23%
+FY15
+¥287.4 bn
+¥500.0bn infrastructure
+Expansionofsalesandbusiness domains by development into new domains
+          10
+8 7 1.5%69
+215
+     111
+2016 2017 2018 2016 2017 2018 2016 2017 2018 2016 2017 2018 2016 2017 2018 2016 2017 2018 2016 2017 2018
+6 0.8% 1.1%
+       Notes: 1. On a non-consolidated basis.
+2. This pertains to the number of serious accidents as defined by the Company.
+Corporate Report 2019 4
+ About KYOWA EXEO
+Total solutions
+
+       Milestones of the KYOWA EXEO Group
+ Since its foundation in May 1954 as Kyowa Densetsu Kaisha, Ltd., KYOWA EXEO has continued to create “Linkages” in society.
+ May 1954 Jul. 1954
+Feb. 1963 Sep. 1963
+Feb. 1972 May 1991 Mar. 1999
+1954~
+Corporate History
+Company established as Kyowa Densetsu Aug. 2011 Kaisha, Ltd.
+Qualified to participate in telecommunica-
+tions facility tenders for Nippon Telegraph
+and Telephone (now NTT) Nov. 2011
+WAKO ENGINEERING CORP., Daiwa Densetsu Corporation and Ikeno Tsuken Co., Ltd., were converted into wholly owned subsidiaries
+ICOMSYSTECH Co., Ltd., was converted into a wholly owned subsidiary
+WHERE Inc. was converted into a wholly owned subsidiary
+C-CUBE Corporation, Seibu Electric Industry Co., Ltd. and NIPPON DENTSU CO., LTD. was converted into a wholly owned subsidiary
+DeClout in Singapore was converted into a wholly owned subsidiary
+1990~
+1991 Changed company name to KYOWA EXEO CORPORATION
+1998 Entered into the NI business.
+1999 Completed construction of the new company building in Shibuya (head office)
+    1954 Company established as Kyowa Densetsu
+Kaisha, Ltd.
+Dec. 2015 Oct. 2018
+May. 2019
+1980~
+1982 Entered the SI business 1986 Entered the environ-
+ment business (Water treatment)
+Listed on the Second Section of the Tokyo Stock Exchange
+Began engaging in telecommunications and electric power construction outside that for NTT
+Listed on the First Section of the Tokyo Stock Exchange
+Changed company name to KYOWA EXEO CORPORATION
+Relocated head office to current address in Shibuya-ku, Tokyo
+ Publicized the change of the company name
+                  Head Office of the Company then located in Minato-ku, Tokyo
+       1963 Listed on the Second Section of the Tokyo
+Stock Exchange
+1963 Started overseas operations
+(Honduras)
+1972 Listed on the First Section of the Tokyo
+Stock Exchange
+Telecommunications line works
+Engineering works adopting shield method
+Sewage treatment facilities using a bio-module system
+1974 Net Sales: ¥50.0 Billion
+1988 Net Sales: ¥100.0 Billion
+   Leap Period
+                                                    Reform Period
+Entered other businesses in the pursuit of business expansion.
+                                       Foundation Period
+Under the trade name of Kyowa Densetsu Kaisha, Ltd.,
+contributed to the development of telecommunication facilities in line with Cooperation and Harmonization.
+                           5 Corporate Report 2019
+             
+      2018 Net Sales: ¥423.7 Billion
+New Foundation Period
+Fiscal 2020 Targets
+   2006 Net Sales: ¥300.0 Billion
+Net Sales ¥500 Billion
+Operating income ¥33 Billion
+Focusing Group strengths to take total solutions to
+a new growth stage.
+    1997 Net Sales: ¥200.0 Billion
+ Growth Period
+Under the name of
+KYOWA EXEO CORPORATION,
+broke the mold and continually ventured out to address
+new challenges
+2017~
+Enhanced Collaboration in the ICT Solutions Field.
+2017 Entered capital and business alliance with Nextgen, Inc.
+2017 Started strategic collaboration with CA Technologies.
+2017 The Company’s total services to support customers’ installation of the “Skype for Business” communication platform were certified as Skype Operations Framework (SOF)–compliant.
+2017 Started strategic collaboration with SecondXight, Inc. 2017 Entered capital and business alliance with Phone Appli Inc.
+2018 Awarded the FY 2017 Grand Prize for Excellence in Energy Efficiency and Conservation
+(Chairman Prize for ECCJ in the Product Category & Business Model Category).
+2018 Acquired C-CUBE Corporation, Seibu Electric Industry Co., Ltd. and NIPPON DENTSU CO., LTD.
+Moved toward further growth in the 21st century.
+2000~
+                           2009 KANAC Corp. was converted into a wholly owned subsidiary
+2011 WAKO ENGINEERING CORP., Daiwa Densetsu Corpo- ration and Ikeno Tsuken Co., Ltd., were converted into wholly owned subsidiaries
+2014 AID Holdings Inc. (the holding company of ADVANCED INFORMATION DESIGN Co., Ltd.) was converted into a wholly owned subsidiary
+                                                           2018 Acquired Kohken Co., LTD., which engages in anticorrosion paint operations.
+2018 Acquired Leng Aik Engineering Pte. Ltd., an electrical engineering and general facility construction company in Singapore, and its group companies.
+From left, Ms. Tee Lea Cheng and Mr. Tan Seow Leng of LAE;
+Mr. Fuminori Kozono (Chairman of KYOWA EXEO CORPORATION); and Mr. Tan Cheok Perg and Mr. Tay Kuan Hwee of LAE.
+2019 Established EXEO GLOBAL Pte. Ltd.
+in Singapore to enhance global business
+development.
+—DeClout Limited of Singapore joined the KYOWA EXEO Group.
+Entrance of DeClout
+                                                  2019 Established the Digital Transformation Strategic Division to promote digital transformation.
+                     Corporate Report 2019 6
+       Milestones of the KYOWA EXEO Group
+
+  TOP MESSAGE
+  Thank you for your understanding and continuing support for the overall business operations of the KYOWA EXEO Group.
+I assumed the post of President of KYOWA EXEO CORPORATION as of June 21, 2019. Following the management integration with three other companies in western Japan, which was completed on October 1, 2018, the Group further solidified its strengths—“Total Process,”
+“Total Solution” and “Nationwide Construction Services”—based on its long-accumulated technological capabilities. I intend to strive for Group-wide business development by leveraging my experience in the information communications business to achieve innovation-conscious operational reforms in response to the problems of our customers and society and to pursue design thinking through enhanced cooperation among different departments while adhering to the sound traditions of the Group.
+The EXEO of the KYOWA EXEO Group is the Latin “exeo,” which refers to breaking the mold and continually venturing out to address new challenges. Reaffirming the meaning of the company name, we will continue to make flexible responses to a changing business environment and provide total solutions in a wide range of business fields by gathering the strength of the entire Group, thereby contributing to society as a corporation creating an affluent living environment. With such an attitude as a pillar of our CSR management, we will aim to achieve the sustainable growth of the Group.
+7 Corporate Report 2019
+
+                                          みんなを「つなぐ」と未来はもっと明るく楽しい
+KYOWA EXEO aims to be a true “ICT Innovation & Engineering Company.”
+President & CEO
+KYOWA EXEO CORPORATION
+  Contributing to the Sustainable Growth of Society
+In recent years, the roles to be undertaken by compa- nies for international issues such as the preservation of the global environment and respect for human rights have become increasingly important.
+Taking such social trends into consideration, we aim to create value jointly with society and achieve sustain- able growth by identifying and accommodating impor- tant issues for our stakeholders and the KYOWA EXEO Group in terms of the environment, society and gover- nance (ESG).
+Moreover, bearing in mind the Sustainable Develop- ment Goals (SDGs), which were adopted by the United Nations in 2015, we will comply with the Charter of Corpo- rate Behavior put forward by the Keidanren (Japan Busi- ness Federation) and perform corporate social responsibility (CSR) through our primary businesses.
+Business Results, Initiatives and Achievements of Fiscal 2018
+Our business environment in fiscal 2018 remained successful as in the previous fiscal year. Market compe- tition regarding new services started in the
+telecommunications sector, as represented by the entry of a telecom carrier into the financial business sector. Moreover, the reinforcement and improvement of infor- mation communications networks and the user environ- ment were promoted in line with the increased data traffic due to the expanded use of smartphones and various smart devices. In the system solutions sector, artificial intelligence (AI) and cloud technologies started spreading in society in various business settings, thereby drastically expanding the markets leveraging big data. In the construction sector, ahead of the forthcoming Tokyo Olympic and Paralympic Games 2020, the redevelop- ment business prospered in the Tokyo metropolitan area and construction investment by municipalities throughout the country continued at high levels associated with diverse initiatives for regional revitalization, disaster pre- vention and mitigation projects.
+Under such circumstances, the KYOWA EXEO Group conducted management integration on October 1, 2018, with three other companies in western Japan, that is, C-CUBE Corporation, Seibu Electric Industry Co., Ltd. and NIPPON DENTSU CO., LTD. Furthermore, in the Global sector, all group companies of Leng Aik Engineer- ing Pte. Ltd., which engages in electrical engineering and general facility construction in Singapore, were converted into subsidiaries in November 2018, and EXEO GLOBAL
+   Corporate Report 2019
+8
+    TOP MESSAGE
+
+  TOP MESSAGE
+ Pte. Ltd. was established in Singapore as a regional headquarters in Asia.
+The Group achieved record-high profits thanks to the management integration with three companies in west- ern Japan and overseas business development in the Global sector in addition to the business expansion due to the aforementioned activities.
+In the telecommunications infrastructure business, we mainly strove to increase the construction efficiency mainly of fixed telecommunications-related optical line connection works, and focused on swiftly completing works to cope with the openings of wireless phone base stations by major customers. We also addressed aged facility restoration works and works to help facili- ties recover from typhoon disasters. Moreover, in mo- bile telecommunications-related works, we promoted works relating to the reinforcement and improvement of wireless phone base stations for the 4G frequency band countrywide.
+In the urban infrastructure business, we received orders for several large-scale work projects such as countermeasures for 700-MHz reception difficulty in digital terrestrial televisions, electrical equipment instal- lation for large buildings and the construction of waste treatment facilities. Meanwhile, the three acquired companies in western Japan addressed large-scale
+orders for large public works; disaster prevention infra- structure works for municipalities and government agencies; telecommunications facilities works for railway companies; installation works for hydrogen supply stations utilizing solar power generation; and electrical equipment installation works in Okinawa.
+In the system solutions business, apart from various system development projects that comprise the base of the business, we worked to extend new solution fields, including enterprise application integration (EAI) solu- tions. In addition, we received orders for various solu- tions targeting municipalities and educational institutions, as well as for such works as education- related and IP private branch exchange (PBX) renewal works. The NIPPON DENTSU group made group-wide efforts in order-receiving activities such as the develop- ment of mission-critical and information systems, the provision of security network-related implementation services and the building of IT infrastructure systems. Consequently, the group received orders for projects such as large-scale SI projects, office computer re- placement projects, works for high-speed broadband services.
+Furthermore, in the agri-business field, which the Group entered as a new pillar of profits, the C-CUBE group started sales of SWEET CUBE tomatoes with
+ 9 Corporate Report 2019
+
+   Operation highlight
+ Orders received (¥billion)
+495.0
+Net sales (¥billion)
+312.6
+2017
+495.0
+Operating income (¥billion) 31.7
+32.0
+         325.0
+2017
+424.3
+2018 2019 (plan)
+423.7
+2018
+2019 (plan)
+25.6
+2017
+2018 2019 (plan)
+   high sugar content, which were produced by next- generation farms that leverage the latest ICT.
+As a result, for fiscal 2018, the KYOWA EXEO Group recorded orders received amounting to ¥424.3 billion (up 31% year over year) and achieved consoli- dated net sales of ¥423.7 billion (up 36% year over year) and operating income of ¥31.7 billion (up 24% year over year).
+Following the management integration, the three ac- quired companies in western Japan promoted the reform of their business structure, work style reforms and the enhancement of their earning power.
+In the system solutions business, the C-CUBE group moved ahead with structural reform initiatives that focused on the provision of various solutions for municipalities and educational institutions, thereby enabling a base for sus- tainable growth by attaining record-high segment profit in the second half of fiscal 2018.
+Furthermore, as part of the work style reforms aimed at promoting more flexible ways of working, the Seibu Electric Industry group engaged in trials toward the implementation of a telework scheme mainly for those employees who assume the task of raising children and taking care of the elderly while working.
+The NIPPON DENTSU group continued to address its four priority measures: Expansion of Orders Re- ceived, Promotion of Group-wide Collaboration, Human Resource Development and Enhanced Utilization of IT. The group thus made efforts to reinforce its business base and profit-earning capability through its commit- ment to these policies.
+Outlook for Fiscal 2019
+Following the management integration with three companies in western Japan, the KYOWA EXEO Group reviewed the numerical targets in the current Medium-Term Management Plan for the remaining two years through fiscal 2020 and changed fiscal 2020 targets as follows: net sales of ¥500.0 billion, operat- ing income of ¥33.0 billion, return on equity (ROE) of 8.5% and earnings per share (EPS) of ¥210. In the future, we will endeavor to flexibly respond to changes in the business environment and establish a solid man- agement foundation by generating group synergies in cooperation with the respective companies in western Japan.
+In the information communications sector, expansion is expected in the development of information communica- tions networks such as the works for fixed- and mobile- composite 5G-compliant communications, which are requested by customers, and the reinforcement of wire- less phone base stations as a countermeasure against a surge in data traffic, although telecom carriers will continue to curtail their capital investments over the medium to long term. In addition, our new one-stop coverage system nationwide will enable us to establish an efficient construc- tion system by reviewing the Group formation so that management resources can be consolidated into areas where disaster recovery and related works for Expo 2025 Osaka, Kansai, Japan are anticipated. Furthermore, we expect ICT-related investments to continue rising in line with the expansion of new IoT services that utilize AI, the cloud and big data.
+  Corporate Report 2019 10
+  TOP MESSAGE
+
+  TOP MESSAGE
+ In spite of concerns over labor shortage in the con- struction sector, in view of the forthcoming Tokyo Olym- pic and Paralympic Games 2020, various related works for athletic arenas and in surrounding areas are reach- ing a peak in the Tokyo metropolitan area, and invest- ments by municipalities throughout the country is expected to continue steadily in line with various initia- tives for regional revitalization, disaster prevention and mitigation projects.
+In addition, we will strive for further business expan- sion by focusing on the establishment of the global business and new key businesses.
+In fiscal 2019, we will strive to generate group syner- gies in cooperation with the three companies in western Japan and other subsidiaries in the telecommunications carriers business. Moreover, we intend to strengthen marketing activities in the urban infrastructure and system solutions businesses, both of which are posi- tioned as growth businesses, to expand our business and establish a solid management base.
+On April 1, 2019, the Company established the Digital Transformation Strategic Division, a new organi- zation aimed at promoting digital transformation (herein- after, “DX”). DX refers to the pursuit of optimal solutions in terms of products and services, as well as of the relevant business models and IT technology that sup- ports such models, through operational reforms that
+leverage data and digital technology. The trend toward DX has been expanding rapidly in almost all industries, and DX has therefore attracted attention as a new growth domain in the system solutions sector.
+The Digital Transformation Strategic Division will pursue ideal business operations within the KYOWA EXEO Group in cooperation with the respective depart- ments/sections. The Division will also drive work style reforms aimed at improving productivity by thoroughly reviewing business processes and promoting digitaliza- tion. Subsequently, the Division will feed back the knowledge and know-how obtained during DX-related activities to the respective departments in the form of case studies and best practices as reference for when customers implement DX. The Division thus assumes the central position in expanding the new DX-based solution business.
+We have already launched several operational re- forms on previously noted issues, including slip pro- cessing work to settle expenses; reporting from construction worksites to KYOWA EXEO’s Head Office; and the implementation of video communication tools. We will continue to promote these work style reforms and focus on converting knowledge obtained therefrom into value that can be provided to customers.
+  SDGs initiatives through business activities (KYOWA EXEO Group)
+To page 27
+  1 Achievement of a safe and secure society through the infrastructure business
+Achieve urban develop- ment that is safe and secure for everybody, as well as contributing to building infrastructure that is resilient to natural disas- ters
+Promotion of recycling and effective utilization of resources; achievement of a society for the prevention of global warming
+Resolution of social issues and achievement of an affluent society through IoT technology
+2 Achievement of an affluent society through the solution business
+     3 Global environment conservation and achievement of a recycling-oriented society
+4 Achievementoffavorablecommunicationwith stakeholders
+To meet the expectations of stakeholders, favorable communication will be strengthened to resolve issues
+   11 Corporate Report 2019
+
+     ESG and SDGs Initiatives
+The KYOWA EXEO Group’s corporate philosophy includes cultivating technological capabilities, seeking affluence and contributing to society. Under this phi- losophy and with its technological capabilities as a driver of growth, the Group has grown to be the way it is now, while reflecting the needs of the times. The Group’s technological capabilities now contribute significantly to the resolution of social issues at home and abroad. The KYOWA EXEO Group will continue to address social issues and help solve them through its businesses, thereby achieving sustainable growth with society. While we will continue to address the CSR and ESG activities that we have been tackling, by categorizing these activities in each item under the SDGs, we came to realize the diversity of value that the KYOWA EXEO Group can provide to customers and society.
+You will understand that the CSR and ESG activities in which the Group has engaged have solved many social issues. I personally have recognized anew that our embodiment of the Group’s corporate philosophy in everyday business has helped to solve a variety of social issues.
+Consequently, we have decided to disclose the “EXEO Group and SDGs” newsletter to students wanting to join the Company, customers and our in-house departments and periodically add news sources and content. I am confident that we can earn new orders if employees at the respective depart- ments learn about the attractive, diversified business activities within the Group and take up such topics when visiting customers.
+Distributing Returns to Shareholders
+The KYOWA EXEO Group regards profit distribution to shareholders as an important managerial issue and has a basic policy of ensuring stable dividends, while con- sidering business results, the future business environ- ment and investments for ensuring financial strength and business expansion.
+Regarding dividends, we employ a dividend on equity (DOE) of 3.5% as the benchmark percentage. Accord- ingly, the annual dividend per share for fiscal 2018 was ¥70.
+For fiscal 2019, also applying a DOE of 3.5% as the benchmark percentage, we plan to set the annual dividend per share at ¥80 (an interim dividend per share of ¥40 and a year-end dividend per share of ¥40).
+Regarding the purchase of treasury shares, we make it a policy to flexibly conduct purchases in view of cash flows and market conditions and plan to purchase ¥5.0 billion during the first half of fiscal 2019.
+In addition, we will maintain a stable high level of ROE by promoting the growth of income and enhancing capital efficiency and continue to seek greater EPS.
+Establishing a continuous cycle that starts with rais- ing the awareness of employees, which activates the organization and leads to offering services appreciated by customers and better business performance, will result in the distribution of higher profits to sharehold- ers. We will strive to enhance corporate value through raising business performance and aggressively distrib- uting profits to shareholders.
+  Corporate Report 2019 12
+  TOP MESSAGE
+
+ Business Overview
+  Linking all Communications. We Contribute to Creating an Affluent Society
+with Two Types of Solutions.
+The KYOWA EXEO Group works to contribute to the realization of an affluent society and perform its corporate social responsibility through its business activities by providing high value-added ENGINEERING SOLUTIONS and
+SYSTEM SOLUTIONS.
+Telecommunications Infrastructure
+As broadband services are expanding toward the build- ing of a safe and secure ICT society, the diversification and sophistication of various technologies are under way. We provide consistent quality services from plan- ning and design to construction, operation and mainte- nance for all types of communications equipment and facilities throughout the country based on performance over the years and excellent technologies.
+To page 15
+  13 Corporate Report 2019
+ ENGINEERING SOLUTIONS
+ 
+   SYSTEM SOLUTIONS
+     Building a better, brighter future together
+  Urban infrastructure
+We are engaged in works related to redevelopment projects toward 2020 in the Tokyo metropolitan area and public works in line with the government’s initia- tives for building national resilience, including the installation of telecommunications (except for tele- communications carrier-related), electrical and air- conditioning facilities and urban civil engineering works. We are also working to establish social infra- structure toward the realization of a recycling-oriented society by engaging in renewable energy (e.g., bio- mass) and other environment-related works and the construction of environmental plants.
+To page 17
+Drawing on our ICT technologies, we are offering total solutions in both the network integration (NI) field, which provides the establishment, operation and main- tenance of telecommunication network systems for corporations from establishing LAN/WANs to cloud services, and the system integration (SI) field, which is establishing systems for corporations such as tele- communications carriers, financial institutions and manufacturers.
+To page 18
+  Corporate Report 2019 14
+Business Overview
+
+  Business Overview
+  NTT Group
+We are working to establish various telecommunications facilities for the NTT Group companies.
+ Access engineering:
+We lay optical fiber cable net- works, which are indispensable for high-speed communications networking, and install the Fiber To The Home (FTTH) system to provide broadband services such as the Internet to corporations and households. EXEO’s world-leading, high-quality construction technolo- gies, which have won five gold medals at the World Skills Compe- tition, are
+supporting
+the ever-
+evolving
+information
+communica-
+tions age.
+Network engineering:
+We inspect, design, build, monitor and operate networks using leading-edge routers and servers. We also design, construct and maintain switchers, transmission equipment and power equipment at nationwide legacy facilities, all of which support today’s commu- nications networks.
+Mobile engineering:
+We provide total services to achieve comfortable mobile communications environments not only inside build- ings where people gather but also inside station premises and tunnels. Our services include negotiations for installation, prior investigations and design of wireless phone base stations, and we establish mobile communications facilities in general, conduct
+quality surveys and provide various types of mainte- nance.
+      15 Corporate Report 2019
+ENGINEERING SOLUTION
+Telecommunications Infrastructure
+  
+and contributing to society
+Supporting the core business for KYOWA EXEO
+Michio Sagawa, an employee of the Company, was recognized in 2015 by the Ministry of Health, Labor and Welfare as an outstanding skilled worker (master craftsman), in appreciation of his years of involvement in the wiring and installation works for information and communications facilities, which contributed to raising the quality of telecommunications works, as well as in the training of the Company’s employees and instruc- tors, which produced many medalists at the National Skills Competition.
+Contributing to the development of the information and communications industries overseas
+Since 1998, the Company has been providing foreign engineers with lectures and facility tours for fostering optical access installation engineers as part of the “BHN Human Resources Development Program” hosted by the BHN Association, a nonprofit organiza- tion. We will continue to be actively engaged in contributing to the strengthening and enhancement of technical capabilities and the development of human resources to promote the growth of information and communications industries at home and abroad.
+               NCC
+We are also working to establish various telecommunications facilities for new common carriers (NCCs), or telecommunications carriers other than the NTT group.
+Telecommunications facilities
+We construct telecommunications facilities for new common carriers (NCCs) such as the KDDI Group, the Softbank Group and the Rakuten Group.
+Handing down the technology
+    Corporate Report 2019 16
+Business Overview
+
+  Business Overview
+   ENGINEERING SOLUTIONS
+Urban infrastructure
+ Telecommunications facilities
+We construct telecommunications facilities for munici- palities and government agencies, cable television com- panies, railway companies and other
+customers based on performance
+over the years and excellent technol- ogies.
+Electricity supply
+We are providing a broad range of consistent services from design and construction to maintenance for office buildings and commercial buildings, as well as telecommunications, power generation, air-conditioning and hygiene facilities nationwide. We can handle various projects from
+general electrical work to intricate electric
+power construction that requires highly
+advanced technologies.
+We are also contributing to society in ener-
+gy-saving fields such as mega solar power
+generation and LED lighting projects.
+Urban civil engineering
+We establish telecommunications facilities such as manholes and underground conduits, rehabilitate building structures and install
+electricity cables underground.
+We are establishing a social infra- structure with a consistent opera- tional structure from design and construction to maintenance.
+Environmental engineering
+We utilize our waste treatment technologies for incinera- tion and recycling facilities and our wood biomass boilers and other such renewable energy technologies and water treatment technologies for
+industrial wastewater treatment facili- ties and sewage treatment facilities. We offer such comprehensive ecotechnologies with low environ- mental burden from planning, pro- posal and construction to operation.
+        17 Corporate Report 2019
+
+    SYSTEM SOLUTIONS
+ Network Integration (NI)
+The Group offers various types of solutions drawing on ICT technolo- gies, including network system engineering collaborated with cloud technology and services, as well as wireless LAN solutions, video solutions and IoT solutions utilizing mesh network beacons.
+System Integration (SI)
+To help customers solve their management issues, we provide system solution services tailored to a variety of customer needs, which encompass everything from con- sulting to development, construc- tion, maintenance and operation, through the combination of optimal solutions.
+Integrated cloud engineering
+Security solutions Wireless LAN solutions Monitoring camera and video solutions EXBeacon solutions
+IoT and sensing solutions Energy conservation and smart energy solutions Disaster prevention/mitigation and disaster response solutions Home network solutions Operation, monitoring and maintenance services Business improvement solutions process analysis, BPM and RPM System Of Engagement (SoE) solutions ESB, ETL and API Development and operation efficiency improvement solutions DevOps Monitoring solutions NW, servers and applications Business support solutions MS-D365, MS-O365, AI Cloud PBX solutions
+Global
+We are conducting business mainly in Southeast Asia, including works for communications facilities in the Philippines led by MG EXEO Network Inc., a Philippines-based consolidated subsidiary of the Com- pany established in 1991. In addi- tion, EXEO ASIA COMPANY LIMITED, a Thai-based consolidated subsidiary of the Company, was established in
+January 2018 to provide local Japanese- affiliated corporations with ICT solutions.
+      Major solutions
+Unified telephone communication systems
+Network and server solutions
+Corporate Report 2019 18
+ Business Overview
+
+  事業概要
+ KYOWA EXEO Group Structure
+KYOWA EXEO CORPORATION
+ (As of July 1, 2019)
+ Five Major Consolidated Subsidiaries
+  C-CUBE Corporation
+ Insightful company that employs the best people to deliver advanced technology and exciting communications offerings
+Since its foundation, C-CUBE Corporation has taken advantage of the latest technology to engage in a broad range of businesses including telecommunications facilities works, general equipment works and information services.
+Given the current transformation among industries toward collaboration between various fields utilizing ICT infrastructure, the entire C-CUBE group will continue to take on challenges across the board to be an insightful company that can employ the best people to deliver advanced technology and exciting communications offerings by addressing business structure reforms.
+Seibu Electric Industry Co., Ltd.
+Aiming to further develop business via the dreams, wishes and pride of our employees
+With the Kyushu region as its home turf, Seibu Electric Industry Co., Ltd., engages in various businesses such as the mainstay information and communications, ICT solution and social infrastructure businesses.
+Seibu Electric Industry affiliated with the KYOWA EXEO Group in October 2018. We will endeavor to establish a construction system adaptable to diversified customer needs with enhanced productivity. We will also take on the challenge of business growth and development and proactively maximize synergies from the business integration.
+With the beginning of a new era, Reiwa, as a turning point, we will strive to contribute to society by better leveraging our strengths. Moreover, we will aspire for further growth and development of our business while building on the dreams, wishes and pride of every employee.
+NIPPON DENTSU CO., LTD.
+Becoming a company that contributes to a society where people can live safely
+Since its foundation, NIPPON DENTSU CO., LTD., has contributed to creating a society where people can live safely through the construction of a telecommunications infrastructure and the development of its peripheral equipment. NIPPON DENTSU put its management resources into product development at an early stage. Representative products that have enjoyed popularity include the inspection system for a leading manufacturer, the PIANO PHONE; vibration analysis systems; fee management systems; and the Oresse reception system. Moreover, in our history of growth, we have always emphasized customer satisfaction, as represented by the provision of information system maintenance and operational services nationwide.
+In recent years, as part of our CSR efforts, we created an endowment system to support creative activities from the Kansai area in the media art domain (artistic expression using digital technology) to support the fusion of art and ICT. In addition, we have started the AI solution service business to provide diverse services related to AI, IoT and the cloud. Our challenging inaugural spirit has led to business process reforms of customers by putting to use our own experience of installing Robotic Process Automation (RPA) tools, the CB Series and the BPA Series. In the future, we intend to extend business with the concerted efforts of the NDK Group and continuously pursue sustainable growth as a company trusted by customers.
+EXEO TECH CORPORATION
+Addressing challenges for new growth as a newly established company
+As a major subsidiary dedicated to private-sector demand, EXEO TECH CORPORATION renewed its corporate structure through management integration with Exeo Network Corporation and FUJI DENSETSU CO., LTD. as of July 1, 2019.
+Under its management philosophy of “While making swift responses to environmental changes based on the spirit of customer first, we provide support for information and communications services through our advanced technical abilities and quality and optimal services, thereby contributing to the realization of an affluent society,” we will continue to take on the challenges for new growth as a member of the KYOWA EXEO Group with efforts to diversify business fields and expand business operations by fully optimizing the engineers and various product offerings of the three companies.
+Daiwa Densetsu Corporation
+Aiming for a future full of dreams as a company that develops with local communities
+Daiwa Densetsu Corporation intends to address business improvement through its desire to change itself, courage and determination by anticipating changes in the operating environment.
+Daiwa Densetsu has constructed and maintained communications infrastructure facilities for 70 years as a Tohoku-based company. The market share of the NUTRIMATE food service management system for university hospitals nationwide is approaching 50%. We will further enhance Daiwa’s brand appeal by transmitting the Daiwa group’s activities internally and externally, and endeavor to create our future as a company that works with local communities primarily in the Tohoku region.
+Company Name Establishment
+Head Office
+Representative
+Paid-in Capital
+Business Outline
+Company Name Establishment
+Head Office
+Representative
+Paid-in Capital
+Business Outline
+Company Name Establishment
+Head Office
+Representative
+Paid-in Capital
+Business Outline
+Company Name Establishment Head Office
+Representative
+Paid-in Capital
+Business Outline
+Company Name Establishment Head Office
+Representative
+Paid-in Capital
+Business Outline
+C-CUBE Corporation May 14, 1954
+1-51, Monzen-cho, Naka-ku, Nagoya-shi, Aichi
+Representative Director and President: Hiroaki Kubozono
+¥4,100 million
+Telecommunications construction business, information service business, etc.
+Seibu Electric Industry Co., Ltd.
+July 3, 1947
+7-1, Hakataekihigashi 3-chome, Hakata-ku, Fukuoka-shi, Fukuoka
+Representative Director and President: Toshihiko Kumamoto
+¥1,600 million
+Telecommunications engineering business, ICT solution business, etc.
+NIPPON DENTSU CO., LTD. October 22, 1947
+21-1, Isoji 2-chome, Minato-ku, Osaka-shi, Osaka
+Representative Director and Chairman: Toshiro Ue
+¥1,493.93 million
+Telecommunications facilities engineering business and ICT solution business
+EXEO TECH CORPORATION
+May 20, 1948
+1-23, Heiwajima 4-chome, Ota-ku, Tokyo
+Representative Director and President: Yuki Sakuyama
+¥450 million
+Communications infrastructure, ICT solutions, environmental and social innovations, etc.
+Daiwa Densetsu Corporation
+August 1, 1949
+5-1, Omachi 2-chome, Aoba-ku, Sendai-shi
+Representative Director and President: Hideki Tohara
+¥450 million
+Communications infrastructure, ICT solutions, environmental and social innovations, etc.
+                                      19 Corporate Report 2019
+
+   All 72 Consolidated Subsidiaries
+    KYOWA EXEO Group
+C-CUBE Group
+Seibu Electric Industry Group
+NIPPON DENTSU Group
+    All 40 consolidated subsidiaries
+Major business outline of the subsidiaries
+8 access engineering subsidiaries
+2 civil engineering subsidiaries
+1 electricity subsidiary
+5 mobile telecommunications subsidiaries
+17 IT subsidiaries
+7 other subsidiaries
+All 17 consolidated subsidiaries
+Major business outline of the subsidiaries
+6 access engineering subsidiaries
+5 civil engineering subsidiaries
+1 electricity subsidiary
+2 networks subsidiaries
+2 IT subsidiaries
+1 other subsidiaries
+All 5 consolidated subsidiaries
+Major business outline of the subsidiaries
+1 access engineering subsidiaries
+1 electricity subsidiary
+1 civil engineering subsidiaries
+2 other subsidiaries
+All 10 consolidated subsidiaries
+Major business outline of the subsidiaries
+1 access engineering subsidiaries
+7 IT subsidiaries
+1 networks subsidiaries
+1 electricity subsidiary
+17 nonconsolidated subsidiaries and 16 affiliates
+ Overview of Group Companies
+     Access engineering
+KANAC Corporation
+KANAC Corporation has grown along with the development of postwar Japan since its foundation in September 1946. We are an integrated engineering company dedicated to telecommunications facilities works, electrical equipment installation works, civil engineering works, sales of materials, manufacturing of equipment, etc.
+We aim to realize our corporate philosophy of “becoming a caring company that provides comfortable lifestyles” via forward-looking management that expands business areas, enhances technological capabilities, increases the types of business and ensures safety and security, while adhering to our mottos: the K3—“Kizuki (recognition),” “Kikubari (delicate attention)” and Kizukai (solicitude)—and Omoiyari (Compassion). To this end, we will promote innovation through concerted company-wide efforts as a “vigorous corporation” and a “community-based corporation” that contributes to the development of the Group and society.
+Mobile telecommunications
+Denseisha Co., Ltd.
+Denseisha Co., Ltd., has three business fields that are positioned as mainstay pillars and will accelerate efforts to promote them. Regarding electrical works, the oldest pillar, we started the maintenance and operation management services of waste treatment facilities in fiscal 2018. We are also participating in the reconstruction works of the Haneda Airport.
+As for telecommunications infrastructure works for telecom carriers, we will ensure a construction system to accommodate the entry of new telecom carriers and 5G-related capital investments.
+In the SI business, we intend to further extend our business with existing semiconductor manufacturers. In June 2018, we opened a new liaison office in Meguro-ku, Tokyo, through which we intend to increase orders received in the Tokyo area and enhance regional manufacturing and development. In terms of human resources, we will promote midcareer employment to ensure the necessary number of engineers.
+Among the three mainstay pillars, we will endeavor to deploy cross-sectional human resources and mutual assistance. We will also take on the challenge of tapping into new fields. We therefore aim to be a choice company under the management philosophy of “Ingenuity, Sincerity and Enthusiasm.”
+IT
+DeClout Limited
+DeClout Limited was converted into a wholly owned subsidiary in April 2019 due to the completion of a TOB conducted by EXEO GLOBAL Pte. Ltd., a regional headquarter company.
+DeClout, with its head office in Singapore, sells IT infrastructure featuring next-generation information communications technologies and provides related services with a goal of becoming a global market leader. DeClout also provides a variety of businesses, including neutral hosting and digital trade facilitation platform services through its subordinate group companies on a global basis.
+We will strive to contribute to further business growth of the KYOWA EXEO Group by maximally leveraging our broad business network.
+IT
+ADVANCED INFORMATION DESIGN Co., Ltd.
+Since its foundation in 1980, ADVANCED INFORMATION DESIGN Co., Ltd. (AID), has engaged in system development mainly for financial institutions, as well as for diverse industries such as insurance, manufacturing, distribution, the public sector, telecommunications and medicine. AID also has proposed a broad range of application, network, security and mobile-related solutions, achieving good performance.
+In the future, as a member of the KYOWA EXEO Group, we will aim for further growth and development as a company that can realize the IT solutions that customers truly desire by utilizing advanced IT technology and abundant know-how.
+    Corporate Report 2019 20
+ Business Overview
+
+Special Feature
+  1
+Globally Extending the EXEO Quality
+From Asia to the World Established EXEO GLOBAL
+  The OECD Development Centre announced in its “Economic Outlook for Southeast Asia, China and India 2019” that ASEAN countries are poised to maintain steady growth momentum, averaging 5.2% per year from 2019 to 2023.
+The KYOWA EXEO Group has advanced its overseas strategy of covering the ASEAN countries by establishing MG EXEO NETWORK, INC. (“MG EXEO”) and EXEO ASIA COMPANY LIMITED (“EXEO ASIA”), both of which are local joint ventures. In November 2018, the Group established EXEO GLOBAL Pte. Ltd. (“EXEO GLOBAL”) as a regional headquarters, in the global hub city of Singapore. Moreover, the Group successively converted two leading local corporations into subsidiaries via an M&A and a TOB. The Group will reinforce its structure to exert full-fledged global deployment to provide better urban infrastructure and system solutions not only in Japan but also overseas.
+ Established EXEO GLOBAL, a regional headquarters, in Singapore, a global hub city
+During fiscal 2018, the KYOWA EXEO Group’s global strategy entered a new stage. We reached the milestone of establishing a presence in the global hub city of Singapore. We selected Singapore because of the easy access to the capitals of the respective ASEAN countries via short flights of approximately two hours, a low corporate tax rate and a desirable business environment in which to diversify invest- ment. Moreover, the legal system has no restriction against foreign capital, allowing 100% foreign investments. To advance the Group’s global strategy, our presence in Singa- pore is essential.
+In October 2018, the Group acquired all the shares of the Leng Aik Engineering Pte. Ltd. (“LAE”) group, which engag- es in electrical engineering and general facility construction, converting it into a wholly owned subsidiary. The decisive
+Fumitoshi Imaizumi
+Operating Officer; Department Chief, Global Business Department, ICT Solutions Headquarters;
+and Managing Director, President, EXEO GLOBAL Pte. Ltd.
+rationale for this acquisition was that the LAE group firmly believes in “quality-first” corporate DNA and an immediate- response corporate culture that enhances customer satis- faction. The KYOWA EXEO Group is also particular about these features. Having the LAE group as a Group member enables us to enter the urban infrastructure market, which is rapidly expanding in the ASEAN countries.
+Subsequently, toward the full-fledged deployment of its global business, the KYOWA EXEO Group established EXEO GLOBAL in Singapore in November 2018. EXEO GLOBAL is a regional headquarters that facilitates the operational and strategic management of overseas subsid- iaries. Through enhanced marketing activities including sales promotion by top management and synergies among the respective subsidiaries, we have improved the Group-wide structure to identify business problems faced by growth markets and turn them into good business opportunities.
+21 Corporate Report 2019
+     
+ Moving toward true global deployment by making DeClout a subsidiary
+In March 2019, EXEO GLOBAL converted DeClout Limited into a wholly owned subsidiary through a takeover bid. DeClout has three operating companies under its control: Beaqon Pte. Ltd., which provides ICT solution, data center and neutral hosting services; vCargo Cloud Pte. Ltd., which engages in the digital trade facilitation platform business; and DeClout Investments Pte. Ltd., which is a corporate venture capital. The DeClout group’s global operations include not only the ASEAN region but also Africa and Central Asia. In particular, EXEO GLOBAL has obtained the venture capital function of DeClout Investments, thereby allowing the KYOWA EXEO Group to have a business structure that addresses the complete growth cycle discov- ering and cultivating promising start-up corporations and developing them as subsidiaries within the Group. In the future, we will accelerate the cycle of discovering and foster- ing promising corporations to realize our vision of B2B networking for true global development.
+Pursuing Group synergies to aim for business models such as those in Japan
+Although not much time has passed since the acquisition was completed, it has already generated Group synergies.
+In booming Singapore, many projects for data center works have emerged in recent years. In view of such a situation, seasoned employees have been dispatched on
+loan from the Head Office in Tokyo to coach LAE staff on processes from design to construction so that they can take on the challenge of various construction work projects including those of data centers. For example, regarding the competition for a data center extension project, our LAE team, consisting of staff from the LAE group and Beaqon who received guidance from the Tokyo Head Office, made a comprehensive presentation ranging from electrical equip- ment installation to system solutions. Although we are awaiting a debrief report on the selection, this presentation was a product of Group-wide synergies and is a model for future global deployment.
+In several emerging countries, as in Japan, the number of urban infrastructure and system solutions projects has been increasing at an accelerating pace. To meet such market needs, we must promote human resource development for local employees through technology exchanges with the Head Office in Tokyo, which has accumulated substantial expertise, as well as collaborations with local corporate groups, which can supplement the technologies that exist- ing overseas subsidiaries lack or be converted into subsid- iaries. In so doing, we need to develop business models as in Japan to enable mutual synergies within a short period.
+EXEO GLOBAL intends to contribute to the business growth of the KYOWA EXEO Group and the creation of a better society globally by continuously enhancing its global development.
+Thailand
+EXEO ASIA COMPANY LIMITED
+Singapore
+EXEO GLOBAL Pre. Ltd.
+Leng Aik Engineering Pte.Ltd. DeClout Limited
+Philippines
+MG EXEO NETWORK, INC.
+Globally Extending the EXEO Quality
+Corporate Report 2019 22
+
+Special Feature
+  2
+Opening the Way to the Future by Utilizing Digital Technology
+Launched New System that Addresses Digital Transformation (DX) Across the Company
+  Digital transformation for corporations refers to the profound transformation of business performance and the targeted scope by leveraging digital technologies. In the 2018 WHITE PAPER Information and Communications in Japan, the Ministry of Internal Affairs and Communications pointed out that AI, IoT and other ICT are changing existing social and economic systems including infrastructure, institutions, organizations and production methods, resulting in a major trend to create new systems. The likely future entails a variety of fundamental changes in industry, including the deployment of new services that leverage the data collected from products (physical goods); cross-industrial collaboration utilizing automation technology and entries in different business sectors; and the transition of society from “owning” to “as-needed utilization” resulting from the popularization of sharing services.
+The KYOWA EXEO Group set forth “Improvement of productivity through the digitalization of operations and the fostering of highly- skilled IT human resources” as one of the basic policies of its new Medium-Term Management Plan, which was released in May 2019. We have initiated the Digital Transformation Strategic Conference and assigned DX Promoting Leaders, who are hub-forming leaders in their respective organizations in conjunction with the Digital Transformation Strategic Division, the core entity that was established in April 2019. The Company has begun initiatives on various themes by establishing a structure to promote digital transformation via concerted company-wide efforts.
+ Masahiro Kikuchi
+Operating Officer and Division Chief, Digital Transformation Strategic Division
+KYOWA EXEO’s DX has two objectives. One is to carry out radical innovation concerning employees’ work styles and business processes by thoroughly leveraging digital technol- ogy. In this context, the utilization of digital technology includes reviewing relevant systems and modifying informa- tion systems from medium- and long-term perspectives. The other is to cultivate our technological capabilities through these activities and obtain valuable experience and knowledge. Contributing to the development of the human resources who will be the next generation of the Group is an important mission of the Division.
+To early complete works, the number of which has in- creased given the steady business environment, stably and with a high level of quality, and to cope with the labor
+shortage that has affected all industries, radical business innovation using digital technology is a pressing manage- ment task. The setup of a new, DX-focused structure has inspired the awareness of diverse problems and reform- oriented ideas from diverse departments. We will strive to conduct the aforementioned DX-related tasks as company- wide activities not limited only to the Division.
+We are confident the methods that helped us overcome our issues or obstacles in advancing DX internally can be leveraged as added value in the solution business of the Business Solutions Headquarters and ICT Solutions Head- quarters of the Company to help corporate customers address operational and business reforms using digital tech- nology.
+23 Corporate Report 2019
+ Digital transformation addressed by the KYOWA EXEO Group
+   
+     Helping realize true work style reforms with design thinking
+We are using Office 365 throughout the
+Company as a tool that radically changes
+the modality of communications. To facili-
+tate the introduction of the tool, we explain
+it in an easy-to-understand manner con-
+cretely presenting actual scenes of usage
+to ensure communications between work-
+sites and the Head Office via the daily use
+of video calls, improve accessory tools and confirm usage conditions. We intend to address these tasks in a multi- faceted manner, ranging from the physical environment to reviewing systems, including the perspective of the social movement theory such as the Telework Day to promote remote working.
+A customer who has introduced our EXBeacon platform can digitalize conventional analog data using the indoor positioning function to measure the position of targeted persons and things and then create a digital twin of the office in combination with Office 365 digital information. We look forward to designing more efficient and easy-to- use floor layouts and executing measures that inspire communication based on the digital twin data.
+Shinjiro Mizuno (right)
+Tsubasa Onodera (left)
+Manager, Digital Transformation Strategic Division
+ Digital Transformation Strategic Division
+The so-called design thinking concept, which allows us to consider usability and ideal working conditions through the eyes of each employee as a user, could be useful in con- ducting work style and operational reforms using DX. We already started an initiative to popularize this technique within the Company from the viewpoint that DX could be useful in developing businesses, including the processes of creating prototypes via exchanged ideas and developing high-precision products and services via repeated steps of verification and improvement. Internal recognition and the level of employees’ understanding have been improving little by little, through such activities as the attendance of our management executives, for example, at a Design Thinking workshop held at the site of a former restaurant.
+    Improving operational efficiency and quality by optimizing information systems and utilizing new technologies such as AI and IoT
+Shun Kanai (left)
+Assistant Manager, Digital Transformation Strategic Division
+Yukari Tanioka (right)
+Digital Transformation Strategic Division
+ensure quality work-related services to our customers.
+Meanwhile, our review of basic design is underway to accommodate flexible and
+ We will address the optimization and restructuring of IT system infrastructure, which supports the Group’s business, by incorporating the DX approach, not limited to the revision of the conventional approach.
+To provide customers with various services such as work- related services, system integration, ICT solutions, quickly at high levels of quality, IT infrastructure has an important role in supporting not only inter-department or inter-company cooperation within the Group but also broad collaboration with corporate customers as service recipients and collabo- rators. In addition to the swift and efficient provision of services, we intend to develop an IT infrastructure as a base, on which workers can comfortably work, by optimiz- ing and restructuring the IT infrastructure with new technolo- gies and innovative ideas.
+The utilization of AI and IoT technologies at construction- and work-related departments is an important theme for the safety improvement of various operations and the efficiency improvement of construction inspections. We believe that safe and secure working conditions for all related parties will
+quick additions of functions to shared administrative opera- tions such as attendance management and settlement of expenses. In addition, we will need to respond to the diver- sifying work styles of Group employees, including those at work-related departments who spend most of their day working outdoors. The Division continues to hear from employees at the respective departments to identify optimal, cross-sectional systems based on company-wide users’ viewpoint.
+We have noticed that there are some unexpectedly dangerous areas at our worksites. The ultimate work quality of “Zero Accident” begins with our preparations to predict and avoid any such danger. We therefore intend to address these issues via operational reforms based on design thinking while maintaining an awareness of the viewpoint of employees who actually work in those areas.
+We would like to aggressively absorb and apply the advanced technologies necessary to exert work style or operational reforms while considering, executing and con- firming the realization of DX.
+Corporate Report 2019 24
+ Opening the Way to the Future by Utilizing Digital Technology
+
+KYOWA EXEO Group’s
+Corporate Value Creation Process
+KYOWA EXEO will contribute to the resolution of social issues through its businesses (technologies) and strive for sustainable growth with society.
+The KYOWA EXEO Group’s corporate philosophy includes cultivating technological capabilities, seeking affluence and contribut- ing to society. Under this philosophy and with its technological capabilities as a driver of growth, the Group has grown to be the way it is now, while reflecting the needs of the times. The Group’s technological capabilities now contribute significantly to the resolution of social issues at home and abroad. The KYOWA EXEO Group will continue to address social issues and help solve
+  them through its businesses, thereby achieving sustainable growth with society.
+ Major social issues:
+Global warming
+Labor shortage due to the decline in domestic population Energy problems
+Urban concentration
+Japan’s falling birthrate, super aging population Cyber attacks, etc.
+Declining fixed-line phones
+Labor shortage in the construction industry
+  Medium- to long-term business environment:
+  Telecommunications HelprealizeahighlyadvancedICTsocietythrough
+Infrastructure
+our telecommunications infrastructure business
+Telecommunications Infrastructure Business
+Social issues to be solved through the telecommunications infrastructure business:
+Continued upgrading of broadband telecommunications (LTE LTE-Advanced 5G)
+Facilitates the operations that address the reception difficulty for the 700-MHz band
+Expanding the demand for optical fiber access services through 4K and 8K UHD (ultra-high definition) displays and the Hikari Collaboration
+  Urban Help realize a society where safety and security are
+ infrastructure
+ensured through our urban infrastructure business
+Urban infrastructure business
+Social issues to be solved through the urban infrastructure business:
+Ensures a globally comparable level of landscape by promoting the undergrounding of overhead power lines Expanding public investments for building national resilience (e.g., installation of monitoring cameras, refurbishment of highways)
+Renewal of aging waste disposal plants Renewable energy sources, including biomass
+  System Help realize a society that is friendly to the environment
+ Solutions
+System Solutions Business
+and people through our system solutions business
+Social issues to be solved through the system solutions business:
+Reform of industrial structures through the cloud, IoT, big data, etc.
+Promotes the deepening of communication
+Solutions for advanced security
+ODA (Official Development Assistance)-related efforts to address the economic growth of Southeast Asia
+  25 Corporate Report 2019
+Social needs toward the Tokyo Olympics and Paralympics
+Transition to the next- generation wireless technology (5G)
+Reinforcement of disaster management, etc.
+   Human Resources Are Our Chief Asset
+KYOWA EXEO contributes to society through its high technological capabilities, which are underpinned by its excellent human resources.
+Therefore, we regard human resources as a chief asset, and set as a principle that excellent human resources should be acquired and developed along with a conducive working environment for our employees.
+       
+ Provision
+of value to various stakeholders
+Society Shareholders and investors Customers Employees
+KYOWA EXEO Group’s
+Technological Capabilities
+Human resources as a chief asset
+Special Feature
+Value offered for society:
+Convenient and affluent life
+Safe and secure society
+Green-rich Earth
+Contribution to technological development
+Creation of highly productive employment opportunities
+Support for restoration of disaster-afflicted areas
+More disaster-resilient infrastructure Enhancement of energy efficiency
+1
+Globally Extending the EXEO Quality
+Go to P.21
+Opening the Way to the Future by Utilizing Digital Technology
+Go to P.23
+Special Feature
+2
+Sustainable Corporate Value Creation
+KYOWA EXEO Group’s Corporate Value Creation Process
+Important issues for the KYOWA EXEO Group to achieve sustainable growth
+Developing human resources / developing and handing down technologies
+Corporate Report 2019 26
+
+KYOWA EXEO Group and SDGs  KYOWA EXEO will contribute to the resolution of social issues through its businesses and strive for sustainable growth with society.
+In recent years, the roles to be undertaken by companies for international issues such as the preservation of the global environment and respect for human rights have become increasingly important. Taking such social trends into consideration, we consider them to be
+important issues for the KYOWA EXEO Group in terms of the environment, society and governance (ESG).
+Moreover, bearing in mind the Sustainable Development Goals (SDGs), which were adopted by the United Nations in 2015, we will perform corporate social responsibility (CSR) through our primary businesses and aim to create value jointly with society and achieve
+sustainable growth.
+
+1. Achievement of a safe and secure society through the infrastructure business
+Achieve urban development that is safe and secure for everybody, as well as contributing to building infrastructure that is resilient to natural disastersContributing to the improvement of various kinds of infrastructure
+Improving information communications infrastructure
+We provide consistent quality services from planning and design to construction, operation and maintenance for all types of communications equipment and facilities of telecom carriers, throughout the country based on our performance over the years and excellent technologies.
+Construction of an outdoor mobile phone Access engineering-related work base station
+Promoting “barrier-free”
+(Closer to communities and people by leveraging our technological capabilities)
+We aim to create and help realize an environment where anybody can live safely by accommodating barrier-free conditions, the norm of the times. To help create welfare-based communities, we provide support from plan proposal and design to manufacturing of equipment, construction and maintenance in aspects of both software and hardware.
+    Establishing a variety of infrastructure facilities and equipment mainly in Southeast Asia
+We engage in the infrastructure facilities business mainly in Southeast Asia. We contribute to creating affluent communities by taking advantage of our sophisticated, Japanese-quality technologies.
+
+Resolution of social issues and achievement of an affluent society through IoT technology
+Braille guide board with voice guidance in foreign languages
+Station guidance chime
+Optical access works (The Philippines) <MG EXEO NETWORK, INC.>
+ Providing the environment for work style reforms and productivity improvement
+Responding to food safety and food loss issues
+Japan now faces various difficult situations such
+as a reduction in the productive-age population
+resulting from the declining birthrate and aging
+population, the simultaneous pursuit of raising
+children or taking care of the elderly and work
+style diversification. To address such difficult circumstances, we provide an environment that helps the interested parties to mitigate long working hours and improve operational efficiency.
+Providing an ICT environment for high-quality education
+Realizing an ICT environment in the field of education has become an urgent task because the Ministry of Education, Culture, Sports, Science and Technology will introduce computer programming as a compulsory subject effective from 2020. We provide an environment for everyone to receive affordable, quality ICT education regardless of gender.
+27 Corporate Report 2019
+Office 365 implementation service
+We help hospitals to take risk countermeasures, including notification on contraindications and allergies, and improve efficiency in handling food materials and cooking/catering operations by providing tailored menu management focusing on individual hospitalized patients. As for
+school lunches, we provide relevant systems
+that excel in improving the efficiency of office
+processing, safety and cost performance.
+  Food service management system
+ Provision of educational solutions, lesson assistance for teachers, lecture on operation of ICT equipment, etc.
+
+Promotion of recycling and effective utilization of resources; achievement of a society for the prevention of global warmingIncreasing the ratio of renewable energy in the energy mix
+Biomass business
+We conduct field investigations, design and construction of wood biomass boilers to enhance the utilization of wood biomass energy, which has drawn attention as a renewable source of energy.
+
+Reducing hazardous chemical substances, as well as mitigating air, water and soil pollution
+Focusing attention on “water,” an essential element for our lives, and the “waste” produced from our lives, we engage in the construction and operation of water treatment facilities for domestic and industrial wastewater and waste treatment facilities. Through the business, we strive to reduce the discharge of hazardous chemical substances, as well as the pollution of air, water and soil.
+
+Avoiding adverse effects on marine and coastal ecosystems
+We have contributed considerably to constructing a social infrastructure of a new era utilizing our long-cultivated underground civil engineering technology.
+An example in this area is the horizontal directional drilling of submarine telecommuni- cations/power cables, which can bypass a long distance of seabed at places such as fishing grounds and coral reef sanctuaries, preventing damage caused by pipes or cables.
+
+4. Achievement of favorable communication with stakeholders
+To meet the expectations of stakeholders,
+favorable communication will be strengthened to resolve issues
+With employees
+
+Promoting diversity and work style reforms
+The KYOWA EXEO Group aims to nurture a corporate culture that recognizes diverse values regard- less of gender, nationality, or other features, in order to swiftly and flexibly respond to diversifying customer needs and committing to business development and improved performance. Accordingly, it promotes Group-wide diversity as part of its innovation and work style reforms. The Group’s initiatives along these lines have
+Reducing hazardous chemical substances, as well as mitigating air, water and soil pollution
+Focusing attention on “water,” an essential element for our lives, and the “waste” produced from our lives, we engage in the construction and operation of water treatment facilities for domestic and industrial wastewater and waste treatment facilities. Through the business, we strive to reduce the discharge of hazardous chemical substances, as well as the pollution of air, water and soil.
+    Water treatment plant
+Waste treatment facilities operated by Kinoumi Area Treatment Facilities Association
+ Substation Filter plant
+Fisheries facilities
+Communication base station
+Cable unloading duct line
+Wind farm on the sea
+Cable duct line
+ Sea water intake pipe
+Coral reef
+Water line to an isolated island
+ Horizontal Directional Drilling (Earth Shuttle)
+With society    been recognized or selected by the Ministry of Health, Labour and Welfare and other organizations.
+
+Providing places for technical training
+We provide affordable, quality technical training for everybody regardless of gender or nationality.
+
+  CSR Concept
+  Performing Corporate Social Responsibility (CSR) through Its Business Activities
+The KYOWA EXEO Group’s basic CSR policy is to materialize its corporate philosophy and perform its social responsibility through its daily business activities. The Group seriously addresses promoting corporate gover- nance, compliance and risk management and works to ensure sincere and highly transparent business opera- tions to contribute to the sustainable growth of society.
+Basic CSR Policy / CSR Promotion Systems
+The corporate philosophy of the KYOWA EXEO Group, which is the basic guideline for our corporate social respon- sibility, includes cultivating technological capabilities, seeking affluence and contributing to society, and we work to make integrity and transparency the fundamental norms of our management. To achieve this corporate philosophy, we need to have engagement* with the stakeholders of the KYOWA EXEO Group, thereby extracting issues to be solved to create a better society together. We recognize that such efforts to achieve our corporate philosophy are indeed efforts toward CSR.
+We also think that CSR is something that every member of the staff should put into practice throughout the business process, rather than having a specific division responsible for CSR activities. Therefore, we launched the CSR Committee chaired by the President and, under the Committee, assigned a person in charge of CSR to every department or office and to every Group company to promote CSR activities on a Group-wide basis.
+*Engagement: to discuss stakeholders’ concerns, the effects of corporate activities on local communities and other various issues through opportunities created by the company’s involvement with its stakeholders
+  CSR Structure of
+the KYOWA EXEO Group
+  Corporate philosophy
+Customers
+Group companies
+Business partners
+Shareholders and investors
+Employees
+Society/Environment
+    Development of society
+ENGINEERING SOLUTIONS
+Development of the KYOWA EXEO Group
+SYSTEM SOLUTIONS
+Engagement with stakeholders
+     Guidelines for CSR activities
+Self-awareness of contribution to society as a company
+Promotion of contribution to society and social contribution activities through business activities
+Securing safety and quality
+Full information disclosure and communication
+Adherence to corporate philosophy and respect for human rights Environmental protection activities
+Creation of workplaces conducive to satisfactory work
+      Compliance Corporate governance Risk management
+ 29 Corporate Report 2019
+Business operations with integrity and transparency as the norm
+       Continuing to be a Company Trusted by All Stakeholders
+While actively striving to ensure information disclosure, the KYOWA EXEO Group will engage in proactive communication with all our stakeholders to fulfill our corporate social responsibility and create a better society together.
+Materiality Identification Process
+The KYOWA EXEO Group has engaged in CSR activities centering on the seven core subjects set forth in the ISO26000 guidance on social responsibility. Based on these activities, to achieve further creation of value in cooperation with society and the sustainable growth of the KYOWA EXEO Group, we identified important ESG (environment, society and governance) subjects and their materiality to the Group and its stakeholders through the process described below. We will continue to promote CSR activities according to the materiality identified by implementing the PDCA (Plan-Do-Check-Act) cycle.
+Building a better, brighter future together
+    Extract issues to be solved
+Narrow down the issues
+Evaluate the issues and identify materiality from the standpoint of stakeholders and the Group
+A business organization harmoniously coexisting with society through its businesses
+Review and approval by the CSR Committee
+Corporate philosophy
+ Identification of important subjects and their materiality
+   Environment (E) Preserving the global environment and establishing a recycling-oriented society
+Society (S)
+High A
+   Addressing climate change Green procurement
+ Promoting environmental businesses
+ Respect for human rights and principle that human resources are our chief asset
+Securing safety and quality
+Emphasis on return of profits and communications
+Improvement of customer satisfaction
+Work style reforms (worker-friendly working environments included)
+ Contributions to society and local communities
+High A
+ B
+High
+Business operations with integrity and transparency as the norm
+High
+  Governance (G)
+High A
+B
+Issues surrounding the Group (ISO26000)
+(Social circumstances / Social issues)
+B High
+ Corporate governance
+Compliance Risk management
+(increasing information security included)
+Fair and impartial transactions Group governance
+ The charts’ A and B axes denote:
+A: Materiality for stakeholders
+B: Materiality for the KYOWA EXEO Group
+         Organizational Human rights Labor practices The environment Fair operating Consumer Community involvement governance practices issues and development
+     External evaluation (e.g., MSCI) External environment (e.g., SDGs) Guidelines (e.g., GRI)
+Corporate Report 2019 30
+ CSR Concept
+
+   Results and Plans of Major CSR Initiatives
+         Reviewing the corporate governance guidelines
+      Analyzing the causes of recent conflicts and the measures taken to address them and spreading the results across the board to prevent the recurrence of such problems
+      Thorough adherence to social norms
+      Educating on and improving the awareness of laws and regulations and the Basic Ethics of the KYOWA EXEO Group through compliance-promoting activities
+           Ensuring information security
+     Reduction of management risk
+     Reinforcement of business continuity planning (BCP)
+            Society
+                    Environment
+             31 Corporate Report 2019
+ESG
+Materiality (important subjects)
+Measures to be taken
+     Governance
+Relevant stakeholders
+All
+Reinforcement of corporate governance Promotion of compliance
+Appropriate risk management
+Analyzing and evaluating the effectiveness of the Board of Directors
+     Group companies
+Business partners
+Customers
+Society
+Reinforcement of group governance
+Fair and impartial transactions
+Enhancement of the internal controls of the Group companies
+Sharing issues with the Group companies’ top executives
+Ensuring compliance with the procurement policy
+        Employees
+Respect for human rights and utilization of diversified human resources (Reinforcement of efforts to promote diversity)
+  Respect for human rights and principle that human resources are our chief asset
+Work style reforms
+Creation of ideal working conditions (Promotion and reinforcement of work-life balance)
+  Securing safety and quality Improvement of customer satisfaction
+Development and cultivation of human resources
+Elimination of serious accidents (personnel and facility)
+    Shareholders and investors
+Emphasis on return of profits and communications
+Contribution to society and local communities
+Engagement in proactive information disclosure
+Ensure high awareness of quality and continue education
+         Thorough management of customer satisfaction and utilization of the feedback
+Impartial, timely and appropriate information disclosure
+Promotion of social contribution activities
+  Promotion of local community contribution activities
+           Effective provision of news releases and issuance of integrated reports
+             Preserving the global environment and establishing a recycling-oriented society
+Reduction of CO2 emissions
+Reduction of gasoline consumption
+      All
+Reduction of power consumption
+ Utilization of green energy and forest preservation
+     Energy-saving activities at offices
+Reduction of paper consumption
+      Promotion of greenery at buildings
+Promotion of rooftop greenery
+        Promotion of green procurement
+Promotion of greenery on the premises
+  Enhancement of the green purchasing rate
+        
+Results of efforts in fiscal 2018
+Rating (self)
+Efforts to be made in fiscal 2019
+  Continue current efforts
+ Disclosed evaluation results on the effectiveness of the Board of Directors Updated the corporate governance guidelines
+Disclosed the corporate governance report
+Reconfirmed the basic policy of the internal control system
+Provided education reflecting the latest laws and regulations and the recent problems and complaints Designated a month to promote compliance and promoted the use of the whistleblowing system Conducted compliance trainings (including those for executives)
+Held two meetings of the Internal Control Committee
+Held four meetings of the Compliance Committee
+             Continue current efforts
+   Provided trainings on information security reflecting on examples of accidents at other companies and countermeasures against cyberattacks Implemented the PDCA cycle on risks regarding the management environment and business strategies by identifying and monitoring those risks Implemented the PDCA cycle on business process risks by identifying and monitoring those risks Identified disaster risks and provided trainings, such as large-scale disaster drills Conducted internal audits of the Group companies
+Held four meetings of the Information Security Committee Held two meetings of the CSR Committee
+      Held various meetings at different levels
+Continue current efforts
+Achieved a ratio of new female graduates employed of 15.8% Achieved a ratio of handicapped people employed of 2.38%
+   Encouraged employees to take paid leave: Annual paid leave taken: 13.3 days per person/year Reduced total working hours
+Included in the Top Hundred Telework Pioneers by the Ministry of Internal Affairs and Communications in November 2018
+Target percentage of new female graduates employed: 25% or more
+Target percentage of handicapped people employed: 2.2% or more
+Target number of days of paid leave taken: 14 days or more per person/year Reduce total working hours
+      Two KYOWA EXEO employees won a silver medal at the 56th National Skills Competition of Japan in the information network cabling category in November 2018 Carried out various trainings, such as new employee, technical and overseas trainings
+Held meetings of the Procurement Council to verify transparency and fair pricing
+  Continue current efforts
+     Number of serious accidents occurred: one
+Conducted safety- and quality-related measures (Continuation of the five-year slogan: Return to the basics of a safety and quality-oriented culture)
+Held monthly Group safety meetings to educate and promote efforts on accident prevention across the board
+Target number of serious accidents occurred: zero
+    Continue current efforts
+       Analyzed the results of surveys on customer satisfaction and provided feedback (PDCA)
+Continue current efforts
+Conducted business results presentations and IR meetings (230 meetings)
+Continue current efforts
+Responded to natural disasters by offering recovery and restoration efforts
+Cleanup activities for regional communities, forest preservation efforts and hands-on learning opportunities, etc.
+    Power consumption: 7.72 kWh/m2
+· Internally installed the Energy Viewer (our own energy-saving product)
+· Proactively purchased eco-friendly products
+· Conducted energy-saving campaigns, including Cool Biz, Warm Biz and switching off lights during lunch breaks
+Continue current efforts
+   Reduce power consumption by 1% year over year
+(to 7.64 kWh/m2 or less)
+          Gasoline consumption: average 99.5 liters per car/month
+· Monitored the use of gasoline cards monthly · Switched to more fuel-efficient cars
+Reduce gasoline consumption by 1% year over year (to average 98.5 liters per car/month)
+             Deployed environmental businesses:
+· Solar power generation business (constructed and operated facilities for the Company and other companies) · Wood biomass business (constructed facilities for other companies)
+Maintenance of EXEO’s forests (national forests) at five locations (15.37 ha) nationwide
+Continue current efforts
+         Number of sheets of paper purchased: 46.53 million sheets
+· Promoted WiFi availability · Monitored and periodically reported the number of sheets of paper purchased at all-office meetings
+Reduce paper purchases by 1% year over year (to 46.06 million sheets or less)
+         Securing greenery spaces, installing rooftop solar power equipment, etc. Cultivation of plants on a rooftop area shaded by solar panels
+Continue current efforts
+      Continue current efforts
+         Introduced and promoted the purchase of eco-friendly products (office supplies and PCs) Monitored and periodically reported the purchase of eco-friendly products at all-office meetings · Ratio of purchasing eco-friendly products: 62.6%
+Target ratio of purchasing eco-friendly products: 63% or more
+     Issued the Corporate Report 2018, EXEO Reports and other documents Provided updates on the Group through news releases and the TOPICS pages
+   Continue current efforts
+           Building a better, brighter future together
+[Rating (self)] Plan accomplished Plan almost accomplished Plan unaccomplished
+    Corporate Report 2019 32
+Results and Plans of Major CSR Initiatives
+
+ Management Systems
+             Establishing Various Mechanisms to Promote Globally the Overall Group
+Corporate Governance
+Endeavoring to ensure transparent management by establishing sound management systems and strengthening internal controls
+The KYOWA EXEO Group aims to maintain the full trust of shareholders and all other stakeholders by operating with integrity and a high standard of transparency. To this end, we are confident that it is one of the significant management issues to establish and maintain an organizational structure and management systems through which corporate governance can effectively function. Moreover, it is our basic CSR policy to make ongoing improvements to strengthen corporate governance mechanisms that are suitably tailored to the Group’s circumstances, including the assessment of structures for monitoring management in light of changes in social conditions, laws and other developments.
+Development of the internal control system and risk management system
+The KYOWA EXEO Group works to thoroughly adhere to compliance, manage various risks and properly and efficiently execute business operations. At the same time, to ensure the reliability of financial reporting, the Group has stipulated the Basic Policy on Internal Control Systems in accordance with the relevant provisions of the Companies Act and addresses its appropriate and efficient operation.
+The Internal Control Committee, based on the Basic Guideline for Establishing Internal Control Systems, develops systems to ensure compliance with laws and regulations, effective and efficient operations and reliable financial reporting, and grasps the overall operation status of the internal control system while conducting its evaluation.
+We have enhanced our risk management systems by establishing the Risk Control Division in June 2014 to integrate compliance- related duties that had been distributed among more than one department and setting up the Business Risk Management Committee in January 2019.
+To view the Basic Guideline for Establishing Internal Control Systems, visit
+http://www.exeo.co.jp/company/cg.html
+   KYOWA EXEO’s Corporate Governance System
+General meeting of shareholders
+As of June 22, 2019
+Appointment/Dismissal Determination of the appropriateness
+of accounting audits
+Report Audit
+  Appointment/Dismissal Consultation
+Response
+Appointment/Dismissal Audit
+ Nomination Committee Compensation Committee
+  Supervision
+Report
+Board of Directors Directors
+(12, including one independent officer)
+Board of Corporate Auditors Statutory auditors
+(four, including one independent officer)
+      Report
+ Directions,Supervision Report Consultation,Directions Response,Report
+Audit Report
+Report
+      Operating officers and organizational heads Representatives of Group companies
+Supervision Report
+President
+Management Council
+Internal Control Committee
+ Compliance Committee
+ Business and administrative departments and branches
+ Business Risk Management Committee
+ Information Security Committee
+  Group companies
+CSR Committee
+ Report Internal audit Directions Report
+  Risk Management Division
+Instructions
+  Collaboration
+33 Corporate Report 2019
+Independent Auditor Corporate Lawyer
+
+     Building a better, brighter future together
+An Interview with the Outside Statutory Auditors (Independent Officers)
+Two Outside Statutory Auditors (Independent Officers) exchanged views on the Company’s corporate governance and auditing systems that could contribute to the enhancement of corporate value.
+      Mr.KozoMeguro AsaCertifiedPublicAccountant,Mr.Meguroheldimportant positions in audit corporations and has served as Outside Statutory
+Auditor (Independent Officer) of the Company since June 2014.
+A listed company with thorough risk control
+Meguro: I am in my fifth year of service as a Part-Time Statutory Auditor of KYOWA EXEO. KYOWA EXEO has actively strengthened its corporate governance. With Ms. Aramaki as a new female outside officer, the Company is also engaged in the diversification of human resources.
+Aramaki: A full year has passed since I took office. My impression about KYOWA EXEO, a listed company, is that risk control is in effect throughout the Company. I think the Company also pays good attention to the opinions and advice of outside officers.
+Meguro: Since I took office, the composition of the officers has changed significantly. KYOWA EXEO has been active in recruiting outside officers, encouraging professionals with a broader range of knowledge to take part in the management of the Company. As a result, a diverse range of questions are being answered, not only about the basic meanings of technical terms in IT and construction often heard at Board of Directors’ and other meetings but also on industrial trends, the Company’s position in the industry, the advantages of its strategiesandexpectedrisks.Thecultureofactivelyexplaining internal issues has gradually taken root in the Company.
+Aramaki: The full-time officers of the Company are willing to be fully accountable, not just working with outside officers to satisfy the legal requirement. This struck me as excellent awareness and the Company’s determination to maintain the corporate governance it has established.
+Meguro: The Company’s businesses, compared to five years ago, have changed to include more international operations that involve
+Aramaki:
+both risks and opportunities. To address these changes, the Full-Time Statutory Auditors have actively collected information to ensure the appropriate audits of operations.
+It is great that the Company provides Outside Statutory Auditors with various opportunities to exchange opinions, including the Vector Meetings. I would like to further my understanding of the Company so that I can engage in deeper discussions.
+Ms.TomokoAramaki AsaCertifiedPublicAccountantandaCertifiedPublicTaxAccountant, Ms. Aramaki held managerial positions in PARIS MIKI HOLDINGS Inc.
+and other companies and has served as Outside Statutory Auditor (Independent Officer) of the Company since June 2018.
+  After the integration, the auditing system needs to achieve synergies
+Meguro:
+Aramaki:
+Meguro:
+Domestically, the three companies based in the western part of Japan have been integrated into the KYOWA EXEO Group to pursue synergies. Overseas, too, the same vector must be shared among the Group members while ensuring compliance. Relentless discussions to achieve that are important.
+The addition of the three companies’ presidents as Directors has invigorated the Board of Directors. Of course, I realize that this integration has come after a long period of discussions and adjustments. Such effort enabled the smooth integration to allow us to be ready to proceed to the next step. Imetthestatutoryauditorsofthethreecompaniesinthesecond half of 2018. They all have well-organized auditing systems, and some of the statutory auditors have professional backgrounds like ours. After the integration, we will see increasing opportunities for the four companies to unite forces to execute duties. For the auditing system, the three companies and us at KYOWA EXEO will be required to achieve synergies by sharing information in a functional and appropriate manner and reflecting our judgments and opinions in discussions by the Board of Directors.
+Corporate Report 2019 34
+  Management Systems
+Corporate Governance
+
+  マネジメント体制
+  Aramaki: The number of subsidiaries of the KYOWA EXEO Group has increased significantly. We now face the new challenge of establishing an auditing system that can ensure Group governance. That is a difficult but challenging task.
+The KYOWA EXEO Group is to seek global recognition
+Aramaki: Recently, the Company has actively engaged in the international expansion of businesses and large-scale M&As. This trend is expected to continue. In this perspective, it is urgently required to develop human resources who have a global mindset and can pursue those duties.
+Meguro: I think the Statutory Auditors should be required to ensure transparency domestically and internationally and to show the Group’s commitment to abiding by the rules. I believe fulfilling
+Aramaki:
+Meguro:
+such a role will help develop a strong team that can survive any difficulties and that, in turn, will protect stakeholders, including shareholders.
+For the KYOWA EXEO Group to win global recognition, what should we be mindful of? Although we are in the position of executing audits, not business operations, I will continue to offer advice and suggestions based on my own experience of having been involved in some international businesses and M&As.
+The KYOWA EXEO Group has solid domestic achievements and a stable financial structure. Building on these advantages, for the Group to achieve further growth, the Statutory Auditors are expected to promote innovation from inside.
+To this end, I will continue to offer advice and suggestions as an Outside Statutory Auditor and Independent Officer.
+ Major Activities of Outside Directors and Statutory Auditors in Fiscal 2018
+ Kumiko Kitai (Independent Director)
+Ms. Kitai attended 14 out of 15 meetings of the Board of Directors held in fiscal 2018, where she actively provided advice and recommendations to ensure the reasonability and appropriateness of the Board of Directors’ decisions based on her extensive experience and knowledge accumulated as a lawyer and from holding important positions with the central government.
+Kazuteru Kanazawa (Independent Director)
+Mr. Kanazawa attended 15 out of 15 meetings of the Board of Directors held in fiscal 2018, where he actively provided advice and recommendations to ensure the reason- ability and appropriateness of the Board of Directors’ decisions based on his extensive experience and knowledge accumulated through management of companies in the industry other than that of KYOWA EXEO.
+Yasushi Kohara (Independent Director)
+Mr. Kohara attended 11* out of 11 meetings of the Board of Directors held in fiscal 2018, where he actively provided advice and recommendations to ensure the reasonability and appropriateness of the Board of Directors’ decisions based on his extensive experience and knowledge accumulated through management of companies in the industry other than that of KYOWA EXEO.
+Effectiveness Evaluation
+Kozo Meguro (Independent Auditor)
+Mr. Meguro attended 15 out of 15 meetings of the Board of Directors and 16 out of
+16 meetings of the Board of Corporate Auditors held in fiscal 2018, and collected information on the status of business operations at the Company’s departments and its subsidiaries. On those occasions, he provided comments based on his extensive experi- ence and professional knowledge as a Certified Public Accountant.
+Tomoko Aramaki (Independent Auditor)
+Ms. Aramaki attended 10 out of 11 meetings of the Board of Directors and 10* out
+of 11 meetings of the Board of Corporate Auditors held in fiscal 2018, and collected information on the status of business operations at the Company’s departments and its subsidiaries. On those occasions, he provided comments based on his extensive experi- ence and professional knowledge as a Certified Public Accountant.
+*Because she was appointed at the 64th Ordinary General Meeting of Shareholders on June 22, 2018, her attendance at the meetings of the Board of Directors and the Board of Statutory Auditors started thereafter.
+     To enhance the function of the Board of Directors and corporate value, KYOWA EXEO carries out self-evaluation and analysis of the effectiveness of its Board of Directors, with advice from an external organization.
+Based on the results of a questionnaire completed by all Directors and Corporate Auditors, which was collected and ana- lyzed by an external organization to ensure objectivity, as well as discussions at meetings of the Board of Directors, it was confirmed that the Company’s Board of Directors has sufficient scale and structure and is appropriately operated to ensure proper decision making on important managerial issues and supervision of the execution of duties.
+Through a previous effectiveness evaluation, we shared an awareness of the necessity of the Directors’ Vector Meeting to discuss each division’s business strategies at an earlier stage and coordinate the directions thereof, thereby promoting efforts to enhance the functions of the Board of Directors. We see that those efforts have been taking steady effect.
+In addition, the Company increased the capacity of its Outside Directors by one so that Directors with a wider range of experience and knowledge now constitute the Board of Directors.
+Based on the results of the most recent effectiveness evaluation, ideas and opinions were shared on the need to optimize the configuration of the Board of Directors and how to better operate the Board of Directors for more active discussions to further reinforce corporate governance.
+The Company’s Board of Directors will make continued efforts to enhance its function by holding adequate discussions based on the effectiveness evaluation and related opinions to improve its effectiveness.
+35 Corporate Report 2019
+
+     Compliance
+In the KYOWA EXEO Group, everybody on the management team maintains a high standard of ethics—integrity—when conducting business. Furthermore, individual directors and employees make principled actions grounded in compliance to fulfill their social responsibility.
+ EXEO Group Basic Actions Declaration
+Based on the EXEO Group Compliance Program, the officers and employees of the Group presuppose compli- ance with not only laws and regulations but also corporate ethics, including the spirit underlying those ethics, and practice activities with high social value, thereby contributing to society.
+Given that a company is part of society, it is a prerequisite for all stakeholders in a company, irrespective of whether officers or employees of the company, to comply with laws and corporate ethics when carrying out the company’s business operations. Such compliance is also a matter of course for us as individual members of society.
+In addition, ensuring such compliance is indispensable for the company to maintain the trust of society and the realiza- tion of the Group’s corporate philosophy of “Contributing to Society.”
+In light of the above, we shall prioritize without hesitation laws and regulations and corporate ethics in case we are forced to select either earnings or ethics in our own activities.
+Initiatives to Promote
+Measures taken and Description
+Whistle-blowing system
+Regarding compliance-related concerns, the “Support Desk” is the contact point for whistleblowers, and the “Lawyer Hot Line” is provided to enable direct consult- ing or communica-
+tion with corporate lawyers.
+All employees of the KYOWA EXEO Group are provided with “Compliance Cards” to raise their awareness of the contact point for whistleblowers and guidelines for use.
+Compliance training for management executives
+More than once a year, we provide compliance training by inviting lecturers for management executives, includ- ing the Chairman, President, General Managers of the Head Office, Branch Managers and Presidents of the Group companies.
+Compliance promotion and enhancement month
+With October designated as the annual Compliance Promotion and Enhancement Month, various campaign measures such as signage and meetings are conducted to raise awareness and encourage an in-depth understanding of compliance.
+   Compliance program
+   Tools:
+Compliance Manual
+Group’s corporate philosophy, Basic Actions Declaration, Basic Guideline for Establishing Internal Control Systems, matters to be observed and so on
+Manuals by risk at each Group company Compliance training materials, etc.
+ System
+     Follow-up:
+Evaluation on compliance observance Monitoring
+Development:
+Compliance planning Compliance training Support Desk Lawyer Hot Line
+  Promoting System
+ Collaboration
+    Corporate lawyers (Lawyer Hot Line)
+Group companies
+    Advisory and
+collaboration Guidance
+Command
+[Departments and Branches]
+Guidance and control
+Group Business Development Division
+ KYOWA EXEO Group Compliance Officer (President of KYOWA EXEO)
+Compliance Committee (Harassment Investigation Committee)
+  Responsible Persons in Charge of
+Compliance Promoter Promoting Compliance Employees
+Guidance and oversight on the spot and of trading units
+Compliance Officer
+at each company (President)
+Responsible compliance promoter at each company
+ Legal Unit, Risk Control Division (Support Desk)
+Management and control of the promoting system
+Employees of each Group company
+    Referrals and consulting
+Corporate Report 2019 36
+ Management Systems
+Corporate Governance / Compliance
+Whistle-blowing system Collaboration
+KYOWA EXEO CORPORATION:
+
+ Management Systems
+   Risk Management
+Basic Policy
+The KYOWA EXEO Group’s basic policy for risk management is as follows:
+(1) When setting strategies and business performance targets and practicing efforts to achieve them, we seek integration of
+strategies and risk management by considering risk profiles, risk appetite, risk capacity and risk tolerance.
+(2) By recognizing risks clearly at an earlier stage and promptly providing as many choices as possible for risk management,
+we reduce the possibility of unachieved business targets, losses, accidents and failures.
+(3) By monitoring risks on a regular basis, we address any deviation from intended performance swiftly and with consistency.
+(4) With a grasp of our comprehensive and consistent risk portfolio, we seek optimum allocation of the Group’s resources.
+Risk Management System
+The KYOWA EXEO Group sets forth its basic rules on risk management in the “Risk Management Rules” and sets up risk categories and corresponding Risk Management Divisions. In addition, the Group established and has been operating the Business Risk Management Committee as the Group-wide risk manager to identify and evaluate Group-level risks.
+  Risk Management System
+   Board of Directors
+ Board of Statutory Auditors
+Supervision
+Report
+attend to and monitor the appropriateness and effectiveness of measures taken to address risks and the status of correction.
+ <Management>
+Business Risk Managers
+Heads of organizational units at the Company’s Head Office, branch managers and presidents of subsidiaries
+(1st-tier risk manager)
+Internal Control Committee
+Business Risk Management Committee
+Group-wide risk manager
+<Risk Management Division>
+   President
+ Management Council
+     Support Division
+The Company’s Head Office staff unit
+(2nd-tier risk manager)
+Internal Audit Division
+(3rd-tier risk manager)
+  Business Risk Management Committee
+As the Group-wide risk manager, the committee was established to provide the risk management systems required to accomplish strategies and business performance targets in the process of creating, maintaining and realizing value and to steadily provide the Group’s stakeholders with reasonable expectations that risks can be controlled to a tolerable amount.
+Business Risk Manager (1st-tier Risk Manager)
+As the 1st-tier risk managers, the Business Risk Managers set forth strategies that are consistent with the KYOWA EXEO Group’s mission, vision and core values. In addition, the managers develop concrete action plans and manage the progress thereof to address risks according to the environments of their organizations and in line with the risk-addressing policies presented by the Support Division teams.
+Support Division (2nd-tier Risk Manager)
+As the 2nd-tier risk managers, the Support Division teams provide guidelines for addressing the category of risks they
+Risk Management Category
+ 37 Corporate Report 2019
+Risk Management Category
+Business risk
+Business
+environment Management risk
+risk Management strategy risk
+Business process risk
+Risk relating to changes in the management and business environments
+Risk relating to the decision making concerning management and business strategies, etc.
+Risk relating to daily business operations
+Risk relating to the occurrence of natural disasters
+Business Risk Management Committee
+—
+Description of the Risk
+Committee
+  Disaster risk
+   Internal Audit Division (3rd-tier Risk Manager)
+As the 3rd-tier risk manager, the Internal Audit Division conducts internal audits of the performance of the Business Risk Managers to identify problems and matters to be improved, issues recommendations for improvement, provides the latest information on the matters to be improved and verifies the status of improvement.
+ 
+   Utilization of the ISO-Compliant Management Systems
+From among the business process risks, the Company utilizes the ISO-compliant management systems to manage the risks relating to quality assurance, environmental conservation, occupational health and safety and information security. We formulate policies for managing these risks by using the relevant risk assessment methods given in the ISO management systems and implement the policies while making ongoing improvements in the effectiveness and appropriateness of business operations.
+The Company and major subsidiaries acquired a group- based ISO certification and are committed to standardize the management procedures by implementing ISO- compliant management systems in a unified manner across the Group. Taking the opportunity of the ISO quality and environment management system updates with the 2015 revisions, we reviewed the management system certification system which focuses on the internal rules in effect to streamline the process.
+In addition, the KYOWA EXEO Group was awarded the JMAQA AWARDS 2019 by the Japan Management Association (JMA)—an ISO certification body for KYOWA EXEO—for the visualization of the effects of ISO certification by operating multiple management systems and taking the Group’s unique approach.
+Efforts to Ensure Information Security, etc.
+ISO Management Systems of which certification has been acquired
+  JIS Q 9001:2015
+JIS Q 14001:2015
+BS-OHSAS 18001:2007
+JIS Q 27001:2014
+February 22, 1999 May 12, 2000
+September 19, 2003 November 10, 2004
+         As a necessary part of operating its business, the KYOWA EXEO Group handles important information, including data on technologies and customers held by its customers and other parties. With the expansion of networking, as represented by the spread of the cloud service and social networking service (SNS), it is increasingly important to ensure the appropriate manage- ment of information. Accordingly, we are strengthening our efforts regarding information security and the protection of personal information.
+Efforts to ensure information security
+JMAQA AWARDS 2019 Trophy
+L e f t: Masami Nakamura, Chairman of JMA Right: Takao Nonaka, MS Promotion Unit
+Leader, KYOWA EXEO CORPORATION
+ The KYOWA EXEO Group has established a system for managing information security by designating an officer who assumes the overall responsibility for information security, as well as providing a manager with the chief responsibility and people working on information management at each business division. The Information Security Committee decides policies on group security, discusses measures to prevent the recurrence of any information security accidents,
+and monitors and evaluates the status of any improvements in overall security matters to enhance the Group’s information security on a continuous basis.
+Furthermore, the Group also provides all of its employees with information security training and simulation exercises to repel targeted e-mail attacks, while conducting various kinds of security checkups every year.
+Category
+Quality Management System
+Occupational Health and Safety Management System
+Date of Registration
+ Environment Management System
+  Information Security Management System
+  The Company engages in a broad range of business operations and handles a large amount of personal information in the process of carrying out these operations. In the recognition that appropriately managing such information is a corporate social responsibility, we are promoting efforts to ensure the protection of private information under the Privacy Policy.
+In response to the implementation of the Amended Act on the Protection of Personal Information in May 2017, we reviewed and enhanced our privacy management measures by
+taking an inventory of personal information held and reviewing the management of records concerning the provision and receipt of personal information.
+To ensure the continued protection of personal information in an appropriate manner, we have continually updated our certification of the Personal Information Protection Management System (the seventh update this year), for which the Company received a letter of appreciation from the JIPDEC.
+Efforts to protect personal information
+ For the details of the KYOWA EXEO Privacy Policy, visit:
+http://www.exeo.co.jp/company/ppolicy.html
+Applicable Standards
+Corporate Report 2019 38
+ Management Systems
+Risk Management
+
+     Involvement in the Environment
+   While Promoting Resources Recycling and Effective Utilization of Resources, Developing Environment Preservation Activities Toward the Prevention of Global Warming and Other Concerns
+Environmental Management
+The Group works to reduce the environmental impact accompanying business activities, and every employee acts with “what he/she can and he/she should do” in mind.
+  Basic Stance on Environment
+Preservation Activities
+Coexistence with the global environment is a social responsibility of corporations and is a significant element in creating a sustainable society.
+The KYOWA EXEO Group engages in business activities as a company that offers customer-satisfying solutions based on its core IC networking technologies. The Group therefore pays careful attention to coordination with the environment in its business activities and endeavors
+to reduce the environmental impact that inevitably accompanies such activities.
+Utilization of the Environment
+Management System
+In promoting the environmental management system (ISO14001), of which certification has been continuously obtained since May 2000, the Company works to reduce the environmental impact on an ongoing basis through companywide environment preservation activities according to the PDCA cycle. The Company identifies predictable environmental risks, which are determined depending on onsite working environments, the location conditions of the building and other factors, sets up specific environment- related targets and extensively applies them to all the departments at the Head Office and branches.
+Efforts towards Environment
+Preservation Activities
+Environment preservation activities cannot be continued without a strong awareness regarding the improvement of environmental issues and persistent efforts. Meanwhile, every employee of the Group is committed to environment preservation activities with “what he/she can and he/she should do” in mind—always taking into account the effects of business activities on global environment.
+    PICK UP
+Hirose River “Ichimannin” Cleanup Project
+On September 29, 2018, some employees of the Company participated in a cleanup activity in the Hirose River basin in Sendai City, Miyagi Prefecture. With the tagline of “Ichimannin,” meaning 10,000 people, which equals one percent of Sendai’s population of one million, the cleanup project enjoyed the participation of nearly 2,000 people. Blessed with fine weather without being influenced by a typhoon, we conducted a cleanup of the river basin. The amount of garbage collected in this annual cleanup project, which reached its 26th year, has been declining each year. Why not visit the Hirose River basin to see how clean it has become?
+ 39 Corporate Report 2019
+
+     Environmental business
+The Company contributes to promoting a recycling-oriented society through involvement in the design, construction and main- tenance of renewable energy facilities, including solar power generation facilities and biomass boilers.
+By effectively recycling waste or appropriately disposing of waste if it is not recyclable, we will continue to contribute to preserving the global environment and a society where we can live in security.
+ Solar power generation business
+Solar power facilities of our own
+Solar power facilities of other companies
+Panel installation capacity
+277
+Electricity generated
+25
+Building a better, brighter future together
+  GWh (Electricity used by 5,155 households per year)
+MW
+  5 20
+142 135
+Power generating output (MW)
+    (950)
+Wood biomass business
+Thermal output (MW)
+(4,205)
+  Output
+28 MW
+Output 2.5 MW
+    7 21 0.8 1.7
+Energy recovery business
+Throughput (ton/day)
+296
+747tons per day
+451
+Recycling business
+Throughput (ton/day)
+25 129
+154 tons per day
+                 FY2017 Grand Prize for Excellence in Energy Efficiency and Conservation
+Offering modern energy service that’s affordable and reliable
+The Company and Tepco Customer Service Corporation Limited were awarded the FY2017 Grand Prize for Excellence in Energy Efficiency and Conservation— Chairman Prize for The Energy Conservation Center, Japan (ECCJ) in the Product Category & Business Model Category—for the energy-saving service using IoT provided by electricity retailers.
+This prize recognized the TCS’s Energy Management Service, an energy conservation service via control of air-conditioning
+equipment, which helps solve common issues when small- to medium-sized business proprietors introduce energy conservation measures—maintaining comfort, easy on-site operation and less barriers for introduction, as well as the Company’s cloud-type platform technology for energy control, which enabled the TCS’s Energy Management Service.
+Western Japan Area Eastern Japan Area
+  Corporate Report 2019 40
+ Involvement
+in the Environment
+Environmental Management
+
+  Involvement in the Environment
+Fiscal 2018 Material Balance of the Company (Non-consolidated)
+To make environment-friendly business activities effective and reduce the accompanying environmental load as much as possible, we strive to understand and analyze the kinds of resources and energy sources that are used and the environmental load that has been produced.
+   INPUT OUTPUT
+    Total energy input 168,368 GJ
+Electric power purchased Solarpowergenerationelectricityoutput City gas
+LPG
+Gasoline Light oil Kerosene
+13,507 MWh 62 MWh
+169 km3 0 km3
+1,057 kl 177 kl 4 kl
+   Electricity generated and sold 25,318 MWh
+  Water resource input 72 km3
+Totalgreenhouseeffectgasemissions 14,859 tons(CO2 conversion)
+Electric power sourced Fuel sourced
+Waste sourced
+Water resource sourced
+6,133 tons (CO2 conversion) 3,090 tons (CO2 conversion) 5,616 tons (CO2 conversion)
+19 tons (CO2 conversion)
+  Wasteemissionsandrecycledvolume 38,080 tons
+Industrial waste emissions General waste emissions Total recycled volume
+4,125 tons 110 tons 33,844 tons
+    Total displacement 72 km3
+Environment-friendly business activities
+  Company cars
+Head office
+Business offices
+     Content of Activities
+Five branches, of which the business area is located near EXEO’s forests (Mori), regularly conduct forest preservation and cleaning activities such as maintenance of walking trails, mowing of bottom weeds, cutting ivy and putting up bird houses.
+Forest exploration is also conducted as part of the recre- ation activities for employees and their families. Such events are also used for enlightening activities to explain the im- portance of preventing global warming and biodiversity preservation.
+  41 Corporate Report 2019
+ Initiatives toward Prevention of Global Warming and Preservation of Biodiversity
+  EXEO’s forests (Mori), which extending nationwide, are groomed by employees’ hands
+Embracing the opportunity of the Company’s 50th anniversary of its foundation, forest preservation activity started and the Company continues to maintain government-owned forests for up to 60 years.
+Seizing the opportunity of the 50th anniversary of its foundation, the Company became strongly conscious of the prevention of global warming and contributing to local communities. Giving its approval to the maintenance enhancement campaign of forest resources, which was then promoted by the Forestry Agency, the Company entered into a profit-sharing afforestation contract* with the Hokkaido, Tohoku, Kansai, Kyushu, Chugoku and Kyushu regional forest offices regarding so-called corporate forests. The Company named the forests “EXEO’s forests” and continues their maintenance activity, which also serves as an occasion for social assembly and recreation among employees and their families.
+*Profit-sharing afforestation contract: Agreement on the maintenance activities of government-owned forests (natural forests), which are premised on there being no logging.
+ Area
+Absorbed and fixed CO2 volume (in terms of CO2 emitted by a person in a year)
+  Area
+Absorbed and fixed CO2 volume (in terms of CO2 emitted by a person in a year)
+    Chugoku Branch
+3.29ha
+Kyushu Branch
+5.36ha
+6.5t
+(20 persons)
+15.4t (48 persons)
+    
+    3.4
+       Area
+Absorbed and fixed CO2 volume (in terms of CO2 emitted by a person in a year)
+Area
+Absorbed and fixed CO2 volume (in terms of CO2 emitted by a person in a year)
+ Area
+Absorbed and fixed CO2 volume (in terms of CO2 emitted by a person in a year)
+    Tohoku Branch
+2.48ha
+Kansai Branch
+5.1t
+(16 persons)
+2.8t
+(9 persons)
+Kure-shi, Hiroshima
+Hokkaido Branch
+3.10ha
+Chitose-shi, Hokkaido
+Shiroishi-shi, Miyagi
+8.4t
+(26 persons)
+            1.14ha
+Uto-shi, Kumamoto
+Nishinomiya-shi, Hyogo
+           Nationwide
+15.37ha
+38.2t (119 persons)
+   Area
+Absorbed and fixed CO2 volume (in terms of CO2 emitted by a person in a year)
+         Fiscal 2018 Initiatives Regarding the Prevention of Global Warming
+As for the reduction of power consumption, power-saving measures for equipment are taken including the conversion of electric appliances to energy-saving type ones and the enhanced use of inverters for diverse equipment. In addition, companywide initiatives mainly taken by the responsible person on each floor
+include setting the energy-saving mode for PCs, removing unnecessary lighting devices, turning off lights during lunchtime hours and setting appropriate temperatures for air conditioners. Moreover, every employee aggressively promotes electricity- saving activity in his/her daily actions.
+Change in power consumption (per square meter)
+(kWh/m2) 16
+Change in city gas consumption (at the Head Office building) (per square meter)
+Change in gasoline and light oil consumption (per travel distance)
+(m3/m2) 6
+5.4
+( /thousand km)
+   5.0
+5.0
+4.1
+120 80 40
+92.6
+81.0
+ 12 5
+78.0 77.0 77.1
+   4 83
+2
+8.26 8.14 8.11 8.03 4
+7.72
+      1
+0 2014 2015 2016 2017 2018 0 2014 2015 2016 2017 2018
+0 2014 2015 2016 2017 2018
+   Promotion of Recycling and Effective Utilization of Resources
+The KYOWA EXEO Group proactively addresses abating volumes and the appropriate treatment of waste, as well as promoting its reuse as recycled resources in the pursuit of reduced waste volume and complete recycling. The waste category covered by this initiative is industrial waste produced from the construction work of information and communication facilities and general waste discharged from offices.
+Asphalt, concrete debris, electric wire trash, etc., are properly treated via a sorting control for further reuse or recycling. More- over, ongoing initiatives include the enhanced use of proper amounts for work materials, requests for collection of packaging materials to suppliers and guidance on the necessary steps to workers for recycling via onsite patrols.
+Change in industrial waste emissions (per value of finished work)
+Change in general waste emissions (per person)
+Change in total recycled volume
+(tons)
+45,000 37,678 33,843
+30,000 26,014 25,957 24,102 15,000
+0 2014 2015 2016 2017 2018
+(kg/¥million) 300
+194.1
+175.5
+(kg/person) 40
+30 29.4
+22.6
+    200 100
+126.4
+20 16.8
+15.5
+12.4
+162.8 149.7
+0 2014 2015 2016 2017 2018
+      10
+0 2014 2015 2016 2017 2018
+   Corporate Report 2019 42
+Involvement
+in the Environment
+Environmental Management
+
+         Financial Section
+  Financial Highlights (Consolidated)
+  ■Orders Received ■Net Sales (¥Millions)
+■Gross Profit (¥Millions)
+35,740 35,795
+2015/3 2016/3
+■Ordinary Income (¥Millions)
+18,589 18,512
+2015/3 2016/3
+■Total Assets ■Net Assets (¥Millions)
+58,337
+  300,912 301,446
+2015/3
+324,102 298,825 325,029 312,669
+424,318 423,727
+2019/3
+31,716
+2019/3
+40,219
+2019/3
+300,438 287,437 35,795 18,412 18,512 12,184 238,301 151,241
+43,354
+   287,437
+38,480
+      ■Operating Income (¥Millions)
+18,358 18,412
+2015/3 2016/3
+25,621 20,873
+300,438
+  2016/3
+2017/3
+2018/3
+2017/3 2018/3 2019/3
+33,431
+26,448 21,409
+2017/3 2018/3 2019/3
+            ■Profit attributable to owners of parent (¥Millions)
+  12,264
+2015/3
+12,184
+2016/3
+13,789
+2017/3
+228,422 146,768
+2015/3
+324,102 298,825 38,480 20,873 21,409 13,789 243,438 158,280
+238,301 151,241
+243,438 158,280
+2017/3
+325,029 312,669 43,354 25,621 26,448 17,993 261,305 176,101
+261,305 176,101
+2018/3
+416,483
+267,811
+2019/3
+2017/3
+2018/3
+17,993
+2018/3
+301,446 300,912 35,740 18,358 18,589 12,264 228,422 146,768
+        2016/3
+(¥Millions)
+        Orders Received
+Net Sales
+Gross Profit
+Operating Income Ordinary Income
+Profit attributable to owners of parent Total Assets
+Net Assets
+2015/3
+2016/3
+2017/3
+2018/3
+2019/3
+      424,318
+423,727
+58,337
+31,716
+33,431
+40,219
+416,483
+267,811
+  43 Corporate Report 2019
+
+ Trends by Segment (Consolidated)
+Orders Received by Business Segment (Consolidated)
+(¥Millions)
+301,446
+2015/3
+424,318
+NTT group engineering
+NTT group engineering
+NCCs
+Urban infrastructure
+SYSTEM- SOLUTIONS
+Total
+NTT group engineering
+NTT group engineering
+NCCs
+Urban infrastructure
+SYSTEM- SOLUTIONS
+Total
+NCCs
+2015/3
+160,375
+34,492 73,573
+33,004 301,446
+NCCs
+2015/3
+162,729 36,669 67,905
+33,608 300,912
+NCCs
+2015/3
+44,539 8,313 48,141
+4,461 105,455
+Urban infrastructure
+SYSTEM-SOLUTIONS
+(¥Millions)
+196,613
+NTT group engineering
+NTT group engineering
+NCCs
+Urban infrastructure
+SYSTEM- SOLUTIONS
+Total
+Urban infrastructure
+SYSTEM-SOLUTIONS
+118,384 105,455
+2015/3
+2016/3
+2017/3
+2018/3
+2019/3
+300,438
+2016/3
+324,102
+2017/3
+325,029
+2018/3
+2019/3
+2016/3
+167,963
+20,233 72,315
+39,926 300,438
+2017/3
+182,281
+28,795 72,774
+40,251 324,102
+2018/3
+166,294
+31,836 84,145
+42,751 325,029
+(¥Millions)
+2019/3
+189,937
+39,009 123,303
+72,067 424,318
+Net Sales by Business Segment (Consolidated)
+(¥Millions)
+300,912
+2015/3
+423,727
+Urban infrastructure
+SYSTEM-SOLUTIONS
+287,437
+2016/3
+298,825 312,669
+2017/3 2018/3
+2019/3
+2016/3
+160,587 23,249 65,749
+37,851 287,437
+2017/3
+168,336 23,345 67,365
+39,778 298,825
+2018/3
+167,418 28,138 74,571
+42,541 312,669
+(¥Millions)
+2019/3
+203,634 38,026 108,618
+73,477 423,727
+Outstanding Orders by Business Segment (Consolidated)
+143,589
+2016/3
+51,915 5,296 54,707
+6,465 118,384
+2017/3
+65,860 10,745 60,115
+6,867 143,589
+2018/3
+64,737 14,444 69,690
+7,060 155,932
+155,932
+(¥Millions)
+2019/3
+66,293 20,200 94,841
+15,278 196,613
+Building a better, brighter future together
+Financial Section
+Corporate Report 2019 44
+
+ Financial Section
+   Profitability Indices (Consolidated)
+  ■Gross Profit to Net Sales (%)
+13.9 13.8
+■Operating Income to Net Sales (%)
+  11.9
+2015/3
+12.5 12.9
+7.0 6.4
+8.2
+2018/3
+7.5
+2019/3
+■Ordinary Income to Net Sales (%)
+■Profit Attributable to Owners of Parent to Net Sales
+6.2
+2015/3
+7.2 6.4
+2016/3
+2017/3 2018/3 2019/3 2015/3
+8.5 (%) 7.9
+9.5
+2019/3
+6.1
+  2016/3 2017/3 2018/3 2019/3
+2015/3 2016/3
+2017/3
+  ■Return on Equity ■Return on Assets ■Total Assets Turnover (%) 18.3 (Times)
+4.1
+4.2
+2016/3
+5.8 4.6
+2017/3 2018/3
+   10.8
+8.7 8.2 8.9 11.9
+7.1
+5.5 5.2 5.7
+2015/3 2016/3 2017/3 2018/3 2019/3
+Gross Profit to Net Sales (%) 11.9 Operating Income to Net Sales (%) 6.1 Ordinary Income to Net Sales (%) 6.2 Profit Attributable to Owners of Parent to Net Sales (%) 4.1 Return on Equity (%) 8.7 Return on Assets (%) 5.5 Total Assets Turnover (Times) 1.35
+1.35 1.23
+2015/3 2016/3
+12.9 7.0 7.2 4.6 8.9 5.7 1.24
+1.24 1.23 1.25
+   2017/3 2018/3
+13.9 8.2 8.5 5.8 10.8 7.1 1.23
+2019/3
+        2015/3
+2016/3
+12.5 6.4 6.4 4.2 8.2 5.2 1.23
+2017/3
+2018/3
+2019/3
+      13.8
+7.5
+7.9
+9.5
+18.3
+11.9
+1.25
+  45 Corporate Report 2019
+
+    Stability Indices (Consolidated)
+  ■Shareholders’ Equity to Total Assets (%)
+■Current Ratio (%)
+217.5
+2015/3 2016/3
+■Fixed Assets Ratio (%)
+61.3 66.6
+2015/3 2016/3
+■Debt Equity Ratio
+64.0
+2015/3
+63.3
+2016/3
+64.8
+2017/3
+66.6
+2018/3
+194.4
+2018/3
+738.6
+2018/3
+63.4
+2019/3
+171.5
+2019/3
+232.4 191.0
+247.4
+211.3
+    ■Quick Assets to Current Liabilities (%)
+2017/3 2018/3
+64.0 61.1
+2017/3 2018/3
+8.1
+6.5
+2017/3 2018/3
+66.6 247.4 194.4
+61.1 738.6 6.5
+2019/3
+66.2
+2019/3
+10.3
+2019/3
+ 170.8
+2015/3
+151.4
+2016/3
+182.1
+2017/3
+   ■Interest Coverage Ratio (Times)
+(%)
+10.8
+2016/3
+64.8 232.4 182.1
+64.0 234.4 8.1
+ 619.3
+2015/3
+90.7 2016/3
+234.4 2017/3
+259.1 2019/3
+5.9
+2015/3
+           Shareholders’ Equity to Total Assets (%) Current Ratio (%)
+Quick Assets to Current Liabilities (%) Fixed Assets Ratio (%)
+Interest Coverage Ratio (Times) Debt Equity Ratio (%)
+64.0 63.3 217.5 191.0 170.8 151.4
+61.3 66.6 619.3 90.7 5.9 10.8
+2015/3
+2016/3
+2017/3
+2018/3
+2019/3
+      63.4
+211.3
+171.5
+66.2
+259.1
+10.3
+  Corporate Report 2019 46
+ Financial Section
+
+ Financial Section
+   Stock Price Indices (Consolidated)
+  ■Earnings Per Share (¥)
+390.25
+2019/3
+7.8
+2019/3
+■Book-value Per Share (¥)
+       123.83
+2015/3
+125.90
+2016/3
+189.42 145.24
+1,482.82
+2015/3
+■Price Earnings Ratio (Times)
+2017/3
+11.1
+2017/3
+46.0
+2017/3
+2018/3
+15.0
+2018/3
+50.0
+2018/3
+■Price Book-value Ratio (Times)
+0.9
+0.8
+2017/3
+1.0
+2017/3
+2018/3
+1.5
+2018/3
+1,569.09
+2016/3
+1,842.97 1,668.29
+2,343.43
+2019/3
+1.3
+2019/3
+25.7
+17.9 2019/3
+    10.4
+2015/3
+9.9
+2016/3
+2015/3
+2016/3
+  ■Cash Dividends Per Share (¥)
+38.0 32.0
+■Payout Ratio 70.0 (%)
+■Total Shareholder Return Ratio 71.4
+53.6
+26.4 30.2 31.7 26.4
+2016/3 2017/3 2018/3
+        2015/3
+2016/3
+2019/3
+123.83 125.90 1,482.82 1,569.09 10.4 9.9 0.9 0.8 32.0 38.0 25.8 30.2 50.2 71.4
+50.2
+25.8
+2015/3
+        Earnings Per Share (yen) Book-value Per Share (yen) Price Earnings Ratio (Times) Price Book-value Ratio (Times) Cash Dividends Per Share (yen) Payout Ratio (%)
+Total Shareholder Return Ratio (%)
+145.24 189.42 1,668.29 1,842.97 11.1 15.0 1.0 1.5 46.0 50.0 31.7 26.4 53.6 26.4
+2015/3
+2016/3
+2017/3
+2018/3
+2019/3
+      390.25
+2,343.43
+7.8
+1.3
+70.0
+17.9
+25.7
+  47 Corporate Report 2019
+
+    Other Indices (Consolidated)
+■Selling, General and Administrative Expenses (¥Millions)
+26,620
+■Capital Expenditures (¥Millions)
+    17,382 17,382
+2015/3 2016/3
+■Depreciation Expenses (¥Millions)
+17,607
+2017/3
+3,251
+2017/3
+8,074
+2017/3
+17,732
+13,215
+2016/3
+          2,660
+2015/3
+3,001
+2016/3
+8,679
+2015/3
+16,299
+2016/3
+4,219
+2015/3
+7,139
+2017/3
+12,825
+2017/3
+4,256
+3,887
+  2018/3 2019/3
+4,725
+3,272
+2018/3 2019/3
+13,151
+8,311
+2018/3 2019/3
+■Interest-bearing Debt (¥Millions)
+2018/3 2019/3
+18,049 11,435
+2018/3 2019/3
+      ■Number of employees (People)
+7,988 7,903
+2015/3 2016/3
+              Selling, General and Administrative Expenses (¥Millions) 17,382 Capital Expenditures (¥Millions) 4,219 Depreciation Expenses (¥Millions) 2,660 Interest-bearing Debt (¥Millions) 8,679 Number of employees (People) 7,988
+17,382 13,215 3,001 16,299 7,903
+17,607 7,139 3,251
+12,825 8,074
+17,732 4,256 3,272
+11,435 8,311
+2015/3
+2016/3
+2017/3
+2018/3
+2019/3
+      26,620
+3,887
+4,725
+18,049
+13,151
+  Corporate Report 2019 48
+ Financial Section
+
+ Financial Section
+    Consolidated Balance Sheets
+ASSETS
+Current assets
+Cash and deposits
+Notesreceivable, accountsreceivablefromcompletedconstructioncontracts Short-term investment securities
+Costs on uncompleted construction contracts and other Deferred tax assets
+Other current assets
+Allowance for doubtful accounts Noncurrent Assets
+Property, plant and equipment Buildings and structures
+Machinery, vehicles, tools, furniture and fixtures Land
+Other property and equipment Intangible assets
+goodwill
+Other intangible assets Investments and other assets
+Investment securities
+Net defined benefit asset
+Other investments and other assets Allowance for doubtful accounts
+LIABILITIES
+Current liabilities
+Notes payable, accounts payable for construction contracts Short-term loans payable
+Income taxes payable
+Advances received on uncompleted construction contracts Provision for bonuses
+Provision for directors’ bonuses
+Provision for warranties for completed construction Provision for loss on construction contracts Provision for Loss on dissolved welfare pension fund Other current liabilities
+Noncurrent liabilities Bonds payable
+Long-term loans payable
+Deferred tax liabilities
+Provision for directors’ retirement benefits Allowance for investment loss
+Net defined benefit liability
+Other noncurrent liabilities
+NET ASSETS
+Shareholders’ Equity Capital stock
+Capital surplus Retained earnings Treasury stock
+Accumulated other comprehensive income Valuation difference on available-for-sale securities Foreign currency translation adjustment Remeasurements of defined benefit plans
+Subscription rights to shares Non-controlling interests
+138,813 12,526 84,691 11,765 22,010
+4,976 2,903 (60) 89,609 52,005 17,732 2,408 30,342 1,521 6,278 3,065 3,213 31,325 16,896 11,774 4,474
+(1,819)
+63,819 35,193 2,180 1,964 2,248 1,049 173 296 5,456 123 15,134 17,834 — 5,974 5,732 262 17 4,682 1,163
+134,696 6,888 6,879 137,957
+(17,029) 11,579 5,157 35 6,386 263 229
+137,950 16,244 93,055
+91 21,515 3,355 3,688
+(1) 100,350 59,830 20,615 4,043 34,370 801 6,477 1,983 4,494 34,043 17,777 13,467 4,161
+(1,363)
+72,241 37,629 13,336
+2,562 3,255 1,124
+138 907 258
+76 12,952 14,818 — 2,413 5,557 244 95 4,809 1,697
+139,922 6,888 7,939 147,004
+(21,910) 10,821 4,121 28 6,671 241 255
+142,395 15,431 96,080
+63 24,159 3,733 2,927
+(0) 101,042 62,002 20,074 4,710 36,197 1,021 4,414 1,053 3,360 34,626 17,093 14,520 4,228
+(1,216)
+61,283 36,606 826 4,142 3,457 1,242 129 57 507 — 14,314 23,874 10,000 1,390 5,244 257 206 4,925 1,851
+147,333 6,888 7,978 156,477
+(24,011) 10,470 3,566 15 6,888 288 187
+2018/3
+152,365 26,095 92,185
+4,499 27,617 — 1,967
+(1) 108,940 62,664 21,003 4,542 36,602 516 3,909 658 3,251 42,365 19,833 17,947 4,819
+(235) 261,305
+63,161 34,802 1,012 5,004 3,574 1,421 126 58 290 — 16,870 22,042 10,000 10 4,966 272 42 5,070 1,680 85,204
+161,682 6,888 8,098 169,883
+(23,187) 13,891 5,198 11 8,681 285 242 176,101 261,305
+(¥Millions)
+2019/3
+241,708 41,805 156,361 895 38,401 — 4,403
+(158) 174,774 97,955 31,603 8,738 55,403 2,209 14,762 10,259 4,502 62,056 37,917 16,283 8,341
+(485) 416,483
+114,406 59,265 13,069
+7,498 5,487 3,744
+420 86 344 — 24,489 34,265 10,000 4,659 6,965 604 — 9,283 2,753 148,671
+252,870 6,888 47,868 204,647
+(6,534) 11,026 4,603 (65 6,488 355 3,559 267,811
+416,483
+     2015/3
+  2016/3
+  2017/3
+       Total assets
+  228,422
+  238,301
+  243,438
+        Total liabilities
+  81,653
+  87,060
+  85,158
+    Total net assets
+ 146,768
+ 151,241
+ 158,280
+ Total liabilities and net assets
+ 228,422
+ 238,301
+ 243,438
+   49 Corporate Report 2019
+
+    Consolidated Statements of Income
+    2015/3
+ 2016/3
+ 2017/3
+ 2018/3 2019/3
+ Net sales of completed construction contracts
+ 300,912
+ 287,437
+ 298,825
+ 312,669 423,727
+     Cost of sales of completed construction contracts Selling, general and administrative expenses
+Interest income
+Dividends income
+Foreign exchange gains
+Reversal of allowance for doubtful accounts Land and house rent received
+Gain on sales of non-current assets Reversal of allowance for investment loss Gain on exchange of investment securities Gain on step acquisitions
+Other
+Interest expenses
+Rent expenses
+Loss on sales of noncurrent assets Loss on retirement of noncurrent assets Loss on valuation of investment securities Foreign exchange losses
+Impairment loss
+Other
+Gain on sales of noncurrent assets
+Gain on sales of investment securities Gain on abolishment of retirement benefit plan Gain on bargain purchase
+Impairment loss Goodwill amortization
+Income taxes-current Income taxes-deferred Total income taxes
+265,171 251,642 17,382 17,382
+26 21 243 266 438 —
+— 441 146 157 — 261 — — — — — — 399 289
+52 57 — 44 313 138 — — — — — 397 208 — 449 701
+1,180 — — — — — — —
+— — — —
+6,823 4,203 669 2,086 7,493 6,290
+260,344 17,607
+4 315 — 111 572 437 — 203 — 290
+49 185 516 45 — 143 — 458
+— 1,262 209 —
+2,159 —
+7,719 (737) 6,982
+(¥Millions)
+269,315 365,389
+17,732 26,620
+4 16 403 537 — — — — 401 295 114 592 170 — — — — 346 303 679
+33 48 — — 57 4 68 118
+1 106 169 — — 135 241 340
+— — — — — — — 18,313
+— — — 126
+8,018 11,943 375 (658) 8,393 11,284
+     Gross profit on completed construction contracts
+    Non-operating income
+Extraordinary loss
+     Income before income taxes and minority interests
+Consolidated Statements of Comprehensive Income
+35,740
+18,358
+1,254
+19,769
+12,276
+35,795
+18,412
+1,438
+18,512
+12,222
+38,480
+20,873
+20,721
+13,739
+43,354 58,337
+25,621 31,716
+     Operating income
+ 1,936
+1,398 2,468
+     Non-operating expenses
+1,024
+18,589
+1,338
+18,512
+1,400
+21,409
+571 753
+26,448 33,431
+     Ordinary income
+     Extraordinary income
+1,180
+—
+1,471
+— 18,313
+     —
+—
+2,159
+— 126
+26,448 51,617
+18,054 40,333
+     Net income
+     Profit (loss) attributable to non-controlling interests
+11
+37
+(50)
+     Profit attributable to owners of parent
+12,264
+12,184
+13,789
+61 113
+17,993 40,219
+       (¥Millions)
+        2015/3
+2016/3
+2017/3
+2018/3
+2019/3
+        Net income
+Valuation difference on available-for-sale securities Foreign currency translation adjustment Remeasurements of defined benefit plans Total accumulated other comprehensive income
+Breakdown
+Comprehensive income attributable to owners of the parent Comprehensive income attributable to non-controlling interests
+1,526 36 4,592 6,154
+18,397 33
+(1,035) (554) 1,631 (18) (30) (10) 285 216 1,793
+(769) (368) 3,414
+11,426 13,438 21,413 26 (68) 55
+12,276
+12,222
+13,739
+18,054
+40,333
+      Other comprehensive income
+(625)
+(92)
+(2,193)
+(2,911)
+      Comprehensive income
+18,430
+11,452
+13,370
+21,469
+37,421
+37,354
+67
+  Corporate Report 2019 50
+ Financial Section
+
+ Financial Section
+   Consolidated Statements of Changes in Net Assets
+     2015/3
+  2016/3
+  2017/3
+       Shareholders’ equity Capital stock
+Balance at the beginning of current period
+Capital surplus
+Balance at the beginning of current period Changes of items during the period
+Disposal of treasury stock
+Changes in Stock exchange
+Increase in treasury stock due to increase in consolidated subsidiaries
+Retained earnings
+Balance at the beginning of current period
+Cumulative effects of changes in accounting policies Changes of items during the period
+Dividends from surplus
+Profit attributable to owners of parent Change of scope of consolidation
+Treasury stock
+Balance at the beginning of current period Changes of items during the period
+Purchase of treasury stock
+Disposal of the treasury stock
+Changes in Stock exchange
+Increase in treasury stock due to increase in consolidated subsidiaries Acquisition of own shares via trust
+Transfer of own shares via trust
+Total shareholders’ equity
+Balance at the beginning of current period
+Cumulative effects of changes in accounting policies Changes of items during the period
+Dividends from surplus
+Profit attributable to owners of parent
+Purchase of treasury stock
+Disposal of the treasury stock
+Changes in Stock exchange
+Increase in treasury stock due to increase in consolidated subsidiaries Change of scope of consolidation
+Change in equity due to additional acquisition of consolidated subsidiary stock Acquisition of own shares via trust
+Transfer of own shares via trust
+Accumulated other comprehensive income Valuation difference on available-for-sale securities
+Balance at the beginning of current period Changes of items during the period
+Net changes of items other than shareholders’ equity
+Foreign currency translation adjustment Balance at the beginning of current period Changes of items during the period
+Net changes of items other than shareholders’ equity
+Remeasurements of defined benefit plans Balance at the beginning of current period Changes of items during the period
+Net changes of items other than shareholders’ equity
+Total accumulated other comprehensive income Balance at the beginning of current period Change of items during the period
+Net changes of items other than shareholders’ equity
+Subscription rights to shares
+Balance at the beginning of current period Changes of items during the period
+Net changes of items other than shareholders’ equity
+Minority interests
+Balance at the beginning of current period Changes of items during the period
+Net changes of items other than shareholders’ equity
+Total net assets
+Balance at the beginning of current period
+Cumulative effects of changes in accounting policies Changes of items during the period
+Dividends from surplus
+Profit attributable to owners of parent
+Purchase of treasury stock
+Disposal of treasury stock
+Changes in Stock exchange
+Increase in treasury stock due to increase in consolidated subsidiaries Change of scope of consolidation
+Change in equity due to additional acquisition of consolidated subsidiary stock Acquisition of own shares via trust
+Transfer of own shares via trust
+Net changes of items other than shareholders’ equity
+6,888 6,888 6,888
+6,645 6,879 7,939
+234 1,060 38 — — — — — —
+130,822 137,957 147,004 (2,352) — 22
+(2,776) (3,137) (4,338) 12,264 12,184 13,789 — — —
+(14,487) (17,029) (21,910)
+(3,002) (5,002) (3,002) 460 2,057 167 — — — — — — — (2,600) — — 664 733
+129,868 134,696 139,922 (2,352) — 22
+(¥Millions)
+2018/3 2019/3
+6,888 6,888 —— 6,888 6,888
+Total changes of items during the period
+ —
+ —
+ —
+ Balance at the end of current period
+6,888
+6,888
+6,888
+    7,978 8,098 120 123
+— 39,639
+— 7 120 39,770 8,098 47,868
+Total changes of items during the period
+234
+1,060
+38
+Balance at the end of current period
+ 6,879
+ 7,939
+ 7,978
+   156,477 169,883 — —
+(4,588) (5,433) 17,993 40,219
+— (21) 13,405 34,764 169,883 204,647
+Total changes of items during the period
+9,487
+9,047
+9,450
+Balance at the end of current period
+ 137,957
+ 147,004
+ 156,477
+   (24,011) (23,187) (3) (3,015)
+311 277 — 19,862 — (1,157) — —
+515 685
+823 16,653 (23,187) (6,534)
+147,333 161,682 — —
+Total changes of items during the period
+ (2,542)
+ (4,880)
+ (2,101)
+ Balance at the end of current period
+(17,029)
+(21,910)
+(24,011)
+ (2,776) (3,137) (4,338) 12,264 12,184 13,789
+(4,588) (5,433) 17,993 40,219
+(3,002) (5,002) (3,002) 694 3,117 206 — — — — — — — — — — — — — (2,600) — — 664 733
+(3) (3,015) 431 400 — 59,502
+Total changes of items during the period
+ 7,179
+ 5,226
+ 7,388
+ Balance at the end of current period
+134,696
+139,922
+147,333
+  3,631 5,157 4,121 1,525 (1,036) (554)
+21 35 28 14 (7) (12)
+1,794 6,386 6,671 4,592 285 216
+5,446 11,579 10,821 6,132 (758) (350)
+175 263 241 88 (22) 47
+195 229 255 33 26 (68)
+135,687 146,768 151,241 (2,352) — 22
+— (1,157) — (21) — 7 — —
+515 685 14,349 91,187 161,682 252,870
+3,566 5,198
+1,631 (594) 1,631 (594) 5,198 4,603
+15 11
+Total changes of items during the period
+1,525
+(1,036)
+(554)
+Balance at the end of current period
+ 5,157
+ 4,121
+ 3,566
+   (2,776) (3,137) (4,338) 12,264 12,184 13,789
+(4,588) (5,433) 17,993 40,219
+(3,002) (5,002) (3,002) 694 3,117 206 — — — — — — — — — — — — — (2,600) — — 664 733
+(3) (3,015) 431 400 — 59,502
+6,254 (754) (371)
+— (1,157) — (21) — 7 — —
+515 685 3,471 522 17,820 91,710 176,101 267,811
+(4) (76)
+(4) (76) 11 (65)
+Total changes of items during the period
+14
+(7)
+(12)
+Balance at the end of current period
+ 35
+ 28
+ 15
+   6,888 8,681
+1,793 (2,193) 1,793 (2,193) 8,681 6,488
+10,470 13,891
+Total changes of items during the period
+4,592
+285
+216
+Balance at the end of current period
+ 6,386
+ 6,671
+ 6,888
+   3,420 (2,865)
+3,420 (2,865) 13,891 11,026
+Total changes of items during the period
+6,132
+(758)
+(350)
+Balance at the end of current period
+ 11,579
+ 10,821
+ 10,470
+   288 285
+(3) 70
+(3) 70 285 355
+Total changes of items during the period
+88
+(22)
+47
+Balance at the end of current period
+ 263
+ 241
+ 288
+   187 242
+55 3,317
+55 3,317 242 3,559
+Total changes of items during the period
+ 33
+ 26
+ (68)
+ Balance at the end of current period
+229
+255
+187
+ 158,280 176,101 — —
+Total changes of items during the period
+ 13,434
+ 4,472
+ 7,016
+ Balance at the end of current period
+ 146,768
+ 151,241
+ 158,280
+    51 Corporate Report 2019
+
+    Consolidated Statements of Cash Flows
+    2015/3
+ 2016/3
+ 2017/3
+ Net cash provided by (used in) operating activities
+ 23,167
+ 5,389
+ 15,504
+        Income before income taxes and minority interests Depreciation and amortization Impairment loss
+Amortization of goodwill
+Gain on bargain purchase
+Increase (decrease) in allowance for doubtful accounts Increase (decrease) in provision for bonuses Increase (decrease) in provision for warranties for completed construction Increase (decrease) in provision for loss on construction contracts Increase (decrease) in net defined benefit asset (liability) Interest and dividends income
+Interest expenses
+Loss (gain) on sales of noncurrent assets Loss (gain) on sales of investment securities Decrease (increase) in notes and accounts receivable-trade Decrease(increase) incostsonuncompletedconstructioncontractsandother Decrease (increase) in other operating assets Increase (decrease) in notes and accounts payable-trade Increase(decrease) inadvancesreceivedonuncompletedconstructioncontracts Increase (decrease) in other operating liabilities Loss (gain) on sales of investment securities Gain on exchange of investment securities Gain on abolishment of retirement benefit plan Other, net
+Sub-total
+Interest and dividends income received Interest expenses paid
+Income taxes paid
+Purchase of property and equipment
+Proceeds from sales of property, plant and equipment
+Purchase of intangible assets
+Purchase of investment securities
+Proceeds from sales of investment securities
+Purchase of investments in subsidiaries resulting in change in scope of consolidation
+Payments of loans receivable
+Collection of loans receivable
+Decrease (increase) in time deposits and other Other, net
+Net increase (decrease) in short-term loans payable Proceeds from issuance of bonds Repayment of long-term loans payable Proceeds from long-term loans payable Redemption of bonds
+Purchase of treasury stock
+Proceeds from sales of treasury stock Acquisition of own shares via trust Transfer of own shares via trust
+Cash dividends paid
+Other, net
+19,769 18,512 2,660 2,857 208 71 849 1,082 — —
+(32) (514) (347) 75 — 611
+4,631 (5,197) (2,004) (1,339) (270) (288)
+52 57 (867) (122) — — 8,095 (8,419)
+877 487 (623) (423) (454) 2,438 277 1,006 189 (2,673)
+— (0) — — — — 44 483
+33,055 8,705 270 288 (37) (59)
+(10,121) (3,545)
+(3,434) (10,467) 1,990 1,533 (612) (2,137)
+(738) (2,570) 203 10
+(361) —
+— (30) 109 4
+— (298) 16 49
+(6,799) 5,703 — — (124) (708) — 2,600
+(110) — (3,002) (5,002) 669 3,008 — (2,600)
+— 664 (2,777) (3,133) (199) (218)
+20,721 3,251 2,159
+929 —
+(148) 117 (850) 248 (399) (319) 49 79 —
+(3,127) (2,659) 965 (1,014)
+204 2,671 (1,262)
+(203) (209) 390
+21,595 318 (66)
+(6,343)
+(5,761) 901 (2,416)
+(443) 1,686
+—
+(111) 1
+44 72
+(12,306) 9,991 (1,227) — —
+(3,002) 153 — 733
+(4,329) (244)
+(¥Millions)
+2018/3 2019/3
+24,800 12,770 26,448 51,617 3,272 4,725 0 135 395 1,201
+— (18,313) (980) 50 179 419 0 28
+(216) (106) (694) (1,231) (407) (554)
+33 48 (56) (580) 0 (67) 3,892 (28,202)
+(3,447) 701 2,175 (1,009) (1,802) 9,240
+118 198 2,327 4,528 0 — — — — — 285 356 31,523 23,187 408 552
+(33) (49) (7,098) (10,920) (4,538) (17,609) (3,214) (2,757)
+352 698 (1,010) (1,079) (429) (484)
+0 233 — (16,961)
+(204) (358) 1 3,098 1 20
+(35) (20) (5,137) (4,924) (100) 4,130
+— — (1,093) (2,474) — 1,260
+— — (3) (3,015) 308 339
+— — 515 685 (4,581) (5,425)
+(182) (426) (23) (113) 15,101 (9,877)
+15,241 30,343
+— 55 — 20,948
+30,343 41,469
+ Net cash provided by (used in) investing activities
+ (2,828)
+ (13,907)
+ (6,027)
+  Net cash provided by (used in) financing activities
+ (12,343)
+ 313
+ (10,230)
+  Effect of exchange rate change on cash and cash equivalents
+  83
+  (49)
+  (42)
+ Net increase (decrease) in cash and cash equivalents
+8,078
+(8,254)
+(796)
+ Cash and cash equivalents at beginning of period
+  16,213
+  24,291
+  16,037
+ Increase (decrease) in cash and cash equivalents resulting from change of scope of consolidation
+—
+—
+—
+ Increase in cash and cash equivalents due to share exchange
+ —
+ —
+ —
+ Cash and cash equivalents at the end of period
+  24,291
+  16,037
+  15,241
+        Corporate Report 2019 52
+ Financial Section
+
+ Financial Section
+   Financial Highlights (Non-consolidated)
+  ■Orders Received ■Net Sales (¥Millions)
+287,206 279,060
+2019/3
+■Gross Profit (¥Millions)
+21,326 21,586
+2015/3 2016/3
+■Ordinary Income (¥Millions)
+12,735 10,962
+2015/3 2016/3
+■Total Assets ■Net Assets (¥Millions)
+31,611 27,696
+         10,012
+2015/3
+■Net Income (¥Millions)
+13,235
+9,399
+10,073
+11,210
+      2016/3 2017/3
+2018/3
+2019/3
+19,897
+2019/3
+241,884 227,521 21,586 10,073 12,735 9,399 200,289 103,958
+2018/3
+223,073
+2019/3
+307,897
+197,990
+268,356
+268,514 256,864
+2018/3
+   236,672 236,236
+2015/3
+227,521 241,884
+243,546
+        ■Operating Income (¥Millions)
+26,365 19,413
+2016/3 2017/3
+23,220
+2017/3
+12,225
+2017/3
+205,965
+2018/3
+2019/3
+18,119 15,153
+    17,120
+14,619
+           2015/3
+2016/3 2017/3
+2018/3
+236,236 236,672 21,326 10,012 10,962 13,235 188,122 102,552
+188,122
+102,552
+2015/3
+268,356 243,546 23,220 11,210 12,225 17,120 205,965 114,129
+200,289
+103,958
+2016/3
+114,129
+2017/3
+268,514 256,864 27,696 15,153 19,413 14,619 223,073 126,671
+126,671
+2018/3
+2019/3
+(¥Millions)
+        Orders Received Net Sales
+Gross Profit Operating Income Ordinary Income Net Income
+Total Assets Net Assets
+2015/3
+2016/3
+2017/3
+2018/3
+2019/3
+      287,206
+279,060
+31,611
+18,119
+26,365
+19,897
+307,897
+197,990
+  53 Corporate Report 2019
+
+ Trends by Segment (Non-consolidated)
+Orders Received by Business Segment (Non-consolidated)
+(¥Millions)
+236,236 241,884
+287,206
+NTT group engineering
+NTT group engineering
+NCCs
+2015/3
+125,428
+Urban infrastructure
+2016/3 2017/3
+141,628 159,656
+19,790 27,597 57,408 58,825
+23,056 22,276 241,884 268,356
+Urban infrastructure
+2016/3 2017/3
+132,765 146,591 22,536 22,649 51,350 51,714
+20,869 22,590 227,521 243,546
+SYSTEM-SOLUTIONS
+2015/3 2016/3
+2017/3
+2018/3
+2019/3
+Urban infrastructure
+SYSTEM- SOLUTIONS
+Total
+NTT group engineering
+NTT group engineering
+NCCs 35,582
+268,356
+268,514
+Net Sales by Business Segment (Non-consolidated)
+(¥Millions)
+236,672
+279,060 256,864
+SYSTEM-SOLUTIONS
+2015/3
+2017/3
+2018/3
+2018/3
+Urban infrastructure
+SYSTEM- SOLUTIONS
+Total
+227,521
+2016/3
+127,237
+2018/3
+146,674 27,164 59,612
+23,412 256,864
+243,546
+(¥Millions)
+2019/3
+146,174 30,381 75,900
+26,603 279,060
+NCCs 33,662
+2018/3
+145,425
+30,909 68,802
+23,376 268,514
+(¥Millions)
+2019/3
+137,235
+32,080 90,161
+27,729 287,206
+56,687
+20,458 236,236
+NCCs
+2015/3
+53,444
+20,407 236,672
+Financial Section
+Corporate Report 2019 54
+
+ Financial Section
+    Non-consolidated Balance Sheets
+ASSETS
+Current assets
+Cash and deposits
+Noncurrent assets
+Property, plant and equipment
+Tools, furniture and fixtures Land
+Lease assets
+Construction in progress
+Intangible assets Software
+Other intangible assets Investments and other assets
+Investment securities
+Stocks of subsidiaries and affiliates Long-term loans receivable from subsidiaries and associates Claims provable in bankruptcy, claimed provable in rehabilitation and other Long-term prepaid expenses
+Prepaid pension cost
+Other investments and other assets Allowance for doubtful accounts
+LIABILITIES
+Current liabilities
+Accounts payable for construction contracts Short-term loans payable
+Lease obligations
+Accounts payable-other
+Accrued expenses
+Income taxes payable
+Advances received on uncompleted construction contracts Deposits received
+Provision for warranties for completed construction Provision for loss on construction contracts Other current liabilities
+Noncurrent liabilities Bonds payable
+Long-term loans payable Lease obligations
+Deferred tax liabilities Allowance for investment loss Asset retirement obligations Other noncurrent liabilities
+NET ASSETS
+Shareholders’ equity Capital stock
+Capital surplus
+Legal retained earnings
+Reserve for advanced depreciation of noncurrent assets Reserve for special account for advanced depreciation of non-current assets General reserve
+Retained earnings brought forward
+Treasury stock
+Valuation and translation adjustments
+Valuation difference on available-for-sale securities
+Subscription rights to shares
+2018/3
+(¥Millions)
+2019/3
+     2015/3
+  2016/3
+  2017/3
+       Notes receivable-trade
+Accounts receivable from completed construction contracts Short-term investment securities
+Costs on uncompleted construction contracts Finished goods
+Raw materials and supplies
+Short-term loans receivable
+Prepaid expenses
+Deferred tax assets
+Other current assets
+Allowance for doubtful accounts
+(46) 79,936 39,372 12,733 1,191 1,169
+590 22,459 223 1,003 3,003 2,159 844 37,560 13,836 19,653 642 56 65 2,506 2,315
+(1,517)
+78,210 35,085 1,073 96 2,170 4,724 414 1,332 26,290 76 5,175 1,771 7,358 — 5,000 153 1,993 17 121 72
+97,745 6,888 7,373 1,547 2,088
+— 74,600 22,277
+(17,029) 4,544 4,544 263
+— 90,769 47,541 15,219 1,849 2,547
+690 26,671 253 310 4,315 2,921 1,394 38,912 14,417 19,891 — 56 186 3,611 1,914
+(1,165)
+91,408 41,292 12,000
+103 1,993 5,142 954 2,590 26,132 774 258 166 4,922 — 2,010 179 1,900 95 287 449
+100,186 6,888 8,433 1,547 2,151 — 74,600 28,475
+(21,910) 3,530 3,530 241
+Buildings
+Structures
+Machinery and equipment
+108,185 9,074 1,147 63,863 11,765 14,365 — 79 2,500 277 3,332 1,823
+109,519 12,990 772 74,487 90 12,963 — 540 2,617 326 1,794 2,935
+113,459 12,452 1,374 75,397 63 14,571 405 737 3,722 336 1,956 2,442 — 92,505 50,779 14,673 2,230 3,421
+126,425 22,257 488 76,342 4,499 17,466 568 689 2,576 392 — 1,143 — 96,648 51,676 15,358 2,289 3,216
+138,390 14,563 314 89,485 — 20,706 343 785 9,755 516 — 1,918 — 169,506 50,974 14,758 2,207 3,230 Vehicles 00000
+550 29,263 205 432 3,207 2,704 502 38,519 13,469 19,987 — 55 118 4,095 1,831
+(1,038)
+77,968 40,413 — 95 1,000 6,117 2,032 2,806 23,371 21 356 1,751 13,868 10,000 1,235 141 1,425 192 439 434
+110,915 6,888 8,471 1,547 2,363 — 74,600 41,055
+(24,011) 2,924 2,924 288
+540 29,930 164 175 3,104 3,007 96 41,867 16,091 19,749 — 55 39 5,091 900
+(61) 223,073
+84,555 40,368 389 70 1,652 6,806 2,932 2,831 27,645 45 275 1,538 11,847 10,000 — 119 651 42 503 530 96,402
+121,890 6,888 8,592 1,547 2,362 — 74,600 51,087
+(23,187) 4,495 4,495 285 126,671 223,073
+773 29,859 115 28 2,670 2,565 105 115,861 16,199 92,256 — 55 28 6,360 1,016
+(55) 307,897
+98,260 43,995 4,000 62 1,471 8,094 3,305 3,359 32,011 74 264 1,621 11,646 10,000 — 69 943 — 562 70 109,906
+192,771 6,888 48,355 1,547 2,361 318 74,600 65,234
+(6,534) 4,863 4,863
+355 197,990 307,897
+Total assets
+  188,122
+  200,289
+  205,965
+        Total liabilities
+  85,569
+  96,330
+  91,836
+    Total net assets
+ 102,552
+ 103,958
+ 114,129
+ Total liabilities and net assets
+ 188,122
+ 200,289
+ 205,965
+   55 Corporate Report 2019
+
+   Non-consolidated Statements of Income
+  (¥Millions)
+      Net sales of completed construction contracts
+Non-operating income
+2015/3
+236,672
+2016/3
+227,521
+2017/3
+2018/3
+    256,864
+2019/3
+  243,546
+279,060
+247,449
+      Gross profit on completed construction contracts
+21,326
+21,586
+23,220
+27,696
+31,611
+13,492
+      Operating income
+10,012
+10,073
+11,210
+15,153
+18,119
+      1,504
+3,644
+1,749
+4,746
+9,068
+105
+7,561
+489
+1
+—
+—
+569
+341
+      Non-operating expenses
+554
+982
+734
+485
+822
+15
+7
+96
+290
+129
+95
+—
+—
+—
+188
+      Ordinary income
+10,962
+12,735
+12,225
+19,413
+26,365
+      Extraordinary income
+6,669
+—
+10,750
+—
+—
+      Extraordinary loss
+—
+—
+2,148
+—
+363
+      Income before income taxes
+17,632
+12,735
+20,827
+19,413
+26,002
+      Income taxes-current
+3,837
+1,276
+4,065
+4,305
+5,974
+      Income taxes-deferred
+558
+2,059
+(358)
+488
+129
+      Total income taxes
+4,396
+3,336
+3,707
+4,794
+6,104
+      Net income
+13,235
+9,399
+17,120
+14,619
+19,897
+          Cost of sales of completed construction contracts
+Selling, general and administrative expenses
+Interest income
+Interest on securities
+Dividends income
+Land and house rent received
+Foreign exchange gains
+Reversal of allowance for doubtful accounts Gain on sales of non-current assets Other
+Interest expenses
+Interest on bonds
+Loss on valuation of investment securities Loss on valuation of shares of subsidiaries and associates Rent expenses
+Loss on retirement of non-current assets Foreign exchange losses
+Provision of allowance for investment loss Impairment loss
+Other
+215,346 205,934 220,326 229,167 11,313 11,513 12,010 12,543
+33 43 37 40
+13 10 0 1 193 2,392 259 3,608 466 397 783 630 474 — — — 168 — — —
+— 231 402 57 155 569 266 407
+57 48 35 6 — — 1 15 — — — — — — — —
+202 137 260 164 — — — 28 — 400 150 170 — 78 96 20
+150 — — — 144 318 190 79
+Corporate Report 2019 56
+ Financial Section
+
+ Stock Information
+   (as of March 31, 2019)
+Fiscal Year-End
+Annual Shareholders’ Meeting
+Stock Listing Ticker Code Common Stock
+Total Number of Shareholders
+Transfer Agent and Registrar
+March 31
+June 22, 2018
+Tokyo Stock Exchange (First Section)
+1951
+Authorized: 300,000,000 shares Issued: 117,812,419 shares
+19,734
+Sumitomo Mitsui Trust Bank, Limited 1-4-1, Marunouchi, Chiyoda-ku, Tokyo, Japan
+Major Shareholders
+Japan Trustee Services Bank, Ltd. (Trust Account)
+The Master Trust Bank of Japan, Ltd. (Trust Account)
+ESOP Association of KYOWA EXEO CORPORATION
+BBH FOR MATTHEWS JAPAN FUND
+SUMITOMO LIFE INSURANCE COMPANY
+Sumitomo Realty & Development Co., Ltd.
+Japan Trustee Services Bank, Ltd. (Sumitomo Electric Industries, Ltd., Retirement Benefit Trust Account reentrusted by Sumitomo Mitsui Trust Bank, Limited)
+Japan Trustee Services Bank, Ltd. (Trust Account 5)
+JP MORGAN CHASE BANK 385151
+Japan Trustee Services Bank, Ltd.
+(Sumitomo Mitsui Trust Bank, Retirement Benefit Trust Account)
+15,550 13.81
+6,934 6.16
+4,037 3.59
+3,606 3.20
+2,296 2.04
+2,081 1.85
+1,834 1.63
+1,721 1.53
+1,608 1.43
+1,500 1.33
+   Number of shares held (thousand)
+  Percentage of total shares issued (%)
+            Stock Price Range and Trading Volume on the Tokyo Stock Exchange
+Stock Price (¥)
+3,400
+2,000
+600
+Note: The Company holds 5,201 thousand shares of treasury stock although those shares are not included in the above table.
+The percentage of total shares issued is calculated by excluding treasury stock.
+Composition of Shareholders
+Treasury stock 4.4%
+companies 1.3%
+ Financial institutions 39.6%
+Securities Foreign companies
+Individuals and others 19.1%
+24.5%
+Other corporations 11.1%
+Trading Volume (Million Shares)
+20 15 10 5
+                     57 Corporate Report 2019
+1 2 3 4 5 6 7 8 9 101112 1 2 3 4 5 6 7 8 9 101112 1 2 3 4 5 6 7 8 9 101112 1 2 3 4 5 6 7 8 9 101112 1 2 3 4 5 6 7 8 9 101112 1 2 3 0 2014 2015 2016 2017 2018 2019
+ 
+      Board of Directors (as of July 1, 2019)
+         Building a better, brighter future together
+               Chairman
+Fuminori Kozono
+President & CEO
+Tetsuya Funabashi
+Director and Executive Operating Officer
+Yoshiaki Matsuzaka
+Director and Executive Operating Officer
+Noritsugu Totani
+Director and Managing Operating Officer
+Yasuo Otsubo
+               Director and Managing Operating Officer
+Tomohiro Kurosawa
+Director and Managing Operating Officer
+Yuichi Koyama
+Director and Managing Operating Officer
+Hideo Higuchi
+Director
+Yuki Sakuyama
+Director
+Hiroaki Kubozono
+               Director
+Toshihiko Kumamoto
+Director
+Toshiro Ue
+Director (Independent Director)
+Kazuteru Kanazawa
+Director (Independent Director)
+Yasushi Kohara
+Director(Independent Director)*
+Naoko Iwasaki
+            Standing Statutory Auditor
+Yoshiharu Takizawa
+Standing Statutory Auditor
+Kazuo Sato
+Statutory Auditor (Independent Auditor)
+Kozo Meguro
+Statutory Auditor (Independent Auditor)
+Tomoko Aramaki
+  Eiichi Matsuda Yuji Sato Hideki Obara
+Koichi Mino Fumio Kumagai Kyoji Okabe
+Masato Suwabe Noriyuki Watabe Keijiro Shizukuishi
+Makoto Shirakata kosei Nakashima Kazunori Yuasa
+Hachizo Sato
+Eiji Fujimaki Masahito Oishibashi
+Yoshiaki Nanjyo Mitsuhisa Iwai Shinji Kumataka
+Mitsumasa Watanabe Fumiitoshi Imaizumi
+Managing Operating Officers
+Operating Officers
+Masahiro Kikuchi Hiroshi Akiduki Shinji Kojima
+Corporate Report 2019 58
+ Stock Information / Board of Directors
+
+ 

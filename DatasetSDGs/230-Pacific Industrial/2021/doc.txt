@@ -1,0 +1,2837 @@
+ Sustainability Report
+2021
+Sustainability Report 2021 Pacific Industrial Co., Ltd.
+
+  Pacific Industrial Co., Ltd. Sustainability Report 2021
+- BRAND SLOGAN -
+Pacific Industrial develops new businesses, new technologies and new products
+that add to safety, environmental performance and comfort.
+By doing so, we aspire to achieve sustainable growth as a company with a trusted reputation that meets the expectations of society. An expression of this aspiration is our Brand Slogan. In preparation for an upcoming mobility society,
+we will develop into a manufacturer capable of offering a prosperous,
+safe and secure future and help to realize a sustainable society.
+Toward this ambition, Pacific Industrial will create the future with passion.
+- CORPORATE PHILOSOPHY-
+As a Global Manufacturer of Technology Components,We Will...
+ 01
+Endeavor to develop and enhance technologies and to supply high quality products in response to the needs of customers.
+  02
+Value our employees as our essential family members and pledge to provide a place where they enjoy working and creating.
+  03
+Continue to contribute to society, confirming our role in the world as an excellent company as well as
+an environmentally conscious company.
+ 01 Pacific Industrial Co.,Ltd. Sustainability report 2021
+
+CONTENTS
+Introduction
+Brand Slogan/Corporate Philosophy 01 CONTENTS/Editorial Policy 02
+Message from the President 03 Introduction of
+the Pacific Industrial Group
+Overview 05 History 07 Way 09 Value Creation Model 11
+Management 21
+ Special Feature
+Top-level Discussion
+Creating Pacific Industrial’s Approach to Sustainability Management
+13
+Respecting human resources and their active participation
+Financial Highlights
+Materiality of the Pacific 17 Industrial Group
+Sustainability Management 19 Based on Materiality
+Sustainability Report 2021 Editorial Policy
+Fostering trust with stakeholders
+24
+ Solving social and customer
+issues through products 29
+Minimizing environmental load
+32
+37
+Consolidated Financial Statement (Summary)/ 41 Stock Information
+Summary of Major Operating Ratio 43 Third-party Opinion 44
+   Pacific Industrial Group has been publishing Sustainability Reports (former CSR Reports) since 2007 to promote and enhance dialogue with more of our stakeholders so as to build a sustainable society.
+We are currently promoting sustainability management based on the sustainability-related material topics that we identified last year, and we have organized our concept into fifteen material topics classified under four key pillars.
+Additionally, in our Top-Level Discussion, Keisuke Takegahara of the Development Bank of Japan’s Research Institute of Capital Formation, who advised us on material topics identification last year, gave us many valuable suggestions on how to manage sustainability, beginning with efforts to address climate change.
+We look forward to hearing your candid opinions.
+Other media
+Websites
+Websites provide comprehensive information related to sustainability, and discloses sustainability initiatives, figures, data and other details that could not be included in this Report as well as the latest information as necessary.
+Securities Report
+The Securities Report compiles corporate information, business segments, business result, stock information, risk-related information, financial information, and other information available at the end of the accounting period in accordance with the Financial Instruments and Exchange Act, and is disclosure material in which such information is described in full detail in paragraph format.
+Period Covered in the Report:
+From April 1, 2020 to March 31, 2021
+(includes the latest information at the time of publication)
+Boundary of the Report:
+The Pacific Industrial Group
+(In principle, the company and its consolidated subsidiaries. If disclosed data is different from it, the scope is described individually.)
+Publication Date:
+October 27, 2021
+Publisher:
+Pacific Industrial Co., Ltd. Corporate Planning Department Phone:+81-584-93-0110 Fax:+81-584-93-0112
+Guidelines Used as Reference:
+GRI Standards (GRI)
+The International Integrated Reporting Framework
+ISO26000
+Final Report
+Recommendations of the Task Force on Climate- related Financial Disclosures
+Sustainability Accounting Standards Board (Reference codes are attached to the relevant sections, including partial disclosures.)
+ Websites
+Provide comprehensive information on Sustainability
+   This Report
+Provides a summary of important information
+ This report contains forward-looking statements, including strategies, plans, targets, and other projections made based on currently available information. These Notes on outlook forward-looking statements are subject to risks, uncertainties, and other factors that could cause actual results to differ materially from those discussed in the
+forward-looking statements. Accordingly, there are no guarantees that the forward-looking statements contained in this report will prove to be accurate.
+Pacific Industrial Co.,Ltd. Sustainability report 2021 02
+
+Message from the President
+  Our aim is to achieve sustainable growth together with society by incorporating climate change and other sustainability issues into our management.
+The year 2020 marked our Group’s 90th anniversary. Thinking forward to our 100-year anniversary in 2030, as well as to the “tomorrow” that exists further beyond, we have set forth our PACIFIC GLOCAL VISION and are passionately promoting sustainability management in order to make important contributions to a society that is capable of enduring.
+Manufacturing That Takes Environmental Changes into Account
+The automobile industry is in the midst of a once-in- a-century major transformation, and the transition to a mobility society, including CASE and electrification, is accelerating. In the midst of this, and in light of growing needs for weight reduction and the progress in digital technology, we are working to strengthen our competitiveness by mobilizing the collective strength of our Group under the medium-term management plan OCEAN-22.
+In response to the spread of COVID-19, in fiscal year 2020 we glocally implemented measures to prevent the infection of our employees, their families, and local communities while maintaining employment and supply chains, and built a production system tailored to fluctuations. At the same time, we thoroughly implemented profit improvement activities in the face of significant production cutbacks.
+In the stamping business, we actively developed ultra-high tensile strength steel (UHTSS) and aluminum products that contribute to weight reduction, which is one of our strengths, and also expanded the scope of business into areas where needs are increasing in step with vehicle electrification, such as battery cases, functional parts such as those from forge presses, and plastic products that contribute to sound and vibration insulation.
+In the valve business, together with Schrader we offer a wide variety of products, including tire valves, on which our company was founded, Tire Pressure
+Monitoring Systems (TPMS), car air conditioner valves, and valves for industrial use. We are also responding to the needs of society and our customers by developing new products using sensor technology and technology that can be applied to new refrigerants for car air conditioners as an environmental preservation measure.
+Accelerating Sustainability Management with a Focus on Carbon Neutrality
+In response to expanding sustainability issues, such as climate change and human rights issues, last year we identified our “material topics,” which are key issues for the Pacific Industrial Group to fulfill based on the Sustainable Development Goals (SDGs).
+In order to effectively tackle these material topics, we organized and outlined each issue’s ideal state, major initiatives, and KPIs, and we will continue to listen to our stakeholders to understand social and environmental issues and integrate them into our management.
+A particularly urgent issue is “mitigation of and adaptation to climate change.” In Pacific Environmental Challenge 2050, which we developed last year, we set long-term targets for decarbonization. However, following the government’s announcement in April of this year of a 46% reduction target for 2030, the Sixth Assessment Report of the Intergovernmental Panel on Climate Change (IPCC) released in August reported the accelerating impact of climate change, making further efforts essential. In light of this, we are strengthening our efforts to achieve carbon neutrality, setting a reduction target of 50% compared to fiscal 2019 by
+03 Pacific Industrial Co.,Ltd. Sustainability report 2021
+ 
+ 2030. To achieve this target, in addition to the accumulation of daily improvement activities, we are accelerating our efforts, such as introducing carbon pricing into capital investment decisions through internal carbon pricing and actively introducing renewable energy.
+From Policies and Targets to Implementation
+Aside from climate change, in February we announced our Human Rights Policy, and have begun to implement human rights due diligence, including in supply chains. Furthermore, we believe that the health of our employees is a prerequisite for their success and, to promote health management, we announced our Health Declaration in September, and are developing a foundation for human rights and human resources initiatives.
+In this way, we have spent the past year sharing our policies and targets with our employees and stakeholders on important sustainability issues for our company. By implementing these measures going forward, we will weave the warp of the Group's business into the woof of sustainability, aiming to achieve sustainable growth together with society.We would like to ask for your continued guidance and support.
+Shinya Ogawa
+President ,Member of the Board
+ Pacific Industrial Co.,Ltd. Sustainability report 2021 04
+  
+Overview of Pacific Industrial Group
+Pursuing “Glocal” Corporate Activities Under a Global Quadrilateral System
+Company Profile
+Name :
+Head Office location :
+Established :
+President, Member of the Board: Capital stock :
+Number of employees : Businesses :
+Stock Listings : Security code :
+Main Products
+■ Stamping and Molding Products
+Overview by Business Segment
+We operate in three main business segments: stamping and molding product business, valve product business, and other (information service) business.
+  Pacific Industrial Co., Ltd.
+100 Kyutoku-Cho, Ogaki City,
+Gifu Prefecture, 503-8603 Japan
+TEL 0584−91−1111 (main switchboard) August 8, 1930
+Shinya Ogawa
+7,316 million yen (As of March 31, 2021) 1,987 (consolidated: 4,797) Manufacturing and sales of automotive parts and electronics parts
+The Tokyo and Nagoya Stock Exchanges (1st sections)
+7250
+Stamping and Molding Product business
+Valve product business
+69.5
+104.5 billion yen
+%
+30.4
+   Net sales:
+150.4
+billion yen (FY2020)
+%
+45.7billion yen
+Operating income:
+Operating income:
+3.9
+billion yen
+4.9
+billion yen
+Net sales:
+ ■ Tire Valve Products
+      Pop Up Hood Hinge
+Engine Cover
+Oil Pan
+Hub
+Front Pillar Lower
+Hybrid Battery Case
+      Valve Core Tubeless TPMS Valve Transmitter
+          ■ Car Air Conditioner Products
+             05 Pacific Industrial Co.,Ltd. Sustainability report 2021
+Wheel Cap
+Cap Center Ornament
+Charging Valve Relief Valve
+■ Fuel System Products ■ Non-auto Parts
+Fuel Regulator Valve Valve for Aerospace
+Compressor Parts
+Valves for industrial machinery
+
+Global Network ( 13 companies in 8 countries outside Japan, 8 domestic bases and 4 companies in Japan )
+  ●Schrader SAS[SPF]
+●Pacific Industries Europe NV/SA[PIE]
+Pacific Industries USA Inc[. PIU]
+■●Pacific Manufacturing Ohio, Inc[. PMO] ■Pacific Manufacturing Tennessee, Inc[. PMT] ●Schrader-Bridgeport International, Inc[. SPU]
+Pacific Industrial Co., Ltd. ■Head Office / Nishi Ogaki Plant ■Higashi Ogaki Plant
+■●Yoro Plant
+■Kyushu Plant
+■Kurihara Plant
+■Wakayanagi Plant
+●Kita Ogaki Plant
+●Mino Plant
+■●PEC Holdings Corporatio[n PHD] ■Taiheiyo Sangyo Co., Ltd[. TSC] ▲PI System Co., Ltd[. PSC]
+      ●Pacific Valve Industrial Co., Ltd.[PVI] ●Pacific Air Controls Co., Ltd[. PAC]
+  U.K. Belgium
+France
+■●Pacific Valve (Taiwan) Co., Ltd[. PVT]
+China Japan
+South Korea Taiwan
+  ■●Pacific Industries (Thailand) Co., Ltd[. PIT]
+■Tianjin Pacific Auto Parts Co., Ltd[. TPA]
+■Changsha Pacific Hanya Auto Parts Co., Ltd[. CPH] ●Pacific Auto Parts Technology(Changshu) Co., Ltd[. PTC]
+U.S.
+ Thailand
+   Overview by Region
+Regional segments are categorized into Japan,Europe and the U.S., and Asia.
+27.7
+1.8
+■ Europe and the U.S.
+Number of Employees by Region
+■ Asia
+2075
+Highlights of Consolidated Results
+* Abbreviated in [ ] ※PHD is an equity method affiliate company
+ ■ Japan 1193
+4797
+(FY2020)
+   52.3
+1529
+Net Sales by Region
+150.4 70.2 billion yen
+(FY2020)
+1.5
+Operating Income by Region
+8.9 5.1 billion yen
+(FY2020)
+ Net sales
+(billion yen)
+150 100 50 0
+Ordinary income/Net income for the year attributable to owners of the parent
+Ratio of operating income to sales
+(billion yen)
+250 200 150 100
+50 0
+225.5 112.5
+,16 ,17 ,18 ,19 ,20
+(billion yen)
+24 18 12
+6 0
+16.24
+■Stamping and Molding Product Business ●Valve Product Business ▲Other
+150.4
+(billion yen)
+12 10 8 6 4 2
+Ordinary income
+  Net income for the year attributable to owners of the parent (%)
+11.2 10.0
+7.9 7.5 6.0 5.0
+2.5
+      ,16 ,17 ,18 ,19 ,20
+(Fiscal Year)
+0 ,16 ,17 ,18 ,19 ,20 ROE/ROA *ROA based on operating income
+ROE ROA
+(%)
+10.0
+7.5 7.6 5.0 4.2 2.5
+(Fiscal Year)
+0 ,16 ,17 ,18 ,19 ,20 Capital expenditures/Depreciation expenses
+  (Fiscal Year)
+(Fiscal Year)
+Depreciation expenses
+ Total assets/Net assets
+Total assets
+Net assets
+Capital expenditures
+,16 ,17 ,18 ,19 ,20
+             (Fiscal Year)
+0 ,16 ,17 ,18 ,19 ,20
+14.56
+(Fiscal Year)
+Pacific Industrial Co.,Ltd. Sustainability report 2021 06
+
+ History of the Pacific Industrial Group
+Promoting Innovation and Globalization
+   1930/Aug.
+PACIFIC INDUSTRIAL CO. (unlimited partnership) was founded to manufacture valve cores for automobiles.
+Valve cores packaged in boxes at the company’s founding
+1936/Aug.
+Received rights to the utility model of the valve core
+1938/Apr.
+Reorganized into PACIFIC INDUSTRIAL CO., LTD. and constructed a new plant.
+1946/Aug.
+Started doing business with Toyota Motor Company.
+1954/Jul.
+Qualified as a manufacturer of valve core products under the Japan Industrial Standard.
+1957/Jul.
+Introduced tubeless tire valves into the market.
+     1960/Nov.
+Set up Nishi Ogaki Plant and expanded the stamping business.
+1970/Aug.
+Listed in the TOKYO and NAGOYA STOCK EXCHANGES, 1st Sections.
+1972/Nov.
+Set up Kita Ogaki Plant and expanded the tire valve business.
+Kita Ogaki Plant
+1977/Sep.
+Set up Mino Plant as a plant specializing in the manufacturing of tire valves and valve cores.
+1982/Sep.
+Set up Yoro Plant as a plant specializing in the manufacturing of dies and molds.
+Yoro Plant
+     1984/Jun.
+Established PACIFIC VALVE (TAIWAN) CO., LTD. in Taiwan.
+1987/May
+Established PACIFIC VALVE INDUSTRIAL CO., LTD. in South Korea.
+PACIFIC VALVE INDUSTRIAL CO., LTD.
+1988/Jul.
+Established PACIFIC INDUSTRIES USA INC. in the United States.
+1989/Mar.
+Established PACIFIC INDUSTRIES (THAILAND) CO., LTD. in Thailand.
+1990/Nov.
+Set up Higashi Ogaki Plant as a plant specializing in the manufacturing of molding products.
+Higashi Ogaki Plant
+1999/May
+All the plants attained ISO 9001 Certification.
+      Founded by manufacturing valve cores
+The company was founded in 1930 with the challenge of developing automotive valve cores for the first time in Japan, and succeeded in producing valve cores* domestically, which was said to be “more difficult than making precision watches.”
+※Valve core is a component that maintains air pressure as a core of the valve through which air enters the tire.
+Started the stamping business
+Our stamping business started in 1949 after we became one of the partner factory for Toyota Motor Corp. in 1946. We delivered wheel caps for Toyopet, the first passenger car after the World War II.
+Production of radiator grilles, oil pans, trunk hinges, etc. started in succession.
+Expanded plants and businesses in Japan
+Nishi Ogaki Plant was set up in 1960, with two more factories built in the 1970s to expand valve business. Established a foundation for future growth by expanding domestic factories and businesses, including the start of control device business in 1970, molding business in 1979, electronics business in 1981, and dies and molds business in 1982.
+Nishi Ogaki Plant
+ Toyopet wheel cap
+     07 Pacific Industrial Co.,Ltd. Sustainability report 2021
+Production of radiator grilles, etc.
+1950 1940
+1930
+1980
+1970 1960
+1990
+
+ In 2020 we celebrated our 90th anniversary. Established in 1930 with the aim of domestically producing automotive valves core, we have grown into a global company by developing the stamping and molding business, developing TPMS, and integrating the Schrader Group.
+As we entered 2020 and COVID-19 spread around the world, we took on this challenge with the policy of “solidifying our foundations glocally, with our first priority being preventing infections and maintaining employment and production.”
+We will create the future with enthusiasm with the aim of realizing a sustainable society while leveraging the spirit and technology of “manufacturing” cultivated over many years.
+  1999/Jul.
+Established PACIFIC MANUFACTURING OHIO, INC. in the United States.
+PACIFIC MANUFACTURING OHIO, INC.
+2000/Oct.
+All domestic plants attained ISO 14001 Certification.
+2000/Dec.
+Began the production of TPMS transmitters.
+2002/Nov.
+Achieved cumulative global production of 10 billion valve core units and 5 billion tire valve units.
+Ceremony to celebrate the achievement of 10 billion valve cores units and 5 billion tire valves units
+2004/Sep.
+Established PACIFIC AIR CONTROLS CO., LTD. in South Korea.
+   2005/Apr.
+Established TIANJIN PACIFIC AUTO PARTS CO., LTD. in China.
+TIANJIN PACIFIC AUTO PARTS CO., LTD.
+2006/Dec.
+Set up Kyushu Plant as a production plant for stamping and molding products.
+Kyushu Plant
+2010/May
+Set up Kurihara Plant as a production plant for stamping and molding products.
+2011/Nov.
+Established CHANGSHA PACIFIC HANYA AUTO PARTS CO., LTD. in China.
+2012/May
+Established PACIFIC INDUSTRIES EUROPE NV/SA in Belgium.
+2012/Jun.
+Established PACIFIC INDUSTRIES CHINA
+CORPORATION in China.
+* Merger with TPA in August 2021
+   2013/Nov.
+Set up Wakayanagi Plant as a production plant for molding products.
+2014/Jan.
+Achieved cumulative global production of 100 million TPMS transmitters.
+Ceremony to celebrate the achievement of total 100 million units of TPMS transmitters
+2014/Jul.
+Established PACIFIC MANUFACTURING TENNESSEE, Inc. in the United States.
+2014/Jul.
+Established PACIFIC AUTO PARTS TECHNOLOGY (CHANGSHU) CO., LTD. in China.
+2014/Nov.
+Established PACIFIC AUTO PARTS (THAILAND) CO., LTD. in Thailand.
+* Integrated PIT in November 2020
+2018/Aug.
+Acquired Schrader valve business in the U.S. and France
+2020/Aug.
+Celebrated our company’s 90th anniversary
+     Established first overseas base
+We established PACIFIC VALVE (TAIWAN) CO., LTD. in Taiwan in 1984 as the first overseas base for our valve business. After that, we promoted globalization by expanding our bases into Korea, the United States, Thailand, China, Belgium and France.
+Developed next generation valve TPMS
+In 1999, we developed a TPMS transmitter as a next- generation valve for the IT age, which is a high value- added product made possible by combining the technologies we have accumulated over many years.
+The use of TPMS became required by law in the United States and demand has expanded to grow into one of our core products.
+TPMS clean room
+Acquired Schrader’s valve business
+We acquired Schrader valve business in the U.S. and France in August 2018.
+Our global quadrilateral system with production and sales bases in Japan, Asia, North America and Europe was established.
+SCHRADER-BRIDGEPORT INTERNATIONAL, INC.
+SCHRADER SAS
+      PACIFIC VALVE (TAIWAN) CO., LTD.
+TPMS transmitter
+Pacific Industrial Co.,Ltd. Sustainability report 2021 08
+ 2020
+2010
+2000
+
+The Pacific Industrial Group’s Vision
+ BRAND SLOGAN
+Pacific Industrial develops new businesses, new technologies and new products
+that add to safety, environmental performance and comfort.
+By doing so, we aspire to achieve sustainable growth as a company with a trusted reputation that meets the expectations of society. An expression of this aspiration is our Brand Slogan. In preparation for an upcoming mobility society,
+we will develop into a manufacturer capable of offering a prosperous,
+safe and secure future and help to realize a sustainable society.
+Toward this ambition, Pacific Industrial will create the future with passion.
+ PACIFIC VALUES
+The “PACIFIC VALUES” represent the universal values shared by members of the Pacific Industrial Group. We expressed the mental attitude that we want to cherish with the words “Dreams and Challenges” and “Trust and Respect,” with a focus on the company history and the ideas of our founder and predecessors, including the top management, as embodied in the founding spirit and the company motto.
+Principles of Conduct
+Our Attitude
+  Dreams and Challenges
+Trust and Respect
+ To Remain as a Company Needed by Society, Now and Into the Future
+Through the development of new businesses, new technologies, and new products that contribute to improving safety, environment, and comfort performance, we aspire to achieve sustainable growth as a company with trusted reputation that meets the expectations of society.
+The “Principles of Conduct” are the tenets we follow in consideration of how we affect our stakeholders, and call for every member of the Pacific Industrial Group to act sensibly and with high ethical standards as members of global society.
+Based on the “Principles of Conduct”, the “Code of Conduct” clearly defines for our employees the concrete judgment standards by which they shall make appropriate decisions and properly conduct themselves. Reflecting on the spirit of the “Principles of Conduct” and “Code of Conduct”, we shall act in the way we believe to be best based on our own conscience.
+  Customers
+ We will work to consistently communicate with our customers and to provide environmentally friendly, high-quality products and services that are trusted by, and satisfy, our customers.
+  Shareholders
+In order to garner trust and meet the expectations of our shareholders, we will place importance on bilateral communication and continuously strive to improve our corporate value by taking a long-term view.
+  Business Partners
+  Aiming at co-existence and co-prosperity based on mutual trust, we will respect our business partners and establish strong positive relationships with them on an equitable and fair basis.
+  Employees
+From the perspective of respect for human rights and dignity, we will provide a workplace where all employees can work at ease in an environment that allows them to find work they can be proud of and encourages them to demonstrate their creativity and spirit of challenge.
+  Environment
+  We always recognize the importance of environmental conservation in all our business activities, comply with laws and regulations related to the environment, and actively engage in environmental conservation activities based on our “Environmental Policies.”
+  Communities
+ In addition to contributing to the sustainable development of society through close partnership and cooperation with local communities, we also engage in social contribution activities (support for academics/culture/sports, participation in volunteer activities, international community contributions, etc.) to build bonds with local communities.
+  09 Pacific Industrial Co.,Ltd. Sustainability report 2021
+
+Long-Term Vision “PACIFIC GLOCAL VISION”
+ Pacific Industrial Group formulated our long-term “PACIFIC GLOCAL VISION 2020” in 2010, when we celebrated our company’s 80th anniversary, to clarify the Group’s dreams and mission.
+The automobile industry is currently undergoing a once-in a-century major transformation. Environmental and other social issues are becoming increasingly severe and necessitating companies taking steps to these social issues in good faith such as by setting up a robust governance system.Under such
+circumstances, the Pacific Industrial Group has tackled the challenge of new value creation through manufacturing and clarified the “aspired corporate image” as PACIFIC GLOCAL VISION by reviewing its long-term vision in pursuit of contribution to a sustainable society in 2018.
+Aiming to become a hundred-year company that achieves sustainable growth, we are committed to taking on the challenge toward a new future.
+  vision
+A truly GLOCAL company that is worthy of stakeholders’ trust, rooted in communities and able to co-exist and co-develop with them
+A company that leverages its core technology and continuously provides new business, new products and new technologies toward a sustainable society
+A company that values employees’ new ideas, challenges and ensures they feel the harmonious balance between life and work
+1
+2 3
+Mid-term management plan “OCEAN-22”
+We have been promoting “OCEAN-22”, our mid-term management plan that serves as a concrete action plan to realize our long-term vision, “PACIFIC GLOCAL VISION”.
+As part of our growth strategy, in the stamping and molding products business, we aim to provide high-value-added products, such as stamping of ultra-high tensile strength steel (UHTSS), that contribute to weight reduction and improvement of safety and environmental performance of automobiles. In the valve
+Priority initiatives
+Trust
+■Secure profitability and improve corporate value ■Strengthen governance and mitigate risks ■Enhance business through ESG management
+  vision vision
+   business, we are aiming to expand synergies with Schrader, which we acquired in 2018, and to increase orders for TPMS. Through these initiatives, we will solidify our manufacturing fundamentals and focus on strengthening our profit structure in preparation for the next great leap forward as well as developing human resources who will realize those changes, all while simultaneously improving upon our ESG (Environmental, Social, Governance) initiatives.
+   Innovation
+■Realize development and technology innovations ■Innovate production technologies making use
+of AI and IoT
+■Create highly efficient production lines through manufacturing reforms
+Challenge
+■Realize GLOCAL management toward achievement of SDGs
+■Promote diversity and develop next-generation human resources
+■Foster a corporate culture where employees can take on challenges
+ SDG Initiatives
+We believe that our mission is to contribute to the realization of a sustainable society. To achieve the Sustainable Development Goals (SDGs) advocated by the United Nations, we have identified the Group’s important topics (materiality) regarding sustainability, defined SDG themes to focus on, and been working on sustainability management.
+ Pacific Industrial Co.,Ltd. Sustainability report 2021 10
+
+Value Creation Model
+Pacific Industrial Group’s Value Creation Model
+A company that contributes to prosperous life and environment in next-generation mobility society through “monozukuri”
+Social issues
+● Climate change
+● Depletion of resources
+● Crisis of water resources
+● Biodiversity
+● Human rights issues
+● Damage to health
+● Population explosion and
+declining birthrate and aging population
+Business model
+   ● Trafficaccidents
+Internal and external management resources
+● ● ●
+● ● ● ●
+Risk
+Natural disasters and infectious diseases Declining birthrate and aging population
+Political and economic conditions in Japan and overseas
+Opportunity
+● Stricter safety and environmental regulations
+● Growth of the automobile market
+Automobile restructuring ● Application of AI and IoT
+Cyber security ● Intensifying global competition
+Securing and development of human resources
+Energy saving / weight reduction
+Environmental challenges (climate change/resources/water)
+●
+● Carbon neutrality
+  Financial capital
+Manufactured capital
+Intellectual capital
+Human capital
+Social and relationship capital
+Natural capital
+Sound and stable financial foundation
+Production equipment, metallic moldies and manufacturing know-how
+Development, evaluation and analysis technologies
+Global and domestic human resources
+Collaboration with stakeholders
+Raw materials, energy and resources
+Stamping and molding business
+Valve business
+New business
+         Management foundation
+Management corporate function
+Strength
+● UHTSS forming technologies that enable weight reduction and high rigidity
+● Electric vehicle (EV) technology, film insert molding technology,and noise and vibration (NV) performance control technology
+Valve business
+● Valve : Top share in the world and a global quadrilateral production and sales system
+: Fluid control/motorized control technologies and a wide variety of product line-up
+● TPMS : Technology for on-vehicle electrical equipment and overwhelming quality,as well as a global quadrilateral production and sales system New business
+● Wireless communication, sensory, and AI technologies
+11 Pacific Industrial Co.,Ltd. Sustainability report 2021
+ Stamping and molding business
+  
+The Pacific Industrial Group Way
+Brand Slogan
+Passion in Creating Tomorrow
+PACIFIC GLOCAL VISION
+Aspired corporate image
+A truly GLOCAL company that is worthy of stakeholders’ trust, rooted in communities and able to co-exist and co-develop with them
+A company that leverages its core technology and continuously provides new business, new products and new technologies toward a sustainable society
+A company that values employees’ new ideas, challenges and ensures they feel the harmonious balance between life and work
+    Sustainability management Four pillars
+ Solving social and customer issues through products
+Respecting human resources and their active participation
+Fostering trust with stakeholders Minimizing environmental load
+15 Material Topics
+  Trust Innovation Challenge
+ Mid-term Management Plan
+OCEAN-22
+PACIFIC VALUES
+“Dreams and Challenges” and “Trust and Respect”
+Pacific Industrial Co.,Ltd. Sustainability report 2021 12
+    Highlights Related to Value Creation
+Financial Highlights (FY2020)
+Net sales / 150.4 billion yen Operating income / 8.9 billion yen ROA / 4.2%
+Non-Financial Highlights
+Many awards received from domestic and overseas customers → p.26
+Human Rights Policy Formulation →p.37
+Health Declaration → p.38
+Conducted Self-Assessment of Code of Conduct and Supplier CSR Guidelines → p.24.25
+Drastic Waste Reduction → p.36
+    
+13
+Pacific Industrial Co.,Ltd. Sustainability report 2021
+Special Feature Top-Level Discussion
+Creating Pacific Industrial’s Approach to Sustainability Management
+ President ,Member of the Board Pacific Industrial Co., Ltd.
+SHINYA
+How to Confront Climate Change
+Ogawa: The Development Bank of Japan (DBJ) helped us when we expanded our Kurihara Plant in 2013. Thanks to your support, we now have more than 150 employees there, and our ties with Kurihara City, Miyagi Prefecture, where our plant is located, have been strong. Since then, you have helped us in so many ways, including an environmental rating assessment in 2018 and expert reviews on materiality identification last year.
+Takegahara: Although we have endeavored to help Pacific Industrial in various ways
+based on our understanding of the company’s business and initiatives, in preparation for this dialogue, I learned more about the history of your company and had the opportunity to deepen my understanding of your products and visit a plant.
+Ogawa: Thank you very much. As this is
+a dialogue on sustainability management,
+I hope to hear your advice for the future.
+In May, we endorsed the TCFD and began working on information disclosure in line with its framework.
+Takegahara: The TCFD was originally intended to prevent financial institutions from holding assets that are excessively risky because of climate change by receiving information from their business partners and
+managing it. Financial institutions expect the industries they do business with to maintain their business models, as that is the source of their earning power, and continue on
+a growth trajectory despite the major constraints, carbon neutrality, put on them. The TCFD is a framework to explore this.
+ Opinion exchange at the preliminary technical exhibition presentation
+ OGAWA
+
+Sustainability issues, with climate change at the forefront, are becoming increasingly important. President Ogawa had a conversation about the Group’s sustainability management with Mr. Keisuke Takegahara, Executive Fellow at Research Institute of Capital Formation, Development Bank of Japan, Inc., who reviewed our materiality identification last year and has a high level of knowledge about sustainability management, including the TCFD* and non-financial information disclosure. They provided numerous insights into the challenges faced in taking the next step and what we should cherish as a company.
+*TCFD: Task Force on Climate-related Financial Disclosures. An international framework for understanding and disclosing the impact of climate change-related risks and opportunities on corporate strategy and finance.
+  Ogawa: In terms of the risk disclosure required by the TCFD, there is an example of Ogaki City in Gifu Prefecture, which is
+a city of abundant of water and therefore there is an inherent flood risk. For some time, we have been working together with the government on measures such as improving drainage capacity and elevating facilities, but risks are increasing along with climate change. Going forward, we must think comprehensively and change our plants to ones that can continue to produce sustainably. On top of that, reducing CO2 emissions is a major issue.
+Takegahara: When we talk about climate change, the biggest point of contention
+is CO2 reduction. However, if we look at
+just Japan, our emissions changed little during the so-called lost 30 years. The target of carbon neutrality by 2050 is to reduce CO2 emissions to zero in the next
+30 years, which shows just how drastic
+a change is required. In the automobile industry, considering the overwhelming amount of CO2 (Scope 3) emitted through use of automobiles, Pacific Industrial’s role in contributing to reducing CO2 emissions during automobile use through products that lead to weight reduction, such as ultra-high tensile strength steel (UHTSS), is significant. You have also introduced a number of other products that contribute to CO2 reduction in addition to UHTSS products.
+Ogawa: Yes. In particular, the automobile
+Profile
+In 1989, joined the Japan Development Bank (now Development Bank of Japan, Inc.). Assumed his current position after serving as Chief Representative in Frankfurt, Executive Officer, General Manager of Economic & Industrial Research Department, and Chief Manager of Sustainability Management Office, Corporate Planning & Coordination Department, among others. A leading expert on environmental finance in Japan, including the development of the DBJ Environmentally Rated Loan Program. Also held a number of public positions, including as a member of the planning committee of the TCFD Consortium, as a member of a study group on disclosure guidelines for non-financial information, and as a member of a study group for developing a roadmap to promote transition finance in the economic and industrial sectors.
+industry is going through a once-in-a- century major transformation, including
+the shift to EVs, and we are actively developing products that use materials
+that reduce CO2 emissions during use,
+such as the UHTSS. On the other hand, if we fail to comply with carbon neutrality, our customers will eventually stop
+buying our products. In light of the recent acceleration of global decarbonization, we decided to raise our targets for FY2030 from a 35% reduction to a 50% reduction compared to FY2019. We will invest in development from the perspective of contributing to decarbonization through life- cycle assessment (LCA) in manufacturing products, such as for weight reduction,
+Executive Fellow Research Institute of Capital Formation Development Bank of Japan, Inc.
+KEISUKE TAKEGAHARA
+Pacific Industrial Co.,Ltd. Sustainability report 2021 14
+
+15
+Pacific Industrial Co.,Ltd. Sustainability report 2021
+Special Feature Top-Level Discussion
+while aiming for decarbonization in production. Product development is related to our company’s strategy, and so it is difficult to find the right balance. We are very grateful to have the DBJ as a partner in sincere discussions about this area. Takegahara: A positive attitude is important in using LCA to capture the contribution made by products and to incorporate
+risks and opportunities into strategies.
+The TCFD can be a useful tool to discuss such strategies with financial institutions using a common grammar, and I hope you will utilize it. Financial institutions read
+and convey a variety of information to the market, such as the range of scenario analysis in order to be prepared for any uncertainty in the future, and the balance between risks and opportunities. With the revisions to the Corporate Governance Code, more companies than ever are beginning to disclose information as required by TCFD.
+In some cases, however, they get caught
+up in technical issues, such as the precise calculation of Scope 3, and lose sight of why they are doing it in the first place.
+Even with the UHTSS, it is insufficient that manufacturers produce good materials. But, with highly skilled manufacturers such as Pacific Industrial processing these materials into high performance parts, an impact
+can be made in reducing CO2 emissions associated with automobile use. It is important to take the perspective of solving
+these social issues and creating value as a company.
+Ogawa: So, you mean developing a strategy on top of what has been done so far? To ensure we don’t miss that chance, we must now think in terms of the span from 2030 to 2050.
+Takegahara: With that perspective, there is no need to be swayed by future revisions to the TCFD. It is likely that disclosure
+of information on Scope 3 emissions
+will become mandatory. However, along with precision, it is important to use this information in strategy and show it as
+a strength. Looking back at the history
+of Pacific Industrial, there is a culture of quantifying non-financial value. I believe that the message will be strengthened by promoting visualization of eco-efficiency and the amount of environmental contribution, including from the perspective of manufacturing that integrates productivity, cost reduction, and CO2 reduction.
+The Pacific Industrial Value Creation Model
+Takegahara: Recently, the term “Purpose Management” is often used, which places the social value a company aims to achieve as the top management priority. This is the philosophy and foundation that companies should get back to in case of an
+emergency. In the case of Pacific Industrial, the brand slogan “Passion in Creating Tomorrow” is just that and quite profound.
+Ogawa: That brand slogan was proposed by the vice president, and young employees took the lead in coming up with it.
+In fact, before that, we unraveled our 90-year history and the thoughts of our predecessors, and summarized them in the “Dreams and Challenges” and “Trust and Respect” in our “PACIFIC VALUES” attitude. Based on that, we developed a brand slogan to share globally and move
+forward into the future.
+Takegahara: The message of cherishing the thoughts of the past and predecessors, and creating “tomorrow” through manufacturing is very well conveyed. The value creation model is a good example of this. I also like how you have summarized the four pillars of sustainability management in the material topics (“Solving social and customer issues through products,” “Respecting human resources and their active participation,” “Fostering trust with stakeholders,” and “Minimizing environmental load”).
+Currently, there is a global debate about
+the concept of materiality as to whether
+to consider “single materiality” as a factor that affects the sustainability of a business model, or “double materiality,” which considers the impact on society to be also important. As one solution, the concept of “dynamic materiality” has emerged. This
+is when materiality is changed flexibly according to the social environment, rather than focusing on one or the other. The four pillars of Pacific Industrial’s sustainability management are exquisite in their level of abstraction and can encompass a variety of elements. The 15 material topics also cover issues that need to be considered even more deeply going forward, such as “responsible procurement,” “human rights,” and “human capital,” in a system that captures a wide range of factors that will affect business models in the future. With these elements and the brand slogan as a set, the story of growing together with technology, people, and trust becomes easily understood. I think this “value creation model” is very well thought out.
+Ogawa: Thank you. We want to become a more resilient company by weaving business strategies and the SDGs into the warp and woof of our business, and by promoting sustainability management. It’s not that we only focused on our own interests before, but going forward, in order to work with
+a more social view of the world, we aim
+to show our direction as a company with strategies and material topics, create human resources, and openly enhance ourselves. Based on our 90 years of history, we will take stock of these things and figure out what is lacking to form a strong 100-year- old company.
+Takegahara: Yes, in particular, external
+ 
+interest will increase in “aggressive materiality,” or in other words, “Solving social and customer issues through products.” When I look at the KPIs, I see the “number of products developed that contribute to the SDGs,” which is very innovative. If this is taken one stage further, I think it would lead to the question, “What impact is Pacific Industrial creating?” The term “impact” is not yet widely used, but
+it refers to the intended value provision
+to society through business. I get the impression from Pacific Industrial’s business that it is integrating product development and solving social issues by simultaneously pursuing improvements in safety, quality, and productivity, as well as reducing environmental load and costs.
+Ogawa: I think some of them are the
+benefit of hindsight (laughs). However, in that sense, the recent initiatives based on material topics are a good opportunity for us to grow and be recognized by society. Takegahara: You say hindsight, but my impression is that many companies are struggling to synchronize their business with social issues, for example by retrofitting the SDGs. In the case of Pacific Industrial, it is clear that efforts for growth have contributed to the creation of various value from the production stage to the usage stage, such as weight reduction, safety improvements, and reduction of environmental load. This
+   A Brief History of our 90 Years “To the Sea”
+may appear obvious to those involved who have practiced it,butitisoneofthe company’s major features.
+After reading the summary of Pacific Industrial’s history, “To the Sea,” and then reading the
+Sustainability Report again, I understand the meaning of the report very well. While there are many value creation models that could be applied anywhere by changing the company name, I felt that Pacific Industrial has spun something different. Since its founding, the company has been committed to people, technology, and the community, and I believe this has led you to where you are today.
+Ogawa: Our company was founded in
+President and CEO SHINYA OGAWA Pacific Industrial Co., Ltd.
+Ogaki, where water is abundant, Ibiden provided electricity, Ogaki Gas laid on gas, and the spinning industry developed. The fact that we had an industrial base from the beginning was very significant, and there is good cooperation among local industries. I heard that there was a time when industry would lend workers to each other when there were manpower shortages. The flow of that shared sense of history has also
+led to the Ogaki Minamo Softball Club, a local team that plays in the Japan Women’s Softball First Division League.
+Takegahara: Finding companies with global operations that care so much about their local community is quite rare. Furthermore, I’m sure that there are many companies
+in the world that talk about GLOCAL,
+but few top executives are asked to talk about human capital and connect it to the community. I believe that such GLOCAL aspects relate to sustainability management.
+Achieving the 2030 Long-Term Vision, SDGs, and Beyond
+Takegahara: What do
+you think about your management vision in the future?
+Ogawa: We have always focused on safety, quality, and cost. However, moving forward, as one of many colleagues facing solutions to social issues such as climate change, I would like to create a foundation for sustainable growth more than ever before. We also need to make it easier
+for the next generation to achieve even greater
+KEISUKE TAKEGAHARA Executive Fellow
+Development Bank of Japan, Inc.
+heights, for one thing by leading those who are promoting carbon neutrality. Takegahara: The year 2030, when Pacific Industrial celebrates its 100th anniversary, is coincidentally the target year for the SDGs. Up to the year 2030, it will be about transition from the status quo, and beyond that we will enter an era of innovation,
+for which there is no compass. Until
+now, companies have developed their business within the framework of laws and regulations. In the future, as symbolized by the term “planetary boundaries,” we will
+be required to confront global issues and,
+as such, it is said that the influence of the soft law seen in the Corporate Governance Code and the TCFD as international norms is growing. In a world of “comply or explain,” companies must ask themselves about the value in what they want to do.
+I look forward to seeing you face an era without a compass, because you will be able to regain a clear vision by returning to the purpose of Pacific Industrial’s brand slogan, “Passion in Creating Tomorrow.”
+Ogawa: I would like to say to the founder, “Thank you for establishing this company in 1930” (laughs). As a 100-year-old company, we will work firmly on SDGs initiatives
+and become a company that can innovate beyond them. Thank you so much for your time today.
+Takegahara: It was my pleasure. Thank you.
+Pacific Industrial Co.,Ltd. Sustainability report 2021 16
+Research Institute of Capital Formation
+ 
+Materiality of the Pacific Industrial Group
+We have identified four pillar themes related to our long-term vision, 15 material topics, and SDG themes that we will focus on. Currently, the Pacific Industrial Group as a whole is aiming to realize sustainable society by setting specific targets and carrying out PDCA.
+PACIFIC GLOCAL VISION
+A truly GLOCAL company that is worthy of stakeholders’ trust, rooted in communities and able to co-exist and co-develop with them
+  1. Fostering trust with stakeholders
+● Corporate ethics and compliance
+● Responsible procurement
+● Improvement in customer satisfaction
+● Local community development
+PACIFIC GLOCAL VISION
+A company that leverages its core technology and continuously provides new business, new products and new technologies toward a sustainable society
+2. Solving social and customer issues through products
+Particularly relevant SDGs
+            ● Contribution to a sustainable mobility society and prosperous living
+● Improving mobility safety
+● Development of environment-conscious
+products
+Particularly relevant SDGs
+         PACIFIC GLOCAL VISION
+ A company that values employees’ new ideas, challenges and ensures they feel the harmonious balance between life and work
+4. Respecting human resources and their active participation
+● Respect for human rights
+● Stable employment and decent work environment
+● The safety and health of employees
+● Development of human resources and cultivation of culture that we can tackle new endeavors
+● Diversity and inclusion
+17 Pacific Industrial Co.,Ltd. Sustainability report 2021
+Particularly relevant SDGs
+      3. Minimizing environmental load
+● Mitigation of and adaptation to climate change
+● Sustainable resources use
+● Conservation of water resources
+Particularly relevant SDGs
+       
+  Stamping and Molding product business
+OCEAN-22 Business activities
+ Valve product business
+New product business
+        Fostering trust with stakeholders
+Minimizing environmental load
+ Solving social and customer issues through products
+  Respecting human resources and their active participation
+ Numerical Targets for PACIFIC Environmental Challenge 2050
+  SDGs
+ Items
+ 2030 Targets
+ 2050 Targets
+  Mitigation of and adaptation to climate change
+    CO2 emissions
+From 2019
+50%reduction (scope 1.2)
+ Net Zero
+  Sustainable resources use
+   Amount of industrial wastes
+ From 2019
+60% reduction in Japan 30% reduction in overseas
+ Minimum usage
+  Conservation of water resources
+   Water usage
+ Optimal usage
+ Minimum usage
+  Our Plan to Achieve Carbon Neutrality by 2050
+   Baseline Year 2019
+ Projection
+     2030 Mid-Term Targets
+CO2 Emissions...............▲50% Renewables Energy Ratio....20%
+  To achieve carbon neutrality (virtually zero CO2 emissions) in 2050 as set forth in PACIFIC Environmental Challenge 2050, we have revised our mid-term target for 2030 to a 50% reduction (compared to fiscal 2019), and we will strengthen our efforts to achieve carbon neutrality throughout the entire life cycle.
+CO2Emissions (%) 100
+50
+0
+2020 2030 2050
+▲
+Formulation of PACIFIC Environmental Challenge 2050
+Daily Improvements Innovative Technology
+Renewable Energy
+Improvement of Emission Factors for Electricity
+  Net Zero CO2 Emissions
+Weaving sustainability management into the warp and woof of our business with OCEAN-22 and the SDGs
+PACIFIC GLOCAL VISION
+PACIFIC Environmental Challenge 2050
+SDGs activities
+PACIFIC VALUES “Dreams and Challenges” “Trust and Respect”
+              Pacific Industrial Co.,Ltd. Sustainability report 2021 18
+Contributing to prosperous life and sustainable living in next-generation mobility society through “monozukuri”
+
+Sustainability Management Based on Materiality
+Four Pillars
+Objective (Ideal State)
+Major Initiatives (FY2021 Onward)
+       Corporate ethics and compliance
+Implementation and correction of “Code of Conduct” self-assessment, anti-corruption and compliance awareness and fraud prevention, implementation of awareness-raising and education at all levels, and dissemination of information through internal newsletters
+  Increase customer trust in the long term by improving our quality and reputation for sustainability.
+      Local community development
+Contribute to attractive development of local communities, which are the foundation of our corporate activities, and strive for co-existence and co-prosperity with our stakeholders.
+Support for fostering of the next generation in education, scientific research, manufacturing, etc.; biodiversity conservation activities; support for culture and sports such as Ogaki Minamo, FC Gifu, and soft tennis; promotion of global contributions to local communities; and formulation of plans for local support activities in times of disaster
+          Contribution to a sustainable mobility society and prosperous living
+Create products that contribute to the resolution of social issues in both existing and new areas, and contribute to society through our business.
+Research and development of products that contribute to the next generation mobility society and prosperous life
+    Solving social and customer issues through products
+Improving mobility safety
+Contribute to zero traffic deaths by improving automobile safety through our core businesses.
+Reduction of the number of traffic deaths and injuries (Contributions through, for example, TPMS products that prevent accidents caused by insufficient air pressure and high-strength UHTSS products)
+       Development of environment-conscious products
+Create a virtuous cycle in which the more we sell, the more we help the earth, through development, design, and creation of new businesses that create value throughout the value chain.
+Increase of sustainability by developing environmentally friendly products and expanding sales (weight reduction, energy conservation, etc.), improving resource use efficiency, and introducing clean and environmentally friendly technologies
+    19 Pacific Industrial Co.,Ltd. Sustainability report 2021
+Materiality
+         Responsible procurement
+ Fostering trust with stakeholders
+As a foundation for sustainability management, raise ethical standards of all employees as well as their pride in the company and their work, and fulfill our responsibilities to society.
+Work together throughout supply chains to address social issues such as human rights and environmental concerns.
+Review, development, and dissemination of the “Supplier CSR Guidelines”, supplier CSR risk assessments, auditing and support for suppliers of concern, non-use of conflict mineral resources in supply chains, awareness-raising for suppliers on BCP, and parts procurement status surveys for overseas components
+      Improvement in customer satisfaction
+Extension of product life cycles by achieving high quality, reducing waste, and improving evaluation of EcoVadis and CDP, which has been requested by several customers
+        Mitigation of and adaptation to climate change
+Strive to mitigate of and adapt to climate change, a major global issue that has a significant impact on our business.
+Place great importance on respect for humanity and fulfill our responsibility to respect human rights, as human rights issues are likely to be serious not only in Japan, but also in developing countries and suppliers.
+Taking action to achieve the IPCC 1.5-degree or 2-degree target, reduction of energy use, introduction of renewable energy, participation in the CDP supply chain programs “Climate Change” and “Water”
+        Minimizing environmental load
+Sustainable resources use
+Engage in manufacturing from the perspective of resource conservation and reuse, including the procurement of raw materials and product design, based on the demands of society and changing values.
+ Consider effective use of water resources and biodiversity because of the increasing severity of floods and droughts worldwide, and growing concerns over water shortages.
+Promotion of waste minimization and recycling
+      Conservation of water resources
+Reduction of water consumption, and water quality monitoring and external disclosure
+         Respect for human rights
+Prevention of human rights violations by stakeholders
+       Stable employment and decent work environment
+Aim to improve both productivity and employee job satisfaction based on employment stability and fairness by realizing decent work and well-being (a state of physical, mental, and social well-being) and increasing employee engagement.
+Ensuring of employment that enhances job satisfaction and lowering of employee turnover through employee engagement, appropriate evaluations, and having the right people in the right jobs, and creating a workplace that is flexible and easy to work in according to individual circumstances
+ Respecting human resources and their active participation
+       The safety and health of employees
+Respect humanity and create an environment where employees can challenge themselves and maximize their abilities by focusing on the safety and health of our employees.
+Hone our ability to thrive in a rapidly changing market environment and provide opportunities for employees to achieve self-fulfillment by developing human resources capable of taking on global challenges and foster a corporate culture conducive to such challenges.
+Elimination of occupational accidents, improvement of the working environment, and achievement of healthy workplaces through health management
+       Development of human resources and cultivation of culture that we can tackle new endeavors
+Promotion of education by rank, and creation of a system and culture to evaluate challenges
+       Diversity and inclusion
+Revitalize the workplace, contribute to innovation, and reduce turnover by creating an environment and culture that is inclusive and allows people to demonstrate their abilities in accordance with their internal attributes, including individuality, strengths and weaknesses, health situation, personality, beliefs, and sexual orientation.
+Creation of a workplace where everyone can work comfortably and provision of opportunities for women to play an active role
+     
+SDGs
+ KPI
+ Scope
+ Target FY
+ Target Value
+ Major Achievements in FY2020
+ page
+  12.8
+16.5 and wholly-related
+  Implementation rate of “Code of Conduct” survey self-assessment
+  Group
+   2021
+  100%
+ ⃝ Revision of “Code of Conduct” and self-assessments at three domestic companies (98% implementation rate)
+⃝ Awareness-raising, education, and deployment of internal newsletters on the SDGs to all levels (implemented from September 2020)
+  p24
+  3.9 6.3 6.4 7.3 8.7 8.8 11.5 12.2 12.4 12.5 13.1−13.3
+ Company ratio (purchase amount base) for survey of supplier compliance with “Supplier CSR Guidelines”
+ Pacific Industrial
+  2021
+ 80%
+⃝ Revision of “Supplier CSR Guidelines” and implementation of deployment to suppliers and self-assessment(Implemented by over 80% of companies. Average compliance rate 94%)
+⃝ Conflict minerals survey
+⃝ Discussion with suppliers and provision of support regarding the COVID-19 pandemic
+⃝ Selected in The Japan Chamber of Commerce and Industry’s “Twenty Cases of Co-existence
+and Co-prosperity Initiatives by Local SMEs and Large Enterprises !”
+ p25
+  7.3 12.2 12.4 12.5 13.2 13.3
+   Number of recalls issued
+   Group
+    ー
+   0 cases
+  ⃝ 0 recalls
+⃝ 14 awards received from customers (globally)
+⃝ Start of quality improvement project through START activities ⃝ Initiatives to improve CDP and EcoVadis rating
+   p26
+  4.5 4.7 10.2 11.5 17.16 17.17
+ Number of social contribution activities implemented
+ Group
+  2021
+ 100 cases
+⃝ Ongoing sponsorship and donations
+⃝ Ongoing mask production and distribution to communities
+⃝ Support for children’s education NPOs
+⃝ Participation in the SDGs Exploratory Learning Program for high school students jointly
+organized by industry, academia, and government (FY2021)
+⃝ Ongoing researcher support from The OGAWA Science and Technology Foundation
+⃝ 97 social contribution activities (globally)
+ p27
+  9.5
+11.2 and individual judgment
+   Number of products developed relating to SDGs
+  Group
+   2021
+  Develop Standards
+ ⃝ Development of new products that contribute to SDGs (e-WAVES, etc.) ⃝ Research and development tied to SDGs (FY2021)
+  p29
+ 3.6
+ Ratio of UHTSS versus all stamping products
+ Group
+ 2024
+ 25%
+ ⃝ Participation in development from upstream processes through advancement of structural analysis technology and increase in sales
+p29
+ Number of TPMS products and TPMS valves sold
+  Group
+  2025
+  5-year total 600 million
+  ⃝ Launch of products for the aftermarket and sales expansion of TPMS for motorcycles
+   7.3 9.4 11.2 12.2 12.5 13.2 13.3
+  Sales ratio for electrified vehicle products
+  Group
+   2030
+  70%
+ ⃝ Expansion of sales of products for electrified vehicles, including adoption of products for FCEV “MIRAI”
+⃝ Expansion of sales of UHTSS products by cold stamping (CO2 emissions are lower than the hot stamping method.)
+⃝ Acceleration of the development of products for electrified vehicles in the valve business
+   p30
+  7.2 7.3 13.1 13.2 13.3
+ CO2 emissions
+ Group
+  2030
+ 50% reduction
+(Scope 1.2, compared to FY2019)
+⃝ Formulation of “PACIFIC Environmental Challenge 2050” long-term targets
+⃝ CDP assessment leadership level “A-” and supplier engagement assessment “Leader
+Board” selection
+⃝ Announcement of endorsement of TCFD (May 2021)
+ p35
+  9.4 12.2 12.4 12.5
+   Amount of waste generated
+   Group
+    2030
+   Domestic 60% reduction Overseas 30% reduction (Compared to FY2019)
+  ⃝ Formulation of “PACIFIC Environmental Challenge 2050” long-term targets ⃝ Drastic reduction of waste by recycling sludge at the Kurihara Plant
+   p36
+  3.9 6.3 6.4
+  Amount of water used
+  Group
+   2030
+  Appropriate use
+ ⃝ Formulation of “PACIFIC Environmental Challenge 2050” long-term targets ⃝ Conducted basic risk assessment and responded to CDP water
+  p36
+  5.1 8.7 8.8 10.2 10.3
+ Coverage rate of human rights surveys (SAQ)
+(Number of offices)
+ Group
+  2021
+ 100%
+⃝ Formulation of “Human Rights Policy” and dissemination to employees
+⃝ Conducted human rights survey based on the “Code of Conduct” self-assessment
+⃝ Incorporation of human rights education into tiered education programs
+⃝ Implementation of e-learning
+⃝ Creation of foreign-language versions of the “Human Rights Policy”, dissemination to
+overseas bases, and deployment to related business partners
+ p37
+  8.5
+   Turnover rate
+   Pacific Industrial
+    2025
+   1.5% or less
+  ⃝ Made preparations to analyze results of internal surveys conducted to understand progress and issues related to activities for improving employee awareness and satisfaction
+   p37
+  8.8
+ Lost-time injury frequency rate
+ Group
+  ー
+ 0%
+⃝ Implementation of various safety measures (reduction in disaster frequency rates) ⃝ Introduction of air-conditioned clothing
+⃝ Systematic promotion of LED lighting
+⃝ Health Declaration (FY2021)
+ p38
+  4.4 8.2
+  Training hours per employee
+  Pacific Industrial
+   2025
+  30 hrs/person
+ ⃝ Development of a completely new education program to enable the acquisition of skills effectively in a well-balanced manner, in the belief that the foundation of human resource development is “where ability meets compassion” (Implemented from FY2021)
+  p39
+  10.2 10.3 5.5 5b
+  Ratio of women in managerial positions
+  Pacific Industrial
+Group
+   2030
+  5% or over 14% or over
+ ⃝ Sharing of issues related to diversity and inclusion, creation of policies (basic thought process) regarding those subjects, and formulation of targets for women’s active participation
+⃝ Promotion of initiatives to increase the ratio of female employees (FY2021)
+  p39
+     Pacific Industrial Co.,Ltd. Sustainability report 2021 20
+
+    for MANAGEMENT
+Management
+The Pacific Industrial Group endeavors to continuously promote sustainability management by building a management structure that maintains and enhances the efficiency of management and the fairness and transparency of our corporate activities.
+Board Members and Audit & Supervisory Board Members
+ Basic Approach to Corporate Governance
+Our Group makes it our basic policy to comply with our corporate governance code, and we believe that fulfilling our social responsibility while building strong relationships with our stakeholders will increase our corporate value.
+To enhance the strategic nature of discussions and the mobility of decision-making, year by year we have reduced the number of directors and, since June 2021, management structure has been
+Corporate Governance Framework ■ Efficiency in Business Execution
+Our Group has adopted an executive officer system to separate the functions of the Board of Directors, which is responsible for management supervision, and executive officers, which are responsible for business execution.
+We have established a Corporate Strategy Committee and a Management Committee to act as deliberative bodies for important matters related to business execution, striving to ensure efficient operation of the Board of Directors by thoroughly deliberating on matters prior to consulting the board.
+such that independent outside directors account for more than one-third of the board.
+We are also implementing initiatives to improve governance, such as establishing a Nomination and Remuneration Committee made up of a majority of outside directors, making our gender selection process more gender-conscious, and reducing cross- shareholdings.
+■ Outside Director Support System
+In order to ensure efficient management by our Board of Directors, our Group has established a support system for its outside directors. To give outside directors the opportunity to perform to the best of
+their ability, we provide advance explanations of matters up for discussion and provide opportunities to discuss important corporate matters at the Outside Directors’ Council so that meaningful discussions can be held at Board of Directors meetings.
+Appoint/dismiss
+Members of the Board (As of June 19, 2021)
+(from left front) Outside Board Member
+Taeko Katagiri
+Outside Board Member
+Osamu Motojima
+Executive Vice President ,Member of the Board
+Tetsushi Ogawa
+President ,Member of the Board
+Shinya Ogawa
+Outside Audit & Supervisory Board Member
+Ayao Sakakibara
+Outside Audit & Supervisory Board Member
+Tomoyuki Shinkai
+(from left back)
+Managing Officer ,Member of the Board
+Terumi Noda
+Managing Officer ,Member of the Board
+Hisashi Kayukawa
+Audit & Supervisory Board Member
+Makoto Yamamura
+Audit & Supervisory Board Member
+Kazuya Kakishita
+   Appoint/dismiss
+General Meeting of Shareholders
+   Consult Recommend
+Outside Directors’
+Council
+2 outside directors and
+2 outside audit & supervisory board members
+  Audit & Supervisory Board
+(4 audit & supervisory board members, including 2 outside audit & supervisory board members)
+Report
+Board of Directors
+(6 directors, including 2 outside directors)
+          21
+Pacific Industrial Co.,Ltd. Sustainability report 2021
+Accounting Auditor
+Assist
+Audit
+Accounting audit
+ Audit & Supervisory Board Member’s Dept.
+Collaborate
+Report
+Audit & Business Process Improvement Dept.
+Management Committee
+Direct/ supervise
+Present/ report
+Direct/supervise
+Report
+    Committees
+Nomination/Remuneration
+Committee
+1 representative director and 2 outside audit & supervisory board members
+  Corporate Strategy Committee
+    Audit/
+improve business processes
+Direct/ Present/ supervise report
+ Business units, centers, and group companies
+
+ ■ Director Expertise and Experience Director Skill Matrix
+  Name
+Management/ Governance
+Manufacturing/ Human Resource Development
+R&D/ Technology
+Finance/ Accounting
+Legal/
+Risk Management
+International Experience
+Sales and Procurement
+Board Member
+ Shinya Ogawa
+  ●
+  ●
+    ●
+  ●
+  ●
+  ●
+ Tetsushi Ogawa
+●
+●
+●
+●
+●
+●
+ Hisashi Kayukawa
+ ●
+ ●
+ ●
+ ●
+    Terumi Noda
+ ●
+ ●
+  ●
+  ●
+ ●
+ Outside Board Member
+ Osamu Motojima
+ ●
+ ●
+ ●
+  ●
+ ●
+  Taeko Katagiri
+ ●
+ ●
+    ●
+   Officer Remuneration
+To ensure objectivity and transparency for director remuneration, remuneration policies and systems are decided by the Board of Directors after consulting with the Nomination and Remuneration Committee, which is majority composed of outside directors.
+Under our remuneration system, director remuneration consists of basic (fixed), performance-linked, and stock-based.
+With respect to performance-linked remuneration, we have incorporated a medium to long-term perspective and have adopted consolidated ordinary income ratio and consolidated return on equity as indicators.
+In addition to providing incentives for the sustainable enhancement of corporate value, eligible directors are remunerated by the grant of restricted stock to help promote further value sharing with shareholders.
+Compensation for outside directors and audit & supervisory board members is set at a fixed base rate to ensure their objectivity and independence.
+Internal Audit and Audit by Audit & Supervisory Board Members
+The audit & supervisory board consists of four members in all, of which two are full-time audit & supervisory board members and the other two are outside audit & supervisory board members. A staffed Audit & Supervisory Board Member’s Dept. is provided to assist them.
+The full-time audit & supervisory board members receive audit reports from the internal audit department, and give the internal audit department instructions on audit policies and important audited items, if necessary. The outside audit & supervisory board members, who are lawyers or certified accountants, give expert advice at meetings with the board of directors.
+These audit & supervisory board members hold regular meetings with representative directors, accounting auditors and the internal audit department, respectively. At these meetings, the participants
+Internal Control System
+Based on its “Basic Policy of the Internal Control System,” we endeavor to expand and strengthen our internal control systems across the entire Group, including business entities in Japan and overseas. Specifically, we review reports submitted by all departments, subsidiaries, and other entities implementing our internal control systems or conduct on-site inspections to ensure that our internal control systems, including the system for ensuring the adequacy of financial reporting and the compliance system, are
+work in collaboration by exchanging opinions on the current state of management and problems that the company should address, sharing accounting audit report details and evidence to validate that information and aid effective implementation of internal audits, and other such collaborative activities.
+The Audit & Business Process Improvement Dept., which is an internal audit department, conducts audits on internal operations, checks how internal controls are performed by each department, finds problems and makes recommendations for improving them, takes all possible measures to ensure that internal controls under the Financial Instruments and Exchange Act are audited properly, while making internal controls more effective by expanding the internal audit range to include other business operations.
+well-developed and utilized in an appropriate and efficient fashion. (We are remotely confirming for overseas entities due to the COVID-19 pandemic.)
+As a result, the effectiveness of the company’s internal control measures relating to financial reporting was determined to be effective, and unqualified opinions have been obtained from an auditing corporation stating that the internal control report with the record date of March 31, 2021 was adequate.
+Pacific Industrial Co.,Ltd. Sustainability report 2021 22
+
+ Management
+Sustainability Management
+The Pacific Industrial Group aims to achieve SDGs and contribute to a sustainable society through Sustainability Management, which manages our business from a long-term perspective while giving consideration to the impact on our stakeholders. We will strategically promote sustainability management by identifying 15 material topics that we and our stakeholders feel are particularly relevant, and integrating them into our business activities. Specifically, we will form the Sustainability Promotion Team, which is linked to the four identified pillars, and will set targets for 15 material topics and implement initiatives, qualitative and quantitative assessments, and
+Promotional System of Sustainability Management
+disclose information. Activities are overseen by the Sustainability Promotion Committee, and progress and issues are shared and improved at meetings the Promotion Committee, which will be held four times each year. At the same time, important matters are reported to the board of directors at least once a year, and consulted with the Management and Corporate Strategy Committees as appropriate to effectively promote efforts to address sustainability issues. Materiality will be reviewed as necessary in accordance with the status of achievement and changes in the business environment.
+【 Four pillars 】 15 material topics
+Sustainability Management
+   Board of Directors Management Committee/ Corporate Strategy Committee
+Sustainability Promotion Committee
+Sustainability Promotion Teams
+Company-wide promotion of the initiatives
+Risk Management
+In the situation where risks surrounding corporate management are increasingly diversified and becoming complex, the Pacific Industrial Group has established a risk management system to systematically implement risk mitigation measures. Each department assumes potential risks that may occur in the future, and takes necessary measures, while those risks that are difficult to tackle in daily operation are addressed from a long- term perspective with an action plan formulated to take measures step by
+Information Security
+We recognize the importance of enhancing information security across the entire Group, including our subsidiaries in and outside Japan, to prepare for the increasingly advanced and sophisticated cyberattacks, are making every effort to improve system countermeasures and operational rules. In addition, we continuously train and educate our employees to raise awareness to ensure that each and every employee is fully aware of this issue.
+As a measure against COVID-19, we have built a telework environment, and expanded the use of web conferencing. We have also taken appropriate security measures for these initiatives.
+Presentation and reporting to the board of directors at least once a year and presentation and reporting of important issues to Management Committee/ Corporate Strategy Committee
+Corporate Planning Department supervises the whole company with promotional meetings held four times a year
+Promotion by four pillars with related departments working in cooperation
+Implementation by incorporating relevant issues into daily operation
+     ESG information disclosure
+Value creation (business)
+     step. For these risk reduction activities, we check and follow up on the progress of countermeasures at Corporate Strategy Committee and other meetings to prevent risks from occurring and improve the level of risk management as a company-wide initiative.
+In addition, we have reviewed the description on “Risks in Business, etc.” in our Securities Report and are disclosing information to our stakeholders widely on the risks that the Pacific Industrial Group assumes.
+Number of employees who passed IT-related national examinations (Pacific Industrial)
+Qualitative evaluation
+Quantitative evaluation
+ Information Security Management Examination
+  36
+ IT Passport Examination
+ 185
+ Systems Administrator Examination
+  138
+ 23
+Pacific Industrial Co.,Ltd. Sustainability report 2021
+
+         for STAKEHOLDERS
+Fostering trust with stakeholders
+The Pacific Industrial Group endeavors to deliver products and services that satisfy our customers, while building strong partnerships with business partners aiming at co-existence and co-prosperity based on mutual trust.
+Corporate ethics and compliance
+Fostering Strong Corporate Ethics
+We believe that gaining the trust and sympathy of society requires each and every employee to have high ethical standards and to act with fairness and integrity. Based on this concept, the “Pacific Industrial Group Code of Conduct”, which have been revised and updated since their initial publication in 2008, are distributed to all employees to raise awareness. Overseas, all Group companies implement their own Code of Conduct reflecting local laws and customs, and carry out compliance activities appropriate to their country and region.
+In the areas of raising awareness and education, in addition to training by job level and specialized training, we also provide various information to our employees on an ongoing basis, such as regular distribution of e-mail newsletters that cover familiar themes and provide in-depth explanations, in an effort to prevent fraud and misconduct.
+Our Group also conducts questionnaires with each employee to determine the level of penetration of our “Code of Conduct”, identify compliance issues, and to implement improvements for the quick resolution of problems and prevention of recurrence. Furthermore, to find and correct injustices and scandals that cannot be identified through questionnaires, we have established an internal reporting
+Anti-Corruption
+As part of our basic anti-bribery and corruption policy, we have established “Basic Policy for Anti-Bribery and Corruption”, such as conducting due diligence on third parties such as business agents, and educating and training our employees.
+Highly relevant SDGs
+system that allows employees to report and consult with us by e-mail, telephone, postal mail, or in writing. For example, we have introduced an independent consultation desk, which functions as a reporting system that is independent of the normal chain of command, with outside directors and full-time audit & supervisory board members as contact points. Compliance regulations stipulate maintaining confidentiality for whistleblowers and others seeking advice, as well as prohibition of prejudicial treatment on the grounds of reporting or consultation, making the system safe to use.
+* FY2020
+  “Code of Conduct” self-assessment implementation rate (domestic) KPI
+  98%
+Ethics and complaints desk consultation count (Pacific Industrial)
+  8
+ Total serious compliance violations in Japan and overseas (Group)
+ 0
+ Number of legal actions for anti-competitive behavior (Group)
+SASB TR-AP-520a.1
+  0
+ Promoting Business Continuity Management (BCM)
+The Pacific Industrial Group has a Business Continuity Plan (BCP) to minimize damage giving top priority to human life, and continue or recover our operations at an early stage in the event of a large-scale disaster or other emergency. In addition, we periodically conduct awareness programs for disaster prevention by implementing companywide disaster-management drills, participating in local early stage firefighting competitions and taking other steps to continuously make improvements on our disaster prevention (BCM).
+To help combat COVID-19, we developed Action Guidelines for the Prevention of COVID-19 Infections, which includes wearing masks, general hand sanitization, daily temperature checks, and avoiding
+the 3Cs: closed spaces, crowded places and close-contact settings, and are thoroughly implementing measures to prevent infectious diseases, such as raising awareness among employees. We also focus on preventing mass infections by adjusting shifts or work hours, introducing and
+encouraging telework and web conferencing, etc., and deploying disinfection kits to each site for use in an emergency.
+Sandbag drill
+We have also developed Supplier CSR Guidelines to prevent bribery and corruption in the supply chain.
+ Appropriate and Timely Information Disclosure
+In addition to disclosing our corporate and financial information in an appropriate and timely manner to ensure greater transparency, we work to proactively disclose non-material information on our company websites and via other media. We held 84 meetings for analysts and institutional investors in FY2020, including holding financial results briefings when the results were announced (telephone conferences), and we responded to requests for individual meetings (web conferences) and telephone interviews. For individual investors, we promote a variety of IR activities,
+including issuing shareholder newsletters, distributing e-mail newsletters to registered users, and holding our general meeting of shareholders on Saturdays.
+Financial results presentation meeting using Web conferencing
+ Pacific Industrial Co.,Ltd. Sustainability report 2021 24
+
+  Fostering trust with stakeholders
+Responsible procurement
+For Fair Business Practices
+We aim to achieve long-term co-existence and co-prosperity based on good partnership in compliance with the Ministry of Economy, Trade and Industry’s “ Guidelines on the Promotion of Appropriate Subcontracting Transactions”, to grow with our suppliers and ensure smooth implementation of our operations. Our views are set out in our “Basic Purchasing Policies,” which are available in the “Purchasing Information” section of our website.
+We also hold company policy briefings with our major suppliers twice a year to share and discuss our policies and business issues, and have an evaluation system and recognize suppliers that demonstrated outstanding performance by presenting them with awards once a year in our effort to strengthen our partnership with them.
+In recognition of these efforts, we were chosen by the Japan Chamber of Commerce and Industry as one of the “Twenty Cases of
+Co-existence and Co-prosperity Initiatives by Local SMEs and Large Enterprises!” in July 2020.
+Company policy briefing
+The Pacific Glocal Association consists of 36 of our major suppliers to strengthen our management base and improve our manufacturing capabilities. We jointly conduct plant tours, safety and quality improvement activities, and study sessions. In FY2020, amidst the COVID-19 pandemic, we worked to “level up” each company by way of web-based safety and quality workshops. This past August, the CSR Study Group held a session on SDGs and carbon neutrality, and confirmed respect for human rights and proper employment regarding technical interns.
+In addition, we share and discuss information concerning management issues and countermeasures with our major suppliers through visits and web-based interviews, and work to inform them about public subsidies, grants, and other support information.
+further inform them of the Supplier CSR Guidelines and confirm their compliance. The average compliance rate was about 94%. KPI
+Going forward, we will continue to work on building responsible procurement networks by asking our suppliers to improve on any issues that have become apparent, and by strengthening communication with them and providing them with support.
+   Initiatives with Suppliers
+ CSR Procurement
+CSR study group on carbon neutrality
+  25
+Pacific Industrial Co.,Ltd. Sustainability report 2021
+We created our Supplier CSR Guidelines with the aim of promoting CSR throughout the supply chain to address social issues such as human rights issues, bad labor practices, environmental concerns, immoral behavior, and corruption. These guidelines were revised in 2020, and we ask our suppliers to further promote activities regarding compliance and anti-corruption, human rights and labor, the environment, quality and safety, information security, business continuity, and social contributions.
+We investigate environment-impacting substances delivered by our suppliers using JAMA/JAPIA Standard Material Datasheets. We have also issued the “Green Procurement Guidelines” to
+promote environmentally friendly procurement practices for technologies and products.
+As for conflict minerals, we investigate to the end of our supply chains using the Conflict Minerals Reporting Template (CMRT) and Cobalt Reporting Template (CRT) published by the Responsible Minerals Initiative (RMI) as research tools.
+We conducted surveys with many of our suppliers, which in total account for 80% of our total domestic procurement quantity, to
+Supplier CSR Guidelines
+Green Procurement Guidelines
+
+ Improvement in customer satisfaction
+Aiming to Become a No.1 Manufacturer by “Manufacturing with Persistency”
+   The Pacific Industrial Group recognizes that human resource development is the very foundation of manufacturing. We are committed to passing on our manufacturing DNA and achieving
+cost reductions for further evolution. We base our manufacturing practices on the Toyota Production System, and take the “go and see for yourself” approach to implement Kaizen (improvement) initiatives at all production across the entire Group. Each of our sites conducts proactive initiatives, such as self-driven award systems to
+Customers First, Quality First
+We uphold Jikotei Kanketsu (defect-free process completion) as our basic principle to ensure that no defects are passed along to the next process and that our customers are satisfied with our products. To establish a quality assurance system that meets global standards, quality is built into all processes starting with the preliminary design and production stage.
+At the request of our major customers, in FY2020 we launched the “START” project, a global quality improvement initiative to prevent future defects. In FY2020, we conducted our first self- assessment, submitted an action program for points to improve upon, and proceeded with improvement activities.
+Enhancing Customer Satisfaction
+We make continuous improvements based on the information collected by our Sales Dept. and Quality Dept. from our customers, and enhance customer satisfaction so that we can meet the expectations and needs of our customers. We also hold technology exhibitions and give technical presentations in and outside Japan to introduce our new products, technologies and methods to our customers. SDGs and CO2 reduction are issues of great interest to
+Awards from Customers (FY2020)
+Country Site Award Given By Award Type
+recognize quality improvement, or activities to transmit skills to our next generation of employees.
+Last year, in the activities of the TPS-based projects conducted improvements for each process for oil pans, one of our main products.In this activity, we promoted cost reduction through thorough labor saving and quality improvement, and built a line of fewer employees that can be adaptable for future production fluctuation.
+Overseas as well, our products have been highly evaluated in each country in terms of quality, cost, and delivery time, by Japanese manufacturers and overseas manufacturers alike. As a result of this global commitment to manufacturing, we received 14 global awards from our customers in FY2020. As of July of this year, we have received 12 awards.
+In addition, same as FY2019, each business division conducted an SSA (Smart Standard Activity: Activities to optimize quality and performance standards) to optimize quality standards, recognizing the gap between the needs of customers (end users) and the value provided.
+In addition, all our offices and plants in Japan obtained certification for ISO 9001, an international standard on quality management systems, strengthening our quality assurance system consistently applied throughout all stages from development to production.There were zero recalls throughout the globe for FY2020.
+KPI SASB TR-AP-250a.1
+our customers, and we are focusing on proposing products that contribute to those endeavors as well.
+At the request of our customers, we participate in the CDP supplier program and were evaluated by EcoVadis, a global CSR evaluation organization for suppliers, and awarded the 2021 Bronze Medal.
+Country Site Award Given By Award Type
+      Japan
+ Pacific Industrial
+ Toyota Motor Corporation Kinuura Plant
+ SSA Promotion Award
+Quality
+ Japan
+ Pacific Industrial
+ METI
+ Global Niche Top 100
+Overall
+ Japan
+ Pacific Industrial
+ Nissan Motor Co., Ltd. Tochigi Plant
+ 2019 Supplier Award
+Quality
+ Japan
+  Pacific Industrial
+  Nissan Motor Co., Ltd.
+  Certificate of Quality Excellence
+ Quality
+Japan
+Pacific Industrial
+Toyota Motor Corporation
+Selected as presenting company for Higashi Ogaki Plant’s “Toyota Production System Study Group” for improvement activities for entire oil pan process chain.
+Cost
+ Japan
+ Pacific Industrial
+ Gifu Prefecture, Gifu City, Gifu Invention Association
+ Minister of Education, Culture, Sports, Science and Technology Award, 2020 Gifu Invention Exhibition
+Overall
+ Japan
+  Pacific Industrial
+  Toyota Motor Corporation
+  Cost Improvement Excellence Award
+ Cost
+ Japan
+ Pacific Industrial
+ Toyota Motor Corporation
+ Quality control activities Certificate of Appreciation
+Quality
+ Taiwan
+ PVT
+ Kuozui Motors
+ SSA (Smart Standard Activity) Promotion Award
+Quality
+ USA
+ SPU
+ American Honda Motor
+ 2019 Supplier Performance Award
+Quality
+ USA
+  SPU
+  General Motors
+  2019 Supplier Quality Excellence Award
+ Quality
+Korea
+PVI
+General Motors
+2019 Supplier Quality Excellence Award
+Quality
+ Thailand
+ PIT
+ DAIHATSU ASIA TRADING (THAILAND)
+ Cost Performance Award 2019
+Cost
+ China
+  PTC
+  GAC Toyota Motor Co., Ltd.
+  Cost Efforts Award
+ Cost
+  * PVT...Pacific Valve (Taiwan) Co., Ltd., SPU...Schrader-Bridgeport International, Inc., PVI...Pacific Valve Industrial Co., Ltd., PIT...Pacific Industries (Thailand) Co., Ltd., PTC...Pacific Auto Parts Technology (Changshu) Co., Ltd.
+Pacific Industrial Co.,Ltd. Sustainability report 2021 26
+
+  Fostering trust with stakeholders
+Local community development
+    Nurturing the Next Generation
+Support Room for Tomorrow
+We donated a total of 1,000,000 yen and food for disaster relief for the “Support Room for Tomorrow”, a citizens’ group working to support learning for children. Donations will be used to purchase educational materials and exercise equipment, and the food will be used for meal support and dietary education in anticipation of disasters.
+SDG Exploratory Learning
+We participated in a joint industry, academia, and government learning program on the theme of the SDGs (three sessions in total) and exchanged opinions with third-year students at Ogaki Higashi High School. We will continue to actively exchange opinions with local communities to help solve social issues.
+Pacific Satoyama Woodland
+The OGAWA Science and Technology Foundation
+Established by the late Soichi Ogawa, the company founder, The OGAWA Science and Technology Foundation awards grants to researchers in universities, technical colleges, high schools, and other institutions in Gifu Prefecture each year to contribute to the promotion of science and technology and the development of local industries.
+In FY2020, the foundation provided grants totaling 15.32 million yen to 24 research projects. (202.79 million yen in cumulative total)
+     Biodiversity
+Global Environment Juku of Gifu
+In collaboration with residents, industry, government, and academia, our employees give lectures on environmental issues to local elementary school students and their parents. We explained what we can do to prevent global warming and our forest activities in Pacific Satoyama Woodland.
+Supporting Sports Promotion
+Soft Tennis Teams
+Pacific Industrial Soft Tennis Teams (Both men’s and women’s) are registered with the Japan Corporate Team League, the top league, and actively playing games in national competitions. In addition, we are striving to promote sports by volunteering to provide training to local elementary and junior high school students.
+  In 2009, the Pacific Industry Group initiated various projects to learn about environmental conservation and a recycling-oriented society at the “Pacific Satoyama Woodland” in Kamiishizu-Cho, Ogaki City, Gifu Prefecture with our employees, their families and community residents. A total of 3,800 people participated in the projects with 1,665 trees planted to date.
+Ogaki Minamo Softball Club
+Ogaki Minamo Softball Club is operated by 11 supporting companies including our company and local governments, and belongs to the Japan Women’s Softball
+League Organization. In
+addition, the President has been the Chairman of the “Ogaki Minamo Softball Club Support Association” since its establishment, and is making efforts to strengthen and develop the club.
+     27
+Pacific Industrial Co.,Ltd. Sustainability report 2021
+
+   Contributing to Local Communities Globally
+Donation of a PCR Testing Car to Gifu Prefecture
+In commemoration of the 90th anniversary of the founding, we donated a PCR testing car with patient transport functions to Gifu Prefecture. In addition, when COVID-19 infection spreads worldwide, we cooperate with each region globally and provide materials in short supply, such as masks for mutual support. In this way, we are actively contributing to local communities during COVID-19 pandemic. In addition, as a measure against infectious diseases, we donate the masks we produce to local communities, special needs schools, and social welfare corporations.
+Traffic Safety Activities
+Traffic safety activities need to be considered and done not only with our employees, but also with their families, especially elementary school children and the elderly. We distributed traffic safety textbooks received from the Toyota Mobility Foundation to the children of our employees, company alumni, and elementary schools near each plant.
+Donation Activities
+We make donations to support reconstruction and activities that contribute to the local community, including donations to areas affected by typhoons and floods, as well as anniversary projects for local high schools and universities. We also make donations to local governments.
+   The PCR testing car with patient transport functions that was donated to Gifu Prefecture
+U.S. PMO donated masks to nursing facilities for senior citizens’ facilities and non-profit organizations.
+Donation of masks we produced to local communities
+In thanks for China CPH’s donation of antibacterial tissue to Hunan Province, China, Hunan Province donated 80,000 masks to Ogaki City
+Donation (thousands of yen)
+(Fiscal year)
+    2016
+2017
+2018
+2019
+2020
+22,000
+21,000
+12,000
+20,000
+19,000
+ Social Contribution Activities in Overseas Countries
+ Number of social contribution activities conducted
+97 cases in FY2020 (global) KPI
+■ Domestic (84 cases) ■ Overseas (13 cases)
+Ambulance, mask, alcohol gel donations, etc.
+13 cases
+Neighborhood associations and shrines
+(Regional development)
+20 cases
+Welfare, crime prevention, greenery
+32 cases
+Industrial promotion 4 cases
+Education, culture, arts, and sports promotion
+28 cases
+         Thailand PIT
+Donation of alcohol gel to a local hospital
+U.S PMO
+Volunteer community cleanup activities by employees
+Thailand PIT
+South Korea PAC
+Made donations and provided daily necessities to children fighting serious diseases and children from disadvantaged families
+    Donated an ambulance with a local partner to commemorate the 30th anniversary of PIT founding
+Pacific Industrial Co.,Ltd. Sustainability report 2021 28
+
+         for VALUE CREATION
+Solving social and customer issues through products
+The Pacific Industrial Group will continue to develop products and businesses that contribute to solving social and environmental issues through the power of manufacturing based on our outstanding core technologies and accumulated skills.
+Concept of Technological Development
+ As we enter an era of great change in mobility, and against the backdrop of the growing importance of sustainability issues, we are accelerating the development of LCA and carbon-neutral technologies in the mobility field, which has been our main focus, and we are proposing products that consider the changing nature of mobility and taking on the challenge of new fields by utilizing our core technologies, in cooperation with external parties.
+Mainly in the stamping and molding product business, we focus on ultra-high tensile strength steel (UHTSS) and aluminum products that contribute to weight reduction, and develop molding products to improve comfort performance, which is becoming increasingly important with the shift to electric power. In our valve business, while creating synergy with Schrader, we are accelerating development to expand our TPMS business domain, as well as product development for electrified vehicles
+by leveraging our core technologies, such as sensing and fluid control technologies.
+In addition to investing in the development of these mainstay products, we are also actively taking on the challenge of developing new businesses that anticipate social and customer issues by utilizing sensing technology and other technologies with a view to expanding our business domain over the long term.
+Whereas in our stamping business, where we continue to improve upon our advanced structural analysis technology, participate in mobility development from further upstream stages, and accumulate knowhow for manufacturing, we are also focusing on original product development in the molding, valve, TPMS, as well as new businesses, and are actively pursuing patents, aiming to create societal and customer value.
+Contribution to a Sustainable Mobility Society and Prosperous Living, and Improving Mobility Safety
+Highly relevant SDGs
+  TPMS Contributes to Mobility Safety and Fuel Efficiency
+We are the only transmitter manufacturer in Japan that develops and produces Tire Pressure Monitoring System (TPMS), which monitors the air pressure and temperature inside tires and alerts the driver to abnormalities while driving. TPMS is an outgrowth of the tire valve, our founding product. By maintaining proper tire pressure, TPMS can prevent accidents, improve safety, and contribute to fuel efficiency. In Europe, America, and many other countries around the world, the use of these products is mandatory by law, and they contribute to society as our group’s primary products. We are also working to expand further by developing transmitters for the aftermarket and for motorcycles.
+TPMS Transmitter
+ Contributing to Society through Development of New Products using TPMS Technology
+We are accelerating new product development to solve problems in new areas of the logistics, food, pharmaceutical, and livestock industries by applying the wireless and sensing functions that are the core technologies of TPMS.
+Launched in March 2021, our multi-sensing logger “e-WAVES” is a product equipped with six sensors, including ones for pressure and temperature, that can monitor in real time. The system is compliant with HACCP*1 management of food products and GDP*2 guidelines for pharmaceuticals. It contributes to the reduction of waste loss by visualizing transportation and management status, and aims to help solve social issues together with customers. This product is also used to control the temperature of COVID-19 vaccines during transportation and storage, contributing to the early control of the pandemic.
+Development of products using our core technologies that solve social issues
+【 Areas of activity】 Food transportation/management * HACCP management system
+Pharmaceutical transportation/management
+* GDP Guidelines
+Livestock industry
+   Multi-sensing logger “e-WAVES”
+Data is stored in the cloud using LTE networks and displayed on PCs and smartphones.
+TPMS core technology Wireless/Sensing
+×
+ Market needs
+Demand for monitoring
+ *1 HACCP (Hazard Analysis and Critical Control Point) ... Food sanitation standards for food and other business operators to monitor and control process from receiving raw materials to shipping and serving. *2 GDP (Good Distribution Practice) ... International standards aimed at ensuring pharmaceutical product quality during transportation and storage.
+      Temperature
+Collision
+Humidity
+Air Pressure
+Location
+Brightness
+Base station
+Our system
+   29
+Pacific Industrial Co.,Ltd. Sustainability report 2021
+Periodic communication mode
+Logging mode
+Customer system
+
+ Environmentally Friendly Product Development
+Vehicle Body Weight Reduction
+Reducing vehicle weight leads to better fuel efficiency, which in turn contributes to carbon neutrality through CO2 reduction. On the other hand, increasing vehicle body rigidity is necessary for safety. In addition to improving lightweight technology and manufacturing UHTSS stamping products that combine high strength with light weight, we are cultivating technology to process a wide variety of materials, including aluminum and GFRP* to contribute to weight reduction.
+* GFRP(Glass Fiber Reinforced Plastics)
+Reducing Weight with UHTSS Products
+ In addition to contributing to reducing CO2 emissions during driving by reducing the vehicle body weight with thinner and stronger stamping products for car body frames, we are actively promoting development and proposals for carbon neutrality based on LCA*.
+The hot stamping method, in which steel sheets are heated to 900 ̊C for processing, emits about eight times as much CO2 as the cold stamping method during production (according to our calculations). We are actively proposing replacing the hot stamping method with the cold stamping method using our accumulated knowhow and cutting-edge stamping technology.
+We are also stepping up cold-stamping product development using UHTSS 1180MPa to 1470MPa, and are promoting even greater strength and lighter weight, such as the first use of these products in roof centers. In addition, we conduct structural analysis in-house to verify collision safety, and propose optimal body structures and cost reduction with the aim of expanding our business domain.
+* LCA (Life Cycle Assessment) ... Considering the environmental impact of each stage from material procurement to production, use, and disposal.
+Hot stamping
+Development of Multi-material Lightweight Undercovers with GFRP
+Undercovers are used under automobile engines to protect the engine and improve aerodynamic performance and noise reduction. Depending on the intended use of each vehicle, the material may be steel, aluminum, or resin, etc.
+Focusing on GFRP’s lighter weight, we developed a multi-material undercover in which steel is
+partially used, which was adopted for the new Land Cruiser. We received a “Project Prize” from
+Toyota Motor Corporation and Toyota Auto Body in 2021 for achieving a weight reduction of one-fifth
+of the conventional weight while maintaining high strength, cost control, and for contributing to CO2
+reduction through LCA. Lightweight undercover made of multi-material using GFRP
+        · Rapid heating of the material, rapid cooling during molding
+· High degree of freedom in molding, including complex shapes · Low productivity, high power usage
+    ■ During molding ■ During production
+■ During molding ■ During production
+Difference in CO2 emissions between production methods * Our calculations
+       Cold stamping
+ · Forming high strength material in press machine · Difficult to stretch and form, requires advanced
+technical skills
+· High productivity, low power usage
+ Hot stamping Cold stamping
+ Pacific Industrial Co.,Ltd. Sustainability report 2021 30
+
+ Solving social and customer issues through products
+  MIRAI, a Toyota FCEV that uses many of our products
+Products for Electrified Vehicles
+With the shift to electrified vehicles such as HEVs, PHEVs, BEVs, and FCEVs*, which is proceeding against the backdrop of climate change and carbon neutrality, we are accelerating the development and sales of products for such vehicles.
+Along with reducing the weight of our stamping products, for molding, we are developing new materials, construction methods, and product designs by enhancing our urethane foam technology to meet the needs for sound and vibration insulation against motor noise arose in response to the shift to electric power.
+For valves, the new MIRAI uses a relief valve for hydrogen fuel, an important component that protects safety.
+Additionally, as the shift to motors is progressing, we are applying the forging press method used for engines and transmissions to parts for BEV units to make them lighter and more precise, and we are developing elemental technology for e-axles, an area that is expected to grow.
+* HEV...Hybrid electric vehicle, PHEV...Plug-in hybrid vehicle, BEV...Battery electric vehicle, FCEV...Fuel cell electric vehicle
+ 31
+Pacific Industrial Co.,Ltd. Sustainability report 2021
+Development of Control Valves for Heat Pump Systems
+While engine-powered cars use exhaust heat to warm the interior, electrified cars, which do not have a heat source, are increasingly using heat pump air conditioners, an energy-saving technology that uses the temperature difference between the refrigerant and the outside air to reduce battery power consumption and extend driving range. With the technology cultivated through the development of refrigerant valves for air conditioners for home appliances, our bases in Japan, the U.S., and France are collaborating to strengthen the development of electric expansion valves that contribute to system efficiency, and we are working to make them a pillar of new products that will lead to carbon neutrality.
+Electric expansion valves for BEVs
+ Recyclable Molding Products
+Our wheel cap center ornaments for automobiles, which account for about 50% of Japan’s market share, are made with a plating-free process by using film decoration and in-mold molding technologies, enabling 100% material recycling.
+In FY2020, molding products using in-mold film contributed to design improvements for the Yaris Cross. We will continue to promote the development of recyclable products to maximize the value of resources for a recycling-oriented society.
+100% recyclable center ornament
+Molding products used in the Yaris Cross
+    KPIs and monitoring indicators (FY2020)
+Contribution to a sustainable mobility society and prosperous living
+Improving mobility safety
+Environmentally friendly product development * Reference values are based on our calculations SASB
+TR-AP-440b.1
+SASB
+TR-AP-440b.2
+ Number of patents
+ 414
+ R&D expenses
+1.91billion yen
+ Number of new themes developed
+ 56
+  Percentage of products sold that are 100% recyclable or reusable*1
+ 64.5%
+ Total weight of recycled or remanufactured materials*2
+16,616t (Pacific Industrial)
+ Sales ratio of products for electrified vehicles KPI (HEV, PHEV, BEV, FCEV)
+ 21.9%
+   *1 Products made of steel, aluminum, recyclable resins, etc. *2 Those having been confirmed with the raw material manufacturer only
+Energy reduction during product use * Reference values are based on our calculations
+ Ratio of UHTSS products to KPI total stamping products
+ 20.6%
+ Number of TPMS products and TPMS valves sold
+KPI
+106 million
+  Global medium-sized car models (100,000 km/vehicle)
+  Weight reduction through UHTSS (cold stamping)
+ Reduction of approx. 27 kg of CO2
+
+       for ENVIRONMENT
+Minimizing environmental load
+In keeping with our environmental philosophy, one of our corporate philosophies, the Pacific Industrial Group has established environmental policies and are taking actions for environmental conservation at all the stages of our corporate activity with the goal of becoming an excellent company that has earned the respect of society.
+   SDGs
+Environmental Philosophy
+Environmental Policies
+Highly relevant SDGs
+We shall actively partake in protection of the global environment, and strive to be a “credible high quality company” that is respected by society.
+We accelerate environmental load reduction activities with the participation of all employees to achieve the PACIFIC Environmental Challenge 2050.
+     PACIFIC Environmental Challenge 2050
+We recognize the need to understand and act on global environmental initiatives from a medium- to long-term perspective, and have established policies and targets up to 2050, and put forward targets to challenge.
+As a company that conducts business on a global scale and benefits from the global environment, we will reduce the impact on the global environment as much as possible, and strive to mitigate and adapt to climate change so that future generations can live together with nature as we do now. We will work globally to realize a sustainable society.
+ Materiality
+  Mitigation of and adaptation to climate change
+Direction of efforts
+■ Production technology development/ facility upgrading
+■ Production process improvement
+■ Daily improvement activities
+■ Introduction of renewable energies
+■ Production technology development/ facility upgrading
+■ Daily improvement activities
+■ Defect reduction activities
+■ Material recycling
+■ Production technology development/ facility upgrading
+■ Daily water usage reduction activities
+■ Promotion of water reuse
+■ Change of surface processing specifications
+■ 2030 targets 50% reduction
+from FY2019
+■ 2050 targets Net Zero
+Medium- to long-term targets: KPIs
+    Reduce CO2 emissions toward building a carbon-free society
+Reduction of CO2 emissions (Scope 1,2)
+         Accelerate the use of recycling resources in pursuit of sustainable operations
+ Reduction of industrial wastes
+■ 2030 targets 60 reduction
+■ 2050 targets Minimum
+ Sustainable resources use
+    30% in Japan reduction
+usage
+% overseas from FY2019
+   Seek to minimize water usage and reduce water contamination risk according to local circumstances
+ Reduction of water usage
+■ 2030 targets Optimal
+■ 2050 targets Minimum
+ Conservation of water resources
+   usage
+usage
+Usage according to local circumstances
+   Reduce CO2 emissions throughout the life cycle
+We are promoting initiatives that cover all stages, from procurement and production to use and disposal, in order to reduce CO2 emissions throughout the product lifecycle. In addition to energy conservation and the introduction of renewable energies in our own production, we are also working with our customers and suppliers to reduce CO2 emissions, and on reducing CO2 emissions during the use of our products by reducing their weight, etc.
+LCA: Life Cycle Assessment
+Source: Prepared by us based on JAMA figures
+            Scope3 Scope1
+Materials Parts manufacturing Scope2
+<Electricity>
+Drastic reduction of CO2 through renewable energy generation
+Scope3
+Vehicle manufacturing
+Scope3
+Scope3
+Disposal
+           Current fuel efficiency regulations
+Driving Tank to Wheel
+BEV Electric appliances
+Fuel Production Tank to Wheel
+         WtW regulations
+     Pacific Industrial Co.,Ltd. Sustainability report 2021 32
+
+  Minimizing environmental load
+Resource Usage and Emissions (Material Balance)
+     INPUT
+Energy usage
+■ Electricity usage 163 million
+kWh
+■ Fuel and others
+293 thousand
+GJ
+Raw material input
+■ Organic/inorganic materials 8,487t
+■ Of which, solvents 2,224 t
+■ Metallic materials 183,462 t
+Water usage
+1,645 thousand m3
+Business process
+OUTPUT
+CO2 emissions
+85,798 t-CO2 (Scope 1 17,279t-CO2)
+(Scope 1 68,519t-CO2) Total amount of industrial wastes
+2,539 t
+■ Of which, landfill volume of Pacific Industrial 48t
+VOC emissions
+113 t
+■ Of which, landfill volume of Pacific Industrial 86t
+Raw material inputs are non-consolidated figures.
+            SASB
+TR-AP-130a.1
+R&D
+Test
+Prototyping
+Production
+Design
+Evaluation
+Sale
+                      Status of ISO 14001 Certification
+The Pacific Industrial Group considers ISO 14001 certification to be an absolute requirement as a manufacturer and has actively sought to build and maintain an environment management system (EMS) since 2000 on a global scale. With the addition of PIT, which was certified in February 2021, 19 of our 20 sites have been certified (eight in Japan and 11 overseas), equating to a 95% acquisition rate.
+Environmental Communication
+We invite residents living near our plants and government officials to our company office regularly to host social gatherings. We introduce visitors to our initiatives dedicated to environmental friendliness, safety, and sustainability, and take them on a tour around our plants and environmental facilities. We
+hosted such tours at the Higashi Ogaki Plant in September 2021. In addition, we work to educate the next generation by giving lectures at universities and others on environmental efforts.
+*Consolidated group (excluding TSC and PSC).
+  Environmental Targets for FY2021
+  Direction of efforts
+ Targets
+  1
+CO2 emissions
+ 5% reduction (global)
+  2
+ Amount of industrial wastes
+ 35% reduction in Japan 2% reduction overseas
+  3
+ Water usage
+ Optimal usage (global)
+   33
+Pacific Industrial Co.,Ltd. Sustainability report 2021
+from FY2019
+
+          CO2 Emission Reduction Topics
+TOPICS
+  Conversion of boiler fuel from heavy oil to city gas
+At our Higashi Ogaki Plant, we replaced the steam boiler with a small, once-through high-efficiency boiler, making it possible to switch the fuel from heavy oil to city gas, which emits less CO2. The annual reduction in CO2 emissions will be approximately 680 tons.
+Small once-through boiler installed at the Higashi Ogaki Plant
+  Converting to extra high-voltage power
+The Higashi Ogaki Plant originally received high-voltage power from an electric power company as well as produced its own electricity from an internal diesel-powered generator system. The introduction of special high-voltage power feeding system allowed us to shut down our conventional power generation system on a planned basis and cut fuel (heavy oil) consumption, enabling us to reduce CO2 emissions. The annual reduction in CO2 emissions will be approximately 1,000 tons.
+ Energy saving by downsizing cationic electrodeposition coating (E-Coat) equipment
+At our Nishi Ogaki Plant, by implementing improvements such as making coating hangers more universally adaptable, we were able to consolidate the production volume of two E-Coat lines for our stamping products into one and stop using one coating line entirely. We also deployed a fully integrated E-Coat line for small parts that incorporates processes from assembly up to and including final coating, reducing energy consumption and improving productivity. The annual reduction in CO2 emissions will be approximately 320 tons.
+Cationic electrodeposition coating equipment at Nishi Ogaki Plant
+Special high-voltage power receiving equipment at Higashi Ogaki Plant
+    Introduction of renewable energy
+SASB
+TR-AP-130a.1
+To increase the proportion of renewable energy in our electricity consumption, we have introduced solar power generation at six plants in Japan and at one plant overseas. In FY2021, we are installing solar power generation systems at our Kurihara Plant in the Tohoku region in Japan and at PVT in Taiwan, and we expect to increase the ratio of renewable-to-total energy consumption from 1.2% in FY2020 to 1.6%. In addition, going forward we will actively promote the introduction of renewable energy and increase the ratio of renewable energy.
+Solar panels at Higashi Ogaki Plant
+Pacific Industrial Co.,Ltd. Sustainability report 2021 34
+Energy conversion
+Energy conversion
+Production technology
+Renewable energy
+
+  Minimizing environmental load
+Mitigation of and adaptation to climate change
+We recognize that climate change is one of the most important issues facing society, and we have declared that we will be carbon neutral by 2050, reduce CO2 emissions by 50% by 2030 (compared to FY2019, Scope 1 or 2), and are implementing group-wide initiatives to reduce CO2 emissions. We also endorsed the TCFD in May 2021, and are working strategically to understand the
+risks and opportunities of climate change. In this report, we have organized our efforts to address
+climate change in line with the TCFD final recommendations.
+     Main “risks and opportunities”
+ Strategy
+ Indicators and Targets
+  Transition risks
+  · Carbon pricing
+· Requests from customers to reduce CO2
+emissions
+· Decrease in sales of parts for internal
+combustion engine vehicles
+ Set annual milestones and accelerate efforts to become carbon neutral.
+· Promote energy conservation and fuel switching on a daily basis · Planning for model plants for decarbonized production
+· Proactive renewable energy introduction
+· Introduction of ICP into capital investment decisions
+  · Reduce CO2 emissions by 50% by FY2030 · Reduce CO2 emissions to net zero by
+FY2050.
+(PACIFIC Environmental Challenge 2050) * Scope 1+2, compared to FY2019
+   Physical risks
+ · Floods
+· Heatstroke
+· Supply chain supply risks due to flooding,
+drought, etc.
+· At our Thailand plant, which has experienced flooding, strengthen drainage capacity by increasing the diameter of drain pipes, etc., and collect and analyze information on global flooding risks.
+· Establish a multi-company purchasing system and promote the incorporation of flood risk and other such concerns into our BCP, as major domestic suppliers are concentrated in Gifu and Aichi prefectures.
+· Proactively introduce air conditioners and air-conditioned clothing, share temperature information, and take other meticulous precautions to combat heatstroke.
+ Promote the following initiatives related to material topic “Climate change adaptation measures”
+· Support for business partner BCP
+formulation
+· Promote cooperation with local
+communities in times of disaster · Heat stroke prevention
+  Opportunities
+  · Increase in sales of lightweight products such as UHTSS products made by cold stamping (LCA contributes to CO2 reduction)
+· Increase in sales of products for EVs
+· Improving resilience (against disasters) by
+enhancing BCP, including those of suppliers
+ · Demand for UHTSS products is increasing in line with the global need for safer and more fuel-efficient vehicles. In particular, we are strategically introducing and proposing the use of UHTSS products made by cold stamping, which is one of our strengths, because it can reduce CO2 emissions during production to about 1/8 of that of the hot stamping method (according to our calculations).
+· Strengthen development of products for EVs in the areas of stamping, molding, valves, TPMS, and forged products in anticipation of the rapidly expanding trend toward electrification of automobiles.
+  Set the following KPIs for materiality
+· Ratio of UHTSS products to total stamping
+products (25% in FY2024)
+· Percentage of sales for electrified vehicles
+(FY2030 70%)
+     35
+Pacific Industrial Co.,Ltd. Sustainability report 2021
+Governance
+We have identified 15 material topics that are important for sustainability management, including “Mitigation of and adaptation to climate change,” and categorized them into four themes. The “Mitigation of and adaptation to climate change” is led by the General Manager of the Safety and Environment Department, who works with the Corporate Planning Department to set KPIs and integrate them into business activities. Among the material topics, “Mitigation of and adaptation to climate change” is recognized as the most important one. In addition to reporting and deliberating on the status and making decisions at the Sustainability Promotion Committee, held four times a year (attended by internal directors including the president), we discuss important issues individually at weekly Corporate Strategy Committee meetings. In addition, at least once a year, the Board of Directors deliberates on the status of sustainability activity reports and initiatives regarding risks and opportunities for climate change-related issues.
+Risk Management
+The materiality assessment of climate change is determined in consultation with the Corporate Strategy Committee and Board of Directors. Risks and opportunities are identified and evaluated by the Sustainability Promotion Committee and discussed at Corporate Strategy Committee meetings. Issues that are already recognized as having a significant impact, such as carbon neutrality and electrification, are discussed at Corporate Strategy Committee meetings and Board of Directors meetings as needed, they are incorporated into strategies, and then measures are formulated and implemented.
+Strategies, Indicators and Targets
+Received a high rating in the CDP survey
+We responded as a supply chain to a survey by the CDP, an international NGO that evaluates the quality of climate change initiatives and disclosure, and in December 2020 we received an “A-” leadership level rating on climate change and, in February 2021, we were named to the “Leaderboard” for supplier engagement.
+
+ Reduction of CO2 Emissions
+With an eye on the 1.5°C scenario of the Paris Agreement adopted in 2015, the Pacific Industrial Group endeavors to reduce energy usage by pushing forward such activities as production technology development, facility upgrading, production process improvement, and daily activity improvement and introduction of renewable energies. In FY2020, we worked to reduce CO2 emissions with the full-scale operation of our Higashi Ogaki Plant’s special high-voltage power feeding system and the efficient operation of compressors.
+ Targets and results (Pacific Industrial)
+Total Target 39.8 emissions kt or less
+Result 38.0
+Target Emissions per Target 49.1t/100million yen Result 46.4 t/100 Target kt achieved 100 million yen in sales or less million yen achieved
+  Changes in CO2 emissions KPI
+■ Total domestic emissions(kt) ● Emissions per 100 million yen in domestic sales (t/100 million yen)
+■ Total overseas emissions (kt) ◆ Emissions per 100 million yen in overseas sales (t/100 million yen) The Group’s total emissions (kt)
+Scope 3
+Deployed Renewable Energy Capacity by Site
+ Strategy
+CO2 emissions (t-CO2)
+ Domestic (Pacific Industrial)
+ 1
+ Purchased goods and services
+460,875
+2
+ Capital goods
+  28,829
+ 3
+Fuel and energy-related activities not included in Scope 1 or 2
+6,445
+4
+ Transportation and delivery (upstream)
+ 6,372
+5
+ Wastes generated in operations
+  470
+ 6
+Business travel
+200
+7
+ Employee commuting
+ 2,410
+9
+ Transportation and delivery (downstream)
+  8,298
+ 12
+End-of-life treatment of sold products
+ 1,566
+Scope 3
+ 515,465
+ Base
+Solar power generation capacity (kW)
+ Nishi Ogaki Plant
+ 200
+ Higashi Ogaki Plant
+ 500
+ Kyushu Plant
+  300
+ Kita Ogaki Plant
+469
+ Mino Plant
+ 100
+ Yoro Plant
+ 100
+ Domestic
+  1,669
+ South Korea PVI
+100
+ Overseas
+ 100
+ Global
+ 1,769
+78.7 84.1
+106.9 43.4
+94.2
+56.8
+90.1 94.3
+85.8
+47.8
+69.7
+46.4
+38.0
+2020 (Fiscal year)
+47.1
+51.7
+     40.1
+58.4
+76.5
+68.0
+51.6
+47.3
+  38.7 40.7
+2016 2017
+43.1 42.5
+2018 2019
+*The Scope 3 figures were calculated based on the emission intensity database for calculating greenhouse gas emissions and other emissions by organizations throughout the supply chain (Ver. 3.0) published by the Ministry of the Environment.
+ * We employ emission factors for the calculation of CO2 emissions included in the List of Calculation Methods/Emission Factors for the Calculation, Report, and Publishing Systems published by the Ministry of the Environment and the Ministry of Economy, Trade and Industry.
+Sustainable resources use
+ The Pacific Industrial Group is pushing forward resource recycling by reducing industrial waste generation through defect reduction activities in the manufacturing process and by recycling materials, primarily waste rubber and resin. In FY2020, we worked mainly on transforming woodchips and sludge into usable material at the Kurihara Plant and reducing waste plastic at the Higashi Ogaki Plant.
+Industrial waste-related trends KPI SASB
+■ Amount of domestic landfill wastes (t) ■ Amount of domestic industrial wastes (t)
+TR-AP-150a.1
+◆ Domestic recycling rate (%)
+91 91 92 94
+2016 2017 2018 2019
+   Targets and results (Pacific Industrial)
+Total amount of industrial wastes
+Target 455t or less
+Result 687 t Target not achieved
+Targets and results (Pacific Industrial)
+Total water usage
+Target 1,514km3 or less
+Result 1,393 km3 Target achieved
+■ Amount of overseas industrial wastes (t)
+Amount of industrial wastes generated by the Group (t)
+2,055 2,352 2,759 3,132
+2,539
+1,852
+375
+462
+2,175
+96
+2020 (Fiscal year)
+584
+Changes in water usage (km3)
+■ BOD (t/year)
+■ COD (t/year) 4.8
+3.8
+2,202
+   1,890 1,680
+    24 24 28 66 48
+2016 2017 2018 2019 2020 (Fiscal year)
+Conservation of water resources
+929
+687
+   The Pacific Industrial Group actively manages and reduces water usage to be in line with regional circumstances, encourages water recycling, and endeavors toward efficient water consumption and its preservation. In FY2020, we downsized our ED-coat facilities and reduced water consumption. We will continue to work to control wastewater quality and preserve the quality of normal water, and promote activities to conserve biodiversity, including maintaining the ecosystems in river source and watershed areas.
+Changes in water usage KPI
+■ Domestic water usage (km3) ■ Overseas water usage (km3)
+BOD·COD emissions trends
+ Nishi Ogaki Plant Higashi Ogaki Plant
+5.0
+2.9
+0.5 0.3
+■ BOD (t/year) ■ COD (t/year)
+  1,583
+1,716
+1,756
+1,744
+1,645
+252
+1,393
+4.6
+2017
+5.0
+  168 150
+180 231
+    3.5
+3.5
+0.4 0.1
+2020 (Fiscal year)
+      2.8
+0.2
+2.4
+   1,433
+1,548
+1,577
+1,514
+0.4
+0.4 0.20.3 0.1
+2018 2019
+  2016
+2017
+2018
+2019
+2020 (Fiscal year)
+2016
+* Emission figures are totals calculated from data from all in-Group companies aside from domestic subsidiaries (TSC and PSC).
+* We have adjusted calculation method and some data points.
+Pacific Industrial Co.,Ltd. Sustainability report 2021 36
+Downstream Upstream Classification
+
+        for EMPLOYEES
+Respecting human resources and their active partcipation
+From the perspective of respect for human rights and dignity, the Pacific Industrial Group will provide a workplace where all employees can work at ease in an environment that allows them to find work they can be proud of, and encourages them to demonstrate their creativity and spirit of challenge.
+Highly relevant SDGs
+Implementation of Human Rights Surveys
+Through human rights due diligence mechanisms, our Group strives to identify and either prevent or mitigate negative impacts on human rights. These mechanisms include the regular monitoring of the implementation status of our “Code of Conduct” and “Supplier CSR Guidelines”. Through questionnaires conducted in FY2020, we confirmed that there were no serious cases of human rights violations at our three domestic group companies or at our suppliers. Since then, we have conducted questionnaires for all employees at overseas business entities the same way as we do in Japan, and are working to improve human rights awareness.
+New employee training
+Human rights feature in company newsletter
+Stable Employment and Decent Work Environment
+Respect for human rights
+Human Rights Policy Formulation
+In recent years, the importance of corporate efforts to address human rights issues as a social requirement is growing. We consider human rights to be a core issue for sustainability management and created the “Pacific Industrial Group Human Rights Policy” in February 2021. Under this policy, all employees will act with high ethical standards and integrity as sensible members of the global community, and the entire Group will work together to promote initiatives that respect human rights.
+Education
+Upon the development of our “Human Rights Policy”, in order to raise awareness of human rights within the Group and to put into practice the creation of a corporate culture of respect for human rights, we conduct awareness-raising and educational activities to promote proper understanding of those rights and ensure that information is shared throughout the company. Specifically, in addition to incorporating human rights education into training programs for employees at each level of our company and conducting regular e-learning, we are creating versions of our policies in other languages and using them to ensure that our overseas bases are fully aware of them, as well as expanding them to related business partners. We also created a special feature article on human rights in the company newsletter distributed to all employees to promote understanding of the importance of human rights.
+          37
+Pacific Industrial Co.,Ltd. Sustainability report 2021
+Improving Employee Engagement
+We believe that the key to continued value creation is the ease and satisfaction employees feel when fulfilling their roles. We therefore analyze the results of various surveys conducted within our company so that we can better understand the progress and challenges of efforts to improve employee awareness and satisfaction, and share issues with management and other employees in order to create a company and workplace that is cheerful and rewarding to work at while simultaneously exploring and implementing other measures to improve engagement.
+Work-Life Balance
+We are implementing a variety of measures to ensure that employees are able to feel satisfaction and personal growth at work, while living a fulfilling personal life. In addition to being awarded “Kurumin” certification as a company that supports childcare, we have set a target of having employees take 12 days of annual paid vacation and have been working to ensure that target is achieved. In April 2019, we introduced a work-interval system to guarantee the minimum hours away from work before coming in for the next day. We will remain committed to supporting our employees to maintain a balance between work and their personal commitments including childcare and nursing care, while fostering a work environment and corporate culture that encourages employees to use vacation time, maintain their health, and work vigorously.
+Pacific Industrial was awarded with “Kurumin” certification logo, by the Ministry of Health, Labour and Welfare.
+
+ The safety and health of employees
+Building a Safe and Secure Workplace
+Based on the principle of safety first, we promote safety management initiatives centered on human resource development, equipment safety measures, and workplace development to provide a healthy, safe, and secure workplace for employees.
+■ Human Resource Development
+In order to become a company that is strict about safety, we use the Study Hall as a base for technical education. We also conduct safety experience education, risk assessment education, and hazard prediction training for employees at each level to improve their ability to recognize danger as part of our efforts to increase risk sensitivity. We are also promoting the establishment and expansion of safety dojos to provide extensive safety education even at remote plants.
+■ Equipment Safety Measures
+Focus items for the eradication of STOP6, which are the six key factors that can lead to major accidents, are incorporated into our daily activities, and we are working to establish and continue implementing those activities, clarify priorities, and promote countermeasures. We aim to create a safe workplace through risk eradication at the process and equipment design stage, and work risk assessments at the installation stage, for the safety of new equipment and lines.
+■ Providing Proper Work Environments
+We are working toward providing comfortable work environments by introducing air-conditioned clothing and systematically making progress on converting plant lighting to LEDs. Through changing to LED lighting, average brightness has improved by 140%, which has a positive impact on the work environment. As of the end of June 2021, 55% of the floor space of all plants in Japan have LED lighting installed, and CO2 emissions have been reduced by 1,336 tons per year (cumulative total).
+Health Management Initiatives
+From 2005, we began efforts to promote work-life balance. In 2006, we became the first company to be registered as a “Hatsu Ratsu Workplace Creation Declaration” by the Gifu Labor Bureau, and since then we have been promoting the mental and physical health of our employees in a concrete and continuous manner. In recent years, with the declining birthrate, aging population, and health consciousness, the importance of health management is increasing. We are also placing importance on the health of our employees as the foundation for the success of our human resources. In September 2021, we stipulated our stance on this matter in the “Pacific Industrial Group Health Declaration.” By running the cycle of health management, we will enhance the social value of employee health and connect this to improving our ability to create value.
+Activity Status and Targets
+Education at the Safety Dojo
+   Improved work environments by switching to LED lighting
+ <Pacific Industrial Group Health Declaration>
+We consider the health and safety of our employees to be the starting point of “monozukuri”, and we will work to maintain and improve the physical and mental health of our employees and their families, and create a comfortable work environment for the sustainable growth of the company and our employees. In order to achieve our brand slogan, “Passion in Creating Tomorrow,” we declare that we value new ideas and challenges, and that we will strive to create a company where people can feel a sense of harmony between work and life, and work in a healthy and vigorous manner.
+September 2021
+Shinya Ogawa
+President ,Member of the Board Pacific Industrial Co., Ltd.
+(FY/Pacific Industrial)
+ Item
+ 2018
+ 2019
+ 2020
+ 2021 (Target)
+ Health checkup implementation rate
+100%
+100%
+100%
+100%
+ Reexamination implementation rate among symptomatic patients
+ 85.3%
+ 82.6%
+ 77.0%
+ 85%
+ Stress check implementation rate
+ 98.9%
+ 97.2%
+ 98.9%
+ 100%
+ Pacific Industrial Co.,Ltd. Sustainability report 2021 38
+
+  Respecting human resources and their active partcipation
+Development of human resources and Cultivation of culture that we can tackle new endeavors
+  Basic Approach and Policy for Human Resources Education
+With the intent to achieve our management strategy, and with an eye on the medium to long-term human resource development issues of raising up the baseline of the new generation of workers and the early development of leaders, we believe that the key to human resource development is “where ability meets compassion”. Therefore, in addition to providing education to improve skill, we also provide well-balanced, well-timed education opportunities to acquire both ability and compassion.
+Strengthen Education at Each Level
+In April 2021, we conducted a complete review of our new education program and restructured it into an effective education system that nurtures people. For our staff, we have expanded training for supervisory positions, introduced problem solving and Toyota Production System (TPS) training for new employees, systematized training on safety, quality, and productivity for technical staff, and incorporated training to improve compassion into the new program.
+Diversity and Inclusion
+Policies and Initiatives
+We believe that by creating a work environment and corporate culture that is inclusive and allows employees to demonstrate their abilities in accordance with their internal attributes, including their individuality, strengths and weaknesses, health conditions, personality, beliefs, and sexual orientation, we can revitalize workplaces, contribute to innovation, and reduce employee turnover rate. To this end, we respect diversity and inclusion as one of our management strategies, and we are promoting various cross- functional initiatives within the company.
+Dialogue with Labor Unions
+Improving Work Methods
+Based on the idea that each and every employee can enhance their work productivity by being continuously involved in improvements and, as a result, enrich their personal lives as well, we are continuously promoting
+ the improvement of work methods without being constrained by conventional methods.
+ Promotion of Women’s Activities
+We believe that the further advancement of women is essential for the sustainable growth of a company and the strengthening of corporate competitiveness. We promote the hiring of capable human resources, regardless of gender, the creation of a work environment that allows employees to choose various work styles, and career education necessary for individual growth. We are working to increase the percentage of female university graduates hired each year to 10% or more. Our goal is to increase the ratio of female managers in the entire Group to 14% or more by FY2030.
+TPS education
+Management training
+     39
+Pacific Industrial Co.,Ltd. Sustainability report 2021
+Status of Dialogue between Labor and Management
+Our company and the Pacific Industrial Workers Union strive to maintain and strengthen sound labor-management relations, respecting differences in positions and perspectives, and aiming for the sustainable development of the company through mutual trust.
+Monthly labor-management roundtables and councils are held to discuss issues such as employment stability, working conditions, safety and health, and production and sales activities, and to promote communication.
+
+     Basic Data
+Number of employees (regular) (persons)
+Male (persons)
+Female (persons)
+Non-regular (persons)
+By region
+Japan (persons)
+Europe/North America (persons)
+Asia (persons)
+Average age (age)
+Male (age)
+Female (age)
+Average length of service (years)
+Male (years)
+Female (years)
+Respect for Human Rights
+Coverage rate of human rights investigations (SAQ) (number of offices and plants) (%) Participation rate in human rights education (%)
+KPI
+Group
+Group
+Group
+Group
+Group
+Group
+Group
+Pacific Industrial
+Pacific Industrial
+Pacific Industrial
+Pacific Industrial Pacific Industrial
+Pacific Industrial
+Group
+Pacific Industrial
+Pacific Industrial
+Pacific Industrial
+Pacific Industrial
+Pacific Industrial
+Pacific Industrial
+Pacific Industrial
+Group
+Group
+Group
+Group
+Pacific Industrial
+Nationwide manufacturing industry
+Nationwide transportation machinery and equipment manufacturing
+Group
+Pacific Industrial
+Nationwide manufacturing industry
+Nationwide transportation machinery and equipment manufacturing
+Pacific Industrial
+3,511 3,622
+− −
+− −
+549 732
+− −
+− −
+− −
+− −
+− −
+− −
+− −
+− −
+− −
+− −
+− −
+1.1 1.8
+1 2
+9 6
+100 100
+100 78.3
+32.6 34.2
+− −
+− −
+− −
+0.69 0.41
+0 0.45
+1.15 1.02
+0.39 0.43
+0.01 0.02
+0 0.04
+0.07 0.08
+0.05 0.03
+− −
+4,390
+−
+−
+1,148
+−
+−
+−
+40.2
+40.1
+41.7
+14.4
+14.2
+16.5
+−
+−
+2.0
+3
+8
+100
+95.8
+35.3
+−
+−
+−
+0.57
+0.81
+1.2
+0.54
+0.04
+0.06
+0.10
+0.05
+−
+4,806 4,797
+− 3,796
+− 1,001
+1,193 970
+2,016 2,075
+1,566 1,529
+1,234 1,193
+39.9 40.2
+39.7 39.8
+42.1 43.9
+13.8 13.8
+13.6 13.4
+16.4 17.8
+− 40.9
+− 98
+2.2 2.1
+1 7
+7 5
+100 100
+98.4 99.3
+32.8 20.9
+− 4,651
+− 1,531
+− 858
+0.49 0.35
+0.73 0.40
+1.2 1.21
+0.5 0.48
+0.01 0.00
+0.01 0.01
+0.10 0.10
+0.04 0.04
+− 7
+− 23.9
+− 98.7
+− 42
+3.0 3.1
+9.6 10.3
+11.1 11.5
+19.8 22.6
+− 0
+− 46.5
+− 20.9
+− 58.8
+2.10 2.16
+93 105
+− 86
+− 47
+Scope
+2016 2017
+2018
+2019 2020(FY)
+                                Stable Employment and Decent Work Environments
+Turnover rate (%)*1*9 KPI
+Childcare leave recipients : Male (persons)
+: Female (persons)
+Female employees taking parental leave and returning to work (%)
+Achievement rate of annual paid leave acquisition target per employee (%)*2 Monthly overtime hours worked per employee (hours)
+Employees with medical insurance (persons)
+Employees in employee stock ownership plan (persons)
+               Employees using flextime system (persons)
+The Safety and Health of Employees
+Lost time injury frequency rate (%)*3 *4 *5 *9
+Lost time injury severity rate (%)*4 *5 *6 *9
+Employees on mental health leave (persons)
+KPI
+            Development of human resources and Cultivation of culture that we can tackle new endeavors
+ Training hours per person (hours)*7 KPI
+Rate of employees receiving regular job and career development assessments (%)
+Rate of employees trained in career or skills development (%)
+Diversity and Inclusion
+Rate of females in management positions (%)*8 KPI
+Rate of female supervisors in administrative and technical positions (%)*8
+Rate of foreign nationals in management positions (%)
+Rate of mid-career employees in management positions (%)
+Rate of employees with disabilities (%)
+Reemployment of seniors (persons)
+Other
+Rate of employees with labor union membership (%)
+Notes:
+*1 Retirees for personal reasons. Excluding retirement age. Regular
+employees.
+*2 Yearly acquisition target is 12 days
+*3 Number of fatalities and injuries due to occupational accidents (lost time
+injuries)÷total number of actual working hours x 1,000,000
+Pacific Industrial
+Pacific Industrial
+Pacific Industrial
+Pacific Industrial
+Group*9
+Pacific Industrial
+Group*9
+Pacific Industrial
+Group
+Pacific Industrial
+−
+−
+−
+2.3
+6.8
+15.6
+20.9
+−
+−
+−
+− −
+− −
+− −
+2.3 3.1
+7 7
+12.3 11.2
+20.1 19.2
+− −
+− −
+− −
+− −
+2.27 2.32
+66 82
+− −
+− −
+           Group −
+ Pacific Industrial*10
+Pacific Industrial
+Pacific Industrial
+Group
+2.03
+64
+−
+−
+     *4 Including temporary and dispatched employees
+*5 Source: Ministry of Health, Labour and Welfare, “Survey of
+Occupational Accident Trends (Calendar Year)”
+*6 Total number of working days lost÷total number of actual
+*7 Excluding OJT
+*8 PAT is included from FY2018, SPF and SPU from FY2019 *9 Calculation method was revised, and some data corrected.
+working hours x 1,000
+Pacific Industrial Co.,Ltd. Sustainability report 2021 40
+
+ Consolidated Financial Statement (Summary)
+Consolidated Balance Sheets
+Millions of yen
+Thousands of U.S. dollars
+Millions of yen
+Thousands of U.S. dollars
+        FY2020 FY2020
+   (Assets)
+    28,332 255,915
+ 24,027 217,031
+ 6,969 62,952
+ 4,383 39,595
+ 4,148 37,475
+ 3,113 28,121
+ 614 5,547
+ (133) (1,201)
+ 71,456 645,437
+   28,781 259,972
+ 48,227 435,619
+ 5,816 52,542
+ 10,089 91,138
+ 1,104 9,978
+ 7,963 71,927
+ 101,983 921,178
+ 12,640 114,180
+  32,497 293,533
+ 60 549
+ 259 2,345
+ 5,903 53,327
+ 732 6,618
+ (3) (32)
+ 39,450 356,342
+ 154,075 1,391,701
+ 225,531 2,037,139
+   FY2020 FY2020
+   (Liabilities)
+    12,005 108,440
+ 7,566 68,349
+ 4,188 37,835
+ 9,614 86,840
+ 5,057 45,678
+ 2,502 22,605
+ 2,404 21,715
+ 679 6,134
+ 172 1,560
+ 1,536 13,877
+ --
+ 19 175
+ 2,127 19,218
+ 47,874 432,431
+  52,480 474,038
+ 10,388 93,835
+ 161 1,458
+ 716 6,471
+ 1,401 12,659
+ 65,148 588,463
+ 113,023 1,020,894
+   (Net Assets)
+    7,316 66,091
+ 7,643 69,042
+ 79,964 722,286
+ (224) (2,031)
+ 94,700 855,388
+  14,893 134,526
+ 1,135 10,252
+ 985 8,902
+ 17,013 153,680
+ 141 1,280
+ 652 5,894
+ 112,508 1,016,244
+ 225,531 2,037,139
+    Current Assets
+Cash and time deposits
+Trade notes and accounts receivable
+Merchandise and finished goods
+Work in process
+Raw materials and supplies
+Other accounts receivable
+Other current assets
+Allowance for doubtful accounts
+Total current assets
+Noncurrent Assets
+Property, plant and equipment
+Buildings and structures
+Machinery and vehicles
+Tools, furniture, and fixtures
+Land
+Lease assets
+Construction in progress
+Total property, plant and equipment
+Intangible fixed assets
+Investments and other assets
+Investments in securities
+Long-term loans
+Deferred tax assets
+Net defined benefit assets
+Other investments and other assets
+Allowance for doubtful accounts
+Total Investments and other assets
+Fixed assets
+Total Assets
+FY2019
+18,315
+24,452
+6,522
+4,638
+3,829
+2,701
+673
+(74)
+61,060
+26,155
+41,729
+5,499
+9,884
+1,219
+13,873
+98,361
+13,682
+25,796
+59
+248 4,251 822
+(3)
+31,175
+143,219
+204,280
+Current Liabilities
+Trade notes and accounts payable
+Electronically recorded obligations - operating
+Short-term borrowings
+Current portion of long-term borrowings
+Other accounts payable
+Accrued expenses
+Income taxes payable
+Consumption taxes payable
+Deposits received
+Allowance for bonuses
+Allowance for bonuses to directors
+Notes concerning installations
+Other current liabilities
+Total current liabilities
+Noncurrent Liabilities
+Long-term borrowings
+Deferred tax liabilities
+Provision for directors retirement benefit
+Net defined benefit liabilities
+Other noncurrent liabilities
+Total noncurrent liabilities
+Total liabilities
+Shareholders' Equity
+Capital stock
+Capital surplus
+Retained earnings
+Treasury stock at cost
+Valuation and translation adjustment
+Valuation and Translation Adjustment
+Valuation difference on available securities
+Foreign currency translation adjustments
+Remeasurement of defined benefit plan
+Total valuation and translation adjustment
+Subscription rights to shares
+Minority interests
+Total net assets
+Total Liabilities and Net Assets
+FY2019
+10,876
+7,017
+4,720
+6,450
+4,457
+2,307
+583
+126
+642
+1,563
+57
+94
+3,910
+42,807
+52,471
+8,126
+184
+682
+1,586
+63,050
+105,858
+7,316
+7,705
+73,443
+(246)
+88,220
+10,653
+(1,139)
+(176)
+9,337
+184
+680
+98,422
+204,280
+                                                                       The U.S. dollar amounts in the consolidated balance sheets were converted from Japanese yen amounts at the rate of ¥110.71 to U.S. $1, the rate of exchange as of March 31, 2021.
+41 Pacific Industrial Co.,Ltd. Sustainability report 2021
+
+ Consolidated Financial Statement (Summary)/ Stock Information
+Consolidated Statements of Income
+Millions of yen
+Thousands of U.S. dollars
+State of Shares
+Principal Shareholders (top 10)
+(As of March 31, 2021)
+90,000,000 61,312,896 4,254
+(As of March 31, 2021)
+ Number of shares the Company is authorized to issue
+ Number of shares already issued
+ Number of shareholders
+    FY2020 FY2020
+ 150,408 1,419,748
+ 129,280 1,220,317
+ 21,127 199,430
+ 12,152 114,714
+ 8,974 84,716
+  36 349
+ 625 5,906
+ 772 7,289
+ 627 5,918
+ 603 5,693
+ 2,665 25,157
+  365 3,453
+ --
+ 55 524
+ 421 3,978
+ 11,218 105,895
+  162 1,537
+ --
+ 802 7,576
+ 965 9,113
+ 10,253 96,781
+ 2,326 21,956
+ (52) (494)
+ 2,273 21,461
+ 7,979 75,319
+ (3) (32)
+ 7,982 75,352
+      Net Sales
+Cost of sales
+Gross Profit
+Selling, general and administrative expenses
+Operating Income
+Non-Operating Income
+Interest income
+Dividend income
+Equity in earnings of affiliated companies
+Foreign exchange gain
+Other non-operating income
+Non-operating income
+FY2019
+165,969
+142,533
+23,436
+12,924
+10,511
+87
+639
+345 -
+513
+1,586
+321
+568
+77
+967
+11,130
+248 1,334
+- 1,583
+9,546
+1,822
+636
+2,458
+7,088
+(168)
+7,256
+Number of shares held (thousands of shares)
+Shareholding ratio (%)
+           Shareholder name
+   Custody Bank of Japan, Ltd (Trust Account)
+5,640
+   The Master Trust Bank of Japan, Ltd. (Trust Account)
+3,589
+   MUFG Bank Ltd.
+2,679
+   Ogaki Kyoritsu Bank, Ltd.
+2,671
+   The Juroku Bank, Ltd.
+2,619
+   Nippon Life Insurance Company
+2,359
+   The Dai-ichi Mutual Life Insurance Company
+2,349
+   Employee stock ownership of Pacific Industrial Co., Ltd.
+2,084
+   PEC Holdings Corporation
+1,987
+   Giken K. K.
+1,891
+            Non-Operating Expenses
+9.25
+5.88
+4.39
+4.38
+4.29
+3.86
+3.85
+3.41
+3.25
+3.10
+  Interest expense
+Foreign exchange loss
+Other non-operating expense
+Non-operating expenses
+Ordinary Income Extraordinary Income
+Gains on sale of fixed assets
+Impairment loss
+Settlement money Extraordinary losses
+Income Before Income Taxes and Minority Interests
+Income taxes-current
+Income taxes-deferred
+Income taxes
+Net Income
+Loss attributable to non-controlling interests
+Profit attributable to owners of parent
+(Note) The shareholding ratio, excluding treasury stock (348,993 shares), is rounded to two decimal places.
+                            Consolidated Statements of Comprehensive Income
+百万円
+千米ドル
+Distribution of Shares
+(As of March 31, 2021)
+   FY2020
+  FY2020
+ 7,979
+75,319
+   4,180
+  37,760
+ 2,381
+21,509
+ 1,161
+  10,495
+ (9)
+(88)
+ 7,713
+ 69,677
+ 15,693
+ 144,996
+   15,659
+ 144,680
+ 33
+  316
+   FY2019
+7,088
+(847)
+(2,208)
+(607)
+40
+(3,622)
+3,465
+3,666
+(201)
+Treasury stock
+Financial instruments business operators
+    Net Income
+Other Comprehensive Income
+Unrealized gains on available-for-sale securities Foreign currency translation adjustments Remeasurements of defined benefit plans
+Share of other comprehensive income of associates accounted for using the equity method
+Total other comprehensive income
+Comprehensive Income
+Comprehensive income attributable to:
+Owners of the parent
+Comprehensive income attributable to non-controlling interests
+0.5%
+0.5%
+ Individuals Financial
+and others
+institutions
+ 21.2%
+45.4%
+      Foreign corporations
+  20.4%
+   Other Japanese corporations
+ The amounts in the consolidated statements of income and the consolidated statements of comprehensive income were converted from Japanese yen amounts at the rate of ¥105.94 to U.S. $1, the average exchange rate of FY2020.
+12.0%
+Pacific Industrial Co.,Ltd. Sustainability report 2021 42
+
+ Summary of Major Management Data
+For the year
+Net sales *1
+Operating income *1
+Ratio of operating income to sales (%)
+Ordinary income *1
+Ratio of ordinary income to sales (%)
+Net income for the year attributable to owners of the parent *1 Ratio of net income to sales (%)
+EBITDA *1 *2
+Capital expenditures
+Depreciation expenses *1
+R&D expenses *1
+At year end
+Total assets
+Net assets
+Equity ratio (%)
+Cash flows
+Cash flows from operating activities *1
+Cash flows from investing activities *1
+Cash flows from financing activities *1
+Free cash flow *1
+Per share data
+Net assets (BPS)
+Net income (EPS) *1
+Cash dividends
+Major operating ratio
+Total assets turnover ratio
+ROA/Return on assets (%) *2
+ROE/Return on equity (%) *2
+ESG data
+CO2 emissions (kt) *3 *5
+Industrial wastes (t) *3 *5
+Water usage (km3) *3
+Millions of yen
+Thousands of U.S. dollars
+       2015
+2016
+2017
+117,758
+2018 2019
+FY2020
+FY2020
+       145,030 165,969
+150,408
+1,419,748
+    8,063
+6.8
+10,307 10,511 7.1 6.3
+8,974
+6.0
+84,716
+6.0
+    9,485
+8.1
+11,767 11,130 8.1 6.7
+11,218
+7.5
+105,895
+7.5
+    7,393
+6.3
+8,730 7,256 6.0 4.4
+7,982
+75,352
+5.3
+ 19,407
+26,113
+5.3
+   25,200 26,355
+246,492
+    20,832
+21,970 23,451
+16,244
+146,734
+    9,919
+1,112
+12,704 14,192
+14,565
+137,492
+    1,478 1,943
+1,911
+18,044
+       106,886
+7,869 7.4
+9,013 8.4
+7,114 6.7
+17,095
+11,988
+8,003
+943
+129,954
+73,244
+55.7
+15,211
+△12,754
+△236
+2,456
+1,339.62
+132.42
+26.00
+0.81
+6.0
+9.7
+103,669
+8,662 8.4
+9,957 9.6
+7,524 7.3
+18,557
+16,633
+8,414
+1,004
+140,869
+84,266
+59.2
+14,381
+△16,420
+246
+△2,039
+1,404.98
+138.08
+28.00
+0.77
+6.4
+9.7
+79
+2,055
+1,583
+6.8
+0.69
+3,511
+Millions of yen
+Millions of yen
+Yen
+Thousands of U.S. dollars
+Thousands of U.S. dollars
+Thousands of U.S. dollars
+                  2015
+2016
+2017
+158,858
+2018 2019
+FY2020
+FY2020
+       203,831 204,280
+225,531
+2,037,139
+     91,913
+ 57.2
+97,075 98,422
+112,508
+1,016,244
+    47.0 47.8
+49.5
+49.5
+               2015
+2016
+2017
+2018 2019
+FY2020
+FY2020
+       17,944
+18,941 21,190
+26,988
+254,753
+     △22,229
+△40,595 △24,270
+△18,509
+△174,717
+     5,239
+808
+7,632
+                         Ratio of women in management positions (%) *4 *5
+Lost time injury frequency rate*5
+Number of employees
+   Notes:
+*1 U.S. dollar amounts presented are calculated at the exchange rate as of March 31, 2021 with Japanese yen amounts to U.S. dollar amounts at ¥110.71 to US$1.00. However,
+for those with a *1 mark, the amounts are calculated at the average rate during the fiscal year of Japanese yen amounts to U.S. dollar amounts at ¥105.94 to US$1.00.
+*2 Calculation formulas for indices
+EBITDA = Net income before income tax, etc. + Interest expenses + Depreciation expenses (including Amortization of goodwill) + Impairment loss ROA = Ordinary income / ((Total assets at the end of previous fiscal year + Total assets at the end of current fiscal year) / 2)
+ROE = Net income of current fiscal year / ((Equity at the end of previous fiscal year + Equity at the end of current fiscal year) / 2)
+*3 Figures for CO2, industrial wastes and water usage are for the consolidated group excluding the three domestic subsidiaries.
+*4 PAT and SPF/SPU have been covered since FY2018 and 2019, respectively.
+*5 Calculation method was revised, and some data corrected.
+43 Pacific Industrial Co.,Ltd. Sustainability report 2021
+△4,284
+29,231 90
+ △21,653 △3,080
+8,479
+80,036
+           2015
+2016
+2017
+  1,508.95
+2018 2019
+FY2020
+FY2020
+     1,590.09 1,614.01
+1,846.06
+16.67
+    123.53
+131.95
+1.24
+   28.00
+144.80 120.12
+ 33.00 30.00
+33.0
+0.29
+         2015
+2016
+2017
+2018 2019
+FY2020
+     0.78
+0.70
+   5.4
+8.5
+0.80 0.81
+ 5.7 5.2
+4.2
+    9.3 7.5
+7.6
+       2016
+2017
+84
+2018 2019
+FY2020
+    90 94
+86
+    2,352
+2,759 3,132
+2,539
+    1,716
+1,756 1,744
+1,645
+    7.0
+10.3
+   0.41
+7.0 9.6
+ 0.57 0.49
+0.35
+    3,622
+4,390 4,806
+4,797
+   
+ Pacific Industrial Co., Ltd. Sustainability report 2021
+  Third-party Opinion
+In this year’s report, Pacific Industrial’s commitment to promoting sustainability management is clearly stated in the top management message and throughout the report, and 15 material topics have been defined as important issues to be tackled based on the Sustainable Development Goals (SDGs). For each material topic, the objectives (ideal state), major initiatives, KPIs, and achievements are listed in a table, and the latter half of the report provides further details, showing the company’s sincere attitude and enthusiasm in promoting sustainability management.
+Among the 15 material topic initiatives, I would like to list four representative initiatives that make use of the ideas and strengths that Pacific Industrial has carefully cultivated over the years.
+The first is “Contribution to a sustainable mobility society and prosperous living.” Up to now, the company has utilized its advanced technological capabilities to develop products that realize CSR. Examples include TPMS, which monitors tire pressure to ensure safety, and ultra-high tensile strength steel (UHTSS) products, which contribute to the reduction of CO2 emissions by reducing automobile weight. The development of the new product “e-WAVES” shows that products developed using these technologies are expanding into other fields as well and not limited to automobiles.
+The second is “Responsible procurement.” The objective (ideal state) here is to address sustainability issues, such as human rights and the environment, not only within the company itself but also throughout the supply chain. In 2020, as a result of these efforts, the company reported that it has reviewed its supplier CSR Guidelines, rolled them out to suppliers, and conducted self-assessments. Up to now, the company has clearly stated its purchasing policy, strived for fair trade, and built solid relationships of trust with suppliers by working together. As Mr. Takegahara of the Development Bank of Japan pointed out in the Top- Level Discussion, “Responsible procurement” based on such relationships
+Yoshimi Aoki
+President
+OKB Research Institute Co., Ltd.
+OKB Research Institute Co., Ltd.
+A think tank of Ogaki Kyoritsu Bank, OKB Research Institute works with the bank to conduct surveys and research on the industrial and economic trends, lifestyles and cultures of the community, with the goal of promoting local industries, developing companies, and improving the livelihoods and cultures of local residents.
+of trust will be required even more in the future.
+Third is “Respect for human rights.” This issue will be the focus of
+attention in the future. In October 2020, the Japanese government launched the National Action Plan on Business and Human Rights and is now implementing a series of measures to encourage companies to act in this area. I think the reason the company has been able to quickly adopt such trends is because it has always valued employees as human assets, and has “respect for human rights and dignity” as one of its corporate philosophies.
+Fourth is “Mitigation of and adaptation to climate change.” The company has always been committed to global environmental protection as one of its corporate philosophies, and has been working to reduce CO2 and chemical substance emissions. This year, the company endorsed the TCFD as part of the materiality “Mitigation of and adaptation to climate change” initiative, and is working to disclose information on how it understands the risks and opportunities of climate change and how to incorporate them into business strategy. I hope that the company will further promote environmental initiatives as part of its business strategy.
+For the above four materiality initiatives, I feel that the things Pacific Industrial has carefully cultivated up to now are being utilized. Furthermore, there is the thing that Pacific Industries has cherished. That is its desire to be “glocal,” which means expanding business globally, while placing importance on business activities in each region (local).
+I look forward to seeing the company further advance its sustainability management toward 2030, the 100th anniversary of its founding and the target year of the SDGs, while cherishing the idea of “glocal.”
+    【 Response to Third-party Opinion 】
+Thank you very much for your valuable opinions. Our Group has clarified the objectives and KPIs of our material topics and is promoting cross-functional initiatives.
+The automotive industry is required to reduce CO2 emissions through LCA in order to achieve carbon neutrality by 2050, and the Pacific Industrial Group and the entire supply chain, both in Japan and overseas, are determined to strengthen efforts toward decarbonization.
+Furthermore, we will contribute to a sustainable mobility society and prosperous living by focusing on the development of products that lead to lighter weight and electrification of automobiles, as well as the development of sensing devices that use our core technologies.
+Going forward, we will continue to work on solving social issues, promote sustainability management, and create new
+value to continue to be a company that is trusted and needed by society. Member of the Board
+ Tetsushi Ogawa
+Executive Vice President
+Pacific Industrial Co.,Ltd. Sustainability report 2021 44
+
+For Tomorrow, With Nature
+These drawings are posters drawn by Pacific Industrial Group employees’ children.
+What can we do to protect our precious planet?
+The actions each and every one of us take now will change our children’s tomorrow.
+We hope that you will enjoy and appreciate the heartfelt messages expressed by the children through their drawings.
+                         100 Kyutoku-Cho, Ogaki City, Gifu Prefecture, 503-8603 Japan Phone: +81-584-91-1111 Fax: +81-584-92-1804
+https://www.pacific-ind.co.jp/eng/
+Sustainability Report 2021 Pacific Industrial Co., Ltd.

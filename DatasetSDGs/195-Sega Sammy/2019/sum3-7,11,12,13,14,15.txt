@@ -1,0 +1,50 @@
+Aim of Setting Out “Environmental Preservation and Reduction of Environmental
+Burden” as a Theme
+The SEGA SAMMY Group manufactures products in the Pachislot and Pachinko Machines Business and in the amusement machine sales area of the Entertainment Contents Business. At the production stage, various natural resources are used in the manufacture of components and in production processes. Also, we are required to reduce the environmental burden of production processes. Moreover, given the relatively short lifecycles of our products, we must stringently manage waste. Failing to take appropriate environmental mea- sures would result in social sanctions and issues as well as regulatory enforcement, which could affect the continuity of our businesses.In-House Production Businesses
+Related SDGs SDGs Activity
+Continuing the Moving Experience Creation Cycle (ESG)
+Products and Services
+Customers Society
+   Environmental Preservation and Reduction of Environmental Burden
+Promotion of Reuse across the Value Chain  Reduction of Environmental Impact and Improvement of Profitability in the Pachislot and Pachinko Machines Business
+The SEGA SAMMY Group is pursuing optimization in all areas of the pachinko and pachislot machine value chain, including development, manufacturing, and sales. Through these efforts, we aim to reduce environmental impact by cut- ting back on component use while also improving profitability by reusing compo- nents. The range of components to which these initiatives apply is being expanded and we are also increasing the rate of using common components. In addition, through such measures as cooperation with other companies, we are promoting these initiatives in the industry as a whole. We thereby aim to lead the industry in improving efficiency.
+Design and Development
+At the design and devel- opment stages, we are promoting common components, increasing the range of compo- nents that are reused, and designing products with reuse in mind.
+Production
+At the production stage, previously dispersed component warehouse functions are being consolidated at the site of the neighboring Kawagoe Factory in order to facilitate effi- cient component recy- cling and reuse.
+Waste Disposal
+Sales
+We sell pachinko machine boards designed to help reduce investments when introducing new machines in order to strengthen relationships with pachinko halls and establish a cycle of reuse and recycling.
+   Reuse
+The Group seeks to ensure proper disposal of used pachinko and pachislot machines that have reached the end of their lives of bringing joy to customers. We therefore promote recycling by offering trade-in programs with regard to our own machines and by utilizing an industry association collection system. We also partici- pate in the used pachinko and pachislot machine collection system developed by industry associations to implement more advanced recycling measures (reduction of weight and appropriate treatment).
+ Environmental Indicators at Sammy’s Kawagoe Factory
+            Pachinko and pachislot machine recycle rate
+Use of environment-friendly raw materials
+(FY) 2017
+2018
+2019
+370t 51t (13.8%)
+Recycle rate
+Amount of wood used
+97.21%
+1,494t
+84t (5.6%)
+95.99%
+566t
+38t (6.8%)
+95.00%
+         Of which, PEFC-certified wood*
+     70
+SEGA SAMMY HOLDINGS
+* PEFC-certified wood: This refers to wood certified by the Programme for the Endorsement of Forest Certification. This wood is appropriately procured from forests that have received third-party certification as sustainably managed forests. All of the components we procure use water-based adhesives, which place less burden on the environment. Components glued together using environment-friendly water-based adhesives have been purchased from suppliers since fiscal year 2014.
+ Fabless Businesses
+Environment-Conscious Product Design
+We are conducting ongoing energy conservation initiatives in the Entertainment Contents Business. We are curbing waste by designing amusement machines so that the components of current products can be reused in new products. Also, aiming to extend product service lives, we have prepared an inspection and maintenance manual and shared it with amusement centers. Sega Logistics Service Co., Ltd., manually disassembles and completely recycles the parts of discarded machines from amusement centers. Sega Logistics Service is achieving its goals of zero landfill waste and zero unnecessary waste incineration by inviting intermediary industrial waste disposal contractors to its business locations to reduce disposal costs and by rolling out a nationwide recycling system that prevents illegal waste dumping. Operations-Type Businesses
+The Plastic Waste Issue and Measures to Reduce Power Consumption
+Worldwide, initiatives that aim to preserve the oceans’ ecosystems by reducing plastic use are gathering momentum. In response, SEGA ENTERTAINMENT Co., Ltd., is reducing the amount plastic bags by having amusement centers appropriately sort plastic waste in conformity with the requirements of their respective regions or facilities and by having amusement centers dispose of plastic waste based on contracts concluded with industrial waste disposers. Further, reflecting our belief that manufacturers have a responsibility to reduce trash through the use of simpler product packaging, we minimize packaging through such measures as reusing product shipment bags. Also, we are introducing light-emitting diode (LED) lighting to our facilities, and are replacing air-conditioning equipment, mainly when we remodel amusement centers. In addition, we have unified our power providers and conduct monitoring to optimize the energy use of each amusement center.
+Response to Society’s Environmental Expectations (Commencement of measures in compliance with TCFD*)
+Ikebukuro GiGO
+©SEGA ENTERTAINMENT Co., Ltd.   In response to the recent rise in calls for companies to take environmental measures, we have begun countermeasures for climate change risks, begun disclosing our CO2 emissions, and reorganized governance systems.
+Although climate change risks do not directly affect the entertainment industry, we view an increase in cost of energy consumption as a risk. We identify our energy emissions and analyze the effect our operations have on the environment from the procurement stage onward. Further, for each initiative we have established dedicated projects tasked with examining policies going forward.
+* TCFD: Task Force on Climate-related Financial Disclosures
+INTEGRATED REPORT 2019 71

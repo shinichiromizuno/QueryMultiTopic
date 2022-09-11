@@ -1,0 +1,50 @@
+ Growth Strategy Priority Markets
+The Kyocera Group Will Challenge Ourselves to Create New Businesses, with the 5G, Mobility, Energy, and Healthcare Markets as Our Priority Sectors.
+Related businesses
+The 5G, mobility, energy, and healthcare sectors will play a key role in resolving social issues from now on.  The Kyocera Group will boost our Group synergies, and challenge ourselves to open up new markets.
+Information & Communication
+Expansion of 5G-related Business by Developing New Products, and Expanding and Enhancing Production Capabilities
+Creating infrastructure to improve the quality of people’s daily lives
+Kyocera Corporation collaboration with other business sectors Mobility
+Energy
+Connects all sorts of things
+The last mile
+5G is expected to become a driving force in the Information & Communication sector, as digitization makes further progress, and AI and the IoT become more widely used. The Kyocera Group saw an increased demand in 2019 for products targeting 5G base stations, such as ceramic capacitors. In 2020, we expect to see an increased demand for base station-related products intended to further improve infrastructure, and also for information access device-related products as 5G-compatible smartphones start to come onto the market. Furthermore, we can see a trend for proprietary networks to utilize 5G services, which make it possible to transmit large volumes of data to multiple connections at high speeds and with low latency. The Kyocera Group is accelerating the expansion of our system/service business targeting the construction of local 5G which is used in a limited area, such as within a company’s grounds.
+Market Eye
+Further increases in de- mand for products such as antenna components are forecast as the 5G market expands.
+5G-Compatible Base Station
+Its excellent reliability and installability make it easy to construct local 5G with a stable communication environment
+Duplexers
+High-quality dielectric duplexers for communications infrastructure such phone base stations
+5G Smart Routers
+■ 5G Wireless Base Station-related Shipment Amounts
+as mobile
+Band Pass Filters
+High-quality dielectric band pass filters for various RF devices
+(US$ Mil) 30,000
+25,000 20,000 15,000 10,000
+5,000
+0 2018
+2019 2020 2021
+2022 2023
+2024 (Year)
+AVX Corporation Head Office, U.S.A
+KYOCERA INTEGRATED REPORT 2020 17
+Source: Graph drawn up by Kyocera Corporation, based on Gartner research 
+Gartner Forecast: Communications Service Provider Operational Technology, 3Q20 Update, Michael Porowski et al., 30 Sep. 2020
+● 5G-related Products and Local 5G Demonstration Tests
+Kyocera has been involved in telecommunications- related business for many years, from 1G to 4G. We are now aggressively taking up the challenge of 5G, leveraging the know-how and strengths we have built up over the years. In terms of products, we are developing 5G smart routers that connect devices to the cloud. The smart routers make it possible to upload data to the cloud from various edge devices, and to process and feed back data via edge computing. In addition, local 5G systems construct dedicated networks, and realize local networks with excellent installability, flexibility, and durability.
+● Investment Aimed at Expanding Our 5G-related Business
+Kyocera-Ube RF TEC Corporation established
+Kyocera is seeking to expand our 5G-related business via M&A and capital expenditure. In December 2019, we established Kyocera-Ube RF TEC Corporation as a joint venture with Ube Industries, Ltd. In addition to products such as duplexers and band pass filters for telecommunications infrastructure and devices, it markets ceramic filters for 5G base stations. Ceramic filters are components that are paired with antennas to allow through or block off specific frequencies. The use of ceramic makes it possible to miniaturize base stations and boost their power output.
+Seeking synergy with AVX
+AVX, a consolidated subsidiary in the U.S.A, is a leading global company which has an extensive range of products that includes electronic components, connectors, and sensors. We have made it a wholly-owned subsidiary and will create synergy by leveraging its technological capabilities, marketing capabilities, and so on.
+Can use a smartphone to watch movies, listen to music, and shop
+Energy
+Keeping children safe
+Slow mobility
+Able to make calls anywhere, any time
+Clear sound quality calls Can use the Internet and email too
+■ Industrial & Automotive Components Group ■ Semiconductor Components Group
+■ Electronic Devices Group
+■ Communications Group

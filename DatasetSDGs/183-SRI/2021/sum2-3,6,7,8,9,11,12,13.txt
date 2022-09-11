@@ -1,0 +1,322 @@
+Ecology
+Ecological process Management Approach
+As a global company responsible for the environment, we will fulfill our social responsibility through all areas of our activities in order to achieve sustainable development of society wherein human pros- perity and the environment co-exist harmoniously.
+Sumitomo Rubber Industries was certified in March 2009 as an “Eco-First company” under the “Eco-First Program” established by the Ministry of the Environment and renewed its “Eco-First Commitments” in October 2017.
+1
+O
+2
+O O
+3
+O
+O
+Creating a Low-Carbon Society
+Reduce LCCO2* emissions per tire by the fiscal year 2022
+Fiscal 2022:
+≥14% reduction over fiscal 2005
+Building a Recycling-Oriented Society
+Maintain our “Complete Zero landfill waste” policy at major production bases in Japan and overseas until 2020
+Establish a technology for 100% recycling of wastewater at a model factory by 2020
+Promoting Harmonious Coexistence with Nature
+Acorn Project
+Conducts activities at least
+20 times a year
+Take action to protect biodiversity
+Fiscal 2020
+Reduced by
+12.9% (compared to fiscal 2005 levels; per tire) *Life-cycle CO2
+Since fiscal 2010
+Continued achievement for 11 years
+Fiscal 2019
+Establishing water- recycling technology at the Turkey Factory
+Fiscal 2020
+Conducted tree planting activities
+18 times
+Fiscal 2020
+Conserving 21 species
+           ISO 14001 Global Multi-Site Certification
+To implement global management in all of its corporate activities including the creation of a low-carbon society, in December 2010, the Group obtained ISO 14001 Global Multi-Site Certification for its 30 bases in Japan and overseas. This enabled us to carry out unified environmental management at major production and devel- opment bases in Japan and overseas.
+At the end of 2020, the number of employees working at ISO 14001 Certified Sites as a percentage of total employees was 79.3%, and the ratio of Certified Sites was 94.7%.
+In fiscal 2020, the Slovenia Factory obtained ISO 14001 certifi- cation on a stand-alone basis. Looking ahead, we will continue to work on activities aimed at adding the Switzerland Factory, which has already been certified on a stand-alone basis, and the above Slovenia Factory, to the Global Multi-Site Certification, and on new certification for the Philippines Factory.
+Coverage Rate of ISO 14001 Certified Sites (Percentage of employees)
+39,298
+79.3%
+(As of December 31, 2020)
+Initiatives to Address Climate Change
+We recognize that addressing risks and opportunities arising from climate change is an important management issue. In line with this recognition, we aim to appropriately implement mitiga- tion and adaptation measures and, to this end, have established the Sustainability Promotion Division in addition to launching the Sustainability Promotion Committee chaired by the President and tasked with comprehensively overseeing relevant initiatives carried out by all departments. As part of these efforts, preparations are now under way to publicly announce our support of the TCFD*1 recommendations and clarify our commitment to STB.*2
+*1 Task Force on Climate-related Financial Disclosures *2 Science Based Targets
+Creating a Low-Carbon Society
+Items marked with “ ” have been verified by third parties. The envi- ronmental impact indicator was not verified by third parties. The fig- ures shown in the graphs differ from the verified figures as different coefficients were used.
+CO2 Emissions Reduction Activities in Production Bases
+In fiscal 2020, we had to temporarily suspend operations at some factories due to the COVID-19 pandemic. Although we were thus unable to sufficiently implement energy-saving activities, we strove to launch new energy-saving measures by putting into practice insights offered by consultants in fiscal 2019. As a result, CO2 emis- sions from production activities at the Group’s factories in Japan decreased by 6 kt-CO2 to 265 kt-CO2 from the previous fiscal year.
+However, the environmental impact indicator of CO2 emissions showed an 18.9% increase from the previous fiscal year.
+In fiscal 2021, the Company will work on the predictive mainte- nance of facilities and on reducing CO2 through such initiatives as deploying AI and IoT platforms to search for, extract, and analyze factors that affect energy savings.
+CO2 Emissions (Factories in Japan)
+Total Emissions*1
+(kt-CO2e)
+600 1.481 400
+293 302
+200
+Total Emissions*2
+Environmental impact indicator
+0.941
+270
+0.949
+274
+0.951 0.921
+1.095
+1.090 270 291
+1.5
+1.0
+0.5
+(t-CO2e/t)
+ 244
+248
+247
+275
+242
+271
+236
+265
+        001990 2016 2017 2018 2019 2020 2021Target (FY)  Implementing Global Environmental Management
+Global Environmental Management System
+Environmental Management System
+*1 Total emissions are calculated using the cogeneration credits based on the “Guide for Calculating Greenhouse Gas Emissions,” published by the Japan Rubber Manufacturers Association (used to calculate the environmental impact indicator). CO2 emission factors for electricity consumption, published by electricity companies in 2004, are applied.
+*2 Total emissions without considering cogeneration credits.
+ISO14001 Certified Site Number of Employees
+CO2 Emissions (Overseas Factories)
+Total Emissions*
+(kt-CO2e)
+1,000
+500
+Environmental impact indicator
+1.958
+92
+739 1.558
+779 791 1.645 1.627
+729 1.672
+(t-CO2e/t)
+2.5 814 2.0695 1.606
+1.591
+1.5 1.0 0.5002004 2016 2017 2018 2019 2020 2021Target (FY)  Environmental preservation is one of the most important responsi- bilities that companies must fulfill within a global society.
+There are strong demands that global companies implement uni- form environmental management throughout the world regardless of country or region.
+As it accelerates its global expansion, the Sumitomo Rubber Group is focusing ever more energy on promoting global environ- mental management.
+The Sumitomo Rubber Group established its Environmental Policy in July 2007 and revised said policy in April 2019, putting it into practice via environmental initiatives.
+49 Integrated Report 2021
+In order to strengthen global environmental management, the Global Environmental Management Central Committee, which is composed primarily of responsible parties at bases in Japan and overseas and individuals responsible for issue-specific working groups, meets twice a year.
+In 2020, the committee met in February and July. At these meetings, there were reports by representatives from domestic and overseas manufacturing factories on a wide range of activities, including actual results and improvements in various indicators such as CO2 emissions, energy savings, waste disposal and water usage, as well as efforts to improve the environment (odors, etc.) and contribution to society. Also, the Hybrid Rubber Products Division reported on its environmental initiatives, while CSR-related departments reported on their efforts to contribute to the United Nations Sustainable Development Goals (SDGs) via the promotion of ESG-oriented management. Thus, attendees at both meetings engaged in active discussion on these matters.
+In 2021, the committee was renamed the Sustainability Promotion Committee to indicate a shift to stronger focus on ESG-oriented man- agement. The committee will engage in the follow-up monitoring of initiatives aimed at addressing priority
+* CO2 emission factors for electricity consumption are based on a WRI/WBCSD GHG Protocol Initiative Calculation Tool (2004).President, Sumitomo Rubber Industries, Ltd.
+Sustainability Promotion Committee
+Sustainability Promotion Committee members
+Committee chair: Executive Vice President Committee members:
+Officers in charge of relevant departments Secretariat:
+Safety, Fire Prevention and Environment Management Department and
+Human Resources & General Affairs Department
+Tire Business
+Sports Business Industrial and Other Products Business Group Companies   Our Basic Policy on Environmental Preservation (fundamental philosophy)
+CO2 Emissions (Factories Operated by Domestic Group Companies)
+  Total Emissions*
+(t-CO2e)
+4,000 0.843 3,500
+3,370
+0.527
+Environmental impact indicator 3,919
+(t-CO2e/unit)
+0.9
+0.6
+0.3 3,749
+3,720
+3,403
+0.517
+    3,000
+0.486
+0.469
+0.465
+2,775
+0.462 3,055
+00 2004 2016 2017 2018 2019 2020 2021Target (FY)
+ issues associated with contributions to SDGs. The committee will also facilitate the in-house sharing of relevant informa- tion while submitting reports and recom- mendations to the Board of Directors.
+* Total emissions are calculated using cogeneration credits based on the “Guide for Calculating Greenhouse Gas Emissions,” published by the Japan Rubber Manufacturers Association. CO2 emission factors for electricity consumption, published by electricity companies in 2004, are applied.
+Integrated Report 2021 50
+The Global Environmental Management Central Committee meeting held in 2020   
+Sustainability Activities Undertaken by the Sumitomo Rubber Group   Environmental: Our Environmental Initiatives CO2 Emissions Reduction in Logistics
+In fiscal 2020, we worked to increase the modal shift rate by raising the precision of demand forecasts and ensuring scheduled ship- ments for marine and train transportation.
+CO2 emissions from transporting tires fell 16.6% compared to the previous fiscal year, to 24.1 kt-CO2, and the environmental impact indicator fell 3.3%.
+In fiscal 2021, we will work on optimizing the location of our production sites and reducing the number of products transported from one warehouse to another.
+Building a Recycling-Oriented Society
+Items marked with “ ” have been verified by third parties. The environmental impact indicator was not verified by third parties. The figures shown in the graphs differ from the verified figures as different coefficients were used.
+Continue to Achieve Complete Zero Landfill Waste
+The Sumitomo Rubber Group is promoting the 3Rs (reduce, reuse, and recycle) of waste management in order to build a recycling- oriented society.
+In fiscal 2020, we achieved complete zero landfill waste for the 11th consecutive year at our major production bases both in Japan and overseas.
+Complete zero landfill waste is defined as the complete diversion of landfill waste, meaning a 100% recycling rate and no waste sent directly to landfills.
+In fiscal 2021, the aim of our efforts is to proceed with our mis- sion to achieve zero emissions.
+Waste Disposal (Excluding Valuables) (Factories in Japan)
+From factories From tires entrusted for disposal from outside the Company
+Environmental impact indicator (From factories)
+(kt) (t/t)
+15 0.04
+recycling of wastewater has also been implemented at the Thailand Factory and the Kakogawa Factory, while the Brazil Factory and the South Africa Factory initiated the recycling of factory wastewater. Furthermore, the Indonesia Factory is moving ahead with the use of rainwater to reduce external water usage.
+In 2020, total water usage at all of the Sumitomo Rubber Group’s factories was reduced by about 8.5% year on year. We will push for- ward with water usage optimization in production processes at each base and measures that utilize the results of assessments based on the WRI* Aqueduct Water Risk Atlas on an ongoing basis.
+Wastewater recycling facilities (Brazil Factory)
+* World Resources Institute
+Water Usage (Factories in Japan , Factories Operated by Domestic Group Companies, Overseas Factories)
+Factories in Japan Factories operated by domestic group companies
+Overseas factories
+(km3)
+15,000 14,305
+13,507 13,618 13,283
+28.3 02
+29.4 28.9
+28.6
+(t-CO2e/t)
+0.040 0.038 0.036 0.034
+10
+5
+0.025
+0.024
+0.031
+1.76 1.86 2.01 1.86 1.50 1.50 0.02
+6.37 0.01 00
+0.029 0.029
+0.03
+0.034      CO2 Emissions in Logistics (Domestic)
+Total Emissions
+(kt-CO2e)
+50
+40 0.0380
+30 30.7 20
+10
+ Environmental impact indicator
+6.57
+7.44
+7.64
+7.35
+ 2016 2017 2018 2019 2020 2021Target (FY)
+Waste Disposal (Excluding Valuables) (Overseas Factories)
+(kt)
+25
+20 15 10
+14.08
+0.049
+0.030
+21.79
+0.050
+26.08 (t/t) 0.08
+0.06 0.051 0.04
+Total Emissions
+Environmental impact indicator 24.0010.01
+9.44
+0.02 00
+5
+0.023
+0.0202016 2017 2018 2019 2020 2021Target (FY)      .034
+.033
+ 00
+.033
+2016 2017 2018 2019 2020 2021Target (FY)
+24.1
+ 09
+02 090.032
+0.0321
+.032
+Amount of Waste Generated and Recycling Rate (Factories in Japan)
+(kt)
+38 36 34 32
+100 35.8
+100 34.9
+100 35.0
+100
+(%)
+100
+100
+35.6 75
+50
+Amount of Waste Generated
+Recycling Rate
+100 35.6
+100% recycling of factory wastewater
+Thailand Factory Natural Rubber Processing Turkey Factory
+     Promoting Environmental Footprint Management
+   Efforts to Reduce Organic Solvents Use
+The Group has been making voluntary efforts to reduce emissions of VOCs (volatile organic compounds). In fiscal 2020, there was a decrease in the total amount of VOCs emitted due to a significant cut in production volume. On the other hand, the environmental impact indicator deteriorated substantially.
+In fiscal 2021, we will strive to achieve further reduction in the quantities of VOCs used while implementing measures to curb the evaporation of these substances.
+13,790 10,000 7,676 8,567 7,707 7,468 7,105 7,954
+25 00
+30.9
+Waste Disposal (Excluding Valuables)
+(Factories Operated by Domestic Group Companies)
+ Total Emissions
+Environmental impact indicator(t)
+1,500
+1,000
+500
+0.119 850
+0.098 745
+0.083 635
+0.087 635
+0.097 579
+0.107 708
+(t/unit)
+0.12
+0.08
+0.04
+ 2016 2017 2018 2019 2020 2021Target (FY)
+   5,814 5,724
+5,896 5,802 5,310
+5,821
+12,427
+Material Recycling Rate (Factories in Japan)
+Material Recycling Rate
+(%)
+100
+80 60 40 20
+0
+81 82 74 68 73
+802016 2017 2018 2019 2020 2021Target (FY)16 15 15 13 12 16
+5,000
+0
+, Factories Operated by Domestic Group Companies, Overseas Factories)
+ Total Amount of VOCs Emitted (Factories in Japan)
+Total Environmental impact indicator 2,000 1,917
+1,500
+ (t)
+1,000 500 0
+350 1.35
+342 1.31
+349 1.34
+348 1.33
+325 1.51
+(kg/t)
+12 9 6 3
+362
+1.46 0
+00
+2016 2017 2018 2019 2020 2021Target (FY)
+ 2016 2017 2018 2019 2020 2021Target (FY)
+Wastewater (Factories in JapanFactories in Japan
+Overseas factories*
+(km3)
+12,000
+Factories operated by domestic group companies
+11,170 6,238
+10,652
+5,750
+10,153 5,055
+10,144
+10,261 5,644
+11,746 6,684
+     8,000
+4,000
+0
+5,223
+13 12 12 10 10 12
+4,919 4,890 5,087 4,911 4,607 5,0502016 2017 2018 2019 2020 2021Target (FY)
+ 8.20 51 Integrated Report 2021
+Integrated Report 2021 52
+2000 2016 2017 2018 2019 2020 2021Target (FY)
+Reducing Waste Disposal*
+In fiscal 2020, the Group made efforts to curb waste disposal, for example by reducing metal scrap. However, the environmental impact indicator deteriorated, reflecting the cut in production volume. * Waste disposal refers to the amount of waste diverted for the thermal/material cycle.
+Water Usage Reduction
+With the aim of dealing with the global shortage of water resourc- es, as a measure to reduce water usage, the Group aims to achieve a wastewater recycling rate of 100% at all 26 factories around the world by fiscal 2050. The Turkey Factory is one of those within the Group with a higher level of water stress, and has been working on trial operations to establish water-recycling technology since 2018. In the summer of 2019, it achieved 100% recycling for factory wastewater by using concentrated water from the recycling facilities to water trees on the site of the factory and to flush toilets. In accordance with the Midterm Plan, the Group is aiming to establish water-recycling technology for 100% of the wastewater from a second factory in 2021, namely the Changshu Factory in China, which also has a high level of water stress. Partial
+7.69
+* Figures include estimates based on water usage at some factories

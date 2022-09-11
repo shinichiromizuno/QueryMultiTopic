@@ -1,0 +1,59 @@
+Environment
+Corresponding SDGs
+Disclosure of Climate Change-Related Information based onTCFD*1
+OMRON recognizes that climate change impacts our future sustainable growth. We are engaged in the following framework, using the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD), for which we declared our support in February 2019.
+Governance
+OMRON has designated response to climate change as one of is key sustainability issues under its medium-term management plan. We are carrying out specific initiatives in accordance with annual targets and plans approved by the Sustainability Committee and the Executive Council. These initiatives are monitored and supervised by the Board of Directors, based on reports on their content and progress. Part of the medium-to-long-term, performance-linked compensation for internal directors and executive officers incorporates evaluations based on sustainability indicators evaluated by third parties.
+Risk Management
+Under its integrated management structure, OMRON manages risks that have a significant impact on management and finances as key management risks. We also analyze climate change risks as part of our integrated risk management. We collect and analyze a wide range of information on risk factors such as regulations relating to climate change and their impact on business, by conducting audits of environmental legal compliance assessment globally, assessing vulnerability of each site to natural disasters (flooding, torrential rain, water shortages, etc.) which are expected to increase in scale and frequency as a result of climate change, and making preparations for business continuity.
+Indicators and Targets
+OMRON has designated greenhouse gas emissions as an indicator for climate change, and has set OMRON Carbon Zero with the goal of reducing greenhouse gas emissions to zero by fiscal 2050. Using the Scope 1 and 2 greenhouse gas emissions quantities of fiscal 2016 as a baseline, we backcast from fiscal 2050 to set reduction targets for fiscal 2030 and fiscal 2020.*2 A target for Scope 3 is also under consideration.
+Under ORMON Carbon Zero, we are targeting a 32% reduction in greenhouse gas emissions by fiscal 2030, compared to fiscal 2016. This represents a reduction of approximately 300 thousand t-CO2 (reference value) by fiscal 2030 from the reductions expected if initiatives to reduce greenhouse gas emissions remained at the current level. If a carbon tax were to be introduced by 2030 in the countries where OMRON operates,*3 the financial impact of reducing greenhouse gas emissions is estimated to be between ¥0.99 billion and ¥3.3 billion.*4
+   Compared to Fiscal 2016
+Actual amount of greenhouse gas emitted Greenhouse gas emissions target Reductions expected if initiatives to reduce greenhouse gas emissions remained at the current level (reference value)
+Greenhouse gas emissions (10 thousand ton-CO2)
+Fiscal 2020 Target
+In fiscal 2019, we reduced greenhouse gas emissions to 166 thousand t-CO2, a 34% reduction compared to fiscal 2016. This was achieved by continuing to procure renewable energy-derived electricity in Japan, which we started to do in fiscal 2018, in addition to promoting energy conservation measures at each site, and installing a new PV inverter system. OMRON will continue its efforts to reduce greenhouse gas emissions, aiming to reduce the emissions to zero by 2050.
+*1: TCFD (Task Force on Climate-related Financial Disclosures): Task force to develop recommendations for climate-related financial disclosures established by the Financial Stability Board (FSB), an international body committed to the stabilization of financial systems.
+*2: Greenhouse gas emissions calculated from sales forecasts, including the Automotive Electronic Components Business (AEC) that was sold off in October 2019.
+In considering targets to align with the SBT criteria in fiscal 2017, we set 2016, the year of the latest values, as the reference year. (SBT: Science Based Targets. Science-based, medium- to long-term targets for reducing greenhouse gases.)
+*3: Assumes the inclusion of the United States, Brazil, and EU countries in addition to Japan, China, Indonesia, and other Southeast Asian countries where OMRON’s sites are based. *4: Assumes a unit charge for carbon tax of USD30 to USD110. Converted at the rate of JPY110 = USD1) Source: Carbon Pricing Corridors - The Market View 2018, CDP
+4%
+Reduction
+Compared to Fiscal 2016
+32%
+Reduction
+Zero Greenhouse Gas Emissions
+Greenhouse Gas Emissions
+Fiscal 2019 Results
+       25
+  24
+ 17
+166 thousand t-CO2
+ Fiscal 2016 Results
+30 (Reference
+Value)
+Fiscal 2030 Target
+Fiscal 2050 (FY) Target
+67 OMRON Corporation Integrated Report 2020 Environment
+                                Strategy: Scenario Analysis
+OMRON began analyzing scenarios from the Social Solutions domain, which offers energy generation, energy storage, and energy conservation products and services to help customers maximize their energy efficiency.
+We identified and organized risks and opportunities based on two scenarios as announced by the Intergovernmental Panel on Climate Change (IPCC), the International Energy Agency, and others: one assuming a rise in global average temperature of 4°C or more, and the other assuming that the increase in global average temperature was kept to below 2°C (1.5°C in some cases) as agreed under the Paris Agreement. As a result, we reaffirmed the need to promote the widespread use of renewable energy to contribute to solving the climate change issue.
+Going forward, we will evaluate the impact for each scenario, and also carry out scenario analysis in other domains, to use the results in formulating our next long-term vision.
+Scenario Analysis Conducted in the Environmental Solutions Business of the Social Solutions Domain
+Assumed period: Fiscal 2030 Scenario adopted:
+IPCC/RCP8.5 (a rise in global average temperature of 4°C or more above pre-industrial level)
+IEA/SDS (in part, IPCC/SR1.5) (increase in global average temperature kept to below 2°C (1.5°C in some cases))OMRON’s response to the risks and opportunities identifiedSystematic promotion of energy conservation and renewable energy (introduction of high-efficiency air- conditioning equipment, expansion of in-house renewable energy-based power generation, purchase of Renewable Energy Certificates, etc.) Development of products and services that help reduce greenhouse gas emissions
+Review of products planning and design, etc.Measures for Business Continuity Planning (BCP) (decentralization of material suppliers, production sites, etc.)
+Introduction of in-house renewable energy-based power generation
+Avoid procuring electricity from the power grid during high-load periods when unit prices are high by combining storage batteries with supply/demand control technologiesExpanded sales of PV inverters and storage batteries, capturing the growing demand for renewable energy and energy storage at companies, homes, and local governments Establishment of an energy management business using solar power and storage batteries
+Study of new business development in anticipation of advances in the circular economy
+Attracting ESG investment and enhancing the added value of our products through proactive response to climate change and the circular economyRisks and opportunities identified in the scenario analysisIncrease in business costs (introduction of carbon tax, emissions trading, etc.) as a result of complying with climate change regulations Intensifying competition due to entries from other industries and by overseas companies, changes in customer needs, etc.
+Increase in business costs due to circular economy regulations (making it mandatory to provide repairable products), which are expected to accelerate with climate change responseDisruption of the supply chain due to increased severity of natural disasters (flooding, torrential rain, water shortages, etc.)
+Increase in operating costs for air conditioning and cooling systems due to higher average temperaturesExpansion of renewable energy, energy storage and energy management markets due to rapid progress of decarbonization in energy supply and consumption processes
+Companies and local governments: Accelerated adoption of renewable energy and energy storage systems, which are distributed power sources, due to increasing demand for decarbonization and disaster prevention
+General households: Increased popularity of self-generation, storage and consumption of electricity
+Advancement in energy management that can solve electricity supply/demand balance issues associated with the spread of renewable energy Promotion of green recovery (economic stimulus measures and environmental conservation) in response to the impact of COVID-19* Risks and opportunities detailed above include not only those related to the Environmental Solutions Business, but also those related to the entire company.Comment from an Employee Who Took Part in the Scenario Analysis
+This initiative made me realize that climate change is a major issue for human survival, and for companies that do not work to solve this issue, the value of their existence will be called into question. We will continue to work to create products and services to realize a society that can make more effective use of renewable energy, which is regarded as the most promising solution.
+ Energy Solutions Business HQ, OMRON SOCIAL SOLUTIONS Tatsuya Komamine
+Environment OMRON Corporation Integrated Report 2020 68

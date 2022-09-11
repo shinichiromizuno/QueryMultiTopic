@@ -1,0 +1,193 @@
+ ESG Initiatives
+Details on environmental initiatives are available on pages 44 to 51 of the Full Online Version.
+Environment
+Our Group Environmental Vision for 2050 (net zero)
+Environmental Management Structure
+ Our Group relies upon the earth’s natural resources and energy in order to do business. However, doing business will generate garbage and air and water emissions. For this reason, we believe it is important for our Group to adhere to environmental laws and regulations, conduct business in an environmentally friendly manner, and engage in initiatives that reduce the environmental impact on the entire society through our products and services.
+In fiscal 2018 our Group established a plan with medium- to long-term targets ending in fiscal 2030, and has been promoting activities based on this. However, considering the environmental issues that have become more severe recently, we thought it necessary to advance activities from a more long-term perspective, and have announced Environmental Vision for 2050 (net zero) which ends with 2050.
+Since then, due to the government’s “2050 Carbon Neutral Declaration” and subsequent presentation of its target of reducing GHG by 46% (compared to fiscal 2013) by 2030, we performed a revision based on the new standards and set 2050 as our target for taking on the challenge of carbon neutrality,
+● Environmental Vision for 2050 (net zero) 01. Strive to achieve zero CO2 emissions
+(Scope 1 and 2) by 2050.
+● Reduce CO2 emissions via energy conservation activities, MFCA activities, and improving process efficiency
+● Increase the share of our energy from renewable sources by getting a grasp of the electric power conditions in each country
+and 2030 for a 46% reduction in CO2 emissions (compared to fiscal 2013).
+● Taking on the challenge of zero CO2 emissions 250
+Business Site Energy Conservation Committee
+Our Group aims to contribute to the sustainable development of society through our environmental conservation efforts as a whole group based on our Policy on Responsible Care Activities.
+To actively work toward carbon neutrality, conserve biodiversity, and prevent soil and groundwater pollution, our Responsible Care Committee and Carbon Neutrality Promotion Committee take the lead in checking compliance with environmental laws and regulations as well as conducting environmental assessments throughout the entire life cycle, from R&D to raw materials procurement, production, sales and final disposal. They also promote activities that contribute to carbon neutrality and advance studies and deliberation of technologies that make a contribution. Based on the results, each workplace and work site take appropriate actions.
+● Environmental Management Structure President
+Sustainability Promotion Committee
+Responsible Care Committee
+Carbon Neutrality Promotion Committee
+Life Cycle Subcommittee
+CN technology Review Subcommittee
+* The above system diagram is only an excerpt of our committees related to environmental management. See pages 38 and 39 for details.
+     Climate Change Project efforts: agreement to TCFD expressed
+02.
+2010 2015 2020 2025 2030 2035 2040 2045 2050 (year)
+Contribute to reducing CO2, including along supply chains.
+● Develop products that factor in reducing CO2 throughout their life cycle
+(Improve efficiency, reduce weight, lengthen service lives, recycle, switch to mono-material design, etc.: Use LCA)
+● We will work together with our supply chain
+200 150 100
+50 0
+Previous target
+2030 (target)
+46% reduction
+2°C Target
+Activities of the Carbon Neutrality promotion Committee
+Reference year: 2013
+1.5°C Target
+WB2°C Target
+Net zero
+In order to further strengthen and promote future efforts toward carbon neutrality (CN), the Environmental Impact Reduction Committee was reorganized as the Carbon Neutrality Promotion Committee in July 2021. Together with this change, the Energy Conservation Subcommittee, a subordinate organization, was reorganized as the CN Technology Deliberation Subcommittee.
+The Environmental Impact Reduction Committee has recapped each year’s progress toward medium- to long- term environmental targets at the end of the fiscal year and then determined the targets for the following fiscal year. It has carried out its activities with the approval of the Sustainability Promotion Committee, which serves as its parent body. Moving forward, as the Carbon Neutrality Promotion Committee, it will take action toward achieving carbon neutrality together with the subordinate Life Cycle Subcommittee and CN Technology Deliberation Subcommittee.
+The Life Cycle Subcommittee aims to establish production systems with minimal environmental impacts through scientific, quantitative, and objective assessments of environmental impacts, from the R&D phase onward, under the Policy on Responsible Care Activities. The subcommittee is moving forward with its activities under its set target of ensuring that 25% of its researchers are capable of performing life cycle assessments (LCA) at all research and development departments and instituting energy conservation on their own by fiscal 2022 by continuing to foster said researchers and developers. Amid the COVID-19 pandemic, all LCA-related education was conducted in online formats during fiscal 2020.
+In fiscal 2021, the Life Cycle Subcommittee will work to enhance educational opportunities, horizontally deploy LCA evaluations on baseline products, and expand items on which LCA evaluations have been carried out for SDG- contributing products. Moving forward, they will make preparations to enable the speedy supply of LCA-related information on all products.
+The Energy Conservation Subcommittee worked to establish, across all business sites in Japan, a mechanism for continuously soliciting and trying out ideas for saving energy through such means as voluntary implementation initiatives in business sites. In fiscal 2020, the subcommittee
+successfully reduced energy consumption by as much as 1,535 kL (59,487 GJ) in crude oil equivalent, or 2,962t-CO2, compared with fiscal 2019, primarily by reducing city gas and electricity consumption. Furthermore, the subcommittee established and successfully achieved targets by carrying out unique activities to conserve electricity in the summer and winter months. Outside of Japan, the subcommittee worked to ensure a similar level of activities as in Japan and continued to promote the roll out of activity methods and best practices.
+In fiscal 2021, in line with the objectives of the CN Promotion Committee, the CN Technology Review Subcommittee will formulate and work toward the latest 2030 targets, and will continue efforts aimed at achieving energy consumption reduction plans at the workplace level. In particular, the subcommittee will focus on creating a system across business sites in Japan for sharing practices for reducing energy consumption and technical information related to energy conservation in order to improve the level of energy- saving technology throughout our Company; and having the mother plants in Japan provide technical support to their affiliated sites through a tie-up with the Company-wide Energy Conservation Secretariat.
+Although group education had been carried out before, remote education was implemented due to the COVID-19 pandemic
+* The photo shows a conceptual image.
+ CDP (headquartered in London)*1 is an international NGO established in 2000 in partnership with institutional investors from around the world. It carries out projects in which it sends out questionnaires to major companies and municipal governments around the world on issues such as climate change, water security, and forests, and that seek climate change strategies and specific declarations related to emissions of greenhouse gases.
+With the CDP’s 2020 survey, survey activities were conducted on behalf of 515 institutional investors with net invested assets totaling 106 trillion U.S. dollars. More than 9,600 companies, accounting for over 50% of global market capitalization, disclose environmental data on their initiatives for climate change programs via the CDP.
+Responding to a CDP request for responses to its Climate Change and Water Security 2021 questionnaires, our Company
+received scores of A- and B-, respectively, in December 2020. Having received requests for responses in fiscal 2021 regarding climate change and water security as well, we have responded.
+We also expressed our agreement in February 2021 to TCFD. Moving forward, our Group will conduct proactive information disclosure regarding risks and opportunities associated with climate change as we hold ourselves accountable to all of our stakeholders.
+We will move forward with environmental information disclosure as we contribute to the response to climate change through environmental impact reduction, resource and energy conservation, chemicals management and development of products that contribute to the environment.
+*1 Formerly “The Carbon Disclosure Project.” “CDP” is now the official name.
+E
+042 Sumitomo Bakelite Co., Ltd. Integrated Report 2021
+Sumitomo Bakelite Co., Ltd. Integrated Report 2021 043
+ESG Initiatives
+Emissions (thousand t-CO2)
+ESG Initiatives
+  Medium- to Long-term Environmental Targets
+Material Flows
+E
+  In fiscal 2018, we established a medium- to long-term environmental plan ending in fiscal 2030, and are engaging in activities based on it, in which our CO2 emissions met the greenhouse gas emission reduction target in the Japanese government's INDC from COP21.
+However, due to the government’s 2050 Carbon Neutral Declaration and presentation of its 2030 target, we performed a new revision according to the 2030 target, and reset our 2030 target policy to include a 46% reduction in CO2 emissions (compared to fiscal 2013). We are currently deliberating the
+formulation of a new medium- to long-term plan that takes this policy into consideration. (The graph below show the existing medium- to long-term plan.)
+In addition to the government policy noted above, deliberation of targets will include consideration of:
+Raw Materials*1
+Environmental Emissions
+CO2: 202,607 tons
+(Scope 1: 76,193 tons) (Scope 2: 126,414 tons)
+(of which emissions from waste liquid combustion: 1,220 tons)
+SOx*2: 27 tons NOx*3: 52 tons Soot and dust*4: 0.2 tons
+    ● CO2 emissions
+・Response to sustainable development needs shared by the international community with 2030 as the target year established in the SDGs.
+Raw materials for resins
+151,594 tons Base materials
+and fillers 75,826 tons
+Resins 56,599 tons
+Solvents 8,101 tons
+    ・Response to the Act on the Rational Use of Energy and the Act on Promotion of Global Warning Countermeasures.
+INPUT
+Each business site/plant
+OUTPUT
+OUTPUT
+Drainage: 5,531thousand m3 *5 (Sewage: 617 thousand m3, Public water area: 4,914 thousand m3)
+  (thousand t-CO2) (thousand t) 160 138 25 21
+120 20 80 75 76 76 75 15
+10 40 5
+(t) 600
+450 300 150
+512
+2005
+(of which substances subject to the PRTR Act totaled 5 tons)
+Waste: 16,277 tons *7
+Secondary materials and others 18,381 tons
+Water
+5,089 thousand m3 (Waterworks: 745 thousand m3) (Industrial water: 595 thousand m3) (Groundwater: 3,749 thousand m3)
+Energy
+104,428 kL (Crude oil equivalent) (4,048 thousand GJ)
+COD *6: 22 tons in Japan and 6 tons overseas Chemical substances: 255 tons
+            14
+14
+13
+Breakdown: Landfill
+Incineration without heat recovery Recycled
+Valuable materials 9,034 tons
+Products
+3,324 tons 3,112 tons 9,841 tons
+ 10
+   120 128 113
+77
+    000
+   2005
+(thousand t-CO2)
+120 80 40
+2019
+2020 2021 2030 (fiscal year) Result Plan Target
+2005 2019 2020 2021 2030 (fiscal year) Result Plan Target
+● Amount of material loss (thousand t)
+2030 (fiscal year) Result Plan Target
+2019 2020 2021
+  ● Chemical substance emissions 350
+343,630 tons
+(Total sales of other products that are difficult to calculate by weight: ¥16,443 million) 200 163 160
+35
+29
+2005
+(t)
+300 250 200
+12 12 12 12 150 100 50 0
+   30 110 25 20 15 10 5 00
+2005 2019 2020 2021 2030 (fiscal year) Result Plan Target
+278
+2010
+  137
+127
+126
+         Category
+Emissions control
+Energy conservation
+Waste reduction, recycling, and treatment
+Total
+* Data covers the time period and business sites in Japan listed on page 3.
+9 234 0
+243
+● Amount of material loss
+   Compared to fiscal 2005 46% reduction
+132
+2019
+127
+127
+110
+*1
+*2 *3 *4
+*5 *6 *7
+The ratio of renewable raw materials to total raw materials used is about 2.7% at the current point in time, but we will make efforts from the development stage onward in order to increase the ratio of renewable raw materials use.
+SOx: Sulfur Oxide
+NOx: Nitrogen Oxide
+Soot and dust: Solid particulate matter found in smoke including dust and cinders. Since methods of calculating emissions of soot and dust differ among countries, this figure is compiled solely for business sites in Japan at present.
+Drainage volume is determined by calculating drainage into sewages based on the breakdown of total usage. Drainage into public water areas is calculated using readings from flow meters installed at business sites; while water usage volume is used for business sites without flow meters.
+COD: Chemical Oxygen Demand. Data on overseas COD covers sites that measure COD within drainage. Data for overseas sites are stated separately because the types of oxidant used for measurement differ from those used in Japan.
+The volume of hazardous waste found in our total waste volume came to 5,714 t (based on the definitions used by each country).
+           Investments for Environmental Protection
+Our Group has compiled data annually on the amounts of investments in environmental protection of all Group companies in Japan since fiscal 2000. In fiscal 2020, a total of 240 million yen of this type of investment were made.
+As part of our carbon neutral efforts, we began a full-fledged effort to adopt solar power generation in fiscal 2020, and from fiscal 2021 onward we will be phasing it in at each of our business sites. We will also consider proactive investments in CO2 emissions reduction moving forward.
+●Amounts of Investments in Environmental Protection in Fiscal 2020
+Disclosure of Scope 3*1 Data
+In 2015, our Group began calculating and disclosing Scope 3 emissions in the supply chain of business sites belonging to Group companies in Japan because of the growing importance of understanding CO2 emissions covering the entire supply chain. In fiscal 2018, we enlarged the scope to cover overseas business sites. The scope of the said disclosures covers a total of eight categories including Category 1 “Purchased goods and services.” In addition, we confirmed that three categories including Category 8 “Upstream leased assets” are not applicable.
+*1 Whereas Scope 1 concerns direct emissions due to combustion of fuel etc. and Scope 2 concerns indirect emissions from consumption of purchased electricity or heat, Scope 3 concerns other indirect emissions, both upstream and downstream, of the supply chain of the reporting entity. The international guidelines of the Greenhouse Gas (GHG) Protocol break down Scope 3 into 15 categories. For details, refer to page 48 of the Full Online Version.
+Marine plastics
+When it comes to the problem of marine plastics, we are moving ahead with activities to contribute to reducing plastic marine waste via a number of initiatives based on the Japanese government’s Plastic Resource Recycling Strategy. These initiatives include managing the raw materials used and the plastic products we manufacture, promoting the recycling of the said products, and developing new products.
+We are currently taking part in the Japan Initiative for Marine Environment (JaIME), which was established by major companies and industry organizations in the chemical industry, as well as the Clean Ocean Material Alliance (CLOMA), which was established by a broad range of business operators related to supply chains for plastic products, including those in the chemical industry and distribution/retail industries, with the goal of forming cross-industry partnerships. Through this, we are working to address a variety of challenges by aiming to curb plastic waste across our supply chain as a whole and promoting recycling via 3R activities for plastic products.
+Recycling
+Our Group promotes recycling as a means to make effective use of resources. This recycling includes the recovery and recycling of phenol from waste liquid produced by phenolic resin reactions during the product production process, fine grinding of offcuts from phenolic laminated sheets and decorative melamine resin laminate for use as a filler in phenolic resin molding compounds reuse of molded article by-products (sprues and runners) as raw material for molding materials, as well as reuse of excess sludge from activated sludge effluent treatment equipment as compost (organic fertilizer).
+2019
+2030 (fiscal year) Result Plan Target
+2030 (fiscal year) Result Plan Target
+2020
+2021
+2020
+2021
+* See the business sites listed on page 3 regarding those included in the data.
+* For definitions and the calculation method of CO2 emissions, material loss, and chemical substance emissions, refer to page 104 of the Full Online Version.
+* The total of the 34 substances subject to the PRTR Act included in chemical substance emissions released by our Group’s sites in Japan amounted to 5.1 tons and the total amount
+transferred amounted to 94 tons. For details of the transfer and release of substances subject to the PRTR Act, refer to the Data Section on the Full Online Version.
+  Investment amounts (millions of yen)
+       044 Sumitomo Bakelite Co., Ltd. Integrated Report 2021
+Sumitomo Bakelite Co., Ltd. Integrated Report 2021 045

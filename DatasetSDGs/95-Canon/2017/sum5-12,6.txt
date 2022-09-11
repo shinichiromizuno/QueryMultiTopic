@@ -1,0 +1,80 @@
+For the Earth Contributing to the Realization of a Circular Economy Working to Maximize Resource Efficiency
+Pursuing Product-to-Product Recycling
+Issues and Approaches
+For humans to continue sustainable consumption
+and production, we must address the issues of limited natural resources and waste generated when using these resources. To do so, it is necessary to realize
+a recycling-oriented society in which resources are used and reused in an efficient manner. In Europe, for example, deliberations are proceeding on the creation of a circular economy.
+Canon is continuing initiatives to make products smaller and lighter, to reuse and recycle products, and to improve resource efficiency. We are also working
+to reduce waste at operational sites. In particular, as a product initiative Canon is pursuing “product-to-product recycling” as a way of recycling and reusing resources.
+These initiatives provide a framework that encourages resources to be circulated continuously, rather than only once. By establishing a framework that involves recycling resources from product to product, we aim for the continued, long-term reuse of resources.
+Guided by this aim, we are carrying out initiatives in the remanufacturing of MFD for offices, a process that takes used products and turns them into products with the same level of quality as brand-new items, as well as in closed-loop recycling of toner cartridges.
+Related SDGs
+  21 Canon Sustainability Report 2017
+ 
+      Message from Management
+Relationship with SDGs
+Canon Group Business Operations
+CSR Reporting
+Growth Strategy and Sustainability
+GRI Guideline Implementation
+Non-renewable resources
+Activity Highlights
+Third-Party Opinion / Assurance
+CSR Management Management Structure
+     Image of EU’s Circular Economy
+Renewable resources
+Restoration Substitute resources
+Virtualization
+Collection    Restoration
+Biogas
+Biosphere
+Anaerobic digestion
+Agriculture, forestry
+and fisheries*1 Biochemical
+feedstock
+Cascades
+Parts manufacturer Product manufacturer Service provider
+Recycle
+Refurbish/ remanufactureShare
+Reuse, redistribute
+ Maintenance, extension of life
+  Extraction of biochemical feedstock*2
+Consumer
+Collection
+User
+Collection
+Leakage to be minimized
+*1 Hunting and fishing
+*2 Waste that has been collected and consumed is
+introduced for reuse
+Source: “Annual Report on the Environment 2016,” Ministry of the Environment, Japan
+(Ellen MacArthur Foundation, SUN, and McKinsey Center for Business and Environment; excerpted by the Ministry of the Environment, Japan from a drawing from Braungart & McDonough, Cradle to Cradle (C2C))
+Pursuit of Product-to-Product Resource Recycling
+Canon carries out remanufacturing, which takes used office MFD and turns them into products with the same level of quality as brand-new items.
+Product-to-Product Recycling Amounts (2012–2016 Cumulative Total)
+Amount of reused products and components (cumulative total) Amount of product-to-product plastic (cumulative total)
+(t)
+40,000
+ In the remanufacturing process, MFD are disassembled
+to the component level and cleaned using optimal 30,000
+technologies. Deteriorated and worn components are
+replaced in accordance with strict reproduction standards. 20,241 The used devices are then put through a production and 20,000
+inspection process on par with lines for products made using
+entirely new components, thereby sufficiently confirming
+quality and reliability. The remanufactured products are 10,000
+ready to be shipped after this process is completed. 5,837 7,277
+34,203 27,292
+     12,324
+In addition, we conduct closed-loop recycling in which 3,384 5,047 we extract plastic materials from used toner cartridges and 0 2,453
+use them as materials for new ones. 2012 2013
+In the past five years of implementing these initiatives, we used 19,350 tons of plastic extracted from used products as materials for new products and reused 14,853 tons of products and components. Going forward, we will continue to reduce the amount of resources we use through the pursuit of product-to-product recycling.
+15,348 11,188
+19,350
+14,853
+  Toner cartridge recycling process
+9,053
+2014
+11,944
+ 2015 2016
+(Year)
+Canon Sustainability Report 2017 22

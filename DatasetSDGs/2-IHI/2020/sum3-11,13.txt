@@ -1,0 +1,76 @@
+
+Value Creation Story 3 Adaptation to Climate Change 
+   
+Disaster Prevention and Risk Reduction 
+The IHI Group contributes to urban development that enables residents to continue living in safety and security through its solutions for providing infrastructure that is resilient to damage from increasingly frequent weather disasters caused by climate change. 
+Flood 
+3,148 
+
+Storm 
+2,049 
+
+Earthquake Extreme temperature Landslide Drought Wildfire 
+Volcanic Mass 
+
+43.4% 28.2% 
+7.8% 5.6% 5.2% 4.8% 3.5% 
+99 
+563 405 
+378 
+347 
+254 
+movement (dry) 
+12 
+Source: Economic Losses, Poverty & Disasters 1998-2017, Centre for Research on the Epidemiology of Disasters (CRED), United Nations Office for Disaster Risk Reduction (UNDRR) 
+17 
+activity 
+1.4% 0.2% 
+Solutions 
+The IHI Group minimizes damage from climate change through various measures, such as appropriate maintenance and management of infrastructure to preserve its resilience, and use of climate data to control dams and water gates. We also help to restore everyday life following a disaster within a short period of time through our products and services. 
+  
+Protection through resilience 
+• Infrastructure maintenance and management 
+Response to disasters 
+• Meteorological observation systems 
+• Remote control of dams and water gates 
+• Rainwater storage and infiltration tanks 
+• Drainage canals 
+High-pressure radial gate 
+Value Offered to Society 
+Quick restoration 
+• Emergency bridge (TRIAS) • Simple remote control 
+system (Robo QS) 
+  
+Bridge deck replacement work 
+TRIAS 
+We help to reduce the number of people affected and economic losses from weather disasters. 
+Social Issue 
+Climate change is increasing the frequency and intensity of natural disasters. 
+According to a report by the United Nations Office for Disaster Risk Reduction (UNDRR), there were 7,255 natural disasters worldwide within the 20 years from 1998 to 2017, and 91% of them were climate-related. Moreover, among disasters associated with climate change, such as floods, storms, drought and heat waves, damage from floods and storms is particularly heavy, and the number of such disasters increased 2.2 times compared with the previous 20 years. 
+Numbers of Disasters per Type 1998–2017 
+単位:件) 
+ 
+( 
+
+ 
+CASE STUDY 1 Rehabilitation of three bridges in Bangladesh to improve safety and extend service life 
+
+IHI Infrastructure Systems Co., Ltd., an IHI Group company, formed a joint venture with Obayashi Corporation, Shimizu Corporation and JFE Engineering Corporation for the construction and rehabilitation of bridges in Bangladesh. The project was completed in January 2020. 
+National Highway 1, which connects the capital city of Dhaka with the major port city of Chittagong, is an important artery in the economic activity of Bangladesh. In recent years, worsened congestion due to increasing traffic, damage and deterioration of existing bridges had become issues. 
+To solve these issues, a project to rehabilitate the Kanchpur, Meghna and Gumti bridges and construct second bridges 
+parallel to the existing bridges was carried out. Measures to prevent scouring,* enhancement of seismic resistance, and other upgrades were implemented. These improved the safety performance and extended the lives of the existing bridges, while enabling them to accommodate rapidly increasing traffic demand. This project was financed through a Japanese Official Development Assistance (ODA) yen loan. 
+The IHI Group will continue its contribution to ensure the 
+safety and security of societies through construction of 
+social infrastructure. * Erosion of soil around the foundation due to rain, wind and waves 
+Completion of the new Meghna Bridge (existing bridge on left, new bridge on right) 
+Robo QS (simple remote control system) installed in backhoe 
+
+CASE STUDY 2 Simple remote control system Robo QS used in disaster recovery work 
+ 
+At the sites of landslides caused by typhoons and heavy rains, which have recently become increasingly frequent in Japan, fast work is required to prevent the damage from spreading. Due to the risk of secondary disasters, it is necessary to operate construction machinery remotely from a safe location, but the high cost of special construction machinery for use in disasters limits the number of machines that can be deployed. 
+To solve this problem, IHI has developed and launched Robo QS, a remote control system for construction machinery, together with Fujita Corporation and the Kyushu Technology Office of the Kyushu Regional Development Bureau of the Ministry of Land, InfrastructureTransport andTourism. 
+Robo QS is fitted to the driver’s seat of general-purpose backhoes to enable unmanned operation via remote control. Installation is very simple, and manual operation is also possible without removing the device. Currently, Robo QS has been deployed to the Kyushu Regional Development Bureau, and to the Chugoku Technology Office of the Chugoku Regional Development Bureau, and is being used at disaster recovery sites. 
+Awards Received for Robo QS 
+FY2017 JapanConstructionEngineers’AssociationAward 
+FY2019 TheRoboticsSocietyofJapan,TechnicalInnovationsAward 
+18 

@@ -1,0 +1,99 @@
+Risk Management
+Integrated Risk Management for Supporting Global Business Activities
+OMRON started integrated risk
+management in order to manage the
+risks of the Group via a shared
+framework in 2011, the same year
+OMRON initiated VG2020. The reason
+for this was that in order to rapidly
+respond to the faster pace of change in
+the operating environment and rising
+levels of uncertainty, we needed to
+become more attuned to risk, scenting
+and addressing risks before they
+became actualized.
+We aim to develop effective risk
+management whereby all employees
+and management teams can work
+together to solve issues arising from
+environmental changes that cannot be
+resolved at the working level. We work
+to improve the quality of our initiatives
+by following the plan-do-check-act
+(PDCA) cycle on a global scale. We also
+regard the accelerated business
+environmental changes as
+opportunities, and perceive determining how to take risks as an essential perspective. We are additionally addressing how to build mechanisms enabling efficient, effective, and prompt risk decisions to be made while still adhering to the OMRON Principles and relevant business rules.
+Integrated Risk Management Structure
+OMRON has established a PDCA cycle that is conducted throughout the year to analyze risks, respond to material risks, and engage in crisis management. To promote initiatives on a global scale with all employees, risk managers are appointed for each headquarters, division, regional headquarters, and group company across the world.
+Activity Cycle for Integrated Risk Management
+  Overview of Business Risks
+External Risk
+  Natural Disaster Risk
+OMRON Corporation Integrated Report 2021
+Strategy
+Information/ Data breach IT security
+Corresponding SDGsManagement, Business Strategy, Financial RiskMacro: Economic downturn Finance: Market volatility
+Macro: Market trends
+Finance: Ratings downgrade Finance: Interest rate situation Macro: Exchange fluctuation
+Business M&As and PMI
+strategy recovery of investment
+ESG Supplier ESG insufficiency   Geopolitical risks
+Legal: Anti-bribery
+Product
+compliance Product safetyGeopolitical Change in
+risks international relations
+Geopolitical Stricter laws
+risks and regulationsGeopolitical
+risks Trade restraints
+  Legal: Anti-trust
+ Legal: Information securities
+   ESG Environmental
+laws and regulations
+  Tax
+compliance Tariff laws
+Legal Risk
+Quality: Defects, recalls
+R&D: Patent disputes
+Legal: Security trade controls
+Accounting Accounting
+finances
+fraudESG Human rightsESG Climate change and disasterProcurement of
+components: Price changesCrisis Decline in
+response social evaluation
+  Natural Contagious disease disaster:
+  Information/ System failure IT security
+ Natural Unforeseen disaster disaster:
+  Procurement of Component components: shortages
+Resource, Infrastructure Risk
+Production: Product supply disruption
+Labor Labor issues
+ESG Industrial accidentCorporate Ethics & Risk Management Committee
+Determine risk response plan for the upcoming year
+Determine budgets for the upcoming year Plan
+Do
+Execute Plan
+Share and report information related to material risks Conduct activities based on the plan
+Corporate ethics monthBoard of Directors
+Annual activity review
+Executive Council
+Act
+Report the progress of activities for the current year Report the results of global risk analysis
+Determine material Group risks for the upcoming year
+Check
+Analyze Global Risk
+Headquarters, regional headquarters, divisions
+Corporate Ethics & Risk Management Committee
+Annual activity review
+Share analysis of risks
+Identify material Group risk candidates Disclose Results of Activities
+30
+Impact on management performance and financial health
+Strategy OMRON Corporation Integrated Report 2021
+Risks Surrounding Management and Businesses, and Risk Analysis
+As OMRON does business globally, we must respond to a variety of risks. Therefore, the OMRON Group breaks down all risks that may impact its management or financial condition into categories and determined their interrelationships. For major risks, we regularly (at least once a year) conduct comprehensive analyses of expected environmental changes, the appropriateness/sufficiency of Group measures, and actual risk cases that have occurred, and rank these risks accordingly. S-rank and A-rank risks, as defined below, are called significant Group risks. For these, we monitor the implementation status of countermeasures and situational changes.
+S Rank: Risks of utmost importance to the operation of the Group, which may jeopardize its survival or bring severe social liability.
+A Rank: Risks that impede the achievement of important Group goals
+Addressing Material Group Risks
+The following examples of significant Group risks represent those matters related to business and finance which may impact the Group’s operating results and financial condition (including stock price). Items which have undergone a particularly extensive change in management or business environment and which the OMRON Group is currently prioritizing are labeled with an asterisk in the table below. However, this is not an exhaustive list of all risks; the Group may be affected in the future by risks that are not currently foreseeable or considered significant.
+Matters discussed here that are not historical fact reflect the judgment of OMRON Group management as of June 25, 2021 (the date of submission of the annual securities report).

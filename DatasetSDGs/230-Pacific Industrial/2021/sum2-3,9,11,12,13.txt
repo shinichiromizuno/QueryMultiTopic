@@ -1,0 +1,89 @@
+       for VALUE CREATION
+Solving social and customer issues through products
+The Pacific Industrial Group will continue to develop products and businesses that contribute to solving social and environmental issues through the power of manufacturing based on our outstanding core technologies and accumulated skills.
+Concept of Technological Development
+ As we enter an era of great change in mobility, and against the backdrop of the growing importance of sustainability issues, we are accelerating the development of LCA and carbon-neutral technologies in the mobility field, which has been our main focus, and we are proposing products that consider the changing nature of mobility and taking on the challenge of new fields by utilizing our core technologies, in cooperation with external parties.
+Mainly in the stamping and molding product business, we focus on ultra-high tensile strength steel (UHTSS) and aluminum products that contribute to weight reduction, and develop molding products to improve comfort performance, which is becoming increasingly important with the shift to electric power. In our valve business, while creating synergy with Schrader, we are accelerating development to expand our TPMS business domain, as well as product development for electrified vehicles
+by leveraging our core technologies, such as sensing and fluid control technologies.
+In addition to investing in the development of these mainstay products, we are also actively taking on the challenge of developing new businesses that anticipate social and customer issues by utilizing sensing technology and other technologies with a view to expanding our business domain over the long term.
+Whereas in our stamping business, where we continue to improve upon our advanced structural analysis technology, participate in mobility development from further upstream stages, and accumulate knowhow for manufacturing, we are also focusing on original product development in the molding, valve, TPMS, as well as new businesses, and are actively pursuing patents, aiming to create societal and customer value.
+Contribution to a Sustainable Mobility Society and Prosperous Living, and Improving Mobility Safety
+Highly relevant SDGs
+  TPMS Contributes to Mobility Safety and Fuel Efficiency
+We are the only transmitter manufacturer in Japan that develops and produces Tire Pressure Monitoring System (TPMS), which monitors the air pressure and temperature inside tires and alerts the driver to abnormalities while driving. TPMS is an outgrowth of the tire valve, our founding product. By maintaining proper tire pressure, TPMS can prevent accidents, improve safety, and contribute to fuel efficiency. In Europe, America, and many other countries around the world, the use of these products is mandatory by law, and they contribute to society as our group’s primary products. We are also working to expand further by developing transmitters for the aftermarket and for motorcycles.
+TPMS Transmitter
+ Contributing to Society through Development of New Products using TPMS Technology
+We are accelerating new product development to solve problems in new areas of the logistics, food, pharmaceutical, and livestock industries by applying the wireless and sensing functions that are the core technologies of TPMS.
+Launched in March 2021, our multi-sensing logger “e-WAVES” is a product equipped with six sensors, including ones for pressure and temperature, that can monitor in real time. The system is compliant with HACCP*1 management of food products and GDP*2 guidelines for pharmaceuticals. It contributes to the reduction of waste loss by visualizing transportation and management status, and aims to help solve social issues together with customers. This product is also used to control the temperature of COVID-19 vaccines during transportation and storage, contributing to the early control of the pandemic.
+Development of products using our core technologies that solve social issues
+【 Areas of activity】 Food transportation/management * HACCP management system
+Pharmaceutical transportation/management
+* GDP Guidelines
+Livestock industry
+   Multi-sensing logger “e-WAVES”
+Data is stored in the cloud using LTE networks and displayed on PCs and smartphones.
+TPMS core technology Wireless/Sensing
+×
+ Market needs
+Demand for monitoring
+ *1 HACCP (Hazard Analysis and Critical Control Point) ... Food sanitation standards for food and other business operators to monitor and control process from receiving raw materials to shipping and serving. *2 GDP (Good Distribution Practice) ... International standards aimed at ensuring pharmaceutical product quality during transportation and storage.
+      Temperature
+Collision
+Humidity
+Air Pressure
+Location
+Brightness
+Base station
+Our system
+   29
+Pacific Industrial Co.,Ltd. Sustainability report 2021
+Periodic communication mode
+Logging mode
+Customer system
+ Environmentally Friendly Product Development
+Vehicle Body Weight Reduction
+Reducing vehicle weight leads to better fuel efficiency, which in turn contributes to carbon neutrality through CO2 reduction. On the other hand, increasing vehicle body rigidity is necessary for safety. In addition to improving lightweight technology and manufacturing UHTSS stamping products that combine high strength with light weight, we are cultivating technology to process a wide variety of materials, including aluminum and GFRP* to contribute to weight reduction.
+* GFRP(Glass Fiber Reinforced Plastics)
+Reducing Weight with UHTSS Products
+ In addition to contributing to reducing CO2 emissions during driving by reducing the vehicle body weight with thinner and stronger stamping products for car body frames, we are actively promoting development and proposals for carbon neutrality based on LCA*.
+The hot stamping method, in which steel sheets are heated to 900 ̊C for processing, emits about eight times as much CO2 as the cold stamping method during production (according to our calculations). We are actively proposing replacing the hot stamping method with the cold stamping method using our accumulated knowhow and cutting-edge stamping technology.
+We are also stepping up cold-stamping product development using UHTSS 1180MPa to 1470MPa, and are promoting even greater strength and lighter weight, such as the first use of these products in roof centers. In addition, we conduct structural analysis in-house to verify collision safety, and propose optimal body structures and cost reduction with the aim of expanding our business domain.
+* LCA (Life Cycle Assessment) ... Considering the environmental impact of each stage from material procurement to production, use, and disposal.
+Hot stamping
+Development of Multi-material Lightweight Undercovers with GFRP
+Undercovers are used under automobile engines to protect the engine and improve aerodynamic performance and noise reduction. Depending on the intended use of each vehicle, the material may be steel, aluminum, or resin, etc.
+Focusing on GFRP’s lighter weight, we developed a multi-material undercover in which steel is
+partially used, which was adopted for the new Land Cruiser. We received a “Project Prize” from
+Toyota Motor Corporation and Toyota Auto Body in 2021 for achieving a weight reduction of one-fifth
+of the conventional weight while maintaining high strength, cost control, and for contributing to CO2
+reduction through LCA. Lightweight undercover made of multi-material using GFRP
+        · Rapid heating of the material, rapid cooling during molding
+· High degree of freedom in molding, including complex shapes · Low productivity, high power usage
+    ■ During molding ■ During production
+■ During molding ■ During production
+Difference in CO2 emissions between production methods * Our calculations
+       Cold stamping
+ · Forming high strength material in press machine · Difficult to stretch and form, requires advanced
+technical skills
+· High productivity, low power usage
+ Hot stamping Cold stamping
+ Pacific Industrial Co.,Ltd. Sustainability report 2021 30
+
+ Solving social and customer issues through products
+  MIRAI, a Toyota FCEV that uses many of our products
+Products for Electrified Vehicles
+With the shift to electrified vehicles such as HEVs, PHEVs, BEVs, and FCEVs*, which is proceeding against the backdrop of climate change and carbon neutrality, we are accelerating the development and sales of products for such vehicles.
+Along with reducing the weight of our stamping products, for molding, we are developing new materials, construction methods, and product designs by enhancing our urethane foam technology to meet the needs for sound and vibration insulation against motor noise arose in response to the shift to electric power.
+For valves, the new MIRAI uses a relief valve for hydrogen fuel, an important component that protects safety.
+Additionally, as the shift to motors is progressing, we are applying the forging press method used for engines and transmissions to parts for BEV units to make them lighter and more precise, and we are developing elemental technology for e-axles, an area that is expected to grow.
+* HEV...Hybrid electric vehicle, PHEV...Plug-in hybrid vehicle, BEV...Battery electric vehicle, FCEV...Fuel cell electric vehicle
+ 31
+Pacific Industrial Co.,Ltd. Sustainability report 2021
+Development of Control Valves for Heat Pump Systems
+While engine-powered cars use exhaust heat to warm the interior, electrified cars, which do not have a heat source, are increasingly using heat pump air conditioners, an energy-saving technology that uses the temperature difference between the refrigerant and the outside air to reduce battery power consumption and extend driving range. With the technology cultivated through the development of refrigerant valves for air conditioners for home appliances, our bases in Japan, the U.S., and France are collaborating to strengthen the development of electric expansion valves that contribute to system efficiency, and we are working to make them a pillar of new products that will lead to carbon neutrality.
+Electric expansion valves for BEVs
+ Recyclable Molding Products
+Our wheel cap center ornaments for automobiles, which account for about 50% of Japan’s market share, are made with a plating-free process by using film decoration and in-mold molding technologies, enabling 100% material recycling.
+In FY2020, molding products using in-mold film contributed to design improvements for the Yaris Cross. We will continue to promote the development of recyclable products to maximize the value of resources for a recycling-oriented society.
+100% recyclable center ornament
+Molding products used in the Yaris Cross

@@ -1,0 +1,145 @@
+Materiality and SDGs
+Protecting and Conserving the Environment
+ Environmental Value
+In 2008, we formulated “Action for Green” as our environmental vision, positioning “environmental value” as the main concept in realizing a society that achieves a beneficial balance between lifestyle enrichment and the environment. To create this value, Canon seeks to supply products and services that enrich people’s lives while also reducing environmental impact, based on initiatives across the entire product lifecycle.
+Canon’s vision of environmental value
+pollution; and (4) contributing to a society in harmony with nature.
+First, we analyze how our business activities relate to environmental issues and needs. We then assign them a level of priority based on the relative level of interest among stakeholders, ascertained with the help of surveys, and the relative impact on our business activities.
+In the recent survey, the most important issue identified by Canon stakeholders was “promotion of energy conservation and utilization of renewable energy.” This response reflects recent upgrading of government policies aimed at realizing net-zero CO2 emissions goals alongside corporate initiatives in response to greater social demand.
+Another issue generating stakeholder interest was “reuse and recycling of used products,” reflecting increased awareness of the circular economy. These issues have a substantial impact on business activities at Canon sites and on the cost and competitiveness of our products, as shown by the increased level of stakeholder interest in “relative impact on Canon business activities.” All three issues are positioned in the high-priority domain of the materiality matrix.
+In this way, by taking careful note of social issues and needs, the level of stakeholder interest, and a wide range of other changes in the world around us, Canon continues to drive forward and develop initiatives throughout the product lifecycle, thus progressing toward the realization of kyosei.
+Material Issues
+    33
+Canon Sustainability Report 2021
+Numerator
+Denominator
+Increase
+Reduce
+Enrichment
+Targeting the denominator, Canon is working to reduce environmental impact by focusing on four material areas: (1) contributing to a low-carbon society; (2) contributing to a circular economy; (3) eliminating hazardous substances and preventing
+Materiality Matrix
+High
+Enrichment
+    Environmental burden
+Environmental burden
+  • Management of water use • Biodiversity conservation
+• Reduction of waste/Prevention of water and soil pollution
+• Management of air emissions and prevention of pollution
+• Management of environmental burden of transportation
+• Promotion of energy conservation / Utilization of renewable energy
+• Reuse and recycling of used products • Management of raw material use
+• Management of chemical substances contained in products
+Relative impact on Canon’s business activities
+High
+Relative interests of stakeholders
+   Affluent consumer lifestyles contrast with the varied environmental problems that the planet now faces, including climate change, resource depletion, pollution, and loss of biodiversity. In response to the issue, debate within the global community is increasing on how to achieve net-zero CO2 emissions and how to realize a circular economy. Bearing such
+business impact of environmental issues, many companies recognize the importance of helping address these issues in partnership with national and local governments, experts and other stakeholders.
+Canon identifies business risks and opportunities by envisioning different ways in which society will
+change based on information received from specialized institutions and government agencies.
+In tackling climate change, we believe the critical approach to reduce risk while expanding opportunities involves mitigation by cumulative reduction of CO2 emissions across product lifecycles coupled with adaptation to physical risks.
+achieving net-zero CO2 emissions, we believe it is important for the Canon Group to not only reduce its own CO2 emissions, but to also contribute directly and indirectly to reducing CO2 emissions at the societal level in line with the shift to a new way of living.
+Risks and Opportunities
+   Major Risks and Opportunities in Four Areas of Materiality, Impact on Business Activities
+ Climate change
+Circular economy
+Risks
+Opportunities
+ Transition risks:
+• Stricter energy-efficiency regulation and associated compliance costs (products/sites)
+• Increased business costs from economic measures to reduce emissions (e.g., carbon tax)
+Physical risks:
+• Negative impacts on operations caused by increasingly severe extreme weather events such as typhoons and floods
+Reputational risks:
+• Negative external evaluation due to insufficient information disclosure
+   Transition risks:
+• Increased procurement costs of raw materials due to resource constraints
+• Stricter resource-efficiency regulation and associated compliance costs (products/services)
+• Increased costs for collection and recycling of used products in each region
+Physical risks:
+• Impairment of stable water supply and impacted business operations due to extreme weather events
+Reputational risks:
+• Damage to corporate image from slow transition to circular economy
+   Hazardous substances
+• Increased chemical substance management costs due to strengthened and expanded regulations
+• Suspension of production or disruption to parts supply chain due to serious noncompliance by suppliers
+• Damage to corporate image due to poor regulatory compliance
+  Biodiversity
+        • Reduced supply and higher cost of printing paper due to dwindling forestry resources
+• Restraints on business activities due to disruption of local ecosystems
+• Expanded opportunities for sale of energy-efficient products with low lifecycle CO2 emissions
+• Contribution to CO2 emissions reduction at societal level through sale of various innovative products and solutions (hardware/software)
+• Reduced energy costs through increased efficiency in production and transportation
+• Expanded opportunities for use of renewable energy through lower associated costs
+• Enhanced corporate image due to proactive climate- related disclosures
+• Business cost reduction through improved resource
+• Enhanced competitiveness through 3R design and development of advanced recycling technology
+• Increased demand for remanufactured products
+• Enhanced corporate image through publicity of our advanced approach to resource recycling
+• Supplying safe products and maintaining competitiveness through more advanced chemical substance management • Cost reduction through increased management efficiency,
+including within the supply chain
+• Enhanced corporate image through contribution to
+international standardization
+• Application of our products and technologies to ecosystem conservation
+• Enhanced corporate image through contribution to local communities
+    Four Material Areas of Canon’s Action for Green Environmental Vision and Key Initiatives
+Approach
+GRI102-11 GRI102-15 GRI103-1 GRI103-2
+     Contributing to a Low-Carbon Society (→P53-56)
+Contributing to a Circular Economy (→P57-61)
+• CO2 emissions reduction via improvements in energy efficiency over entire product lifecycle
+• Utilization of economic renewable energy sources
+• Contributing to CO2 emissions reduction by customers and at societal
+level
+• Rigorous management of chemical substances based on green procurement standards
+• Proactive establishment of frameworks relating to communication of information in supply chain
+• Reduction of chemical usage within production processes and restriction of related emissions
+• Promotion of compact, lightweight products
+• Reuse, remanufacturing, and recycling of products and consumables • Promotion of efficient onsite water usage and waste recycling
+• Ecological conservation activities, such as the Canon Bird Branch Project, based on our Biodiversity Policy
+• Procurement of sustainable timber products based on our Basic Policy on the Procurement of Timber Products
+Eliminating Hazardous Substances and Preventing Pollution (→P62-64)
+Contributing to a Society in Harmony with Nature (→P65-66)
+  Canon Sustainability Report 2021 34
+         global developments in mind and recognizing the Moreover, to contribute to the global goal of
+efficiency
+Message from Strategies and Canon’s Value CSR Reporting Management Data Summary Corporate the CEO Policies Creation Foundation Information, etc.
+
+Materiality and SDGs
+ KPI
+To gauge progress achieved across environmental activities to save energy, conserve resources, and promote recycling using an integrated indicator, Canon has set an overall target of average 3% per
+year improvement in the index of lifecycle CO2 emissions per product unit. We have consistently achieved this target every year since 2008. Looking to the future, we will continue contributing to society through steady improvement.
+Lifecycle CO2 Emissions Improvement Index per Product
+ 100 80 60 40 20 0
+Actual achievement: yearly average 4.6% reduction
+        41.3%
+improvement
+Target: yearly average reduction rate
+of 3%
+           Governance
+••••••••••
+ 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 * Indexed to 2008 =100
+50.0%
+improvement
+2030 (Year)
+Linking Business Management and the Environment
+Canon believes it is vital that environmental activities such as measures for climate change are integrated into the management of its business. For instance, the time frames for achieving environmental targets are aligned with our business plans. In line with the Excellent Global Corporation Plan, which sets the company’s management direction in five-year phases, Canon uses rolling three- year technology and product plans that are revised annually. This annual review includes consideration of the need to modify environmental targets.
+Canon evaluates the results of environmental activities by each member of the Canon Group (including each business unit, manufacturing
+Consolidated Performance Scoring (image)
+Financial Quality
+Envir./CSR
+・ ・
+subsidiary and sales company) using a consolidated performance evaluation system. The system uses financial results as well as indicators for non-financial aspects such as environmental and CSR activities, so the latter are managed as one aspect of the business.
+TCFD-Recommended Disclosures
+In line with disclosure recommendations by the Task Force on Climate-related Financial Disclosures (TCFD), the following pages provide information on our activities related to climate change. This section also includes information from the 2020 CDP climate change questionnaire.
+A comprehensive management approach is important due to the inter-connectedness of environmental issues such as climate change, resource recycling and environmental pollution. Based on appropriate disclosure, we will continue to utilize various proprietary Canon technologies and undertake initiatives to enable us to contribute both directly and indirectly to achieving the global goal of net-zero CO2 emissions by 2050.
+Relationship with SDGs
+ P35, P49-50
+Strategy
+P34-35, P45-47 P50
+    Risk Management
+P34, P49-50 P104
+Indices and Targets
+P35, P46-47
+  Business indicatorsCanon’s environmental impact-reduction initiatives in the “contributing to a society in harmony with nature” four material areas of “contributing to a low-carbon contribute to achievement of the SDGs outlined below. society,” “contributing to a circular economy,” “eliminating
+hazardous substances and preventing pollution” and
+      35 Canon Sustainability Report 2021

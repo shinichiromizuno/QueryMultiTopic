@@ -1,0 +1,107 @@
+GEnsuring Safety Measures
+The Cosmo Energy Group advocates “ensuring safety measures” as materiality of the new consolidated medium-term CSR management plan. From a different perspective from original corporate governance, we have intentionally incorporated “safe operations and stable supply” and “quality assurance” as priority issues as they are a part of an essential foundation for raising corporate value. We have set targets and KPIs for these issues in promoting the enhancement of a
+Governance safety management structure.
+ Cosmo Energy Group’s Number of Work-Related Accidents
+CSR Activities
+ Safe Operations and Stable Supply
+Safety Measures
+As we declared in the first chapter of the Cosmo Energy Group Code of Conduct, we are determined to be a safe and accident free corporate group, and, consistent with that, we continued to undertake safety measures in FY2017.
+Our refineries adopted “Zero serious accidents” meaning prevention of such as fires, explosions, outside or massive leakages, or serious labor-related accidents, as a safety target and, moreover, achieved it in FY2017. We have adopted as management indicators the frequency rate* of lost-worktime accidents and injuries, the rate of unplanned stoppage, and the number of days of stoppage of incoming and outgoing shipment; in addition, we implemented safety management procedures, while we strived to establish good workplaces and work environments and to manage the Operational Management System (OMS) so as to foster a safety-oriented culture.
+* Frequency rate represents the number of casualties by work-related accidents and injuries in one million work hours and indicates the frequency of occurrence of accidents and injuries.
+Initiatives to Prevent Forgetting Incidents and to Reduce Unsafe or Inadequate Conditions.
+Cosmo Oil has designated March 11, a date when the fire and explosion at the LPG tanks occurred at its Chiba Refinery due to the Great East Japan Earthquake in 2011, as the Cosmo Oil Safety Day. On the day, all group employees watch a DVD compiling the story of the accident, its cause and preventive measures. We continue to try not to forget the incident by implementing diverse initiatives, including holding safety seminars and installing a memorial monument.
+Experience and insight gained through discovery or occurrence of fault at a refinery is shared with other refineries at regularly-held conferences in order to reduce similar faults. Adoption of the OMS infrastructure has also resulted in a steady reduction in incidents of unsafe conditions or faults. Consequently, this led to the improvement in operating rate in FY2017.
+  FY2017
+Total work-related Accidents involving accidents directly-hired
+FY2016
+employees
+Accidents Accidents Accidents Accidents Accidents Accidents Accidents Accidents
+Accidents at subcontracting companies, etc.
+Total work-related accidents
+ requiring time off from work
+not requiring time off from work
+requiring time off from work
+not requiring time off from work
+requiring time off from work
+not requiring time off from work
+requiring time off from work
+not requiring time off from work
+Memorial monument placement ceremony
+ Accidents during work
+Accidents during commuting
+Total
+25
+3 25 1 20 2 5 1 17
+28 107 6 46 22 61 31 105
+82
+5
+26
+20
+56
+30
+88
+   * Including Cosmo Energy Holdings, Cosmo Energy Exploration & Production, Cosmo Oil, Cosmo Oil Marketing, Maruzen Petrochemical, and 48 related companies
+Quality Assurance: Enhancing the Quality Assurance Structure
+“Safety Day” seminar
+  With the objective of economical, stable supply of safe products that fulfill customers’ requirements for quality, Cosmo Oil and Cosmo Oil Marketing have a “CS and Quality Assurance Committee” to decide a quality assurance policy and promote related activities. The committees of both companies cooperate with the Safety and Risk Management Committee of Cosmo Energy Holdings, forming the Group’s quality assurance structure.
+Cosmo Oil’s themes for quality management initiatives in FY2017 were “thorough implementation of measures for safe, stable supply (prevention of quality defaults)”; “compliance with quality standards in Japan and overseas”; and “prompt, appropriate
+response to troubles, and thorough investigation into their cause and prevention of recurrence.” In FY2017 our refineries and oil depots continued to record no significant quality- related trouble and no shipment of non-conforming products. Cosmo Oil Marketing had three incidents of erroneous mixing of oils due to operational errors at the time of unloading. Thanks to customers’ cooperation and prompt action, none of these cases became a serious problem. Nevertheless, in order to eliminate such a possibility, we have implemented preventive measures such as to checking actual freight shipments with its documentation and to always have someone from the company present during unloading.
+
+TOPICSOperations Management System
+Cosmo Oil has adopted an Operations Management System (OMS) with the aim of achieving safety operation and stable supply that are superior to the world standard. The adoption of the OMS has enabled us to establish an operating- related management system base. On this basis, we intend to achieve safety operation and stable supply, improve operations, and avoid opportunity losses.
+3
+Always bear in mind the risk involved.
+Risk Base
+1
+Three Key Points (Basic Concept) of OMS
+2
+    Requirements for the management
+OMS Framework
+Driving force
+Continuous
+improvement
+Continue improvements while running PDCA.
+Completely
+done
+Perform securely according to rules and procedures.
+  Management leadership, Commitment, accountability
+TOP
+1 Set management policy, 2 Establish operation Policy and 3 OMS implementation Provide resources Communication
+ Risk
+Safety first
+Maintenance
+Safety and stability
+Process
+Reliability and satisfaction
+Human
+Valuing people
+Social
+Act with integrity
+4 Risk assessment and management 6 Incident investigation and analysis
+8 Facility design for maintenance 9 Construction work
+5 Management of change 7 Emergency preparedness
+  Requirements for actual work
+ Certain execution
+10 Productive quality
+12 Management of operation
+11 13
+Environmental protection Production planning 14 Personnelsafety,Occupationalhealth 15 Employeeparticipation 16 Thirdpartyservices
+17 RegulatoryComplianceandMoral
+   Reviewing and reflecting
+Adoption of OMS Indicators
+OMS Auditing to Improve Operations
+The implementation status of OMS activities is internally audited on a regular basis to identify and improve issues which may have been unnoticed by those involved. In FY2017, the OMS auditing was conducted at the head office, Chiba Refinery, Yokkaichi Refinery, and Sakai Refinery and more than 200 items for improvement were identified.
+The OMS activities comprise (1) preparation manuals for rules and procedures; (2) instruction and training; (3) achievement of complete adoption; and (4) continuous improvement. In order to understand the implementation status of the activities and to timely take measures as needed, we have adopted OMS indicators, in FY2017. The indicators include relevant leading indicators and lagging indicators for each requirement item in measuring the implementation status of each action item. The results are shared, and the achievements are appreciated by all relevant people, who also respond to arising issues as needed. Further, validity of the OMS indicators is regularly reviewed, so that they may be improved and be more appropriate for achieving the targets.
+*Lagging indicators show actual faults, problems, etc.
+Leading indicators show the status of implementation of preventive measures to potential fault.
+Check
+Requirements for all operationCommon systems
+Basic
+18 Implementationofoperationpolicies
+19 ResponsibilityandAuthority
+20 Education and Training
+21 DocumentationandInformation
+22 CommunicationandInterface
+ Assessment&Improvement Audit 23 OMSAssessment
+ Requirement for auditors and evaluators
+COSMO REPORT 2018 52

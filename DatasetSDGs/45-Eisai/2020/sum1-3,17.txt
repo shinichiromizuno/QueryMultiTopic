@@ -1,0 +1,365 @@
+Intellectual Capital Development of Next-Generation Dementia Treatments
+152 million people
+Estimated number of people with dementia worldwide as of 2050
+  ■ SWOT AnalysisStrengths
+1.Industry-leading rich R&D pipeline along with the continuous disease pathology of Alzheimer’s disease (AD Continuum)
+• Investigational anti-Aβ antibody aducanumab: Completed
+submission of Biologics License Application (BLA) in the U.S.,
+and re-dosing study (EMBARK) is ongoing
+• Investigational anti-Aβprotofibrils antibody BAN2401: Pivotal
+Phase III study (Clarity AD), re-dosing study, and Phase III
+study (AHEAD 3-45) in people with preclinical AD are ongoing
+• In fiscal 2020, a total of 6 projects are scheduled for clinical
+studies
+2.Expertise acquired over 35 years of medicine creation in this
+area
+3.Progress in the “partnership model,” a global strategic
+alliance that enables acceleration of development, increase of probability of success, and streamlining of R&D and commercialization expensesWeaknesses
+1. High degree of difficulty in developing new drugs
+2. Large-scale and long-term clinical studies are necessary 3. Large R&D expenses are incurredOpportunities
+1.Increase in the global number of people with dementia as the population ages
+2. Enactment of the Basic Law for Dementia in Japan 3.Realization of early diagnosis and early intervention with
+improved diagnostic technologiesThreats
+1. Competing products entering the market
+2.Development of treatments other than drugs that directly
+stimulate and activate the brain
+3.Increasing pressure to lower drug prices as governments
+promote policies to reduce healthcare expenditure
+4. Delay in development of medicines due to pandemic
+Environment Surrounding Dementia
+■ What is Dementia?
+Symptoms such as “getting hard to remember new things” or “can’t remember the name of my acquaintances” become more prominent with aging. However, this “forgetting” is due to aging of the brain. By contrast, dementia is completely different from “forgetting” due to aging, and refers to a symptom or condition that occurs due to the death of brain cells resulting from various causes and diseases, or an extreme worsening of cognitive functions. There are various types of dementia. While symptoms of Alzheimer’s disease (AD), the most prevalent type of dementia, are mainly related to memory impairment (core symptoms), behavioral and psychological symptoms (BPSD), such as delusions and hallucinations, violence, wandering and depression are also observed. In addition to AD, dementia with Lewy bodies and vascular dementia are well-known, and as the disease progress, comprehension and judgement abilities of people living with dementia deteriorate, which may impair social life and daily living.
+●Types of dementia
+  Others Alzheimer’s 15% disease 50%
+Vascular dementia 15%
+Dementia with Lewy bodies 20%
+Source: Guide to Understand Dementia with Lewy Bodies, Editorial supervisor: Kenji Kosaka (Kodansya Ltd., 2014) Japanese title: Rebi-Shotai Gata Ninchisho Ga Yoku Wakaru Hon
+ ■ Current Situation of Dementia: Increase in the Number of People with Dementia and Costs Related to Dementia
+As the aging of the global population gathers pace, the number of people with dementia is expected to continue an upward trend. In 2018, the number of people with dementia was estimated to be 50 million worldwide. It is estimated that this number will reach 82 million by 2030, and 152 million by 2050. The population living with dementia is expected to increase mainly in Asian countries.
+23
+●Estimated number of people with dementia worldwide*1 ●Estimated number of people with dementia by region*3
+  (million)
+150
+100
+50 50 million
+0
+82 million
+152
+million Low income countries*2
+(3%)
+Middle income countries*2 (65%)
+High income countries*2 (32%)
+   2018
+2030 2050
+Americas
+Africa
+Europe Asia
+ m: million
+      29.9m 2050 15.8m 2030
+9.4m 2015
+15.8m 2050 7.0m 2030 4.0m 2015
+18.6m 2050 13.4m 2030
+10.5m 2015
+67.2m 2050 38.5m 2030
+22.9m 2015
+*1 World Alzheimer Report 2018
+*2 High income countries are defined as those with a GNI (Gross National Income) per capita of $12,736 or more, Middle income countries are defined as those with a GNI per capita of more than $1,046
+but less than $12,736 and Low income countries are defined as those with a GNI per capita of $1,045 or less (World Alzheimer Report 2015) *3 World Alzheimer Report 2015
+The costs associated with dementia are estimated to reach approximately 90 trillion JPY in 2015 and 220 trillion JPY in 2030, including the costs of medical care, nursing care, and family care. In addition to medical expenses, the cost of care (social care, family care, etc.) is very high, however, understanding of the disease is still insufficient. People with dementia, their families, or
+●Estimated cost for dementia
+people who are associated with them, may fear dementia including AD, or experience a feeling of denying the onset of the disease. There are also cases in which people postpone going to see the doctor despite the presence of symptoms, so that appropriate medical intervention is not provided.
+  817.9 billion USD
+(approx. 90 trillion JPY) Low income countries
+Informal care cost
+cost
+50% 100%
+     604 billion USD (approx. 66 trillion JPY)
+2010 2015
+20.4
+10.4
+  69.2
+        Middle income countries
+High income countries
+22.6
+Medical cost Social care
+19.4
+58.0
+   19.0
+43.1
+37.9
+   0%
+* High income countries are defined as those with a GNI (Gross National Income) per capita of $12,736 or more, Middle income countries are defined as those with a GNI per capita of more than $1,046 but less than $12,736 and Low income countries are defined as those with a GNI per capita of $1,045 or less (World Alzheimer Report 2015)
+■ Limitations of Current Dementia Treatments and Efficacy Expected for Next-generation Dementia Treatments
+Regarding dementia treatments, symptomatic treatments including our in-house developed “Aricept®” have over 20 years of history in the market, and their efficacy and safety have been established; however, their limitations have also become clear. Worsening of cognitive functions is unavoidable after a certain period of administration, and there is no effect of radically slowing down or stopping the progression of the disease. Therefore, development of potential next-generation dementia treatment, which could potentially delay the onset of dementia or suppress the worsening of cognitive functions over a longer period of time, is highly anticipated.
+In the U.S., it is estimated that a treatment introduced in 2025 that delays the onset of AD, which accounts for the majority of dementia, by five years, would decrease the number of people living with the disease by 42%
+(5.7 million people), and total costs to all payers would decrease by 33% (367 billion USD) compared to the current trajectory. Similarly, in Japan, if a new intervention method that delays the onset of disease by
+  Illustration of Treatment Efficacy Expected for Next-Generation Alzheimer’s Disease Treatment
+Next-Generation Alzheimer’s disease treatment
+   Mild cognitive impairment (MCI)
+Mild
+Alzheimer’s disease
+Moderate Alzheimer’s disease
+Severe
+Alzheimer’s disease
+Existing treatments
+Typical progress of Alzheimer’s disease
+Age
+ 24
+Eisai Integrated Report 2020
+Cognitive function
+Company Introduction Management Strategies Value Creation Activities Financial Base Initiatives to Enhance Non-Financial Capital Appendix
+
+ 5 years is introduced, it is estimated that the medical and nursing care costs in fiscal 2025 will decrease by approximately 1.9 trillion JPY in a single year (medical expenses of approximately 1 trillion JPY and nursing care cost of approximately 0.9 trillion JPY).
+The next-generation
+dementia treatments could ■Current trajector
+2025 2030
+340 451 340 368 0 83
+2035 2040
+596 767 417 509 180 259
+2045 2050
+942 1,101 622 734 320 367
+●Impact of a treatment that delays onset by five years on total costs, 2015-2050 (U.S.) 1,200 (Billions of USD)
+1,000 800 600 400 200
+0 2015 2020 226 267
+           contribute not only by
+suppressing the decline of
+cognitive function of people
+with dementia, but also by
+controlling costs such as medical expenses and nursing extending the healthy life period. This would be of great care costs, and reducing the disease burden by benefit to society.
+■ Challenging Path Toward Creation of Next-Generation Dementia Treatment
+■Delayed onset ■Savings
+226 267 0 0
+  No drug has been approved by the U.S. Food and Drug Administration (FDA) for the treatment of dementia since 2003. 146 agents under development between 1998 and 2017 did not prove successful. This suggests that medicine creation in the dementia area is very challenging.
+It is extremely difficult to reproduce high-order brain functions such as cognitive function that are unique to humans, and it is difficult to create an applicable
+experimental scenario using animal models. Hence, it has been extremely challenging to develop next- generation dementia treatments*. Consequently, it was necessary to understand the progression of the disease by developing biomarkers that accurately reflect changes in the brain of AD, to begin with.
+* Treatments that have the effect of suppressing recurrence rates of the disease or delaying its progression
+■ What is AD Continuum?
+In AD, a peptide called amyloid beta (Aβ) aggregates and accumulates in the brain, 10 to 20 years before symptoms such as memory impairment appear. It is thought that, triggered by the aggregation and accumulation of Aβin the brain, a tau protein that exists
+in neuron accumulates in the cells, after which neuronal cell death is caused. This is the Aβhypothesis, which Eisai’s research for next-generation AD treatments is based upon. The current AD treatments are intended for those with clinical symptoms. By contrast, the
+Source : Alzheimer’s Association. Changing the Trajectory of Alzheimer’s Disease: How a treatment by 2025 saves lives and dollars Fig6. All cost figures are reported in 2015 USD.
+Research and Development along with the Continuous Disease Pathology of Alzheimer’s Disease (AD Continuum)
+  People with no pathological changes
+Preclinical AD MCI due to AD Mild AD Moderate AD Severe AD
+     A Amyloid Plaque
+T Tauopathy (p-tau*1, Tau PET)
+  Definition based on biomarker panel
+(I) Neuroinflammation (sTREM2*2, YKL40*3, TSPO*4 PET) Synaptic dysfunction (NfL*5, Neurogranin)
+N Neurodegeneration (t-tau*6, NfL, vMRI*7)
+  * This figure is created based on the lecture at the 39th Annual Meeting of the Japanese Neuroscience Society by Dr. Makoto Higuchi, National Institute of Quantum and Radiological Science and Technology (Radiological Science and Development Directorate)
+*1 Phosphorylated tau *2 Soluble triggering receptor expressed on myeloid cells 2 *3 Chitinase-3-like protein 1 *4 18kDa translocator protein *5 Neurofilament light chain *6 Total tau *7 Volumetric MRI
+25
+
+next-generation dementia treatments based on the Aβ hypothesis target early AD (mild cognitive impairment due to AD [MCI due to AD] and mild AD) where Aβ accumulation in the brain is observed, and preclinical AD where earlier cognitive impairment has not been confirmed.
+On the other hand, the development of various biomarkers* for detecting pathological changes in the
+■ Investigational Anti-Aβ Antibody Aducanumab
+Investigational aducanumab is an anti-amyloid antibody licensed-in from Neurimmune AG (Switzerland) and developed by Biogen Inc. Eisai exercised its option rights for co-development
+and co-commercialization in October 2017. A Biological License Application (BLA) to the FDA for AD was
+brain and the understanding of AD Continuum are progressing. In particular, utilizing Aβ(A), tau (T), neuroinflammation (I), and neurodegeneration (N) as biomarkers has made it possible to evaluate neuropathological changes that characterize the pathology of AD.
+* Physiological indicators on the presence or absence of disease and the progression
+completed in July 2020. The consultation with authorities in Japan and Europe for new drug application are steadily ongoing. In March 2020, the EMBARK study, a re-dosing study of aducanumab for participants of previous studies, was initiated.
+  Progress of BLA Filing for Aducanumab
+The Phase III studies (EMERGE and ENGAGE) of aducanumab in people with early AD (MCI due to AD and mild AD) were discontinued in March 2019.
+Then, in consultation with the FDA, a larger-scale data set containing additional data from the EMERGE and ENGAGE studies, which became available after the pre-specified futility analysis, went under the final analysis. As a result, the EMERGE study showed reductions of amyloid in the brain and reduction of clinical decline in the high-dose group of aducanumab (primary endpoint was CDR-SB [Clinical Dementia Rating-Sum of Boxes]). In the ENGAGE study, although it did not meet its primary endpoint, the data from the subset of ENGAGE that received high doses of aducanumab support the findings from the EMERGE study, by confirming reductions of brain amyloid and clinical decline. We concluded that the difference between the results predicted by the futility analysis announced in March 2019 and the final results was largely due to the increase in the number of subjects receiving high-dose aducanumab due to the revision of the protocol during the clinical studies. Furthermore, the improvement of pathological conditions was also indicated by the biomarkers related to tau and neurodegeneration other than Aβ.
+●Reduction of brain amyloid (EMERGE) ●Reduction of clinical decline in cognitive function and activities of daily living (EMERGE)
+   0.05 0.00 -0.05 - 0 .10 - 0 .15 -0.20 -0.25 -0.30
+baseline Placebo 157 Low Dose 157 High Dose 171
+Week 26 128 125 136
+Week 78 74 79 87
+  ***
+***
+ Placebo Low Dose High Dose
+Nominal p values: ***P<0.001 vs. placebo
+***
+***
+  % Reduction vs Placebo p-value
+ Low dose
+(N=543)
+  High dose
+(N=547)
+  CDR-SB
+ -14% 0.117
+ -23% 0.010
+ MMSE
+3% 0.690
+-15% 0.062
+ ADAS-Cog13
+ -14% 0.167
+ -27% 0.010
+ ADCS-ADL-MCI
+  -16% 0.156
+  -40% 0.001
+     26
+Eisai Integrated Report 2020
+Reduction
+Adjusted mean change from baseline(±SE)
+Company Introduction Management Strategies Value Creation Activities Financial Base Initiatives to Enhance Non-Financial Capital Appendix
+
+   ●Reduction of brain amyloid (ENGAGE) ●Reduction of clinical decline in cognitive function and activities of daily living (ENGAGE)
+   % Reduction vs Placebo p-value
+ Low dose
+(N=547)
+  High dose
+(N=555)
+  CDR-SB
+-12% 0.236
+2% 0.825
+ MMSE
+ -6% 0.488
+ 3% 0.796
+ ADAS-Cog13
+ -11% 0.248
+ -12% 0.245
+ ADCS-ADL-MCI
+  -18% 0.135
+  -18% 0.152
+      0.05 0.00 -0.05 - 0 .10 - 0 .15 -0.20 -0.25 -0.30
+baseline Placebo 203 Low Dose 198 High Dose 181
+Week 26 164 166 149
+Week 78 104
+116 97
+ ***
+Nominal p values: ***P<0.001 vs. placebo
+*
+**
+***
+ Placebo Low Dose High Dose
+***
+ ■ Investigational Anti-Aβ Protofibril Antibody BAN2401
+Investigational BAN2401 is an anti-Aβprotofibril antibody obtained through collaborative research with BioArctic AB (Sweden), and has the unique features of binding and reducing Aβprotofibrils which are thought to be the most toxic in the formulations of Aβ. Following the discussion with regulatory authorities based on the results of PhaseIIstudy (Study 201) that showed suppression of clinical decline as well as dose- dependent reduction of Aβaccumulation in the brain, a single pivotal Phase III study (Clarity AD) is required for a filing for BAN2401, and is currently underway. This Phase III study is targeted to people with early AD, and the results of the primary endpoint are anticipated in the second quarter of fiscal 2022. The
+201 Open-Label Extension (OLE) study (Open-label continuous administration study) is also ongoing.
+Clarity AD
+Furthermore, in
+collaboration with Alzheimer’s Clinical Trials Consortium (ACTC), a network of 35 major clinical trial facilities in the U.S., a PhaseIIIstudy (AHEAD 3-45 study) in people with normal clinical symptoms and pre-clinical levels of brain amyloid accumulation, which is an even earlier stage than early AD, was initiated in July 2020.
+ Potential Disease Modifying Effect Suggested at the time of initiation of BAN2401 201 OLE Study
+Study 201 (18 month core study) demonstrated that a clinical decline was suppressed and the accumulation of Aβplaques in the brain was reduced by BAN2401. At the time of initiation of the OLE study, the degree of brain Aβaccumulation of the participants was measured. In the BAN2401 administration group, Brain amyloid reduction at the end of core study persisted for an average of two years after administration of BAN2401 was discontinued. Also, regarding the disease progression, the difference between the placebo group and the BAN2401 administration group at the end of Study 201 (18 month core study) was maintained for an average of two years following the discontinuation of BAN2401 administration.
+●Effects of reduction of accumulated brain amyloid persisted ●Maintained difference in clinical decline
+ 0.2 0.1 0.0 -0.1
+-0.2 -0.3 -0.4 -0.5
+Core baseline
+18 months
+OLE baseline
+Modelled data plotted at 2 years off BAN2401
+4
+3
+2
+1
+0
+Core baseline
+18 months
+OLE baseline
+Modelled data plotted at 2 years off BAN2401
+   Treatment Discontinuation
+    Maintained the level of brain Aβ
+      Treatment Discontinuation
+  Maintained difference in clinical decline
+        Difference in clinical symptoms
+      ■Placebo ■10mg/kg biweekly
+■Placebo ■10mg/kg biweekly
+    27
+Improvement
+Reduction
+Worsening
+Adjusted mean change from baseline(±SE)
+
+ Our Understanding of Aβ Hypothesis Based on the Latest Findings
+ ➡ Association ⬅ Dissociation
+*1 Co-development with Biogen Inc.
+*2 Investigational antibody for AD produced as the
+3
+Amyloid
+1 BAN2401*1, 2 (anti-Aβprotofibrils antibody)
+result of a strategic research alliance between Eisai and BioArctic AB *3 Being developed by Biogen Inc. Eisai has an option to jointly develop and
+commercialize with Biogen Inc.
+E2814
+(anti-tau antibody)
+2
+4
+Neurodegeneration
+Tau
+BIIB076*3 (anti-tau antibody)
+1 Aducanumab*1 (anti-Aβantibody)
+1 The Study 201 of BAN2401 and the studies of aducanumab (EMERGE, ENGAGE, and PhaseIb study [PRIME]) demonstrated that removal of Aβ aggregates resulted in reduction of clinical decline and slowed the decline in activities of daily living. From the facts thereof, we have a strong belief in the Aβ hypothesis and we are confident that these results represent a breakthrough in medicine creation in AD area.
+2 Antibodies targeting aggregates have been shown to remove Aβ aggregates with higher efficiency compared to anti- Aβ monomer antibodies or BACE inhibitors. The speed of lowering brain Aβ monomer level, breaking the balance, and dissociating Aβaggregates of BACE inhibitors is slow.
+3 In order to understand the overall Aβ hypothesis, it is important to evaluate firstly amyloid and tau biomarkers, and biomarkers for neuroinflammation and neurodegeneration additionally, in a continuous progression of AD (AD Continuum) using the biomarker panel.
+4 There are various forms of Aβ aggregates, and among them, many studies have reported that soluble aggregates such as protofibrils have the highest toxicity. It is considered that treatment focused on soluble Aβaggregates is important.
+ Fig12
+■ Investigational Anti-tau Antibody “E2814”
+Investigational E2814 is an anti-tau antibody developed in research collaboration with University College London (U.K.). The major component of neurofibrils, which is one of the pathological changes in AD, is tau protein that is present in neuron. It is known that the severity of cognitive impairment in AD well correlates with the spread of neurofibrils. E2814 targets tau seed (tau transmission species), which
+is known to propagate to different areas of the brain as the disease progresses, and cause tau lesions,
+and it is expected to prevent further accumulation of neurofibrils in the brain and suppress disease progression. A PhaseIstudy is currently ongoing.
+●Intracellular action of E2814
+   Seed Monomer
+X
+  28
+Eisai Integrated Report 2020
+Antibody to prevent tau
+seeding and spreading: =Tau E2814
+Aggregates
+Company Introduction Management Strategies Value Creation Activities Financial Base Initiatives to Enhance Non-Financial Capital Appendix
+
+  Discontinuation of the development of investigational BACE inhibitor elenbecestat
+The Phase III studies (MISSION AD) of the oral β-site-amyloid precursor protein cleaving enzyme (BACE) inhibitor, elenbecestat, which were conducted in people with early AD, were discontinued in September 2019. The decision
+was made based on the results of a safety review conducted by the Data Safety Monitoring Board (DSMB), which recommended discontinuation of these studies due to an unfavorable risk-benefit ratio.We are currently conducting follow- up of subjects who participated in the study. Detailed data of these studies will be presented at the AD-related conference.
+■ Series of AD-associated Pipeline: Classification by Biomarker Panel
+Eisai possesses an industry-leading R&D pipeline in the dementia area. In fiscal 2020, a total of 6 projects
+Non-clinical
+are scheduled for clinical studies, and multiple projects are underway for preclinical studies.
+PhaseI PhaseII Phase III Submission
+      Anti-Aβ antibody*1 Aducanumab
+A
+  Anti-Aβprotofibrils antibody BAN2401*1, 2
+Early AD: Clarity AD ongoing Preclinical AD: AHEAD 3-45*3
+Under review in the U.S.
+  initiated in July 2020
+  T
+Anti-tau antibody E2814*4
+ (I)
+Immuno-Dementia*5 Project
+Drug creation based on immune mechanisms in the brain through discovering target which modulates microglia by leveraging human genetics
+PhaseIongoing
+     N
+Synapse regenerant E2511
+Synapse modulator EphA4 Project*6
+Under preparation for PhaseI
+Non-clinical research is ongoing aimed at maintenance of
+memory through synapse stabilization
+    Beyond AT(I)N pathology
+Orexin receptor antagonist DayvigoTM
+PDE9 inhibitor E2027
+Collaborative research with Keio University EKID*9
+ISWRD*7 associated with AD/dementia: PhaseIIfinished*8
+Dementia with Lewy bodies: PhaseII/III ongoing
+Drug creation based on protective mechanism of brain ongoing utilizing reverse translation by leveraging multiomics analysis of clinical samples
+   *1 Co-development with Biogen Inc. *2 Antibody for Alzheimer’s disease produced as the result of a strategic research alliance between Eisai and BioArctic *3 A single preclinical AD study in collaboration with Alzheimer’s Clinical Trials Consortium (ACTC) *4 Co-research with University College London (UCL), U.K. *5 Research at G2D2 (Eisai Center for Genetics Guided Dementia Discovery) *6 Research at KAN Research Institute *7 Irregular sleep-wake rhythm disorder *8 Core study of PhaseIIhas been finished.
+*9 Project aiming to identify and verify novel drug discovery target candidates linked to the development of next-generation treatments and preventative medicines for dementia at Eisai-Keio Innovation Lab for Dementia (EKID) has been selected by Japan Agency for Medical Research and Development (AMED) for the Cyclic Innovation for Clinical Empowerment (CiCLE) program.
+Eisai believes that improving the various symptoms experienced by people with dementia is also important, and is developing treatments by various approaches.
+Recent studies have revealed that Aβexcretion from the brain is promoted during sleep. At the same time, it is thought that sleep disorders may trigger Aβ accumulation in the brain, leading to AD. Eisai has launched lemborexant (product name: DayvigoTM), an antagonist that competitively binds to orexin receptors
+which are involved in the regulation of sleep and wakefulness. It is indicated for the treatment of adults with insomnia, characterized by difficulties with sleep onset and/or sleep maintenance in the U.S., and for the treatment of insomnia in Japan. Currently, development is underway for the indication of irregular sleep-wake rhythm disorder (ISWRD) associated with AD.
+Furthermore, the development of investigational E2027, a PDE9 inhibitor targeting dementia with Lewy bodies, is ongoing.
+29
+
+■ Projects in Preclinical Stages
+●Approach to Nerve Activation
+There are more than 100 billion neurons in the human brain, and neurons form a neural network via sites called synapses. It is thought that in the brain of people with dementia, the dysfunction of synapse occurs and neural networks are reduced. Eisai is also working on projects to restore synaptic function and reactivate neurons in the brain.
+The synaptic regenerating agent investigational E2511 is a drug candidate designed to activate damaged cholinergic neurons and promote synapse remodeling and neural networks reconstruction. Preparation is ongoing to initiate PhaseIstudy in fiscal 2020. Preclinical studies are currently ongoing
+for the EphA4 project, a synapse modifier that we are conducting research on at KAN Research Institute.
+    ●Research Focused on Immuno-Dementia at G2D2, a New Research Facility
+At G2D2 (Eisai Center for Genetics Guided Dementia Discovery), our exploratory research facility in Cambridge, Massachusetts, we have engaged in drug discovery research focusing on immunedementia
+and tau. Studies of genes involved in the onset and progression of AD suggest that modulation of the immune function of microglia, the cells that control immune functions in the central nervous system, is a high risk factor for AD.to expand Eisai’s dementia pipeline beyond Aβ
+●Collaboration with Keio University Targeting Brain Homeostasis System
+It is known that the brain has numerous protective mechanisms. Specifically, there are mechanisms to remove accumulated proteins such as Aβand others, remove foreign substances, and repair damaged neurons. Eisai and Keio University have established
+■ Development of New Diagnostic Method
+While the essential diagnostic requirement of dementia is memory loss, some of the diseases do not have memory impairment as the core symptom. Currently, there are no diagnostic criteria that are highly recommended by the Japanese Neurological Society (https://www.neurology-jp.org/guidelinem/degl/sinkei_ degl_2010_02.pdf).
+Accumulation of Aβin the brain in the diagnosis
+of AD is currently confirmed by amyloid positron emission tomography (PET) or cerebrospinal fluid (CSF) test. In addition to amyloid PET, tau PET is being put to practical use, but there are issues such as insufficient number of facilities and large costs. In addition to Aβand tau, the accuracy of diagnosis of disease progression by CSF test has been improved by the progress of research on various biomarkers for neuroinflammation and neurodegeneration.
+Since February 2016, Eisai has been collaborating with Sysmex Corporation on research and
+the Eisai-Keio Innovation Lab for Dementia (EKID) to advance joint research with the aim of creating a new drug discovery target potentially to cure dementia through the homeostasis maintaining system of the brain, one of the protective mechanisms.
+development of a new dementia diagnostic method through blood test, aiming for the practical application of a test method for diagnosing people with early- stage AD who are targeted for the next-generation dementia treatment with a test method with less
+pain. HISCLTM Series, an automated immunoassay system developed by Sysmex Corporation, has made it possible to accurately quantify Aβin plasma, which was considered
+to be difficult to measure. It has been strongly suggested that measuring the plasma Aβ1-42/Aβ1-40 ratio using HISCLTM Series may help to understand the amyloid pathology in the brain.
+Loss Neuron Network
+Before Treatment
+Restore Neuron Network
+After Treatment
+ 30
+Eisai Integrated Report 2020

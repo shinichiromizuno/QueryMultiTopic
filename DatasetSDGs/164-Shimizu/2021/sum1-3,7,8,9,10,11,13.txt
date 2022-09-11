@@ -1,0 +1,160 @@
+  Park Court Bunkyo Koishikawa the Tower (Bunkyo-ku, Tokyo)
+ Shinjuku TOKYU MILANO redevelopment plan (Shinjuku-ku, Tokyo) Hibiya Fort Tower (Minato-ku, Tokyo)
+Building Construction Business
+Contributing to the achievement of SDGs through business activities
+We will use all of our strengths to create even more reliable construction production systems based on strong organi- zational alliances that include Shimizu group companies. We will work to transform the building construction business, which is the core of our construction business, to enhance quality and improve competitiveness. Our goal is to antici- pate changes in society and customer needs, expand business domains, and build a stable revenue base.Key Strategies
+We will accelerate the key strategies aimed at strengthening com- petitiveness and will achieve further improvement in technological capabilities and take on the challenge of new business domains.
+1. Improve productivity and sales capabilities
+• Innovate our building production systems to improve productivity, save labor and increase cost competitiveness
+• Segment strategically at the regional level, enhance upstream business development capabilities, and strengthen the PFI function
+2. Leverage technology to respond to customers’ changing needs
+• Innovate building construction operations through increased use of AI, BIM, digitalization and other advanced technology-based machines and construction methods
+• Continue focused activities for nuclear power-related facilities, including plant decommissioning and next-generation power plants
+3. Expand renovations and enter new businesses
+• Leverage our extensive track record and expertise in construction to ex- pand our business in building renovation, particularly large-scale interior renovation projects using BCP, ZEB/ WELL, etc.
+• Identify and pursue opportunities for new business in building construc- tion-related domains
+Progress Status
+1. Respond to a changing market with new technologies
+• We developed technologies aimed at receiving orders for large projects in the Greater Tokyo Area, regional large-scale logistics facilities (Aichi and Fukuoka), and a large data center (Chiba).
+• We performed project-oriented development and adapted these technologies to job sites (various kinds of robots and broad based columns shaped like a bloom- ing flower).
+• We conducted preliminary discussions to confirm building architecture using BIM data and a program to determine regulatory compliance.
+• We evolved the use of computational design (strengthened the Shimz DDE struc- ture examination function, etc.).
+2. Leverage technology to respond to customers’ changing needs
+• We obtained ZEB certification on an AIST building renovation Shimizu designed and built.
+• The Shimizu Group was selected as the contractor for the new Cabinet Office building (PFI format).
+• We completed construction of the first condominium in the Chukyo area with a hybrid wooden structure.
+• We began proposing SHIMZ CREATIVE FIELD, which uses positioning data.
+3.StrengthenGroupcompanies’managementcapability
+• We improved management efficiency by restructuring Group companies (business integration, etc.)
+Mid-Term Management Plan
+    48 Shimizu Corporate Report 2021 Strategic Initiatives in Large-scale Projects and the Contributions and Challenges of New Community Development
+Shimizu is strengthening sales and proposal capabilities and accel- erating initiatives in development of new technologies and other initiatives to support large-scale projects such as redevelopment projects which are expanding in different regions, in addition to the Greater Tokyo Area.
+In fiscal year 2020, Shimizu worked on project-oriented tech- nical development on a broad-based column in the shape of a blooming flower. The cast-in-place concrete column with a belled base has a high load-bearing capacity and enables economic con- struction of ultra-high-rise buildings in the 400 m height range. We are also working on innovations in construction production systems using digital technology, making greater use of BIM, and using other technologies.
+Shimizu will use the knowledge and advanced technology that we have gained from large-scale redevelopment, Toyosu Smart City, and other projects in continuing to take on the challenge of and contribute to community development, including super cities and smart cities.
+New construction in the TTM Project (Minato-ku, Tokyo)
+Strengthening the Renovation Business and Providing Optimal Solutions Using Advanced Technologies
+We are strengthening our renovation business even more using advanced environmental and BCP-related technologies.
+In fiscal 2020, we completed design and construction on the West-4A Building renovation project for the Global Zero Emission Research Center of the National Institute of Advanced Industrial Science and Technology (AIST). The building received five-star ZEB certification, the highest rank in the BELS system (Building-Housing Energy-Efficiency Labeling System).
+Shimizu will continue to provide optimal solutions to meet the needs of communities and customers through our renovation business.
+AIST Global Zero Emission Research Center, which achieved ZEB certification through renovation work (Tsukuba, Ibaraki Prefecture)
+Proposing a New Vision for Offices in the Age of the New Normal
+Shimizu has begun to propose SHIMZ CREATIVE FIELD, which contributes to improved performance by using digital technology to link work locations, as a new vision for offices in the age of the new normal where work is not dependent on time or work location.
+We performed a full-scale renovation of some floors in our head office as part of our proposal activities. These floors will func- tion as a hub capable of handling diverse means of communication internally and outside of the company. We have equipped them with zoning that can accommodate diverse workstyles and thor- ough infection prevention measures to ensure safety, security, and comfort.
+In the future, we plan to conduct tours for customers planning new office construction and renovation projects as a means of obtaining project orders.
+Head office floor design (17th floor)
+Positioning data system: A PC or smartphone can be used to confirm the locations of individuals on a diagram of the floor layout in real time, both from within and outside of the company
+         News Release
+SHIMZ CREATIVE FIELD, New Office Vision Using Digital Technology for the New Normal https://www.shimz.co.jp/en/company/about/news-release/2021/2021020.htmlABOUT SHIMIZU ESG MANAGEMENT AT SHIMIZU MESSAGE FROM THE OFFICER SHIIMIZU’S BUSINESS CORPORATE GOVERNANCE DATA COLLECTIONShimizu Corporate Report 2021 49
+ Construction of the Yanagawa Dam body is complete and flooding testing is in progress. (Morioka City, Iwate Prefecture)
+   Taking on the Challenge of Full ICT Utilization and Improving Job Site Efficiency
+(Shin-Tomei Expressway Kawanishi Project)
+We are performing construction on the Shin-Tomei Expressway Kawanishi Project in the town of Yamakita, in the Ashigarakami District of Kanagawa Prefecture. Central Nippon Expressway Company (NEXCO Central), which ordered the project, has certified it as an ICT full utilization project for the first time, and we are actively working on improving productivity.
+3D data is used throughout the entire process, from measure- ment to design, construction, and inspection. We are using ICT to visualize the job site and improve the efficiency and speed of con- struction and management. Our efforts on this were recognized and we received an excellence
+award in the Ministry of
+Land, Infrastructure and
+Transport (MLIT) Fiscal
+2020 i-Construction
+Awards.
+Shimizu will continue to develop ICT-based construction and man- agement, and roll it out to job sites nationwide.
+Construction simulation using 3D data (see above) Scene of construction (see below)
+(Ashigara-gun, Kanagawa pref.)
+Safety 2.0 Certification Acquired for New Construction of the Western Section of Takimurozaka Tunnel on National Route 57 in Kumamoto Prefecture
+Takimurozaka Road on National Route 57 is a section of the Naka- Kyushu Crossing Road linking Kumamoto and Oita. It is a promising project that will build transportation network for a wide area that is resilient to disasters, improve logistics efficiency, and enhance transportation safety, among other benefits.
+This project is 6.3 km long. Shimizu is building approximately 2.7 km of the western section of the tunnel, which is approximately 4.8 km long. We are working to develop and verify various technol- ogies using ICT and IoT to build a Shimizu Smart Tunnel in this proj- ect. Our risk mitigation system to prevent accidents involving work- ers and heavy machinery is one of the main components of Shimizu Smart Tunnel. This system received a Safety 2.0 Compliance Standard, Level One certification.
+Shimizu is naturally proceeding on the project with safety and efficiency in mind, and will build a transportation network that will provide safety and security for everyone in the region.
+Contributing to Urban Development That Protects People From Climate Change
+The pneumatic caisson construction method is being used in Phase 2 of the Nagoya City Hirokawa pump site construction project. This method involves building the frame for a massive subterranean caisson (chamber) that has a horizontal surface of 52 m x 29.5 m and is 65 m deep above ground, and then sinking it with dead weight while drilling below. The sinking of the subterranean struc- ture has been completed.
+In this project, we are constructing the subterranean structure for a rainwater discharge facility that will continuously discharge rainwater drainage from the region that includes the area around Nagoya Station where urban functions are concentrated, and other regions into the Nakagawa Canal.
+We are working to complete construction of the subterranean structure in January 2022, while taking the peripheral environment into consideration. This
+project is intended to
+     protect the lifestyles of people in the area from the threat of natural disasters due to climate change.
+  Lighting stand
+Directional high-intensity red LED light
+Position management system for workers and heavy machinery
+Decision to halt work
+Alert and lighting equipment control system
+approx. 65m
+52m
+  Risk mitigation system to prevent accidents involving workers and heavy machinery Construction project of the Western Section of Takimurozaka Tunnel on National Route 57 in Kumamoto Prefecture (Kikuchi-gun, Kumamoto Prefecture)
+Cross section view of the Hirokawa pump construction project of Nagoya City (Nagoya City, Aichi Prefecture)
+29.5m
+  Civil Engineering Business
+Contributing to the achievement of SDGs through business activities
+Shimizu responds precisely to the dynamic changes in the environment surrounding the civil engineering business by developing and using new technologies and expanding our business domains to new areas. These activities enable us to meet the construction needs of and solve problems for communities and customers. We will contribute to safe, secure, and abundant living for everyone through high quality public infrastructure.
+ Key Strategies
+We will improve productivity and profitability by strengthening our organization and technological development, and will expand our business domains through external partnerships.
+1. Strengthen organizational capabilities
+• Increase the number of civil engineers, develop technically skilled talent for design and construction and renewable energy engineering, imple- ment training to consistently transfer and embed expertise
+• Develop sales personnel with advanced customer response and commu- nication skills
+2. Improve productivity through technology and innovation
+• Full-scale implementation of i-Construction and CIM (Construction Infor- mation Modeling/Management); innovate production and management systems
+• Develop differentiating technologies in key areas including infrastructure renovation, disaster prevention and mitigation, and energy
+3. Expand businesses
+• Grow the maintenance management and consulting businesses
+• Expand upstream and downstream business by strengthening design and
+technology core competencies
+Progress Status
+Mid-Term Management Plan
+   1. Build a stable revenue base
+・We received an order for the Hirakata Tunnel Project on the New Meishin Ex- pressway, the largest-diameter shield tunnel in the world.
+・We received orders in the new area of large-scale expressway renovation for bridge deck replacement on the Shoryo Bridge and two other bridges on the Tomei Expressway and bridge deck replacement on the Iwaigawa Bridge on the Tohoku Expressway.
+・Shimizu is adding more civil engineers on an ongoing basis to secure a stable revenue base.
+2.Improve productivity through technology and innovation
+・Shimizu received Ministry of Land, Infrastructure and Transportation (MLIT) 9th
+Robot Award and the Japan Construction Machinery and Construction Associ- ation (JCMA) top grand prize award in fiscal 2020 for joint development of an automated robot system for pouring concrete lining in tunnels with West Nippon Expressway Company Limited (NEXCO West) and other companies.
+・We received JCMA excellence award in fiscal 2021 for joint development of a triple-lens camera for detection of rebar arrangement with Sharp Corporation.
+3.Expand businesses
+・We rolled out a business structure that secured local sales and production
+structures in our overseas civil engineering business, even amid the COVID-19 pandemic.
+ 50 Shimizu Corporate Report 2021
+   Permitted access area Cutting area
+ABOUT SHIMIZU ESG MANAGEMENT AT SHIMIZU MESSAGE FROM THE OFFICER SHIIMIZU’S BUSINESS CORPORATE GOVERNANCE DATA COLLECTION
+ Shimizu Corporate Report 2021 51
+
+ The New Trinity Tower in Jakarta (Indonesia)
+Shimizu is also participating as an investor with the Mitsubishi Estate Group, in addition to performing the design and construction.
+ 52 Shimizu Corporate Report 2021
+Overseas Construction Business
+Shimizu utilizes its technological and proposal capa- bilities cultivated as a construction general contractor to pursue local business activities in many countries around the world. We bring together our expertise in construction and design technology as well as real estate development, engineering, energy, the environment, and a wide range of other businesses in the Shimizu Group to demonstrate Group integrated strengths to meet a diverse range of needs and provide optimal solutions around the world.
+Contributing to the achievement of SDGs through business activities
+Mid-Term Management Plan
+Key Strategies
+We will utilize our proposal and technological capabilities and inte- grated strengths to pursue a strategy of differentiation and diversifica- tion, and build a resilient structure for surviving in the global market.
+1. Improve profitability of projects
+• Establish competitive advantage for projects requiring advanced technol- ogy and expertise
+• Increase Design and Build projects in new markets
+2. Build organizational capabilities
+• Retain and develop more global talent to deliver highly complex projects, grow related businesses, and increase resiliency
+• Strengthen proposal skills through greater internal collaboration (process engineering for production facilities, BCP, and renovation)
+3. Expand and broaden global presence
+• Build global alliances with leading companies in construction-related fields, IT, real estate development, smart cities, and renewable energy
+• Grow the PPP, infrastructure operations, construction management and consulting businesses
+Progress Status
+1. Improve profitability of projects
+• We constructed ultra-high-rise buildings, advanced medical facilities, and luxury hotels in addition to production facilities and public infrastructure.
+• We undertook a wide variety of projects based on our strengths in designing and building and on our advanced technologies.
+2. Build organizational capabilities
+• We seized the opportunity presented by COVID-19 to accelerate the pace of digi- tal transformation (DX) of job site management even more.
+• We accelerated restructuring of our business operations into operations led by local personnel with an eye toward the future.
+3. Expand and broaden global presence
+• We collaborated on Trinity Tower in Indonesia and other real estate development projects.
+• We acquired shares in Perigon International Inc. of the U.S.
+• We collaborated with other businesses in the Shimizu Group to develop greater    depth in business expansion.
+  Steady Accumulation of a Record in Medical Facility and Office Construction
+Shimizu is focusing on the construction of condominiums and office buildings, including medical facilities and ultra-high-rise buildings, while also building a diverse array of production facilities around the world. We have utilized our extensive expertise in Japan to build medical facilities in Singapore and Africa. Several of these facilities have been completed and we are still in the process of constructing medical facilities in Singapore and Taiwan. We have also designed and built a large office building in Singapore and ultra-high-rise building in Indonesia that is 250 m tall. In Thailand, we began con- struction of a new hotel this summer, in addition to the large hotel completed last year.
+We are expanding remote management and inspection systems using ICT tools at job sites to ensure business continuity during the pandemic, and with an eye toward the post-pandemic environment.
+Mount Alvernia Hospital (completed perspective) (Singapore)
+Contributing to the Growth of Asia and Africa Through Infrastructure Construction
+Shimizu is involved in public infrastructure construction projects in various locations around the world while adapting to many differ- ent construction conditions. We have contributed to the economic growth of each country by providing Japanese technology and expertise and employing and training local human resources. In Indonesia, we are building a hydroelectric power plant that will use water from the Asahan River that flows out of Lake Toba, the world’s largest caldera lake, in Sumatra. We are also working on Phase 2 of the MRT* North-South line construction project in Jakarta. In the Philippines, we are building a new bypass in the south on Mindanao Island in addition to the first subway project in the country, in Manila. In Ghana, we are renovating a major international artery that links main cities, and we are undertaking road improvements in the
+capital of Uganda, such as a bridge over an intersection.
+Shimizu is the corporate chair of the Japan-Africa Infrastructure Development Association (JAIDA), which was established in 2016 after the Sixth Tokyo International Conference on African Development (TICAD VI) to promote high-quality infrastructure investment by Japan to African countries. As the chair, Shimizu plays a central role in building bridges of friendship between Japan and Africa. We are building both public and private partnerships and promoting exchanges based on the principle of “MADE WITH JAPAN,” and are contributing to the development of various coun-
+tries in Africa.
+* Mass Rapid Transit (MRT), including a subway
+2nd Africa-Japan Public-Private Conference
+Corporate Regional Headquarters Established to Centralize Management of the North American Business
+In North America, we established Shimizu America Inc. as a regional headquarters in April 2020. It was established to integrate man- agement and operation of our North American business, speed up decision-making, create synergies between businesses, roll out businesses suited to local characteristics, and expand business through detailed management. In October 2020, we acquired 100% of the shares of the engineering company, Perigon International Inc., making it a subsidiary of Shimizu America Inc. We will expand sales through the company and further strengthen our engineering capabilities in North America through human resource exchanges.
+Members of management at Perigon International Inc.
+      News Release
+Shimizu JV Awarded Contract for Jakarta MRT North-South Line Phase 2, Following on Phase1 https://www.shimz.co.jp/en/company/about/news-release/2020/2019049.html
+News Release
+Shimizu acquires 100% of Shares in a U.S. Engineering Company https://www.shimz.co.jp/en/company/about/news-release/2020/2020032.htmlABOUT SHIMIZU ESG MANAGEMENT AT SHIMIZU MESSAGE FROM THE OFFICER SHIIMIZU’S BUSINESS CORPORATE GOVERNANCE DATA COLLECTIONShimizu Corporate Report 2021 53

@@ -1,0 +1,36 @@
+CEO Message
+Who We Are Special Report Our Way Our Platform Appendix Data Section
+       01
+Despite the continuously growing threat of cyber risk that stems from the evolution of today’s information society, research by the General Insurance Association of Japan indicates that one in four SMEs has not taken action against cyberattacks. The emergence of cyber risk, however, can have a major impact on business activities and can even imperil the continued existence of companies.
+During fiscal 2019, the MS&AD Insurance Group expanded the Groupwide Cyber Security Liaison Council to develop and provide products and services tailored to the actual situation of cyber risk among SMEs.
+ Special Feature
+Creating Shared Value
+ Providing cybersecurity countermeasures to SMEs
+D uring fiscal 2019, we were entrusted with the Aichi Prefecture Cyber Security Support Team Demonstration Project organized by the
+Ministry of Economy, Trade and Industry and the Information-technology Promotion Association, Japan (IPA). This opportunity allowed us to encounter the actual situation of cyber risk among SMEs and the awareness of those involved, thereby serving as a valuable learning experience. Many SMEs believe that cyberattacks are limited to large companies and IT companies, and thus tend to feel that they are an unlikely target. After installing an inspection system, however, the demonstration project revealed that one SME was already in fact receiving cyberattacks. Despite its exposure to risk, this SME was neither knowledgeable of nor had made sufficient preparations for such. Therefore cybersecurity countermeasures for SMEs must include services that deepen the awareness and understanding of risk in advance of insurance products. Although the Group provides cyber risk diagnosis, targeted e-mail attack training and other services, we continuously seek out new collaborations with outside experts to evolve these into more effective services. Upon interviewing many start-ups in Silicon Valley in January 2020, I (Onizawa) fully recognized that the cybersecurity industry is making rapid advances, as well as the importance of always keeping an antenna out for advanced technologies and services. However, cyber risk is not just an issue of technology. In many cases, actual risk is caused by human error. What
+was new for me was that influential start-ups, in addition to holding advanced technologies, combine these with technologies and software that convey cyber risk in an easy-to-understand manner to help those involved understand the situation. Unlike cybersecurity service companies, we have an ability to help our customers through insurance in the event of an “actual incident.” Although I (Suzuki) was only recently appointed to this department , for this reason I intend to place importance on terminology that anyone can easily understand and thoroughly convey risk by developing services tailored to the needs and perspectives of customers. At the same time, I intend to focus on promoting cybersecurity that includes the provision of insurance products.
+In 2020, today’s information technology society has entered a new phase with the emergence of COVID-19. Cyber risk has grown beyond that of the past following the rapid introduction of telecommuting among companies, so we launched the Comprehensive Telecommuting Compensation Insurance in May, which allows SMEs to utilize telecommuting safely. We will continue to provide support so that SMEs can enjoy the maximum benefits of a society in which information technology is undergoing rapid evolution and can continue their business activities in a safe, secure manner.
+     1
+At the Silicon Valley Start-Up Pitch
+Aioi Nissay Dowa Insurance
+Cyber Insurance Underwriting Section, Casualty Underwriting
+Department Deputy Manager
+Yuki Suzuki
+After joining the company in 2008, he was assigned to the Accounting Department and was later seconded to a Group company involved in Internet insurance. He has held his current position since April 2020.
+Mitsui Sumitomo Insurance Cyber Risk Security Team, Casualty Underwriting Department Deputy Manager
+Kei Onizawa
+After joining the company in 2011, he served in the Corporate Production Section of Hamamatsu Branch and was later placed in charge of underwriting liability insurance in the Casualty Underwriting Department. He has held his current position since April 2019.
+            Social issues
+Despite growing cyber risk among SMEs, SMEs do not have sufficient knowledge and have not made sufficient preparations
+Solutions
+Convey knowledge and preparations for cyber risk in an easy-to-understand manner, and provide insurance in the event of a “cyber attack incident”
+● ●
+● ●
+Impact on society
+Prevention of cyber risk and swift recovery from damage caused by cyberattacks
+Stabilization of corporate management by providing cyber insurance
+Economic impact on the Group
+Development of new products and expansion of services in the cybersecurity field
+Growth in the insurance market associated with the development of an advanced information society
+             Related SDGs  9 :Industry, innovation and infrastructure
+INTEGRATED REPORT 2020 067

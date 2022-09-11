@@ -1,0 +1,65 @@
+Value Creation Strategy
+Inkjet Innovation Visual Innovation
+Wearables Innovation Robotics Innovation
+   Robotics Innovation
+expectations. With sales companies and manufacturing sites around the world, as well as an Epson network that provides local sales and service, we will quickly identify customer needs and rapidly respond to even the most detailed requirements. Our goal is to make our strengths even stronger and to be a leader in the compact precision robot market, which is expected to grow at an annual rate of 8% for the next decade.
+Strategic Progress
+The market for compact precision robots is expanding, and we are seeing growth in revenue and profit from our current SCARA and 6-axis robots, particularly from expansion in China, Taiwan, Europe and the Americas. Epson’s SCARA robots have maintained the top share of the global market for seven consecutive years*1.
+In November 2017, we released WorkSense autonomous dual-arm robots. These robots recognize objects much like humans do, and they adjust the amount of force the arms apply to objects. They can be moved to where they are needed and quickly set up to perform, unattended, assembly and other tasks, thus helping to expand the areas of production that can be automated.
+The number of new entrants in the robot market is growing,
+especially in China, where local vendors have emerged, and
+price competition is intensifying. But what customers want are
+not only the robots themselves but total package solutions that
+include peripheral equipment. Epson recommends solutions
+*1 Epson was No. 1 in terms of both unit shipments and revenue from 2011 to 2017. (Source: Fuji Keizai “2012-2018 Worldwide Robot Market and Future Outlook".)
+based on knowledge of customer needs and requirements, insights gained by having Epson sales and production personnel observe customer operations on-site. We will further solidify these strengths to increase our market presence.
+There is currently a shortage of people who can do the necessary programming to implement robots in this growing market. The market thus requires robots that people without advanced programming skills can easily teach. Epson has responded to this need by developing a simple programming function that is scheduled for an FY2018 market release. This function allows users to arrange the necessary commands in a sequence on-screen and then manually move the robot arm to set a given move.
+In addition, we will produce safe collaborative robots “( cobots”) that work alongside people. These robots will be equipped with sensor-based safety features that cause the arm to slow down when a human approaches, and to stop on contact.
+The Growing Market for Compact Precision Robots and Epson’s Market Share TargetsVision
+Combine our core technologies with sensing and smart technologies in manufacturing, expand applications, and create a future in which robots support people in a wide variety of situations.
+Value Creation
+Smart technologies
+Environment
+Performance
+By providing solutions with robots that see, sense, think, and work, and by enabling anyone to easily use our robots, we will free people from performing work they don’t want to do and work that employers don’t want them to do, thus allowing them to shift into higher added value jobs that are more creative.
+Mitigate environmental impacts with compact, slim, lightweight robots that are energy-efficient.
+Using original robotics and sensing technologies, we will achieve robots that move accurately, at high speed, and with low vibration, thereby providing solutions that exceed customer expectations and increase their productivity.
+ Yoshifumi Yoshida Executive Officer
+Chief Operating Officer, Robotics Solutions Operations Division
+150
+100
+50
+0
+Epson unit share
+Small articulated robots
+(Billions of yen)
+     The Long-Term Business Environment
+Robot use is set to expand. Not only will robots be used in place of people to perform repetitive manufacturing tasks in factories, they will also be used to perform tasks in the back offices, as well as to provide personal assistance in the home. The need for robots is expected to grow across society as more people, including people in emerging countries, want to be freed from menial labor and have time to themselves.
+To expand these uses of robots, we must enable robots to recognize and react to their surroundings so that they do not collide with people or other objects or, if they do, to do so safely. Advances in artificial intelligence (AI) and precision sensing are essential for achieving this.
+As global manufacturing wages rise and as competition for workers intensifies, manufacturers are rapidly turning to robots for relief and the market has entered a growth phase. The opportunity for growth has attracted new entrants from other industries that have their own technology, so there is no doubt that the market is going to undergo major change.
+Strategic Direction
+The efficient, compact, and precision technologies that grew out of our watch manufacturing operations are the source of
+Epson’s strength. By complementing these with processing technologies, sensing technologies, and a host of other technologies and devices developed in our other businesses, we can provide compact, slim, lightweight robotic solutions of unrivaled speed and accuracy. Where we can take advantage of this strength is in the compact precision robot segment. Ordinarily, a robot arm moving at high speed will vibrate and deviate from the intended position. To accurately position small parts at high speed, the robot needs a system to control vibration and positional deviation. Epson is helping customers reach their productivity goals by equipping robots with sensor-based control technology that enables fast, accurate robots to stop on a dime. In addition, equipping 6-axis robots with Epson’s force sensors enables the robots to detect forces as small as 0.1 Newtons at the end-effector. This level of sensitivity allows our robots to automate tasks that previously relied on a human sense of touch, such as delicate assembly, polishing, and insertion tasks.
+Epson, which has been developing, selling, and using its own robots in Epson factories for many years, is accumulating knowledge through real-world testing of automated solutions. Epson will draw on this knowledge to understand the needs on customers’ manufacturing lines and the potential for future automation, and to provide solutions that exceed
+SCARA robots
+2016 2020 28% ~40%
+2016
+4% ~10%
+Collaborative robots
+2016 2020 ー ~5%
+(Year)
+   Robotics Markets
+Warehouses, etc.
+Robotics innovation
+* Figures based on Epson research
+Artificial intelligence
+Analysis Judgment
+Machine learning
+Service/personal
+2020
+        Sensing technologies
+Smart technologies
+Lower the barriers to automation
+Manufacturing   43
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 44

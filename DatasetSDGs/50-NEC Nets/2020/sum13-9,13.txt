@@ -1,0 +1,1 @@
+Supports communication and operational control with various artificial satellites and spacecraft, including asteroid exploration.

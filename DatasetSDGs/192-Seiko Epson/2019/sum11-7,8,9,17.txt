@@ -1,0 +1,36 @@
+Value Creation Strategy
+        Vision
+Robotics Innovation
+Combine our core technologies with sensing and smart technologies in manufacturing, expand applications, and create a future in which robots support people in a wide variety of situations.
+   Yoshifumi Yoshida
+Executive Officer
+Chief Operating Officer, Robotics Solutions Operations Division
+Value Creation
+By providing solutions with robots that see, sense, think, and work, and by enabling anyone to easily use our robots, we will free people from performing work they don’t want to do and work that employers don’t want them to do, thus allowing them to shift into higher added value jobs that are more creative.
+Mitigate environmental impacts with robots that are compact, slim, lightweight and, moreover, energy-efficient.
+Using original robotics and sensing technolo- gies, we will achieve robots that move accurate- ly, at high speed, and with low vibration, thereby providing solutions that exceed custom- er expectations and increase their productivity.
+The Compact Precision Robot Market and Epson’s Share Targets
+     As global manufacturing wages rise and as competition for workers intensifies, the use of robots in manufacturing is rapidly expanding. Robot use will also likely spread from fac- tories to retailers to free people from dull, repetitive tasks. Robots are, without a doubt, a growth market.
+In addition to efficient, compact and precision technology, Epson has image processing technology, sensing technolo- gies, and other original technologies and devices from multi- ple divisions. These allow us to provide compact, slim, light- weight robotic solutions of unrivaled speed and accuracy. With sales companies and manufacturing sites around the world, as well as an Epson network that provides local sales and service, we will quickly identify customer needs and rapid- ly respond to even the most exacting requirements. Our goal is to make our strengths even stronger and to be a leader in the compact precision robot market, which is expected to grow at an annual rate of 8% for the next decade.
+(Billions of yen)
+* Per Epson research
+Collaborative robots
+2018 2021 (FY)
+200 150 100
+50 0
+SCARA
+2018 2021
+Small articulated robots
+2018 2021
+   Approximate
+Epson 30% 32% 4% 5% ー 6% unit share    Phase 1 Review
+We were able to grow sales of robotic solutions thanks to the expansion of the robot market and the launch of strategic products like the N series of space-efficient six-axis robots and the T series of low-priced SCARA robots. To achieve future growth, we transferred sensing and software assets from the wearable products business to the robotics solutions business and forged capital ties with a venture company to acquire artificial intelligence (AI) technology. On the other hand, trade friction curbed corporations’appetite for investing in equip- ment like robots, causing the growth rate to slow in the latter half of FY2018.
+IC handler sales were also tempered by U.S.-China trade friction, as well as by price competition.
+Phase 1 Achievements
+Robots
+Sales grew smoothly as the market expanded and Epson launched strategic products
+Transferred sensing and software technology assets refined by the wearable products business to the robotics solutions business
+Forged capital ties with AI venture company Cross Compass
+IC Handlers
+Strengthened customer touch points by reorganizing direct sales and transformed operations by cutting costs and reducing lead-times
+     37 Epson Group Integrated Report 2019

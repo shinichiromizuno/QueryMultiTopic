@@ -1,0 +1,29 @@
+   STRATEGY
+SpecialFeature ValueCo-CreationthroughBusiness Payment Business
+ Social Impact
+United Nations Sustainable Development Goals (UN SDGs)
+Secure settlement services Provision of infrastructure
+    Efforts to Realize Safe and
+Secure Cashless Payments
+Due to digitalization, significant progress is being made in the continued transition to a cashless society. The COVID-19 pandemic has accelerated moves in which contactless and remote are regarded as keywords that have brought about major changes in our daily lives. Amid such changes, companies are being required to respond to security issues, including new types of fraud, which accompany the progress of a cashless society. Having introduced new security countermeasure solutions to eliminate fraud at the initial credit examination stage and during credit monitoring inspections, Credit Saison is working to realize safe and secure cashless payments for its customers.
+Credit Saison’s Approach
+   We are building a stronger security platform by combining the credit card screening know-how and experience we have cultivated over the 70 years since our founding with new systems in collaboration with partner companies.
+Specifically, we are working to eliminate fraud in cashless payments by three courses of action: the AI-based
+Secure payment en1vironments in the cashless era
+automation of unauthorized credit card use detection, the introduction of technology to prevent identity fraud and rogue device detection. Through these efforts, we are providing our customers with safe and secure payment environments while contributing to the spread of timely and contactless payment methods in the new era.System for detecting unauthorized
+credit card use
+A system for the discriminant analysis of
+transactions with high fraud risk using a fraud
+risk scoring model that utilizes AI (machine AI-based automation of learning) to prevent fraudulent use by third unauthorized credit card parties. The automatic learning of
+eKYC
+LIQUID eKYC is a new online identity verification service, provided by Liquid Inc., which possesses identity verification technology based on biometric authentication. The service completes the application procedure online simply by taking a picture of the identity verification documents and face image. Combining LIQUID eKYC with Saison Connect, which links our card information with API, enables its immediate use on smartphones (mobile payments) after an examination is completed without waiting for the receipt of a plastic card.
+   sophisticated fraudulent techniques and the use detection ascertaining of the latest trends at an early
+stage enable the quick and highly accurate
+detection of unauthorized credit card use
+ from a hug
+e amount of transaction data.
+23
+   Fraud prevention by means of device identification
+Prevention of identity fraud by means of face recognition technology
+technology Rogue device detection
+ 37

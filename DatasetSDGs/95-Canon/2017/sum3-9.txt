@@ -1,0 +1,47 @@
+For Society Supporting Industrial Innovation Canon Technologies Helping Drive
+the “Fourth Industrial Revolution”
+Issues and Approaches
+In order for people around the world to enjoy an equally prosperous lifestyle, industrial development and economic growth are essential. Improvements to product capability and productivity through innovation by a large number of companies are expected to drive economic growth going forward. The reality, however, is that the growth rate of the global economy in recent years has been stagnant.
+As commoditization has progressed and prices of mass production products have fallen drastically, lowering manufacturing costs has become an urgent task for many companies. Meanwhile, there has been an advancing shift toward the so-called “fourth industrial revolution,” which includes the utilization of the IoT, big data analytics, AI,
+and robotic technologies. With this shift, expectations are growing for companies to provide made-to-order and customizable products and services. To realize sustained economic growth, it is necessary to further improve efficiency in existing industries and actively pursue new industries.
+In the new phase of its medium-term action plan, Canon has declared its intention to grow business domains in the B-to-B field. One such focus is the development of innovative 3-D machine vision systems that serve as the “eyes” of industrial robots. These systems leverage cutting-edge sensing technologies as well as 3-D recognition technologies. We are also putting energy into developing superior semiconductor exposure technology along with establishing nanoimprint lithography technologies, with a focus on achieving even finer pitch
+semiconductors and lower production costs, thereby supporting semiconductor demand in the IoT era. Also, through the development of manufacturing equipment for organic EL displays, we are making significant contributions to the development of new display devices.
+Related SDGs
+Trends in Economic Growth of Advanced Countries and Emerging Countries
+ (%)
+9 8 7 6 5 4 3 2 1 0
+Advanced countries
+Emerging countriesEstimate  17 Canon Sustainability Report 2017
+2010 2011
+2012 2013
+2014 2015 2016
+2017 (Year)
+Source: “World Economic Outlook, October 2016,” IMF
+ 
+     Message from Management
+Relationship with SDGs
+Canon Group Business Operations
+CSR Reporting
+CSR Management Management Structure
+Growth Strategy and Sustainability
+GRI Guideline Implementation
+Activity Highlights
+Third-Party Opinion / Assurance
+     Nanoimprint Lithography — Groundbreaking Technology in the Semiconductor Manufacturing Process
+Semiconductors are used in a wide range of products,
+from cellular phones, smartphones, and televisions to air conditioners, automobiles, refrigerators, and washing machines. As such, they are an indispensable part of people’s daily lives.
+Semiconductors are created using various technologies, including exposure technology that employs light to expose circuit patterns. Advancements to semiconductors have been realized by making these circuit patterns finer. Through the lengthening of short light waves that are used in the exposure process, a semiconductor linewidth of 350 nm (nanometers) was realized in the first half of the 1990s, followed by the realization of a linewidth of 38 nm in the second half of 2000s. However, this progression practically came to a halt due to
+the belief that the process of making finer circuit patterns through the lengthening of short light waves had reached its technological limit.
+Following this conclusion, Canon began focusing its attention on nanoimprint lithography, a next-generation technology. Continuing our research since 2004, we succeeded in realizing an extremely fine linewidth within
+the 10 nm range. Due to the fact that the finer the linewidth becomes, the more difficult it is to create circuit patterns, semiconductor fabrication devices have become more complex and larger in size in order to create these circuit patterns, giving rise to various issues. Nanoimprint lithography technology resolves these issues by employing a simple method of stamping an etched circuit pattern (mask) on the surface material, thereby allowing fine patterns to be cleanly reproduced. Furthermore, this technology shortens the overall production process, leading to significant cost reductions.
+We are currently working with Canon Nanotechnologies, Inc., located in the United States, to promote the development of next-generation semiconductor fabrication equipment. We expect this equipment to support society
+as an important technology in the IoT generation, which brings all types of things together.
+Organic LED (OLED) Manufacturing Equipment of Industry-Leading Canon Tokki Compared with conventional LCD panels, OLED panels
+are thinner and produce more vibrant colors. In addition, OLED panels have high expectations in terms of application, including the capability to be bent and, in the future, folded. Vacuum evaporation equipment developed and manufactured by Canon Tokki plays an essential role in
+the manufacture of OLED panels, and we take pride in
+its unsurpassed technological superiority. Supported by demand for various types of panel devices, including
+smartphones and televisions, this equipment will contribute to the creation of new value going forward.
+Development progressing on nanoimprint lithography technology
+Mask etched with fine circuit patterns
+Developing OLED manufacturing equipment
+Canon Sustainability Report 2017 18

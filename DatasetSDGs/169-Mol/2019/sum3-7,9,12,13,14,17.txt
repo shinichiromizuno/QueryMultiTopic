@@ -1,0 +1,77 @@
+ MITSUI O.S.K. LINES MOL REPORT 2019
+MITSUI O.S.K. LINES MOL REPORT 2019
+For Our Sustainable Growth
+Addressing Sustainability Issues
+Innovation for Development in Marine Technology
+To realize the 10-year vision, the MOL Group has established the three core strategies, including “Provision of ‘stress- free services,’ which MOL will offer from the customer’s perspective” and “Promotion of environmental strategies and development of the emission-free business into a core business.” With a view to executing these strategies, we are promoting technological development using natural energy and information and communications technology (ICT).
+Basic Policy on Technological Innovation
+Examples of MOL’s Technological Development
+  For technological development in the marine industry, the focus had been on underlying technologies for the parts of ship. In recent years, the potential has expanded further due to the rapid development of ICT such as IoT and big data.
+Centered on the ISHIN NEXT—MOL SMART SHIP PROJECT,
+which commenced in November 2016, we aim to spur logistics innovation that captures the future needs of customers and society through both ICT and Technological Development, two of the priority areas for development adopted under our man- agement plan.
+Achievement of Safe Operation through Pursuing Autonomous Sailing
+Autonomous sailing is one of the projects we are working on in the ICT area, a priority area for development under management plan. By promoting ICT utilization based on the marine technical skills that we have gained over our long history, we are working to prevent human errors, which are the majority cause of maritime accidents, and help ensure the appropriate recognition, decision-making, and
+Current Progress
+1 Development of navigation system using AR*1 technology
+that provides visual support to crew members during their watch-keeping and vessel’s operations
+The system integrates real-time video images from the bridge camera with other vessels’ information from the AIS*2 and radar (ship type, size, position, direction, speed, etc.), and displays on tablets and screens (pictured on right).
+2 Research and development toward creating algorithm for avoiding areas where the risk of collision is high
+3 Promotion of the Auto Berthing and Un-Berthing Demonstration Project (with the goal of implementing a demonstration test in 2020)
+operation by crew members. In these ways, we are striving to provide safer and more high-quality transport services.
+Currently, we are considering technological development for supporting vessel operation in congested sea areas and arrival / departure maneuvering as one of the utmost priorities. To that end, we are working to achieve the mechanization of watch-keeping and vessel operation, as well as auto berthing and un-berthing.
+Future Targets (After 2025)
+Automatic Watch-Keeping
+Vessel’s Automatic Operation
+Complete Auto Berthing and Un-Berthing
+   Our Goals
+1 Eliminate human error and achieve safe operation by leveraging automated technologies
+2 Develop eco-ships using natural energy
+3 Develop vessels using alternative fuels that help reduce CO2 emissions
+4 Expand the installation of equipment for collecting vessels’ operational data and create next-generation types of ship management support systems
+Autonomous Sailing
+Wind Challenger Project
+LNG-Fueled Vessels
+FOCUS Project
+Release of FOCUS Project Part I “Fleet Viewer” Application—Aiming for the Visualization of Marine Operations
+In order to realize the visualization of marine operations through enhancing collection and utilization of vessel operation data, we are promoting FOCUS Project jointly with Mitsui E&S Shipbuilding Co., Ltd. and Weathernews Inc.
+By utilizing voyage and engine data collected from approximately 150 vessels, we are developing applications for more advanced vessels’ operation monitoring and propulsion performance analysis. In doing so, we aim to strengthen the safe operation and reduce the environmental burden in marine transport. In May 2019, we launched “Fleet Viewer,” an application geared toward reinforcing vessel management, as Part I of the FOCUS Project. “Fleet Viewer” collects nearly 6,000 sensing data at a high frequency (one-minute intervals) including the operational status of all equipment, vessel position, and ocean and weather information. All data is shared among vessels and various locations on shore.
+As Part II of the FOCUS Project, we plan on releasing a new
+Commencement of Service of the LNG-Fueled Tugboat ISHIN
+LNG fuel is a clean energy source which gives off less CO2 and SOx emissions compared with fossil fuels. Amid growing envi- ronmental awareness around the world, global demand for LNG fuel is expected to increase significantly. Accordingly, we have been working to develop LNG-fueled vessels. As a fruit of these efforts, we commenced service of the LNG-fueled tug- boat ISHIN in fiscal 2018.
+ISHIN is Japan’s first tugboat built to conform to the IGF Code.* Moreover, its excellent environmental performance earned the top rating of four stars under the Ministry of Land, Infrastructure, Transport and Tourism’s energy-saving rating scheme for Japan’s coastal ships. With its ability to navigate at high speeds, ISHIN offers
+application around October 2019. This application will visualize the degradation of ships over time as well as the impact of ships on the environment, both of which are difficult to assess from shore. In these ways, we will strive to leverage ICT utilization in an even more sophisticated manner.
+escort services to large cargo ships sailing Osaka Bay and the Seto Inland Sea. ISHIN also assists arrival and departure maneuvering at ports. We will accumulate the know-how through ISHIN’s operation to enhance our Groupwide expertise on LNG- fueled vessels.
+MOL takes a proactive approach in popularizing the use of LNG fuel to meet the environmental needs of our customers and society.
+* The IGF Code stands for the International Code of Safety for Ships Using Gases or Other Low-Flash Point Fuels. The code establishes safety require- ments for vessels that run on gas and low-flashpoint fuels, and took effect on January 1, 2017.
+*1 The technology that integrates digital information with the real world and superimposes computer-generated images on the user’s view in the real world. *2 The Automatic Identification System that is used to share vessel and voyage information between ships. Proactively promote ICT utilization in addition to technologies in conventional fields
+  Advanced technologies for supporting safer vessel operation with a view to realizing autonomous sailing
+  New technologies Safety and the ICT, e.g., big data in various fields Environment utilization
+Technologies that reduce environmental burden in order to protect the global environment
+  Actively develop technologies to meet the needs of customers and society while inheriting the technological expertise MOL has cultivated thus far
+               5 Provide technological solutions for issues related to logistics services
+ Structure for Accelerating Technological Innovation
+We established the Technology Innovation Unit in April 2018 with the goal of stepping up our efforts in technological development. The unit comprises three organizations: the Technical Division, which is in charge of managing and developing technologies from hard aspects of the vessels; the Smart Shipping Division, which is in charge of marine-related ICT; and MOL Information Systems, Ltd.,
+Technological Development Platform
+a Group company responsible for providing Groupwide IT support. These three organizations collaborate to promote the development of next-generation technologies. Additionally, in the ISHIN NEXT— MOL SMART SHIP PROJECT, the Technological Innovation Unit actively pursues inter-industry collaboration with external institutions, including the Wind Challenger Project.
+    Universities / Research institutions
+Private companies
+MOL Information Systems
+Technology Innovation Unit
+Shipyards / Manufacturers
+National govern- ments / Local governments
+Examples of Technological Development through Co-Creation with External Institutions
+ Smart Shipping Division
+Technical Division
+• •
+• •
+• •
+Forecast for dry bulker movement Market estimations for dry bulks
+MOL Light House Wind Challenger Project
+FOCUS Project Autonomous sailing
+• • •
+Cameras to monitor loading and unloading operation
+Support systems for Northern Sea Route sailing
+Support software for VLCC’s loading and unloading operation
+ Close collaboration as “One MOL” Co-creation with a wide range of stakeholders
+ 36
+37

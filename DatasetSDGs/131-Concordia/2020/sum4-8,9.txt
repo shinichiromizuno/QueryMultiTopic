@@ -1,0 +1,121 @@
+Making Business Operations More Sophisticated and Efficient Using AI
+The Bank of Yokohama uses AI to check business reception records when selling financial products, to select documents for new graduate hires, and to monitor suspicious transactions such as money laundering and special fraud.
+By utilizing AI for primary checking of sales contact records, the time required for the person in charge to create the records, and the time required for the manager to check the records, can be reduced by approximately 50%, improving efficiency and the quality of work. In new graduate hiring, AI can quantify the evaluation of entry sheets and use it as one of the criteria for making decisions, greatly reducing the amount of time spent on document screening and freeing up new time for face-to-face communication such as interviews.
+In addition, in monitoring suspicious transactions, we expect to reduce the number of accounts requiring secondary investigation (detailed investigation) by 30 - 40% by utilizing AI technology for the primary investigation of deposit accounts selected based on certain conditions. It is expected that AI will identify deposit accounts, for which humans find it difficult to recognize risks, and will contribute to the prevention of financial crimes such as money laundering and special fraud.
+Collaboration with MEJAR mission-critical system
+MEJAR Digital Innovation Hub
+The Bank of Yokohama and Higashi-Nippon Bank have collaborated with the regional financial institutions that are jointly operating the MEJAR core system to launch the MEJAR Digital Innovation Hub (MDIH) to collaboratively promote business process reforms, channel service reforms, and other measures using digital technology. The Bank of Yokohama’s Digital Strategy Department has accepted temporary staff transfers from other MEJAR banks. Temporary transfers of staff from NTT Data and the NTT Data Force have also been placed in various divisions of the bank to aid with development. By strengthening cooperation with the MEJAR banks, we aim to improve productivity and offer high value-added services suited to a digital society.
+New Business Co-Creation Project
+In light of the changes in the external environment, including deregulation and the advancement of digital technology, we have established the New Business Co-Creation Project with our business partner Chiba Bank in order to take on the challenge of new business areas that are not an extension of existing banking business. We will continue to enhance and diversify our digital solutions for our customers by considering new businesses such as digital banking and collaborating with outside companies for services.
+Investment in Venture Capital Funds
+The Bank of Yokohama is an anchor investor in Evolution Ventures 2 LP, a fund formed by Evolution Ventures, which has extensive contacts with leading venture companies in Silicon Valley, where many of the world’s most advanced digital technologies are born.
+This Fund aims to create new, customized financial services for Japan by investing not only in leading US venture businesses, but also by supporting open innovation between the Fund’s investors, including the Bank of Yokohama, and companies invested in that have innovative digital technology.
+The Bank of Yokohama will work with Evolution to create new value experiences for customers and communities, as well as to further enhance financial services, through this strategic collaboration.
+Introduction of AGENT next-generation branch terminals
+The Bank of Yokohama is in the process of introducing AGENT next generation branch terminals. Until now, customers were required to hand write application forms and stamp them with their signature stamps. Now however procedures such as opening an ordinary deposit account or making changes to personal information on the application form can all be completed on a tablet. In addition, input data is automatically linked to the business system through API integration, greatly reducing input and checking work that was previously performed by employees, resulting in paperless operations and increased productivity. We plan to introduce this system in all branches by the end of FY 2020.
+Sustainable Individual Business Strategies
+ Leveraging Digital Technology and Taking on the Challenge of
+New Business Fields
+Through the use of digital technology, we will improve productivity and provide high value-added services, as well as take on new business areas that are not extensions of existing banking business.
+  CONCORDIA Financial Group 40Promoting Financial Digitization
+We will transform into a more convenient bank by moving into new business areas and advancing operational reforms through the use of digital technology.
+Fintech, AI, IoT, and other digital technologies are rapidly becoming a part of everyday life, and have become issues that regional financial institutions must urgently address. In addition, in order to promptly develop advanced products and provide services that meet the needs of customers in the face of changes in the external environment, such as the continued monetary easing policy centered on negative interest rates by the Bank of Japan and the low birthrate and aging population. A new business model is urgently needed that is efficient and highly productive on the basis of business reviews and operational reforms. The Bank of Yokohama established a new Digital Strategy Department in April 2019 for initiatives utilizing digital technology, and the Group is working as one to promote digitization measures based on the following three pillars.
+Initiatives to reform branches, business, and operations
+Initiatives involving cashless settlement
+Creation of a new business model using AI, fintech, and other digital technologies
+* Digital transformation: The use of digital technology to rethink the way the company does business, and to reform corporate culture. This will enable us to generate new value, build a new business model with digital capabilities, revolutionize the customer experience, improve society and people’s lives, and gain a competitive edge.
+In the medium-term management plan from FY 2019, we have set ‘operational reforms utilizing digital technology’ as a priority measure, and we will implement drastic reform of branch operations through three ‘less’ (paperless, less cash handling, and back office less) operations to transform the branch into a place for customer consultation. In addition, we will build a regional ecosystem that captures things, people, and experience needs ahead of financial needs, and communicate with customers from outside the connection with finance, expand payment services, provide a platform for issuing local currency to local governments, chambers of commerce, private companies, and shopping malls etc. with the aim of diversifying services utilizing digital technology.
+     39 CONCORDIA Financial Group
+Achievement of a Digital Transformation (*) able to respond to the growth of the Internet economy 
+                                                                                                            Promoting Financial Digitization
+Sustainable Individual Business Strategies
+  To Be a More Convenient Bank
+ATMs
+Branches
+Contact centers
+To enhance customer convenience, multiple access points
+are linked in real time to accurately respond to customer
+financial needs. Apps We are working to improve the functionality of each access
+point so that customers can receive services efficiently
+regardless of time or place.
+Customers
+Website
+Internet BankingExpansion of digital channels
+The Bank of Yokohama is working to digitize all types of transactions for the convenience of our customers.
+The Bank of Yokohama at Home, which allows personal customers to use various financial services at home, offers a variety of services including opening regular deposit accounts and investment trusts accounts, change of address and phone number, as well as other services such as WealthNavi for the Bank of Yokohama, which allows robo-advisors to automatically manage their assets through the web and apps.
+Corporate customers can also use the Hamagin Business Connect portal site to check details of their deposits and other transactions and apply for various products and services.
+ Enhancing HamaPay functions
+HamaPay is a convenientcashlesspayment service that allows customers to instantly debit Bank of Yokohama accounts registered in advance in the smartphone application when they pay for purchases at stores (member stores) that have signed a contract with the Bank of Yokohama.
+HamaPay is multi-bank compatible with BankPay member banks across the country, including Japan Post Bank and Fukuoka Bank, and the number of stores where it can be used is expanding.
+TheCash-out Service allows users to withdraw deposits from ticket vending machines at stations on the Tokyu Line, and the Smart Phone Storage Service allows users to pay payment slips at convenience stores.
+ Transforming branches into consultation spaces for customers through the three ‘less’
+ Paperless Operations
+In order to eliminate the inconvenience of filling out vouchers and application forms, we will proceed with new identity verification in place of signatures and seals at branches, and with paperless application forms and vouchers.
+u P40 Introduction of the AGENT next generation model branch terminals
+  41 CONCORDIA Financial Group
+CONCORDIA Financial Group 42
+General reception EQ Quick ATMs
+Quick counter
+Service counter
+ATMsContact centers
+We are working to improve the customer experience by upgrading contact centers that serve as a point of contact.
+When a call is received at Bank of Yokohama headquarters, the telephone number allows the bank to identify the customer and draw upon personal data stored at the bank (age, family structure, transaction status etc) to ascertain products and services that the customer might be interested in. The call is then automatically connected to operators who specialize in these products and services via intelligent routing. The Bank of Yokohama has also introduced a web chat service on its homepage to allow customers to ask specialist operators questions via the Internet.
+ Recommendation-based online lending
+The Hamagin Business Connect Loan, a recommendation- based online lending service, provides customers of Hamagin Business Connect, a members-only portal site for corporations, with information on the amount and interest rate level available for borrowing through a pre-screening process that utilizes big data such as account histories of deposit accounts.
+Customers who wish to borrow money do not need to submit financial documents and can complete the procedure online. In addition, the loan is executed in as little as two business days after the application is submitted, enabling you to obtain funds quickly.
+ Consultation booths
+ Targets and Results of Productivity Improvement Through Structural Reform
+2 3 2
+Lobby Automated deposits
+Open cash
+Team Table
+(*) AI: Artificial Intelligence RPA : Robotic Process
+Automation
+management
+Use of AI and RPA (*)
+We are promoting the use of AI and RPA in our operational reforms. We will continue to expand the scope of application of AI to call centers and customer service record confirmation operations, expand the scope of application of RPA to tax investigation reports and contract registration for investment trusts, mainly for headquarters operations.
+  Reduced cash handling
+We plan to move toward a cashless system in which customers mainly complete transactions on their own or with limited assistance, by introducing Quick ATMs with cash functions and lobby deposit machines for large cash deposits.
+Reduced back-office operations
+We are setting up a new middle office function to centralize various back office operations and streamline back office operations at branches.
+   Branch channels
+Number of branches integrated and rationalized (Bank of Yokohama)
+Integration through in-branch format Transition to mini-branches
+Transition to component branches and sales offices
+Introduction of concurrent branch managers Introduction of lunch break
+Business center
+Workload in sales offices and office centers
+The Bank of Yokohama
+Reduction in branch maintenance costs
+Higashi-Nippon Bank
+Reduction in branch maintenance costs
+ Use of RPA
+(Workload)
+Reduction of approximately 6%
+Approximately 30% reduction in target workload over 5 years (equivalent to 800 people)
+  Implement integration
+and rationalization in over 20% of all branches in 5 years (number of branches as of March 2019: 207)
+Implement integration
+and rationalization in over 60% of all branches in 3 years (number of branches as of March 2007: 85)FY 2016
+FY 2017
+FY 2018
+FY 2019
+Reduction of 132,000 hours of work by FY 2019 through the use of RPA in the office center and various headquarters departments
+Center reform
+Reduction of administrative personnel by standardizing and systematizing operations through diversification and review of the organizational work system
+  5 2
+— — — 2 34
+1
+——— 1
+    —
+— — — 24
+—
+l l
+In FY 2019, we reduced the workload by approximately 6% (equivalent to approximately 150 employees).
+In FY 2020, reductions are expected to increase with the rollout of transaction conclusion tablets at all branches.
+       Approximately
+2 billion yen
+ (annually)
+Approximately
+800 million yen
+(annually)

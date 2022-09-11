@@ -1,0 +1,268 @@
+Appropriate Use of Water Resources
+Relevant SDGs
+Environmental Accounting
+Relevant SDGs
+(Unit: million yen)
+10,834 9,456 3,996 3,980
+6,197 4,907 439 569
+4,955 6,189
+141 151
+812 867
+28 43
+87 87 16,655 16,793
+  Water Risk Analysis
+conducted using the Water Risk Filter*, the average score for the total basin risk for all our plants (weighted average taking into account the cement production volume) was 2.6. The highest total basin risk score was 3.5, and the average score was 0.2 lower than that of the previous year. The volume of cement produced at the plant in question accounted for about 13% of the production volume of all the plants. However, when we analyzed conditions at that plant, no urgent issues were identified.
+* A water risk mapping tool developed by the World Wide Fund for Nature (WWF). It is used to evaluate business impacts related to water scarcity, flooding, drought, seasonal variation, physical water quality risks, regulatory risks, etc. The maximum score is 5.0, and the higher the score, the greater the risk.
+Water Consumption
+the cooling of production equipment, exhaust gas and in-house power generators. Therefore, the water discharged from the plants is mostly cooling water, which is not polluted as defined in the Water Pollution Control Act. Our plants near the ocean use seawater to cool in-house power generation equipment. All the fresh water used at the plants is circulated and reused, except for the household wastewater, as we strive to reduce our water withdrawal and lessen the impact of wastewater on bodies of water.
+ Water
+Consumption
+7,505 16,232 2,983 26,719 146,097
+12,964 146,097
+GCCA
+(Unit: thousand m3)
+Environmental Conservation Expenditure (Non-consolidated)
+ GRI303-1
+According to the results of the water risk analysis
+8,130 16,370 3,095 27,596 149,056
+12,294 149,056
+6,521 16,884 3,251 26,656 149,776
+12,167 149,781
+5,626 18,656 3,325 27,607 147,372
+13,674 147,377
+5,355 18,759 3,078 27,192 146,232
+13,447 146,368
+2,161 3,624 3,964 1,537 2,128 1,904
+381 1,352 1,667 243 144 393
+3,933 3,020 1,255
+65 113 78
+556 539 537
+2 0 0
+0 97 172 6,717 7,393 6,006
+10,632 3,996
+6,197 439
+4,955
+141 812 28
+87 16,655
+  Surface water
+ Ground water
+Total fresh water withdrawal (I)
+FY2017
+FY2018
+FY2019
+FY2020
+FY2021
+ Water pollution prevention etc. WHR power generation systems etc.
+Waste treatment etc.
+Recycling waste and by-products as alternative raw materials and fuels for cement
+Environmental management etc.
+Innovative cement manufacturing processes etc.
+Plant tours etc. Emission levies etc.
+Total investment
+Total R&D expenditure
+(Unit: million yen)
+FY2019 FY2020 FY2021
+    Industrial water
+    Total seawater withdrawal172,816
+176,652
+176,432
+174,979
+173,424
+Total water withdrawal
+ Administrative costs
+Global environmental conservation
+ Resource recycling
+ Upstream and downstream costs
+ Total fresh water discharge (O)
+  R&D costs
+ Total seawater discharge
+    Total water discharge
+159,061
+161,350
+161,948
+161,051
+159,815
+Social activity costs
+  Environmental remediation costs
+ Total fresh water used (I-O)
+13,755
+15,302
+14,489
+13,933
+13,745
+   Reference guidelines: “GCCA Sustainability Guidelines for the monitoring and reporting of water in cement manufacturing Ver. 0.1” GCCA
+Appropriate Use of Water Resources
+20,020 1,192
+20,975 1,195
+23,057 1,246
+Total
+    GRI303-1, 2, 3, 4, 306-1
+Most of the water used at our cement plants is for
+ GRI203-1, 303-1, 2, 3, 4, 5, 306-1, 413-1
+At present there are no specific concerns
+We use the external economic benefit (EEB) evaluation method to express, in monetary terms, our evaluation of socioeconomic benefits from environmental impact reduction due to increased recycling of waste accepted from outside the company. We calculate that we created a social
+Taiheiyo Cement’s External Economic Benefit Evaluation
+benefit of 89.2 billion yen in FY2021. The total amount of waste and by-products used in FY2021 was less than in the previous fiscal year, leading to an approximate 2% decrease in economic benefit on FY2020.
+(Unit: hundred million yen)
+regarding water resources that may be raised by local communities. However, we are striving to reduce water withdrawal with a view to conserving water resources. In addition, we maintain close communication with local communities and contribute to the appropriate use of local water resources.
+1,200 900 600 300
+External Economic Benefits Derived from the Recycled-Waste-to-Cement System
+External Economic Benefits (FY2021) (Non-consolidated)
+ImpactInventoryReduction (t)Inventory Market Price (Yen/t)External Economic Benefit (Hundred million yen)Climate change mitigation CO2 1,779,704 3,000 53Depletion of energy resources Crude oil 105,344 18,400 19Depletion of mineral resources Natural resources 4,671,056 1,000 47Shortage of landfills Waste 5,152,393 15,000 773Total 892Taiheiyo Cement Philippines, Inc. supplies clean water to local communities in the Philippines from wells drilled by the company for water to use in its plants.
+808 912 892
+ Our total withdrawal of fresh water in FY2021 was about 27.19 million m3 and our total withdrawal of seawater about 150 million m3. The seawater was used to cool in-house power generation equipment at our plants near the ocean and then released back into the sea after use. The amount of fresh water discharged was approximately 13.45 million m3, meaning that about 13.75 million m3 of fresh water was used at the plants. However, most of this water is not used as a raw material and evaporates after being used to cool equipment or gas.
+• We have developed a unique evaluation method to estimate the contribution to overall environmental benefit to society by utilizing waste materials from other
+  In FY2021 our fresh water withdrawal to produce 1 tonne of cement was 0.832 m3 (withdrawal per unit of production). There was no great change in our water consumption efficiency.
+1.0 0.8 0.6 0.4 0.2
+0.833
+0.835
+0.806
+0.817
+0.832
+CalPortland Company has constructed a system for the sustainable use of water at its Rocky Canyon Aggregate Plant in California, USA. This system has improved the collection and storage of rainwater and spring water at the site. Developing these water resources has made it possible to secure a supply of the water it needs in its work, without having to build new wells or increase the volume of ground water it extracts, and also to keep the amount of water that drains out of the site to a bare minimum. (There are strict regulations with regard to water that drains out of a site.)
+2019 2020
+2021 (FY)
+• •
+•
+industries.
+We use information, including data collected for the GCCA Cement CO2 Protocol, to calculate the reduction in consumption of fossil energy and natural resources associated with the use of waste and by-products.
+Economic benefits are calculated by multiplying reductions in consumption (effects of environmental conservation) by set market prices.
+The market values of the inventory items are set at FY2001 levels, and are estimated on the basis of the following considerations.
+CO2: 3,000 yen/t (a hypothetical CO2 emission tax rate). Crude oil: import price. Natural resources: estimated price. Waste: controlled landfill costs in the Tokyo area. A portion of the EEB is accounted for in our profit and loss statement.
+Environmental Accounting for One of Our Projects
+Installation of a Hydrated Raw Material Mixing System at
+the Fujiwara Plant No. 5 Kiln  GRI201-2
+In order to boost the rotary kiln firing efficiency, standard raw materials for cement are dried, pulverized and homogenized in a raw mill. In recent years the amount of substitutes used for natural resources is increasing, and some of those recycled resources have a strong odor like hydrated sludge and cannot be processed in a raw mill. This makes it necessary to feed them directly into a rotary kiln to decompose
+  Fresh Water Withdrawal per Unit of Production GCCA (m3/t-cementitious)
+any malodorous components.
+The hydrated raw material mixing system installed at the Fujiwara Plant
+Investment: Approx. Reduction in CO2 emissions: 340 million yen 2,388 tonnes/year
+ No. 5 Kiln in FY2021 was jointly developed by Taiheiyo Cement and Taiheiyo Engineering Corporation. It is a new type of mixing system that separates high-temperature raw materials inside the preheater and premixes them before they are fed into the rotary kiln, thereby dramatically boosting drying and firing efficiency. The new mixing system will lead to less thermal energy being required for clinker burning, and is intended to further reduce CO2 emissions and environmental impact.
+     0
+2017
+2018
+2019
+2020
+2021 (FY)
+System for the sustainable use of water (California)
+Hydrated raw material mixing system
+ 78
+79
+Category
+Main Activities
+FY2019
+Investment
+FY2020
+FY2021
+FY2019
+Cost
+FY2020
+FY2021
+  Business area costs
+ Pollution prevention
+Details
+The Environment
+Material Balance of the Cement Production Process
+Scope of data: The data aggregated are for our four business segments (cement, mineral resources, environment and power generation) collected at our (non-consolidated) quarries and plants, at the quarries shown below of subsidiaries that supply us with materials (nine quarries of eight companies) and at affiliated companies engaged in the power generation business (3 companies).Ryushin Mining Co., Ltd.Buko Mining Co., Ltd.Chichibu Mining Co., Ltd.Ishizaki Co., Ltd.Oita Taiheiyo Mining CorporationMyojo Cement Co., Ltd.Chichibu Taiheiyo Cement CorporationTosayama Taiheiyo Mining CorporationOfunato Power Inc.Tosa Power Inc.Itoigawa Power Inc.Ofunato Quarry (Iwate Prefecture)
+Buko Quarry (Saitama Prefecture)
+Mido Quarry (Saitama Prefecture)
+Fujiwara Quarry (Mie Prefecture)
+Zero Waste from Cement Production
+Basically, secondary waste is not generated since we use flammable waste as a substitute for fossil energy, and combustion waste is utilized as a raw material for cement.
+Since cement is fired at a temperature of 1,450°C, hazardous chemicals generated during the production process, such such as dioxins and fluorocarbons are decomposed and detoxified.
+Shin-Tsukumi Quarry (Oita Prefecture)
+Toumi Quarry (Niigata Prefecture)
+Miwa Quarry (Saitama Prefecture)
+Kanouyama Quarry (Gunma Prefecture)
+Tosayama Quarry (Kochi Prefecture)
+Ofunato Power Plant (Iwate Prefecture)
+Tosa Power Plant (Kochi Prefecture)
+Itoigawa Power Plant (Niigata Prefecture)
+Utilization
+Contributions to infrastructure
+As stated in The Value of Cement on pages 10 and 11, cement is used for various purposes to create safe and stable infrastructure that improves people’s daily lives, makes economic activities more convenient, and protects communities from natural disasters.
+Products by Business      INPUT
+Raw material procurement
+Limestone 100% sourced in Japan
+Limestone is the only mineral resource in which Japan is self-sufficient. Japanese limestone contains high- quality calcium carbonate and has become the source of a stable cement supply.
+Ratios of Japan’s self-sufficiency in other mineral resources
+- Liquefied natural gas: 2.4%
+- Crude oil: 0.3%
+- Iron ore: 0%
+Production
+Utilization of Waste and By- products
+In our cement production we make efficient use of blast furnace slag from steel mills and thermal power plants, coal ash, industrial waste such as plastic and oil from various industries, ash from incinerated municipal waste, and disaster waste generated by natural disasters as recycled materials for cement. We utilize 402.7 kg of waste and by-products to produce one tonne of cement.
+Transportation
+Comprehensive Transportation Network
+We possess 9 cement plants, over 100 service stations, and 36 cement tankers in Japan, and provide a stable supply of our products via our robust manufacturing, transportation and supply chain infrastructure.Water withdrawal
+Energy
+Materials
+Total water withdrawal (thousand m3)
+Tap water Industrial water River water Ground water Rainwater Seawater
+191,429
+1,497 4,173 5,306
+12,350 300 167,803
+ Coal
+Petroleum coke Heavy oil Diesel oil Other Recycled fuels
+Purchased electricity
+2,225,888t 250,883t
+24,262kl 20,544kl 53,805t
+1,042,776t 551,542MWh
+ Additives, etc.
+Explosives
+Refractory materials
+Grinding media/Steel
+casing
+Lubricants/Chemicals 3,567kl Other 34,010t
+7,735t 3,818t 9,017t 2,453tRaw materials Power Generation BusinessPower Generation Mineral Resources
+Cement
+Environmental
+Electric power (sales of 2,396,837MWh electricity)
+ Aggregates Limestone products Other
+7,827,271t 4,663,324t 359,604t
+ Portland cement Blended cement
+Cement based soil stabilizers
+Clinker (for export)
+12,029,436t 1,741,877t 529,085t
+2,288,118t
+ Flue-gas 104,585t desulfurization
+Fly-ash products 156,627t
+    Coal, petroleum coke, water, etc.
+Electric power
+Power Plants
+ Electric power
+Service Stations
+ Aggregates
+ Diesel, explosives, etc.
+Quarries
+ Limestone etc.
+Limestone products
+Flue-gas desulfurization
+Cement products
+   Coal, purchased electricity, additives, etc.
+ Cement Plants
+  Mineral Resources Business
+  Cement Business
+   Environmental Business
+Waste and by-products
+Ash Centers
+Fly-ash products
+OUTPUT Natural Resources
+Limestone Silica Gypsum Other
+34,940,122t 1,616,798t 77,888t 11,967t
+Waste and By-products
+Iron waste By-product gypsum
+Fly ash, coal ash Blast furnace slag Other clay substitutes
+195,727t 470,110t
+2,125,467t 780,452t 1,696,968t
+  CO2 EmissionsCO2 14,269,840 t From purchased electricity
+189,608 tNOx EmissionsNOx* 24,020 tSOx EmissionsSOx* 1,538 tDust EmissionsDust * 283 tDioxin EmissionsDioxins*0.24 g-TEQWaste EmissionsWaste externally consigned for treatment Waste sent to landfills
+Valuables such as scrap metals
+632 t 27 t 6,701 tWater DischargeWastewater
+Seawater
+Fresh water
+Household wastewater 292 thousand m3
+181,846 thousand m3 167,934 thousand m3 13,621 thousand m3
+* Cement and power generation businesses only (excluding purchased electricity)
+80
+81

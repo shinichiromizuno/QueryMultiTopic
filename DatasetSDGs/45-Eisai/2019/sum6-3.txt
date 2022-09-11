@@ -1,0 +1,230 @@
+Global Business Activities
+Medicine Creation Activities
+Aiming to create innovation by selection and concentration utilizing researchers’ strong sense of mission as well as accumulated experience and knowledge.Intellectual Capital
+   Taro Terauchi (First person from the left)
+1997 Joined Eisai, Chemistry Unit 2, Tsukuba Research Laboratories
+2013 Head of Chemistry, Global Discovery Research, Neuroscience and General Medicine Product Creation Unit (PCU), Eisai Product
+Creation Systems (EPCS)
+2016 Head of Medicinal Chemistry, Neurology Tsukuba Research Department, Discovery, Medicine Creation, Neurology Business Group
+(NBG)
+2018 Head of Neurology Tsukuba Research Department, Discovery, Medicine Creation, NBG (Current)Tomoo Ogawa (Second person from the left)
+1988 Joined Eisai, Section 3, Clinical Development Department, Research and Development Headquarters (HQs)
+2005 Head of Focused Area Group, Clinical Operations Department, Clinical Research Center
+2010 Head of Japan, Clinical Development, Neuroscience PCU, EPCS
+2011 Head of Neuroscience Clinical Development Section, Japan/Asia Clinical Research PCU, EPCS
+2016 Deputy Head of Japan and Asia Clinical Development Department, Clinical, Medicine Creation, NBG / Head of Neurology
+Development Group, NBG
+2017 Head of Japan and Asia Clinical Development Department, Clinical, Medicine Creation, NBG (Officer) (Current)Tomohiro Matsushima (Second person from the right)
+1994 Joined Eisai, Chemistry, Discovery Research 3 Department, Research and Development HQs
+2010 Head of Tsukuba Chemistry, Global Chemistry, Global Discovery Research, Oncology PCU, EPCS
+2016 Head of Oncology Tsukuba Research Department, Discovery, Medicine Creation, Oncology Business Group (OBG) 2018 Deputy Chief Discovery Officer, OBG / Head of External Research, Discovery, Medicine Creation, OBG (Current)Akihiko Tsuruoka (First person from the right)
+1990 Joined Eisai, Section 1, Discovery Research 2 Department, Research and Development HQs
+2008 Head of Chemistry Group, Discovery Research Laboratories II, Discovery & Development Research HQs of Japan
+2009 Head of Tsukuba, Discovery, Oncology PCU/Chemistry, Tsukuba, Discovery, Oncology PCU, EPCS
+2010 Head of Global Chemistry, Global Discovery Research, Oncology PCU, EPCS
+2016 Head of Oncology Development Group, Japan and Asia Clinical Development Department, Clinical, Medicine Creation, OBG
+2017 Head of Japan and Asia Clinical Development Department, Clinical, Medicine Creation, OBG / Head of Japan and Asia Planning &
+Project Management Group, OBG
+2018 Head of Japan and Asia Clinical Development Department, Clinical, Medicine Creation, OBG (Officer) (Current)
+Q: From your years of experience in medicine creation activities in dementia area, what do you think about Eisai’s strength in medicine creation research?
+ A: Terauchi I think the greatest strength is researchers’ commitment to contribute to patients through creating new medicines. At Eisai, researchers’ commitment to create new
+medicines in dementia field has been inherited for its high unmet medical needs, with the corporate philosophy hhc in mind since in-house Alzheimer’s disease treatment Aricept® was developed.
+58
+Company Introduction Management Strategies
+ Value Creation Activities
+Business Base (ESG) Appendix
+  Since brain has advanced order functions, no pharmaceutical companies succeeded in development of next-generation dementia treatments so far for difficulties in target selection and evaluation. Aricept®, our in-house developed treatment for Alzheimer’s disease, had contributed to improve symptoms of dementia, but we keenly aware of the necessity to develop basic treatment to fulfill true needs of patients, while actively spending time with patients through socialization activities. Through researchers’ every
+day efforts with the aim to deliver new treatment to
+the patients as soon as possible, we have possessed industry-leading abundant pipeline in dementia field with accumulated experiences. Currently my team
+is conducting discovery research for investigational synapse regenerant, E2511. This compound is expected to promote recovery from disease by regenerating damaged functional neurons. Therefore, we believe that we can deliver potential curative treatment to the patients. Due to its innovative concept, we have experienced so many difficulties during the discovery research, such as not being
+able to obtain the results that we initially expected. We had faced crisis of discontinuation of this project on a number of occasions, but with researchers’ commitment to fulfill true needs of patients, we carried on challenging. As a result, we have reached to create new agent after 10 years of discovery research.
+A: Ogawa I am currently engaged in clinical development in neurology area, and in my opinion, Eisai’s strength in clinical development is strong commitment to pursue better development methods. As much were unknown concerning development methods in dementia field, I think Eisai is the one who has been taking the lead in. In the 1990s, when evaluation scales were not yet established,
+we discovered more objective evaluation method, compared to the subjective evaluation method used by physicians at the time. We introduced ADAS-
+cog, a globally standardized scale, to clinical studies for the first time in Japan and trained physicians
+who were in charge of clinical studies in order to
+unify the standard of assessment. Furthermore, we have accumulated experience and knowledge by conducting internal operations, such as contrivance in choosing right patients. Recently, we used Bayesian adaptive design to shorten time to determine optimal dose in PhaseII Study for investigational BAN2401. We also developed Eisai’s original scale ADCOMS, and utilize it to evaluate efficacy of the compound. I believe that these acts of pursuing patient contribution are originated the employees’ wish that is fostered through hhc activities conducted from the past.
+●Image of Bayesian Adaptive Design (in the case of BAN2401)
+Frequent interim analyses are conducted and the computer assigns patients to the arm with superior safety and effective dosages to obtain the data for optimal dose in more effective manner
+   Dosage and administration are different for each active control group
+1st Interim Analysis (196 cases)
+2nd Interim Analysis (250 cases)
+Interim Analysis implemented every 50 cases
+Placebo group
+Active control group 1
+Active control group 2
+Active control group 3
+Active control group 4
+Active control group 5
+Group with highest efficacy and safety
+Time
+ *Alzheimer’s Disease Composite Score
+Eisai developed its original AD Composite Score (ADCOMS*) for high-sensitivity ascertaining of changes in clinical symptoms and utilized it for evaluation.
+Functional neuron
+E2511
+Reduction of neural network
+Damaged neuron
+Regeneration of synapse by administration of E2511
+Re-composition of neural network
+             Q: From your years of experience in medicine creation activities in oncology area, what do you think about Eisai’s strength in medicine creation research?
+ A: Matsushima I have been engaging in the discovery research as a synthetic researcher in oncology area for many years, and I think Eisai’s strength in medicine creation is that the boundaries among laboratories in and outside Japan are low. Communication between researchers in each laboratory are very active on a daily basis, as well as the global conferences involving decision-making. We feel close, as if they are working in a department next door. We communicate each other based on deep mutual trust that was built
+ESAB held at H3 Biomedicine
+ 59
+Eisai Integrated Report 2019
+Patient enrollment (%)
+
+through collaboration for projects even in English. We have the board system called ESAB((Eisai Scientific Advisory Board), which leaders of global research sites gathers. Famous scientists from the external institutions give objective advice on our projects from scientific view point, and we examine the direction of R&D strategy at Eisai.
+A: Tsuruoka I am currently in charge of clinical development in oncology, but I was originally a synthetic researcher of discovery research in oncology. Through this broad experience, I would say that the strength in Eisai’s medicine creation is promoting precise clinical development conducted globally and regionally, placing IPT (international project team) in the center. Eisai has clinical development functions in Japan, the U.S, Europe, China and Asia,
+and structure to pursue global development of new medicines have been well established. IPT is usually formed at the time of clinical introduction. Clinical studies are initiated along clinical study plan to pursue worldwide submissions/approvals since early stage
+of clinical development after IPT was formed. IPT leader, as well as the lead of each function, such
+as discovery research, development research, and clinical research are selected. IPT plays a key role to decide developmental plan per indication or regulatory strategies that differ by region, and so on. These strategies are updated in a timely manner depending on the changes in treatment circumstances or competitive landscape, and are applied to clinical development.
+Q: After launching Pariet® in 1999, for more than 10 years until the launch of Halaven® in 2010, Eisai could not deliver new medicines to patients. What do you think of how “period of frustration” has occurred?
+  ●Launch year for main products developed in-house
+1997 1999
+Aricept®
+Pariet ®
+Period of frustration lasting 2010 2012 2015 over 10 years
+Halaven® Lenvima® Fycompa®
+  A: Terauchi I think the biggest reason for it was that selection and concentration was insufficient. Eisai used to pursue patient contribution in various areas, resulting in disease areas of target widely spread, not only in dementia or cancer, but also in diabetes, inflammatory diseases, thrombosis, pain, antimicrobial agents and so on. As there was no
+clear priority, resources dispersed. Sincere learning from this experience, we now carry out selection and concentration in neurology and oncology areas where we can demonstrate our competitive advantage. We believe that this system is effectively functioning. We are now able to approach with various concepts for medicine creation towards hypothesis of dementia pathology by concentrating resource in dementia area, which we have the greatest strength in, in neurology.
+Another reason for the stagnation in new medicine creation was insufficiency of human biology perspective, which to verify validity of drug discovery targets from in vivo molecules and genetics that potentially have actual influence on disease onset and progression in human. However, we are now able to advance each project after thoroughly verifying validity of drug discovery target and concept from the perspectives of human biology. A: Matsushima I think this 10 years of “period of frustration” was the period when new medicine
+creation was retained, approximately corresponds
+to the period that output of discovery research conducted between 1990 to 2000 were expected to bear fruits as new treatments. It was the period when pharmaceutical companies tried to discover medicine creation targets in conjunction with new findings of target molecule for anticancer agent, and science significantly advanced along that. Looking back
+from now, I think we were focusing too much on efficacy. Even if a compound has strong efficacy, without optimal solubility or metabolic stability that should be installed as an agent, it would not lead to create new treatments. Eisai has developed Halaven®, an agent with very complex structure as a compound with necessary profiles installed. Utilizing this experience, we will pursue development of new treatment with feasibility in manufacturing, as well as easy administration for patients.
+ 60
+
+Company Introduction Management Strategies
+ Value Creation Activities
+Business Base (ESG) Appendix
+ Q: What is Eisai’s direction in medicine creation going forward?
+ A: Terauchi As the aging of global population
+gathers pace, needs for the treatment and prevention of dementia are increasing. We are conducting medicine creation projects focusing on tau, synapse microenvironment, neuro-inflammation hypothesis and so on, following BAN2401 and elenbecestat that are under development based on Aβ hypothesis. By successfully developing these medicines, we would like to enrich treatment options for all disease stage for dementia, such
+as from prevention/pre-emptive medicine to treatment for severe stage. Possessing candidates with various concepts enable us to explore possibility of creating new value by combination use. Moreover, it is suggested that dementia, epilepsy and sleep disorder are potentially involved in disease onset of dementia. By leveraging research foundations and experience built through development of perampanel and lemborexant, we will advance projects in which synergies are expected.
+A: Ogawa In neurology area, we pursue shortening clinical study period and improving probability
+of success by leveraging our knowledge and experiences cultivated over years. For instance, we formulate innovative study designs, such as using biomarkers at early stage of development, to advance the best development strategy for new projects with colleagues worldwide. In particular, we have knowledge and experiences based on the past clinical development of Aricept® for approved indications of mild, moderate and severe AD and for dementia with Lewy bodies. I am proud of the quantity and quality of contribution that we have made as a Japanese pharmaceutical company for global clinical studies. We currently strengthen clinical development in China among Asian countries to promote contribution to patients in a timely manner. Thus, we strive to continue to contribute to patients.
+A: Tsuruoka In development of anticancer agent I am involved in, I constantly aim to submit in four global areas of Japan, the U.S., Europe and China at the same time. In the past, there were many cases
+that development in Japan was behind that of the U.S. and Europe. In addition, as there have been difficulties in enrolling specified numbers of patients in China in global clinical studies, local clinical studies specifically for China submission, were conducted separately in the past. However, we accomplished simultaneous submission for Lenvima® in the four regions worldwide for the indication of hepatocellular carcinoma, by overcoming numerous difficulties. We continuously aim to submit at four global regions at the same time.
+Currently, we are conducting first-in-human studies in Japan (PhaseIstudy that a compound is administered to human for the first time in the world) in a number of projects. This is very meaningful to pursue simultaneous submission/approval at four global regions, and this is one of Eisai’s strengths. Since Japan is the home ground to Eisai, physicians in Japan often give us suggestions and advices with warmth with the aim to develop new anticancer agents from Japan.
+It is said that right medicine creation target, right patient, right dose, right timing and right evaluation are important for clinical studies to achieve success.
+Going forward, utilization of AI (artificial intelligence) and other methods can be one of the directions in order to advance drug discovery with more subjective and precise manner.
+“Period of frustration” we experience in the past, gave us valuable lessons. By consistently introducing new methods of clinical development, we strive to shorten the period for clinical studies and obtain high- quality data in order to deliver new treatments to patients as soon as possible.
+  61
+Eisai Integrated Report 2019
+
+ Human Capital
+Global Business Activities Marketing Activities
+10-year transition of revenue in each region
+     Eisai is implementing marketing activities in each region, looking at regional characteristics. 10-year changes in business performance will be introduced in this section.
+   Japan pharmaceutical business
+ (Billions of yen)
+300
+200
+100
+0
+Increased revenue for three consecutive years in a row
+    291.1 296.2 301.1
+272.0
+              fiscal
+2009 2010
+fiscal fiscal 2011 2012
+fiscal fiscal 2013 2014
+fiscal fiscal fiscal fiscal 2015 2016 2017 2018
+fiscal
+Forecast for fiscal 2019
+■Aricept® ■Pariet® ■Lenvima® ■Halaven® ■Fycompa® ■Humira® ■Lyrica® ■Others ■OTC and others ■Generics
+                         * Full year forecast of fiscal 2019 for Lyrica® is not disclosed
+* Generic business was fully transferred to Nichi-Iko Pharmaceutical Co., Ltd.
+in April 2019.
+* Although consumer healthcare business was separated from Japan
+pharmaceutical business in the new segment in fiscal 2019, this section is described based on the segment in fiscal 2018 (consumer healthcare business, namely OTC and others from fiscal 2019, is included in Japan pharmaceutical business).
+Japan pharmaceutical business achieved peak sales in fiscal 2011 with the expansion of Alzheimer’s disease treatment Aricept® and proton-pump inhibitor Pariet®. However, it experienced decrease of revenue due to the loss of exclusivity for these two products (Pariet®: in 2010, Aricept®: in 2011). Rapid expansion of generics in the market and price revision, which is implemented every two years, also impacted the performance.
+After years of stagnant growth, Japan pharmaceutical business got back to growth trajectory and achieved increase in sales for three consecutive years since fiscal 2016 with the growth of new branded products, such as in-house developed anticancer agents of Lenvima® and Halaven®, fully human anti- TNF-αmonoclonal antibody Humira® and pain treatment Lyrica®.
+Eisai strives for further growth of branded products, such as Lenvima®, even though a decrease in sales
+is forecasted for fiscal 2019 due to transfer of generic business and price revision.
+       Americas pharmaceutical business (North America)
+   (Billions of yen)
+Performance of business in the U.S., the biggest pharmaceutical market in the world, had declining drastically after loss of exclusivity for Aricept® in 2010. Additionally, loss of exclusivity for AcipHex® (product name of Pariet® in the U.S.) in 2013, and return of the marketing rights for antiemetic agent Aloxi® impacted on the performance. Yet, anticancer agent Halaven® and antiepileptic agent Fycompa® continue to grow steadily. Revenue of anticancer agent Lenvima® rapidly expanded in fiscal 2018 with the additional approval for hepatocellular carcinoma indication.
+Eisai aims to achieve increase in revenue with the growth of Lenvima® in the U.S. in fiscal 2019.
+ 300
+200
+100
+Rapid expansion of Lenvima® Significant conversion
+of product mix
+    116.5 113.9
+97.9
+135.0
+Forecast for fiscal 2019
+ 0
+fiscal
+2009 ■Aricept® ■AcipHex® ■Aloxi® ■Halaven®   ■Fycompa® ■Lenvima® ■Others
+ fiscal
+fiscal
+fiscal
+fiscal
+fiscal
+fiscal 2015
+fiscal 2016
+fiscal fiscal 2017 2018
+2010
+2011
+2012
+2013
+2014
+62
+ 
+Company Introduction Management StrategiesValue Creation Activities
+Business Base (ESG) AppendixChina pharmaceutical business
+(Billions of yen)
+Aim to achieve double-digit growth (Local currency basis)
+50 fornineyearsinarow
+66.3
+70.0
+Eisai’s pharmaceutical business in China, particularly conventional drugs, such as peripheral neuropathy treatment Methycobal® and Aricept® are continuously growing even if their generic equivalents are already available on the market. In addition, Lenvima® has been launched in November 2018 and recorded 3.1 billion yen of revenue in 5 months.
+New policies along with institutional reforms has accelerated new drug approval process in China, but further expansion of generics is also expected at the same time in China. Eisai aims to achieve double-digit growth for nine consecutive years (local currency basis) with rapid expansion of Lenvima® and stable growth of other products in fiscal 2019.
+     56.2 49.3
+  0 fiscal fiscal fiscal fiscal fiscal fiscal fiscal fiscal fiscal fiscal Forecastfor 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 fiscal 2019
+■Aricept® ■Pariet® ■Methycobal® 
+■Stronger Neo-Minophagen C® and Glycyron Tablets® ■Lenvima® ■Others
+* Full year forecasts of fiscal 2019 by products in China pharmaceutical business are not disclosed, except for Lenvima®
+       EMEA pharmaceutical business (Europe, the Middle East, Africa and Oceania)
+Performance has significantly declined after loss of exclusivity of two major products of Aricept® and Pariet® in 2012. Currently, the expansion of Halaven®, Fycompa® and Lenvima® are contributing to the increasing trend in revenue, in addition to the growth of three antiepileptic agents Zonegran®, Zebinix® and Inovelon®.
+Eisai seeks to achieve record-high revenue of 51.0 billion yen in fiscal 2019 with rapid expansion of Lenvima®.
+Asia and Latin America pharmaceutical business
+(primarily South Korea, Taiwan, Hong Kong, India, ASEAN, Central and South America)
+ (Billions of yen) Increasing trend of revenue 49.8 51.0 50 44.3
+37.8
+  0 fiscal fiscal fiscal fiscal fiscal fiscal fiscal fiscal fiscal fiscal Forecastfor 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 fiscal 2019
+■Aricept® ■Pariet® ■Halaven® ■Fycompa®  ■Lenvima® ■3 antiepileptic agents total ■Others
+* Full year forecasts of fiscal 2019 by products in EMEA pharmaceutical business are not disclosed, except for Halaven®, Fycompa® and Lenvima®
+     (Billions of yen)
+Eisai’s business in Asia is continuously growing, associated
+with the expansion of the pharmaceutical market along with economic development in each country. Growth of fully human anti-TNF-α monoclonal antibody Humira® is continuously growing, in addition to stable growth of Aricept®, Pariet® and Methycobal®, notwithstanding the generics already available
+on the market. Eisai seeks the opportunity to expand the in- house developed products in Latin America through partnership with Grupo Biotoscana, which signed an exclusive licensing agreement with in 2017.
+Although revenue growth is expected to be slowing down temporarily due to the scheduled return of marketing rights for Humira® scheduled in Taiwan in August 2019, Eisai strives
+for further growth with Lenvima®, Halaven® and Fycompa® to
+  50
+0
+Sustainable growth
+fiscal
+2009 ■Aricept® ■Pariet® ■Methycobal® ■Humira® ■Halaven® ■Fycompa® ■Lenvima® ■Others
+42.6
+48.7 49.0
+fiscal Forecast for
+   fiscal fiscal 2010 2011
+fiscal fiscal fiscal 2012 2013 2014
+fiscal fiscal fiscal 2015 2016 2017
+2018
+fiscal 2019
+35.3
+   * Full year forecasts of fiscal 2019 by products in Asia and Latin America pharmaceutical ■アリセプト ■パリエット ■メチコバール ■強力ネオミノファーゲンシー / グリチロン錠 ■レンビマ ■その他
+business are not disclosed, except for Halaven®, Fycompa® and Lenvima®
+Other business
+support sustainable growth in the future.
+Other business refers to the performance associated with income from licensing to parent company and business for active pharmaceutical ingredients (API). Revenue recorded in fiscal 2017 to fiscal 2018 included the recognition of payments from Merck & Co., Inc., Kenilworth, N.J., U.S.A. in association with strategic collaboration for Lenvima® (34.5 billion yen in fiscal 2017 and 65.5 billion yen in fiscal 2018). Expansion of recognition of payments is expected in conjunction with revenue growth of Lenvima® in fiscal 2019.
+ (Billions of yen) 103.0 100
+50
+0 fiscal fiscal fiscal fiscal fiscal fiscal fiscal fiscal fiscal fiscal Forecastfor 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 fiscal2019   Expansion of recognition of payments associated with Lenvima®
+79.1 46.8
+  ■Others ■Recognition of payments associated with Lenvima®
+9.1
+   63
+Eisai Integrated Report 2019

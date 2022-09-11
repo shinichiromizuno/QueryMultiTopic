@@ -1,0 +1,110 @@
+Value Creation Infrastructure (Society)
+Enhancing Quality of Products and Services
+At Epson, we define quality as the degree to which our products and services match customer needs. Quality assurance, moreover, is how we continue to make and offer products and services that delight customers and win their trust. Epson works as a team to win customers’trust at every point of contact we have with them and throughout the life cycle of each product.
+Vision for Mid-Range CS & Quality Initiatives
+Epson implements CS & quality programs in line with its Mid-Range CS & Quality Action Policy, which is based on its Quality Policy and that stipulates its vision for creating products and services that please customers and earn their trust.
+Planning and Design Initiatives
+Epson product planning seeks to meet customer expectations by sending our design engineers on personal visits to hear their thoughts and needs first-hand. They also analyze feedback received by our information center.
+Initiatives for Improving Quality
+To continue providing product and service quality that exceeds customer expectations and achieve the Epson 25 Corporate Vision, Epson envisions how each function should be in respect to quality. We then narrow down the challenges each business and organization needs to address to get to that ideal and work to overcome them.
+    Category
+Functions
+GoalsProduct development value chain
+Planning and design
+1 Plan products, services meeting customer expectations
+Design
+2 Secure design quality to achieve plan intent
+Process design, mass production prep, mass production
+3 Secure process quality to achieve plan & design intent and maintain production quality
+Sales
+4 Provide service and support that reassure customersFoundations
+Compliance and product safety
+5 Secure product safety and ensure legal compliance
+Human resources
+6 Ascertain the root of problems and secure personnel who can deal with them
+Systems
+7 Have systems that constantly innovate quality   CS & Quality Vision (Creating Customer Value)
+Case Studies
+Resolving issues refilling ink in high-capacity ink tank printersIssue
+Ink could stain user’s hands when removing protective seal or tipping the bottleIssue
+The bottle had to be squeezed about 50 times in the roughly two minutes it took to refill a tank.Issue
+Filling a tank with
+the wrong color of ink
+Ink tank
+   We seek to achieve the goals of the Epson 25 Corporate Vision by raising the quality of work in all operations, demonstrating teamwork and collective strength, and providing products and services that exceed customer expectations.
+1. Ours is a customer-centric process in which we listen to customer expectations and react by designing our products and services to accurately reflect them.
+2. We continuously improve the quality of our operations in response to changes in society and customers.
+  Collect feedback
+Create value
+Create
+Customer information/ resources
+Solution
+We eliminated the protective seal and replaced it with an airtight bottle cap and a slotted valve near the tip of the nozzle to prevent ink from dripping.
+Sales Initiatives
+Solution
+Ink bottles and printer ink filling holes were redesigned to enable easy filling. Users simply have to insert a bottle nozzle into an ink tank and wait about 40 seconds for the tank to fill. Filling automatically stops when a tank is full.
+Solution
+The ink bottles have a tip that is uniquely shaped for each color and can only be inserted in a tank of the same color.
+Ink bottles act like a key that fits only the correct ink tank
+    Deliver
+Products/ services
+Deliver value
+Customers
+Produce
+Customer value
+  Promotion Framework
+Quality Assurance Program Organization
+The president of Seiko Epson Corporation heads up our quality assurance program. A Quality Assurance Council, committees, and project teams solve shared issues and serious problems. In addition, we manage our quality assurance programs by periodically assessing and reviewing the state of quality and the progress of actions, reporting the results to the president, and formulating and implementing policies for further improvement.
+Collaboration, instructions & reports
+In case of accident in a product owned by a customer, the local sales company in Japan or abroad and the affected business’s market response team file a flash report on the Quality Crisis Management (QCM) system.*1
+Affected departments, including the QA department of the operations division or Group company, promptly analyze the cause and study solutions. Top management and affected departments share information and make appropriate disclosures and responses, putting the customer first. We also report to outside organizations as legally required, as in the Consumer Product Safety Act in Japan.
+*1 An IT system for quickly reporting product accidents in any market in the world; very serious reports go directly to top management, Head Office, and operations division
+Epson Product Incident Response Process
+Product incident occurs
+Inquiry
+Sales companies and market support departments
+Share value
+Ink bottle valve (at bottle tip)
+Ink bottle
+Ink bottle
+   Seiko Epson
+ PresidentGeneral administrative manager in charge of quality assurance
+Head of quality assurance supervisory department
+SEC quality assurance supervisory department
+Quality Assurance Council/ committees/project teams
+Instructions & reports
+Instructions & reports
+Delivery
+QCM system
+Delivery
+Entry into QCM system
+  Chief executive
+Report assessment and approval
+Division/Affiliate quality assurance department
+Cause analysis
+Countermeasure planning
+Reporting decision
+Corporate HQ Quality Assurance
+Legal Affairs Public Relations Other related depts.
+Issue reports, share information, respoSales company Service & Support
+Legal Affairs Public Relations Other related depts.
+nd
+   Assessments & reports
+   Operations division
+Epson Group manufacturing companies
+    Solve important common issues
+Chief operating officer
+President
+Epson Group sales companies
+  President
+   Head of quality assurance
+Head of quality assurance
+Head of quality assurance
+Reports
+& notifications
+Outside agencies
+Delivery
+Appropriate release of information & market support
+Customers 53
+Epson Group Integrated Report 2018
+Epson Group Integrated Report 2018 54

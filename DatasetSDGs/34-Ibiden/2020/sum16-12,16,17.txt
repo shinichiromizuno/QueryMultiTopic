@@ -1,0 +1,46 @@
+ESG ManagementSupply Chain ManagementBasic Procurement Policy
+We will comply with laws, regulations and customs and build relationships based on mutual cooperation and trust with suppliers.
+We will offer fair trading opportunities to suppliers.
+We will fulfill our human rights, environmental and other social responsibilities through our procurement activities.Electronics
+The basic policy for the quality
+Based on the concept of quality first, we will achieve customer satisfaction by clearly grasping customer needs and producing and providing reliable products through IBI-TECHNO.
+Through IBI-TECHNO, we will incorporate customers’ real and potential needs and add values to such needs while striving to provide moving experiences to customers through our product making, which continually gives top priority to quality.
+  CeramicsTOPICS
+Control and Response to Changes by IT System
+IBIDEN believes that the standardization of work quality at each base in the IT system is important for global management. For the ongoing IT system construction conducted globally, we are carrying out required tasks by separating them into two domains of control-focused tasks and response-focused tasks.
+System Construction in the Control Perspective
+In domains such as purchasing, accounting, and asset management, our global IT system construction focuses on control, and migration to Cloud ERP is being promoted. Standardization of work flow and work management method with Cloud ERP will eliminate uneven work quality and ensure uniform quality of operations. In addition to the completion of migration in our Hungary branch, migration was completed in our offices in Japan and Germany in FY2019. In the future, migration to Cloud ERP is scheduled to be completed in all bases in and outside of Japan by 2025.
+System Construction to Respond to Changes
+Our global IT system construction for domains that are directly connected to businesses such as production, sales, production control, quality control, and revenue management focuses on the response to changes. For these domains, the System Promotion Unit plays a key role in developing and globally operating the Group’s original applications. The introduction of original systems will enable us to follow changes in requirements from customers and production changes inside the Company.
+  Enterprise Resource Planning: Management technique to realize optimization of the entire company by centralized management of corporate management resources
+  IBIDEN Group Supplier CSR Guidelines
+In order to lead globally developing operations into sustainable growth with our suppliers, we unveiled “the IBIDEN Group Green Procurement Guidelines” in 2009 as a system for green procurement, designed to procure parts and materials that feature reduced environment impact. In addition, we published “the IBIDEN Group Supplier CSR Guidelines” (hereinafter called “CSR Guidelines”) in 2011.These guidelines provide our suppliers with requests by our customers, the industry and the international community and items that should be managed by the Group. The items are divided into subcategories according to themes such as labor, health and safety, environmental protection, ethics and fair business practices.
+IBIDEN Management System “IMS”
+IBIDEN globally adopts the IBIDEN Management System (IMS) which aims to continuously improve the Group’s business competitiveness and customer satisfaction level. Based on quality management systems ISO9001 and IATF16949, we integrated environment management system ISO14001, occupational health and safety management system ISO45001, and corporate management systems to improve the quality of every single operation process. We will continue to build and operate systems that allow us to provide high quality products globally so that we can offer products and services exceeding the expectations of society and our customers.
+In addition, the Group has received ISO9001 certification at main domestic and overseas manufacturing plants and
+IATF16949 in operations related to the automotive industry. ISO9001 and IATF16949 are international quality management system standards.
+Measures to improve quality
+IBIDEN is striving to contribute to society and customers through product quality. We hold review meetings at each process phase from the development of cutting-edge technologies, product planning, and design to mass production in order to evaluate compliance with requirements. To improve quality further, we offer guidance and audits, including assessment by the president, at workplaces in Japan and overseas and group companies on quality improvement. In addition, we also provide support and guidance to our suppliers for the purpose of quality improvement.
+Measures for Supply Chain Management
+Communication and Cooperation with Supplier
+In order to thoroughly implement CSR Guidelines throughout the entire supply chain, we request our suppliers, including new suppliers, to pledge to comply with CSR Guidelines, as well as to evaluate the status of guideline compliance through CSR investigation and report annually. Furthermore, to confirm the actual status of suppliers and promote improvements, we make requests on improving issues addressed in CSR investigation as well as conduct site visits and audits to ask the suppliers for improvements to their activities. Each guideline is published on the Company’s website so that they may be reviewed by all stakeholders.
+Risk Management of the Supply Chain
+The IBIDEN Group controls the whole supply chain, not limited to the suppliers from whom we procure materials. In Japan, with regard to contractors and dispatched workers, labor management is becoming complicated by various factors such as the increased number of foreign workers. Amid such circumstances, risk management of the supply chain has become increasingly crucial for us. To ensure the soundness of the supply chain, we periodically share information through personal interviews and confirm the current status in cooperation with our suppliers.
+Responsible Sourcing of Resources
+(Conflict Minerals )
+Illegal mining of resources in conflict areas and high-risk areas has become a major international issue as it abets human rights violations and environmental destruction. Our “CSR Guidelines” clearly state that the suppliers should refrain from illegal mining in conflict areas as well as procuring resources that may support human rights violations. Furthermore, we will conduct reasonable investigations into the mineral supply routes and disclose the findings in good faith.
+The targets are tin, tantalum, tungsten, gold, and cobalt.
+Suppliers’ Compliance Counter
+We set up a “compliance counter” for our suppliers to which suppliers can report any compliance problem while dealing with the Company. As with the compliance counter for our internal employees, information will be handled with the utmost care for privacy and the supplier will never suffer prejudicial treatment for contacting the counter.
+Introduction
+Value Creation
+ESG Management
+Financial and Corporate Data
+ Contributing SDGs
+Basic Approach
+To earn the trust of international community while operating business globally, both the Group and the entire supply chain must responsibly take actions that respond to social demands.
+Quality Management
+Basic Approach
+By consistently developing cutting-edge technologies, IBIDEN contributes to the creation of a comfortable IT society as well as a society where cars and nature coexist through the proposal and supply of high-value-added products. Based on its “customer first” policy, the Group meets the needs of customers through unique technologies and designs that take into account the global environment. We understand that our greatest mission is to consistently supply safe and reliable products.
+  39 IBIDEN Co., Ltd. Integrated Report 2020
+IBIDEN Co., Ltd. Integrated Report 2020 40

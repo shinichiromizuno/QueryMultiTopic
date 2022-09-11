@@ -1,0 +1,134 @@
+For Our Sustainable Growth
+Marine and Global Environmental Conservation
+It is the societal mission of the MOL Group to take the lead in resolving common envi- ronmental problems of humankind such as climate change, air pollution, and biodiver- sity disruption as a participant in our world. Not only minimizing the environmental impact of the MOL Group’s business activities, we also work on providing solutions to environmental problems as an important business opportunity. Placing “Promotion of environmental strategies and development of the emission-free business into a core business” as one of the core strategies to achieve our management vision, we are actively promoting initiatives in the environmental field.
+MITSUI O.S.K. LINES
+MOL REPORT 2020
+Initiatives to Achieve the Goals Set Forth in MOL Group Environmental Vision 2.0
+  Goals Initiatives
+MOL is carrying out simultaneous studies on various clean alternative fuels. For example, LNG is a fossil fuel, but it can reduce CO2 emissions compared to conventional heavy oil, and we therefore consider it an effective alternative fuel that is ready for immediate use. However, since we cannot achieve our goals with LNG fuel alone, we will also consider other next-generation fuels, specifically synthetic methane from methanation, ammonia, and electric ships, among other possibilities. Regarding measures for the use of synthetic methane as vessel fuel, we joined Japan’s Carbon Capture & Reuse (CCR) Study Group* in fiscal 2019 and launched a multi-industry-spanning working group.
+* The CCR Study Group is a body to solicit CCR technologies from multiple industries for feasibility studies. CCR technologies provide alternative energies by combining CO2 emitted from industry and hydrogen produced using renewable energy.
+Please refer to page 35 for further details on the Wind Challenger Project.
+To further promote the measures we have put in place so far to reduce fuel consumption in operating existing vessels, we have established a new Fleet Performance Management Team within the Marine Technical Management Division, which will conduct concentrated monitoring to ascertain the operational status of individual vessels in a timely manner and work to ensure sailings in the most optimal speed.
+Discussions on international rules for global shipping are primarily conducted at the IMO. The direction taken in the introduction of new rules, depending on its content, can heavily impact the business environment for shipping companies, but we see it as an opportunity to build new business models, and we will actively participate in discussions through industry associations and related government agencies.
+If we only concern ourselves exclusively with GHG emissions from ships, it will be difficult to reach our goal of Net Zero GHG Emissions by early in the 21st century. By developing new businesses in the abovementioned fields, we intend to promote low carbonization for our entire Group business portfolio. Since supply chains have yet to be developed for many next-generation fuels, we aim to participate in
+a wide range of fields, from upstream (manufacturing) to downstream (transportation and supply), not just using them as vessel fuels.1
+ Adoption of Clean Alternative Fuels
+Promoting LNG fuel usage
+Study and adoption of next-generation zero-emission fuels to succeed LNG fuels
+ 2
+ Adoption of Energy-Saving Actual installation of Wind Challenger systems Technologies Adoption of other new technologies 3
+ Enhancement of Operational Reduction of fuel consumption via real-time monitoring of Efficiency vessel operational status
+ 4
+ Building Business Models to Active involvement in regulation and rule-making through Enable Net Zero GHG Emissions industry associations and related government agencies
+ 5
+Expanding Low-Carbon Businesses Using Concentrated MOL Group’s Strengths
+Business development in the area of next-generation fuels such as hydrogen, in addition to FSRU, LNG powerships, and renewable energy
+ Environmental Management Structure
+The Environmental Management Committee, which is a subordinate organization of the Executive Committee, formulates medium- to long-term environmental goals, and reviews the progress on our goals and how we are pushing forward the environmental and zero emission projects. Furthermore, in April 2020 we established the role of the chief environment and sus- tainability officer (CESO), who oversees the planning and implementation of environmental strategies, as well as a new specialized team within the Corporate Planning Division to take charge of the hands-on work.
+The Technology Innovation Unit conducts environmen- tal initiatives from a technology and ICT perspective.
+     Technology Innovation Unit
+Please refer to page 38 for details on the chief environment sustainability officer.
+To Curtail Greenhouse Gas (GHG) Emissions: Enactment of MOL Group Environmental Vision 2.0
+ With the ever-increasing momentum to prevent cli- mate change since the Paris Agreement came into force, in April 2018 the IMO (International Maritime Organization) adopted “IMO strategy on reduction of GHG emissions from ships,” which comprehensively set out international shipping GHG reduction targets and measures to achieve them. This strategy is the
+first in the world to commit to achieving zero GHG emissions during this century in a single internation- ally spanning sector. In response, we also reviewed our Environmental Vision 2030, formulated in April 2017, and have newly enacted MOL Group Environmental Vision 2.0, which makes clearer commitments, includ- ing the attainment of IMO objectives.
+    MOL Group Environmental Vision 2.0
+The MOL Group is committed to achieve sustainable “Net Zero GHG Emissions” through collective efforts with all capabilities.
+  Reduce total annual GHG emissions from the ships by 50% in 2050 compared to 2008
+Achieve Net Zero GHG Emissions within this century, pursuing earlier
+ Previous reduction targets set out in Environmental Vision 2030 (established in fiscal 2017)
+The MOL Group targets reduction of GHG emissions per unit load by 25% by 2030 and by 50% by 2050 compared to fiscal year 2014” (efficiency improvement target).
+Please refer to page 34 for information on our other endeavors in environmental and emission-free businesses. Please refer to page 15 for information on our CO2 emissions volumes.
+46
+47
+Executive Committee CESO
+Environmental Management Committee
+ Corporate Planning Division (Environment and Sustainability Team)
+ Deploy commercial Net Zero GHG Emissions deep sea vessels by 2030
+ 3
+Content of the Regulations
+The SOx regulations limit the percentage of sulfur content in fuel in order to curtail the amount of sulfur in gas emissions. In January 2020, the IMO tightened the limit from 3.5% or less to 0.5% or less.
+    1
+2
+   Tighter regulations under the Energy Efficiency Design Index (EEDI)*2
+4
+     Levying and raising of a carbon tax
+Further spreads of next-genera- tion ships using alternative fuels
+Fluctuation in ocean freight demand MOL’s Vision of the World under the 2°C Scenario
+Cleaner society, shift toward renewable energy, and decrease in fossil fuel demand
+    Shift toward more low-carbon local production & consumption
+Expansion of carbon tax / Decrease in fossil fuel demand
+H2
+H2
+H2
+Biofuel
+Government
+Carbon tax hike
+CO2
+Increased use of EVs*3 and FCVs*4
+  FCV
+EV
+Clean energy
+SOx NOx
+ Hydrogen
+   Fossil fuel
+Steel
+Development of next- generation fuels
+MOL
+CO2
+    Further utilization of Northern Sea Route using ice-breaking vessels
+Decline in demand due to the transition toward lighter automobiles
+Increase in demand for offshore wind power generation
+Acceleration of energy efficiency regulations / Initiatives on GHG emission reduction
+Tightening of SOx and NOx regulations
+IMO
+     MOL
+Aim for Zero GHG Emissions by
+the end of the centuryProject NameGreen BondsSustainability BondsBallast Water Treatment Systems
+5.5
+4.0SOx Scrubbers2.29.2LNG Bunkering Vessels1.42.0LNG Powered Vessels0.70.1New PBCF0.20.1Others (other than green projects)—4.6Total10.020.0 Content of the Convention
+The Ballast Water Management Convention highlights the negative impact of the cross-border transfer of foreign marine organisms, which occurs when vessels release ballast water, on marine ecosystems. Under the Convention, all vessels are mandated to install ballast water treatment systems by 2024.
+Discharging port Loading port
+                                         For Our Sustainable Growth
+Marine and Global Environmental Conservation Scenario Analysis
+In fiscal 2018, to ascertain the impacts of climate change on our business as well as our business conti- nuity ability given those impacts, with the support of the Ministry of the Environment, we conducted a trial scenario analysis utilizing the framework of TCFD. Furthermore, in fiscal 2019, following in-depth exchange of opinions with our sales divisions, we added our own perspectives to analysis of the long- term outlook for key transportation demand and revised the content of the previous year’s analysis in a
+MITSUI O.S.K. LINES MOL REPORT 2020
+  way that develops it further. In making these revisions, we picked the following four climate change-related items that we deem both important and likely to impact our business and quantified them in terms of their impact on our profits and losses according to the 2°C and 3°C scenarios*1. We will continue to improve the accuracy of our scenario analyses and use the results to promote individual initiatives to achieve the goals set forth in MOL Group Environmental Vision 2.0.
+Air Pollution Prevention
+SOx Regulations
+Our management plan for fiscal 2019 set “Strategic actions for compliance with SOx regulations” as a focus area, and under our SOx 2020 Regulation Response
+Committee (which reports to the Executive Committee), we have taken Companywide measures to ensure that we are fully prepared for the tightening of regulations in January 2020.
+Of the three methods of compliance with the regu- lations, (compliant fuel, SOx scrubbers, and the use of LNG and other alternative fuels), we take compliant fuel usage as our main measure, and use the other two methods on a ship by ship basis.
+ Compliant fuel complies with the new standards by limiting sulfur content to 0.5% or less. As a result of our early efforts to test the quality of compliant fuel supplied by various oil companies and secure the necessary quantities, we have completed the smooth transition of our fuel without causing any major engine trouble or downtime for our operating vessels.
+SOx scrubbers use water to filter sulfur out of exhaust smoke. By installing them we are able to continue to use conventional fuel. We have been installing SOx scrubbers primarily in larger vessels such as Very Large Crude Carriers (VLCCs) and Capesize bulkers, and as of May 2020 we had completed installation on 41 vessels, including those at the request of our customers. On a Groupwide basis, we plan to have them installed on 100 vessels by 2022.
+LNG fuel can reduce SOx emissions to zero, but since it requires installation of special LNG engines, it is mostly adopted in new ships.
+   *1 Ultra-long-term future scenarios of energy demand and climate change. The 2°C Scenario is a scenario in which the necessary measures are implemented to control temperature increases to 2°C or less. The 3°C Scenario is a scenario in which economic initiatives and additional measures to address climate change are not sufficiently implemented. The former is put out by the International Energy Agency (IEA) and the latter is MOL’s own scenario based on the IEA’s scenario.
+*2 The Energy Efficiency Design Index is a measure of a ship’s energy efficiency, theoretical CO2 emission figures calculated when the vessel was designed (g/ton-mile). Under the regulation, rates of EEDI reduction from benchmark values according to individual vessel types are gradually tightened.
+Compliant Fuel
+SOx Scrubbers
+LNG and Other Alternative Fuels
+Marine Environment Protection
+Reduction of Ocean Plastic
+Ocean plastic has a profound effect on marine ecosys- tems. As part of our efforts to reduce ocean plastic, we plan to install a dedicated collection system on new ships scheduled to be delivered in fiscal 2020. When the ship takes in seawater, the system’s filters collect microplastics in the ocean that have been finely crushed to 5mm or less under the force of waves and ultraviolet rays, and we expect it to collect several hundred grams per ship (a few hundred thousand pieces of microplastic) annually. Land-based tests conducted in autumn 2019 confirmed the system’s ability to collect microplastics. We will consider expanding the system to additional vessels following the verification trial on the first one.
+Ship Recycling
+Please refer to page 69 for MOL’s efforts in this regard.
+  In addition, we are making efforts in the areas of electric ships and the Wind Challenger Project (see pages 34 to 37) as well as synthetic methane (see page 47).
+    Initiatives for Challenges other than Climate Change
+*3 Electric Vehicles
+*4 Fuel Cell Vehicles
+Microplastic collected in land-based tests
+5mm
+ Protection of Biodiversity
+Ballast Water Management Convention
+In anticipation of the enactment of the Ballast Water Management Convention, adopted by the IMO, we decided to make the installation of ballast water man- agement systems a Companywide policy in fiscal 2014. As of April 2020, we have completed installation of these management systems on 167 vessels. Our policy is to complete installation on all of our owned vessels by the time limit set by the Convention.
+Issuance of Green Bonds and Sustainability Bonds
+  48
+49
+Ballast Water Mechanism
+Marine organisms
+Ballast water is taken in to provide weight as the draft rises due to the unloading of cargo.
+As initiatives to apply the world’s increasing awareness of the environment and the SDGs to our financing mea- sures, in fiscal 2018 we issued ¥10 billion in Green Bonds*5 and in fiscal 2019, we issued ¥20 billion in Sustainability Bonds*6. We became the first company in Japan to have issued both Green Bonds and Sustainability Bonds not only to institutional investors but also to individual investors.
+*5 Funds raised with Green Bonds is to exclusively finance our green projects that are effective at improving the environment.
+*6 Sustainability Bonds extend the usage of funds from Green Bonds, raised to projects that address issues related to resolving social issues.
+For MOL’s environmental data, please visit our website.
+https://www.mol.co.jp/en/sustainability/environment/data/index.html
+Fund Allocation

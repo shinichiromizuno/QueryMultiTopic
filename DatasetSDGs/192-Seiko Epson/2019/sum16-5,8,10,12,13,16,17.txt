@@ -1,0 +1,108 @@
+Value Creation Infrastructure
+         Strengthen Supply Chain Management
+  Motonori
+Okumura
+Managing Executive Officer
+General Administrative Manager, Production Planning Division
+Supply Chain CSR Strategy
+Epson seeks to build trusting relationships with our business partners around the world based on fairness, coexistence, transparency, and mutual prosperity. To fulfill our social responsibility, we hold our suppliers to the same high standards of ethical conduct that we uphold. The six action items listed to the right are our top priority.
+● Providing products and services that create customer value ● Contributing to environmental conservation
+● Complying with laws, engaging in proper business practic-
+es, and operating with high ethical standards
+● Respecting basic human rights
+● Ensuring safe, healthy, and fair working environments ● Implementing business continuity management (BCM)
+Message from Top Management
+Epson’s Management Philosophy urges us to grow and prosper together with the community, working with our business partners for mutual benefit. In this way, we aspire to be an indispensable company. We believe we can maintain mutually beneficial relationships with our suppliers and other business partners by asking them to live up to the highest standards of ethical conduct while respecting their autonomy and independence. When suppliers take the same approach as Epson to human rights, labor conditions, the environment, compli- ance, ethics, quality, and information security, we can solve society’s challenges together and contribute to the making of a sustainable society.
+  Supply Chain CSR Management
+Socially Responsible Procurement Program
+Complying with
+the Epson Procurement Guideline
+50
+In addition to quality, cost, and delivery, Epson addresses CSR issues that
+concern the international community, such as the environment and labor
+practices. This content has been compiled into the Epson Group
+Procurement Guidelines, which includes the Epson Supplier Code of
+Conduct. Epson is elevating CSR performance by implementing a socially
+responsible procurement program that encourages suppliers to meet the
+requirements of the Procurement Guidelines requirements at a higher level.
+Suppliers are asked to comply with the Epson Procurement Guidelines, 4 and their compliance is assessed by conducted an SAQ*1. Risks are Corrective analyzed, facts may be verified on-site, and suppliers may be audited actions and asked to make improvements as needed. Suppliers themselves
+drive improvements and check how well they are improving. We run this program on direct suppliers*2 and suppliers of indirect materials*3 in alternate years.
+Epson furthermore joined the Responsible Business Alliance (RBA), a global coalition dedicated to CSR in global supply chains, as a regular member in April 2019.
+Request to 1
+    Status check/Audit
+On-site verification/Audit
+supplier
+Status assessment by SAQs
+2
+Risk evaluation
+      3
+       43
+Epson Group Integrated Report 2019
+*1 Abbreviation for“Self-Assessment Questionnaire,”using a question-and-answer format
+*2 Suppliers of parts and other materials for finished products *3 Suppliers of temporary staffing, contracted services, etc.
+Supply Chain Overview
+Epson does business with about 1,400 suppliers around the world. Most of them are located in (including Japan), where Epson has factories.
+Epson received 312 responses from 333 key suppliers who were asked to assess themselves with the SAQ in FY2018. If a supplier was deemed medium risk or lower, we asked them to make further improvements. High-risk suppliers underwent site audits (including some conducted by third parties) and have been making improvements under corrective action plans.Procurement Overview
+High risk
+ Japan
+Procurement amount
+Number of Suppliers
+Southeast Asia
+0%
+East Asia
+Americas
+Europe 1% 2%
+100%
+FY2018
+SAQ Evaluation 5% Results
+Medium risk
+38% Production material suppliers23%46%28%
+1% 1%37%27%34%Low risk
+57%
+ Responsible Mineral Sourcing
+Under our mid-range targets, Epson products should not contain conflict minerals that fund armed groups committing human rights abuses and environmental destruction in conflict-torn regions and high-risk areas. We are acting to achieve this target. In FY2018, 82% of identified smelters were certified as conflict-free smelters (CFS), meaning that they do not handle conflict minerals for the four metals of concern. We also found that all identified smelters were CFSs for the metal tantalum, which is widely used in electronic components.
+At events like supplier CSR conferences, we promote compliance with Epson policies, ask our suppliers to work to improve survey accuracy, and share infor- mation with suppliers on conflict minerals response trends.
+Target and Results
+*4 For information regarding the details of the smelters we have been able to identify, please contact your local Epson sales company.KPI
+FY2016
+FY2017
+FY2018
+FY2018Gold
+Tantalum
+Tin
+Tungsten
+Identified smelters
+-
+314
+312
+314
+150
+40
+81
+43
+Number of CFS*4
+-
+243
+249
+256
+102
+40
+74
+40
+Rate of CFS
+100%
+(by March, 2021)
+77%
+80%
+82%
+68%
+100%
+91%
+93% Supply Chain BCM (Business Continuity Management)
+Epson is introducing supply chain BCM and is improving business continuity and resilience throughout the supply chain so that even if a disaster, accident, epidemic, or other event should cause disruption, Epson can fulfill its responsibility to customers by recovering and providing products and services within a target recovery time.
+The Epson supply chain BCM consists of five functions. The supplier function includes BCM activities that suppliers undertake to ensure their supply of goods to Epson is not disrupted. Suppliers perform self-assessments periodically. Epson feedbacks the survey result to the suppliers, and supports them for their improvement action.
+Supply chain BCM
+Procurement function (alternate procurement)
+Supplier function Production function Sales function
+Supplier Production sites Sales sites Customers Logistics function
+      Epson Group Integrated Report 2019 44

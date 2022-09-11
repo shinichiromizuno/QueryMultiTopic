@@ -1,0 +1,184 @@
+Business OMRON Corporation Integrated Report 2021 Healthcare Business (HCB)
+Healthcare
+  53
+The mission of our Healthcare Business is “To help realize healthy and comfortable lives for people around the world.” By living up to this mission, we have developed healthcare products and services with a focus on usability and accuracy of readings that ensures reliability for medical use. OMRON has achieved certification for medical use for a variety of devices in various countries, including blood pressure monitors, digital thermometers, and nebulizers. Moreover, OMRON also provides services that are compatible with each country’s/region’s social infrastructure and healthcare system, which varies from country to country. These products and services are now available in more than 110 countries across the world.
+A New Challenge to Achieve Zero Events by Globally Driving Remote Patient Monitoring Services
+During 2020, the COVID-19 pandemic drastically changed people’s awareness and ways of living, also impacting social infrastructures around the world to become the “new normal” in people’s lives. With the increasing need to take body temperature readings that the “new normal” has dictated, we reinforced the production system to increase capacity in our Dalian Factory, China as we expand product supply. In October 2020, an additional thermometer production line was installed in the Matsusaka Factory, Japan to ensure a stable supply of products.
+The spread of COVID-19 saw new issues begin to emerge. These include increased risk of infection from hospital visits and a growing workload for medical professionals due to an increase in COVID-19 patients. In particular, the risks for patients with chronic diseases such as hypertension and diabetes become higher once infected. The fear of potential infection caused many chronic disease patients to avoid
+regular hospital visits, causing them to suffer worsening conditions. During the past year, this particular issue became rather prominent.
+These types of social changes make achieving our Cardiovascular Business vision “Reducing the event of cerebrovascular and cardiovascular diseases caused by high blood pressure to Zero (Zero Events)” that we set in 2015 more important than ever. For realizing Zero Events, it is essential to carry out appropriate blood pressure management through early-stage detection and treatment of hypertension, as it is one of the main risk factors for strokes and heart attacks. As we advance toward this vision, OMRON has continued to produce devices that break new ground. A wearable watch-type blood pressure monitor, already with medical equipment certification, has been launched in North America, Japan, and Europe. Another device for North America release was a blood pressure monitor with ECG for simultaneous home monitoring of blood pressure and electrocardiogram data. Our endeavor, however, goes beyond the development of devices and our efforts to expand into telemedicine on a global stage already resulted in various new services that have been rolled out on a worldwide basis. In September 2020, OMRON launched the VitalSight remote patient monitoring (RPM) service in North America, followed by the Hypertension Plus, another remote monitoring service for hypertension, in the UK in April 2021.
+Even with the continuing impact of COVID-19, we see awareness of sustainability is growing with the response to SDGs and environmental preservation being examples. Our proactive action to achieve SDGs builds on efforts to promote the health of people around the world through our business growth and involves popularizing blood pressure monitoring at home. As we develop our innovative devices we also engage in environmentally responsible manufacturing. Specifics include reducing the use of plastic material by employing paper packaging and preserving paper resources by downsizing packaging. is A carbon-neutral production line is also under consideration. Sustainability initiatives are promoted by reviewing our business activities from a wide-ranging perspective and include measures such as an environmentally friendly office achieved by using solar power.
+We will continue to reinforce our fundamental business that is designed to deliver innovative devices to people around the world and assist their health management. We will also be entering new fields, such as creating personalized RPM services and AI technology for individually optimized blood pressure management and developing algorithms to
+Domains
+Corresponding SDGs
+    Managing Executive Officer OMRON Healthcare Co., Ltd. President and CEO
+Isao Ogino
+OMRON Corporation Integrated Report 2021 Business analyze warning signs of strokes and heart attacks. Our goal is being an indispensable partner to doctors and patients
+ for the prevention and treatment of chronic diseases.
+Business Highlights
+Net Sales / Operating Income / Operating Income Margin
+Capital Expenditures / Depreciation and Amortization / R&D Expenses
+(Billions of yen) 120
+108.5
+10.3%
+11.2
+6.7 6.7 6.8
+Net Sales
+115.5
+Operating Income
+123.1
+112.0
+16.9% 40
+90 12.1%3066.0
+Operating Income Margin
+133.0 (Billions of yen)
+Capital Expenditures (Billions of yen)
+8
+Depreciation and Amortization
+R&D Expenses
+6.9
+4.3
+2.8
+     16.7%
+20.6
+    60 30
+11.3%
+13.0
+22.5
+4.0
+2.8 2.8
+101.3
+6.2
+4 3.3 10 2 2.2
+ 8.4%
+8.5
+20
+3.2
+3.0
+ 000 16 17 18 19 20 21FY
+16 17 18 19 20FY
+13.5
+  Sales by Product
+Other (Activity Monitors, AED, Electric Toothbrushes, etc.)
+Blood Pressure Monitors
+(Forecast)
+    13%
+¥123.1 billion
+7%
+  Body Composition Monitors
+TENS Devices
+Thermometers
+Social Issues to be Solved
+Actual progress during VG2.0
+4% 4%
+  Net Sales in 13% FY2020
+59%
+     Nebulizers
+  VG2.0 Goals
+  Increased events of cerebrovascular and cardiovascular diseases attributable to hypertension
+Worldwide prevalence of asthma attack and other respiratory disease exacerbations
+Blood pressure monitor sales: 25 million units/year
+Development of analytical technologies to continuously track blood pressure fluctuations
+Nebulizer and wheeze detector sales: 7.65 million units/year
+     INPUT
+Total R&D expenses: ¥27.2 billion
+Total capital expenditures: ¥17.5 billion
+Total growth investments: ¥9.8 billion
+(FY2017-FY2020 results)
+OUTPUT
+Blood pressure monitor sales: 24 million units/year (FY2020)
+Nebulizer and wheeze detector sales: 3.41 million units/year (FY2020) Developed innovative devices such as a wearable blood pressure monitor, blood pressure monitor + ECG, and a wheeze detector. Launched remote patient monitoring services and corporate wellness services in North America, Europe, Singapore, India and Japan Established blood pressure monitor and nebulizer production bases in Brazil and Italy
+Set up an additional thermometer production line at the Matsusaka Factory to fulfill product supply responsibility in the COVID-19 situation
+OUTCOME
+Helped to extend healthy lifespans and reduce medical expenditures to contribute to healthier and more comfortable lives for people around the world
+SDGs 3.4.1
+54
+
+Business OMRON Corporation Integrated Report 2021 Introducing Case Studies
+Transforming Medical Care to Reduce Cerebrovascular / Cardiovascular Diseases to Zero
+Allowing anyone access to personalized hypertension treatment anywhere
+Currently, work is underway to develop and promote RPM services as we aim to resolve common challenges around the world. Dealing with patients suffering from chronic diseases who are at risk of severe COVID-19 complications, preventing medical expenditures from soaring, reducing workloads for medical professionals, and easing burdens on patients visiting clinics are some of these challenges we face. We therefore concentrate on creating an environment that allows remote monitoring of patient conditions using innovative devices and information technology. We are also developing algorithms that support doctors for proper diagnosis and treatment. Collaborating more closely with our partners will help us create new solutions.
+Hypertension Plus — Remote patient monitoring service for hypertension supporting medical care with medication recommended by using self-monitored blood pressure data
+About 30% of all adults in the UK are reported to be suffering from hypertension. The National Health Service (NHS), a publicly funded health system administered by the UK government, has set a goal of achieving an 80% blood pressure control rate by 2030. As the latest control rate is estimated at 60%, more effort is called for. NHS patients access pre-registered general practitioners (GPs) except for emergencies. For GPs with busy practices, patients will have longer wait times that cut into consultation time. Reasons like these can make patients interrupt or even discontinue treatment. Therefore, enhancing treatment efficiency and supporting continuity of treatment will be the keys for hypertension management to improve in the UK.
+In April 2021, OMRON launched Hypertension Plus, a remote patient monitoring service for hypertension, in the UK. This service generates a customized blood pressure management and medication plan for each patient using blood pressure readings taken at home to help enhance the efficiency of clinical practices.
+Using Hypertension Plus, a hypertensive patient can send self-measured blood pressure readings to the GP office’s electronic medical record (EMR) system, enabling the doctor to trace the patient’s blood pressure changes in detail on the management screen, connected to the EMR system. Hypertension Plus directly recommends a three-month medication plan that factors in patient attributes and blood pressure levels. It also determines whether medication needs to be changed based on post-medication blood pressure data and if needed, recommends a new personalized medication plan. Hypertension Plus was shaped by the TASMIN home blood pressure trials, a clinical study that proved the potential to reduce blood pressure through self-management and remote adjustment of medications, conducted at the University of Oxford. Recommendations are based on clinically proven medication titration techniques for hypertension, conforming to current National Institute for Health and Care Excellence (NICE) guidelines. These offer guidance for choosing antihypertensive drug treatment depending on patient age, ethnicity, and complications. Hypertension Plus allows the doctor to check each patient’s conditions in detail within a limited time, using their consultation time more effectively by referring to the recommended medication plan.
+Patients can have their medications modified from home, so hypertension care is uninterrupted and the need for a GP visit is less. Encouraged by clinical commission groups’ (CCGs) decision to use the service, Hypertension Plus is currently being deployed at GPs across the UK.
+Doctor’s management screen
+Blood pressure graph, data, etc. for each patient Patient’s registered information and 3-month medication plan recommendation
+   55
+
+Patient’s smartphone app screen for patients
+Daily blood pressure Blood pressure Medication plan screen management schedule management screen
+OMRON Corporation Integrated Report 2021 Business
+       Employee Comments
+At the end of FY20 OMRON Healthcare Europe reached an important milestone in our Going for Zero vision, the launch of our first Remote Patient Management service for GP practices in the UK. Hypertension Plus is based on know-how from the TasminH4 Clinical Study, exclusively licensed from Oxford University, which demonstrated that remote patient management, including remote medication reviews, can lead to significant reductions blood pressure compared to usual office-led care.
+Hypertension Plus is designed to improve health outcomes and reduce workload for GPs. Workflow algorithms help to streamline patient management, and the clinical dashboard is integrated with medical record systems, ensuring that decisions taken within the platform are recorded in the patient’s record.
+The Hypertension Plus app support patients to manage their blood pressure from home.
+Medication plans are displayed in the app, with reminders to take medication and submit
+blood pressure readings. Dr’ss decisions are shared with patients and educational content encourages health living. Throughout FY21 we will be expanding Hypertension Plus to more NHS customers in the UK. This is the start of an exciting journey that has the potential to transform the way that chronic diseases are managed in Primary Care.
+ Paul Stevens
+OMRON Healthcare Europe Connected Services and Solutions Director
+ Comments from Partner
+Covid-19 has highlighted more than ever the importance of managing cardiovascular risk factors particularly in target populations. Technologies such as Hypertension Plus can help primary care clinicians to appropriately target their workload so that they are using their skills most appropriately and able to support patients with the resources they need to manage their blood pressure.
+Dr. Nav Chana
+National PCH Clinical Director, National Association of Primary Care (NAPC)
+56
+
+Business OMRON Corporation Integrated Report 2021
+Collaborative research with Kyoto University harnessing AI and vital signs monitoring to realize
+Zero Events
+Achieving zero cerebrovascular/cardiovascular events caused by high blood pressure requires appropriate blood pressure control for hypertensive patients, enabling them to maintain their blood pressure within a normal range. Approximately half the hypertensive patients undergoing treatment still have blood pressure beyond the normal range and study results indicate that even individuals with normal blood pressure readings may still have a possibility of developing serious cerebrovascular/cardiovascular diseases from blood pressure fluctuations. Such situations make early-stage detection of blood pressure changes essential to identify stroke and cardiac event warning signs.
+OMRON, aware of these issues, partnered with Kyoto University to launch a research program called “Healthcare Medical AI” in June 2021 with the goal of exploring how the use of artificial intelligence (AI) can minimize the risk of cerebrovascular/cardiovascular events. Two study themes are focused on, the first on developing AI that will be able to generate personalized blood pressure management methods to support lifestyle improvements that help prevent hypertension and its progression. The second study aims to develop AI that enables the early detection of changes in blood pressure and other related vital signs self-measured at home to provide the risk identification.
+Through developing these two AI technologies, we pursue effective blood pressure control and minimizing the incidence of cerebrovascular/cardiovascular diseases. To date, OMRON has developed the first-of-its-kind wearable blood pressure monitor with medical-grade measurement accuracy, as well as pursuing biometric information measurement technology to monitor body composition
+ data, physical activity intensity, and sleep in daily living conditions. Combining OMRON’s measurement technology with Kyoto University’s accumulated AI expertise creates a powerful resource that will allow us to develop OMRON-unique Healthcare and Medical AI.
+The collaborative research program’s scope of development
+   57
+Use
+Medical facility
+Development of AI for personalized blood pressure management
+Development of AI for detecting warning signs of cerebrovascular/ cardiovascular events
+ Diagnosis/ treatment
+Patient
+Analysis
+Data accumulation
+Vital signs database
+Self-measured vital signs data
+Blood pressure, daytime blood pressure, nighttime blood pressure, EKG, body weight and body composition data, physical activity intensity, sleep, diet (salt intake)
+      Doctor
+ Employee Comments
+ The prevalence of connected devices has facilitated accumulating cardiovascular disease-
+related health data such as blood pressure measured daily at home and lifestyle data. Using
+this data, OMRON Healthcare launched remote patient monitoring services in the U.S. and the
+UK. As we aim to differentiate OMRON from others with unique services, we initiated a
+collaborative research program on artificial intelligence (AI) using health and medical data.
+Two points make this research program stand out. Firstly, OMRON Healthcare commands the
+top share of the global home-use blood pressure monitor market, providing access to an
+immense quantity of high-quality data. Secondly, Kyoto University has many AI and medical
+specialists among its distinguished researchers. These points significantly contribute to the
+ability to create advanced AI that only the exceptional quality of our data makes possible, and
+that can be implemented in actual clinical workflows.
+We are presently working on research with results to be published globally in a research paper.
+From this starting point, we will expand collaborations with medical and research partners, as we continue to make progress toward zero cerebrovascular and cardiovascular events.
+Development Center Technology Development HQ Core Technology Group
+Hiroshi Koshimizu
+  Comments from Partner
+Amid the pandemic of COVID-19 and the increasing risk of collapsing the healthcare systems, one of the urgent challenges is the development of medical systems outside of hospitals. This is directly associated with the issues, which we are going to face in the very near future, such as escalation of medical costs due to super-aged society and the decrease of healthcare professionals. To address these difficult issues together with OMRON Healthcare in this “Healthcare and Medical AI” collaborative research program, we would like to explore solutions of how to prevent the event risks to spend happier and healthier lives at home with a new type of healthcare system and AI studies.
+Kyoto University
+Graduate School of Medicine Department of Biomedical Data Intelligence
+Ph.D., Professor
+Dr. Yasushi Okuno
+
+OMRON Corporation Integrated Report 2021 Business Cumulative blood pressure monitor sales of 300 million units indicate a global prevalence of
+home blood pressure monitoring
+The year 2021 will see global sales of OMRON home-use blood pressure monitors reach the 300 million mark. It is almost 50 years since OMRON launched its first home-use blood pressure monitor in 1973. At the time, common thinking was that blood pressure could only be measured at a medical facility, so the concept of home blood pressure monitoring was not accepted by consumers or medical professionals. But even so, we were confident in our belief that self-measured blood pressure should help promote people’s health, so OMRON ceaselessly worked to raise awareness of the public and medical community regarding the importance of home blood pressure monitoring. At the same time, we were pursuing the usability that would enable anyone to easily obtain accurate readings with medical- grade measurement accuracy. To make home blood pressure monitoring more accepted, we cooperated with medical professionals and experts, participating in numerous clinical studies to confirm efficacy. In 2014, some 40 years after launching our first monitor, our persistent efforts bore fruit. The 2014 Guidelines for the Management of Hypertension recommended that home blood pressure readings take priority in diagnosis data over doctor office-taken blood pressure readings, recognizing the efficacy of home blood pressure monitoring. With this, home blood pressure has been regarded as appropriate criteria for hypertension diagnosis in Japan as well as worldwide.
+From the release of its first blood pressure monitor it had been about 30 years before OMRON achieved cumulative global sales of 100 million units in 2009. But the next milestone of 200 million was reached in seven years, and in just five years after that, OMRON blood pressure monitors are set to achieve 300 million units in global sales, indicating home blood pressure monitoring becoming prevalent at an accelerated pace.
+Along with the recent rise of lifestyle disease patients, the practice of monitoring blood pressure at home is also growing in emerging nations. COVID-19 has also played a part in raising people’s health awareness, helping our global monitor sales to achieve a year-on-year increase of 20% in fiscal 2020. We will remain committed to delivering innovative and high-quality products to hypertensive and other individuals who need a blood pressure monitor. At the same time, we will expedite the roll-out of RPM services and the development of AI technology supporting hypertension treatment as we continue our progress toward achieving Zero Events.
+History of blood pressure monitor development in line with home blood pressure monitoring acceptance     OMRON’s first blood pressure monitor
+1973 1978
+OMRON’s first monitor with digital display
+Fuzzy logic-based blood Fully automatic Spot Arm pressure monitor blood pressure monitor
+1991 2002 2004
+Wearable blood Blood pressure pressure monitor monitor + ECG
+2018 2019
+            Wrist blood pressure monitor Connected wrist blood Upper arm blood with wrist positioning guide pressure monitor pressure monitor
+58

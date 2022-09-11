@@ -1,0 +1,84 @@
+          Value Creation Infrastructure
+     Improve the Quality of Products and Services
+  Motonori
+Okumura
+Managing Executive Officer
+General Administrative Manager, Production Planning Division
+Quality Policy
+1. We will solve problems by directly observing all of our operations and processes.
+2. We will quickly complete the Plan, Do, Check & Act (PDCA) cycle in all situations.
+3. We will thoroughly analyze any failures, and establish procedures based on that analysis, so that mistakes are never repeated.
+4. We will proactively consider our customers’ satisfaction so they will genuinely prefer purchasing Epson products and feel confident using them.
+5. We will seize the opportunity presented by customer comments and complaints to inform our decisions when designing new products.
+6. We will readily report even negative information.
+7. We will foster a climate in which attention is paid to even the most commonplace events.
+Message from Top Management
+Customer satisfaction, enshrined in the Epson Management Philosophy, is the goal of every Epson employee. That means always offering customers around the world products and services that are safe, secure, user-friendly, surprising, and delightful. To achieve that, each Epson employee works con- stantly to enhance the quality of their work from a customer perspective.
+To support them, Epson provides a foundation for continually creating high-quality products and services. In each business area, we establish mid-range quality improvement targets and measures for achieving them.
+  Quality Assurance Program Organization
+The president of Seiko Epson Corporation heads up our quality assurance program. A Quality Assurance Council, committees, and project teams solve shared issues and serious problems. In addition, we manage our quality assurance programs by periodically assessing and reviewing the state of quality and the progress of actions, reporting the results to the president, and formulating and implementing policies for further improvement.
+Collaboration, instructions & reports
+ Seiko Epson
+ President
+ General administrative manager in charge of quality assurance
+ Head of quality assurance supervisory department
+SEC quality assurance supervisory department
+Instructions & reports
+ Instructions & reports
+  Assessments & reports
+   Operations division
+   Quality Assurance Council/ committees/project teams
+Solve important common issues
+Chief operating officer
+Epson Group manufacturing companies
+Epson Group sales companies
+  President
+President
+   Head of quality assurance
+ 41 Epson Group Integrated Report 2019
+Manufacturing companies managed by the operations division
+Head of quality assurance
+Collaboration
+Collaboration
+Head of quality assurance
+ Mid-Range CS & Quality Action Policy
+We seek to achieve the goals of the Epson 25 Corporate Vision by raising the quality of work in all operations, demonstrating teamwork and collective strength, and providing products and services that exceed customer expectations.
+  Vision
+Earn strong trust from customers by taking innovative approaches to improving the quality of the overall product commercialization process and quickly achieving a level of quality that exceeds customer expectations.
+Following our Mid-Range CS & Quality Action Policy, we draw up mid-range CS & quality targets for each business area and ways to achieve them. Using these, we make quality improvements to products and services over the long-term.
+CS & Quality Vision (Creating Customer Value)
+  Collect feedback
+Create value
+Create
+Customer information/ resources
+ Deliver
+Products/ services
+Deliver value
+CustomersProduce
+Customer value
+  Incorporate the Voice of the Customer into Products
+Market and work site information are extremely important for creating product value in the“create, produce, and deliver” cycle. We listen sincerely to customers who use our products‒their impressions of the product, the troubles they have. We then work with our departments to respond so that the next customer will be satisfied.
+In 2013, we launched a product of a new type for Epson: a garment printer that prints on cotton fabric, such as T-shirts and tote bags. Its successor models came out in March 2018. Known as the SC-F2100 series, they offer greater work per- formance and efficiency in the workplace because they incorporate customer needs that came to light in the four and a half years since the first garment printer went on sale.
+Share value
+   “Garment loading is troublesome”
+We devised a way to set garments in place with a quick-load grip pad instead of a metal hoop. This cut the loading time by about half (to about 15 seconds) and keeps garments and other fabrics from expanding.
+“I need faster print speed”
+The original product prioritized color expression. Print jobs began by printing two white layers to cover the color of the fabric and then printed color as the third layer. However, market survey results showed some customers wanted the productivity of faster printing while others prioritized color expression. To meet both needs, we developed a high-speed mode in which the first layer is printed in white and the second in color and white simultaneously. The high-speed mode increased print speed by 33% with little loss of color expression.
+White undercoat printing process (sectional view)  Changes to the T-shirt setup procedure
+Use a hoop to set
+Garment Printers SC-F2100 Series
+“There should be less waiting time”
+Use a quick-load grip pad to set
+        The SC-F2000 series was designed to automatically circulate white ink every day for up to 10 minutes to prevent particles contained in white ink from settling. Sometimes the circulation process began just when the customer wanted to print, so they had to wait. We analyzed the workflow and found there was a 20-second interval between printing jobs (to unload the printed garment and set the next one in). We created a program to break the circulation process down into steps that run only in the intervals so customers no longer need to wait to print.
+A fabric preparation product is applied to the surface of dark fabric so that white ink will not penetrate the fabric. The product reacted with fabric dyes and made stains. People who bought garments sometimes returned them due to the stains. Other garment printer manufacturers all had the same problem. We addressed the problem by identifying a material that effectively minimizes the reaction with fabric dyes and mixing it with the fabric preparation product. We tested the new fabric preparation product on more than 150 types of fabric manufactured around the world under expected usage conditions and confirmed that stains became less conspicuous.
+Color
+White
+White
+Original printing mode
+3rd layer
+2nd layer White Color White
+“Print jobs should be more attractive”
+1st layer
+White
+High-speed printing mode
+  Epson Group Integrated Report 2019 42

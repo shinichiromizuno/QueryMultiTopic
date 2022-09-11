@@ -1,0 +1,70 @@
+ The Environment
+Environmental Management
+Closely Related SDGs
+Environmental Management Policy
+Our environmental management policy declares an active commitment to environmental issues facing society, including not only preventing pollution but also creating a recycling-based society, mitigating climate change, reducing environmental impacts, protecting water resources and conserving biodiversity as key management challenges. Under this policy we are focusing on improving our environmental performance.
+Environmental Management Policy
+In January 2006 we created an Environmental Management Policy, reflecting the fact that we consider an active commitment to the environmental issues facing society to be key management challenges. In addition to initiatives emphasizing these six items in all business operations, we strive to communicate with a wide range of stakeholders, from international society to local communities, and to seek the ideal form for a sustainable cement industry as a member of the WBCSD and GCCA (Global Cement and Concrete Association).
+Created in January 2006 Revised in April 2019
+Company-wide Environmental Management System (EMS)
+In June 1997 Taiheiyo Cement initiated ISO 14001 certification of each of its plants and attained 100% certification by 1999. Recognizing, however, that plant level management systems alone are insufficient to ensure comprehensive environmental protection through environmental management projects, we built
+a companywide environmental management system (EMS) and extended it beyond plants to cover our headquarters, branches and Central Research Laboratory. In April 2009 our EMS was ISO 14001 certified by
+the Japan Testing Center for Construction Materials, an independent third-party testing, standardization and certification authority. As part of the continuing certification the company-wide system underwent a renewal audit for the third time in March 2018.
+鼓EMS Readiness
+Top management (officer in charge of the Production Department) chairs the Environmental Management Committee with ultimate decision-making authority for environmental management. Overseen by the Environmental Management Committee, the relevant headquarters division manages our plants, mines and branches using an “umbrella” system. Each group cement company in Japan and overseas is committed
+       ❶ Pursuing Environmentally Conscious Business Activities In pursuit of zero environmental impacts we target the impacts of our business activities, including those of the value chain, which are emitting GHGs, pollutants, noise and vibration, withdrawing water, degrading forest and others. We promote the introduction of eco-efficient technologies into our business and the development of eco-conscious products as a member of both the regional and global society.
+Company-wide EMS Readiness
+Production Department, Mining Department, General Affairs Department, Administration Department and Sales Department of Cement Business Division, Sales Department, Mineral Resources Business Department, and Environmental Business Development Department
+Top management officer in charge of the Production Department
+EMS secretariat
+Other departments in headquarters
+ ❷ Compliance with Environmental Laws and Regulations As a minimum, we comply with all environmental laws
+ and regulations applicable to our business activities. Furthermore, beyond compliance, we meet environmental commitments undertaken through voluntary agreements.
+❸ Contributing to a Recycling-based Society Leveraging the inherent capabilities of the cement industry, we actively recycle industrial and municipal wastes as raw materials and fuels for cement production.
+Environmental Management Committee
+  Environmental Administration Group, Production DepartmentPlantsMinesBranches
+ ❹ Proactively Addressing the Issue of Climate Change We promote greater energy reduction throughout the whole of our business activities and strive to develop technology to help reduce society's total greenhouse gas emissions.
+Taiheiyo Cement Group’s Environmental Targets  GCCA
+Central Research Laboratory
+CO2Emission Reduction Targets
+Cement production-related CO2 emissions from Taiheiyo Cement and group companiesReduce specific net CO2 emissions per tonne of cementitious product by 10% or more from FY2001 levels by FY2026 (CSR Objectives for 2025).❺ Promoting Global Technology Transfer
+Through the worldwide transfer and deployment of our technology, we aid the development of greater energy conservation, environmental preservation and utilization of waste materials.
+❻ Ecosystem Conservation
+We strive to protect the ecosystem, including biodiversity, by providing products and technologies that contribute to harmonious coexistence with nature.Reduction Target for Main Air Pollutants
+Emissions of NOx, SOx and dust from the main stacks of kilns at the cement production sites of Taiheiyo Cement and group companiesLimit NOx, SOx and dust levels per tonne of clinker (g/t-clinker) to the target levels achieved in FY2011
+60 TAIHEIYO CEMENT REPORT 2020
+    Special Feature Business Activities
+Governance Collaborating with Society
+to environmental preservation. Over 90% of the group’s total cement output in FY2020 was produced in ISO 14001-certified plants. Facilities in countries where ISO is not adopted as the mainstream standard operate their own EMS.
+鼓Internal Environmental Audits
+In FY2020 we conducted internal environmental audits at all our sites.
+As priority items from this year’s audit, confirmation of legal compliance reviews, external communications and corrective actions for unachieved items were identified as company-wide concerns. The status of a follow-up, including corrective and preventive actions for nonconformity with environmental requirements, and the status of responses to emergencies were identified as items that plants must deal with. Verifying the compliance status of a service stations was identified as an item that must be dealt with by branches.
+The audit identified 21 findings including 6 for which improvements were requested. Corrective actions were taken for all 6 findings for which improvements were requested.
+鼓Environmental Education
+During Environment Month each June we deliver a
+message from the president and provide educational materials on the environment page of our portal
+site to increase awareness and encourage learning about the environment, and about environmental preservation activities throughout the group. Each workplace also engages in a number of different activities, such as conducting training sessions related to accident response, viewing environment-related DVDs, holding
+or penalties or significant accidents that affected the environment including animals or plants. However, we had two accidents (cement dust) and took measures to prevent these accidents from recurring.
+鼓Response to Environmental Accidents
+Each plant maintains emergency response
+plans in preparation for possible environmental accidents. They also conduct training, including periodic fire-fighting training in cooperation with local fire departments. Other training includes
+how to reduce environmental impact when an environmental accident occurs and how to report it to a government entity.
+鼓Environmental Complaints
+As we increasingly utilize wastes and by-products and they become more diverse, the number of environmental issues we need to consider also increase. Therefore, we are ramping up our efforts to reduce environmental impact through activities such as introducing indoor storage and sealed containers for waste and by-products, and improving our flue gas stacks. When we receive an environmental complaint we quickly travel to the site in question, whenever possible, to check the situation, investigate the cause and provide an explanation. When we find that our activities are the cause, we implement improvements.
+In FY2020 our cement plants received 104 environmental complaints. We responded to 28 of these, which were associated with our operations. The number of complaints received in FY2019 increased from the previous year due to a change in the counting method. However, the number in FY2020 remained unchanged from the previous year.
+Number of Environmental Complaints Received  Non-consolidated 1. 環境苦情件数の推移
+Air/dust Noise Water quality Vibration Odor Other complaints (Number of complaints) 29 28       lectures and taking part in local cleanup activities. In FY2020 more than 370 activities took place, including group companies’ activities.
+Oil spill training (Kumagaya plant)
+30 6
+    Compliance with Environmental Laws
+GRI307-1
+鼓Environmental Accidents
+In FY2020 we had no legal or regulatory violations related to the environment that were subject to fines
+25
+20
+15
+10
+58
+0 2016 2017 2018 2019 2020 (FY)
+19 41 108 9
+       TAIHEIYO CEMENT REPORT 2020 61

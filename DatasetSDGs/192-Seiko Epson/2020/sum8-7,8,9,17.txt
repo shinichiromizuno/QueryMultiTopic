@@ -1,0 +1,33 @@
+41
+Integrated Report 2020
+     Robotics Innovation
+Robotics Innovation
+   Vision
+Combine our core technologies with sensing and smart technologies in manufacturing,
+expand applications, and create a future in which robots support people in a wide variety of situations.
+ Value Creation
+Solve the issues of manufacturing and skilled worker shortages by increasing automation and manufacturing efficiency with robots.
+Apply our robotics and sensing technologies to create high-speed robots with outstanding accuracy, thereby providing solutions that exceed customer expectations and increase their productivity.
+Mitigate environmental impacts with compact, slim, lightweight robots that are energy-efficient.
+The Compact Precision Robot Market and Epson’s Share Targets
+   Keijiro Naito
+Executive Officer
+Chief Operating Officer,
+Robotics Solutions Operations Division
+(Billions of yen) 200
+150 100
+50 SCARA robots 0
+Small articulated robots
+2019 2021 (FY) 5% 6%
+  2019 2021 Epson 28% 32%
+unit share
+Approximate
+ As global manufacturing wages rise and as competition for workers intensifies, manufacturers urgently need to automate and increase manufacturing efficiency. This is leading to the expanded use of robots in manufacturing. The robot market is expected to continue to grow at a high rate because the impact of COVID-19 has made production stability more important than ever.
+* The 2021 forecast does not reflect the effects of the pandemic. * Per Epson researchFY2019 Review
+We developed the robot market by recommending solutions that leverage new products and applications.
+Robot sales were soft compared to last year primarily due to U.S.-China trade friction and a weak investment appetite due to the COVID-19 pandemic.
+FY2020 Actions
+Analyze and accelerate the execution of strategies and actions based on risks and opportunities during and after the pandemic.
+Accumulate application case studies by expanding internal use and respond to the automation requirements of customers.
+Examine open innovation and collaboration to further grow the business.In addition to efficient, compact, and precision technologies, Epson has image processing, sensing, and a host of other technologies developed in its other businesses. Moreover, Epson can combine these with the automation expertise it has gained on its own production floors to provide compact, slim, lightweight, energy-efficient robotic solutions of unrivaled speed, accuracy, and usability. With sales companies and manufacturing sites around the world, we will quickly identify customer needs and rapidly respond to even the most exacting requirements.
+We will continue to evolve these strengths from a customer perspective, contribute to the development of diverse industries, and build robotics into a core business.

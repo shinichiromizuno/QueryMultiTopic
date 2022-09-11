@@ -1,0 +1,31 @@
+Growth Strategy Priority Markets
+Related businesses
+■ Industrial & Automotive Components Group ■ Semiconductor Components Group
+■ Electronic Devices Group
+■ Communications Group
+● Development of the AI Recognition Camera and Camera-LIDAR Fusion Sensor
+■ Document Solutions Group ■ Life & Environment Group
+ AI Recognition Camera
+Kyocera has developed a compact automotive AI recognition camera with low power consumption. Advanced recognition technology makes it possible to reliably detect objects such as people and vehicles even when they are partially obscured. Objects such as pedestrians and vehicles captured by the car’s front or rear camera can be instantly recognized with a high degree of accuracy, and the driver notified of the danger.
+   Camera-LIDAR Fusion Sensor
+LIDAR is considered to be a key device in order to realize automated driving and, as the vehicle’s “eyes,” requires high-precision sensing. LIDAR measures distance using light and, by integrating it with an image sensor, we are developing our high-precision Camera-LIDAR Fusion Sensor which has no parallax or distortion differences.
+Camera view
+LIDAR view
+Camera-LIDAR composite view
+ ● Autonomous Driving on Bus Rapid Transport (BRT) Lines
+Kyocera is participating in the Mobility Innovation Consortium led by East Japan Railway Company (JR East). The BRT operates on railway lines that were paved over after being damaged in the Great East Japan Earthquake. The consortium is testing technologies to make BRT self-driving. We are engaged in the development of a collaborative system that will support automated driving and operational safety by gathering and transmitting peripheral dynamic data from roadside units.
+Camera-LIDAR Fusion Sensor (concept model)
+ BRT self-driving bus (Image courtesy of JTEKT Corporation)
+     Roadside Unit
+Wi-Fi® Bluetooth®
+Compatible with multiple transmission methods
+Gathering and transmitting peripheral dynamic data from roadside units
+(Such as positional data about pedestrians and vehicles)
+Collaborative control at an intersection without traffic lights
+FIR (Far infrared) Camera
+FIR (Far infrared) Camera image
+   Source: “Automated Driving System Market 2019” Yano Research Institute Ltd. (Mar. 2019)
+* Wi-Fi® is the registered trademark of Wi-Fi Alliance.
+* The Bluetooth® word mark and logos are registered trademarks owned by Bluetooth SIG, Inc., and any use of such
+marks by Kyocera Corporation is under license.
+KYOCERA INTEGRATED REPORT 2020 18

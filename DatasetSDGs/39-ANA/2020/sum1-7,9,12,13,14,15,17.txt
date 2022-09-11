@@ -1,0 +1,125 @@
+ Sustainability Initiatives
+ MATERIAL ISSUES
+Please visit our corporate website for more: https://www.ana.co.jp/group/en/csr/environment/
+Progress Report: ANA FLY ECO 2020 Medium- to Long-Term Environmental Plan for FY2012–2020
+     Reduction of 20%
+(vs. Fiscal 2005 levels) in CO2 emissions
+per revenue ton-kilometers on international and domestic routes
+Limit total domestic route CO2 emissions to
+under 4.4 million tons / year on average
+Fiscal 2019
+Limited to 4.0 million tons
+Reduce ground operations energy consumption by
+1% annually on an intensity basis
+(compliance with the Act on the Rational Use of Energy)
+Fiscal 2019
+9.1% reduction
+vs. previous fiscal year
+Fiscal 2005
+1.25 kgCO2/RTK
+Fiscal 2019 1.01kgCO2/RTK
+ Basic Approach
+The ANA Group has introduced the ANA Group Environmental Principles and the ANA Group Environmental Policies. These principles and policies build on the ANA FLY ECO 2020 medium- to long-term environmental plan from fiscal 2012 to fiscal 2020 and include initiatives for reducing environmental impact. We recognize that global environmental issues, including climate change and biodiversity conservation, are quintessential management tasks, and we will continue striving to reduce our environmental impact.
+In fiscal 2020, the final year of ANA FLY ECO 2020, we have formulated long-term targets looking ahead to the year 2050. We are proceeding with the formulation of a medium-term environmental plan leading to the year 2030 to help us achieve these long-term targets.
+Complete implementation of noise control measures for international and domestic flight aircraft
+Complete implementation of air pollution control measures for international and domestic flight aircraft
+Fiscal 2019
+100% Compliance with ICAO Emission Standards for all
+aircraft (including leased aircraft)
+Introduction of Lightweight Cabin Seats
+We adopted aircraft seats devel-
+oped jointly with Toyota Boshoku Corporation on domestic routes.
+These seats allow us to reduce
+weight in-cabin by 195kg across
+all aircraft versus traditional specifications. In turn, this
+weight reduction has led to a
+reduction of approximately 15kl
+in annual fuel consumption per aircraft.
+Use single-engine taxiing and reduce usage of thrust reversers
+While still ensuring safety, we can reduce the use of thrust reversers during landing, limiting engine output, and taxiing on the ground with a single engine after landing. These measures will lead to reduced CO2 emissions.
+Engine cleaning
+We can restore engine performance
+through regular cleaning of inside components using water. This main- tenance has been proved to lower
+the combustion temperature of the
+engine, improve fuel efficiency, and
+reduce CO2 emissions by approximately 1%.
+   Fiscal 2019 100%
+Compliance with ICAO Chapter 4 Noise Standard for all aircraft (including leased aircraft)
+  Global Trends
+The aviation industry is heavily dependent on fossil fuels, with approximately 2% of all CO2 emitted around the world said to be generated from the aviation field.
+In recent years, there has been a growing sense of crisis about climate change issues, and the aviation industry is accel- erating its efforts to reduce CO2.
+The Paris Agreement was adopted at the 2015 United Nations Climate Change Conference (COP21).
+Prior to this, Carbon Neutral Growth 2020 (CNG2020) had been adopted in the aviation sector following a resolution of the 2010 ICAO (International Civil Aviation Organization) Assembly. The target of CNG2020 is to keep the global net carbon emis- sions from international aviation from 2021 at the same level.
+Additionally, the International Air Transport Association (IATA) has set the ambitious goal of reducing CO2 net carbon emissions by 50% by the year 2050 compared to 2005.
+Other initiatives have advanced across the industry to curb CO2 emissions. These initiatives include the adoption in the
+Information Disclosure on Response to Climate Change
+Initiatives to Curb CO2 Emissions
+Adopt New Technologies
+Introduction of Fuel-Efficient Aircraft
+The ANA Group is actively introducing state-of-the-art aircraft to reduce CO2 emissions from aircraft. These aircraft include the Boeing 787 and Airbus A320neo / A321neo, which feature excellent fuel efficiency. As of the end of March 2020, fuel- efficient aircraft accounted for 70.3% of the Group fleet. The ANA Group is also a launch customer for the Boeing 787. Consisting of 73 aircraft, our Boeing 787 fleet is the largest among the world’s airlines.
+Improve Flight Operations
+ 2016 ICAO Assembly of the Carbon Offsetting and Reduction Scheme, which is a scheme for achieving the CNG2020 goal.
+CO2 Emissions Forecast and Reduction Targets
+ CO2 Emissions
+100 50
+2005
+Emissions based on current, unchanged trajectory Carbon Neutral Growth 2020 Change in total emissions
+Improve flight operations
+Adopt new technologies
+Introduction of SAF
+CNG2020
+50% reduction by 2050
+2050
+   2010
+2020 2030
+2040
+Drafted based on the IATA Vision
+  CDP
+Disclosure of information on corporate strategies for CO2 emissions and climate change.
+TCFD
+Science Based Targets (SBT)
+Greenhouse gas reduction targets based on scientific evidence consistent with the Paris Agreement. The ANA Group declared our commitment to the SBTs in May 2020. We are participating in a technical subcom- mittee creating reduction targets and rules for the aviation sector.
+    54
+55
+Disclosure of information analyzing the risks and opportunities posed by climate change to our business.
+Sustainability Initiatives
+ ENVIRONMENT
+Introduction of Sustainable Aviation Fuel (SAF)
+To prevent increasing CO2 emissions for 2021 and beyond, the ICAO Assembly adopted the use of renewable aviation fuels other than the conventional fossil fuels. This development requires the use of SAF, jet fuel made from sustainable sources such as veg- etable oil, animal fat, and waste biomass. Considering the SAF life cycle, it is preferable that SAF be locally produced for local con- sumption. Therefore, we are pursuing efforts toward the adoption of SAF together with relevant institutions and businesses inside and outside Japan for stable production both domestically and overseas.
+In October 2019, ANA received delivery at Haneda Airport of
+a new Boeing 777-300ER from the manufacturer’s Everett plant (Washington State, U.S.A.). This aircraft uses exhaust gas-derived SAF manufactured by U.S.-based LanzaTech. For this flight, ANA not only purchased and used SAF but also took the lead in trans- porting SAF from the factory, mixing the fuel, inspecting quality, and refueling. In this way, we acted as the main player throughout the supply chain.
+IATA-Hosted SAF Symposium Lecture (New Orleans, U.S.A.)
+The IATA hosted the SAF Symposium in New Orleans in November 2019.
+As a panelist, ANA stated that we would work with governments, related institu- tions, and businesses to ensure the stable production of SAF in Japan as well.
+Utilize Emission Trading Schemes (Purchase CO2 Emissions Credits)
+We are exploring the potential for using ICAO-approved programs to trade emission credits (purchase CO2 credits), since it will become mandatory to offset increased CO2 emissions on and after 2021. We recognize that these credits are also an effective method for offset reduction.
+Initiatives in Non-Aircraft Operations
+Based on energy management standards established uniquely for and by the ANA Group, we reduced CO2 generated outside of aircraft operations by 4.4% compared with the previous fiscal year. We achieved this result by upgrading Group-owned and leased facilities with energy-saving equipment and by using renewable energy, including solar power generated in-house. In fiscal 2020, we began purchasing and expanding our use of electricity from renewable sources.
+ANA, ANA Catering Service Co., Ltd., and ANA Foods Co., Ltd. received the Excellence in Energy Efficiency Award (S Class) certifi- cation under the Act on the Rational Use of Energy of the Ministry of Trade, Economy and Industry for a fifth consecutive year.
+Initiatives to Reduce Environmental Impact
+Carbon Offset Program
+In response to customer feedback, the ANA Group now offers the ANA Carbon Offset Program by class on domestic and international routes. This program is a mechanism to offset the amount of CO2 emitted by aircraft. We have chosen projects to support via this program that meet certain certification stan- dards (J-VER, VCS, Gold Standard CER).
+Initiatives as an Eco-First Certified Company
+In 2008, ANA became the first in the transportation industry and the first airline to become a certified Eco-First Company. We received this honor in recognition of our environmental initia-
+tives and corporate stance that emphasizes social responsibility.
+One specific initiative recognized was our work to reduce environmental impact by recycling resources. Our efforts here include waste separation (glass bottles, PET bottles, and cans) generated on all international flights arriving in Japan.
+Reduce Food Waste
+We have expanded in-flight meal reservations in First Class and Business Class sections of our international flights. This service helps us meet passenger requests for in-flight meals and elimi- nate the need to load extra meals. This service improves cus- tomer satisfaction, while reducing food waste.
+ALL NIPPON AIRWAYS TRADING Co., Ltd. contributes
+to the reduction of food waste by donating surplus food and beverage inventories resulting from the replacement of in-flight products for sale on domestic routes. Donations are made to Second Harvest Japan*, a certified NPO.
+* Japan’s first food bank, collecting foods that would otherwise become food loss and delivering it to people in need
+Exchanging Disposable Plastics for Eco-Friendly Materials
+By the end of fiscal 2020, approximately 70% of the total weight of all disposable plastic products used in-flight and in airport lounges will be eco-friendly materials, such as paper and bio- plastics. In addition, ANA supports the Plastics Smart campaign sponsored by the Ministry of the Environment, and we are engaged in further initiatives in this area.
+year, in collaboration with TRAFFIC*1, ANA created an educa- tional program in partnership with ROUTES*2, and we offer education programs both inside and outside the Company. In December 2019, we held a workshop for airport staff in collabo- ration with NARITA INTERNATIONAL AIRPORT CORPORATION.
+Support for the Keidanren Declaration of Biodiversity
+In June 2020, we announced our support for the Revision to Declaration of Biodiversity by Keidanren and Action Guidelines toward the realization of a sustainable society through the construction of a world that coexists with nature (a society in harmony with nature).
+*1 TRAFFIC: An NGO that surveys and monitors wildlife trade. A joint venture between the World Wildlife Fund (WWF) and the International Union for Conservation of Nature (IUCN). TRAFFIC sponsors activities through a global network, mainly through bases in ten countries. https://www.traffic.org/
+*2 ROUTES: Abbreviation of Reducing Opportunities for Unlawful Transport of Endangered Species. ROUTES is an international collaborative platform for dealing with criminal activities involving the illegal trade of wild animals. The organization implements a variety of programs, mainly in countries / regions where illegal transac- tions occur frequently.
+          Taking Action for Biodiversity
+Initiatives for Environmental and Ecosystem Conservation
+The ANA Group continues to be engaged in environmental conservation activities. Group employees participate in activi- ties that include the ANA Forest of the Heart project in Minami Sanriku, Miyagi Prefecture, as well as invasive plant control activities at Yambaru National Park in Okinawa Prefecture, the Team Chura Sango coral reef conservation project in Onnason Village, and more.
+In 2018, ANA signed the Buckingham Palace Declaration, a statement aimed at eradicating illegal wildlife trade. That same
+     56
+Education program booklet
+Workshop on eradication of illegal wildlife trade
+57

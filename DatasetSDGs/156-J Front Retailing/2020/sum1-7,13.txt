@@ -1,0 +1,188 @@
+Sustainability▶ Contribution to a Low-carbon Society   Background
+Climate change and other environmental issues are becoming increasingly serious in the world today. Natural disasters, such as typhoons and heavy rains, are frequently occurring in Japan, making it impossible for companies to overlook their efforts to deal with climate change.
+Long-term targets
+2030 40% reduction of Scope 1 and 2 GHG emissions (vs. FY2017)*
+*Approved by SBTi
+2050 Zero Scope 1 and 2 GHG emissions
+Outline of actions
+Among the five materiality issues of the Group, we consider “contribution to a low-carbon society” to be our top priority. In order to deal with climate change, we are promoting company-wide initiatives such as the formulation of action plans for achieving medium- and long-term targets.
+Major actions in FY2019 (partially in FY2020)
+Future direction
+In addition to efforts to reduce GHG emissions, the Group is working to increae environmentally friendly stores and promote circular economy. Through these initiatives, the Group will achieve sustainable growth through “contribution to a low-carbon society” as corporate activities.
+   ● Approved by SBTi
+● Rated “A-” in CDP climate change 2019
+● Grand opening of ESG model stores
+● Introduced environmental management system ● Obtained third-party assurance for Scope 1
+and 2 energy consumption and GHG emissions
+● Switched to renewable energy, introduced energy-saving equipment and high-efficiency equipment, and made the transition of the company fleet to EVs
+● Prepared to join RE100 (planned to join in Oct 2020)
+ FY2019YoYEmissions (t-CO2)Reduction (t-CO2)% reductionTarget
+174,994
+(7,572)
+(3.9)Result162,508(20,058)(11.0)
+Contribution to a Low-carbon Society
+Approved by SBTi
+ In October 2019, our GHG emissions reduction targets were approved as science-based reduction targets by the international Science Based Targets initiative (SBTi). The targets set by the Group was approved under the second strictest category of “well-below
+2°C”-aligned targets. The Group is actively taking measures to achieve the GHG emissions reduction targets approved by the SBTi.
+Grand opening of ESG model stores
+We are promoting the creation of environmentally conscious stores with the aim of “realizing a sustainable society.” The main building of the Daimaru Shinsaibashi store and Shibuya PARCO opened as ESG model stores in September and November 2019, respectively. The main building and south wing of the Daimaru Shinsaibashi store switched to 100% renewable energy for all power needs. Shibuya PARCO was chosen by the Ministry of Land, Infrastructure, Transport and Tourism as a “Leading Sustainable Building Project (CO2 Reduction Leader).” Going forward, we will expand the results of this initiative to other stores.
+Switch to renewable energy
+Given that approximately 80% of our Scope 1 and 2 GHG emissions come from electricity use at our stores, we believe that our efforts to reduce GHG emissions should focus on the use of electricity. Daimaru Matsuzakaya Department Stores switched to renewable energy at its head office building (Koto-ku, Tokyo) in March 2019, at
+the Daimaru Shinsaibashi store (the main building and south wing) in September, and Ikebukuro PARCO (P’PARCO) and Chofu PARCO in October 2019.
+We will continue to promote the switch to renewable energy, mainly at the main stores of Daimaru Matsuzakaya Department Stores and PARCO and aim to join the “RE100 (Renewable Energy 100%)” initiative by the end of fiscal 2020.
+Acquired third-party assurance for Scope 1 and 2 energy consumption and GHG emissions in fiscal 2019
+In July 2020, we obtained an independent assurance statement from Lloyd’s Register Quality Assurance Limited (LRQA) regarding the methods for calculating energy use and GHG emissions in Scope 1 and 2 in fiscal 2019 and their appropriateness, and for the first
+time, regarding the methods for calculating GHG emissions in Scope 3 and their appropriateness. We will continue to use the newly introduced environmental performance data management system to strengthen environmental governance. 
+▶ FY2019 Scope 1 and 2 GHG emissions reduction targets and the results of GHG emissions
+Sustainability
+  Integrated Report 2020 47
+ Sustainability▶ Contribution to a Low-carbon Society
+ The J. Front Retailing Group (the “Group”) considers climate change to be a top priority for sustainability management and recognizes that the risks and opportunities associated with climate change have a significant impact on its business strategies. In May 2019, we expressed our support for the final report of the Climate-related Financial Disclosure Task Force (TCFD) (TCFD Recommendations) established by the Financial Stability Board (FSB). The TCFD Recommendations recommend that companies disclose information on four core elements including “governance,” “risk management,” “strategy,” and “indicators and targets” based on the belief that investors’ accurate understanding of the impact of climate-related risks and opportunities
+on the financial condition of investees leads to appropriate investment decisions.
+In order to achieve the mid- to long-term targets for “contribution to a low-carbon society,” which is our most important
+materiality issue, we are working to reduce energy consumption, use energy more efficiently, and introduce renewable energy. At the same time, we are working to further enhance the disclosure of information in line with the TCFD Recommendations.
+  Possible world
+  Existing scenario
+  Below 1.5 to 2°C scenario
+“Below 2 Degree Scenario (B2DS)” (IEA, 2017) “Sustainable Development Scenario (SDS)” (IEA, 2019) “Representative Concentration Pathways (RCP2.6)”
+(IPCC, 2014)
+  3°C scenario
+ “Stated Policy Scenario (STEPS)” (IEA, 2019) “Representative Concentration Pathways (RCP6.0)” (IPCC, 2014)
+ Climate Change Responses and Information Disclosure in Line with TCFD Recommendations
+Governance concerning environmental issues
+In fiscal 2019, we established the Sustainability Committee to promote sustainability management across the Group in a cross-organizational manner. The Sustainability Committee formulates action plans for the Group’s environmental issues and monitors their progress. The Board of Directors discusses and supervises the content of these plans.
+The Group Management Meeting, the highest decision- making body in business execution, deliberates on specific measures for addressing environmental issues, and the decisions are reported to the Board of Directors. The President and Representative Executive Officer, who chairs the Group Management Meeting, also serves as the chairperson of the Risk Management Meeting and the Sustainability Committee, both of which are advisory committees under his direct supervision, and assumes the ultimate responsibility for strategic decision-making related to environmental issues. Under the supervisory system of the Board of Directors, we are strengthening governance in environmental management.
+▶ Environmental management structure Board of Directors
+Risk management
+We believe it is important to position risks (uncertainties) as the starting point of our strategy and to establish a system to manage them on a company-wide basis. The Risk Management Committee identifies and evaluates risks based on external environmental analysis, narrows them down to the risks that need to be preferentially addressed, and reflects them in the Group’s strategies.
+The Sustainability Committee conducts more detailed examinations of the risks identified by the Risk Management Committee regarding environmental issues, and shares the results with operating companies. The Group Management Meeting, the Risk Management Committee and the Sustainability Committee monitor the progress, and finally, report to the Board of Directors.
+Strategy
+We conducted a scenario analysis to assess the risks, opportunities and financial impact given by climate change to the Group.
+In order to conduct a scenario analysis, we assumed two possible worlds including a below 2°C scenario, which is the Paris Agreement’s goal, and a 3°C scenario in which all national climate-related policy objectives are met with reference to existing scenarios published by the International Energy Agency (IEA) and the Intergovernmental Panel on Climate Change (IPCC) *.
+Based on the above scenarios, we analyze the impact of climate change on our business, consider countermeasures, and verify the Group’s strategic resilience.
+*Existing scenarios referred to
+    Supervision
+President and Representative Executive Officer
+Instruction/ report
+The Group Management Meeting
+ESG Promotion Division
+Report/ resolution
+Risk Management Committees
+Cooperation
+Sustainability Committees
+Report/ resolution
+Instruction/ report
+Operating companies
+Instruction/ report
+            48
+
+▶ Overview of the Group’s risks and opportunities and their impact on business/finance in each scenario
+Financial impact on the Group in 2030
+The Group believes that, among the estimated financial impacts for 2030, the introduction of a carbon tax* and fluctuations in renewable energy- derived electricity charges in Japan will be particularly important parameters (indicators). Therefore, for these two parameters, we quantitatively estimate the financial impact on the Group in the below 1.5 to 2°C scenario and the 3°C scenario.
+* Taxes levied on emissions of carbon dioxide (CO2), which is the main cause of climate change
+Assumptions for 2030
+● Carbon tax price in developed countries: $100/t-CO2 (below 1.5 to 2°C scenario), $33/t-CO2 (3°C scenario) ● The Group’s GHG emissions: 116,492 t-CO2 (40% reduction vs. FY2017)
+● Renewable energy-derived electricity rate: Increase of 1 to 4 yen/kWh (vs. electricity rate other than
+renewable energy)
+● The Group’s usage of renewable energy-derived electricity: 164,450MWh (ratio of renewable energy: 50%)
+Sustainability
+ The degree of impact on business/finance is shown qualitatively by the slope of the arrows in the table in three stages.
+ :The impact on the Group’s business/finance is expected to be very large.  :The impact on the Group’s business/finance is expected to be slightly large.  :The impact on the Group’s business/finance is expected to be negligible.
+  Risk/opportunity type
+ Overview of the Group’s risks/opportunities
+ Financial Impact
+ Below 1.5 to 2°C scenario
+  3°C scenario
+   Transition risk
+ Policy Regulation
+  ● Increase in operation costs associated with the introduction of policies to control GHG emissions, such as carbon taxes (carbon pricing) and the strengthening of regulations
+● Increased disclosure obligations related to GHG emissions and the risk of fines due to inadequate response
+       Market
+● Loss of growth opportunities due to a delay in response to market changes such as increased demand for low-carbon products and services resulting from changes in consumer behavior and increased customer awareness of environmental issues
+● Loss of growth opportunities due to a delay in response to increased risk of infectious diseases caused by climate change
+   Physical risk
+ Acute
+  ● Loss of sales opportunities for products and services resulting from disruption of procurement and logistics routes due to natural disasters caused by climate change
+● Damage to stores and offices and suspension of operations due to natural disasters caused by climate change
+● Loss of sales opportunities in stores due to increased risk of infectious diseases (COVID-19, etc.) caused by
+climate change
+      Energy source
+● Reduction in operation costs due to the use of low-carbon energy sources
+● Reduction in costs resulting from the use of new technologies
+● Energy resilience by participating in the carbon market and shifting to energy diversification
+● Reduction in operation costs due to the introduction of the latest energy-efficient equipment
+● Avoidance of energy procurement risks resulting from promoting renewable energy and energy conservation
+     Market
+  ● Improvement of profitability by restructuring the business portfolio as a Multi Service Retailer and focusing on markets where growth is expected in line with changes in consumer behavior and an increase in customer awareness concerning environmental issues
+● Expansion of new growth opportunities by addressing increased risk of infectious diseases caused by climate change
+       Important parameter (indicator)
+ Financial impact on the Group in 2030
+ Item
+ Blow 1.5 to 2°C scenario
+ 3°C scenario
+ Carbon tax
+  ● Carbon tax (thousand yen/t-CO2)
+ 10
+ 3.3
+ ● Increase in costs due to carbon tax (millions of yen)
+  1,165
+  384
+ Renewable energy-derived electricity rates
+ ● Increase in renewable energy-derived electricity rates (yen/kWh)
+1~4
+ ● Increase in procurement costs of renewable energy-derived electricity (millions of yen)
+  164~658
+  Initiatives in response to risks and opportunities based on climate-related scenarios
+Based on these scenario analyses, we are working to reduce Scope 1 and 2 GHG emissions from our business activities, as well as Scope 3 GHG emissions in our supply chain. We are also strengthening and promoting initiatives to contribute to local communities through the creation of sustainable stores.
+Indicators and targets
+Based on the above strategies for achieving the below 1.5 to 2°C scenario, the Group has set medium- and long-
+term targets for reducing GHG emissions, which were approved by the SBTi.
+In order to achieve our mid- and long-term targets for climate change, we will continue to work actively on a company-wide basis by strengthening our corporate governance functions, such as reducing energy consumption, improving efficiency in use, and introducing renewable energy.
+ Target year
+ Details of targets
+ 2030
+40% reduction of Scope 1, 2, and 3 GHG emissions (vs. FY2017)* *Approved by SBTi
+ 2050
+ Zero Scope 1 and 2 GHG emissions
+ Integrated Report 2020 49
+Risk Opportunity
+
+Sustainability▶ Management of the Entire Supply Chain   Background
+With the globalization of the economy and the diversification of stakeholders’ needs, the entire supply chain is expected to deal with environmental and human rights issues when procuring goods and materials. In addition, the impact of COVID-19 has caused supply chain disruptions and the need for the establishment of a sustainable supply chain is increasing further.
+Long-term targets
+2030 100% penetration of JFR Principles of Action for Suppliers
+2030 Aim for 40% reduction of Scope 3 GHG emissions (vs. FY2017) *Approved by SBTi
+Outline of actions
+In order to build a socially responsible supply chain, we have added an environmental and social axes to our procurement standards and strengthen our supply chain assessment to ascertain the status of our suppliers and conduct education and support activities for sustainable procurement both inside and outside the Company.
+Future direction
+We will make efforts to disseminate the JFR Principles of Action for Suppliers, conduct supply chain assessments, strengthen human rights initiatives, and reduce GHG emissions throughout the supply chain. In addition, to realize the CSV strategy, we will select new suppliers considering environmental and social issues, and develop environmentally friendly products.
+   Major actions in fiscal 2019 (partially in fiscal 2020)
+● Formulated JFR Principles of Action and JFR Principles of Action for Suppliers
+● Asked suppliers to support (sent out the Principles of Action and held briefing sessions for suppliers)
+● Calculated Scope 3 GHG emissions and acquired third- party assurance
+● Switched to environmentally conscious packaging materials ● Ecoff project
+ Management of the Entire Supply Chain
+Formulated JFR Principles of Action for Suppliers and asked suppliers to support
+In June 2019, the Group formulated the JFR Principles of Action for Suppliers, which outline corporate activities that will lead to the creation of a sustainable society, which will be realized in cooperation with suppliers.
+These Principles of Action were sent to the representatives of our suppliers and we asked them to support our views and rules (sent to 8,727 companies as of the end of November 2019). In October 2019, Daimaru Matsuzakaya Department Stores held a “JFR Principles of Action for Suppliers briefing session” in Tokyo and Osaka at the same time and 652 people from 530 companies participated. We will continue
+to fulfill our social
+responsibilities
+together with our
+suppliers and
+contribute to
+enhancing the
+corporate values
+of both parties.
+JFR Principles of Action for Suppliers briefing session held by Daimaru Matsuzakaya Department Stores
+Calculation of Scope 3 and acquisition of third-party assurance
+The Group has also set SBTi-approved long-term targets for reducing GHG emissions from the supply chain (Scope 3) and is working to achieve these targets.
+In fiscal 2020, in addition to Scope 1 and 2, we will acquire third-party assurance for Scope 3 to increase objectivity and transparency and work to reduce GHG emissions across the supply chain.
+Switch to environmentally conscious packaging materials
+In September 2019, Daimaru Matsuzakaya Department Stores switched to shopping bags made from paper sourced from the forests that are managed in an eco-friendly way. Also regarding food plastic bags, which are attracting attention concerning the marine plastic waste problem, we switched to products made from 30% biomass (plant-based resources) and could reduce GHG emissions by about 24% per piece compared to previous products. In June 2020, we began charging fees for Daimaru Matsuzakaya Department Stores original plastic bags and paper bags for food products.
+   50
+Shopping bags made from forest-certified paper
+Plastic shopping bags made from 30% biomass
+Sustainable project with customer participation “Ecoff”
+Daimaru Matsuzakaya Department Stores implements the “Ecoff” project to reduce environmental impact by collecting disused clothing, bags, and shoes from customers at stores and recycling and reusing them. This project offers shopping support tickets in accordance with the number of items collected. Therefore, many customers participate in this project as a circular shopping and recycling campaign that allows customers not only to participate in the eco-friendly activity but also to shop economically.
+At present, nine of our stores nationwide have set up permanent boxes for collection and donated a substantial portion of unused tickets to environmental protection organizations.
+(Total number of collected items: 2,322,021 as of November 2019)

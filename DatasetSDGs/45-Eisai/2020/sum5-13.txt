@@ -1,0 +1,368 @@
+Social and Relationship Capital Initiatives for Achieving Sustainable Development Goals (SDGs)/ESG Indices A LIST in CDP report 2019
+Proactively Work toward the Solution of Global Environment and Social Issues under Well-Established Governance
+  Eisai aims to enhance corporate value by creating social value. The origin of this idea is “human health care (hhc),” which is Eisai’s corporate philosophy. Eisai’s corporate activities rely on the idea that economic value is created as a result of social value creation.
+We believe that the continuous realization of “hhc” is a mission for all Eisai employees. We are working on this realization, recognizing that it is important to contribute to the unmet medical needs of the world through our business activities and continue to create value for society. As part of these efforts, the CEO, other executives in charge of ESG (Environment, Society, and Governance), and employees gather together and hold a “Sustainability Advisory Board” to discuss sustainability, and receive advice from external advisors once a year. We discussed actions for climate change and human rights in addition to Access to Medicines (ATM) in the Board in fiscal 2019. Eisai will continue to strive for further sustainability.●Access to Medicines (ATM)
+ Elimination of lymphatic filariasis (LF), Initiatives for global healthcare
+●Human Rights
+ Initiatives for human rights due diligence
+Enhancement of Eisai’s corporate value
+◉Continuous realization of “hhc”
+●Initiatives for SDGs
+●Adherence to the United Nations Global Compact (UNGC)●Environment
+ Initiatives for a low carbon society,
+ Endorsement of Task Force on Climate-related  Financial Disclosures (TCFD)
+Corporate philosophy “hhc” *● stands for factor of social value creation
+ ■ Rated “A” in the CDP*1 Climate Change Report 2019
+Eisai conducts business operations seeking co- existence with the global environment. Based on the Eisai Network Companies (ENW) Environmental Protection Policy, all employees recognize the importance of environmental protection and incorporate an environmental perspective in working to solve social issues. In promoting business expansion into countries across the world, Eisai will fulfill its corporate social responsibility by focusing on reducing environmental impact at each stage of business.
+We were rated “A,” the highest rating in the CDP
+Expanding use of renewable energy*2
+We are working to switch to renewable energy in production sites and R&D sites that consume the most energy group-wide. In fiscal 2019, we switched to renewable energy with green electricity certificate at the Vizag Plant in India, and at the Suzhou and Benxi Plants in China. In fiscal 2020, we aim to achieve the renewable energy ratio target by switching the energy usage of the headquarters building group and part of the Tsukuba Research Laboratory.
+Climate Change Report 2019, based on the evaluation of answers to the CDP Climate Change Questionnaire. In fiscal 2019, 8,400 companies responded worldwide, of which 180 were companies with an “A” rating and 38 were Japanese companies. The A list companies are recognized as taking advanced approaches to climate change issues, and are expected to continue to demonstrate global leadership to respond to environmental risks and contribute the building of a sustainable economy.
+●Trend of renewable energy introduction ratio
+ (%) 30
+20
+10
+0.6 0.6
+28.0
+0
+2016
+2017 2018 2019
+2020 (fiscal year)
+3.8
+22.2
+61
+Initiatives for a low-carbon society Reduce CO2 emissions by 30% from fiscal 2016 by fiscal 2030
+We are promoting initiatives for the formation of a low carbon society to help solve the problem of climate change. As one of the initiatives, we set the greenhouse gas (GHG) reduction target by fiscal 2030 based on scientific grounds and received the approval from “Science Based Targets initiative (SBTi)”*3 in May 2019. We are making efforts to decrease CO2 emissions by 40,000t globally to realize low carbon society.
+*1 CDP (former name: Carbon Disclosure Project) is an NGO founded in London in 2001. It sends inquiries to the world’s top companies on behalf of institutional investors with assets under management of 96 trillion USD, analyzes and evaluates the answers, and then represents the results to investors, governments and companies. The information from CDP is considered to be a key factor for ESG investment.
+*2 Energy that is always present in the natural world, such as sunlight, wind power, and geothermal energy, that “is not exhausted,” “is present everywhere,” and “does not emit CO2.”
+*3 SBTi helps companies set reduction targets to keep average global temperature rises below 1.5 degrees Celsius since the Industrial Revolution. CDP, United Nations Global Compact, World
+Resources Institute (WRI), and World Wildlife Fund (WWF) Japan jointly established SBTi in 2015.
+■ Improving Resilience to Climate-Related Risks
+Analysis of Impact of Climate Change Based on TCFD Frameworks
+ Eisai tried scenario analysis from October 2019 to March 2020 in accordance with the Final Report “Recommendations by the Task Force on Climate Change Disclosure” released by the Financial Stability Board (FSB) Task Force on Climate-related Financial Disclosures (TCFD) in 2017. Setting two scenarios, one with large GHG emissions and a temperature rise of 4
+degrees Celsius since the Industrial Revolution in 2100, and one with a strict climate change policy that limits the temperature rise in 2100 to within 1.5 degrees Celsius, we executed financial impact analysis of physical risks and transition risks due to climate change, and did mapping on the three axes of magnitude of financial impact, probability of occurrence, and timing of occurrence.
+   Production
+Procurement
+Stable supply
+R
+Developing countries
+Market Reputation
+Obstacles to the operation of domestic and overseas locations due to typhoons, heavy rain, floods, etc.
+Necessity of backup system for business sites vulnerable to natural disasters Impact on production activities due to power outages due to natural disasters
+Delays in procurement items due to typhoons, heavy rain, floods, etc., and obstacles to transportation
+Difficulty in obtaining raw materials due to climate change and temperature rise, quality deterioration, and purchase price increase
+Insufficient supply of necessary medicines to meet growing healthcare needs during natural disasters
+Increased health risks due to climate change, reduced access to medicines Aggravation of poverty
+Rising demand for conversion to environmentally friendly raw materials and products
+Revenue
+(A) Additional spending demands on rising health risks and lower access to medicines due to climate change
+(B) Rising raw material prices due to natural disasters
+(C) Loss due to production trouble due to natural disasters
+(D) Transition costs to environmentally friendly packaging
+(E) Rising raw material, logistics, and energy costs associated with rising carbon prices (F) Increase in insurance premiums due to an increase in natural disasters, contributions,
+etc.
+(G) Decrease in sales due to operation and logistics obstacles due to natural disasters
+(H) Investment for production backup system due to increase in natural disasters (I) Fixed asset loss due to natural disasters
+(J) Capital investment due to stricter regulations
+(K) Deterioration of reputation due to insufficient GHG emission reduction measures
+(L) Deterioration of reputation due to inability to supply necessary medicines during natural disasters
+Financial impact due to climate change
+ Operating cost
+ egions Delay in restoration of local infrastructure and resources due to natural disasters
+   Regulation
+Higher production and logistics costs due to higher prices for fuel, electricity, etc.
+Cost increases at our own and suppliers’ factories due to stricter environmental regulations (energy use limits, water use limits, etc.) , obstacles to operations
+Risk of non-attainment of GHG reduction at suppliers
+Risk of raw material shortage due to tightening regulations in the materials supply industry
+   Assets
+   Access to capital
+  Increasing demand for GHG emission reduction (reputation risk when measures are insufficient)
+■Operating cost ■Revenue ■Assets ■Access to capital
+         Small
+Middle Probability
+Large
+62
+Eisai Integrated Report 2020
+Medium- to long-term
+Time of emergence
+Short-term/Unknown
+Company Introduction Management Strategies Value Creation Activities Financial Base Initiatives to Enhance Non-Financial Capital Appendix
+Financial impact
+(L) Inability to supply necessary medicines
+(G) Production/ distribution obstacles
+(I) Fixed asset loss
+(H) Investment for production backup system
+(C) Production trouble
+(B) Rising raw material prices
+(E) Rising carbon prices
+(F) Contributions
+(F) Increase
+of insurance premium
+(A) Lower access to medicines
+(J) Capital investment
+(D) Environmentally friendly packaging
+(K) Insufficient GHG emission reduction measures
+Transition risk
+Physical risk
+
+ As a result, we detected that the largest physical risk is the decline in access to medicines in developing countries and the need for additional cost spending required for improvement. The second is the loss due to production failures and damage to fixed assets due to natural disasters and the amount of continuous investment in the production backup system. We also evaluated that the decrease in sales by the stagnation of product supply due to the suspension of production and logistics was significant.
+In terms of transition risk, we evaluated that the decline in reputation in case GHG reductions were inadequate would have an extremely large impact, and
+Initiatives for physical risks
+Acceleration of initiatives for further improvement of access to medicines and cooperation with external agencies
+Promote development of new drugs for infectious diseases
+Initiatives for unique business models
+Strengthening of BCP at each business site, detailed disaster risk diagnosis, and promotion of hardware measures
+Ensuring employee safety and strengthening BCP at high-risk business sites
+Supply chain resilience enhancement by identifying high-risk suppliers or procured items
+■ Activities Based on Human Rights Policy
+Eisai believes that it is essential for all business activities to be conducted on the basis of respect for human rights, and that this is the foundation of our business activities. The importance of respect for human rights is clearly stated in The Eisai network companies (ENW)
+that the continuous rise in raw material prices due to the continuous rise in carbon prices would also have a large impact. In addition, we evaluated that the replacement cost would be large if we were forced to change the packaging due to increasing environmental demands, including a certain period of time needed for the change as cost.
+To manage these risks, in addition to accelerating the initiatives already underway, we establish a medium- to long-term roadmap for setting and achieving higher goals. We also accelerate the implementation and the disclosure of long-term and sustainable initiatives and measures.
+Initiatives for transition risks
+Verify the cost-effectiveness of reduction measures and formulate concrete action plans for the entire value chain globally
+Clarification of required management resources
+Disclosure of easy-to-understand information on GHG emissions, reduction targets, and results in addition to maintaining CDP evaluation
+Confirm emission status of major suppliers and reduction measures for GHG reduction in the supply chain to achieve SBT
+Early consideration of the priority of switching targets Selection of alternative materials and technologies
+Charter of Business Conduct, which was defined to promote respect for human rights as a company-wide initiative in March 2019. We are promoting activities to fulfill our corporate responsibility for respecting human rights in line with this Charter.
+ Access to Medicines (ATM)
+Resilience against natural disasters
+Supply chain
+ Science Based Targets (SBT) achievement plan
+Supply chain
+Environmentally friendly containers and packaging
+    Human rights due diligence (Initiatives for human rights issues)
+ Stakeholders
+  Priority Issues
+  Actions
+ Patients and other consumers
+Improvement of Access to Medicines (ATM)*1
+Provision of DEC tablets and disease awareness activities to countries with widespread lymphatic filariasis (LF) Participation in Access Accelerated, a global initiative of the International Federation of Pharmaceutical Manufacturers’ Associations (IFPMA) to improve access to prevention, diagnosis and treatment of non-communicable diseases in low and middle income countries
+ Employees*2
+ Acceleration of stay/ improve health activities Support for balancing treatment and work
+ Put “Eisai Health Declaration” into effect to promote 100% consultation rate of health checkups, eliminate smoking at all business sites and improve health literacy
+Established a “Return to Work Support Program” to create an environment in which employees who suffer from illness such as cancer can work while fighting illness. Issued “Guidance for Balancing Treatment and Work”
+ Business partners
+  Human rights respect and proper working environment in supply chain
+  Formed and started a cross-organizational sustainable procurement project in order to conduct a sustainability assessment that includes consideration of human rights, occupational safety, and the environment of our business partners
+Adopted system by EcoVadis as suppliers’ sustainability evaluation method
+    *1 Please refer to pages 65-68 *2 Please refer to pages 69-72
+Internal activities to disseminate respect for human rights
+In order for the respect for human rights to become established as a corporate culture, it is necessary for top management to understand it. Eisai held a training lecture for the Board of Directors and Corporate Officers from an outside expert about responsibility for respecting human rights being required by the international community. In addition, we made every effort to make respect for human rights penetrate the Company by holding training for domestic ENW employees (held 29 times, 6,220 people participated), level-specific training for new employees and organizational managers, and e-learning about business and human rights.
+63
+
+ESG Indices ▲ Items for improvement in future
+Corporate Governance and Compliance Indices
+Ratio of outside directors to directors
+Ratio of female directors to directors
+Ratio of female corporate officers to corporate officers
+Average age of corporate officers
+Total participants (approx.)
+Submission rate of ENW compliance oath
+Period
+At fiscal year
+At fiscal year
+At fiscal year
+At fiscal year
+Annually Annually Annually
+At fiscal year
+Annually Annually
+Period
+Annually Annually
+Period
+At fiscal year
+At fiscal year
+At fiscal year
+At fiscal year
+At fiscal year
+Annually Annually
+Annually Annually Annually
+Annually
+Annually
+Annually
+Annually
+Annually
+Annually Annually Annually
+Annually
+Annually
+Annually Annually
+Annually Annually
+Annually Annually
+Annually
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+FY2010
+63.6% 7/11 9.1% 1/11 0% 0/27 54.8 70 2 6,000 - 23 16,370
+FY2010
+-
+-
+FY2010
+FY2011
+63.6% 7/11 9.1% 1/11 0% 0/18 52.9 84 2 6,000 - 15 5,096
+FY2011
+-
+-
+FY2011
+10,730 5,472 1,843
+873
+1,498 1,044 4,305 3,331
+FY2012
+63.6% 7/11 9.1% 1/11 0% 0/18 52.9 120 2 8,500 - 28 3,123
+FY2012
+-
+-
+FY2012
+10,495 5,320 1,815
+831
+1,454 1,075 4,163 3,228
+FY2013
+63.6% 7/11 9.1% 1/11 4.3% 1/23 53.0 65 2 5,800 - 23 2,452
+FY2013
+3 0.01
+FY2013
+10,419 5,200 1,763
+811
+1,559 1,086 4,130 3,202
+FY2014
+63.6% 7/11 9.1% 1/11 9.1% 2/22 53.1 56 2 5,000 - 28 2,405
+FY2014
+20 0.28
+FY2014
+10,183 4,712 1,719
+893
+1,607 1,252 3,583 2,845
+FY2015
+63.6% 7/11 9.1% 1/11 8.0% 2/25 53.6 47 2 4,600 100.0% 30 5,001
+FY2015
+34 0.60
+FY2015
+9,877 4,523 1,290
+913
+1,875 1,276 3,577 2,838
+739 20.7% 1,292 65 5.0% 11.6% 5/43 44.1 19.9 20.8 16.2 2.6% 3.0% 95 2 93 - 93 198 2.53% 33.3% 35/105 100 66 34 9h 11m 16 0
+FY2016
+63.6% 7/11 9.1% 1/11 14.8% 4/27 52.9 62 2 5,800 100.0% 34 5,457
+FY2016
+31 0.97
+FY2016
+10,452 5,009 1,296
+983
+1,909 1,255 3,508 2,775
+FY2017
+63.6% 7/11 9.1% 1/11 11.1% 3/27 52.9 65 2 4,800 100.0% 34 5,477
+FY2017
+43 1.35
+FY2017
+10,456 4,914 1,240
+1,022
+1,906 1,374 3,436 2,708
+FY2018
+63.6% 7/11 9.1% 1/11 13.8% 4/29 53.2 92 3 6,200 100.0% 34 5,686
+FY2018
+21 1.66
+FY2018
+10,683 4,888 1,261
+1,046
+2,069 1,419 3,411 2,679
+FY2019
+63.6% 7/11 9.1% 1/11 10.0% 3/30 54.2 172 2 7,200 100.0% 29 6,220
+FY2019
+15 1.99
+FY2019
+10,998 4,593 1,682
+1,113
+2,087 1,523 3,212 *1 2,479 *1
+733 22.8% *1 1,203 *2
+116 *2 9.6% *2 23.1% *2
+15/65 45.0 *1 19.9 *1 21.3 *1 15.4 *1
+2.1% *1,3 7.5% *1,4 91 *1,5 8 *1,5 83 *1,5 78 *1,6
+69 *1 259 *1,7
+2.62% 39.8% *1 74/186
+97 *1,8 50 *1,8 47 *1,8
+Scope of data : ■Eisai Group (Eisai Co., Ltd. and Group companies in and outside Japan)
+■Eisai Co., Ltd. ■Eisai Group in Japan (Eisai Co., Ltd. and Group companies in Japan)
+(Data for subsidiaries and businesses transferred is included until the date the transfer was completed)
+          Number of times offered compliance training Number of executive training courses
+Number of times offered
+                   Number of times human rights training offered
+Number of times offered Participants
+        Involvement with Society
+Number of regional agreements
+Cumulative quantity of DEC tablets supplied (billion tablets)
+Involvement with Employees
+                      Number of employees by region
+Number of employees of Eisai Co., Ltd.
+Number of managers
+Total
+Japan
+Americas (North America)
+EMEA (Europe, Middle East, Africa, Russia and Oceania)
+China
+Asia and Latin America
+11,560 5,636 2,559
+1,015
+1,407
+943
+4,415
+3,393
+1,022 23.1% 1,392 42 3.0% 3.6% 2/56 42.3 18.5 19.3 16.1 1.5% 2.5% 70 1 69 - 80 192 2.02% 40.8% 42/103 98 57 41 13h 3m 35 0.44
+                      ▲
+▲
+Turnover rate (self-directed retirement) Total turnover rate
+Number of users of childcare leave program
+Total Male
+Female
+Total
+Female
+Total
+Newly appointed managers
+Total
+Male Female
+Total
+Male Female
+974 22.6% 1,376 43 3.1% 6.5% 3/46 42.8 19.0 19.7 16.8 2.4% 4.8% 76 0 76 - 79 157 2.03% 28.3% 17/60 56 39 17 11h 1m 31 0.27
+935 22.5% 1,369 53 3.9% 16.3% 8/49 43.4 19.5 20.1 17.3 1.7% 2.8% 78 1 77 - 82 162 2.37% 50.0% 14/28 21 12 9 10 h 27m 42 0.19
+928 22.5% 1,370 59 4.3% 17.4% 8/46 42.5 20 20.7 17.8 1.8% 14.2% 78 1 77 - 86 177 2.39% 36.9% 31/84 76 46 30 10h 46m 16 0.10
+738 20.6% 1,282 61 4.8% 15.4% 6/39 43.7 19.4 20.3 15.9 1.4% 1.9% 90 1 89 - 73 176 2.56% 14.3% 2/14 3 2 1 12h 11m 9 0
+733 20.9% 1,206 72 6.0% 17.6% 9/51 44.8 20.4 21.4 16.9 3.1% 3.8% 89 0 89 - 80 210 2.65% 38.2% 21/55 39 20 19 8h 34m 23 0.10
+728 21.2% 1,228 86 7.0% 21.3% 13/61 45.3 20.8 21.9 16.9 2.5% 3.4% 97 5 92 - 75 214 2.84% 44.3% 31/70 43 23 20 9h 44m 19 0.10
+732 21.5% 1,250 100 8.0% 23.9% 17/71 45.3 21.2 22.3 17.3 2.2% 11.4% 105 6 99 58 90 221 2.88% 36.3% 33/91 57 32 25 10h 28m 17 0.20
+            Ratio of women in management
+Average age
+Average years of employment
+                        ▲
+              Number of users of spousal maternity leave program
+Number of users of short working hours program for childcare
+Personal development expenses (thousands of yen)(per employee)
+Percentage of handicapped employees
+Female rate in the annual hired (Female/Total)
+                 Number of hired new graduates
+Average monthly overtime hours (per non-management employee)
+Number of work-related accidents
+Frequency of work-related injuries that resulted in more than 4 days of work lost (per million hours of actual work)
+Number of work-related fatalities
+Number of cases of work-related occupational illness
+Average days of paid holidays taken (per non-management employee)
+Total
+Male Female
+▲
+Employee
+Contractor ▲Employee
+Contractor ▲Employee Contractor
+▲
+11h 10m 11 0.15 0000000000 0000001000 0000000000 0000001000 0000000000
+                                      13.7 13.9 12.7 12.3 12.1 12.1 12.4 12.9 13.5 12.5
+*1 Based on the number of fulltime Eisai Co., Ltd. employees including employees dispatched to Eisai Network Companies (ENW) *2 Based on the number of employees disclosed in Annual Securities Report (Eisai Co., Ltd. employees include those dispatched from ENW and exclude the ones to ENW) *3 Self-directed retirement only, not including mandatory retirement due to age, voluntary retirement, etc. *4 Covering all types of retirement such as self-directed retirement, mandatory retirement due to age, voluntary retirement, etc. *5 Childcare leave program Entitlement: Workers who have served the company for 1 year or more and requested childcare leave for child/children under the age of 3 Period: By the day of the employee’s request before the child/children reach the age of 3
+Company Introduction Management Strategies Value Creation Activities Financial Base Initiatives to Enhance Non-Financial Capital Appendix
+*6 Spousal maternity leave program (Commenced in April 2018) Entitlement: Workers whose partner gave birth Period: Up to 5 days of special paid holidays *7 Personal development expenses include training, studying abroad, participation in academic conferences *8 Not including employees who joined the company midway
+For further details of ESG indices, please refer to Eisai’s Corporate Website. ▶ https://www.eisai.com/sustainability/management/pdf/esg_index.pdf
+64
+Eisai Integrated Report 2020
