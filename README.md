@@ -9,6 +9,8 @@ We take advantage of integrated reports as the source of our dataset. An integra
 
 See the list of links to the original Integrated Reports from [here](https://github.com/shinichiromizuno/QueryMultiTopic/blob/master/List_of_Links_to_Inregrated_Report.txt).
  
+Dataset is available from [here](https://github.com/shinichiromizuno/QueryMultiTopic/tree/master/DatasetSDGs).
+
 # Usage
 
 1. Download the source codes in your Google Drive (git clone).
