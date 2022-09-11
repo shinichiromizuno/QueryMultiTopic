@@ -19,4 +19,4 @@ See the list of links to the original Integrated Reports from [here](https://git
  
 # Note
 
-The original source code was borrowed from [BertTSum](https://github.com/nlpyang/BertSum). 
+The original source code was borrowed from [BertSum](https://github.com/nlpyang/BertSum). 
