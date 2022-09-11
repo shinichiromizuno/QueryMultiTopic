@@ -13,7 +13,7 @@ See the list of links to the original Integrated Reports from [here](https://git
 
 1. Download the source codes in your Google Drive (git clone).
 2. Create empty working directories for each model (such as work_BERT_Base) in your Google Drive.
-3. Open Collab Notebooks in your Google Colaboratory and execute stepy by step.
+3. Open Collab Notebooks in your Google Colaboratory and execute step by step.
    Due to the dependency of dataset preprocessing, you may want to execute the notebooks in the following order;
    BERT_Base.ipynb -> Multi_BERTSum.ipynb -> Any other notebooks
  
